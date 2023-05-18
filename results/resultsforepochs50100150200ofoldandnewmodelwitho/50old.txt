@@ -1,0 +1,301 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f250478d4f0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0010427	Loss_G:0.0100920	loss_E:-0.0087991
+Epoch   1	Iter   11	Loss_D:-0.0057730	Loss_G:0.0136068	loss_E:-0.0070545
+Epoch   1	Iter   21	Loss_D:-0.0125651	Loss_G:0.0171416	loss_E:-0.0035278
+Epoch   2	Iter    1	Loss_D:-0.0144165	Loss_G:0.0176922	loss_E:-0.0022075
+Epoch   2	Iter   11	Loss_D:-0.0227107	Loss_G:0.0211051	loss_E:0.0028683
+Epoch   2	Iter   21	Loss_D:-0.0318882	Loss_G:0.0247638	loss_E:0.0083759
+Epoch   3	Iter    1	Loss_D:-0.0341897	Loss_G:0.0254902	loss_E:0.0099351
+Epoch   3	Iter   11	Loss_D:-0.0424690	Loss_G:0.0295708	loss_E:0.0140960
+Epoch   3	Iter   21	Loss_D:-0.0496269	Loss_G:0.0333398	loss_E:0.0173470
+Epoch   4	Iter    1	Loss_D:-0.0522732	Loss_G:0.0340410	loss_E:0.0192678
+Epoch   4	Iter   11	Loss_D:-0.0584039	Loss_G:0.0376984	loss_E:0.0216511
+Epoch   4	Iter   21	Loss_D:-0.0632542	Loss_G:0.0405563	loss_E:0.0235760
+Epoch   5	Iter    1	Loss_D:-0.0638355	Loss_G:0.0411570	loss_E:0.0234935
+Epoch   5	Iter   11	Loss_D:-0.0687170	Loss_G:0.0437544	loss_E:0.0257237
+Epoch   5	Iter   21	Loss_D:-0.0722654	Loss_G:0.0463962	loss_E:0.0265501
+Epoch   6	Iter    1	Loss_D:-0.0733668	Loss_G:0.0466529	loss_E:0.0273756
+Epoch   6	Iter   11	Loss_D:-0.0755434	Loss_G:0.0487792	loss_E:0.0274128
+Epoch   6	Iter   21	Loss_D:-0.0791234	Loss_G:0.0504757	loss_E:0.0292319
+Epoch   7	Iter    1	Loss_D:-0.0793423	Loss_G:0.0507445	loss_E:0.0291723
+Epoch   7	Iter   11	Loss_D:-0.0819036	Loss_G:0.0524159	loss_E:0.0300066
+Epoch   7	Iter   21	Loss_D:-0.0831808	Loss_G:0.0536805	loss_E:0.0299883
+Epoch   8	Iter    1	Loss_D:-0.0826613	Loss_G:0.0535797	loss_E:0.0295364
+Epoch   8	Iter   11	Loss_D:-0.0853141	Loss_G:0.0545036	loss_E:0.0312345
+Epoch   8	Iter   21	Loss_D:-0.0845649	Loss_G:0.0554930	loss_E:0.0294619
+Epoch   9	Iter    1	Loss_D:-0.0853698	Loss_G:0.0556570	loss_E:0.0300940
+Epoch   9	Iter   11	Loss_D:-0.0872198	Loss_G:0.0561415	loss_E:0.0314249
+Epoch   9	Iter   21	Loss_D:-0.0890976	Loss_G:0.0564742	loss_E:0.0329528
+Epoch  10	Iter    1	Loss_D:-0.0884652	Loss_G:0.0569102	loss_E:0.0318907
+Epoch  10	Iter   11	Loss_D:-0.0884640	Loss_G:0.0567603	loss_E:0.0320034
+Epoch  10	Iter   21	Loss_D:-0.0894114	Loss_G:0.0582974	loss_E:0.0314690
+Epoch  10	Loss_D_avg:-0.0615486	Loss_G_avg:0.0414324	loss_E_avg:0.0208184
+['black', 'tend', 'followup', 'turkish', 'begin', 'step', 'wonder', 'spacecraft', 'xterm', 'low', 'sox', 'ryan', 'alt', 'education', 'rock']
+['direction', 'begin', 'link', 'significant', 'obtain', 'education', 'federal', 'strange', 'road', 'damn', 'tip', 'original', 'rocket', 'passage', 'junk']
+['appear', 'federal', 'pull', 'gl', 'mile', 'remove', 'person', 'tough', 'specifically', 'reader', 'meaning', 'adapter', 'own', 'signal', 'gordon']
+['xterm', 'link', 'item', 'software', 'observation', 'appear', 'particular', 'okay', 'normally', 'station', 'tear', 'genocide', 'advantage', 'duty', 'swap']
+['partner', 'nhl', 'desire', 'box', 'plan', 'heavy', 'anti', 'question', 'reader', 'observation', 'gl', 'red', 'tear', 'black', 'brake']
+['tv', 'excuse', 'worth', 'addition', 'turbo', 'xman', 'beat', 'designate', 'action', 'door', 'tear', 'well', 'damn', 'single', 'normal']
+['d', 'single', 'begin', 'victim', 'local', 'task', 'wrap', 'helpful', 'noise', 'reveal', 'result', 'ncd', 'user', 'gl', 'east']
+['table', 'obtain', 'box', 'parent', 'right', 'legal', 'beat', 'jersey', 'today', 'soul', 'person', 'respond', 'live', 'vote', 'turkish']
+['classic', 'black', 'border', 'live', 'observation', 'effective', 'noise', 'russian', 'francis', 'helpful', 'table', 'parent', 'tough', 'typical', 'right']
+['shift', 'turbo', 'program', 'unit', 'teach', 'box', 'connection', 'heavy', 'parent', 'test', 'loss', 'technical', 'call', 'murder', 'pub']
+['cylinder', 'joseph', 'sick', 'toyota', 'destroy', 'cancer', 'internet', 'witness', 'rest', 'middle', 'parent', 'heavy', 'safety', 'lewis', 'instrument']
+['usual', 'industry', 'session', 'bus', 'expansion', 'middle', 'link', 'principle', 'brake', 'word', 'ah', 'xterm', 'resistance', 'load', 'innocent']
+['live', 'link', 'attribute', 'civil', 'reader', 'true', 'own', 'table', 'worth', 'western', 'nhl', 'destroy', 'rocket', 'oz', 'today']
+['concerned', 'fourth', 'xman', 'begin', 'decision', 'unix', 'civil', 'dod', 'go', 'motorcycle', 'fantasy', 'bo', 'parent', 'standard', 'particularly']
+['watt', 'boston', 'probably', 'training', 'question', 'link', 'turbo', 'shape', 'philosophy', 'partner', 'tek', 'followup', 'red', 'western', 'cancer']
+['resistance', 'tech', 'black', 'begin', 'parent', 'western', 'item', 'correctly', 'okay', 'xterm', 'research', 'vote', 'current', 'refer', 'boston']
+['reverse', 'choice', 'fat', 'care', 'shape', 'spec', 'jason', 'observation', 'today', 'select', 'presence', 'starter', 'western', 'brake', 'bd']
+['fix', 'victim', 'advantage', 'tv', 'christianity', 'micro', 'cc', 'motif', 'brake', 'element', 'philadelphia', 'liquid', 'human', 'resistance', 'fourth']
+['gordon', 'shift', 'begin', 'expansion', 'datum', 'technician', 'feature', 'note', 'worth', 'curious', 'bo', 'oops', 'isthe', 'amp', 'obtain']
+['brake', 'ncd', 'regardless', 'bo', 'analysis', 'specify', 'eat', 'rotation', 'satellite', 'lewis', 'turbo', 'black', 'spec', 'tek', 'begin']
+==============================
+topic diversity:0.67
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36951588860556994, c_w2v:None, c_uci:-8.912439361878778, c_npmi:-0.31414681762753527
+mimno topic coherence:-269.84883318026414
+Epoch  11	Iter    1	Loss_D:-0.0882711	Loss_G:0.0575200	loss_E:0.0310693
+Epoch  11	Iter   11	Loss_D:-0.0898685	Loss_G:0.0576038	loss_E:0.0325616
+Epoch  11	Iter   21	Loss_D:-0.0892010	Loss_G:0.0581312	loss_E:0.0313753
+Epoch  12	Iter    1	Loss_D:-0.0880934	Loss_G:0.0575552	loss_E:0.0308468
+Epoch  12	Iter   11	Loss_D:-0.0892668	Loss_G:0.0579152	loss_E:0.0316445
+Epoch  12	Iter   21	Loss_D:-0.0896609	Loss_G:0.0576733	loss_E:0.0322648
+Epoch  13	Iter    1	Loss_D:-0.0894443	Loss_G:0.0579526	loss_E:0.0317588
+Epoch  13	Iter   11	Loss_D:-0.0875195	Loss_G:0.0580879	loss_E:0.0297073
+Epoch  13	Iter   21	Loss_D:-0.0903159	Loss_G:0.0580437	loss_E:0.0325403
+Epoch  14	Iter    1	Loss_D:-0.0884192	Loss_G:0.0577362	loss_E:0.0309601
+Epoch  14	Iter   11	Loss_D:-0.0856732	Loss_G:0.0577480	loss_E:0.0282020
+Epoch  14	Iter   21	Loss_D:-0.0865719	Loss_G:0.0584657	loss_E:0.0283837
+Epoch  15	Iter    1	Loss_D:-0.0868713	Loss_G:0.0579175	loss_E:0.0292208
+Epoch  15	Iter   11	Loss_D:-0.0871917	Loss_G:0.0578794	loss_E:0.0295756
+Epoch  15	Iter   21	Loss_D:-0.0878006	Loss_G:0.0582177	loss_E:0.0298309
+Epoch  16	Iter    1	Loss_D:-0.0880862	Loss_G:0.0586010	loss_E:0.0297414
+Epoch  16	Iter   11	Loss_D:-0.0867654	Loss_G:0.0579341	loss_E:0.0290880
+Epoch  16	Iter   21	Loss_D:-0.0865882	Loss_G:0.0576090	loss_E:0.0292137
+Epoch  17	Iter    1	Loss_D:-0.0853840	Loss_G:0.0575103	loss_E:0.0281451
+Epoch  17	Iter   11	Loss_D:-0.0860838	Loss_G:0.0578406	loss_E:0.0284772
+Epoch  17	Iter   21	Loss_D:-0.0856482	Loss_G:0.0574373	loss_E:0.0284505
+Epoch  18	Iter    1	Loss_D:-0.0839527	Loss_G:0.0575172	loss_E:0.0266833
+Epoch  18	Iter   11	Loss_D:-0.0846490	Loss_G:0.0575151	loss_E:0.0273794
+Epoch  18	Iter   21	Loss_D:-0.0853250	Loss_G:0.0573144	loss_E:0.0282591
+Epoch  19	Iter    1	Loss_D:-0.0847179	Loss_G:0.0567601	loss_E:0.0281893
+Epoch  19	Iter   11	Loss_D:-0.0827887	Loss_G:0.0573140	loss_E:0.0257342
+Epoch  19	Iter   21	Loss_D:-0.0825974	Loss_G:0.0566988	loss_E:0.0261442
+Epoch  20	Iter    1	Loss_D:-0.0813590	Loss_G:0.0562341	loss_E:0.0253880
+Epoch  20	Iter   11	Loss_D:-0.0809215	Loss_G:0.0564511	loss_E:0.0247166
+Epoch  20	Iter   21	Loss_D:-0.0829109	Loss_G:0.0562571	loss_E:0.0269101
+Epoch  20	Loss_D_avg:-0.0739734	Loss_G_avg:0.0495069	loss_E_avg:0.0249502
+['turkish', 'tend', 'followup', 'black', 'step', 'begin', 'xterm', 'spacecraft', 'sox', 'ah', 'wonder', 'education', 'espn', 'oops', 'western']
+['direction', 'link', 'significant', 'begin', 'obtain', 'education', 'junk', 'tear', 'strange', 'federal', 'cancer', 'rocket', 'damn', 'road', 'rid']
+['gl', 'appear', 'federal', 'pull', 'remove', 'mile', 'specifically', 'tough', 'own', 'adapter', 'reader', 'meaning', 'person', 'gordon', 'signal']
+['link', 'xterm', 'observation', 'item', 'tear', 'normally', 'okay', 'particular', 'swap', 'software', 'appear', 'boston', 'advantage', 'loss', 'station']
+['desire', 'nhl', 'heavy', 'reader', 'gl', 'observation', 'box', 'plan', 'brake', 'anti', 'tear', 'satellite', 'question', 'red', 'obtain']
+['excuse', 'tv', 'addition', 'worth', 'turbo', 'beat', 'tear', 'door', 'action', 'wow', 'yup', 'cylinder', 'teaching', 'damn', 'xman']
+['d', 'victim', 'single', 'helpful', 'begin', 'noise', 'gl', 'brake', 'ncd', 'local', 'reveal', 'pen', 'wrap', 'east', 'te']
+['table', 'obtain', 'parent', 'box', 'join', 'jersey', 'beat', 'turkish', 'tek', 'legal', 'vote', 'today', 'junk', 'soul', 'right']
+['border', 'classic', 'observation', 'black', 'effective', 'noise', 'francis', 'parent', 'table', 'russian', 'live', 'helpful', 'tough', 'brake', 'western']
+['shift', 'turbo', 'parent', 'unit', 'teach', 'connection', 'loss', 'heavy', 'program', 'box', 'pub', 'test', 'technical', 'visual', 'marriage']
+['cylinder', 'toyota', 'sick', 'cancer', 'witness', 'destroy', 'parent', 'heavy', 'jon', 'lewis', 'internet', 'engineering', 'boston', 'observation', 'middle']
+['industry', 'brake', 'usual', 'ah', 'expansion', 'link', 'session', 'bus', 'resistance', 'principle', 'xterm', 'middle', 'innocent', 'tear', 'correctly']
+['link', 'live', 'civil', 'reader', 'own', 'table', 'western', 'rocket', 'destroy', 'attribute', 'worth', 'true', 'resistance', 'nhl', 'cancer']
+['concerned', 'decision', 'parent', 'bo', 'civil', 'dod', 'speech', 'motorcycle', 'unix', 'begin', 'particularly', 'fantasy', 'navy', 'go', 'fourth']
+['watt', 'boston', 'link', 'training', 'turbo', 'tek', 'cancer', 'western', 'shape', 'affect', 'followup', 'd', 'question', 'probably', 'red']
+['resistance', 'tech', 'parent', 'western', 'correctly', 'boston', 'xterm', 'okay', 'vote', 'black', 'loss', 'begin', 'item', 'attention', 'batf']
+['reverse', 'choice', 'jason', 'shape', 'brake', 'observation', 'spec', 'care', 'western', 'select', 'fat', 'today', 'starter', 'alternative', 'fed']
+['fix', 'victim', 'brake', 'advantage', 'cc', 'element', 'christianity', 'philadelphia', 'resistance', 'tv', 'motif', 'bo', 'previous', 'listen', 'reverse']
+['gordon', 'shift', 'expansion', 'begin', 'bo', 'amp', 'oops', 'feature', 'curious', 'leafs', 'datum', 'bmw', 'sunday', 'worth', 'obtain']
+['brake', 'ncd', 'regardless', 'bo', 'satellite', 'lewis', 'turbo', 'tek', 'specify', 'analysis', 'fully', 'parent', 'eat', 'spec', 'addition']
+==============================
+topic diversity:0.6166666666666667
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3905290630870749, c_w2v:None, c_uci:-9.659891533619163, c_npmi:-0.340754370892438
+mimno topic coherence:-259.69822075340545
+Epoch  21	Iter    1	Loss_D:-0.0829884	Loss_G:0.0560857	loss_E:0.0271724
+Epoch  21	Iter   11	Loss_D:-0.0802436	Loss_G:0.0554953	loss_E:0.0250014
+Epoch  21	Iter   21	Loss_D:-0.0822890	Loss_G:0.0558601	loss_E:0.0266963
+Epoch  22	Iter    1	Loss_D:-0.0807486	Loss_G:0.0549212	loss_E:0.0260963
+Epoch  22	Iter   11	Loss_D:-0.0815578	Loss_G:0.0549627	loss_E:0.0268257
+Epoch  22	Iter   21	Loss_D:-0.0817055	Loss_G:0.0547331	loss_E:0.0272266
+Epoch  23	Iter    1	Loss_D:-0.0794793	Loss_G:0.0544290	loss_E:0.0253021
+Epoch  23	Iter   11	Loss_D:-0.0818732	Loss_G:0.0546894	loss_E:0.0274277
+Epoch  23	Iter   21	Loss_D:-0.0808780	Loss_G:0.0540794	loss_E:0.0270688
+Epoch  24	Iter    1	Loss_D:-0.0805681	Loss_G:0.0541835	loss_E:0.0266390
+Epoch  24	Iter   11	Loss_D:-0.0769310	Loss_G:0.0532408	loss_E:0.0239646
+Epoch  24	Iter   21	Loss_D:-0.0771703	Loss_G:0.0537736	loss_E:0.0236633
+Epoch  25	Iter    1	Loss_D:-0.0768236	Loss_G:0.0524382	loss_E:0.0246238
+Epoch  25	Iter   11	Loss_D:-0.0757951	Loss_G:0.0525965	loss_E:0.0234512
+Epoch  25	Iter   21	Loss_D:-0.0756383	Loss_G:0.0521420	loss_E:0.0237595
+Epoch  26	Iter    1	Loss_D:-0.0766816	Loss_G:0.0517241	loss_E:0.0251971
+Epoch  26	Iter   11	Loss_D:-0.0756875	Loss_G:0.0517643	loss_E:0.0241904
+Epoch  26	Iter   21	Loss_D:-0.0741458	Loss_G:0.0512786	loss_E:0.0231346
+Epoch  27	Iter    1	Loss_D:-0.0739113	Loss_G:0.0509750	loss_E:0.0232072
+Epoch  27	Iter   11	Loss_D:-0.0737881	Loss_G:0.0507134	loss_E:0.0233359
+Epoch  27	Iter   21	Loss_D:-0.0746159	Loss_G:0.0506896	loss_E:0.0241906
+Epoch  28	Iter    1	Loss_D:-0.0737540	Loss_G:0.0506191	loss_E:0.0234021
+Epoch  28	Iter   11	Loss_D:-0.0740911	Loss_G:0.0502541	loss_E:0.0241167
+Epoch  28	Iter   21	Loss_D:-0.0727922	Loss_G:0.0498592	loss_E:0.0232138
+Epoch  29	Iter    1	Loss_D:-0.0736758	Loss_G:0.0494251	loss_E:0.0245324
+Epoch  29	Iter   11	Loss_D:-0.0718924	Loss_G:0.0492012	loss_E:0.0229712
+Epoch  29	Iter   21	Loss_D:-0.0726416	Loss_G:0.0488156	loss_E:0.0241031
+Epoch  30	Iter    1	Loss_D:-0.0721954	Loss_G:0.0489044	loss_E:0.0235819
+Epoch  30	Iter   11	Loss_D:-0.0707574	Loss_G:0.0486073	loss_E:0.0224324
+Epoch  30	Iter   21	Loss_D:-0.0691994	Loss_G:0.0481280	loss_E:0.0213799
+Epoch  30	Loss_D_avg:-0.0748103	Loss_G_avg:0.0503889	loss_E_avg:0.0248325
+['turkish', 'tend', 'sox', 'xterm', 'step', 'black', 'ah', 'begin', 'espn', 'western', 'followup', 'boston', 'oops', 'subscribe', 'wonder']
+['direction', 'link', 'begin', 'significant', 'obtain', 'tear', 'cancer', 'education', 'bo', 'junk', 'federal', 'rocket', 'rid', 'damn', 'gee']
+['gl', 'appear', 'federal', 'own', 'specifically', 'pull', 'adapter', 'remove', 'mile', 'reader', 'meaning', 'tough', 'espn', 'gordon', 'independent']
+['link', 'xterm', 'tear', 'observation', 'item', 'swap', 'na', 'okay', 'boston', 'advantage', 'normally', 'loss', 'particular', 'batf', 'appear']
+['desire', 'gl', 'nhl', 'heavy', 'reader', 'tear', 'observation', 'satellite', 'box', 'anti', 'plan', 'brake', 'batf', 'witness', 'obtain']
+['excuse', 'tv', 'addition', 'turbo', 'tear', 'worth', 'beat', 'yup', 'wow', 'cylinder', 'teaching', 'engineering', 'door', 'action', 'gordon']
+['d', 'gl', 'single', 'helpful', 'noise', 'begin', 'pen', 'brake', 'ncd', 'batf', 'border', 'local', 'hopefully', 'east', 'shaft']
+['parent', 'table', 'obtain', 'join', 'box', 'beat', 'turkish', 'hawk', 'jersey', 'vote', 'hurt', 'wagon', 'junk', 'today', 'legal']
+['border', 'parent', 'effective', 'table', 'black', 'noise', 'observation', 'francis', 'helpful', 'russian', 'yup', 'remind', 'live', 'wave', 'western']
+['shift', 'turbo', 'parent', 'loss', 'connection', 'heavy', 'marriage', 'unit', 'teach', 'pub', 'visual', 'batf', 'tear', 'box', 'test']
+['cylinder', 'toyota', 'sick', 'cancer', 'witness', 'parent', 'destroy', 'jon', 'heavy', 'engineering', 'hint', 'boston', 'turbo', 'batf', 'internet']
+['ah', 'link', 'brake', 'usual', 'expansion', 'industry', 'xterm', 'tear', 'bus', 'resistance', 'table', 'correctly', 'innocent', 'middle', 'eh']
+['link', 'own', 'live', 'civil', 'reader', 'table', 'western', 'destroy', 'rocket', 'cancer', 'worth', 'witness', 'hawk', 'nhl', 'ah']
+['bo', 'parent', 'decision', 'civil', 'particularly', 'motorcycle', 'dod', 'unix', 'speech', 'begin', 'go', 'pitcher', 'shameful', 'addition', 'satellite']
+['watt', 'boston', 'link', 'cancer', 'turbo', 'western', 'affect', 'tradition', 'd', 'shape', 'necessarily', 'question', 'brother', 'training', 'lebanon']
+['resistance', 'parent', 'western', 'boston', 'xterm', 'correctly', 'batf', 'loss', 'tech', 'vote', 'attention', 'okay', 'compuserve', 'item', 'begin']
+['reverse', 'jason', 'choice', 'shape', 'western', 'brake', 'spec', 'select', 'observation', 'fed', 'care', 'alternative', 'today', 'pub', 'cc']
+['advantage', 'cc', 'fix', 'element', 'bo', 'brake', 'philadelphia', 'christianity', 'listen', 'previous', 'batf', 'fool', 'tv', 'reverse', 'motif']
+['gordon', 'shift', 'bo', 'expansion', 'leafs', 'amp', 'oops', 'begin', 'curious', 'bmw', 'sunday', 'pt', 'feature', 'gl', 'obtain']
+['bo', 'brake', 'regardless', 'ncd', 'satellite', 'turbo', 'parent', 'link', 'addition', 'border', 'spec', 'fully', 'listen', 'eat', 'turkish']
+==============================
+topic diversity:0.5766666666666667
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.40465802048119304, c_w2v:None, c_uci:-10.08988027263062, c_npmi:-0.35532785052614624
+mimno topic coherence:-282.49796575404525
+Epoch  31	Iter    1	Loss_D:-0.0698926	Loss_G:0.0480290	loss_E:0.0221415
+Epoch  31	Iter   11	Loss_D:-0.0683513	Loss_G:0.0474255	loss_E:0.0212102
+Epoch  31	Iter   21	Loss_D:-0.0673725	Loss_G:0.0471393	loss_E:0.0205155
+Epoch  32	Iter    1	Loss_D:-0.0688484	Loss_G:0.0467418	loss_E:0.0223931
+Epoch  32	Iter   11	Loss_D:-0.0671742	Loss_G:0.0465034	loss_E:0.0210007
+Epoch  32	Iter   21	Loss_D:-0.0666254	Loss_G:0.0459531	loss_E:0.0210040
+Epoch  33	Iter    1	Loss_D:-0.0680005	Loss_G:0.0453956	loss_E:0.0228996
+Epoch  33	Iter   11	Loss_D:-0.0658182	Loss_G:0.0454026	loss_E:0.0207098
+Epoch  33	Iter   21	Loss_D:-0.0666389	Loss_G:0.0449993	loss_E:0.0219278
+Epoch  34	Iter    1	Loss_D:-0.0662350	Loss_G:0.0443482	loss_E:0.0221805
+Epoch  34	Iter   11	Loss_D:-0.0640402	Loss_G:0.0440431	loss_E:0.0203068
+Epoch  34	Iter   21	Loss_D:-0.0654759	Loss_G:0.0444109	loss_E:0.0213836
+Epoch  35	Iter    1	Loss_D:-0.0618162	Loss_G:0.0436968	loss_E:0.0184305
+Epoch  35	Iter   11	Loss_D:-0.0633817	Loss_G:0.0431023	loss_E:0.0206145
+Epoch  35	Iter   21	Loss_D:-0.0608025	Loss_G:0.0425050	loss_E:0.0186284
+Epoch  36	Iter    1	Loss_D:-0.0635844	Loss_G:0.0416209	loss_E:0.0222863
+Epoch  36	Iter   11	Loss_D:-0.0632913	Loss_G:0.0419411	loss_E:0.0216482
+Epoch  36	Iter   21	Loss_D:-0.0625461	Loss_G:0.0411289	loss_E:0.0217500
+Epoch  37	Iter    1	Loss_D:-0.0609926	Loss_G:0.0406827	loss_E:0.0206327
+Epoch  37	Iter   11	Loss_D:-0.0615956	Loss_G:0.0408109	loss_E:0.0210911
+Epoch  37	Iter   21	Loss_D:-0.0603415	Loss_G:0.0409815	loss_E:0.0196786
+Epoch  38	Iter    1	Loss_D:-0.0599230	Loss_G:0.0400086	loss_E:0.0202503
+Epoch  38	Iter   11	Loss_D:-0.0591166	Loss_G:0.0399837	loss_E:0.0194494
+Epoch  38	Iter   21	Loss_D:-0.0572699	Loss_G:0.0399068	loss_E:0.0176857
+Epoch  39	Iter    1	Loss_D:-0.0600460	Loss_G:0.0394510	loss_E:0.0209249
+Epoch  39	Iter   11	Loss_D:-0.0557307	Loss_G:0.0392331	loss_E:0.0168136
+Epoch  39	Iter   21	Loss_D:-0.0541909	Loss_G:0.0386732	loss_E:0.0158647
+Epoch  40	Iter    1	Loss_D:-0.0572045	Loss_G:0.0383697	loss_E:0.0191690
+Epoch  40	Iter   11	Loss_D:-0.0533031	Loss_G:0.0377829	loss_E:0.0158361
+Epoch  40	Iter   21	Loss_D:-0.0536837	Loss_G:0.0385495	loss_E:0.0154863
+Epoch  40	Loss_D_avg:-0.0717185	Loss_G_avg:0.0484485	loss_E_avg:0.0236569
+['turkish', 'xterm', 'tend', 'step', 'black', 'begin', 'espn', 'shaft', 'sox', 'ah', 'wonder', 'boston', 'western', 'ditto', 'alt']
+['direction', 'link', 'begin', 'obtain', 'bo', 'federal', 'damn', 'rid', 'd', 'tear', 'rocket', 'road', 'stupid', 'espn', 'shift']
+['own', 'specifically', 'gl', 'appear', 'federal', 'pull', 'adapter', 'remove', 'reader', 'mile', 'espn', 'pen', 'gordon', 'ps', 'bo']
+['xterm', 'link', 'advantage', 'item', 'okay', 'boston', 'particular', 'na', 'appear', 'station', 'secret', 'swap', 'software', 'loss', 'commit']
+['reader', 'nhl', 'heavy', 'box', 'gl', 'anti', 'plan', 'obtain', 'specifically', 'turbo', 'fool', 'table', 'adapter', 'red', 'question']
+['excuse', 'turbo', 'tv', 'addition', 'worth', 'yup', 'beat', 'tear', 'action', 'door', 'gordon', 'damn', 'shift', 'wow', 'engineering']
+['d', 'noise', 'single', 'pen', 'shaft', 'begin', 'gl', 'se', 'batf', 'local', 'stupid', 'border', 'east', 'hopefully', 'hurt']
+['table', 'obtain', 'box', 'turkish', 'beat', 'parent', 'vote', 'today', 'exe', 'respond', 'hawk', 'hurt', 'legal', 'spell', 'test']
+['border', 'effective', 'table', 'noise', 'black', 'yup', 'wave', 'russian', 'live', 'bo', 'pen', 'spec', 'listen', 'shift', 'remind']
+['shift', 'turbo', 'connection', 'pub', 'unit', 'loss', 'box', 'test', 'teach', 'heavy', 'reader', 'marriage', 'ps', 'batf', 'program']
+['sick', 'toyota', 'hint', 'witness', 'turbo', 'heavy', 'cylinder', 'destroy', 'boston', 'engineering', 'cancer', 'cop', 'internet', 'quadra', 'safety']
+['link', 'xterm', 'ah', 'bus', 'table', 'reader', 'shift', 'load', 'middle', 'smith', 'washington', 'listen', 'michael', 'score', 'word']
+['link', 'own', 'reader', 'table', 'live', 'civil', 'western', 'worth', 'shaft', 'listen', 'nhl', 'favorite', 'today', 'rocket', 'hawk']
+['bo', 'motorcycle', 'dod', 'unix', 'begin', 'particularly', 'civil', 'pitcher', 'parent', 'go', 'standard', 'shameful', 'listen', 'xterm', 'espn']
+['boston', 'turbo', 'link', 'd', 'shape', 'western', 'necessarily', 'brother', 'question', 'table', 'red', 'reader', 'curious', 'cancer', 'probably']
+['xterm', 'boston', 'vote', 'okay', 'western', 'sys', 'batf', 'begin', 'item', 'black', 'loss', 'listen', 'compuserve', 'parent', 'final']
+['jason', 'choice', 'shape', 'spec', 'select', 'fed', 'stupid', 'cc', 'pub', 'today', 'alternative', 'bo', 'care', 'western', 'cop']
+['advantage', 'cc', 'fix', 'bo', 'christianity', 'listen', 'fool', 'previous', 'motif', 'tv', 'batf', 'smith', 'action', 'border', 'human']
+['shift', 'gordon', 'bo', 'leafs', 'amp', 'bmw', 'curious', 'begin', 'table', 'obtain', 'listen', 'feature', 'datum', 'worth', 'turkish']
+['bo', 'turbo', 'listen', 'spec', 'tony', 'link', 'turkish', 'christianity', 'border', 'eat', 'shift', 'addition', 'begin', 'table', 'colorado']
+==============================
+topic diversity:0.53
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.37186411981702583, c_w2v:None, c_uci:-9.418823419009804, c_npmi:-0.33217746026644035
+mimno topic coherence:-288.7311142231392
+Epoch  41	Iter    1	Loss_D:-0.0566537	Loss_G:0.0382737	loss_E:0.0186959
+Epoch  41	Iter   11	Loss_D:-0.0576959	Loss_G:0.0383820	loss_E:0.0196340
+Epoch  41	Iter   21	Loss_D:-0.0522372	Loss_G:0.0368334	loss_E:0.0157646
+Epoch  42	Iter    1	Loss_D:-0.0536667	Loss_G:0.0365676	loss_E:0.0174282
+Epoch  42	Iter   11	Loss_D:-0.0545286	Loss_G:0.0374138	loss_E:0.0174569
+Epoch  42	Iter   21	Loss_D:-0.0535823	Loss_G:0.0375678	loss_E:0.0163587
+Epoch  43	Iter    1	Loss_D:-0.0545030	Loss_G:0.0371970	loss_E:0.0176675
+Epoch  43	Iter   11	Loss_D:-0.0518395	Loss_G:0.0363694	loss_E:0.0158084
+Epoch  43	Iter   21	Loss_D:-0.0521867	Loss_G:0.0372363	loss_E:0.0152869
+Epoch  44	Iter    1	Loss_D:-0.0508713	Loss_G:0.0365021	loss_E:0.0147307
+Epoch  44	Iter   11	Loss_D:-0.0506587	Loss_G:0.0353000	loss_E:0.0156990
+Epoch  44	Iter   21	Loss_D:-0.0501121	Loss_G:0.0360625	loss_E:0.0144029
+Epoch  45	Iter    1	Loss_D:-0.0496062	Loss_G:0.0355338	loss_E:0.0144215
+Epoch  45	Iter   11	Loss_D:-0.0493983	Loss_G:0.0356235	loss_E:0.0141397
+Epoch  45	Iter   21	Loss_D:-0.0472469	Loss_G:0.0358717	loss_E:0.0117624
+Epoch  46	Iter    1	Loss_D:-0.0472509	Loss_G:0.0350754	loss_E:0.0125435
+Epoch  46	Iter   11	Loss_D:-0.0486419	Loss_G:0.0351908	loss_E:0.0138009
+Epoch  46	Iter   21	Loss_D:-0.0455855	Loss_G:0.0344605	loss_E:0.0115016
+Epoch  47	Iter    1	Loss_D:-0.0496807	Loss_G:0.0342393	loss_E:0.0158074
+Epoch  47	Iter   11	Loss_D:-0.0457074	Loss_G:0.0348412	loss_E:0.0112088
+Epoch  47	Iter   21	Loss_D:-0.0462821	Loss_G:0.0346772	loss_E:0.0119682
+Epoch  48	Iter    1	Loss_D:-0.0443844	Loss_G:0.0338435	loss_E:0.0109391
+Epoch  48	Iter   11	Loss_D:-0.0457776	Loss_G:0.0338786	loss_E:0.0123102
+Epoch  48	Iter   21	Loss_D:-0.0468908	Loss_G:0.0336463	loss_E:0.0136167
+Epoch  49	Iter    1	Loss_D:-0.0448203	Loss_G:0.0335046	loss_E:0.0116697
+Epoch  49	Iter   11	Loss_D:-0.0431083	Loss_G:0.0331836	loss_E:0.0103060
+Epoch  49	Iter   21	Loss_D:-0.0421161	Loss_G:0.0341227	loss_E:0.0083793
+Epoch  50	Iter    1	Loss_D:-0.0447789	Loss_G:0.0338465	loss_E:0.0113410
+Epoch  50	Iter   11	Loss_D:-0.0434286	Loss_G:0.0338843	loss_E:0.0099581
+Epoch  50	Iter   21	Loss_D:-0.0420938	Loss_G:0.0335651	loss_E:0.0089099
+Epoch  50	Loss_D_avg:-0.0671437	Loss_G_avg:0.0458434	loss_E_avg:0.0216823
+['xterm', 'tend', 'begin', 'black', 'turkish', 'step', 'wonder', 'alt', 'pub', 'eat', 'mhz', 'low', 'ball', 'reader', 'gordon']
+['direction', 'begin', 'federal', 'damn', 'd', 'stupid', 'test', 'road', 'patch', 'pub', 'original', 'rom', 'traffic', 'fan', 'wish']
+['appear', 'federal', 'pull', 'reader', 'remove', 'mile', 'pen', 'gordon', 'specifically', 'signal', 'item', 'person', 'ticket', 'excuse', 'own']
+['xterm', 'item', 'okay', 'particular', 'appear', 'station', 'software', 'advantage', 'circuit', 'cable', 'internet', 'reader', 'turbo', 'live', 'frame']
+['reader', 'nhl', 'box', 'anti', 'plan', 'red', 'turbo', 'dod', 'question', 'today', 'black', 'faq', 'gif', 'circuit', 'kent']
+['excuse', 'tv', 'turbo', 'worth', 'beat', 'gordon', 'action', 'door', 'damn', 'normal', 'christianity', 'well', 'single', 'motorola', 'd']
+['d', 'single', 'pen', 'begin', 'se', 'stupid', 'local', 'user', 'excuse', 'result', 'couple', 'black', 'dr', 'noise', 'unit']
+['box', 'beat', 'today', 'respond', 'spell', 'test', 'legal', 'spec', 'person', 'graphic', 'live', 'right', 'ac', 'frame', 'turkish']
+['effective', 'black', 'live', 'border', 'pen', 'spec', 'listen', 'today', 'begin', 'reader', 'device', 'noise', 'koresh', 'round', 'story']
+['turbo', 'connection', 'pub', 'test', 'shift', 'box', 'unit', 'reader', 'program', 'ac', 'technical', 'call', 'quality', 'today', 'graphic']
+['sick', 'turbo', 'internet', 'quadra', 'spec', 'safety', 'rest', 'user', 'copy', 'cop', 'remove', 'couple', 'john', 'human', 'os']
+['xterm', 'bus', 'reader', 'load', 'michael', 'listen', 'score', 'word', 'bet', 'ball', 'remove', 'unit', 'k', 'connection', 'begin']
+['reader', 'live', 'worth', 'today', 'listen', 'nhl', 'own', 'true', 'stupid', 'spec', 'tend', 'ticket', 'test', 'jewish', 'john']
+['motorcycle', 'unix', 'dod', 'begin', 'pitcher', 'go', 'standard', 'listen', 'xterm', 'worth', 'thank', 'station', 'bo', 'total', 'red']
+['turbo', 'd', 'reader', 'red', 'question', 'curious', 'league', 'shape', 'probably', 'gif', 'listen', 'battery', 'pen', 'tony', 'mike']
+['xterm', 'okay', 'begin', 'item', 'black', 'listen', 'refer', 'effective', 'motif', 'league', 'mile', 'research', 'dollar', 'one', 'pub']
+['choice', 'spec', 'stupid', 'pub', 'today', 'care', 'shape', 'tend', 'business', 'cc', 'koresh', 'reader', 'tire', 'total', 'publish']
+['fix', 'christianity', 'advantage', 'cc', 'listen', 'motif', 'tv', 'action', 'human', 'fan', 'result', 'ball', 'rest', 'question', 'command']
+['gordon', 'curious', 'begin', 'listen', 'worth', 'datum', 'feature', 'bmw', 'reader', 'stat', 'note', 'amp', 'shift', 'tool', 'pen']
+['turbo', 'listen', 'spec', 'eat', 'begin', 'christianity', 'today', 'one', 'willing', 'tony', 'black', 'water', 'station', 'bo', 'draw']
+==============================
+topic diversity:0.52
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.28462374327937845, c_w2v:None, c_uci:-7.422853978272629, c_npmi:-0.26235903946607814
+mimno topic coherence:-302.7113345793309
+topic diversity:0.52
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.28462374327937845, c_w2v:None, c_uci:-7.422853978272629, c_npmi:-0.26235903946607814
+mimno topic coherence:-302.7113345793309

@@ -1,0 +1,2437 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f56646b7b20>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+inside train
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 19% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:-0.1324823	Loss_G:6.9335480	loss_E:0.0100919
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-6.8813667	Loss_G:13.8736134	loss_E:0.0081189
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-16.3895226	Loss_G:23.4524155	loss_E:0.0052150
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-17.4233284	Loss_G:24.4064560	loss_E:0.0049312
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-28.1311913	Loss_G:35.1735992	loss_E:0.0019006
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-37.9283028	Loss_G:44.8101387	loss_E:-0.0013312
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-39.8551254	Loss_G:46.7077713	loss_E:-0.0016082
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-49.2045784	Loss_G:55.8425255	loss_E:-0.0045986
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-58.6091957	Loss_G:65.0151443	loss_E:-0.0075069
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-59.9948807	Loss_G:66.3439331	loss_E:-0.0077504
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-67.8874283	Loss_G:74.0392685	loss_E:-0.0104135
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-77.2587738	Loss_G:83.2824631	loss_E:-0.0129626
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-79.3884354	Loss_G:85.3368683	loss_E:-0.0132255
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-83.2730103	Loss_G:88.9690247	loss_E:-0.0156498
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-90.6513138	Loss_G:96.2002258	loss_E:-0.0179400
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-92.8283691	Loss_G:98.3114624	loss_E:-0.0181660
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-99.5788193	Loss_G:104.9068298	loss_E:-0.0201921
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-108.6892929	Loss_G:113.9137802	loss_E:-0.0221644
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-107.5178223	Loss_G:112.6199722	loss_E:-0.0224019
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-115.3643951	Loss_G:120.3345032	loss_E:-0.0242400
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-119.7270508	Loss_G:124.5399323	loss_E:-0.0260610
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-121.1264496	Loss_G:125.8479385	loss_E:-0.0262719
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-128.3832855	Loss_G:133.0025635	loss_E:-0.0279371
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-131.8893585	Loss_G:136.3329926	loss_E:-0.0295721
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-136.1217499	Loss_G:140.5170593	loss_E:-0.0297502
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-136.3066254	Loss_G:140.5164490	loss_E:-0.0312511
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-144.6990509	Loss_G:148.8073273	loss_E:-0.0326814
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-143.0394592	Loss_G:147.0584412	loss_E:-0.0328098
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-141.4871521	Loss_G:145.3139343	loss_E:-0.0341197
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-154.8445740	Loss_G:158.6223297	loss_E:-0.0353791
+Epoch  10	Loss_D_avg:-86.4870797	Loss_G_avg:92.0344170	loss_E_avg:-0.0158576
+['basically', 'generally', 'imprison', 'concept', 'atheist', 'look', 'apply', 'idea', 'absolute', 'deletion', 'base', 'disease', 'gas', 'pretty', 'man']
+['look', 'basically', 'generally', 'absolute', 'pretty', 'gas', 'concept', 'idea', 'total', 'solution', 'deletion', 'disease', 'imprison', 'atheist', 'apply']
+['idea', 'look', 'basically', 'absolute', 'solution', 'atheist', 'pretty', 'bible', 'concept', 'apply', 'generally', 'gas', 'imprison', 'total', 'base']
+['concept', 'pretty', 'idea', 'atheist', 'basically', 'bible', 'absolute', 'apply', 'gas', 'look', 'disease', 'solution', 'generally', 'total', 'bad']
+['look', 'idea', 'absolute', 'pretty', 'generally', 'concept', 'atheist', 'solution', 'imprison', 'basically', 'apply', 'base', 'gas', 'deletion', 'know']
+['idea', 'concept', 'solution', 'basically', 'pretty', 'atheist', 'look', 'generally', 'total', 'imprison', 'apply', 'camp', 'bible', 'absolute', 'disease']
+['basically', 'look', 'man', 'generally', 'absolute', 'idea', 'concept', 'atheist', 'apply', 'imprison', 'base', 'bible', 'pretty', 'disease', 'infinity']
+['basically', 'pretty', 'solution', 'idea', 'concept', 'absolute', 'look', 'generally', 'apply', 'gas', 'imprison', 'disease', 'man', 'total', 'atheist']
+['basically', 'pretty', 'generally', 'absolute', 'deletion', 'imprison', 'total', 'look', 'idea', 'concept', 'solution', 'bible', 'atheist', 'round', 'man']
+['atheist', 'pretty', 'concept', 'idea', 'basically', 'apply', 'absolute', 'look', 'gas', 'solution', 'infinity', 'imprison', 'trial', 'deletion', 'generally']
+['atheist', 'idea', 'concept', 'pretty', 'solution', 'look', 'apply', 'absolute', 'generally', 'imprison', 'total', 'basically', 'gas', 'bible', 'deletion']
+['basically', 'pretty', 'look', 'idea', 'apply', 'concept', 'total', 'absolute', 'imprison', 'atheist', 'man', 'deletion', 'bible', 'solution', 'round']
+['idea', 'concept', 'absolute', 'pretty', 'basically', 'look', 'generally', 'apply', 'base', 'atheist', 'die', 'disease', 'deletion', 'gas', 'solution']
+['look', 'gas', 'basically', 'generally', 'concept', 'apply', 'solution', 'absolute', 'pretty', 'idea', 'bad', 'disease', 'infinity', 'base', 'imprison']
+['concept', 'look', 'atheist', 'pretty', 'idea', 'imprison', 'basically', 'solution', 'base', 'gas', 'apply', 'absolute', 'total', 'generally', 'deletion']
+['idea', 'generally', 'basically', 'look', 'total', 'pretty', 'absolute', 'imprison', 'atheist', 'deletion', 'man', 'base', 'solution', 'concept', 'infinity']
+['basically', 'look', 'generally', 'solution', 'atheist', 'pretty', 'absolute', 'idea', 'imprison', 'concept', 'man', 'apply', 'disease', 'infinity', 'total']
+['basically', 'atheist', 'look', 'idea', 'generally', 'solution', 'pretty', 'concept', 'absolute', 'disease', 'imprison', 'apply', 'total', 'bible', 'base']
+['absolute', 'look', 'basically', 'idea', 'concept', 'total', 'generally', 'imprison', 'pretty', 'solution', 'deletion', 'apply', 'atheist', 'bible', 'die']
+['atheist', 'look', 'idea', 'pretty', 'basically', 'absolute', 'generally', 'bible', 'gas', 'imprison', 'total', 'solution', 'concept', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'absolute', 'imprison', 'solution', 'generally', 'pretty', 'concept', 'bible', 'deletion', 'base', 'die', 'apply']
+['concept', 'basically', 'look', 'idea', 'absolute', 'atheist', 'generally', 'apply', 'bible', 'round', 'solution', 'imprison', 'deletion', 'total', 'pretty']
+['idea', 'basically', 'apply', 'pretty', 'concept', 'generally', 'look', 'bible', 'atheist', 'absolute', 'gas', 'imprison', 'infinity', 'solution', 'bad']
+['absolute', 'look', 'total', 'pretty', 'solution', 'atheist', 'imprison', 'bible', 'basically', 'concept', 'generally', 'apply', 'deletion', 'man', 'idea']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'solution', 'atheist', 'bible', 'total', 'pretty', 'disease', 'deletion', 'apply', 'imprison']
+['basically', 'concept', 'pretty', 'look', 'infinity', 'way', 'generally', 'idea', 'deletion', 'imprison', 'absolute', 'die', 'solution', 'happen', 'disease']
+['basically', 'idea', 'apply', 'concept', 'generally', 'solution', 'pretty', 'imprison', 'atheist', 'deletion', 'gas', 'look', 'total', 'absolute', 'disease']
+['gas', 'look', 'basically', 'absolute', 'apply', 'generally', 'concept', 'pretty', 'solution', 'bible', 'idea', 'total', 'atheist', 'ii', 'imprison']
+['basically', 'generally', 'look', 'concept', 'absolute', 'atheist', 'solution', 'idea', 'imprison', 'pretty', 'man', 'apply', 'bad', 'bible', 'die']
+['idea', 'basically', 'absolute', 'concept', 'generally', 'total', 'round', 'apply', 'imprison', 'solution', 'pretty', 'look', 'man', 'atheist', 'gas']
+['basically', 'generally', 'total', 'idea', 'gas', 'pretty', 'absolute', 'look', 'solution', 'apply', 'explain', 'concept', 'deletion', 'atheist', 'disease']
+['basically', 'apply', 'look', 'atheist', 'concept', 'absolute', 'idea', 'generally', 'imprison', 'pretty', 'gas', 'bad', 'solution', 'man', 'total']
+['look', 'solution', 'concept', 'basically', 'absolute', 'apply', 'idea', 'gas', 'imprison', 'pretty', 'bad', 'atheist', 'generally', 'bible', 'final']
+['idea', 'generally', 'basically', 'look', 'absolute', 'pretty', 'solution', 'deletion', 'apply', 'concept', 'imprison', 'atheist', 'citizen', 'base', 'total']
+['idea', 'concept', 'generally', 'basically', 'pretty', 'solution', 'infinity', 'gas', 'deletion', 'total', 'look', 'absolute', 'apply', 'man', 'imprison']
+['idea', 'basically', 'generally', 'deletion', 'concept', 'gas', 'apply', 'look', 'absolute', 'atheist', 'infinity', 'disease', 'pretty', 'solution', 'imprison']
+['basically', 'look', 'concept', 'apply', 'pretty', 'idea', 'atheist', 'bad', 'absolute', 'gas', 'imprison', 'solution', 'total', 'ii', 'trial']
+['apply', 'idea', 'look', 'gas', 'solution', 'imprison', 'pretty', 'generally', 'basically', 'absolute', 'atheist', 'total', 'bible', 'concept', 'deletion']
+['basically', 'idea', 'pretty', 'absolute', 'solution', 'gas', 'concept', 'atheist', 'look', 'deletion', 'base', 'imprison', 'apply', 'generally', 'man']
+['basically', 'pretty', 'concept', 'solution', 'absolute', 'total', 'idea', 'look', 'generally', 'man', 'atheist', 'apply', 'imprison', 'bible', 'deletion']
+['absolute', 'apply', 'look', 'generally', 'concept', 'pretty', 'total', 'basically', 'idea', 'bible', 'gas', 'bad', 'round', 'ii', 'atheist']
+['basically', 'gas', 'concept', 'idea', 'total', 'look', 'pretty', 'absolute', 'apply', 'bible', 'generally', 'final', 'imprison', 'deletion', 'base']
+['look', 'basically', 'generally', 'pretty', 'concept', 'absolute', 'idea', 'solution', 'gas', 'total', 'apply', 'disease', 'man', 'bad', 'deletion']
+['basically', 'absolute', 'look', 'generally', 'atheist', 'concept', 'man', 'solution', 'apply', 'gas', 'idea', 'infinity', 'imprison', 'round', 'deletion']
+['look', 'generally', 'concept', 'basically', 'idea', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'disease', 'deletion']
+['basically', 'apply', 'look', 'pretty', 'concept', 'absolute', 'solution', 'atheist', 'generally', 'imprison', 'bad', 'total', 'bible', 'gas', 'idea']
+['basically', 'idea', 'concept', 'pretty', 'apply', 'solution', 'deletion', 'gas', 'generally', 'absolute', 'look', 'atheist', 'disease', 'bad', 'die']
+['look', 'absolute', 'basically', 'total', 'generally', 'pretty', 'concept', 'apply', 'little', 'idea', 'die', 'solution', 'deletion', 'bible', 'final']
+['atheist', 'idea', 'generally', 'pretty', 'basically', 'apply', 'solution', 'look', 'concept', 'gas', 'absolute', 'bible', 'imprison', 'explain', 'total']
+['idea', 'look', 'apply', 'absolute', 'basically', 'total', 'concept', 'pretty', 'solution', 'man', 'deletion', 'ii', 'imprison', 'generally', 'base']
+['concept', 'absolute', 'basically', 'idea', 'apply', 'look', 'pretty', 'generally', 'atheist', 'imprison', 'man', 'total', 'solution', 'infinity', 'deletion']
+['look', 'absolute', 'basically', 'apply', 'idea', 'atheist', 'concept', 'pretty', 'gas', 'disease', 'bad', 'generally', 'imprison', 'solution', 'deletion']
+['basically', 'atheist', 'absolute', 'concept', 'idea', 'apply', 'look', 'generally', 'pretty', 'imprison', 'deletion', 'solution', 'bad', 'bible', 'gas']
+['basically', 'pretty', 'concept', 'absolute', 'apply', 'imprison', 'idea', 'look', 'solution', 'deletion', 'generally', 'bad', 'man', 'bible', 'die']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'look', 'pretty', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'round', 'explain']
+['basically', 'generally', 'concept', 'idea', 'deletion', 'absolute', 'pretty', 'apply', 'solution', 'total', 'disease', 'bible', 'bad', 'look', 'imprison']
+['basically', 'idea', 'look', 'pretty', 'apply', 'absolute', 'concept', 'generally', 'infinity', 'imprison', 'atheist', 'deletion', 'solution', 'gas', 'disease']
+['solution', 'pretty', 'concept', 'atheist', 'basically', 'idea', 'apply', 'absolute', 'bible', 'generally', 'gas', 'deletion', 'total', 'look', 'round']
+['concept', 'basically', 'look', 'idea', 'generally', 'apply', 'absolute', 'explain', 'pretty', 'solution', 'disease', 'bible', 'deletion', 'gas', 'atheist']
+['basically', 'solution', 'gas', 'concept', 'idea', 'absolute', 'pretty', 'imprison', 'atheist', 'look', 'total', 'man', 'final', 'generally', 'explain']
+['idea', 'concept', 'pretty', 'solution', 'basically', 'deletion', 'total', 'gas', 'absolute', 'apply', 'bible', 'imprison', 'look', 'generally', 'base']
+['concept', 'apply', 'absolute', 'pretty', 'look', 'gas', 'basically', 'atheist', 'idea', 'round', 'generally', 'solution', 'man', 'explain', 'imprison']
+['basically', 'look', 'generally', 'idea', 'atheist', 'imprison', 'absolute', 'pretty', 'solution', 'concept', 'apply', 'deletion', 'disease', 'base', 'total']
+['basically', 'concept', 'generally', 'look', 'solution', 'imprison', 'atheist', 'idea', 'die', 'pretty', 'apply', 'round', 'absolute', 'man', 'bad']
+['basically', 'absolute', 'generally', 'pretty', 'idea', 'atheist', 'look', 'apply', 'concept', 'bible', 'imprison', 'infinity', 'solution', 'gas', 'disease']
+['generally', 'basically', 'concept', 'absolute', 'look', 'idea', 'atheist', 'imprison', 'apply', 'pretty', 'deletion', 'explain', 'solution', 'man', 'way']
+['idea', 'apply', 'concept', 'basically', 'look', 'deletion', 'pretty', 'absolute', 'imprison', 'generally', 'base', 'bible', 'total', 'solution', 'gas']
+['basically', 'generally', 'atheist', 'pretty', 'concept', 'idea', 'apply', 'absolute', 'look', 'total', 'solution', 'bible', 'gas', 'deletion', 'imprison']
+['basically', 'pretty', 'absolute', 'deletion', 'look', 'concept', 'generally', 'idea', 'solution', 'man', 'total', 'imprison', 'atheist', 'apply', 'trial']
+['concept', 'pretty', 'basically', 'absolute', 'generally', 'gas', 'deletion', 'apply', 'idea', 'solution', 'base', 'total', 'disease', 'bible', 'die']
+['concept', 'basically', 'idea', 'pretty', 'apply', 'absolute', 'generally', 'bad', 'man', 'solution', 'imprison', 'gas', 'look', 'bible', 'infinity']
+['basically', 'idea', 'imprison', 'concept', 'apply', 'generally', 'look', 'atheist', 'disease', 'pretty', 'solution', 'absolute', 'bible', 'know', 'trial']
+['apply', 'basically', 'man', 'absolute', 'pretty', 'concept', 'look', 'disease', 'generally', 'idea', 'solution', 'atheist', 'gas', 'imprison', 'bad']
+['deletion', 'basically', 'concept', 'look', 'pretty', 'total', 'absolute', 'idea', 'apply', 'generally', 'solution', 'disease', 'explain', 'base', 'bad']
+['basically', 'idea', 'pretty', 'concept', 'solution', 'look', 'generally', 'deletion', 'absolute', 'imprison', 'base', 'die', 'atheist', 'total', 'gas']
+==============================
+topic diversity:0.028444444444444446
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3574716495989236, c_w2v:None, c_uci:-4.30862641180943, c_npmi:-0.13544945361007793
+mimno topic coherence:-298.3211098939902
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-151.4388123	Loss_G:155.1085205	loss_E:-0.0355169
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-158.2794952	Loss_G:161.8432770	loss_E:-0.0366224
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-159.7415161	Loss_G:163.1546021	loss_E:-0.0377253
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-160.6561737	Loss_G:163.9943390	loss_E:-0.0378158
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-162.2602997	Loss_G:165.4712677	loss_E:-0.0388337
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-167.7500763	Loss_G:170.8399200	loss_E:-0.0397349
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-166.6311188	Loss_G:169.6518860	loss_E:-0.0397784
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-166.8154144	Loss_G:169.6934967	loss_E:-0.0405695
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-168.0650024	Loss_G:170.8301849	loss_E:-0.0412524
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-167.6043396	Loss_G:170.3030396	loss_E:-0.0413123
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-173.4983826	Loss_G:176.0909576	loss_E:-0.0418790
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-178.3266754	Loss_G:180.8102264	loss_E:-0.0423922
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-172.9179840	Loss_G:175.3316650	loss_E:-0.0424513
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-177.8197021	Loss_G:180.1250916	loss_E:-0.0428466
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-176.5907135	Loss_G:178.7904358	loss_E:-0.0431624
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-176.3655243	Loss_G:178.5123749	loss_E:-0.0431871
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-174.3970337	Loss_G:176.4462280	loss_E:-0.0434228
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-178.9508209	Loss_G:180.9217224	loss_E:-0.0435954
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-178.7772980	Loss_G:180.6957855	loss_E:-0.0436038
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-176.7854767	Loss_G:178.6328583	loss_E:-0.0437236
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-176.6488190	Loss_G:178.4328156	loss_E:-0.0438134
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-178.9805908	Loss_G:180.7207184	loss_E:-0.0438283
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-178.8983612	Loss_G:180.5844421	loss_E:-0.0438881
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-177.1568451	Loss_G:178.7941589	loss_E:-0.0439351
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-175.7571869	Loss_G:177.3538361	loss_E:-0.0439374
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-179.6432495	Loss_G:181.1975403	loss_E:-0.0439746
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-180.2957458	Loss_G:181.8105621	loss_E:-0.0440012
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-177.8082886	Loss_G:179.2866516	loss_E:-0.0440061
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-178.5374756	Loss_G:179.9778595	loss_E:-0.0440324
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-181.8112640	Loss_G:183.2164612	loss_E:-0.0440540
+Epoch  20	Loss_D_avg:-129.5637013	Loss_G_avg:133.4942573	loss_E_avg:-0.0289104
+['basically', 'imprison', 'generally', 'atheist', 'concept', 'look', 'apply', 'idea', 'absolute', 'deletion', 'disease', 'base', 'gas', 'pretty', 'solution']
+['look', 'basically', 'generally', 'pretty', 'absolute', 'gas', 'concept', 'idea', 'total', 'solution', 'deletion', 'imprison', 'atheist', 'disease', 'apply']
+['idea', 'look', 'basically', 'absolute', 'solution', 'atheist', 'pretty', 'bible', 'concept', 'apply', 'generally', 'gas', 'imprison', 'total', 'base']
+['concept', 'pretty', 'idea', 'atheist', 'basically', 'bible', 'absolute', 'apply', 'look', 'gas', 'disease', 'solution', 'generally', 'total', 'bad']
+['look', 'idea', 'absolute', 'pretty', 'concept', 'generally', 'atheist', 'solution', 'imprison', 'basically', 'apply', 'base', 'gas', 'deletion', 'bible']
+['idea', 'concept', 'solution', 'basically', 'pretty', 'atheist', 'look', 'imprison', 'generally', 'total', 'apply', 'camp', 'bible', 'absolute', 'disease']
+['basically', 'look', 'generally', 'man', 'absolute', 'idea', 'concept', 'atheist', 'apply', 'imprison', 'bible', 'base', 'pretty', 'disease', 'infinity']
+['basically', 'pretty', 'idea', 'solution', 'concept', 'absolute', 'look', 'generally', 'apply', 'imprison', 'gas', 'disease', 'man', 'atheist', 'total']
+['basically', 'pretty', 'generally', 'absolute', 'imprison', 'deletion', 'concept', 'idea', 'look', 'solution', 'total', 'bible', 'atheist', 'round', 'man']
+['atheist', 'concept', 'pretty', 'idea', 'basically', 'apply', 'absolute', 'look', 'gas', 'solution', 'infinity', 'imprison', 'generally', 'deletion', 'bible']
+['atheist', 'idea', 'concept', 'pretty', 'solution', 'look', 'apply', 'absolute', 'imprison', 'generally', 'total', 'basically', 'gas', 'bible', 'deletion']
+['basically', 'pretty', 'look', 'idea', 'apply', 'concept', 'absolute', 'total', 'imprison', 'atheist', 'deletion', 'man', 'bible', 'solution', 'round']
+['idea', 'concept', 'pretty', 'absolute', 'basically', 'look', 'generally', 'apply', 'atheist', 'base', 'die', 'disease', 'deletion', 'gas', 'solution']
+['look', 'gas', 'basically', 'generally', 'concept', 'apply', 'solution', 'pretty', 'absolute', 'idea', 'bad', 'disease', 'infinity', 'base', 'imprison']
+['concept', 'look', 'atheist', 'idea', 'pretty', 'imprison', 'basically', 'solution', 'apply', 'gas', 'base', 'absolute', 'generally', 'total', 'deletion']
+['idea', 'basically', 'generally', 'look', 'total', 'pretty', 'absolute', 'imprison', 'atheist', 'deletion', 'man', 'solution', 'concept', 'infinity', 'base']
+['basically', 'look', 'generally', 'solution', 'atheist', 'pretty', 'absolute', 'idea', 'imprison', 'concept', 'apply', 'man', 'disease', 'infinity', 'total']
+['basically', 'atheist', 'look', 'idea', 'generally', 'solution', 'concept', 'pretty', 'absolute', 'imprison', 'disease', 'apply', 'total', 'bible', 'deletion']
+['absolute', 'look', 'idea', 'basically', 'concept', 'generally', 'total', 'imprison', 'pretty', 'solution', 'deletion', 'apply', 'atheist', 'bible', 'die']
+['atheist', 'look', 'idea', 'pretty', 'basically', 'absolute', 'generally', 'bible', 'gas', 'imprison', 'solution', 'total', 'concept', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'imprison', 'absolute', 'solution', 'pretty', 'generally', 'concept', 'bible', 'deletion', 'apply', 'die', 'base']
+['concept', 'basically', 'look', 'idea', 'absolute', 'atheist', 'generally', 'apply', 'bible', 'solution', 'imprison', 'deletion', 'round', 'total', 'pretty']
+['idea', 'basically', 'apply', 'concept', 'pretty', 'generally', 'look', 'bible', 'atheist', 'absolute', 'gas', 'imprison', 'solution', 'infinity', 'bad']
+['absolute', 'look', 'total', 'pretty', 'solution', 'atheist', 'imprison', 'bible', 'concept', 'basically', 'generally', 'apply', 'deletion', 'idea', 'man']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'solution', 'atheist', 'bible', 'total', 'pretty', 'deletion', 'disease', 'apply', 'imprison']
+['basically', 'concept', 'pretty', 'look', 'infinity', 'generally', 'idea', 'way', 'imprison', 'deletion', 'absolute', 'solution', 'die', 'happen', 'total']
+['idea', 'basically', 'apply', 'concept', 'solution', 'generally', 'pretty', 'imprison', 'atheist', 'deletion', 'look', 'gas', 'total', 'absolute', 'disease']
+['gas', 'look', 'basically', 'concept', 'absolute', 'apply', 'generally', 'pretty', 'solution', 'bible', 'idea', 'total', 'atheist', 'ii', 'imprison']
+['basically', 'generally', 'look', 'concept', 'absolute', 'atheist', 'solution', 'idea', 'imprison', 'pretty', 'apply', 'man', 'bible', 'bad', 'die']
+['idea', 'basically', 'absolute', 'concept', 'generally', 'total', 'imprison', 'apply', 'round', 'solution', 'pretty', 'look', 'atheist', 'man', 'bible']
+['basically', 'generally', 'idea', 'total', 'gas', 'pretty', 'look', 'absolute', 'solution', 'apply', 'concept', 'atheist', 'deletion', 'explain', 'bible']
+['basically', 'apply', 'look', 'atheist', 'concept', 'absolute', 'idea', 'generally', 'imprison', 'pretty', 'gas', 'bad', 'solution', 'man', 'total']
+['look', 'solution', 'concept', 'basically', 'absolute', 'apply', 'idea', 'imprison', 'gas', 'pretty', 'bad', 'atheist', 'generally', 'bible', 'final']
+['idea', 'generally', 'basically', 'look', 'absolute', 'pretty', 'deletion', 'solution', 'apply', 'concept', 'imprison', 'atheist', 'citizen', 'base', 'total']
+['idea', 'concept', 'generally', 'basically', 'pretty', 'solution', 'infinity', 'gas', 'deletion', 'look', 'total', 'absolute', 'apply', 'man', 'imprison']
+['idea', 'basically', 'generally', 'concept', 'deletion', 'gas', 'apply', 'look', 'absolute', 'atheist', 'pretty', 'infinity', 'solution', 'disease', 'imprison']
+['basically', 'look', 'concept', 'pretty', 'apply', 'idea', 'atheist', 'bad', 'absolute', 'imprison', 'gas', 'solution', 'total', 'ii', 'generally']
+['apply', 'idea', 'look', 'gas', 'solution', 'pretty', 'imprison', 'basically', 'generally', 'absolute', 'atheist', 'total', 'bible', 'concept', 'deletion']
+['basically', 'idea', 'pretty', 'absolute', 'solution', 'gas', 'concept', 'atheist', 'look', 'deletion', 'base', 'imprison', 'apply', 'generally', 'man']
+['basically', 'pretty', 'concept', 'solution', 'absolute', 'idea', 'total', 'look', 'generally', 'atheist', 'man', 'apply', 'imprison', 'bible', 'gas']
+['absolute', 'apply', 'look', 'generally', 'concept', 'pretty', 'total', 'basically', 'idea', 'bible', 'gas', 'bad', 'round', 'atheist', 'ii']
+['basically', 'concept', 'gas', 'idea', 'total', 'look', 'pretty', 'absolute', 'apply', 'bible', 'generally', 'imprison', 'deletion', 'final', 'bad']
+['look', 'basically', 'generally', 'pretty', 'concept', 'absolute', 'idea', 'solution', 'gas', 'apply', 'total', 'disease', 'bad', 'man', 'deletion']
+['basically', 'absolute', 'look', 'generally', 'atheist', 'concept', 'man', 'solution', 'apply', 'gas', 'idea', 'infinity', 'pretty', 'imprison', 'deletion']
+['look', 'generally', 'concept', 'idea', 'basically', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'disease', 'deletion']
+['basically', 'apply', 'look', 'pretty', 'concept', 'absolute', 'solution', 'atheist', 'generally', 'imprison', 'bad', 'bible', 'total', 'idea', 'gas']
+['basically', 'idea', 'concept', 'pretty', 'apply', 'solution', 'deletion', 'gas', 'generally', 'absolute', 'look', 'atheist', 'bad', 'disease', 'imprison']
+['look', 'absolute', 'basically', 'total', 'generally', 'pretty', 'concept', 'apply', 'idea', 'little', 'die', 'bible', 'solution', 'deletion', 'gas']
+['atheist', 'idea', 'generally', 'pretty', 'basically', 'apply', 'look', 'concept', 'solution', 'gas', 'absolute', 'bible', 'imprison', 'explain', 'total']
+['idea', 'look', 'apply', 'absolute', 'basically', 'total', 'concept', 'pretty', 'solution', 'deletion', 'man', 'imprison', 'generally', 'bible', 'ii']
+['concept', 'absolute', 'basically', 'idea', 'apply', 'look', 'pretty', 'generally', 'atheist', 'imprison', 'man', 'solution', 'total', 'infinity', 'deletion']
+['look', 'absolute', 'basically', 'apply', 'atheist', 'idea', 'concept', 'pretty', 'gas', 'disease', 'bad', 'imprison', 'generally', 'solution', 'deletion']
+['basically', 'atheist', 'absolute', 'concept', 'idea', 'apply', 'look', 'generally', 'pretty', 'imprison', 'deletion', 'solution', 'bad', 'bible', 'gas']
+['basically', 'pretty', 'concept', 'absolute', 'apply', 'idea', 'imprison', 'look', 'solution', 'generally', 'deletion', 'bad', 'man', 'bible', 'die']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'look', 'pretty', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'round', 'bad']
+['basically', 'generally', 'concept', 'idea', 'deletion', 'absolute', 'pretty', 'apply', 'solution', 'total', 'disease', 'bible', 'look', 'bad', 'imprison']
+['basically', 'idea', 'look', 'pretty', 'apply', 'absolute', 'concept', 'generally', 'imprison', 'infinity', 'atheist', 'solution', 'deletion', 'gas', 'disease']
+['solution', 'pretty', 'concept', 'atheist', 'basically', 'idea', 'apply', 'absolute', 'bible', 'generally', 'gas', 'deletion', 'look', 'total', 'round']
+['concept', 'basically', 'look', 'idea', 'generally', 'apply', 'absolute', 'pretty', 'solution', 'explain', 'bible', 'deletion', 'disease', 'atheist', 'gas']
+['basically', 'solution', 'concept', 'gas', 'idea', 'absolute', 'pretty', 'imprison', 'atheist', 'look', 'total', 'man', 'generally', 'final', 'deletion']
+['idea', 'concept', 'pretty', 'solution', 'basically', 'deletion', 'gas', 'absolute', 'total', 'apply', 'bible', 'imprison', 'look', 'generally', 'die']
+['concept', 'apply', 'absolute', 'pretty', 'look', 'gas', 'basically', 'atheist', 'idea', 'generally', 'round', 'solution', 'man', 'imprison', 'bible']
+['basically', 'look', 'idea', 'generally', 'atheist', 'imprison', 'absolute', 'pretty', 'solution', 'concept', 'apply', 'deletion', 'disease', 'total', 'gas']
+['basically', 'concept', 'generally', 'look', 'solution', 'imprison', 'idea', 'atheist', 'pretty', 'die', 'apply', 'absolute', 'round', 'gas', 'man']
+['basically', 'absolute', 'pretty', 'generally', 'idea', 'atheist', 'look', 'apply', 'concept', 'bible', 'imprison', 'solution', 'infinity', 'gas', 'deletion']
+['generally', 'basically', 'concept', 'look', 'idea', 'absolute', 'atheist', 'imprison', 'apply', 'pretty', 'deletion', 'solution', 'man', 'bible', 'explain']
+['idea', 'apply', 'concept', 'look', 'basically', 'deletion', 'pretty', 'absolute', 'imprison', 'generally', 'base', 'bible', 'solution', 'total', 'gas']
+['basically', 'generally', 'pretty', 'concept', 'atheist', 'idea', 'apply', 'absolute', 'look', 'solution', 'total', 'bible', 'gas', 'deletion', 'imprison']
+['basically', 'pretty', 'absolute', 'deletion', 'concept', 'look', 'idea', 'generally', 'solution', 'man', 'total', 'imprison', 'atheist', 'apply', 'trial']
+['concept', 'pretty', 'basically', 'absolute', 'generally', 'gas', 'deletion', 'idea', 'apply', 'solution', 'base', 'total', 'disease', 'bible', 'die']
+['concept', 'basically', 'idea', 'pretty', 'apply', 'absolute', 'generally', 'bad', 'solution', 'man', 'imprison', 'gas', 'look', 'bible', 'atheist']
+['basically', 'idea', 'concept', 'imprison', 'apply', 'generally', 'look', 'atheist', 'disease', 'pretty', 'solution', 'absolute', 'bible', 'know', 'die']
+['apply', 'basically', 'concept', 'pretty', 'absolute', 'man', 'look', 'generally', 'disease', 'idea', 'solution', 'atheist', 'gas', 'imprison', 'bad']
+['deletion', 'basically', 'concept', 'look', 'pretty', 'total', 'absolute', 'idea', 'apply', 'generally', 'solution', 'disease', 'explain', 'imprison', 'gas']
+['basically', 'idea', 'pretty', 'concept', 'solution', 'look', 'generally', 'deletion', 'absolute', 'imprison', 'atheist', 'base', 'die', 'total', 'gas']
+==============================
+topic diversity:0.028444444444444446
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35767285686223477, c_w2v:None, c_uci:-4.358263427748342, c_npmi:-0.13658282017652776
+mimno topic coherence:-295.64895556907214
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-177.8045807	Loss_G:179.1767731	loss_E:-0.0440600
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-179.0674286	Loss_G:180.4063416	loss_E:-0.0440806
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-176.4244690	Loss_G:177.7311096	loss_E:-0.0440984
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-180.3908997	Loss_G:181.6690216	loss_E:-0.0441004
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-181.0020294	Loss_G:182.2512054	loss_E:-0.0441185
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-180.5437469	Loss_G:181.7648926	loss_E:-0.0441310
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-180.6786346	Loss_G:181.8740692	loss_E:-0.0441365
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-184.6977539	Loss_G:185.8680878	loss_E:-0.0441538
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-181.8912048	Loss_G:183.0369110	loss_E:-0.0441615
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-174.8286133	Loss_G:175.9516754	loss_E:-0.0441654
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-175.7994843	Loss_G:176.9009247	loss_E:-0.0441786
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-185.4900513	Loss_G:186.5712738	loss_E:-0.0441896
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-178.9094391	Loss_G:179.9712982	loss_E:-0.0441916
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-183.4971313	Loss_G:184.5408630	loss_E:-0.0442014
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-178.5078888	Loss_G:179.5343628	loss_E:-0.0442118
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-183.3171387	Loss_G:184.3285522	loss_E:-0.0442118
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-177.9913330	Loss_G:178.9875336	loss_E:-0.0442211
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-181.4326935	Loss_G:182.4156647	loss_E:-0.0442313
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-176.1969757	Loss_G:177.1678314	loss_E:-0.0442284
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-183.6899872	Loss_G:184.6499634	loss_E:-0.0442387
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-180.0093079	Loss_G:180.9589081	loss_E:-0.0442446
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-177.7722015	Loss_G:178.7135162	loss_E:-0.0442474
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-181.9022217	Loss_G:182.8355103	loss_E:-0.0442530
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-180.2799835	Loss_G:181.2071533	loss_E:-0.0442592
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-178.7650146	Loss_G:179.6867981	loss_E:-0.0442589
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-180.3265686	Loss_G:181.2442932	loss_E:-0.0442643
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-184.0598297	Loss_G:184.9747925	loss_E:-0.0442704
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-177.9116974	Loss_G:178.8248596	loss_E:-0.0442715
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-182.8981628	Loss_G:183.8090515	loss_E:-0.0442764
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-178.7076721	Loss_G:179.6163177	loss_E:-0.0442821
+Epoch  30	Loss_D_avg:-146.4290691	Loss_G_avg:149.4036110	loss_E_avg:-0.0340062
+['basically', 'imprison', 'generally', 'concept', 'atheist', 'look', 'idea', 'apply', 'absolute', 'deletion', 'disease', 'pretty', 'gas', 'base', 'solution']
+['look', 'basically', 'pretty', 'generally', 'absolute', 'gas', 'concept', 'idea', 'total', 'solution', 'deletion', 'imprison', 'atheist', 'apply', 'disease']
+['idea', 'look', 'basically', 'absolute', 'solution', 'atheist', 'pretty', 'bible', 'concept', 'apply', 'generally', 'gas', 'imprison', 'total', 'base']
+['concept', 'pretty', 'idea', 'basically', 'atheist', 'bible', 'absolute', 'apply', 'look', 'gas', 'disease', 'solution', 'generally', 'bad', 'total']
+['look', 'idea', 'absolute', 'pretty', 'concept', 'generally', 'atheist', 'solution', 'imprison', 'basically', 'apply', 'gas', 'base', 'deletion', 'bible']
+['idea', 'concept', 'basically', 'solution', 'pretty', 'atheist', 'look', 'imprison', 'generally', 'total', 'apply', 'bible', 'absolute', 'camp', 'deletion']
+['basically', 'look', 'generally', 'absolute', 'man', 'idea', 'concept', 'atheist', 'apply', 'imprison', 'bible', 'pretty', 'base', 'disease', 'infinity']
+['basically', 'pretty', 'idea', 'concept', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'disease', 'man', 'total']
+['basically', 'pretty', 'generally', 'absolute', 'imprison', 'concept', 'deletion', 'idea', 'look', 'solution', 'total', 'bible', 'atheist', 'round', 'man']
+['atheist', 'concept', 'idea', 'pretty', 'basically', 'apply', 'absolute', 'look', 'gas', 'solution', 'imprison', 'infinity', 'generally', 'deletion', 'bible']
+['atheist', 'idea', 'concept', 'pretty', 'solution', 'look', 'apply', 'absolute', 'imprison', 'generally', 'basically', 'total', 'gas', 'bible', 'deletion']
+['basically', 'pretty', 'look', 'idea', 'apply', 'concept', 'absolute', 'total', 'imprison', 'atheist', 'deletion', 'bible', 'man', 'solution', 'round']
+['idea', 'concept', 'pretty', 'absolute', 'basically', 'look', 'generally', 'apply', 'atheist', 'die', 'base', 'disease', 'gas', 'solution', 'deletion']
+['look', 'gas', 'basically', 'concept', 'generally', 'apply', 'solution', 'pretty', 'absolute', 'idea', 'bad', 'disease', 'infinity', 'imprison', 'base']
+['concept', 'look', 'idea', 'atheist', 'pretty', 'imprison', 'basically', 'solution', 'apply', 'gas', 'absolute', 'base', 'generally', 'total', 'deletion']
+['idea', 'basically', 'generally', 'look', 'total', 'pretty', 'absolute', 'imprison', 'atheist', 'deletion', 'concept', 'man', 'solution', 'infinity', 'base']
+['basically', 'look', 'generally', 'atheist', 'solution', 'pretty', 'idea', 'absolute', 'imprison', 'concept', 'apply', 'man', 'infinity', 'total', 'disease']
+['basically', 'atheist', 'look', 'idea', 'generally', 'concept', 'solution', 'pretty', 'absolute', 'imprison', 'apply', 'disease', 'bible', 'total', 'gas']
+['absolute', 'idea', 'look', 'basically', 'concept', 'generally', 'imprison', 'pretty', 'total', 'solution', 'deletion', 'apply', 'atheist', 'bible', 'die']
+['atheist', 'look', 'idea', 'pretty', 'basically', 'absolute', 'generally', 'bible', 'gas', 'imprison', 'solution', 'concept', 'total', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'imprison', 'absolute', 'solution', 'pretty', 'generally', 'concept', 'bible', 'deletion', 'apply', 'die', 'atheist']
+['concept', 'basically', 'look', 'idea', 'absolute', 'generally', 'atheist', 'apply', 'bible', 'solution', 'imprison', 'deletion', 'total', 'round', 'pretty']
+['idea', 'basically', 'concept', 'apply', 'pretty', 'generally', 'look', 'bible', 'atheist', 'absolute', 'imprison', 'gas', 'solution', 'infinity', 'bad']
+['absolute', 'look', 'pretty', 'solution', 'total', 'atheist', 'imprison', 'concept', 'bible', 'basically', 'generally', 'apply', 'idea', 'deletion', 'man']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'atheist', 'solution', 'bible', 'pretty', 'total', 'deletion', 'apply', 'imprison', 'disease']
+['basically', 'concept', 'pretty', 'look', 'infinity', 'idea', 'generally', 'imprison', 'way', 'deletion', 'absolute', 'solution', 'die', 'happen', 'total']
+['idea', 'basically', 'apply', 'concept', 'solution', 'pretty', 'generally', 'imprison', 'atheist', 'look', 'deletion', 'gas', 'absolute', 'total', 'disease']
+['gas', 'look', 'basically', 'concept', 'apply', 'absolute', 'generally', 'pretty', 'solution', 'bible', 'idea', 'atheist', 'total', 'imprison', 'ii']
+['basically', 'generally', 'look', 'concept', 'absolute', 'atheist', 'solution', 'idea', 'imprison', 'pretty', 'apply', 'bible', 'man', 'die', 'bad']
+['idea', 'basically', 'absolute', 'concept', 'generally', 'total', 'imprison', 'apply', 'pretty', 'solution', 'round', 'look', 'atheist', 'man', 'bible']
+['basically', 'generally', 'idea', 'total', 'gas', 'pretty', 'look', 'absolute', 'solution', 'concept', 'apply', 'atheist', 'deletion', 'bible', 'explain']
+['basically', 'apply', 'look', 'atheist', 'concept', 'absolute', 'idea', 'generally', 'pretty', 'imprison', 'gas', 'bad', 'solution', 'man', 'total']
+['look', 'solution', 'concept', 'basically', 'absolute', 'apply', 'idea', 'imprison', 'pretty', 'gas', 'atheist', 'bad', 'generally', 'bible', 'final']
+['idea', 'generally', 'basically', 'look', 'absolute', 'pretty', 'deletion', 'solution', 'apply', 'concept', 'imprison', 'atheist', 'citizen', 'total', 'base']
+['idea', 'concept', 'generally', 'basically', 'pretty', 'solution', 'gas', 'infinity', 'look', 'deletion', 'total', 'absolute', 'apply', 'imprison', 'man']
+['idea', 'basically', 'generally', 'concept', 'deletion', 'apply', 'gas', 'look', 'absolute', 'atheist', 'pretty', 'solution', 'infinity', 'disease', 'imprison']
+['basically', 'look', 'concept', 'idea', 'pretty', 'apply', 'atheist', 'absolute', 'bad', 'imprison', 'solution', 'gas', 'total', 'generally', 'ii']
+['apply', 'idea', 'look', 'gas', 'pretty', 'solution', 'imprison', 'basically', 'generally', 'absolute', 'atheist', 'bible', 'concept', 'total', 'deletion']
+['basically', 'idea', 'pretty', 'absolute', 'solution', 'concept', 'gas', 'atheist', 'look', 'deletion', 'imprison', 'apply', 'generally', 'base', 'man']
+['basically', 'pretty', 'concept', 'solution', 'absolute', 'idea', 'total', 'look', 'generally', 'atheist', 'man', 'apply', 'imprison', 'bible', 'gas']
+['absolute', 'look', 'apply', 'generally', 'concept', 'pretty', 'total', 'idea', 'basically', 'bible', 'gas', 'bad', 'atheist', 'round', 'ii']
+['basically', 'concept', 'idea', 'gas', 'total', 'look', 'pretty', 'absolute', 'apply', 'bible', 'generally', 'imprison', 'deletion', 'bad', 'atheist']
+['basically', 'look', 'generally', 'pretty', 'concept', 'absolute', 'idea', 'solution', 'gas', 'apply', 'total', 'disease', 'bad', 'deletion', 'man']
+['basically', 'absolute', 'look', 'generally', 'atheist', 'concept', 'man', 'solution', 'apply', 'gas', 'idea', 'pretty', 'imprison', 'infinity', 'deletion']
+['look', 'generally', 'concept', 'idea', 'basically', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'disease', 'deletion']
+['basically', 'apply', 'look', 'concept', 'pretty', 'absolute', 'solution', 'generally', 'atheist', 'imprison', 'bible', 'idea', 'bad', 'total', 'gas']
+['basically', 'idea', 'concept', 'pretty', 'apply', 'solution', 'deletion', 'generally', 'absolute', 'gas', 'look', 'atheist', 'imprison', 'die', 'bad']
+['look', 'absolute', 'basically', 'total', 'generally', 'pretty', 'concept', 'idea', 'apply', 'little', 'bible', 'die', 'solution', 'deletion', 'gas']
+['atheist', 'idea', 'generally', 'basically', 'apply', 'pretty', 'look', 'concept', 'solution', 'absolute', 'gas', 'bible', 'imprison', 'explain', 'total']
+['idea', 'look', 'apply', 'absolute', 'basically', 'concept', 'total', 'pretty', 'solution', 'deletion', 'imprison', 'generally', 'bible', 'gas', 'man']
+['concept', 'absolute', 'basically', 'idea', 'look', 'apply', 'pretty', 'generally', 'atheist', 'imprison', 'solution', 'man', 'total', 'infinity', 'deletion']
+['look', 'absolute', 'basically', 'apply', 'idea', 'atheist', 'concept', 'pretty', 'gas', 'imprison', 'disease', 'generally', 'bad', 'solution', 'deletion']
+['basically', 'atheist', 'absolute', 'concept', 'idea', 'apply', 'look', 'generally', 'pretty', 'imprison', 'deletion', 'solution', 'bad', 'gas', 'bible']
+['basically', 'pretty', 'concept', 'idea', 'apply', 'absolute', 'look', 'imprison', 'solution', 'generally', 'deletion', 'bad', 'bible', 'die', 'man']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'look', 'pretty', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'round', 'bad']
+['basically', 'generally', 'concept', 'idea', 'absolute', 'deletion', 'pretty', 'apply', 'solution', 'total', 'bible', 'disease', 'look', 'imprison', 'bad']
+['basically', 'idea', 'look', 'pretty', 'apply', 'concept', 'absolute', 'generally', 'imprison', 'atheist', 'solution', 'infinity', 'deletion', 'gas', 'total']
+['solution', 'pretty', 'concept', 'atheist', 'basically', 'idea', 'apply', 'absolute', 'bible', 'generally', 'gas', 'look', 'deletion', 'total', 'imprison']
+['concept', 'basically', 'look', 'idea', 'apply', 'generally', 'absolute', 'pretty', 'solution', 'explain', 'bible', 'deletion', 'atheist', 'disease', 'gas']
+['basically', 'solution', 'concept', 'idea', 'gas', 'absolute', 'pretty', 'atheist', 'imprison', 'look', 'total', 'man', 'generally', 'deletion', 'final']
+['idea', 'concept', 'pretty', 'basically', 'solution', 'deletion', 'absolute', 'gas', 'total', 'apply', 'bible', 'look', 'imprison', 'generally', 'die']
+['concept', 'apply', 'absolute', 'pretty', 'look', 'basically', 'gas', 'atheist', 'idea', 'generally', 'round', 'solution', 'man', 'imprison', 'bible']
+['basically', 'look', 'idea', 'atheist', 'generally', 'imprison', 'absolute', 'pretty', 'solution', 'concept', 'apply', 'deletion', 'disease', 'gas', 'total']
+['basically', 'concept', 'generally', 'look', 'solution', 'imprison', 'idea', 'pretty', 'atheist', 'die', 'apply', 'absolute', 'round', 'gas', 'bad']
+['basically', 'absolute', 'pretty', 'idea', 'generally', 'atheist', 'look', 'apply', 'concept', 'bible', 'imprison', 'solution', 'gas', 'infinity', 'deletion']
+['generally', 'basically', 'concept', 'idea', 'look', 'absolute', 'atheist', 'imprison', 'apply', 'pretty', 'deletion', 'solution', 'bible', 'man', 'way']
+['idea', 'apply', 'look', 'concept', 'basically', 'deletion', 'pretty', 'absolute', 'imprison', 'generally', 'base', 'bible', 'solution', 'total', 'gas']
+['basically', 'concept', 'generally', 'pretty', 'atheist', 'idea', 'apply', 'absolute', 'look', 'solution', 'total', 'bible', 'gas', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'concept', 'look', 'deletion', 'idea', 'solution', 'generally', 'imprison', 'man', 'total', 'atheist', 'apply', 'trial']
+['concept', 'pretty', 'basically', 'absolute', 'generally', 'gas', 'deletion', 'idea', 'apply', 'solution', 'base', 'total', 'bible', 'disease', 'atheist']
+['concept', 'basically', 'idea', 'pretty', 'apply', 'absolute', 'generally', 'solution', 'bad', 'imprison', 'gas', 'look', 'man', 'bible', 'atheist']
+['basically', 'idea', 'concept', 'imprison', 'apply', 'generally', 'look', 'atheist', 'disease', 'pretty', 'solution', 'absolute', 'bible', 'know', 'die']
+['apply', 'concept', 'basically', 'pretty', 'absolute', 'man', 'look', 'generally', 'idea', 'disease', 'solution', 'atheist', 'gas', 'imprison', 'bible']
+['deletion', 'basically', 'concept', 'look', 'pretty', 'total', 'absolute', 'idea', 'apply', 'generally', 'solution', 'disease', 'imprison', 'explain', 'gas']
+['basically', 'idea', 'pretty', 'concept', 'solution', 'look', 'generally', 'deletion', 'absolute', 'imprison', 'atheist', 'die', 'base', 'gas', 'total']
+==============================
+topic diversity:0.028444444444444446
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35882588576293417, c_w2v:None, c_uci:-4.339993679470602, c_npmi:-0.13553166883967455
+mimno topic coherence:-294.34560828967426
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-180.9057617	Loss_G:181.8128204	loss_E:-0.0442801
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-178.7561035	Loss_G:179.6613007	loss_E:-0.0442853
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-183.0494843	Loss_G:183.9529266	loss_E:-0.0442893
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-180.7994232	Loss_G:181.7014313	loss_E:-0.0442897
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-181.9348297	Loss_G:182.8348694	loss_E:-0.0442925
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-180.1279297	Loss_G:181.0261688	loss_E:-0.0442951
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-179.9245453	Loss_G:180.8213348	loss_E:-0.0442960
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-182.6513519	Loss_G:183.5464935	loss_E:-0.0442984
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-184.1671143	Loss_G:185.0603638	loss_E:-0.0443015
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-186.0377197	Loss_G:186.9294128	loss_E:-0.0443013
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-178.3596649	Loss_G:179.2496185	loss_E:-0.0443031
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-180.3248291	Loss_G:181.2131348	loss_E:-0.0443076
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-183.7974854	Loss_G:184.6843719	loss_E:-0.0443074
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-182.8525696	Loss_G:183.7377472	loss_E:-0.0443096
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-180.8266907	Loss_G:181.7099762	loss_E:-0.0443116
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-181.8017273	Loss_G:182.6837006	loss_E:-0.0443120
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-183.4138031	Loss_G:184.2939911	loss_E:-0.0443136
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-179.9460144	Loss_G:180.8245697	loss_E:-0.0443155
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-177.2252197	Loss_G:178.1021881	loss_E:-0.0443155
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-176.4920654	Loss_G:177.3674469	loss_E:-0.0443170
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-176.0977783	Loss_G:176.9714813	loss_E:-0.0443189
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-182.0956116	Loss_G:182.9680328	loss_E:-0.0443187
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-179.9853668	Loss_G:180.8559723	loss_E:-0.0443199
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-182.5989685	Loss_G:183.4680176	loss_E:-0.0443217
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-178.9890442	Loss_G:179.8565369	loss_E:-0.0443213
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-184.9893036	Loss_G:185.8553009	loss_E:-0.0443233
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-180.0255890	Loss_G:180.8898468	loss_E:-0.0443235
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-178.4525604	Loss_G:179.3153534	loss_E:-0.0443232
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-176.7950592	Loss_G:177.6562653	loss_E:-0.0443241
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-181.0113678	Loss_G:181.8710480	loss_E:-0.0443251
+Epoch  40	Loss_D_avg:-155.0254267	Loss_G_avg:157.4770559	loss_E_avg:-0.0365819
+['basically', 'imprison', 'concept', 'atheist', 'generally', 'look', 'idea', 'apply', 'absolute', 'deletion', 'pretty', 'disease', 'gas', 'base', 'solution']
+['look', 'basically', 'pretty', 'generally', 'absolute', 'concept', 'gas', 'idea', 'total', 'solution', 'deletion', 'imprison', 'atheist', 'apply', 'disease']
+['idea', 'basically', 'look', 'absolute', 'solution', 'atheist', 'pretty', 'bible', 'concept', 'apply', 'generally', 'gas', 'imprison', 'total', 'disease']
+['concept', 'pretty', 'idea', 'basically', 'atheist', 'bible', 'apply', 'absolute', 'look', 'gas', 'solution', 'disease', 'generally', 'total', 'bad']
+['look', 'idea', 'absolute', 'pretty', 'concept', 'generally', 'atheist', 'solution', 'imprison', 'basically', 'apply', 'gas', 'base', 'deletion', 'bible']
+['idea', 'concept', 'basically', 'solution', 'pretty', 'atheist', 'look', 'imprison', 'generally', 'total', 'apply', 'bible', 'absolute', 'camp', 'deletion']
+['basically', 'look', 'generally', 'absolute', 'idea', 'concept', 'man', 'atheist', 'apply', 'imprison', 'pretty', 'bible', 'base', 'disease', 'solution']
+['basically', 'pretty', 'idea', 'concept', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'disease', 'total', 'deletion']
+['basically', 'pretty', 'generally', 'absolute', 'concept', 'imprison', 'idea', 'look', 'deletion', 'solution', 'total', 'bible', 'atheist', 'round', 'man']
+['atheist', 'concept', 'idea', 'pretty', 'basically', 'apply', 'absolute', 'look', 'gas', 'solution', 'imprison', 'generally', 'deletion', 'bible', 'infinity']
+['atheist', 'idea', 'concept', 'pretty', 'solution', 'look', 'apply', 'absolute', 'imprison', 'generally', 'basically', 'total', 'gas', 'bible', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'apply', 'concept', 'absolute', 'total', 'imprison', 'atheist', 'deletion', 'bible', 'solution', 'man', 'round']
+['idea', 'concept', 'pretty', 'absolute', 'basically', 'look', 'generally', 'apply', 'atheist', 'die', 'gas', 'solution', 'disease', 'base', 'deletion']
+['look', 'gas', 'basically', 'concept', 'apply', 'generally', 'solution', 'pretty', 'absolute', 'idea', 'bad', 'disease', 'infinity', 'imprison', 'base']
+['concept', 'look', 'idea', 'atheist', 'pretty', 'imprison', 'basically', 'solution', 'apply', 'gas', 'absolute', 'generally', 'total', 'base', 'deletion']
+['idea', 'basically', 'generally', 'look', 'total', 'pretty', 'absolute', 'imprison', 'atheist', 'deletion', 'concept', 'solution', 'man', 'infinity', 'apply']
+['basically', 'look', 'generally', 'atheist', 'solution', 'pretty', 'idea', 'absolute', 'imprison', 'concept', 'apply', 'man', 'total', 'infinity', 'deletion']
+['basically', 'idea', 'look', 'atheist', 'generally', 'concept', 'solution', 'pretty', 'absolute', 'imprison', 'apply', 'disease', 'bible', 'total', 'gas']
+['absolute', 'idea', 'look', 'basically', 'concept', 'generally', 'pretty', 'imprison', 'total', 'solution', 'deletion', 'atheist', 'apply', 'bible', 'die']
+['atheist', 'idea', 'look', 'pretty', 'basically', 'absolute', 'generally', 'bible', 'gas', 'imprison', 'solution', 'concept', 'total', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'imprison', 'absolute', 'solution', 'pretty', 'generally', 'concept', 'bible', 'deletion', 'apply', 'atheist', 'die']
+['concept', 'basically', 'look', 'idea', 'absolute', 'generally', 'atheist', 'apply', 'bible', 'imprison', 'solution', 'deletion', 'total', 'pretty', 'round']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'generally', 'look', 'bible', 'atheist', 'absolute', 'imprison', 'gas', 'solution', 'infinity', 'bad']
+['absolute', 'look', 'pretty', 'solution', 'total', 'atheist', 'imprison', 'concept', 'basically', 'bible', 'idea', 'generally', 'apply', 'deletion', 'man']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'atheist', 'solution', 'pretty', 'bible', 'deletion', 'total', 'apply', 'imprison', 'disease']
+['basically', 'concept', 'pretty', 'look', 'idea', 'infinity', 'generally', 'imprison', 'deletion', 'way', 'absolute', 'solution', 'die', 'happen', 'total']
+['idea', 'basically', 'apply', 'concept', 'solution', 'pretty', 'imprison', 'generally', 'atheist', 'look', 'deletion', 'gas', 'absolute', 'total', 'disease']
+['gas', 'look', 'basically', 'concept', 'apply', 'absolute', 'generally', 'pretty', 'solution', 'bible', 'idea', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'generally', 'look', 'concept', 'absolute', 'atheist', 'idea', 'imprison', 'solution', 'pretty', 'apply', 'bible', 'man', 'die', 'bad']
+['idea', 'basically', 'absolute', 'concept', 'generally', 'total', 'imprison', 'pretty', 'apply', 'solution', 'look', 'round', 'atheist', 'bible', 'man']
+['basically', 'generally', 'idea', 'total', 'gas', 'pretty', 'look', 'absolute', 'solution', 'concept', 'deletion', 'atheist', 'apply', 'bible', 'disease']
+['basically', 'apply', 'look', 'atheist', 'concept', 'absolute', 'idea', 'generally', 'pretty', 'imprison', 'gas', 'bad', 'solution', 'man', 'total']
+['look', 'solution', 'concept', 'basically', 'absolute', 'idea', 'apply', 'imprison', 'pretty', 'gas', 'atheist', 'generally', 'bad', 'bible', 'ass']
+['idea', 'generally', 'basically', 'look', 'absolute', 'pretty', 'deletion', 'concept', 'solution', 'apply', 'imprison', 'atheist', 'total', 'citizen', 'base']
+['idea', 'concept', 'basically', 'generally', 'pretty', 'solution', 'look', 'gas', 'infinity', 'deletion', 'total', 'absolute', 'apply', 'imprison', 'atheist']
+['idea', 'basically', 'generally', 'concept', 'deletion', 'apply', 'gas', 'look', 'absolute', 'atheist', 'pretty', 'solution', 'infinity', 'disease', 'imprison']
+['basically', 'look', 'concept', 'idea', 'pretty', 'apply', 'atheist', 'absolute', 'bad', 'imprison', 'solution', 'gas', 'total', 'generally', 'ii']
+['apply', 'idea', 'look', 'gas', 'pretty', 'basically', 'imprison', 'solution', 'generally', 'absolute', 'bible', 'concept', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'pretty', 'absolute', 'concept', 'solution', 'atheist', 'gas', 'look', 'deletion', 'apply', 'imprison', 'generally', 'base', 'man']
+['basically', 'pretty', 'concept', 'solution', 'absolute', 'idea', 'look', 'total', 'generally', 'atheist', 'apply', 'imprison', 'man', 'bible', 'gas']
+['look', 'absolute', 'apply', 'generally', 'concept', 'pretty', 'idea', 'basically', 'total', 'bible', 'gas', 'atheist', 'bad', 'round', 'imprison']
+['basically', 'concept', 'idea', 'gas', 'total', 'look', 'pretty', 'absolute', 'apply', 'bible', 'generally', 'imprison', 'deletion', 'atheist', 'die']
+['basically', 'look', 'generally', 'concept', 'pretty', 'absolute', 'idea', 'solution', 'apply', 'gas', 'total', 'disease', 'bad', 'deletion', 'imprison']
+['basically', 'look', 'absolute', 'generally', 'concept', 'atheist', 'solution', 'apply', 'man', 'idea', 'gas', 'pretty', 'imprison', 'deletion', 'infinity']
+['look', 'generally', 'idea', 'concept', 'basically', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'disease', 'deletion']
+['basically', 'apply', 'look', 'concept', 'pretty', 'absolute', 'solution', 'generally', 'atheist', 'imprison', 'idea', 'bible', 'bad', 'total', 'gas']
+['basically', 'idea', 'concept', 'pretty', 'apply', 'solution', 'deletion', 'generally', 'absolute', 'gas', 'look', 'atheist', 'imprison', 'die', 'bad']
+['look', 'absolute', 'basically', 'total', 'generally', 'pretty', 'concept', 'idea', 'apply', 'bible', 'little', 'die', 'solution', 'deletion', 'gas']
+['idea', 'atheist', 'generally', 'basically', 'apply', 'pretty', 'concept', 'look', 'solution', 'absolute', 'bible', 'imprison', 'gas', 'total', 'explain']
+['idea', 'look', 'apply', 'absolute', 'basically', 'concept', 'pretty', 'total', 'solution', 'deletion', 'imprison', 'generally', 'bible', 'gas', 'man']
+['concept', 'absolute', 'basically', 'idea', 'look', 'apply', 'pretty', 'generally', 'atheist', 'imprison', 'solution', 'total', 'man', 'infinity', 'bible']
+['look', 'absolute', 'basically', 'apply', 'idea', 'atheist', 'concept', 'pretty', 'gas', 'imprison', 'generally', 'disease', 'solution', 'bad', 'deletion']
+['basically', 'atheist', 'absolute', 'concept', 'idea', 'apply', 'generally', 'look', 'pretty', 'imprison', 'deletion', 'solution', 'gas', 'bad', 'bible']
+['basically', 'pretty', 'concept', 'idea', 'apply', 'look', 'absolute', 'imprison', 'solution', 'generally', 'deletion', 'bad', 'die', 'bible', 'man']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'pretty', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'round', 'gas']
+['basically', 'generally', 'concept', 'idea', 'absolute', 'deletion', 'pretty', 'apply', 'solution', 'total', 'bible', 'look', 'disease', 'imprison', 'bad']
+['basically', 'idea', 'look', 'pretty', 'apply', 'concept', 'absolute', 'generally', 'imprison', 'atheist', 'solution', 'deletion', 'infinity', 'gas', 'total']
+['solution', 'pretty', 'concept', 'atheist', 'basically', 'idea', 'apply', 'absolute', 'bible', 'generally', 'look', 'gas', 'deletion', 'total', 'imprison']
+['concept', 'basically', 'look', 'idea', 'apply', 'generally', 'absolute', 'pretty', 'solution', 'bible', 'deletion', 'atheist', 'explain', 'gas', 'disease']
+['basically', 'solution', 'concept', 'idea', 'gas', 'absolute', 'pretty', 'atheist', 'imprison', 'look', 'total', 'man', 'generally', 'deletion', 'final']
+['idea', 'concept', 'pretty', 'basically', 'solution', 'absolute', 'gas', 'deletion', 'total', 'apply', 'look', 'bible', 'imprison', 'generally', 'die']
+['concept', 'apply', 'pretty', 'absolute', 'basically', 'look', 'gas', 'idea', 'atheist', 'generally', 'round', 'solution', 'imprison', 'bible', 'man']
+['basically', 'look', 'idea', 'atheist', 'imprison', 'generally', 'absolute', 'pretty', 'solution', 'concept', 'apply', 'deletion', 'disease', 'gas', 'total']
+['basically', 'concept', 'look', 'generally', 'solution', 'idea', 'imprison', 'pretty', 'atheist', 'apply', 'die', 'absolute', 'gas', 'round', 'bad']
+['basically', 'absolute', 'pretty', 'idea', 'generally', 'atheist', 'look', 'concept', 'apply', 'bible', 'imprison', 'solution', 'gas', 'infinity', 'deletion']
+['generally', 'basically', 'concept', 'idea', 'look', 'absolute', 'atheist', 'apply', 'imprison', 'pretty', 'deletion', 'solution', 'bible', 'man', 'way']
+['idea', 'apply', 'look', 'concept', 'basically', 'deletion', 'pretty', 'absolute', 'imprison', 'generally', 'bible', 'base', 'solution', 'total', 'gas']
+['basically', 'concept', 'pretty', 'generally', 'atheist', 'idea', 'apply', 'absolute', 'look', 'solution', 'bible', 'total', 'gas', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'concept', 'idea', 'look', 'deletion', 'solution', 'generally', 'imprison', 'total', 'man', 'apply', 'atheist', 'die']
+['concept', 'pretty', 'basically', 'absolute', 'generally', 'gas', 'deletion', 'idea', 'apply', 'solution', 'total', 'base', 'bible', 'disease', 'atheist']
+['concept', 'idea', 'basically', 'pretty', 'apply', 'absolute', 'generally', 'solution', 'imprison', 'look', 'bad', 'gas', 'man', 'atheist', 'bible']
+['basically', 'idea', 'concept', 'imprison', 'look', 'apply', 'generally', 'atheist', 'pretty', 'disease', 'solution', 'absolute', 'bible', 'know', 'die']
+['concept', 'apply', 'pretty', 'basically', 'absolute', 'look', 'man', 'generally', 'idea', 'disease', 'solution', 'atheist', 'imprison', 'gas', 'bible']
+['deletion', 'basically', 'concept', 'look', 'pretty', 'idea', 'total', 'absolute', 'apply', 'generally', 'solution', 'disease', 'imprison', 'gas', 'die']
+['idea', 'basically', 'concept', 'pretty', 'solution', 'look', 'generally', 'deletion', 'absolute', 'imprison', 'atheist', 'die', 'gas', 'base', 'total']
+==============================
+topic diversity:0.028444444444444446
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3589919862813198, c_w2v:None, c_uci:-4.415371788921129, c_npmi:-0.13836273171093447
+mimno topic coherence:-293.14462856204
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-180.2782593	Loss_G:181.1363678	loss_E:-0.0443255
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-182.6444092	Loss_G:183.5009613	loss_E:-0.0443260
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-185.0901031	Loss_G:185.9450989	loss_E:-0.0443273
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-180.4737854	Loss_G:181.3273621	loss_E:-0.0443274
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-179.9056549	Loss_G:180.7574921	loss_E:-0.0443277
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-184.6895294	Loss_G:185.5398865	loss_E:-0.0443287
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-180.8041229	Loss_G:181.6530609	loss_E:-0.0443291
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-181.7022400	Loss_G:182.5495605	loss_E:-0.0443292
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-180.8376007	Loss_G:181.6833191	loss_E:-0.0443304
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-181.6800385	Loss_G:182.5242920	loss_E:-0.0443298
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-184.8048859	Loss_G:185.6475983	loss_E:-0.0443307
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-183.5854797	Loss_G:184.4266968	loss_E:-0.0443310
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-181.5490265	Loss_G:182.3886719	loss_E:-0.0443304
+| ID | GPU | MEM |
+------------------
+|  0 |  2% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-180.7917938	Loss_G:181.6298981	loss_E:-0.0443311
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-181.3635712	Loss_G:182.2001648	loss_E:-0.0443323
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-181.9900970	Loss_G:182.8252563	loss_E:-0.0443325
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-183.1031799	Loss_G:183.9366760	loss_E:-0.0443328
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-178.2432861	Loss_G:179.0753021	loss_E:-0.0443334
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-181.7174225	Loss_G:182.5481262	loss_E:-0.0443337
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-179.9293060	Loss_G:180.7583923	loss_E:-0.0443338
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-175.5849457	Loss_G:176.4123230	loss_E:-0.0443343
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-181.7238617	Loss_G:182.5498810	loss_E:-0.0443342
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-174.5520630	Loss_G:175.3765564	loss_E:-0.0443349
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-180.3961792	Loss_G:181.2192230	loss_E:-0.0443354
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-179.0884399	Loss_G:179.9099884	loss_E:-0.0443350
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-181.2376862	Loss_G:182.0577240	loss_E:-0.0443352
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-178.6310120	Loss_G:179.4495239	loss_E:-0.0443358
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-177.0535278	Loss_G:177.8707581	loss_E:-0.0443355
+| ID | GPU | MEM |
+------------------
+|  0 |  6% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-180.2596893	Loss_G:181.0751953	loss_E:-0.0443360
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-179.3930359	Loss_G:180.2071381	loss_E:-0.0443361
+Epoch  50	Loss_D_avg:-160.1743696	Loss_G_avg:162.3028614	loss_E_avg:-0.0381319
+['basically', 'concept', 'atheist', 'look', 'imprison', 'generally', 'idea', 'apply', 'absolute', 'pretty', 'deletion', 'gas', 'disease', 'solution', 'base']
+['look', 'basically', 'pretty', 'generally', 'absolute', 'concept', 'gas', 'idea', 'total', 'solution', 'deletion', 'imprison', 'apply', 'atheist', 'disease']
+['idea', 'basically', 'look', 'absolute', 'pretty', 'atheist', 'solution', 'concept', 'bible', 'apply', 'generally', 'imprison', 'gas', 'total', 'disease']
+['concept', 'idea', 'pretty', 'basically', 'atheist', 'apply', 'look', 'bible', 'absolute', 'gas', 'solution', 'disease', 'generally', 'total', 'bad']
+['look', 'idea', 'absolute', 'pretty', 'concept', 'atheist', 'generally', 'solution', 'imprison', 'basically', 'apply', 'gas', 'deletion', 'bible', 'base']
+['idea', 'concept', 'basically', 'solution', 'pretty', 'look', 'atheist', 'imprison', 'generally', 'total', 'apply', 'absolute', 'bible', 'camp', 'deletion']
+['basically', 'look', 'generally', 'absolute', 'idea', 'concept', 'man', 'atheist', 'apply', 'imprison', 'pretty', 'bible', 'base', 'solution', 'deletion']
+['basically', 'pretty', 'idea', 'concept', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'total', 'deletion', 'disease']
+['basically', 'pretty', 'generally', 'absolute', 'concept', 'idea', 'imprison', 'look', 'deletion', 'solution', 'bible', 'atheist', 'total', 'round', 'man']
+['atheist', 'concept', 'idea', 'pretty', 'basically', 'apply', 'absolute', 'look', 'gas', 'solution', 'imprison', 'generally', 'bible', 'deletion', 'infinity']
+['idea', 'atheist', 'concept', 'pretty', 'solution', 'look', 'apply', 'imprison', 'absolute', 'generally', 'basically', 'total', 'bible', 'gas', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'apply', 'concept', 'absolute', 'total', 'imprison', 'atheist', 'bible', 'deletion', 'solution', 'man', 'generally']
+['idea', 'concept', 'pretty', 'absolute', 'basically', 'look', 'generally', 'apply', 'atheist', 'die', 'gas', 'solution', 'disease', 'deletion', 'base']
+['look', 'gas', 'basically', 'concept', 'apply', 'generally', 'pretty', 'solution', 'idea', 'absolute', 'bad', 'imprison', 'disease', 'infinity', 'bible']
+['concept', 'look', 'idea', 'atheist', 'pretty', 'imprison', 'basically', 'solution', 'apply', 'gas', 'absolute', 'generally', 'total', 'base', 'deletion']
+['idea', 'basically', 'generally', 'look', 'pretty', 'total', 'absolute', 'atheist', 'imprison', 'deletion', 'concept', 'solution', 'man', 'infinity', 'apply']
+['basically', 'look', 'generally', 'idea', 'atheist', 'pretty', 'solution', 'absolute', 'imprison', 'concept', 'apply', 'man', 'total', 'deletion', 'infinity']
+['basically', 'idea', 'look', 'atheist', 'concept', 'generally', 'pretty', 'solution', 'absolute', 'imprison', 'apply', 'bible', 'disease', 'total', 'gas']
+['idea', 'absolute', 'look', 'basically', 'concept', 'generally', 'pretty', 'imprison', 'total', 'solution', 'atheist', 'deletion', 'apply', 'bible', 'die']
+['atheist', 'idea', 'look', 'pretty', 'basically', 'absolute', 'generally', 'bible', 'imprison', 'gas', 'concept', 'solution', 'total', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'imprison', 'pretty', 'absolute', 'solution', 'generally', 'concept', 'bible', 'deletion', 'apply', 'atheist', 'die']
+['concept', 'basically', 'look', 'idea', 'absolute', 'generally', 'atheist', 'apply', 'bible', 'imprison', 'solution', 'pretty', 'deletion', 'total', 'round']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'generally', 'look', 'bible', 'atheist', 'absolute', 'imprison', 'solution', 'gas', 'infinity', 'bad']
+['absolute', 'look', 'pretty', 'solution', 'atheist', 'total', 'concept', 'imprison', 'basically', 'bible', 'idea', 'generally', 'apply', 'deletion', 'man']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'atheist', 'solution', 'pretty', 'bible', 'deletion', 'total', 'apply', 'imprison', 'disease']
+['basically', 'concept', 'pretty', 'look', 'idea', 'infinity', 'generally', 'imprison', 'absolute', 'deletion', 'way', 'solution', 'die', 'happen', 'total']
+['idea', 'basically', 'apply', 'concept', 'pretty', 'solution', 'imprison', 'generally', 'atheist', 'look', 'deletion', 'gas', 'absolute', 'total', 'disease']
+['gas', 'look', 'concept', 'basically', 'apply', 'absolute', 'generally', 'pretty', 'solution', 'idea', 'bible', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'generally', 'look', 'concept', 'absolute', 'atheist', 'idea', 'imprison', 'solution', 'pretty', 'apply', 'bible', 'die', 'man', 'bad']
+['idea', 'basically', 'absolute', 'concept', 'generally', 'pretty', 'imprison', 'total', 'solution', 'look', 'apply', 'round', 'atheist', 'bible', 'gas']
+['basically', 'idea', 'generally', 'total', 'pretty', 'gas', 'look', 'absolute', 'solution', 'concept', 'deletion', 'atheist', 'apply', 'bible', 'disease']
+['basically', 'apply', 'look', 'atheist', 'concept', 'absolute', 'idea', 'generally', 'pretty', 'imprison', 'gas', 'solution', 'bad', 'total', 'man']
+['look', 'solution', 'concept', 'basically', 'absolute', 'idea', 'apply', 'imprison', 'pretty', 'gas', 'atheist', 'generally', 'bible', 'bad', 'total']
+['idea', 'basically', 'generally', 'look', 'absolute', 'pretty', 'concept', 'deletion', 'apply', 'solution', 'imprison', 'atheist', 'total', 'die', 'citizen']
+['idea', 'concept', 'basically', 'generally', 'pretty', 'look', 'solution', 'deletion', 'gas', 'infinity', 'total', 'absolute', 'apply', 'imprison', 'atheist']
+['idea', 'basically', 'concept', 'generally', 'apply', 'deletion', 'gas', 'look', 'atheist', 'absolute', 'pretty', 'solution', 'infinity', 'imprison', 'disease']
+['basically', 'look', 'concept', 'idea', 'pretty', 'apply', 'atheist', 'absolute', 'bad', 'imprison', 'solution', 'gas', 'total', 'generally', 'bible']
+['apply', 'idea', 'look', 'gas', 'pretty', 'basically', 'imprison', 'solution', 'absolute', 'generally', 'concept', 'bible', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'pretty', 'absolute', 'concept', 'solution', 'atheist', 'gas', 'look', 'deletion', 'apply', 'imprison', 'generally', 'base', 'man']
+['basically', 'concept', 'pretty', 'solution', 'absolute', 'idea', 'look', 'generally', 'total', 'atheist', 'apply', 'imprison', 'man', 'gas', 'bible']
+['look', 'absolute', 'apply', 'concept', 'generally', 'pretty', 'idea', 'basically', 'total', 'bible', 'gas', 'atheist', 'bad', 'imprison', 'round']
+['basically', 'concept', 'idea', 'gas', 'total', 'look', 'pretty', 'absolute', 'apply', 'generally', 'bible', 'imprison', 'deletion', 'atheist', 'die']
+['basically', 'look', 'generally', 'concept', 'pretty', 'absolute', 'idea', 'solution', 'apply', 'gas', 'total', 'disease', 'deletion', 'bad', 'imprison']
+['basically', 'look', 'absolute', 'concept', 'generally', 'atheist', 'apply', 'solution', 'idea', 'gas', 'man', 'pretty', 'imprison', 'deletion', 'total']
+['look', 'idea', 'basically', 'concept', 'generally', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'disease', 'deletion']
+['basically', 'apply', 'look', 'concept', 'pretty', 'absolute', 'solution', 'generally', 'atheist', 'imprison', 'idea', 'bible', 'bad', 'total', 'gas']
+['basically', 'concept', 'idea', 'pretty', 'apply', 'solution', 'deletion', 'generally', 'absolute', 'gas', 'look', 'atheist', 'imprison', 'die', 'bible']
+['look', 'absolute', 'basically', 'pretty', 'total', 'generally', 'concept', 'idea', 'apply', 'bible', 'die', 'little', 'solution', 'deletion', 'imprison']
+['idea', 'atheist', 'basically', 'generally', 'apply', 'pretty', 'concept', 'look', 'solution', 'absolute', 'imprison', 'bible', 'gas', 'total', 'deletion']
+['idea', 'look', 'basically', 'apply', 'absolute', 'concept', 'pretty', 'total', 'solution', 'deletion', 'imprison', 'bible', 'generally', 'gas', 'atheist']
+['concept', 'absolute', 'basically', 'idea', 'look', 'apply', 'pretty', 'generally', 'atheist', 'imprison', 'solution', 'total', 'man', 'bible', 'infinity']
+['look', 'absolute', 'basically', 'idea', 'apply', 'atheist', 'concept', 'pretty', 'gas', 'imprison', 'generally', 'solution', 'disease', 'bad', 'deletion']
+['basically', 'atheist', 'absolute', 'concept', 'idea', 'apply', 'generally', 'look', 'pretty', 'imprison', 'deletion', 'solution', 'gas', 'bible', 'bad']
+['basically', 'pretty', 'concept', 'idea', 'apply', 'look', 'absolute', 'imprison', 'solution', 'generally', 'deletion', 'bad', 'die', 'bible', 'total']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'pretty', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'gas', 'round']
+['basically', 'concept', 'generally', 'idea', 'absolute', 'pretty', 'deletion', 'apply', 'solution', 'bible', 'look', 'total', 'disease', 'imprison', 'bad']
+['basically', 'idea', 'look', 'pretty', 'concept', 'apply', 'absolute', 'generally', 'imprison', 'atheist', 'solution', 'deletion', 'infinity', 'gas', 'total']
+['solution', 'pretty', 'concept', 'basically', 'atheist', 'idea', 'apply', 'absolute', 'bible', 'generally', 'look', 'gas', 'deletion', 'imprison', 'total']
+['basically', 'concept', 'look', 'idea', 'apply', 'generally', 'absolute', 'pretty', 'solution', 'atheist', 'deletion', 'bible', 'gas', 'imprison', 'explain']
+['basically', 'concept', 'solution', 'idea', 'gas', 'absolute', 'pretty', 'atheist', 'imprison', 'look', 'total', 'generally', 'man', 'deletion', 'apply']
+['idea', 'concept', 'pretty', 'basically', 'solution', 'absolute', 'gas', 'deletion', 'total', 'apply', 'look', 'bible', 'imprison', 'generally', 'die']
+['concept', 'apply', 'pretty', 'absolute', 'basically', 'look', 'idea', 'gas', 'atheist', 'generally', 'round', 'solution', 'imprison', 'bible', 'man']
+['basically', 'look', 'idea', 'atheist', 'imprison', 'generally', 'absolute', 'pretty', 'solution', 'concept', 'apply', 'deletion', 'disease', 'gas', 'total']
+['basically', 'concept', 'look', 'generally', 'solution', 'idea', 'pretty', 'imprison', 'atheist', 'apply', 'die', 'absolute', 'gas', 'round', 'bad']
+['basically', 'idea', 'pretty', 'absolute', 'generally', 'look', 'atheist', 'concept', 'apply', 'imprison', 'bible', 'solution', 'gas', 'infinity', 'deletion']
+['generally', 'basically', 'concept', 'idea', 'look', 'absolute', 'atheist', 'apply', 'imprison', 'pretty', 'solution', 'deletion', 'bible', 'man', 'way']
+['idea', 'look', 'apply', 'concept', 'basically', 'deletion', 'pretty', 'absolute', 'imprison', 'generally', 'bible', 'solution', 'base', 'total', 'gas']
+['basically', 'concept', 'pretty', 'generally', 'atheist', 'idea', 'apply', 'absolute', 'look', 'solution', 'bible', 'total', 'gas', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'concept', 'idea', 'look', 'deletion', 'solution', 'generally', 'imprison', 'total', 'apply', 'man', 'atheist', 'die']
+['concept', 'pretty', 'basically', 'absolute', 'generally', 'gas', 'deletion', 'idea', 'apply', 'solution', 'bible', 'total', 'look', 'atheist', 'base']
+['concept', 'idea', 'basically', 'pretty', 'apply', 'absolute', 'generally', 'solution', 'look', 'imprison', 'gas', 'bad', 'atheist', 'man', 'bible']
+['basically', 'idea', 'concept', 'imprison', 'look', 'apply', 'generally', 'atheist', 'pretty', 'disease', 'solution', 'absolute', 'bible', 'know', 'die']
+['concept', 'pretty', 'apply', 'basically', 'look', 'absolute', 'idea', 'man', 'generally', 'disease', 'solution', 'atheist', 'imprison', 'gas', 'bible']
+['deletion', 'basically', 'concept', 'look', 'pretty', 'idea', 'absolute', 'total', 'apply', 'generally', 'solution', 'disease', 'imprison', 'gas', 'die']
+['idea', 'basically', 'concept', 'pretty', 'solution', 'look', 'generally', 'absolute', 'deletion', 'imprison', 'atheist', 'gas', 'die', 'apply', 'total']
+==============================
+topic diversity:0.025777777777777778
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3608100786028573, c_w2v:None, c_uci:-4.433829225386482, c_npmi:-0.13876485090822968
+mimno topic coherence:-300.57517536510426
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-179.2022705	Loss_G:180.0149994	loss_E:-0.0443360
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-177.1110840	Loss_G:177.9222717	loss_E:-0.0443369
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-176.6504211	Loss_G:177.4599762	loss_E:-0.0443362
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-177.7914429	Loss_G:178.5996246	loss_E:-0.0443363
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-182.8732910	Loss_G:183.6799316	loss_E:-0.0443369
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-180.5370483	Loss_G:181.3423309	loss_E:-0.0443369
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-180.9707031	Loss_G:181.7744598	loss_E:-0.0443374
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-180.2391663	Loss_G:181.0414124	loss_E:-0.0443375
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-183.0116272	Loss_G:183.8124847	loss_E:-0.0443376
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-180.0215149	Loss_G:180.8208923	loss_E:-0.0443378
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-179.7506104	Loss_G:180.5484314	loss_E:-0.0443378
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-179.1545868	Loss_G:179.9508972	loss_E:-0.0443372
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-184.4247131	Loss_G:185.2196960	loss_E:-0.0443375
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-181.1366425	Loss_G:181.9301300	loss_E:-0.0443379
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-181.2745056	Loss_G:182.0663910	loss_E:-0.0443381
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-179.6162567	Loss_G:180.4068756	loss_E:-0.0443383
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-178.3671265	Loss_G:179.1562042	loss_E:-0.0443376
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-182.3883972	Loss_G:183.1760101	loss_E:-0.0443385
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-182.3068237	Loss_G:183.0930176	loss_E:-0.0443386
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-185.0516052	Loss_G:185.8363342	loss_E:-0.0443387
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-182.1447754	Loss_G:182.9280701	loss_E:-0.0443382
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-182.8783112	Loss_G:183.6602325	loss_E:-0.0443388
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-180.2976074	Loss_G:181.0778503	loss_E:-0.0443385
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-180.8134155	Loss_G:181.5923767	loss_E:-0.0443388
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-177.1992798	Loss_G:177.9768524	loss_E:-0.0443388
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-174.9990845	Loss_G:175.7751617	loss_E:-0.0443386
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-176.8478088	Loss_G:177.6223145	loss_E:-0.0443388
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-181.8731079	Loss_G:182.6463013	loss_E:-0.0443386
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-176.0864258	Loss_G:176.8581696	loss_E:-0.0443388
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-179.5106812	Loss_G:180.2809906	loss_E:-0.0443389
+Epoch  60	Loss_D_avg:-163.5038098	Loss_G_avg:165.4094439	loss_E_avg:-0.0391662
+['concept', 'basically', 'atheist', 'look', 'imprison', 'generally', 'idea', 'apply', 'absolute', 'pretty', 'deletion', 'gas', 'disease', 'solution', 'die']
+['look', 'basically', 'pretty', 'absolute', 'generally', 'concept', 'idea', 'gas', 'solution', 'total', 'imprison', 'deletion', 'apply', 'atheist', 'disease']
+['idea', 'basically', 'look', 'absolute', 'pretty', 'atheist', 'solution', 'concept', 'bible', 'apply', 'generally', 'imprison', 'gas', 'total', 'disease']
+['concept', 'idea', 'pretty', 'basically', 'atheist', 'look', 'apply', 'absolute', 'bible', 'gas', 'solution', 'disease', 'generally', 'total', 'bad']
+['look', 'idea', 'absolute', 'pretty', 'concept', 'atheist', 'generally', 'solution', 'imprison', 'basically', 'apply', 'gas', 'deletion', 'bible', 'know']
+['idea', 'concept', 'basically', 'solution', 'pretty', 'look', 'atheist', 'imprison', 'apply', 'generally', 'total', 'absolute', 'bible', 'deletion', 'camp']
+['basically', 'look', 'generally', 'idea', 'absolute', 'concept', 'apply', 'atheist', 'man', 'imprison', 'pretty', 'bible', 'solution', 'base', 'deletion']
+['basically', 'pretty', 'concept', 'idea', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'total', 'deletion', 'disease']
+['basically', 'pretty', 'generally', 'concept', 'absolute', 'idea', 'imprison', 'look', 'solution', 'deletion', 'atheist', 'bible', 'total', 'apply', 'round']
+['atheist', 'concept', 'idea', 'pretty', 'basically', 'apply', 'absolute', 'look', 'gas', 'solution', 'imprison', 'generally', 'bible', 'deletion', 'infinity']
+['idea', 'atheist', 'concept', 'pretty', 'look', 'solution', 'apply', 'imprison', 'absolute', 'generally', 'basically', 'bible', 'gas', 'total', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'concept', 'apply', 'absolute', 'imprison', 'total', 'atheist', 'bible', 'deletion', 'solution', 'man', 'generally']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'look', 'generally', 'apply', 'atheist', 'die', 'gas', 'solution', 'deletion', 'disease', 'imprison']
+['look', 'gas', 'concept', 'basically', 'apply', 'generally', 'idea', 'pretty', 'solution', 'absolute', 'bad', 'imprison', 'disease', 'bible', 'infinity']
+['concept', 'look', 'idea', 'pretty', 'atheist', 'imprison', 'basically', 'apply', 'solution', 'gas', 'absolute', 'generally', 'total', 'deletion', 'base']
+['idea', 'basically', 'generally', 'look', 'pretty', 'total', 'absolute', 'atheist', 'imprison', 'concept', 'deletion', 'solution', 'apply', 'bible', 'man']
+['basically', 'look', 'generally', 'idea', 'pretty', 'atheist', 'solution', 'imprison', 'absolute', 'concept', 'apply', 'man', 'total', 'deletion', 'infinity']
+['basically', 'idea', 'look', 'atheist', 'concept', 'pretty', 'generally', 'solution', 'absolute', 'imprison', 'apply', 'bible', 'disease', 'total', 'gas']
+['idea', 'absolute', 'look', 'basically', 'concept', 'generally', 'pretty', 'imprison', 'total', 'solution', 'atheist', 'deletion', 'apply', 'bible', 'die']
+['idea', 'atheist', 'pretty', 'basically', 'look', 'absolute', 'generally', 'bible', 'concept', 'imprison', 'gas', 'solution', 'total', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'imprison', 'pretty', 'absolute', 'solution', 'concept', 'generally', 'bible', 'deletion', 'apply', 'atheist', 'die']
+['concept', 'basically', 'look', 'idea', 'absolute', 'generally', 'atheist', 'apply', 'bible', 'imprison', 'solution', 'pretty', 'deletion', 'total', 'round']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'look', 'generally', 'atheist', 'bible', 'absolute', 'imprison', 'solution', 'gas', 'infinity', 'bad']
+['absolute', 'look', 'pretty', 'solution', 'atheist', 'total', 'concept', 'imprison', 'basically', 'idea', 'bible', 'generally', 'apply', 'deletion', 'man']
+['idea', 'basically', 'generally', 'absolute', 'look', 'concept', 'atheist', 'solution', 'pretty', 'deletion', 'bible', 'apply', 'total', 'imprison', 'die']
+['basically', 'concept', 'pretty', 'look', 'idea', 'generally', 'infinity', 'imprison', 'absolute', 'deletion', 'solution', 'way', 'die', 'happen', 'apply']
+['idea', 'basically', 'concept', 'apply', 'pretty', 'solution', 'imprison', 'generally', 'atheist', 'look', 'absolute', 'gas', 'deletion', 'total', 'disease']
+['look', 'concept', 'gas', 'basically', 'apply', 'absolute', 'generally', 'pretty', 'idea', 'solution', 'bible', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'generally', 'concept', 'look', 'absolute', 'atheist', 'idea', 'imprison', 'pretty', 'solution', 'apply', 'bible', 'die', 'man', 'deletion']
+['idea', 'basically', 'absolute', 'concept', 'pretty', 'generally', 'imprison', 'look', 'total', 'solution', 'apply', 'round', 'atheist', 'bible', 'gas']
+['basically', 'idea', 'generally', 'total', 'pretty', 'gas', 'look', 'absolute', 'concept', 'solution', 'atheist', 'deletion', 'apply', 'bible', 'disease']
+['basically', 'apply', 'look', 'concept', 'atheist', 'idea', 'absolute', 'generally', 'pretty', 'imprison', 'gas', 'solution', 'bad', 'total', 'man']
+['look', 'concept', 'basically', 'solution', 'idea', 'absolute', 'apply', 'imprison', 'pretty', 'gas', 'atheist', 'generally', 'bible', 'bad', 'total']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'pretty', 'deletion', 'apply', 'solution', 'imprison', 'atheist', 'total', 'die', 'gas']
+['idea', 'concept', 'basically', 'generally', 'pretty', 'look', 'solution', 'deletion', 'gas', 'infinity', 'total', 'apply', 'absolute', 'imprison', 'atheist']
+['idea', 'basically', 'concept', 'generally', 'apply', 'gas', 'look', 'deletion', 'atheist', 'absolute', 'pretty', 'solution', 'infinity', 'imprison', 'disease']
+['basically', 'look', 'concept', 'idea', 'pretty', 'apply', 'atheist', 'absolute', 'imprison', 'bad', 'solution', 'gas', 'total', 'generally', 'bible']
+['apply', 'idea', 'look', 'gas', 'basically', 'pretty', 'imprison', 'solution', 'absolute', 'generally', 'concept', 'bible', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'pretty', 'concept', 'absolute', 'atheist', 'solution', 'gas', 'look', 'deletion', 'apply', 'imprison', 'generally', 'base', 'total']
+['basically', 'concept', 'pretty', 'solution', 'idea', 'absolute', 'look', 'generally', 'atheist', 'total', 'imprison', 'apply', 'gas', 'bible', 'man']
+['look', 'absolute', 'concept', 'apply', 'generally', 'pretty', 'idea', 'basically', 'total', 'bible', 'atheist', 'gas', 'imprison', 'bad', 'round']
+['basically', 'concept', 'idea', 'gas', 'look', 'total', 'pretty', 'absolute', 'apply', 'generally', 'bible', 'imprison', 'atheist', 'deletion', 'die']
+['basically', 'look', 'generally', 'concept', 'pretty', 'idea', 'absolute', 'solution', 'apply', 'gas', 'total', 'atheist', 'disease', 'deletion', 'imprison']
+['basically', 'look', 'concept', 'absolute', 'generally', 'atheist', 'apply', 'idea', 'solution', 'gas', 'man', 'pretty', 'imprison', 'deletion', 'total']
+['look', 'idea', 'basically', 'concept', 'generally', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'deletion', 'disease']
+['basically', 'apply', 'look', 'concept', 'pretty', 'absolute', 'solution', 'generally', 'atheist', 'idea', 'imprison', 'bible', 'bad', 'gas', 'total']
+['basically', 'concept', 'idea', 'pretty', 'apply', 'solution', 'absolute', 'generally', 'deletion', 'gas', 'look', 'atheist', 'imprison', 'die', 'bible']
+['look', 'absolute', 'basically', 'pretty', 'concept', 'generally', 'total', 'idea', 'apply', 'bible', 'die', 'solution', 'imprison', 'gas', 'deletion']
+['idea', 'atheist', 'basically', 'apply', 'generally', 'concept', 'pretty', 'look', 'absolute', 'solution', 'imprison', 'bible', 'gas', 'total', 'deletion']
+['idea', 'look', 'basically', 'absolute', 'apply', 'concept', 'pretty', 'total', 'solution', 'deletion', 'imprison', 'bible', 'gas', 'generally', 'atheist']
+['concept', 'idea', 'absolute', 'basically', 'look', 'pretty', 'apply', 'generally', 'atheist', 'imprison', 'solution', 'total', 'bible', 'man', 'deletion']
+['look', 'absolute', 'basically', 'idea', 'apply', 'atheist', 'concept', 'pretty', 'gas', 'imprison', 'generally', 'solution', 'disease', 'deletion', 'bad']
+['basically', 'atheist', 'concept', 'absolute', 'idea', 'apply', 'look', 'generally', 'pretty', 'imprison', 'solution', 'deletion', 'gas', 'bible', 'bad']
+['basically', 'pretty', 'concept', 'idea', 'look', 'apply', 'absolute', 'solution', 'imprison', 'generally', 'deletion', 'die', 'bad', 'bible', 'gas']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'pretty', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'gas', 'round']
+['basically', 'concept', 'generally', 'idea', 'absolute', 'pretty', 'apply', 'deletion', 'solution', 'look', 'bible', 'total', 'imprison', 'disease', 'bad']
+['basically', 'idea', 'look', 'pretty', 'concept', 'apply', 'absolute', 'generally', 'imprison', 'solution', 'atheist', 'deletion', 'gas', 'infinity', 'total']
+['concept', 'pretty', 'solution', 'basically', 'idea', 'atheist', 'apply', 'absolute', 'bible', 'look', 'generally', 'deletion', 'gas', 'imprison', 'total']
+['basically', 'concept', 'idea', 'look', 'apply', 'generally', 'absolute', 'pretty', 'solution', 'atheist', 'deletion', 'bible', 'gas', 'imprison', 'explain']
+['basically', 'concept', 'solution', 'idea', 'gas', 'absolute', 'pretty', 'atheist', 'imprison', 'look', 'total', 'generally', 'man', 'deletion', 'apply']
+['idea', 'concept', 'pretty', 'basically', 'solution', 'absolute', 'gas', 'deletion', 'apply', 'total', 'look', 'bible', 'imprison', 'generally', 'die']
+['concept', 'apply', 'pretty', 'absolute', 'basically', 'look', 'idea', 'atheist', 'gas', 'generally', 'solution', 'round', 'imprison', 'bible', 'deletion']
+['basically', 'look', 'idea', 'atheist', 'imprison', 'generally', 'absolute', 'pretty', 'concept', 'solution', 'apply', 'deletion', 'disease', 'gas', 'total']
+['basically', 'concept', 'look', 'generally', 'idea', 'solution', 'pretty', 'imprison', 'atheist', 'apply', 'absolute', 'die', 'gas', 'round', 'bad']
+['basically', 'idea', 'pretty', 'absolute', 'generally', 'concept', 'look', 'atheist', 'apply', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'infinity']
+['generally', 'basically', 'concept', 'idea', 'look', 'absolute', 'atheist', 'apply', 'imprison', 'pretty', 'solution', 'deletion', 'bible', 'man', 'gas']
+['idea', 'look', 'apply', 'concept', 'basically', 'deletion', 'pretty', 'absolute', 'imprison', 'generally', 'bible', 'solution', 'base', 'total', 'gas']
+['basically', 'concept', 'pretty', 'idea', 'generally', 'atheist', 'absolute', 'apply', 'look', 'solution', 'bible', 'total', 'gas', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'concept', 'idea', 'look', 'deletion', 'solution', 'generally', 'imprison', 'total', 'apply', 'atheist', 'man', 'die']
+['concept', 'basically', 'pretty', 'absolute', 'generally', 'gas', 'deletion', 'idea', 'apply', 'solution', 'bible', 'total', 'look', 'atheist', 'disease']
+['concept', 'idea', 'basically', 'pretty', 'absolute', 'apply', 'generally', 'solution', 'look', 'imprison', 'gas', 'atheist', 'bad', 'bible', 'man']
+['basically', 'idea', 'concept', 'imprison', 'look', 'apply', 'generally', 'atheist', 'pretty', 'solution', 'absolute', 'disease', 'bible', 'know', 'die']
+['concept', 'pretty', 'apply', 'basically', 'look', 'absolute', 'idea', 'generally', 'man', 'solution', 'disease', 'atheist', 'imprison', 'gas', 'bible']
+['basically', 'deletion', 'concept', 'look', 'idea', 'pretty', 'absolute', 'total', 'apply', 'generally', 'solution', 'imprison', 'disease', 'gas', 'die']
+['idea', 'basically', 'concept', 'pretty', 'solution', 'look', 'generally', 'absolute', 'deletion', 'imprison', 'atheist', 'gas', 'die', 'apply', 'total']
+==============================
+topic diversity:0.024
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3590559702843551, c_w2v:None, c_uci:-4.508787140118414, c_npmi:-0.1413706067244394
+mimno topic coherence:-300.57517536510426
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-185.6233521	Loss_G:186.3922272	loss_E:-0.0443386
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-180.1084442	Loss_G:180.8759308	loss_E:-0.0443390
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-178.6141510	Loss_G:179.3801117	loss_E:-0.0443393
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-180.5161438	Loss_G:181.2808075	loss_E:-0.0443394
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-179.0493317	Loss_G:179.8123932	loss_E:-0.0443390
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-178.3972321	Loss_G:179.1589966	loss_E:-0.0443387
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-183.2597961	Loss_G:184.0201721	loss_E:-0.0443386
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-178.6148071	Loss_G:179.3737335	loss_E:-0.0443392
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-181.0329895	Loss_G:181.7903748	loss_E:-0.0443394
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-179.8917236	Loss_G:180.6478119	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-179.1580811	Loss_G:179.9127045	loss_E:-0.0443390
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-183.0437927	Loss_G:183.7970581	loss_E:-0.0443384
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-180.4895020	Loss_G:181.2413788	loss_E:-0.0443391
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-180.2178955	Loss_G:180.9682922	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-182.5818787	Loss_G:183.3308563	loss_E:-0.0443397
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-189.3742981	Loss_G:190.1219635	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-181.1962891	Loss_G:181.9423981	loss_E:-0.0443394
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-177.8815155	Loss_G:178.6262970	loss_E:-0.0443395
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-179.0228271	Loss_G:179.7662659	loss_E:-0.0443393
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-182.2017517	Loss_G:182.9438019	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-181.4953918	Loss_G:182.2359161	loss_E:-0.0443393
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-181.0061340	Loss_G:181.7454071	loss_E:-0.0443391
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-180.7890320	Loss_G:181.5267639	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-182.9354248	Loss_G:183.6718445	loss_E:-0.0443395
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-177.8003082	Loss_G:178.5352936	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-180.0555267	Loss_G:180.7890930	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-180.5988159	Loss_G:181.3309937	loss_E:-0.0443399
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-180.6260681	Loss_G:181.3569946	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-179.6481018	Loss_G:180.3774261	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-180.2185364	Loss_G:180.9465790	loss_E:-0.0443399
+Epoch  70	Loss_D_avg:-165.9815948	Loss_G_avg:167.7219037	loss_E_avg:-0.0399052
+['concept', 'basically', 'atheist', 'look', 'idea', 'imprison', 'generally', 'apply', 'absolute', 'pretty', 'gas', 'deletion', 'disease', 'solution', 'die']
+['look', 'basically', 'pretty', 'absolute', 'generally', 'concept', 'idea', 'gas', 'solution', 'total', 'imprison', 'atheist', 'apply', 'deletion', 'bible']
+['idea', 'basically', 'look', 'pretty', 'absolute', 'atheist', 'concept', 'solution', 'bible', 'apply', 'generally', 'imprison', 'gas', 'total', 'disease']
+['concept', 'idea', 'pretty', 'basically', 'atheist', 'look', 'apply', 'absolute', 'bible', 'solution', 'gas', 'generally', 'disease', 'total', 'bad']
+['look', 'idea', 'absolute', 'pretty', 'concept', 'atheist', 'generally', 'solution', 'basically', 'imprison', 'apply', 'gas', 'deletion', 'bible', 'know']
+['idea', 'concept', 'basically', 'pretty', 'solution', 'look', 'imprison', 'atheist', 'apply', 'generally', 'total', 'absolute', 'bible', 'deletion', 'camp']
+['basically', 'look', 'idea', 'absolute', 'concept', 'generally', 'apply', 'atheist', 'imprison', 'man', 'pretty', 'bible', 'solution', 'deletion', 'base']
+['basically', 'pretty', 'concept', 'idea', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'deletion', 'total', 'bible']
+['basically', 'pretty', 'generally', 'concept', 'idea', 'absolute', 'imprison', 'look', 'solution', 'deletion', 'atheist', 'bible', 'total', 'apply', 'round']
+['atheist', 'concept', 'idea', 'pretty', 'basically', 'absolute', 'apply', 'look', 'gas', 'solution', 'imprison', 'generally', 'bible', 'deletion', 'infinity']
+['idea', 'atheist', 'concept', 'pretty', 'look', 'solution', 'imprison', 'apply', 'absolute', 'basically', 'generally', 'bible', 'gas', 'total', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'concept', 'apply', 'absolute', 'imprison', 'total', 'atheist', 'bible', 'deletion', 'solution', 'man', 'generally']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'look', 'generally', 'apply', 'atheist', 'die', 'gas', 'solution', 'deletion', 'imprison', 'disease']
+['look', 'concept', 'gas', 'basically', 'apply', 'idea', 'generally', 'pretty', 'solution', 'absolute', 'imprison', 'bad', 'bible', 'disease', 'infinity']
+['concept', 'idea', 'look', 'pretty', 'atheist', 'basically', 'imprison', 'apply', 'solution', 'absolute', 'gas', 'generally', 'total', 'deletion', 'bible']
+['idea', 'basically', 'generally', 'look', 'pretty', 'absolute', 'total', 'atheist', 'imprison', 'concept', 'deletion', 'solution', 'apply', 'bible', 'man']
+['basically', 'look', 'idea', 'generally', 'pretty', 'atheist', 'imprison', 'absolute', 'solution', 'concept', 'apply', 'deletion', 'total', 'man', 'gas']
+['basically', 'idea', 'look', 'atheist', 'concept', 'pretty', 'generally', 'solution', 'absolute', 'imprison', 'apply', 'bible', 'disease', 'gas', 'total']
+['idea', 'absolute', 'look', 'basically', 'concept', 'generally', 'pretty', 'imprison', 'solution', 'total', 'atheist', 'deletion', 'apply', 'bible', 'die']
+['idea', 'atheist', 'pretty', 'basically', 'look', 'absolute', 'generally', 'bible', 'concept', 'imprison', 'solution', 'gas', 'total', 'deletion', 'apply']
+['basically', 'idea', 'gas', 'look', 'imprison', 'pretty', 'absolute', 'concept', 'solution', 'generally', 'apply', 'bible', 'deletion', 'atheist', 'die']
+['concept', 'basically', 'look', 'idea', 'absolute', 'generally', 'atheist', 'apply', 'imprison', 'bible', 'pretty', 'solution', 'total', 'deletion', 'gas']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'look', 'generally', 'atheist', 'bible', 'absolute', 'imprison', 'solution', 'gas', 'deletion', 'infinity']
+['absolute', 'look', 'pretty', 'solution', 'atheist', 'concept', 'imprison', 'total', 'basically', 'idea', 'bible', 'generally', 'apply', 'deletion', 'gas']
+['idea', 'basically', 'absolute', 'look', 'generally', 'concept', 'atheist', 'pretty', 'solution', 'deletion', 'bible', 'apply', 'total', 'imprison', 'die']
+['basically', 'concept', 'pretty', 'idea', 'look', 'generally', 'infinity', 'imprison', 'absolute', 'deletion', 'solution', 'way', 'die', 'happen', 'apply']
+['idea', 'basically', 'concept', 'apply', 'pretty', 'solution', 'imprison', 'generally', 'atheist', 'look', 'absolute', 'gas', 'deletion', 'total', 'bible']
+['concept', 'look', 'basically', 'gas', 'apply', 'absolute', 'generally', 'idea', 'pretty', 'solution', 'bible', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'generally', 'concept', 'look', 'absolute', 'idea', 'atheist', 'imprison', 'pretty', 'solution', 'apply', 'bible', 'die', 'deletion', 'man']
+['idea', 'basically', 'concept', 'absolute', 'pretty', 'generally', 'imprison', 'look', 'solution', 'total', 'apply', 'round', 'atheist', 'bible', 'gas']
+['basically', 'idea', 'generally', 'pretty', 'total', 'look', 'gas', 'concept', 'absolute', 'solution', 'atheist', 'deletion', 'apply', 'bible', 'disease']
+['basically', 'look', 'apply', 'concept', 'atheist', 'idea', 'absolute', 'generally', 'pretty', 'imprison', 'gas', 'solution', 'bad', 'total', 'bible']
+['look', 'concept', 'basically', 'solution', 'idea', 'absolute', 'apply', 'pretty', 'imprison', 'gas', 'atheist', 'generally', 'bible', 'bad', 'total']
+['idea', 'basically', 'generally', 'look', 'absolute', 'concept', 'pretty', 'deletion', 'apply', 'solution', 'imprison', 'atheist', 'total', 'gas', 'die']
+['idea', 'concept', 'basically', 'generally', 'pretty', 'look', 'solution', 'deletion', 'gas', 'apply', 'total', 'infinity', 'absolute', 'imprison', 'atheist']
+['idea', 'basically', 'concept', 'generally', 'apply', 'look', 'gas', 'deletion', 'atheist', 'absolute', 'pretty', 'solution', 'imprison', 'infinity', 'bible']
+['basically', 'idea', 'concept', 'look', 'pretty', 'apply', 'atheist', 'absolute', 'imprison', 'solution', 'bad', 'gas', 'total', 'generally', 'bible']
+['apply', 'idea', 'look', 'basically', 'pretty', 'gas', 'imprison', 'solution', 'absolute', 'concept', 'generally', 'bible', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'concept', 'pretty', 'absolute', 'atheist', 'solution', 'gas', 'look', 'deletion', 'apply', 'imprison', 'generally', 'total', 'base']
+['basically', 'concept', 'pretty', 'solution', 'idea', 'absolute', 'look', 'generally', 'atheist', 'total', 'imprison', 'apply', 'gas', 'bible', 'deletion']
+['look', 'concept', 'absolute', 'apply', 'generally', 'pretty', 'idea', 'basically', 'total', 'bible', 'atheist', 'gas', 'imprison', 'bad', 'round']
+['basically', 'concept', 'idea', 'gas', 'look', 'pretty', 'total', 'absolute', 'apply', 'generally', 'imprison', 'bible', 'atheist', 'deletion', 'solution']
+['basically', 'look', 'concept', 'generally', 'pretty', 'idea', 'absolute', 'apply', 'solution', 'gas', 'total', 'atheist', 'imprison', 'deletion', 'disease']
+['basically', 'look', 'concept', 'absolute', 'generally', 'atheist', 'idea', 'apply', 'solution', 'gas', 'pretty', 'man', 'imprison', 'deletion', 'bible']
+['look', 'idea', 'basically', 'concept', 'generally', 'pretty', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'deletion', 'bible']
+['basically', 'look', 'apply', 'concept', 'pretty', 'absolute', 'solution', 'generally', 'atheist', 'idea', 'imprison', 'bible', 'gas', 'bad', 'total']
+['concept', 'basically', 'idea', 'pretty', 'apply', 'solution', 'absolute', 'generally', 'look', 'deletion', 'gas', 'atheist', 'imprison', 'bible', 'die']
+['basically', 'look', 'absolute', 'pretty', 'concept', 'idea', 'generally', 'total', 'apply', 'bible', 'imprison', 'solution', 'gas', 'deletion', 'die']
+['idea', 'atheist', 'basically', 'concept', 'apply', 'generally', 'pretty', 'look', 'absolute', 'solution', 'imprison', 'bible', 'gas', 'total', 'deletion']
+['idea', 'look', 'basically', 'absolute', 'apply', 'concept', 'pretty', 'total', 'solution', 'deletion', 'imprison', 'bible', 'gas', 'generally', 'atheist']
+['concept', 'idea', 'absolute', 'basically', 'look', 'pretty', 'apply', 'generally', 'atheist', 'imprison', 'solution', 'total', 'bible', 'man', 'deletion']
+['look', 'absolute', 'basically', 'idea', 'atheist', 'apply', 'concept', 'pretty', 'gas', 'imprison', 'generally', 'solution', 'disease', 'deletion', 'bible']
+['basically', 'atheist', 'concept', 'idea', 'absolute', 'apply', 'look', 'generally', 'pretty', 'imprison', 'solution', 'deletion', 'gas', 'bible', 'bad']
+['basically', 'pretty', 'concept', 'idea', 'look', 'apply', 'absolute', 'solution', 'imprison', 'generally', 'deletion', 'bible', 'bad', 'die', 'gas']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'pretty', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'gas', 'round']
+['concept', 'basically', 'idea', 'generally', 'absolute', 'pretty', 'apply', 'solution', 'deletion', 'look', 'bible', 'total', 'imprison', 'disease', 'bad']
+['basically', 'idea', 'look', 'pretty', 'concept', 'apply', 'absolute', 'generally', 'imprison', 'solution', 'atheist', 'deletion', 'gas', 'infinity', 'total']
+['concept', 'pretty', 'solution', 'idea', 'basically', 'atheist', 'apply', 'absolute', 'bible', 'look', 'generally', 'imprison', 'deletion', 'gas', 'total']
+['basically', 'concept', 'idea', 'look', 'apply', 'generally', 'absolute', 'pretty', 'solution', 'atheist', 'deletion', 'bible', 'gas', 'imprison', 'total']
+['basically', 'concept', 'idea', 'solution', 'gas', 'absolute', 'pretty', 'atheist', 'imprison', 'look', 'total', 'generally', 'apply', 'deletion', 'man']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'solution', 'gas', 'deletion', 'look', 'apply', 'total', 'bible', 'imprison', 'generally', 'die']
+['concept', 'pretty', 'apply', 'absolute', 'basically', 'idea', 'look', 'atheist', 'gas', 'generally', 'solution', 'imprison', 'round', 'bible', 'deletion']
+['basically', 'look', 'idea', 'atheist', 'imprison', 'generally', 'pretty', 'absolute', 'concept', 'solution', 'apply', 'deletion', 'disease', 'gas', 'total']
+['basically', 'concept', 'look', 'generally', 'idea', 'solution', 'pretty', 'imprison', 'atheist', 'absolute', 'apply', 'die', 'gas', 'round', 'know']
+['idea', 'basically', 'pretty', 'absolute', 'generally', 'concept', 'look', 'atheist', 'apply', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'infinity']
+['basically', 'generally', 'concept', 'idea', 'look', 'absolute', 'atheist', 'apply', 'imprison', 'pretty', 'solution', 'deletion', 'bible', 'gas', 'man']
+['idea', 'look', 'concept', 'apply', 'basically', 'pretty', 'deletion', 'absolute', 'imprison', 'generally', 'bible', 'solution', 'total', 'gas', 'base']
+['basically', 'concept', 'pretty', 'idea', 'atheist', 'generally', 'absolute', 'apply', 'look', 'solution', 'bible', 'total', 'gas', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'concept', 'idea', 'look', 'solution', 'deletion', 'generally', 'imprison', 'total', 'apply', 'atheist', 'man', 'die']
+['concept', 'basically', 'pretty', 'absolute', 'generally', 'idea', 'gas', 'deletion', 'apply', 'solution', 'bible', 'look', 'total', 'atheist', 'disease']
+['concept', 'idea', 'basically', 'pretty', 'absolute', 'apply', 'generally', 'look', 'solution', 'imprison', 'gas', 'atheist', 'bad', 'bible', 'man']
+['basically', 'idea', 'concept', 'imprison', 'look', 'apply', 'generally', 'atheist', 'pretty', 'solution', 'absolute', 'disease', 'bible', 'know', 'die']
+['concept', 'pretty', 'basically', 'apply', 'look', 'absolute', 'idea', 'generally', 'man', 'solution', 'atheist', 'disease', 'imprison', 'gas', 'bible']
+['basically', 'deletion', 'concept', 'look', 'idea', 'pretty', 'absolute', 'total', 'apply', 'generally', 'solution', 'imprison', 'disease', 'gas', 'bible']
+['idea', 'basically', 'concept', 'pretty', 'solution', 'look', 'generally', 'absolute', 'deletion', 'atheist', 'imprison', 'gas', 'apply', 'die', 'total']
+==============================
+topic diversity:0.02311111111111111
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35882941541539465, c_w2v:None, c_uci:-4.5004309053626015, c_npmi:-0.14029777174149216
+mimno topic coherence:-303.0009343423894
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-178.1264954	Loss_G:178.8532104	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-181.2510986	Loss_G:181.9763794	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-179.4034424	Loss_G:180.1272888	loss_E:-0.0443398
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 |  1% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-176.4963379	Loss_G:177.2189331	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-180.0285339	Loss_G:180.7496338	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-178.8329773	Loss_G:179.5528107	loss_E:-0.0443399
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-182.9627228	Loss_G:183.6811066	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-180.2186890	Loss_G:180.9356842	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-181.2238617	Loss_G:181.9394836	loss_E:-0.0443397
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-184.6202698	Loss_G:185.3346100	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-180.6805420	Loss_G:181.3933716	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-177.7463074	Loss_G:178.4578094	loss_E:-0.0443396
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-177.6648102	Loss_G:178.3750153	loss_E:-0.0443394
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-183.0987549	Loss_G:183.8075562	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-177.3114929	Loss_G:178.0188446	loss_E:-0.0443400
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-181.6044922	Loss_G:182.3105927	loss_E:-0.0443400
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-181.3870850	Loss_G:182.0917511	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-184.4301147	Loss_G:185.1334839	loss_E:-0.0443400
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-179.7024841	Loss_G:180.4044952	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-180.4089355	Loss_G:181.1095428	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-177.9092865	Loss_G:178.6085968	loss_E:-0.0443398
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-176.9312439	Loss_G:177.6292419	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-180.6263885	Loss_G:181.3228912	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-179.8112335	Loss_G:180.5064392	loss_E:-0.0443400
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-181.4957581	Loss_G:182.1896820	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-177.8278503	Loss_G:178.5203857	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-178.8059387	Loss_G:179.4971008	loss_E:-0.0443398
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-178.1538849	Loss_G:178.8437653	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-181.1697388	Loss_G:181.8582001	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-182.4738770	Loss_G:183.1610870	loss_E:-0.0443399
+Epoch  80	Loss_D_avg:-167.7439148	Loss_G_avg:169.3550366	loss_E_avg:-0.0404595
+['concept', 'basically', 'atheist', 'look', 'idea', 'imprison', 'generally', 'apply', 'absolute', 'pretty', 'gas', 'deletion', 'disease', 'solution', 'die']
+['look', 'basically', 'pretty', 'concept', 'absolute', 'generally', 'idea', 'gas', 'solution', 'total', 'imprison', 'atheist', 'apply', 'deletion', 'bible']
+['idea', 'basically', 'look', 'pretty', 'absolute', 'concept', 'atheist', 'solution', 'bible', 'apply', 'generally', 'imprison', 'gas', 'total', 'disease']
+['concept', 'idea', 'pretty', 'basically', 'atheist', 'look', 'apply', 'absolute', 'bible', 'solution', 'gas', 'generally', 'disease', 'total', 'imprison']
+['look', 'idea', 'absolute', 'concept', 'pretty', 'atheist', 'generally', 'basically', 'solution', 'imprison', 'apply', 'gas', 'deletion', 'bible', 'know']
+['idea', 'concept', 'basically', 'pretty', 'solution', 'look', 'imprison', 'atheist', 'apply', 'generally', 'total', 'absolute', 'bible', 'deletion', 'camp']
+['basically', 'idea', 'look', 'concept', 'absolute', 'generally', 'apply', 'atheist', 'imprison', 'pretty', 'man', 'bible', 'solution', 'deletion', 'disease']
+['basically', 'concept', 'idea', 'pretty', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'deletion', 'total', 'bible']
+['basically', 'pretty', 'generally', 'concept', 'idea', 'absolute', 'imprison', 'look', 'solution', 'deletion', 'atheist', 'bible', 'total', 'apply', 'trial']
+['atheist', 'concept', 'idea', 'basically', 'pretty', 'absolute', 'apply', 'look', 'gas', 'solution', 'generally', 'imprison', 'bible', 'deletion', 'infinity']
+['idea', 'atheist', 'concept', 'pretty', 'look', 'solution', 'imprison', 'apply', 'absolute', 'basically', 'generally', 'bible', 'gas', 'total', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'concept', 'apply', 'absolute', 'imprison', 'atheist', 'total', 'bible', 'deletion', 'solution', 'generally', 'man']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'look', 'generally', 'atheist', 'apply', 'solution', 'gas', 'die', 'imprison', 'deletion', 'disease']
+['look', 'concept', 'gas', 'basically', 'apply', 'idea', 'pretty', 'generally', 'solution', 'absolute', 'imprison', 'bad', 'bible', 'disease', 'atheist']
+['concept', 'idea', 'look', 'pretty', 'atheist', 'basically', 'imprison', 'apply', 'solution', 'absolute', 'gas', 'generally', 'total', 'deletion', 'bible']
+['idea', 'basically', 'generally', 'look', 'pretty', 'absolute', 'atheist', 'total', 'imprison', 'concept', 'deletion', 'solution', 'apply', 'bible', 'man']
+['basically', 'look', 'idea', 'pretty', 'generally', 'atheist', 'imprison', 'concept', 'absolute', 'solution', 'apply', 'deletion', 'total', 'gas', 'bible']
+['basically', 'idea', 'look', 'concept', 'atheist', 'pretty', 'generally', 'solution', 'absolute', 'imprison', 'apply', 'bible', 'gas', 'disease', 'total']
+['idea', 'absolute', 'look', 'basically', 'concept', 'generally', 'pretty', 'imprison', 'solution', 'atheist', 'total', 'apply', 'deletion', 'bible', 'gas']
+['idea', 'atheist', 'pretty', 'basically', 'look', 'absolute', 'generally', 'concept', 'bible', 'imprison', 'solution', 'gas', 'total', 'apply', 'deletion']
+['basically', 'idea', 'look', 'gas', 'imprison', 'pretty', 'concept', 'absolute', 'solution', 'generally', 'apply', 'deletion', 'bible', 'atheist', 'total']
+['concept', 'basically', 'idea', 'look', 'absolute', 'generally', 'atheist', 'apply', 'pretty', 'imprison', 'bible', 'solution', 'deletion', 'total', 'gas']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'look', 'generally', 'atheist', 'bible', 'absolute', 'imprison', 'solution', 'gas', 'deletion', 'bad']
+['absolute', 'look', 'pretty', 'solution', 'concept', 'atheist', 'imprison', 'idea', 'total', 'basically', 'bible', 'apply', 'generally', 'deletion', 'gas']
+['idea', 'basically', 'absolute', 'look', 'concept', 'generally', 'atheist', 'pretty', 'solution', 'deletion', 'bible', 'apply', 'imprison', 'total', 'die']
+['concept', 'basically', 'pretty', 'idea', 'look', 'generally', 'infinity', 'imprison', 'absolute', 'deletion', 'solution', 'way', 'apply', 'atheist', 'happen']
+['idea', 'concept', 'basically', 'apply', 'pretty', 'solution', 'imprison', 'look', 'generally', 'atheist', 'absolute', 'gas', 'deletion', 'total', 'bible']
+['concept', 'look', 'basically', 'gas', 'apply', 'absolute', 'generally', 'idea', 'pretty', 'solution', 'bible', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'concept', 'generally', 'look', 'absolute', 'idea', 'atheist', 'imprison', 'pretty', 'solution', 'apply', 'bible', 'die', 'deletion', 'total']
+['idea', 'basically', 'concept', 'absolute', 'pretty', 'look', 'imprison', 'generally', 'solution', 'total', 'apply', 'atheist', 'round', 'bible', 'gas']
+['basically', 'idea', 'generally', 'pretty', 'look', 'total', 'concept', 'gas', 'absolute', 'solution', 'atheist', 'deletion', 'apply', 'bible', 'disease']
+['basically', 'look', 'concept', 'apply', 'atheist', 'idea', 'absolute', 'generally', 'pretty', 'imprison', 'gas', 'solution', 'bad', 'total', 'bible']
+['concept', 'look', 'basically', 'solution', 'idea', 'absolute', 'pretty', 'apply', 'imprison', 'gas', 'atheist', 'generally', 'bible', 'bad', 'total']
+['idea', 'basically', 'look', 'generally', 'concept', 'absolute', 'pretty', 'deletion', 'apply', 'solution', 'imprison', 'atheist', 'total', 'gas', 'bible']
+['idea', 'concept', 'basically', 'generally', 'pretty', 'look', 'solution', 'deletion', 'gas', 'apply', 'absolute', 'total', 'infinity', 'imprison', 'atheist']
+['idea', 'basically', 'concept', 'generally', 'apply', 'look', 'gas', 'atheist', 'deletion', 'absolute', 'pretty', 'solution', 'imprison', 'infinity', 'bible']
+['basically', 'idea', 'concept', 'look', 'pretty', 'apply', 'atheist', 'absolute', 'imprison', 'solution', 'bad', 'gas', 'generally', 'total', 'bible']
+['idea', 'apply', 'look', 'basically', 'pretty', 'gas', 'imprison', 'concept', 'solution', 'absolute', 'generally', 'bible', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'concept', 'pretty', 'absolute', 'atheist', 'solution', 'gas', 'look', 'deletion', 'apply', 'generally', 'imprison', 'total', 'bible']
+['basically', 'concept', 'pretty', 'solution', 'idea', 'absolute', 'look', 'generally', 'atheist', 'imprison', 'apply', 'total', 'gas', 'bible', 'deletion']
+['concept', 'look', 'absolute', 'apply', 'idea', 'generally', 'pretty', 'basically', 'total', 'bible', 'atheist', 'gas', 'imprison', 'bad', 'solution']
+['basically', 'concept', 'idea', 'gas', 'look', 'pretty', 'total', 'absolute', 'apply', 'generally', 'imprison', 'bible', 'atheist', 'solution', 'deletion']
+['basically', 'concept', 'look', 'generally', 'pretty', 'idea', 'absolute', 'apply', 'solution', 'gas', 'total', 'atheist', 'imprison', 'deletion', 'bible']
+['basically', 'concept', 'look', 'absolute', 'generally', 'atheist', 'idea', 'apply', 'solution', 'gas', 'pretty', 'man', 'imprison', 'deletion', 'bible']
+['idea', 'look', 'basically', 'concept', 'pretty', 'generally', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'total', 'gas', 'deletion', 'bible']
+['basically', 'concept', 'look', 'apply', 'pretty', 'absolute', 'solution', 'generally', 'idea', 'atheist', 'imprison', 'bible', 'gas', 'total', 'bad']
+['concept', 'basically', 'idea', 'pretty', 'apply', 'solution', 'absolute', 'look', 'generally', 'deletion', 'gas', 'atheist', 'imprison', 'bible', 'die']
+['basically', 'look', 'absolute', 'concept', 'pretty', 'idea', 'generally', 'total', 'apply', 'bible', 'imprison', 'solution', 'gas', 'deletion', 'die']
+['idea', 'basically', 'concept', 'atheist', 'apply', 'generally', 'pretty', 'look', 'absolute', 'imprison', 'solution', 'bible', 'gas', 'total', 'deletion']
+['idea', 'basically', 'look', 'absolute', 'apply', 'concept', 'pretty', 'total', 'solution', 'imprison', 'deletion', 'gas', 'bible', 'atheist', 'generally']
+['concept', 'idea', 'basically', 'absolute', 'look', 'pretty', 'generally', 'apply', 'atheist', 'imprison', 'solution', 'total', 'bible', 'deletion', 'gas']
+['look', 'basically', 'absolute', 'idea', 'atheist', 'apply', 'concept', 'pretty', 'imprison', 'gas', 'generally', 'solution', 'disease', 'deletion', 'bible']
+['basically', 'concept', 'atheist', 'idea', 'absolute', 'apply', 'look', 'generally', 'pretty', 'imprison', 'solution', 'deletion', 'gas', 'bible', 'bad']
+['basically', 'pretty', 'concept', 'idea', 'look', 'apply', 'absolute', 'solution', 'imprison', 'generally', 'deletion', 'bible', 'bad', 'gas', 'atheist']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'pretty', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'gas', 'round']
+['concept', 'basically', 'idea', 'generally', 'absolute', 'pretty', 'apply', 'solution', 'look', 'bible', 'deletion', 'total', 'imprison', 'disease', 'atheist']
+['idea', 'basically', 'look', 'pretty', 'concept', 'absolute', 'apply', 'generally', 'imprison', 'solution', 'atheist', 'deletion', 'gas', 'infinity', 'total']
+['concept', 'pretty', 'idea', 'basically', 'solution', 'atheist', 'apply', 'absolute', 'bible', 'look', 'imprison', 'generally', 'deletion', 'gas', 'total']
+['basically', 'concept', 'idea', 'look', 'apply', 'absolute', 'generally', 'pretty', 'solution', 'atheist', 'deletion', 'bible', 'gas', 'imprison', 'total']
+['basically', 'concept', 'idea', 'solution', 'gas', 'pretty', 'absolute', 'atheist', 'look', 'imprison', 'total', 'generally', 'apply', 'deletion', 'bible']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'solution', 'gas', 'look', 'deletion', 'apply', 'total', 'bible', 'imprison', 'generally', 'die']
+['concept', 'pretty', 'apply', 'idea', 'basically', 'absolute', 'look', 'atheist', 'gas', 'generally', 'solution', 'imprison', 'bible', 'round', 'deletion']
+['basically', 'look', 'idea', 'atheist', 'imprison', 'pretty', 'generally', 'absolute', 'concept', 'solution', 'apply', 'deletion', 'gas', 'disease', 'bible']
+['basically', 'concept', 'look', 'idea', 'generally', 'pretty', 'solution', 'imprison', 'atheist', 'absolute', 'apply', 'gas', 'die', 'round', 'total']
+['idea', 'basically', 'pretty', 'absolute', 'concept', 'generally', 'look', 'apply', 'atheist', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'infinity']
+['basically', 'generally', 'concept', 'idea', 'look', 'absolute', 'atheist', 'apply', 'imprison', 'pretty', 'solution', 'deletion', 'bible', 'gas', 'man']
+['idea', 'look', 'concept', 'basically', 'apply', 'pretty', 'deletion', 'absolute', 'imprison', 'generally', 'bible', 'solution', 'total', 'gas', 'base']
+['basically', 'concept', 'idea', 'pretty', 'atheist', 'generally', 'absolute', 'apply', 'look', 'solution', 'gas', 'bible', 'total', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'idea', 'concept', 'look', 'solution', 'deletion', 'generally', 'imprison', 'apply', 'total', 'atheist', 'man', 'die']
+['concept', 'basically', 'pretty', 'absolute', 'generally', 'idea', 'gas', 'deletion', 'apply', 'solution', 'look', 'bible', 'atheist', 'total', 'disease']
+['concept', 'idea', 'basically', 'pretty', 'absolute', 'apply', 'generally', 'look', 'solution', 'imprison', 'gas', 'atheist', 'bad', 'bible', 'man']
+['basically', 'idea', 'concept', 'imprison', 'look', 'apply', 'generally', 'pretty', 'atheist', 'absolute', 'solution', 'bible', 'disease', 'know', 'die']
+['concept', 'pretty', 'basically', 'apply', 'look', 'idea', 'absolute', 'generally', 'atheist', 'solution', 'man', 'imprison', 'disease', 'gas', 'bible']
+['basically', 'concept', 'look', 'deletion', 'idea', 'pretty', 'absolute', 'total', 'apply', 'generally', 'solution', 'imprison', 'gas', 'disease', 'bible']
+['idea', 'concept', 'basically', 'pretty', 'look', 'solution', 'generally', 'absolute', 'deletion', 'atheist', 'imprison', 'gas', 'apply', 'bible', 'total']
+==============================
+topic diversity:0.024
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35879048628766375, c_w2v:None, c_uci:-4.545971897175287, c_npmi:-0.1413235878548776
+mimno topic coherence:-306.7523279417723
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-175.1380310	Loss_G:175.8238525	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-178.2897339	Loss_G:178.9741821	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-179.5667725	Loss_G:180.2498932	loss_E:-0.0443396
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-178.7515869	Loss_G:179.4335175	loss_E:-0.0443400
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-182.6369629	Loss_G:183.3173676	loss_E:-0.0443385
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-180.0829468	Loss_G:180.7620850	loss_E:-0.0443391
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-181.5773315	Loss_G:182.2552490	loss_E:-0.0443393
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-179.8927612	Loss_G:180.5692444	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-178.2625732	Loss_G:178.9376526	loss_E:-0.0443399
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-182.4196014	Loss_G:183.0934601	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-181.3871460	Loss_G:182.0596161	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-179.9471130	Loss_G:180.6183167	loss_E:-0.0443392
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 |  6% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-181.2512512	Loss_G:181.9211121	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-184.8376465	Loss_G:185.5061951	loss_E:-0.0443394
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-180.3546906	Loss_G:181.0218964	loss_E:-0.0443393
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-179.2135620	Loss_G:179.8795319	loss_E:-0.0443392
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-180.1644287	Loss_G:180.8289795	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-179.7025757	Loss_G:180.3658295	loss_E:-0.0443398
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-176.6867218	Loss_G:177.3487549	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-174.7576447	Loss_G:175.4183197	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-176.1976624	Loss_G:176.8569183	loss_E:-0.0443398
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-179.6754456	Loss_G:180.3335114	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-186.2234192	Loss_G:186.8800964	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-181.1968536	Loss_G:181.8523712	loss_E:-0.0443388
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-185.5984192	Loss_G:186.2526550	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-178.2082214	Loss_G:178.8610077	loss_E:-0.0443393
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-178.1267395	Loss_G:178.7782288	loss_E:-0.0443392
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-181.6044617	Loss_G:182.2547913	loss_E:-0.0443393
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-180.8437805	Loss_G:181.4925995	loss_E:-0.0443391
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-175.8444824	Loss_G:176.4920959	loss_E:-0.0443395
+Epoch  90	Loss_D_avg:-169.0999264	Loss_G_avg:170.6061041	loss_E_avg:-0.0408906
+['concept', 'basically', 'look', 'atheist', 'idea', 'generally', 'imprison', 'absolute', 'pretty', 'apply', 'gas', 'deletion', 'solution', 'disease', 'die']
+['look', 'basically', 'pretty', 'concept', 'absolute', 'idea', 'generally', 'gas', 'solution', 'total', 'atheist', 'imprison', 'apply', 'deletion', 'bible']
+['idea', 'basically', 'look', 'concept', 'pretty', 'absolute', 'atheist', 'solution', 'bible', 'apply', 'generally', 'imprison', 'gas', 'total', 'disease']
+['concept', 'idea', 'pretty', 'basically', 'atheist', 'look', 'apply', 'absolute', 'bible', 'solution', 'gas', 'generally', 'disease', 'imprison', 'total']
+['look', 'idea', 'absolute', 'concept', 'pretty', 'atheist', 'generally', 'basically', 'solution', 'imprison', 'apply', 'gas', 'deletion', 'bible', 'total']
+['idea', 'concept', 'basically', 'pretty', 'solution', 'look', 'imprison', 'atheist', 'apply', 'generally', 'total', 'absolute', 'bible', 'deletion', 'camp']
+['basically', 'idea', 'concept', 'look', 'absolute', 'generally', 'apply', 'atheist', 'pretty', 'imprison', 'man', 'bible', 'solution', 'deletion', 'total']
+['basically', 'concept', 'idea', 'pretty', 'solution', 'look', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'deletion', 'total', 'bible']
+['basically', 'pretty', 'concept', 'generally', 'idea', 'absolute', 'imprison', 'look', 'solution', 'atheist', 'deletion', 'bible', 'total', 'apply', 'gas']
+['concept', 'atheist', 'idea', 'basically', 'pretty', 'absolute', 'look', 'apply', 'solution', 'gas', 'generally', 'imprison', 'bible', 'deletion', 'infinity']
+['idea', 'concept', 'atheist', 'pretty', 'look', 'solution', 'imprison', 'apply', 'absolute', 'basically', 'generally', 'bible', 'gas', 'total', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'concept', 'apply', 'absolute', 'imprison', 'atheist', 'total', 'bible', 'deletion', 'solution', 'generally', 'man']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'look', 'generally', 'atheist', 'apply', 'solution', 'gas', 'die', 'imprison', 'deletion', 'disease']
+['look', 'concept', 'basically', 'gas', 'apply', 'idea', 'pretty', 'generally', 'solution', 'absolute', 'imprison', 'bible', 'bad', 'atheist', 'disease']
+['concept', 'idea', 'look', 'pretty', 'basically', 'atheist', 'imprison', 'apply', 'solution', 'absolute', 'gas', 'generally', 'total', 'bible', 'deletion']
+['idea', 'basically', 'generally', 'look', 'pretty', 'absolute', 'atheist', 'imprison', 'concept', 'total', 'deletion', 'solution', 'apply', 'bible', 'gas']
+['basically', 'look', 'idea', 'pretty', 'concept', 'generally', 'atheist', 'imprison', 'absolute', 'solution', 'apply', 'deletion', 'gas', 'total', 'bible']
+['basically', 'idea', 'look', 'concept', 'atheist', 'pretty', 'generally', 'absolute', 'solution', 'imprison', 'apply', 'bible', 'gas', 'disease', 'total']
+['idea', 'absolute', 'basically', 'look', 'concept', 'pretty', 'generally', 'imprison', 'solution', 'atheist', 'apply', 'deletion', 'total', 'bible', 'gas']
+['idea', 'pretty', 'atheist', 'basically', 'look', 'absolute', 'generally', 'concept', 'bible', 'imprison', 'solution', 'gas', 'apply', 'deletion', 'total']
+['idea', 'basically', 'look', 'gas', 'pretty', 'imprison', 'concept', 'absolute', 'solution', 'generally', 'apply', 'deletion', 'bible', 'atheist', 'total']
+['concept', 'basically', 'idea', 'look', 'absolute', 'generally', 'atheist', 'apply', 'pretty', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'total']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'look', 'generally', 'atheist', 'bible', 'absolute', 'imprison', 'solution', 'gas', 'deletion', 'bad']
+['absolute', 'look', 'pretty', 'solution', 'concept', 'atheist', 'idea', 'imprison', 'basically', 'total', 'bible', 'apply', 'generally', 'deletion', 'gas']
+['idea', 'basically', 'absolute', 'concept', 'look', 'generally', 'atheist', 'pretty', 'solution', 'deletion', 'apply', 'bible', 'imprison', 'total', 'gas']
+['concept', 'basically', 'pretty', 'idea', 'look', 'generally', 'absolute', 'imprison', 'infinity', 'solution', 'deletion', 'apply', 'way', 'atheist', 'happen']
+['idea', 'concept', 'basically', 'apply', 'pretty', 'solution', 'look', 'imprison', 'generally', 'atheist', 'absolute', 'gas', 'deletion', 'total', 'bible']
+['concept', 'basically', 'look', 'gas', 'apply', 'absolute', 'idea', 'generally', 'pretty', 'solution', 'bible', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'concept', 'generally', 'look', 'absolute', 'idea', 'imprison', 'atheist', 'pretty', 'solution', 'apply', 'bible', 'die', 'deletion', 'gas']
+['idea', 'basically', 'concept', 'absolute', 'pretty', 'look', 'imprison', 'generally', 'solution', 'total', 'apply', 'atheist', 'bible', 'round', 'gas']
+['basically', 'idea', 'generally', 'pretty', 'concept', 'look', 'total', 'absolute', 'gas', 'atheist', 'solution', 'deletion', 'apply', 'bible', 'disease']
+['basically', 'concept', 'look', 'apply', 'atheist', 'idea', 'absolute', 'generally', 'pretty', 'imprison', 'gas', 'solution', 'bad', 'total', 'bible']
+['concept', 'basically', 'look', 'solution', 'idea', 'absolute', 'pretty', 'apply', 'imprison', 'gas', 'atheist', 'generally', 'bible', 'bad', 'total']
+['idea', 'basically', 'look', 'generally', 'concept', 'pretty', 'absolute', 'deletion', 'apply', 'solution', 'imprison', 'atheist', 'total', 'gas', 'way']
+['idea', 'concept', 'basically', 'pretty', 'generally', 'look', 'solution', 'apply', 'deletion', 'gas', 'absolute', 'total', 'infinity', 'imprison', 'atheist']
+['idea', 'basically', 'concept', 'generally', 'look', 'apply', 'gas', 'atheist', 'absolute', 'deletion', 'pretty', 'solution', 'imprison', 'bible', 'infinity']
+['basically', 'idea', 'concept', 'look', 'pretty', 'apply', 'atheist', 'absolute', 'imprison', 'solution', 'gas', 'generally', 'bad', 'total', 'bible']
+['idea', 'apply', 'look', 'basically', 'pretty', 'gas', 'concept', 'imprison', 'absolute', 'solution', 'generally', 'bible', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'concept', 'pretty', 'absolute', 'atheist', 'solution', 'look', 'gas', 'apply', 'deletion', 'generally', 'imprison', 'total', 'bible']
+['basically', 'concept', 'pretty', 'idea', 'solution', 'absolute', 'look', 'generally', 'atheist', 'imprison', 'apply', 'total', 'gas', 'bible', 'deletion']
+['concept', 'look', 'absolute', 'idea', 'basically', 'apply', 'pretty', 'generally', 'total', 'bible', 'atheist', 'imprison', 'gas', 'solution', 'bad']
+['basically', 'concept', 'idea', 'look', 'gas', 'pretty', 'absolute', 'total', 'apply', 'generally', 'imprison', 'bible', 'atheist', 'solution', 'deletion']
+['basically', 'concept', 'look', 'generally', 'pretty', 'idea', 'absolute', 'apply', 'solution', 'gas', 'atheist', 'total', 'imprison', 'deletion', 'bible']
+['basically', 'concept', 'look', 'absolute', 'generally', 'atheist', 'idea', 'apply', 'solution', 'gas', 'pretty', 'imprison', 'deletion', 'man', 'bible']
+['idea', 'basically', 'look', 'concept', 'pretty', 'generally', 'apply', 'imprison', 'absolute', 'atheist', 'solution', 'gas', 'total', 'deletion', 'bible']
+['basically', 'concept', 'look', 'apply', 'pretty', 'absolute', 'idea', 'solution', 'generally', 'atheist', 'imprison', 'bible', 'gas', 'total', 'bad']
+['concept', 'idea', 'basically', 'pretty', 'apply', 'solution', 'absolute', 'look', 'generally', 'gas', 'deletion', 'atheist', 'imprison', 'bible', 'die']
+['basically', 'look', 'absolute', 'concept', 'idea', 'pretty', 'generally', 'total', 'apply', 'bible', 'imprison', 'gas', 'solution', 'deletion', 'die']
+['idea', 'basically', 'concept', 'atheist', 'apply', 'pretty', 'generally', 'look', 'absolute', 'imprison', 'solution', 'bible', 'gas', 'total', 'deletion']
+['idea', 'basically', 'look', 'absolute', 'concept', 'apply', 'pretty', 'total', 'solution', 'imprison', 'deletion', 'gas', 'atheist', 'bible', 'generally']
+['concept', 'idea', 'basically', 'absolute', 'look', 'pretty', 'generally', 'apply', 'atheist', 'imprison', 'solution', 'bible', 'total', 'deletion', 'gas']
+['look', 'basically', 'absolute', 'idea', 'atheist', 'concept', 'apply', 'pretty', 'imprison', 'gas', 'generally', 'solution', 'bible', 'deletion', 'disease']
+['basically', 'concept', 'idea', 'atheist', 'absolute', 'apply', 'look', 'pretty', 'generally', 'imprison', 'solution', 'deletion', 'gas', 'bible', 'total']
+['basically', 'pretty', 'concept', 'idea', 'look', 'apply', 'absolute', 'solution', 'imprison', 'generally', 'deletion', 'bible', 'atheist', 'gas', 'bad']
+['concept', 'idea', 'basically', 'solution', 'atheist', 'pretty', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'gas', 'trial']
+['concept', 'basically', 'idea', 'generally', 'pretty', 'absolute', 'apply', 'look', 'solution', 'bible', 'deletion', 'total', 'imprison', 'atheist', 'disease']
+['idea', 'basically', 'look', 'concept', 'pretty', 'absolute', 'apply', 'generally', 'imprison', 'atheist', 'solution', 'deletion', 'gas', 'infinity', 'total']
+['concept', 'pretty', 'idea', 'basically', 'solution', 'atheist', 'apply', 'absolute', 'bible', 'look', 'imprison', 'generally', 'deletion', 'gas', 'total']
+['basically', 'concept', 'idea', 'look', 'apply', 'absolute', 'generally', 'pretty', 'solution', 'atheist', 'deletion', 'bible', 'gas', 'imprison', 'total']
+['basically', 'concept', 'idea', 'solution', 'pretty', 'gas', 'look', 'absolute', 'atheist', 'imprison', 'total', 'generally', 'apply', 'deletion', 'bible']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'solution', 'gas', 'look', 'deletion', 'apply', 'total', 'imprison', 'bible', 'generally', 'die']
+['concept', 'pretty', 'idea', 'basically', 'apply', 'look', 'absolute', 'atheist', 'gas', 'generally', 'solution', 'imprison', 'bible', 'round', 'deletion']
+['basically', 'idea', 'look', 'atheist', 'imprison', 'pretty', 'concept', 'absolute', 'generally', 'solution', 'apply', 'deletion', 'gas', 'bible', 'disease']
+['basically', 'concept', 'look', 'idea', 'generally', 'pretty', 'solution', 'atheist', 'imprison', 'absolute', 'apply', 'gas', 'die', 'round', 'total']
+['idea', 'basically', 'pretty', 'absolute', 'concept', 'generally', 'look', 'apply', 'atheist', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'infinity']
+['basically', 'generally', 'concept', 'idea', 'look', 'absolute', 'atheist', 'apply', 'imprison', 'pretty', 'solution', 'deletion', 'bible', 'gas', 'man']
+['idea', 'look', 'concept', 'basically', 'apply', 'pretty', 'absolute', 'deletion', 'imprison', 'generally', 'bible', 'solution', 'gas', 'total', 'little']
+['basically', 'concept', 'idea', 'pretty', 'atheist', 'generally', 'absolute', 'apply', 'look', 'solution', 'gas', 'total', 'bible', 'imprison', 'deletion']
+['basically', 'pretty', 'absolute', 'idea', 'concept', 'look', 'solution', 'deletion', 'generally', 'imprison', 'apply', 'total', 'atheist', 'man', 'bible']
+['concept', 'basically', 'pretty', 'absolute', 'idea', 'generally', 'gas', 'deletion', 'apply', 'solution', 'look', 'bible', 'atheist', 'total', 'imprison']
+['concept', 'idea', 'basically', 'pretty', 'absolute', 'apply', 'generally', 'look', 'solution', 'imprison', 'gas', 'atheist', 'bible', 'bad', 'total']
+['basically', 'idea', 'concept', 'look', 'imprison', 'apply', 'generally', 'pretty', 'atheist', 'absolute', 'solution', 'bible', 'disease', 'know', 'total']
+['concept', 'pretty', 'basically', 'apply', 'look', 'idea', 'absolute', 'generally', 'atheist', 'solution', 'imprison', 'man', 'disease', 'gas', 'bible']
+['basically', 'concept', 'look', 'deletion', 'idea', 'pretty', 'absolute', 'total', 'generally', 'apply', 'solution', 'imprison', 'gas', 'bible', 'disease']
+['idea', 'concept', 'basically', 'pretty', 'look', 'solution', 'absolute', 'generally', 'atheist', 'deletion', 'imprison', 'gas', 'apply', 'bible', 'total']
+==============================
+topic diversity:0.024
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3580277408273744, c_w2v:None, c_uci:-4.580222333126129, c_npmi:-0.1425048427587247
+mimno topic coherence:-307.02676478747406
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-183.2346497	Loss_G:183.8810577	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-180.1373138	Loss_G:180.7823486	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-181.3327942	Loss_G:181.9764557	loss_E:-0.0443394
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-179.8927917	Loss_G:180.5352783	loss_E:-0.0443392
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-182.1478882	Loss_G:182.7890167	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-183.5064392	Loss_G:184.1463318	loss_E:-0.0443397
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-181.2512665	Loss_G:181.8898468	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-182.0120239	Loss_G:182.6493378	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-182.6369629	Loss_G:183.2729645	loss_E:-0.0443394
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-182.7455292	Loss_G:183.3804169	loss_E:-0.0443397
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-177.7735596	Loss_G:178.4069366	loss_E:-0.0443394
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-179.4851990	Loss_G:180.1174164	loss_E:-0.0443397
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-180.5177002	Loss_G:181.1486664	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-180.6535187	Loss_G:181.2831573	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-182.4195862	Loss_G:183.0478973	loss_E:-0.0443395
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-180.4905243	Loss_G:181.1176605	loss_E:-0.0443393
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-184.6475830	Loss_G:185.2733612	loss_E:-0.0443392
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-179.2678833	Loss_G:179.8924408	loss_E:-0.0443395
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-179.5123596	Loss_G:180.1356506	loss_E:-0.0443396
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-186.9298096	Loss_G:187.5517883	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-183.4792633	Loss_G:184.0999756	loss_E:-0.0443395
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-181.0067749	Loss_G:181.6263123	loss_E:-0.0443395
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-183.4248962	Loss_G:184.0430145	loss_E:-0.0443398
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-180.6535187	Loss_G:181.2704620	loss_E:-0.0443399
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-182.4467468	Loss_G:183.0625000	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-183.2890625	Loss_G:183.9035034	loss_E:-0.0443394
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-176.1433105	Loss_G:176.7564087	loss_E:-0.0443394
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-182.1206970	Loss_G:182.7326813	loss_E:-0.0443392
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-180.2459106	Loss_G:180.8566284	loss_E:-0.0443399
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-182.3108826	Loss_G:182.9203186	loss_E:-0.0443396
+Epoch 100	Loss_D_avg:-170.3423219	Loss_G_avg:171.7606598	loss_E_avg:-0.0412355
+['concept', 'basically', 'look', 'idea', 'atheist', 'generally', 'pretty', 'imprison', 'absolute', 'apply', 'gas', 'solution', 'deletion', 'disease', 'bible']
+['look', 'basically', 'pretty', 'concept', 'idea', 'absolute', 'generally', 'gas', 'solution', 'atheist', 'total', 'imprison', 'apply', 'deletion', 'bible']
+['idea', 'basically', 'look', 'concept', 'pretty', 'absolute', 'atheist', 'solution', 'bible', 'apply', 'generally', 'imprison', 'gas', 'total', 'disease']
+['concept', 'idea', 'pretty', 'basically', 'atheist', 'look', 'apply', 'absolute', 'bible', 'solution', 'generally', 'gas', 'imprison', 'disease', 'total']
+['look', 'idea', 'concept', 'absolute', 'pretty', 'atheist', 'basically', 'generally', 'solution', 'imprison', 'apply', 'gas', 'deletion', 'bible', 'total']
+['idea', 'concept', 'basically', 'pretty', 'solution', 'look', 'imprison', 'apply', 'atheist', 'generally', 'total', 'absolute', 'bible', 'deletion', 'disease']
+['basically', 'idea', 'concept', 'look', 'absolute', 'generally', 'apply', 'atheist', 'pretty', 'imprison', 'bible', 'man', 'solution', 'deletion', 'total']
+['basically', 'concept', 'idea', 'pretty', 'look', 'solution', 'absolute', 'generally', 'apply', 'imprison', 'gas', 'atheist', 'deletion', 'total', 'bible']
+['basically', 'pretty', 'concept', 'generally', 'idea', 'absolute', 'imprison', 'look', 'solution', 'atheist', 'deletion', 'bible', 'total', 'apply', 'gas']
+['concept', 'atheist', 'idea', 'basically', 'pretty', 'absolute', 'look', 'apply', 'solution', 'gas', 'generally', 'imprison', 'bible', 'deletion', 'infinity']
+['idea', 'concept', 'atheist', 'look', 'pretty', 'solution', 'imprison', 'apply', 'basically', 'absolute', 'generally', 'bible', 'gas', 'total', 'deletion']
+['basically', 'look', 'pretty', 'idea', 'concept', 'apply', 'absolute', 'imprison', 'atheist', 'total', 'bible', 'solution', 'deletion', 'generally', 'man']
+['idea', 'concept', 'pretty', 'basically', 'look', 'absolute', 'generally', 'atheist', 'apply', 'solution', 'gas', 'die', 'imprison', 'deletion', 'bible']
+['look', 'concept', 'basically', 'gas', 'idea', 'apply', 'pretty', 'solution', 'generally', 'absolute', 'imprison', 'bible', 'bad', 'atheist', 'disease']
+['concept', 'idea', 'look', 'pretty', 'basically', 'atheist', 'imprison', 'apply', 'solution', 'absolute', 'gas', 'generally', 'total', 'bible', 'deletion']
+['idea', 'basically', 'pretty', 'look', 'generally', 'absolute', 'atheist', 'concept', 'imprison', 'total', 'deletion', 'solution', 'apply', 'bible', 'gas']
+['basically', 'look', 'idea', 'pretty', 'concept', 'generally', 'atheist', 'imprison', 'absolute', 'solution', 'apply', 'deletion', 'gas', 'total', 'bible']
+['basically', 'idea', 'look', 'concept', 'atheist', 'pretty', 'generally', 'absolute', 'solution', 'imprison', 'apply', 'bible', 'gas', 'total', 'disease']
+['idea', 'absolute', 'basically', 'look', 'concept', 'pretty', 'generally', 'imprison', 'atheist', 'solution', 'apply', 'deletion', 'total', 'bible', 'gas']
+['idea', 'pretty', 'atheist', 'basically', 'look', 'absolute', 'generally', 'concept', 'bible', 'imprison', 'solution', 'gas', 'apply', 'deletion', 'total']
+['idea', 'basically', 'look', 'gas', 'pretty', 'concept', 'imprison', 'absolute', 'solution', 'generally', 'apply', 'deletion', 'bible', 'atheist', 'total']
+['concept', 'basically', 'idea', 'look', 'absolute', 'generally', 'atheist', 'apply', 'pretty', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'total']
+['idea', 'basically', 'concept', 'pretty', 'apply', 'look', 'generally', 'atheist', 'bible', 'absolute', 'solution', 'imprison', 'gas', 'deletion', 'bad']
+['absolute', 'pretty', 'look', 'concept', 'solution', 'atheist', 'idea', 'imprison', 'basically', 'total', 'apply', 'bible', 'generally', 'deletion', 'gas']
+['idea', 'basically', 'concept', 'absolute', 'look', 'generally', 'pretty', 'atheist', 'solution', 'deletion', 'apply', 'bible', 'imprison', 'total', 'gas']
+['concept', 'basically', 'pretty', 'idea', 'look', 'generally', 'absolute', 'imprison', 'solution', 'infinity', 'deletion', 'apply', 'atheist', 'way', 'happen']
+['idea', 'concept', 'basically', 'apply', 'pretty', 'solution', 'look', 'imprison', 'generally', 'atheist', 'absolute', 'gas', 'deletion', 'total', 'bible']
+['concept', 'basically', 'look', 'gas', 'apply', 'idea', 'absolute', 'generally', 'pretty', 'solution', 'bible', 'atheist', 'total', 'imprison', 'deletion']
+['basically', 'concept', 'look', 'generally', 'idea', 'absolute', 'pretty', 'imprison', 'atheist', 'solution', 'apply', 'bible', 'die', 'deletion', 'gas']
+['idea', 'basically', 'concept', 'absolute', 'pretty', 'look', 'imprison', 'generally', 'solution', 'total', 'apply', 'atheist', 'bible', 'gas', 'round']
+['basically', 'idea', 'generally', 'pretty', 'concept', 'look', 'absolute', 'gas', 'total', 'atheist', 'solution', 'deletion', 'apply', 'bible', 'disease']
+['basically', 'concept', 'look', 'apply', 'idea', 'atheist', 'absolute', 'generally', 'pretty', 'imprison', 'gas', 'solution', 'total', 'bad', 'bible']
+['concept', 'basically', 'look', 'idea', 'solution', 'absolute', 'pretty', 'apply', 'imprison', 'gas', 'atheist', 'generally', 'bible', 'bad', 'total']
+['idea', 'basically', 'look', 'generally', 'concept', 'pretty', 'absolute', 'deletion', 'apply', 'imprison', 'solution', 'atheist', 'total', 'gas', 'bible']
+['concept', 'idea', 'basically', 'pretty', 'generally', 'look', 'apply', 'solution', 'deletion', 'absolute', 'gas', 'total', 'imprison', 'infinity', 'atheist']
+['idea', 'basically', 'concept', 'generally', 'look', 'apply', 'gas', 'atheist', 'absolute', 'pretty', 'deletion', 'solution', 'imprison', 'bible', 'infinity']
+['basically', 'idea', 'concept', 'look', 'pretty', 'apply', 'atheist', 'absolute', 'imprison', 'solution', 'gas', 'generally', 'bad', 'total', 'bible']
+['idea', 'apply', 'look', 'basically', 'pretty', 'concept', 'gas', 'imprison', 'absolute', 'solution', 'generally', 'bible', 'atheist', 'total', 'deletion']
+['basically', 'idea', 'concept', 'pretty', 'absolute', 'atheist', 'solution', 'look', 'gas', 'apply', 'deletion', 'generally', 'imprison', 'total', 'bible']
+['basically', 'concept', 'pretty', 'idea', 'solution', 'absolute', 'look', 'generally', 'atheist', 'imprison', 'apply', 'total', 'gas', 'bible', 'deletion']
+['concept', 'look', 'idea', 'absolute', 'basically', 'pretty', 'generally', 'apply', 'total', 'atheist', 'bible', 'imprison', 'gas', 'solution', 'bad']
+['basically', 'concept', 'idea', 'look', 'pretty', 'gas', 'absolute', 'total', 'apply', 'generally', 'imprison', 'atheist', 'bible', 'solution', 'deletion']
+['concept', 'basically', 'look', 'generally', 'pretty', 'idea', 'absolute', 'apply', 'solution', 'gas', 'atheist', 'imprison', 'total', 'deletion', 'bible']
+['concept', 'basically', 'look', 'absolute', 'generally', 'atheist', 'idea', 'apply', 'pretty', 'solution', 'gas', 'imprison', 'deletion', 'man', 'bible']
+['idea', 'basically', 'concept', 'look', 'pretty', 'apply', 'generally', 'imprison', 'absolute', 'atheist', 'solution', 'gas', 'total', 'deletion', 'bible']
+['basically', 'concept', 'look', 'apply', 'pretty', 'idea', 'absolute', 'solution', 'generally', 'atheist', 'imprison', 'bible', 'gas', 'total', 'bad']
+['concept', 'idea', 'basically', 'pretty', 'apply', 'solution', 'absolute', 'look', 'generally', 'gas', 'atheist', 'deletion', 'imprison', 'bible', 'die']
+['basically', 'look', 'absolute', 'concept', 'idea', 'pretty', 'generally', 'apply', 'total', 'bible', 'imprison', 'gas', 'solution', 'deletion', 'die']
+['idea', 'basically', 'concept', 'atheist', 'apply', 'pretty', 'generally', 'look', 'absolute', 'imprison', 'solution', 'bible', 'gas', 'total', 'deletion']
+['idea', 'basically', 'look', 'concept', 'absolute', 'apply', 'pretty', 'total', 'solution', 'imprison', 'gas', 'atheist', 'deletion', 'bible', 'generally']
+['concept', 'idea', 'basically', 'absolute', 'look', 'pretty', 'generally', 'apply', 'atheist', 'imprison', 'solution', 'bible', 'total', 'deletion', 'gas']
+['look', 'basically', 'idea', 'absolute', 'concept', 'atheist', 'apply', 'pretty', 'imprison', 'generally', 'gas', 'solution', 'bible', 'deletion', 'total']
+['concept', 'basically', 'idea', 'atheist', 'absolute', 'pretty', 'apply', 'look', 'generally', 'imprison', 'solution', 'deletion', 'gas', 'bible', 'total']
+['basically', 'pretty', 'concept', 'idea', 'look', 'apply', 'absolute', 'solution', 'imprison', 'generally', 'atheist', 'gas', 'bible', 'deletion', 'bad']
+['concept', 'idea', 'basically', 'solution', 'pretty', 'atheist', 'look', 'imprison', 'apply', 'bible', 'absolute', 'generally', 'total', 'gas', 'trial']
+['concept', 'basically', 'idea', 'generally', 'pretty', 'absolute', 'look', 'apply', 'solution', 'bible', 'deletion', 'imprison', 'total', 'atheist', 'disease']
+['idea', 'basically', 'look', 'concept', 'pretty', 'absolute', 'apply', 'generally', 'imprison', 'atheist', 'solution', 'gas', 'deletion', 'infinity', 'total']
+['concept', 'pretty', 'idea', 'basically', 'solution', 'atheist', 'apply', 'absolute', 'bible', 'look', 'imprison', 'generally', 'gas', 'deletion', 'total']
+['basically', 'concept', 'idea', 'look', 'absolute', 'apply', 'generally', 'pretty', 'solution', 'atheist', 'deletion', 'imprison', 'gas', 'bible', 'total']
+['basically', 'concept', 'idea', 'solution', 'pretty', 'look', 'atheist', 'absolute', 'gas', 'imprison', 'total', 'generally', 'apply', 'bible', 'deletion']
+['idea', 'concept', 'pretty', 'basically', 'absolute', 'look', 'gas', 'solution', 'deletion', 'apply', 'total', 'imprison', 'bible', 'generally', 'die']
+['concept', 'idea', 'pretty', 'basically', 'look', 'apply', 'absolute', 'atheist', 'gas', 'generally', 'solution', 'imprison', 'bible', 'round', 'deletion']
+['idea', 'basically', 'look', 'atheist', 'pretty', 'imprison', 'concept', 'absolute', 'generally', 'solution', 'apply', 'deletion', 'gas', 'bible', 'total']
+['basically', 'concept', 'look', 'idea', 'generally', 'pretty', 'atheist', 'solution', 'imprison', 'absolute', 'apply', 'gas', 'die', 'total', 'round']
+['idea', 'basically', 'pretty', 'absolute', 'concept', 'generally', 'apply', 'look', 'atheist', 'imprison', 'bible', 'solution', 'gas', 'deletion', 'infinity']
+['basically', 'idea', 'concept', 'generally', 'look', 'atheist', 'absolute', 'apply', 'pretty', 'imprison', 'solution', 'deletion', 'bible', 'gas', 'total']
+['idea', 'look', 'concept', 'basically', 'apply', 'pretty', 'absolute', 'imprison', 'deletion', 'generally', 'bible', 'solution', 'gas', 'total', 'little']
+['basically', 'concept', 'idea', 'pretty', 'atheist', 'generally', 'absolute', 'look', 'apply', 'solution', 'gas', 'total', 'imprison', 'bible', 'deletion']
+['basically', 'pretty', 'idea', 'absolute', 'concept', 'look', 'solution', 'deletion', 'generally', 'imprison', 'apply', 'atheist', 'total', 'man', 'bible']
+['concept', 'basically', 'pretty', 'absolute', 'idea', 'generally', 'gas', 'deletion', 'apply', 'solution', 'look', 'bible', 'atheist', 'total', 'imprison']
+['concept', 'idea', 'basically', 'pretty', 'absolute', 'apply', 'generally', 'look', 'solution', 'imprison', 'atheist', 'gas', 'bible', 'bad', 'total']
+['basically', 'idea', 'concept', 'look', 'imprison', 'apply', 'pretty', 'generally', 'atheist', 'absolute', 'solution', 'bible', 'disease', 'know', 'total']
+['concept', 'pretty', 'basically', 'idea', 'look', 'apply', 'absolute', 'generally', 'atheist', 'solution', 'imprison', 'gas', 'disease', 'bible', 'man']
+['basically', 'concept', 'look', 'idea', 'deletion', 'pretty', 'absolute', 'generally', 'apply', 'total', 'solution', 'imprison', 'gas', 'bible', 'atheist']
+['idea', 'concept', 'basically', 'pretty', 'look', 'solution', 'absolute', 'generally', 'atheist', 'deletion', 'imprison', 'gas', 'apply', 'bible', 'total']
+==============================
+topic diversity:0.02311111111111111
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35826303520855407, c_w2v:None, c_uci:-4.571226670263942, c_npmi:-0.14189770792292403
+mimno topic coherence:-307.02676478747406
+topic diversity:0.02311111111111111
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35826303520855407, c_w2v:None, c_uci:-4.571226670263942, c_npmi:-0.14189770792292403
+mimno topic coherence:-307.02676478747406

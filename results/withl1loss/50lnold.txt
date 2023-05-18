@@ -1,0 +1,886 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f6d72555550>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:0.0004477	Loss_G:216.4588776	loss_E:-0.0094400
+Epoch   1	Iter   11	Loss_D:-0.0055613	Loss_G:215.0997620	loss_E:-0.0077701
+Epoch   1	Iter   21	Loss_D:-0.0119292	Loss_G:213.7432404	loss_E:-0.0042636
+Epoch   2	Iter    1	Loss_D:-0.0139714	Loss_G:212.3892975	loss_E:-0.0027702
+Epoch   2	Iter   11	Loss_D:-0.0227095	Loss_G:211.0409698	loss_E:0.0030668
+Epoch   2	Iter   21	Loss_D:-0.0316257	Loss_G:209.6988525	loss_E:0.0084781
+Epoch   3	Iter    1	Loss_D:-0.0339875	Loss_G:208.3574219	loss_E:0.0101988
+Epoch   3	Iter   11	Loss_D:-0.0421971	Loss_G:207.0240784	loss_E:0.0142911
+Epoch   3	Iter   21	Loss_D:-0.0495337	Loss_G:205.6941376	loss_E:0.0175603
+Epoch   4	Iter    1	Loss_D:-0.0518153	Loss_G:204.3661194	loss_E:0.0190633
+Epoch   4	Iter   11	Loss_D:-0.0585366	Loss_G:203.0445862	loss_E:0.0218481
+Epoch   4	Iter   21	Loss_D:-0.0634228	Loss_G:201.7279816	loss_E:0.0235769
+Epoch   5	Iter    1	Loss_D:-0.0653011	Loss_G:200.4123840	loss_E:0.0246762
+Epoch   5	Iter   11	Loss_D:-0.0709286	Loss_G:199.1038818	loss_E:0.0272564
+Epoch   5	Iter   21	Loss_D:-0.0749266	Loss_G:197.7992554	loss_E:0.0282116
+Epoch   6	Iter    1	Loss_D:-0.0747404	Loss_G:196.4970703	loss_E:0.0280036
+Epoch   6	Iter   11	Loss_D:-0.0782169	Loss_G:195.2004700	loss_E:0.0286965
+Epoch   6	Iter   21	Loss_D:-0.0818053	Loss_G:193.9084320	loss_E:0.0303860
+Epoch   7	Iter    1	Loss_D:-0.0836286	Loss_G:192.6190796	loss_E:0.0316829
+Epoch   7	Iter   11	Loss_D:-0.0862980	Loss_G:191.3359680	loss_E:0.0324414
+Epoch   7	Iter   21	Loss_D:-0.0867728	Loss_G:190.0560303	loss_E:0.0313307
+Epoch   8	Iter    1	Loss_D:-0.0885857	Loss_G:188.7800140	loss_E:0.0327699
+Epoch   8	Iter   11	Loss_D:-0.0904831	Loss_G:187.5084534	loss_E:0.0332411
+Epoch   8	Iter   21	Loss_D:-0.0924142	Loss_G:186.2420502	loss_E:0.0341873
+Epoch   9	Iter    1	Loss_D:-0.0934983	Loss_G:184.9786072	loss_E:0.0348393
+Epoch   9	Iter   11	Loss_D:-0.0920469	Loss_G:183.7203979	loss_E:0.0324371
+Epoch   9	Iter   21	Loss_D:-0.0935427	Loss_G:182.4655151	loss_E:0.0336323
+Epoch  10	Iter    1	Loss_D:-0.0943169	Loss_G:181.2162476	loss_E:0.0340492
+Epoch  10	Iter   11	Loss_D:-0.0957664	Loss_G:179.9701996	loss_E:0.0344497
+Epoch  10	Iter   21	Loss_D:-0.0956555	Loss_G:178.7292633	loss_E:0.0337308
+Epoch  10	Loss_D_avg:-0.0641257	Loss_G_avg:197.3062881	loss_E_avg:0.0219954
+['tip', 'hater', 'sec', 'thatwere', 'asi', 'forth', 'lefebvre', 'wysiwyg', 'karl', 'thingslike', 'lethal', 'areavailable', 'discount', 'lunatic', 'macquarie']
+['impression', 'casual', 'verdict', 'casio', 'ba', 'crush', 'tip', 'key', 'love', 'vanheyningen', 'worm', 'inhabit', 'intercourse', 'heyman', 'eliminate']
+['raytracer', 'fujitsu', 'intruder', 'ncsl', 'opponent', 'liter', 'expense', 'wysiwyg', 'progression', 'thousand', 'makea', 'tip', 'token', 'ocean', 'jpg']
+['thattheir', 'wysiwyg', 'dakota', 'cryptosystem', 'dutch', 'shock', 'kr', 'reagan', 'dmn', 'cobra', 'sick', 'wj', 'jk', 'mundane', 'maddi']
+['trickle', 'logically', 'arc', 'thorn', 'georgetown', 'routine', 'admiral', 'usedto', 'rl', 'sys', 'delude', 'worker', 'desperate', 'vf', 'isolate']
+['multitaske', 'liter', 'discourse', 'wj', 'rid', 'butler', 'thiskind', 'concentrate', 'accidental', 'mustang', 'pw', 'carl', 'shine', 'classroom', 'filesystem']
+['logically', 'dakota', 'hwy', 'ij', 'ubiquitous', 'profess', 'henderson', 'expression', 'adapt', 'iranian', 'arc', 'tandy', 'mds', 'mapping', 'issueof']
+['nx', 'shine', 'bury', 'riley', 'printer', 'wysiwyg', 'manypeople', 'cease', 'rifleman', 'cognitivist', 'ofsome', 'bulldozer', 'vaporize', 'boggs', 'wonder']
+['dm', 'themore', 'incline', 'witty', 'frozen', 'graph', 'sec', 'fund', 'assort', 'macweek', 'exile', 'ruu', 'result', 'jungle', 'undergrad']
+['hadbeen', 'dakota', 'dither', 'frozen', 'succesfully', 'berman', 'butin', 'intruder', 'eli', 'coordination', 'assad', 'magnavox', 'vanheyningen', 'twm', 'reap']
+['perfection', 'therewa', 'checker', 'theologian', 'pissed', 'tikkanen', 'wysiwyg', 'structure', 'squat', 'lefebvre', 'decoder', 'ethiopia', 'speedometer', 'withinthe', 'women']
+['crown', 'sophistication', 'perfection', 'waco', 'decide', 'designation', 'needham', 'defy', 'expert', 'militiaman', 'lethal', 'gallant', 'tough', 'vdc', 'motor']
+['societal', 'tip', 'nx', 'usedto', 'vis', 'signature', 'cylindrical', 'thinkthe', 'get', 'ben', 'thingslike', 'auction', 'ux', 'initialization', 'theonly']
+['sys', 'potato', 'import', 'wysiwyg', 'mcdowell', 'deputy', 'repetitive', 'cs', 'streak', 'discourse', 'recurrence', 'parking', 'curt', 'cobra', 'promotion']
+['tip', 'yassin', 'dakota', 'miserable', 'superiority', 'vx', 'gizwt', 'vl', 'kick', 'women', 'intercourse', 'multitaske', 'coffee', 'uc', 'recurrence']
+['pci', 'streak', 'theonly', 'tyre', 'poisoning', 'io', 'whatexactly', 'lifestyle', 'xh', 'import', 'region', 'multitaske', 'verdict', 'irish', 'humility']
+['smoker', 'wysiwyg', 'multitaske', 'qn', 'aggravate', 'interlace', 'superiority', 'sector', 'masse', 'mythical', 'gallant', 'repeal', 'vx', 'generation', 'funet']
+['tip', 'typewriter', 'evasion', 'eventhe', 'animate', 'dramatic', 'motorcycling', 'zv', 'let', 'sec', 'wn', 'nod', 'wallet', 'wysiwyg', 'goody']
+['tend', 'fn', 'tikkanen', 'clue', 'perfection', 'promotion', 'booster', 'parking', 'consulting', 'choke', 'site', 'aix', 'rot', 'macweek', 'cs']
+['obstruction', 'magnavox', 'issueof', 'perihelion', 'duc', 'mvp', 'retract', 'speedometer', 'tmp', 'coordination', 'verdict', 'inside', 'thingslike', 'yp', 'tabloid']
+['director', 'mushroom', 'orderto', 'typically', 'audience', 'bxom', 'chemical', 'recomend', 'achievement', 'fujitsu', 'mortgage', 'likeit', 'rotor', 'renewal', 'dub']
+['cowardly', 'promote', 'naked', 'khz', 'wysiwyg', 'theonly', 'contributor', 'pal', 'bury', 'commerical', 'masse', 'jk', 'berman', 'rich', 'baptize']
+['imho', 'multitaske', 'referendum', 'torment', 'hb', 'import', 'succesfully', 'inaccurate', 'witty', 'canvas', 'baseman', 'spit', 'caste', 'discourse', 'casual']
+['mit', 'perish', 'ri', 'neighbouring', 'superiority', 'opposite', 'freewill', 'speedometer', 'dutch', 'concentrate', 'copy', 'cryptosystem', 'inconsistent', 'mind', 'implicit']
+['anyways', 'censor', 'vx', 'worker', 'manypeople', 'proto', 'atrocity', 'pcl', 'casual', 'yassin', 'theoutside', 'cognitivist', 'interlace', 'despise', 'ethiopia']
+['psi', 'ot', 'tip', 'chairman', 'betray', 'gouge', 'rifleman', 'ji', 'witty', 'insane', 'magnavox', 'reader', 'arc', 'content', 'goat']
+['push', 'boost', 'ximage', 'thanto', 'uncover', 'psi', 'orthe', 'repeal', 'painting', 'vast', 'hover', 'verdict', 'paint', 'hb', 'unlikely']
+['fujitsu', 'arc', 'freeze', 'streak', 'roman', 'near', 'biz', 'trading', 'vx', 'hater', 'key', 'caratza', 'ucs', 'dialog', 'audience']
+['retract', 'selector', 'wasnot', 'breakfast', 'ocean', 'superiority', 'group', 'makethe', 'consumption', 'proceeding', 'asthe', 'buzzword', 'marketplace', 'rationale', 'taker']
+['dxf', 'theological', 'ij', 'weigh', 'm', 'imperial', 'naked', 'prelude', 'penn', 'selector', 'ux', 'insane', 'statistic', 'logically', 'identifi']
+['signature', 'frozen', 'wysiwyg', 'multitaske', 'jk', 'caste', 'generation', 'tomorrow', 'mickey', 'auction', 'pleasure', 'oate', 'change', 'undergrad', 'illiterate']
+['dub', 'boost', 'inhabit', 'wysiwyg', 'spit', 'rich', 'temple', 'pleased', 'vanheyningen', 'yu', 'henderson', 'track', 'hb', 'thousand', 'timothy']
+['yp', 'bh', 'multitaske', 'eece', 'covering', 'accelerate', 'pleasure', 'tech', 'reflector', 'proceeding', 'ott', 'structure', 'td', 'fighter', 'shine']
+['statistic', 'accidental', 'orthe', 'worry', 'din', 'implicit', 'nsa', 'bulgaria', 'despise', 'goat', 'famous', 'zuma', 'notnecessarily', 'congratulate', 'audience']
+['audience', 'fuse', 'cryptosystem', 'routing', 'sweat', 'morris', 'eternity', 'engage', 'baltimore', 'thereof', 'bubble', 'naked', 'consulting', 'semi', 'director']
+['casual', 'multitaske', 'naked', 'comefrom', 'engage', 'gosh', 'maybethe', 'olson', 'dartmouth', 'fujitsu', 'todd', 'painting', 'footprint', 'privilege', 'dcs']
+['nl', 'concentrate', 'sultan', 'medieval', 'repeal', 'keith', 'posting', 'wsj', 'rear', 'speedometer', 'abortion', 'likeit', 'xh', 'promotion', 'intruder']
+['speedometer', 'isreal', 'uc', 'opposite', 'zenith', 'impression', 'osf', 'tip', 'mjone', 'thepossibility', 'nra', 'dana', 'subset', 'theological', 'espionage']
+['frozen', 'island', 'm', 'workbench', 'osf', 'surgical', 'roussel', 'semi', 'itchy', 'shostack', 'pirate', 'inerrantist', 'crush', 'reactive', 'orthe']
+['xf', 'tikkanen', 'speedometer', 'initialize', 'risc', 'get', 'cousin', 'concentrate', 'sanfrancisco', 'discount', 'culture', 'lebanese', 'proceeding', 'collin', 'labour']
+['biographical', 'manypeople', 'theonly', 'vanheyningen', 'temporary', 'businessman', 'donation', 'import', 'san', 'semi', 'uncomfortable', 'louisiana', 'casual', 'speculation', 'theological']
+['wysiwyg', 'ofright', 'kth', 'framework', 'initialization', 'freeze', 'oo', 'perfection', 'admin', 'multitaske', 'simplicity', 'semi', 'classroom', 'fujitsu', 'isaac']
+['wysiwyg', 'miserable', 'dutch', 'semi', 'behaviorist', 'lxmu', 'electricity', 'presently', 'backand', 'illiterate', 'xmapwindow', 'macweek', 'prelude', 'falsehood', 'umd']
+['theoutside', 'theological', 'evolve', 'macweek', 'getthe', 'rhetorical', 'ucs', 'directional', 'plateau', 'key', 'mds', 'thelight', 'motivation', 'jury', 'accidental']
+['conductor', 'vomit', 'meaningful', 'engage', 'nasp', 'satan', 'lynn', 'diaspora', 'jpg', 'usedto', 'leftover', 'innings', 'tyrant', 'readout', 'forth']
+['theonly', 'ou', 'streak', 'casualty', 'superiority', 'intruder', 'pennsylvania', 'consulting', 'av', 'msu', 'relativity', 'yer', 'wysiwyg', 'century', 'opposite']
+['score', 'slowly', 'eliminate', 'wsj', 'intifada', 'miserable', 'hadbeen', 'renderman', 'revision', 'let', 'ji', 'recurrence', 'shine', 'aspect', 'wasin']
+['framework', 'wakefield', 'accidental', 'hb', 'semi', 'misconception', 'cape', 'canvas', 'gouge', 'inside', 'dana', 'campbell', 'swing', 'plasma', 'shocked']
+['likeit', 'relationship', 'reveal', 'symbol', 'doesthe', 'cautious', 'unlikely', 'liter', 'civic', 'race', 'evident', 'dakota', 'mosque', 'temporary', 'tip']
+['dxf', 'float', 'govern', 'readily', 'mjone', 'umich', 'marching', 'sinai', 'ifthe', 'genetic', 'worthy', 'succesfully', 'emotional', 'calvin', 'thinkthe']
+==============================
+topic diversity:0.6746666666666666
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6661944015747403, c_w2v:None, c_uci:-9.963283653827164, c_npmi:-0.3585707431165418
+mimno topic coherence:-203.43065329184972
+Epoch  11	Iter    1	Loss_D:-0.0939541	Loss_G:177.4919281	loss_E:0.0319637
+Epoch  11	Iter   11	Loss_D:-0.0960748	Loss_G:176.2598572	loss_E:0.0336230
+Epoch  11	Iter   21	Loss_D:-0.0970414	Loss_G:175.0317535	loss_E:0.0336118
+Epoch  12	Iter    1	Loss_D:-0.0987269	Loss_G:173.8081207	loss_E:0.0350250
+Epoch  12	Iter   11	Loss_D:-0.0981678	Loss_G:172.5883789	loss_E:0.0336297
+Epoch  12	Iter   21	Loss_D:-0.0995581	Loss_G:171.3746338	loss_E:0.0338424
+Epoch  13	Iter    1	Loss_D:-0.0979816	Loss_G:170.1627197	loss_E:0.0327107
+Epoch  13	Iter   11	Loss_D:-0.0983539	Loss_G:168.9563599	loss_E:0.0327201
+Epoch  13	Iter   21	Loss_D:-0.0997296	Loss_G:167.7543488	loss_E:0.0332955
+Epoch  14	Iter    1	Loss_D:-0.1008132	Loss_G:166.5571899	loss_E:0.0341850
+Epoch  14	Iter   11	Loss_D:-0.0987318	Loss_G:165.3635101	loss_E:0.0312109
+Epoch  14	Iter   21	Loss_D:-0.1005553	Loss_G:164.1748505	loss_E:0.0325989
+Epoch  15	Iter    1	Loss_D:-0.0992569	Loss_G:162.9893646	loss_E:0.0316946
+Epoch  15	Iter   11	Loss_D:-0.0997311	Loss_G:161.8100281	loss_E:0.0313343
+Epoch  15	Iter   21	Loss_D:-0.1014207	Loss_G:160.6334076	loss_E:0.0328155
+Epoch  16	Iter    1	Loss_D:-0.1012122	Loss_G:159.4618530	loss_E:0.0325512
+Epoch  16	Iter   11	Loss_D:-0.0983149	Loss_G:158.2936707	loss_E:0.0295836
+Epoch  16	Iter   21	Loss_D:-0.1006799	Loss_G:157.1318054	loss_E:0.0311304
+Epoch  17	Iter    1	Loss_D:-0.1031117	Loss_G:155.9725494	loss_E:0.0336258
+Epoch  17	Iter   11	Loss_D:-0.1010180	Loss_G:154.8184814	loss_E:0.0311684
+Epoch  17	Iter   21	Loss_D:-0.1022339	Loss_G:153.6686859	loss_E:0.0316539
+Epoch  18	Iter    1	Loss_D:-0.1020334	Loss_G:152.5234833	loss_E:0.0316137
+Epoch  18	Iter   11	Loss_D:-0.1033264	Loss_G:151.3821106	loss_E:0.0319556
+Epoch  18	Iter   21	Loss_D:-0.1017207	Loss_G:150.2447968	loss_E:0.0307908
+Epoch  19	Iter    1	Loss_D:-0.1036939	Loss_G:149.1116791	loss_E:0.0330134
+Epoch  19	Iter   11	Loss_D:-0.1027244	Loss_G:147.9846497	loss_E:0.0312423
+Epoch  19	Iter   21	Loss_D:-0.1019058	Loss_G:146.8600769	loss_E:0.0304679
+Epoch  20	Iter    1	Loss_D:-0.1031754	Loss_G:145.7404175	loss_E:0.0320516
+Epoch  20	Iter   11	Loss_D:-0.1025882	Loss_G:144.6243134	loss_E:0.0315907
+Epoch  20	Iter   21	Loss_D:-0.1012179	Loss_G:143.5145874	loss_E:0.0296678
+Epoch  20	Loss_D_avg:-0.0822137	Loss_G_avg:178.7579709	loss_E_avg:0.0271038
+['tip', 'sec', 'thatwere', 'hater', 'lefebvre', 'forth', 'wysiwyg', 'asi', 'karl', 'macquarie', 'areavailable', 'discount', 'ephesian', 'lethal', 'lunatic']
+['casual', 'impression', 'casio', 'verdict', 'key', 'tip', 'inhabit', 'ba', 'vanheyningen', 'eliminate', 'crush', 'worm', 'intercourse', 'aged', 'love']
+['raytracer', 'intruder', 'fujitsu', 'opponent', 'ncsl', 'progression', 'wysiwyg', 'expense', 'makea', 'thousand', 'liter', 'vx', 'accidental', 'merkle', 'token']
+['thattheir', 'wysiwyg', 'dmn', 'dakota', 'reagan', 'shock', 'dutch', 'cryptosystem', 'jk', 'sick', 'kr', 'maddi', 'puncture', 'revolutionize', 'logically']
+['trickle', 'logically', 'arc', 'routine', 'thorn', 'usedto', 'georgetown', 'admiral', 'sys', 'aboutthe', 'delude', 'worker', 'window', 'vf', 'rl']
+['liter', 'multitaske', 'accidental', 'rid', 'discourse', 'thiskind', 'concentrate', 'wj', 'mustang', 'butler', 'classroom', 'pw', 'carl', 'orthe', 'cloth']
+['logically', 'hwy', 'dakota', 'ij', 'profess', 'ubiquitous', 'adapt', 'expression', 'arc', 'mds', 'iranian', 'khz', 'issueof', 'mapping', 'embarrassment']
+['nx', 'bury', 'shine', 'printer', 'wysiwyg', 'rifleman', 'manypeople', 'riley', 'xt', 'body', 'cease', 'bulldozer', 'cognitivist', 'boggs', 'vaporize']
+['witty', 'incline', 'graph', 'themore', 'assort', 'fund', 'sec', 'macweek', 'frozen', 'dm', 'dakota', 'exile', 'jungle', 'result', 'keenan']
+['hadbeen', 'dakota', 'dither', 'intruder', 'succesfully', 'berman', 'frozen', 'vanheyningen', 'magnavox', 'coordination', 'assad', 'eli', 'twm', 'butin', 'rhetorical']
+['perfection', 'therewa', 'checker', 'pissed', 'theologian', 'wysiwyg', 'tikkanen', 'lefebvre', 'decoder', 'withinthe', 'speedometer', 'structure', 'philosophical', 'ethiopia', 'squat']
+['crown', 'sophistication', 'designation', 'perfection', 'decide', 'needham', 'defy', 'expert', 'waco', 'thiskind', 'militiaman', 'lethal', 'qj', 'gallant', 'vdc']
+['societal', 'usedto', 'tip', 'nx', 'cylindrical', 'vis', 'thinkthe', 'signature', 'thingslike', 'auction', 'ben', 'initialization', 'compaq', 'oo', 'get']
+['sys', 'import', 'potato', 'wysiwyg', 'mcdowell', 'repetitive', 'cs', 'deputy', 'streak', 'recurrence', 'discourse', 'parking', 'promotion', 'argic', 'ximage']
+['tip', 'dakota', 'yassin', 'miserable', 'intercourse', 'kick', 'gizwt', 'women', 'superiority', 'vl', 'vx', 'multitaske', 'coffee', 'uc', 'becalle']
+['pci', 'tyre', 'streak', 'theonly', 'import', 'poisoning', 'io', 'whatexactly', 'region', 'humility', 'xh', 'verdict', 'tip', 'instruct', 'multitaske']
+['wysiwyg', 'multitaske', 'smoker', 'qn', 'gallant', 'interlace', 'superiority', 'aggravate', 'sector', 'mythical', 'tip', 'carpet', 'repeal', 'masse', 'vx']
+['tip', 'typewriter', 'evasion', 'animate', 'eventhe', 'zv', 'motorcycling', 'wn', 'dramatic', 'wysiwyg', 'thinkthe', 'nod', 'let', 'wallet', 'speaking']
+['tend', 'fn', 'clue', 'promotion', 'perfection', 'tikkanen', 'parking', 'booster', 'choke', 'macweek', 'consulting', 'slightly', 'key', 'site', 'aix']
+['obstruction', 'magnavox', 'retract', 'perihelion', 'coordination', 'speedometer', 'mvp', 'issueof', 'thingslike', 'duc', 'verdict', 'tmp', 'los', 'tabloid', 'theonly']
+['director', 'audience', 'orderto', 'mushroom', 'typically', 'fujitsu', 'recomend', 'bxom', 'likeit', 'rotor', 'achievement', 'tip', 'dub', 'chemical', 'mortgage']
+['cowardly', 'wysiwyg', 'naked', 'promote', 'khz', 'commerical', 'contributor', 'theonly', 'engage', 'pal', 'jk', 'bury', 'rich', 'berman', 'jake']
+['imho', 'multitaske', 'referendum', 'torment', 'hb', 'import', 'succesfully', 'caste', 'witty', 'inaccurate', 'ducati', 'canvas', 'mind', 'horse', 'cylindrical']
+['mit', 'perish', 'neighbouring', 'ri', 'speedometer', 'opposite', 'superiority', 'freewill', 'dutch', 'concentrate', 'cryptosystem', 'copy', 'mind', 'rhetorical', 'implicit']
+['anyways', 'censor', 'worker', 'manypeople', 'proto', 'vx', 'casual', 'ethiopia', 'atrocity', 'pcl', 'interlace', 'despise', 'cognitivist', 'governor', 'theoutside']
+['psi', 'witty', 'chairman', 'tip', 'magnavox', 'ot', 'rifleman', 'reader', 'gouge', 'spit', 'speedometer', 'betray', 'ji', 'content', 'insane']
+['psi', 'thanto', 'push', 'ximage', 'uncover', 'boost', 'vast', 'repeal', 'hover', 'painting', 'hb', 'paint', 'verdict', 'orthe', 'unlikely']
+['fujitsu', 'arc', 'freeze', 'near', 'streak', 'roman', 'biz', 'key', 'audience', 'vx', 'trading', 'ucs', 'dialog', 'verdict', 'caratza']
+['retract', 'breakfast', 'selector', 'wasnot', 'superiority', 'ocean', 'consumption', 'asthe', 'group', 'makethe', 'caratza', 'backand', 'm', 'buzzword', 'taker']
+['theological', 'dxf', 'naked', 'ij', 'm', 'weigh', 'imperial', 'prelude', 'selector', 'identifi', 'insane', 'penn', 'statistic', 'logically', 'macweek']
+['frozen', 'wysiwyg', 'signature', 'multitaske', 'jk', 'caste', 'generation', 'tomorrow', 'oate', 'mickey', 'thorn', 'pleasure', 'auction', 'berman', 'spit']
+['dub', 'boost', 'spit', 'wysiwyg', 'inhabit', 'pleased', 'rich', 'vanheyningen', 'track', 'timothy', 'yu', 'decide', 'temple', 'thousand', 'henderson']
+['yp', 'bh', 'multitaske', 'eece', 'pleasure', 'accelerate', 'ott', 'covering', 'reflector', 'uta', 'td', 'roll', 'proceeding', 'tech', 'caratza']
+['accidental', 'statistic', 'din', 'worry', 'orthe', 'implicit', 'nsa', 'bulgaria', 'despise', 'famous', 'seethe', 'audience', 'goat', 'consulting', 'notnecessarily']
+['audience', 'fuse', 'cryptosystem', 'sweat', 'routing', 'engage', 'baltimore', 'eternity', 'morris', 'bubble', 'thereof', 'naked', 'theydo', 'dutch', 'neighbour']
+['casual', 'naked', 'multitaske', 'comefrom', 'engage', 'dartmouth', 'maybethe', 'gosh', 'olson', 'fujitsu', 'footprint', 'ximage', 'privilege', 'painting', 'berman']
+['nl', 'concentrate', 'posting', 'repeal', 'sultan', 'speedometer', 'medieval', 'wit', 'likeit', 'keith', 'rear', 'intruder', 'kick', 'abortion', 'promotion']
+['speedometer', 'isreal', 'uc', 'opposite', 'dana', 'thepossibility', 'impression', 'zenith', 'tip', 'osf', 'paint', 'nra', 'mjone', 'macweek', 'scott']
+['frozen', 'island', 'm', 'workbench', 'roussel', 'surgical', 'itchy', 'osf', 'pirate', 'shostack', 'inhabit', 'wysiwyg', 'semi', 'orthe', 'inerrantist']
+['xf', 'tikkanen', 'risc', 'speedometer', 'initialize', 'culture', 'collin', 'lebanese', 'concentrate', 'cousin', 'hb', 'decline', 'get', 'caste', 'labour']
+['manypeople', 'biographical', 'theonly', 'vanheyningen', 'businessman', 'donation', 'semi', 'temporary', 'casual', 'daytime', 'wolverine', 'import', 'san', 'theological', 'speculation']
+['wysiwyg', 'ofright', 'framework', 'kth', 'initialization', 'simplicity', 'freeze', 'oo', 'fujitsu', 'subtract', 'admin', 'revision', 'classroom', 'desperate', 'multitaske']
+['wysiwyg', 'miserable', 'semi', 'dutch', 'lxmu', 'electricity', 'xmapwindow', 'macweek', 'falsehood', 'sort', 'backand', 'behaviorist', 'steam', 'umd', 'illiterate']
+['theological', 'theoutside', 'macweek', 'evolve', 'ucs', 'rhetorical', 'key', 'getthe', 'directional', 'plateau', 'mds', 'thelight', 'los', 'reveal', 'shocked']
+['conductor', 'vomit', 'meaningful', 'engage', 'satan', 'lynn', 'diaspora', 'nasp', 'ago', 'leftover', 'usedto', 'tyrant', 'okay', 'theonly', 'innings']
+['theonly', 'streak', 'ou', 'casualty', 'intruder', 'superiority', 'pennsylvania', 'consulting', 'av', 'opposite', 'msu', 'wysiwyg', 'carb', 'gis', 'relativity']
+['score', 'eliminate', 'slowly', 'renderman', 'wsj', 'intifada', 'miserable', 'recurrence', 'jone', 'wasin', 'aspect', 'let', 'imperfect', 'ji', 'cultist']
+['framework', 'wakefield', 'accidental', 'hb', 'gouge', 'misconception', 'cape', 'dana', 'campbell', 'semi', 'canvas', 'swing', 'inside', 'plasma', 'oo']
+['likeit', 'relationship', 'reveal', 'cautious', 'mds', 'dakota', 'withinthe', 'temporary', 'symbol', 'unlikely', 'tip', 'doesthe', 'race', 'evident', 'liter']
+['float', 'dxf', 'emotional', 'readily', 'thinkthe', 'succesfully', 'mjone', 'calvin', 'umich', 'misunderstanding', 'govern', 'ifthe', 'marching', 'mds', 'genetic']
+==============================
+topic diversity:0.6706666666666666
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6619107963441615, c_w2v:None, c_uci:-9.957678592962232, c_npmi:-0.35813281646686385
+mimno topic coherence:-196.46889364552763
+Epoch  21	Iter    1	Loss_D:-0.1027157	Loss_G:142.4071350	loss_E:0.0317573
+Epoch  21	Iter   11	Loss_D:-0.1033364	Loss_G:141.3060913	loss_E:0.0312918
+Epoch  21	Iter   21	Loss_D:-0.1031685	Loss_G:140.2085114	loss_E:0.0306016
+Epoch  22	Iter    1	Loss_D:-0.1021069	Loss_G:139.1152954	loss_E:0.0301021
+Epoch  22	Iter   11	Loss_D:-0.1037257	Loss_G:138.0252838	loss_E:0.0317073
+Epoch  22	Iter   21	Loss_D:-0.1028860	Loss_G:136.9409332	loss_E:0.0306582
+Epoch  23	Iter    1	Loss_D:-0.1029301	Loss_G:135.8603363	loss_E:0.0308234
+Epoch  23	Iter   11	Loss_D:-0.1059845	Loss_G:134.7851105	loss_E:0.0336079
+Epoch  23	Iter   21	Loss_D:-0.1027221	Loss_G:133.7127075	loss_E:0.0305567
+Epoch  24	Iter    1	Loss_D:-0.1036004	Loss_G:132.6455688	loss_E:0.0316717
+Epoch  24	Iter   11	Loss_D:-0.1033480	Loss_G:131.5823212	loss_E:0.0310804
+Epoch  24	Iter   21	Loss_D:-0.1035876	Loss_G:130.5248718	loss_E:0.0308239
+Epoch  25	Iter    1	Loss_D:-0.1023444	Loss_G:129.4691620	loss_E:0.0307683
+Epoch  25	Iter   11	Loss_D:-0.1040028	Loss_G:128.4203491	loss_E:0.0314531
+Epoch  25	Iter   21	Loss_D:-0.1042996	Loss_G:127.3750458	loss_E:0.0312475
+Epoch  26	Iter    1	Loss_D:-0.1037030	Loss_G:126.3339005	loss_E:0.0314368
+Epoch  26	Iter   11	Loss_D:-0.1021177	Loss_G:125.2963867	loss_E:0.0297093
+Epoch  26	Iter   21	Loss_D:-0.1040254	Loss_G:124.2637100	loss_E:0.0321724
+Epoch  27	Iter    1	Loss_D:-0.1050926	Loss_G:123.2356339	loss_E:0.0331483
+Epoch  27	Iter   11	Loss_D:-0.1026127	Loss_G:122.2125092	loss_E:0.0306527
+Epoch  27	Iter   21	Loss_D:-0.1033476	Loss_G:121.1927032	loss_E:0.0313844
+Epoch  28	Iter    1	Loss_D:-0.1038709	Loss_G:120.1783371	loss_E:0.0316631
+Epoch  28	Iter   11	Loss_D:-0.1027695	Loss_G:119.1672287	loss_E:0.0303909
+Epoch  28	Iter   21	Loss_D:-0.1044438	Loss_G:118.1611557	loss_E:0.0325684
+Epoch  29	Iter    1	Loss_D:-0.1011622	Loss_G:117.1587906	loss_E:0.0294603
+Epoch  29	Iter   11	Loss_D:-0.1034227	Loss_G:116.1615372	loss_E:0.0315440
+Epoch  29	Iter   21	Loss_D:-0.1030222	Loss_G:115.1683121	loss_E:0.0308679
+Epoch  30	Iter    1	Loss_D:-0.1013173	Loss_G:114.1797791	loss_E:0.0296998
+Epoch  30	Iter   11	Loss_D:-0.1025873	Loss_G:113.1941452	loss_E:0.0312385
+Epoch  30	Iter   21	Loss_D:-0.1022235	Loss_G:112.2140656	loss_E:0.0311369
+Epoch  30	Loss_D_avg:-0.0892145	Loss_G_avg:161.5108353	loss_E_avg:0.0284606
+['tip', 'sec', 'thatwere', 'wysiwyg', 'lefebvre', 'hater', 'areavailable', 'macquarie', 'match', 'ephesian', 'forth', 'karl', 'graph', 'assumethat', 'asi']
+['casual', 'impression', 'key', 'casio', 'eliminate', 'inhabit', 'verdict', 'tip', 'vanheyningen', 'ba', 'aged', 'intercourse', 'plaintext', 'worm', 'crush']
+['intruder', 'raytracer', 'fujitsu', 'ncsl', 'progression', 'opponent', 'wysiwyg', 'makea', 'accidental', 'vx', 'speedometer', 'expense', 'thousand', 'merkle', 'rsaref']
+['thattheir', 'dmn', 'wysiwyg', 'dakota', 'jk', 'reagan', 'sick', 'dutch', 'shock', 'cryptosystem', 'logically', 'maddi', 'puncture', 'utc', 'revolutionize']
+['trickle', 'logically', 'arc', 'routine', 'thorn', 'aboutthe', 'worker', 'sys', 'vf', 'usedto', 'yassin', 'delude', 'jk', 'chat', 'admiral']
+['liter', 'accidental', 'thiskind', 'rid', 'multitaske', 'concentrate', 'discourse', 'web', 'mustang', 'classroom', 'cloth', 'jk', 'orthe', 'penny', 'ofencryption']
+['logically', 'dakota', 'adapt', 'hwy', 'ij', 'arc', 'khz', 'ubiquitous', 'mds', 'expression', 'rhetorical', 'cylindrical', 'embarrassment', 'profess', 'issueof']
+['bury', 'shine', 'nx', 'printer', 'rifleman', 'body', 'wysiwyg', 'xt', 'bulldozer', 'manypeople', 'journey', 'cease', 'jk', 'riley', 'cognitivist']
+['witty', 'graph', 'macweek', 'incline', 'fund', 'assort', 'sec', 'keenan', 'dakota', 'breakfast', 'themore', 'frozen', 'acknowledge', 'thanto', 'exile']
+['dakota', 'vanheyningen', 'intruder', 'hadbeen', 'succesfully', 'berman', 'magnavox', 'coordination', 'dither', 'assad', 'scenery', 'violate', 'brutal', 'frozen', 'printer']
+['perfection', 'checker', 'wysiwyg', 'decoder', 'therewa', 'pissed', 'lefebvre', 'withinthe', 'theologian', 'tikkanen', 'protective', 'philosophical', 'speedometer', 'botch', 'ethiopia']
+['crown', 'designation', 'sophistication', 'thiskind', 'perfection', 'decide', 'needham', 'militiaman', 'qj', 'defy', 'shopper', 'expert', 'lethal', 'waco', 'pirate']
+['societal', 'usedto', 'tip', 'nx', 'cylindrical', 'thinkthe', 'compaq', 'thingslike', 'auction', 'vis', 'oo', 'initialization', 'overtime', 'signature', 'ben']
+['import', 'potato', 'sys', 'mcdowell', 'wysiwyg', 'cs', 'repetitive', 'streak', 'deputy', 'weber', 'yassin', 'parking', 'curt', 'promotion', 'ximage']
+['tip', 'dakota', 'yassin', 'miserable', 'kick', 'intercourse', 'gizwt', 'women', 'vl', 'superiority', 'vx', 'becalle', 'streak', 'rapid', 'multitaske']
+['instruct', 'tip', 'import', 'streak', 'tyre', 'succesfully', 'pci', 'io', 'region', 'humility', 'poisoning', 'whatexactly', 'theonly', 'verdict', 'xh']
+['multitaske', 'wysiwyg', 'smoker', 'gallant', 'qn', 'tip', 'superiority', 'aggravate', 'interlace', 'mythical', 'dakota', 'dana', 'sector', 'brutal', 'carpet']
+['tip', 'evasion', 'animate', 'typewriter', 'wn', 'zv', 'thinkthe', 'wysiwyg', 'motorcycling', 'eventhe', 'dramatic', 'malcolm', 'opposite', 'nod', 'speaking']
+['tend', 'fn', 'parking', 'choke', 'promotion', 'clue', 'macweek', 'perfection', 'slightly', 'tikkanen', 'booster', 'key', 'audience', 'consulting', 'khz']
+['obstruction', 'magnavox', 'retract', 'coordination', 'speedometer', 'perihelion', 'sys', 'mvp', 'thingslike', 'verdict', 'theonly', 'oo', 'los', 'instruct', 'tabloid']
+['audience', 'director', 'orderto', 'mushroom', 'typically', 'fujitsu', 'likeit', 'recomend', 'rotor', 'tip', 'bxom', 'mit', 'naked', 'dub', 'classroom']
+['cowardly', 'wysiwyg', 'naked', 'commerical', 'engage', 'khz', 'promote', 'contributor', 'jk', 'jake', 'berman', 'chat', 'theonly', 'thorn', 'pal']
+['imho', 'multitaske', 'import', 'caste', 'cylindrical', 'witty', 'succesfully', 'inaccurate', 'referendum', 'hb', 'torment', 'ducati', 'horse', 'canvas', 'mind']
+['mit', 'neighbouring', 'speedometer', 'perish', 'ri', 'opposite', 'superiority', 'cryptosystem', 'concentrate', 'freewill', 'dutch', 'copy', 'rhetorical', 'postmaster', 'mind']
+['anyways', 'censor', 'worker', 'casual', 'manypeople', 'proto', 'ethiopia', 'despise', 'governor', 'atrocity', 'interlace', 'cognitivist', 'vx', 'theoutside', 'sunos']
+['witty', 'chairman', 'psi', 'magnavox', 'rifleman', 'tip', 'spit', 'ot', 'part', 'speedometer', 'content', 'macweek', 'richer', 'oo', 'gouge']
+['psi', 'thanto', 'ximage', 'push', 'vast', 'hover', 'paint', 'hb', 'uncover', 'painting', 'unlikely', 'repeal', 'verdict', 'labour', 'undo']
+['arc', 'fujitsu', 'near', 'streak', 'audience', 'freeze', 'key', 'dialog', 'roman', 'vx', 'ucs', 'verdict', 'quayle', 'securely', 'biz']
+['breakfast', 'selector', 'retract', 'consumption', 'wasnot', 'asthe', 'superiority', 'ocean', 'caratza', 'm', 'curtis', 'makethe', 'taker', 'pal', 'dither']
+['naked', 'theological', 'dxf', 'identifi', 'ij', 'insane', 'm', 'selector', 'imperial', 'statistic', 'macweek', 'wysiwyg', 'weigh', 'weber', 'prelude']
+['frozen', 'wysiwyg', 'jk', 'caste', 'signature', 'tomorrow', 'thorn', 'multitaske', 'generation', 'oate', 'mickey', 'pleasure', 'berman', 'securely', 'zv']
+['dub', 'wysiwyg', 'boost', 'spit', 'track', 'inhabit', 'timothy', 'pleased', 'decide', 'vanheyningen', 'yu', 'rich', 'intreste', 'thousand', 'radically']
+['bh', 'yp', 'multitaske', 'eece', 'pleasure', 'ott', 'uta', 'covering', 'roll', 'accelerate', 'td', 'structure', 'caratza', 'reflector', 'proceeding']
+['accidental', 'din', 'statistic', 'worry', 'seethe', 'consulting', 'audience', 'orthe', 'caste', 'famous', 'bulgaria', 'despise', 'notnecessarily', 'implicit', 'nsa']
+['audience', 'fuse', 'cryptosystem', 'sweat', 'engage', 'theydo', 'baltimore', 'bubble', 'eternity', 'thereof', 'morris', 'routing', 'naked', 'neighbour', 'assumethat']
+['naked', 'casual', 'multitaske', 'comefrom', 'dartmouth', 'engage', 'maybethe', 'footprint', 'ximage', 'fujitsu', 'olson', 'ofencryption', 'thiskind', 'thay', 'gosh']
+['nl', 'speedometer', 'posting', 'concentrate', 'wit', 'likeit', 'repeal', 'sultan', 'highway', 'logically', 'medieval', 'rear', 'specially', 'intruder', 'kick']
+['speedometer', 'isreal', 'uc', 'opposite', 'dana', 'thepossibility', 'tip', 'impression', 'paint', 'likeit', 'scott', 'zenith', 'macweek', 'satisfactory', 'osf']
+['frozen', 'island', 'roussel', 'm', 'pirate', 'itchy', 'workbench', 'surgical', 'wysiwyg', 'inhabit', 'osf', 'orthe', 'radar', 'saysthat', 'surrender']
+['xf', 'risc', 'speedometer', 'tikkanen', 'initialize', 'culture', 'accept', 'hb', 'lebanese', 'caste', 'decline', 'collin', 'rapid', 'jew', 'concentrate']
+['manypeople', 'biographical', 'vanheyningen', 'theonly', 'businessman', 'daytime', 'casual', 'wolverine', 'semi', 'immense', 'speculation', 'thinkthe', 'instruct', 'theological', 'donation']
+['wysiwyg', 'ofright', 'framework', 'simplicity', 'fujitsu', 'kth', 'lemke', 'revision', 'subtract', 'admin', 'oo', 'initialization', 'thiskind', 'wooden', 'classroom']
+['wysiwyg', 'semi', 'dutch', 'miserable', 'xmapwindow', 'sort', 'falsehood', 'macweek', 'steam', 'ingest', 'lxmu', 'electricity', 'stake', 'mit', 'torment']
+['theological', 'theoutside', 'macweek', 'ucs', 'evolve', 'key', 'plateau', 'thelight', 'mds', 'reveal', 'casual', 'directional', 'rhetorical', 'timmon', 'vf']
+['ago', 'conductor', 'engage', 'vomit', 'meaningful', 'satan', 'okay', 'leftover', 'theonly', 'diaspora', 'repress', 'usedto', 'lynn', 'tyrant', 'healing']
+['theonly', 'streak', 'consulting', 'superiority', 'intruder', 'ou', 'pennsylvania', 'casualty', 'carb', 'av', 'gis', 'sys', 'msu', 'opposite', 'makefile']
+['score', 'eliminate', 'slowly', 'renderman', 'imperfect', 'fixture', 'intifada', 'jone', 'cultist', 'miserable', 'breakfast', 'yassin', 'recurrence', 'animate', 'wsj']
+['wakefield', 'framework', 'accidental', 'hb', 'gouge', 'cape', 'concentrate', 'campbell', 'paradise', 'misconception', 'dana', 'oo', 'swing', 'audience', 'canvas']
+['likeit', 'reveal', 'relationship', 'mds', 'withinthe', 'temporary', 'dakota', 'cautious', 'tip', 'shopper', 'emulator', 'unlikely', 'symbol', 'evident', 'toad']
+['float', 'emotional', 'thinkthe', 'mds', 'endless', 'readily', 'student', 'calvin', 'mjone', 'succesfully', 'dxf', 'instruct', 'misunderstanding', 'umich', 'ofencryption']
+==============================
+topic diversity:0.6426666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6691280613183571, c_w2v:None, c_uci:-9.971599967617019, c_npmi:-0.3589669447284893
+mimno topic coherence:-216.37109244842262
+Epoch  31	Iter    1	Loss_D:-0.1046753	Loss_G:111.2382050	loss_E:0.0336283
+Epoch  31	Iter   11	Loss_D:-0.1029944	Loss_G:110.2669754	loss_E:0.0323047
+Epoch  31	Iter   21	Loss_D:-0.1028292	Loss_G:109.2995377	loss_E:0.0320152
+Epoch  32	Iter    1	Loss_D:-0.1032437	Loss_G:108.3373947	loss_E:0.0323737
+Epoch  32	Iter   11	Loss_D:-0.1031267	Loss_G:107.3781281	loss_E:0.0325835
+Epoch  32	Iter   21	Loss_D:-0.1026123	Loss_G:106.4249496	loss_E:0.0319799
+Epoch  33	Iter    1	Loss_D:-0.1023016	Loss_G:105.4749222	loss_E:0.0318088
+Epoch  33	Iter   11	Loss_D:-0.1028723	Loss_G:104.5289612	loss_E:0.0332214
+Epoch  33	Iter   21	Loss_D:-0.1024974	Loss_G:103.5882339	loss_E:0.0324056
+Epoch  34	Iter    1	Loss_D:-0.1016364	Loss_G:102.6524277	loss_E:0.0317114
+Epoch  34	Iter   11	Loss_D:-0.1029269	Loss_G:101.7189178	loss_E:0.0334642
+Epoch  34	Iter   21	Loss_D:-0.1049496	Loss_G:100.7912140	loss_E:0.0357277
+Epoch  35	Iter    1	Loss_D:-0.1028304	Loss_G:99.8675461	loss_E:0.0337718
+Epoch  35	Iter   11	Loss_D:-0.1039204	Loss_G:98.9492340	loss_E:0.0346345
+Epoch  35	Iter   21	Loss_D:-0.1035295	Loss_G:98.0334702	loss_E:0.0347243
+Epoch  36	Iter    1	Loss_D:-0.1037340	Loss_G:97.1236649	loss_E:0.0347942
+Epoch  36	Iter   11	Loss_D:-0.1027286	Loss_G:96.2167130	loss_E:0.0340505
+Epoch  36	Iter   21	Loss_D:-0.1036161	Loss_G:95.3160172	loss_E:0.0346991
+Epoch  37	Iter    1	Loss_D:-0.1051113	Loss_G:94.4183121	loss_E:0.0363260
+Epoch  37	Iter   11	Loss_D:-0.1035320	Loss_G:93.5254440	loss_E:0.0349354
+Epoch  37	Iter   21	Loss_D:-0.1034669	Loss_G:92.6363831	loss_E:0.0349943
+Epoch  38	Iter    1	Loss_D:-0.1022038	Loss_G:91.7531052	loss_E:0.0337641
+Epoch  38	Iter   11	Loss_D:-0.1040700	Loss_G:90.8719711	loss_E:0.0361496
+Epoch  38	Iter   21	Loss_D:-0.1048802	Loss_G:89.9967575	loss_E:0.0369548
+Epoch  39	Iter    1	Loss_D:-0.1049961	Loss_G:89.1257629	loss_E:0.0369059
+Epoch  39	Iter   11	Loss_D:-0.1038095	Loss_G:88.2594376	loss_E:0.0359352
+Epoch  39	Iter   21	Loss_D:-0.1035693	Loss_G:87.3962555	loss_E:0.0359724
+Epoch  40	Iter    1	Loss_D:-0.1039898	Loss_G:86.5385666	loss_E:0.0365717
+Epoch  40	Iter   11	Loss_D:-0.1050813	Loss_G:85.6842270	loss_E:0.0377689
+Epoch  40	Iter   21	Loss_D:-0.1023250	Loss_G:84.8357468	loss_E:0.0349540
+Epoch  40	Loss_D_avg:-0.0927780	Loss_G_avg:145.5685305	loss_E_avg:0.0299382
+['tip', 'sec', 'thatwere', 'lefebvre', 'wysiwyg', 'match', 'areavailable', 'assumethat', 'instruct', 'macquarie', 'ephesian', 'renderman', 'lpt', 'forth', 'coupe']
+['casual', 'impression', 'key', 'eliminate', 'aged', 'vanheyningen', 'tip', 'casio', 'inhabit', 'ba', 'verdict', 'intercourse', 'plaintext', 'dana', 'timmon']
+['intruder', 'progression', 'wysiwyg', 'raytracer', 'fujitsu', 'makea', 'speedometer', 'mvanheyn', 'ncsl', 'vx', 'opponent', 'accidental', 'instruct', 'merkle', 'seethe']
+['thattheir', 'dmn', 'jk', 'sick', 'dakota', 'logically', 'puncture', 'dutch', 'calculus', 'maddi', 'wysiwyg', 'utc', 'reagan', 'cryptosystem', 'eng']
+['trickle', 'logically', 'arc', 'worker', 'aboutthe', 'naked', 'thorn', 'routine', 'chat', 'yassin', 'sys', 'comefrom', 'vf', 'decline', 'tip']
+['accidental', 'liter', 'thiskind', 'rid', 'web', 'concentrate', 'jk', 'multitaske', 'penny', 'ofencryption', 'cloth', 'discourse', 'mustang', 'orthe', 'brutal']
+['logically', 'khz', 'adapt', 'arc', 'rhetorical', 'ij', 'audience', 'dakota', 'berman', 'mds', 'cylindrical', 'unm', 'hwy', 'iranian', 'conservative']
+['bury', 'printer', 'shine', 'body', 'nx', 'xt', 'rifleman', 'bulldozer', 'wysiwyg', 'journey', 'manypeople', 'um', 'jk', 'cease', 'vaporize']
+['witty', 'graph', 'macweek', 'keenan', 'fund', 'incline', 'breakfast', 'acknowledge', 'assort', 'dakota', 'instruct', 'sec', 'thanto', 'husc', 'youcould']
+['vanheyningen', 'dakota', 'berman', 'intruder', 'hadbeen', 'succesfully', 'coordination', 'magnavox', 'scenery', 'printer', 'conservative', 'brutal', 'assad', 'purchasing', 'likeit']
+['wysiwyg', 'decoder', 'perfection', 'checker', 'jerusalem', 'pissed', 'lefebvre', 'withinthe', 'protective', 'therewa', 'oate', 'theologian', 'speedometer', 'botch', 'tikkanen']
+['designation', 'crown', 'sophistication', 'thiskind', 'coastal', 'militiaman', 'perfection', 'shopper', 'qj', 'needham', 'pirate', 'decide', 'intruder', 'lethal', 'gallant']
+['tip', 'cylindrical', 'usedto', 'societal', 'nx', 'compaq', 'audience', 'thinkthe', 'thingslike', 'freeware', 'auction', 'overtime', 'anxious', 'peaceful', 'oo']
+['import', 'mcdowell', 'potato', 'sys', 'weber', 'wysiwyg', 'cs', 'repetitive', 'logically', 'streak', 'decoder', 'somethinglike', 'backward', 'yassin', 'arc']
+['tip', 'dakota', 'kick', 'gizwt', 'miserable', 'becalle', 'nonprofit', 'intercourse', 'yassin', 'women', 'rapid', 'nl', 'tc', 'credible', 'vx']
+['instruct', 'tip', 'import', 'streak', 'succesfully', 'decline', 'tyre', 'io', 'crash', 'hacker', 'humility', 'thx', 'dc', 'verdict', 'initialize']
+['multitaske', 'gallant', 'tip', 'wysiwyg', 'smoker', 'dana', 'qn', 'dakota', 'aggravate', 'superiority', 'instruct', 'brutal', 'caste', 'commercial', 'sultan']
+['tip', 'zv', 'animate', 'wn', 'thinkthe', 'evasion', 'malcolm', 'typewriter', 'wysiwyg', 'motorcycling', 'boggs', 'businessman', 'eventhe', 'wallet', 'dana']
+['tend', 'fn', 'macweek', 'parking', 'choke', 'slightly', 'backward', 'clue', 'key', 'audience', 'promotion', 'thevarious', 'khz', 'wilson', 'consulting']
+['obstruction', 'magnavox', 'retract', 'speedometer', 'sys', 'coordination', 'instruct', 'oo', 'boggs', 'verdict', 'thingslike', 'perihelion', 'ncd', 'nl', 'vf']
+['audience', 'director', 'orderto', 'likeit', 'tip', 'mushroom', 'mit', 'recomend', 'typically', 'fujitsu', 'rotor', 'bxom', 'naked', 'shocked', 'soul']
+['cowardly', 'wysiwyg', 'naked', 'engage', 'commerical', 'jake', 'thorn', 'berman', 'khz', 'chat', 'jk', 'makefile', 'promote', 'recomend', 'pal']
+['imho', 'multitaske', 'caste', 'cylindrical', 'import', 'witty', 'inaccurate', 'ucs', 'horse', 'bury', 'succesfully', 'severly', 'canvas', 'ducati', 'macweek']
+['speedometer', 'neighbouring', 'mit', 'perish', 'ri', 'cryptosystem', 'opposite', 'postmaster', 'superiority', 'rhetorical', 'concentrate', 'freewill', 'copy', 'dutch', 'withinthe']
+['worker', 'anyways', 'censor', 'casual', 'ethiopia', 'manypeople', 'governor', 'despise', 'interlace', 'theoutside', 'sunos', 'graph', 'red', 'proto', 'atrocity']
+['chairman', 'witty', 'magnavox', 'psi', 'richer', 'part', 'content', 'tip', 'rifleman', 'speedometer', 'macweek', 'ot', 'videotape', 'opposite', 'oo']
+['thanto', 'psi', 'push', 'ximage', 'paint', 'vast', 'hover', 'verdict', 'unlikely', 'irish', 'painting', 'berman', 'repeal', 'labour', 'hb']
+['near', 'arc', 'audience', 'key', 'streak', 'fujitsu', 'freeze', 'dialog', 'securely', 'verdict', 'ucs', 'primate', 'quayle', 'vx', 'worker']
+['breakfast', 'selector', 'retract', 'consumption', 'curtis', 'asthe', 'wasnot', 'ocean', 'm', 'dither', 'superiority', 'bit', 'speedometer', 'taker', 'caratza']
+['naked', 'theological', 'dxf', 'insane', 'identifi', 'architecture', 'ij', 'm', 'selector', 'macweek', 'weber', 'imperial', 'thoroughly', 'tip', 'statistic']
+['frozen', 'caste', 'thorn', 'tomorrow', 'jk', 'wysiwyg', 'signature', 'berman', 'mickey', 'securely', 'generation', 'oate', 'pleasure', 'zv', 'multitaske']
+['dub', 'track', 'wysiwyg', 'timothy', 'boost', 'spit', 'decide', 'inhabit', 'pleased', 'intreste', 'prescribe', 'jake', 'vanheyningen', 'africa', 'repress']
+['bh', 'pleasure', 'yp', 'eece', 'multitaske', 'ott', 'uta', 'senior', 'speedometer', 'consulting', 'roll', 'ambition', 'labour', 'incident', 'covering']
+['accidental', 'seethe', 'consulting', 'din', 'statistic', 'worry', 'audience', 'famous', 'caste', 'bulgaria', 'audit', 'tyre', 'dat', 'neighbouring', 'notnecessarily']
+['audience', 'fuse', 'cryptosystem', 'theydo', 'sweat', 'engage', 'bubble', 'assumethat', 'naked', 'baltimore', 'eternity', 'neighbour', 'thereof', 'dutch', 'routing']
+['naked', 'multitaske', 'casual', 'comefrom', 'dartmouth', 'engage', 'thiskind', 'footprint', 'gray', 'ximage', 'seethe', 'fujitsu', 'olson', 'maybethe', 'ofencryption']
+['nl', 'speedometer', 'likeit', 'logically', 'highway', 'wit', 'posting', 'concentrate', 'repeal', 'specially', 'calvin', 'xd', 'multitaske', 'rear', 'sultan']
+['speedometer', 'isreal', 'uc', 'dana', 'likeit', 'thepossibility', 'tip', 'opposite', 'paint', 'scott', 'notnecessarily', 'satisfactory', 'impression', 'osf', 'macweek']
+['frozen', 'island', 'roussel', 'pirate', 'wysiwyg', 'mjone', 'asteroid', 'orthe', 'inhabit', 'itchy', 'surrender', 'radar', 'vanheyningen', 'm', 'saysthat']
+['xf', 'risc', 'speedometer', 'tikkanen', 'decline', 'initialize', 'lebanese', 'xremote', 'accept', 'rapid', 'hb', 'culture', 'caste', 'cassel', 'berman']
+['manypeople', 'biographical', 'casual', 'daytime', 'vanheyningen', 'wolverine', 'businessman', 'instruct', 'immense', 'coreldraw', 'theonly', 'thorn', 'thinkthe', 'multitaske', 'speculation']
+['wysiwyg', 'ofright', 'framework', 'lemke', 'simplicity', 'fujitsu', 'revision', 'kth', 'wooden', 'witty', 'subtract', 'sys', 'thiskind', 'admin', 'ernie']
+['wysiwyg', 'semi', 'xmapwindow', 'sort', 'dutch', 'ingest', 'falsehood', 'steam', 'stake', 'macweek', 'realization', 'miserable', 'mit', 'dakota', 'ot']
+['theological', 'theoutside', 'macweek', 'ucs', 'key', 'vf', 'casual', 'evolve', 'timmon', 'plateau', 'mds', 'dana', 'repress', 'reveal', 'radio']
+['ago', 'engage', 'okay', 'satan', 'vomit', 'repress', 'attract', 'meaningful', 'conductor', 'famous', 'theonly', 'leftover', 'tyrant', 'diaspora', 'usedto']
+['theonly', 'streak', 'consulting', 'superiority', 'intruder', 'gis', 'pennsylvania', 'carb', 'msu', 'ou', 'sys', 'cube', 'aboutthe', 'makefile', 'securely']
+['score', 'eliminate', 'slowly', 'fixture', 'renderman', 'rationale', 'imperfect', 'breakfast', 'intifada', 'audience', 'cultist', 'jone', 'yassin', 'berman', 'animate']
+['wakefield', 'framework', 'gouge', 'concentrate', 'accidental', 'paradise', 'cape', 'audience', 'hb', 'instruct', 'campbell', 'dana', 'theoutside', 'oo', 'dub']
+['likeit', 'reveal', 'mds', 'relationship', 'temporary', 'withinthe', 'dakota', 'cautious', 'toad', 'emulator', 'shopper', 'foreign', 'tip', 'speedometer', 'liter']
+['float', 'emotional', 'thinkthe', 'instruct', 'endless', 'student', 'mds', 'mjone', 'calvin', 'na', 'readily', 'dtr', 'ofencryption', 'ifthe', 'rock']
+==============================
+topic diversity:0.6053333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.669978950774226, c_w2v:None, c_uci:-9.939330502453629, c_npmi:-0.35765772256729556
+mimno topic coherence:-223.70141311022988
+Epoch  41	Iter    1	Loss_D:-0.1059141	Loss_G:83.9905930	loss_E:0.0385839
+Epoch  41	Iter   11	Loss_D:-0.1029663	Loss_G:83.1504669	loss_E:0.0354245
+Epoch  41	Iter   21	Loss_D:-0.1044293	Loss_G:82.3135910	loss_E:0.0372126
+Epoch  42	Iter    1	Loss_D:-0.1037203	Loss_G:81.4830017	loss_E:0.0361861
+Epoch  42	Iter   11	Loss_D:-0.1029745	Loss_G:80.6545105	loss_E:0.0356745
+Epoch  42	Iter   21	Loss_D:-0.1033134	Loss_G:79.8317490	loss_E:0.0359667
+Epoch  43	Iter    1	Loss_D:-0.1044674	Loss_G:79.0127487	loss_E:0.0373415
+Epoch  43	Iter   11	Loss_D:-0.1036811	Loss_G:78.1990738	loss_E:0.0364674
+Epoch  43	Iter   21	Loss_D:-0.1058037	Loss_G:77.3886948	loss_E:0.0384004
+Epoch  44	Iter    1	Loss_D:-0.1037059	Loss_G:76.5832291	loss_E:0.0365758
+Epoch  44	Iter   11	Loss_D:-0.1034179	Loss_G:75.7813873	loss_E:0.0362272
+Epoch  44	Iter   21	Loss_D:-0.1074917	Loss_G:74.9852371	loss_E:0.0402860
+Epoch  45	Iter    1	Loss_D:-0.1058351	Loss_G:74.1927643	loss_E:0.0383345
+Epoch  45	Iter   11	Loss_D:-0.1046093	Loss_G:73.4048920	loss_E:0.0369731
+Epoch  45	Iter   21	Loss_D:-0.1029526	Loss_G:72.6207657	loss_E:0.0353471
+Epoch  46	Iter    1	Loss_D:-0.1048728	Loss_G:71.8423920	loss_E:0.0371942
+Epoch  46	Iter   11	Loss_D:-0.1045959	Loss_G:71.0665436	loss_E:0.0368922
+Epoch  46	Iter   21	Loss_D:-0.1037755	Loss_G:70.2958450	loss_E:0.0363477
+Epoch  47	Iter    1	Loss_D:-0.1048238	Loss_G:69.5295258	loss_E:0.0372490
+Epoch  47	Iter   11	Loss_D:-0.1040517	Loss_G:68.7685089	loss_E:0.0362141
+Epoch  47	Iter   21	Loss_D:-0.1033823	Loss_G:68.0102921	loss_E:0.0356265
+Epoch  48	Iter    1	Loss_D:-0.1022417	Loss_G:67.2575302	loss_E:0.0344684
+Epoch  48	Iter   11	Loss_D:-0.1024483	Loss_G:66.5078735	loss_E:0.0348291
+Epoch  48	Iter   21	Loss_D:-0.1037420	Loss_G:65.7643890	loss_E:0.0358197
+Epoch  49	Iter    1	Loss_D:-0.1046546	Loss_G:65.0238571	loss_E:0.0367713
+Epoch  49	Iter   11	Loss_D:-0.1057673	Loss_G:64.2884598	loss_E:0.0376561
+Epoch  49	Iter   21	Loss_D:-0.1030398	Loss_G:63.5563812	loss_E:0.0352049
+Epoch  50	Iter    1	Loss_D:-0.1055776	Loss_G:62.8306198	loss_E:0.0373273
+Epoch  50	Iter   11	Loss_D:-0.1035848	Loss_G:62.1066818	loss_E:0.0356078
+Epoch  50	Iter   21	Loss_D:-0.1048974	Loss_G:61.3886032	loss_E:0.0369149
+Epoch  50	Loss_D_avg:-0.0950673	Loss_G_avg:130.9336924	loss_E_avg:0.0312781
+['tip', 'sec', 'instruct', 'therewa', 'ephesian', 'parse', 'survey', 'night', 'lpt', 'assumethat', 'advisory', 'lefebvre', 'renderman', 'wysiwyg', 'coupe']
+['casual', 'key', 'eliminate', 'aged', 'vanheyningen', 'tip', 'ba', 'dana', 'inhabit', 'impression', 'theline', 'verdict', 'tolearn', 'timmon', 'malcolm']
+['intruder', 'progression', 'mvanheyn', 'wysiwyg', 'instruct', 'speedometer', 'makea', 'fujitsu', 'vx', 'raytracer', 'accidental', 'seethe', 'rephrase', 'opponent', 'thx']
+['thattheir', 'calculus', 'dmn', 'utc', 'puncture', 'dutch', 'sick', 'thelight', 'jk', 'logically', 'dakota', 'reagan', 'hopper', 'eng', 'maddi']
+['trickle', 'worker', 'naked', 'chat', 'arc', 'logically', 'aboutthe', 'decline', 'yassin', 'sys', 'thorn', 'comefrom', 'tip', 'routine', 'vf']
+['accidental', 'liter', 'web', 'rid', 'jk', 'concentrate', 'thiskind', 'penny', 'ofencryption', 'markedly', 'multitaske', 'instruct', 'cloth', 'makefile', 'animate']
+['logically', 'khz', 'rhetorical', 'audience', 'arc', 'adapt', 'unm', 'berman', 'conservative', 'ij', 'boggs', 'mds', 'iranian', 'cylindrical', 'magnavox']
+['bury', 'body', 'printer', 'shine', 'xt', 'likeit', 'bulldozer', 'wysiwyg', 'nx', 'xwd', 'rifleman', 'journey', 'um', 'legit', 'simplicity']
+['keenan', 'witty', 'macweek', 'acknowledge', 'graph', 'obmoto', 'breakfast', 'incline', 'fund', 'instruct', 'tikkanen', 'plainly', 'decoder', 'accidental', 'assort']
+['vanheyningen', 'dakota', 'berman', 'intruder', 'likeit', 'scenery', 'conservative', 'purchasing', 'overtime', 'magnavox', 'brutal', 'maddi', 'attract', 'printer', 'significance']
+['jerusalem', 'wysiwyg', 'decoder', 'oate', 'withinthe', 'theologian', 'pissed', 'speedometer', 'punch', 'therewa', 'checker', 'lefebvre', 'tikkanen', 'themore', 'cape']
+['designation', 'coastal', 'sophistication', 'thiskind', 'militiaman', 'witty', 'attemptedto', 'vgalogo', 'crown', 'shopper', 'berman', 'pirate', 'initiate', 'ford', 'audience']
+['tip', 'audience', 'cylindrical', 'nx', 'compaq', 'freeware', 'usedto', 'peaceful', 'societal', 'ford', 'anxious', 'speedometer', 'conductor', 'overtime', 'sweat']
+['import', 'mcdowell', 'weber', 'decoder', 'sys', 'potato', 'logically', 'cs', 'somethinglike', 'ripken', 'iici', 'arc', 'repetitive', 'backward', 'cisc']
+['tip', 'kick', 'nonprofit', 'becalle', 'tc', 'fundamentally', 'dakota', 'turk', 'rapid', 'credible', 'nl', 'gizwt', 'miserable', 'trickle', 'thorn']
+['instruct', 'tip', 'decline', 'import', 'streak', 'thx', 'crash', 'hacker', 'io', 'succesfully', 'humility', 'verdict', 'initialize', 'dc', 'thingslike']
+['multitaske', 'tip', 'dana', 'gallant', 'instruct', 'smoker', 'dakota', 'aggravate', 'zone', 'concentrated', 'commercial', 'caste', 'overlay', 'theologian', 'brutal']
+['tip', 'malcolm', 'thinkthe', 'zv', 'animate', 'wn', 'evasion', 'boggs', 'clinic', 'typewriter', 'businessman', 'wallet', 'motorcycling', 'wysiwyg', 'audience']
+['backward', 'key', 'slightly', 'macweek', 'parking', 'pirate', 'retract', 'audience', 'thevarious', 'wilson', 'fn', 'vx', 'progression', 'tend', 'roland']
+['magnavox', 'obstruction', 'retract', 'speedometer', 'sys', 'instruct', 'oo', 'coordination', 'boggs', 'ncd', 'vf', 'filesystem', 'verdict', 'triangulation', 'audience']
+['audience', 'tip', 'likeit', 'fujitsu', 'mit', 'recomend', 'shocked', 'soul', 'orderto', 'score', 'naked', 'mushroom', 'director', 'utilize', 'bxom']
+['cowardly', 'engage', 'commerical', 'jake', 'thorn', 'wysiwyg', 'makefile', 'naked', 'berman', 'instruct', 'chat', 'khz', 'recomend', 'vanheyningen', 'jk']
+['imho', 'multitaske', 'caste', 'cylindrical', 'ucs', 'severly', 'horse', 'bury', 'import', 'witty', 'inaccurate', 'decline', 'iton', 'endless', 'macweek']
+['speedometer', 'neighbouring', 'mit', 'postmaster', 'cryptosystem', 'ri', 'rhetorical', 'perish', 'opposite', 'withinthe', 'concentrate', 'superiority', 'usenet', 'vf', 'audience']
+['worker', 'ethiopia', 'anyways', 'censor', 'casual', 'theoutside', 'assort', 'red', 'manypeople', 'graph', 'interlace', 'sunos', 'governor', 'user', 'thattheir']
+['chairman', 'witty', 'magnavox', 'content', 'richer', 'part', 'tip', 'psi', 'speedometer', 'nolan', 'ot', 'oo', 'worker', 'videotape', 'macweek']
+['thanto', 'psi', 'paint', 'push', 'vast', 'berman', 'irish', 'ximage', 'unlikely', 'verdict', 'hover', 'safe', 'revision', 'naked', 'opponent']
+['near', 'key', 'audience', 'arc', 'fujitsu', 'streak', 'securely', 'dialog', 'freeze', 'primate', 'gizm', 'torre', 'multitaske', 'treally', 'osf']
+['curtis', 'breakfast', 'selector', 'consumption', 'retract', 'asthe', 'm', 'dither', 'oate', 'wasnot', 'bit', 'dignity', 'overheat', 'key', 'marketplace']
+['naked', 'architecture', 'insane', 'tolearn', 'weber', 'theological', 'macweek', 'dxf', 'aboutthe', 'ij', 'm', 'thoroughly', 'statistic', 'theologian', 'identifi']
+['frozen', 'thorn', 'tomorrow', 'berman', 'caste', 'securely', 'shopper', 'magnavox', 'jk', 'zv', 'wysiwyg', 'pleasure', 'shootout', 'mickey', 'key']
+['dub', 'track', 'timothy', 'wysiwyg', 'prescribe', 'intreste', 'decide', 'pleased', 'jake', 'cultist', 'fixture', 'boost', 'africa', 'inhabit', 'vanheyningen']
+['bh', 'pleasure', 'eece', 'multitaske', 'uta', 'ott', 'speedometer', 'yp', 'ambition', 'senior', 'incident', 'ussr', 'ratio', 'consulting', 'macweek']
+['accidental', 'famous', 'seethe', 'consulting', 'audience', 'statistic', 'din', 'worry', 'caste', 'audit', 'bulgaria', 'dat', 'neighbouring', 'vast', 'abundance']
+['audience', 'theydo', 'sweat', 'cryptosystem', 'fuse', 'bubble', 'engage', 'assumethat', 'naked', 'consulting', 'thereof', 'ussr', 'ei', 'routing', 'eternity']
+['naked', 'multitaske', 'comefrom', 'casual', 'dartmouth', 'seethe', 'thiskind', 'gray', 'ofencryption', 'thay', 'fujitsu', 'engage', 'olson', 'ximage', 'mq']
+['nl', 'speedometer', 'logically', 'likeit', 'highway', 'ofenvironmental', 'calvin', 'tip', 'wit', 'xd', 'cdr', 'specially', 'repeal', 'nb', 'multitaske']
+['speedometer', 'likeit', 'dana', 'uc', 'tip', 'paint', 'satisfactory', 'scott', 'isreal', 'notnecessarily', 'thepossibility', 'mjone', 'osf', 'audience', 'buffalo']
+['frozen', 'asteroid', 'roussel', 'mjone', 'wysiwyg', 'pirate', 'surrender', 'orthe', 'vanheyningen', 'island', 'radar', 'fundamentally', 'makefile', 'inhabit', 'gallant']
+['xf', 'risc', 'xremote', 'speedometer', 'berman', 'decline', 'initialize', 'rapid', 'lebanese', 'tikkanen', 'malcolm', 'caste', 'cassel', 'simplicity', 'okay']
+['manypeople', 'coreldraw', 'immense', 'biographical', 'daytime', 'casual', 'wolverine', 'vanheyningen', 'instruct', 'multitaske', 'thorn', 'businessman', 'speculation', 'cmap', 'theological']
+['wysiwyg', 'framework', 'lemke', 'ofright', 'fujitsu', 'simplicity', 'revision', 'witty', 'thiskind', 'kth', 'ernie', 'sys', 'bulgaria', 'wooden', 'eecg']
+['wysiwyg', 'semi', 'xmapwindow', 'falsehood', 'sort', 'ingest', 'realization', 'stake', 'steam', 'dutch', 'backward', 'mit', 'securely', 'jk', 'lib']
+['theological', 'ucs', 'key', 'macweek', 'theoutside', 'vf', 'casual', 'timmon', 'repress', 'plateau', 'curtis', 'dana', 'radio', 'los', 'pirate']
+['ago', 'okay', 'satan', 'engage', 'famous', 'repress', 'attract', 'vomit', 'icould', 'meaningful', 'caste', 'believe', 'packaging', 'xremote', 'bm']
+['consulting', 'gis', 'streak', 'superiority', 'aboutthe', 'theonly', 'msu', 'berman', 'sys', 'intruder', 'cube', 'makefile', 'carb', 'pennsylvania', 'securely']
+['score', 'eliminate', 'audience', 'rationale', 'renderman', 'fixture', 'slowly', 'breakfast', 'berman', 'imperfect', 'vq', 'animate', 'governmental', 'makefile', 'intifada']
+['concentrate', 'audience', 'wakefield', 'gouge', 'framework', 'instruct', 'paradise', 'accidental', 'theoutside', 'cape', 'art', 'risc', 'oo', 'dana', 'scorn']
+['likeit', 'mds', 'reveal', 'withinthe', 'relationship', 'temporary', 'toad', 'cautious', 'dakota', 'foreign', 'ford', 'shopper', 'speedometer', 'emulator', 'triangulation']
+['float', 'instruct', 'endless', 'student', 'thinkthe', 'mds', 'mjone', 'emotional', 'calvin', 'na', 'rock', 'xwd', 'misunderstanding', 'ifthe', 'isaac']
+==============================
+topic diversity:0.592
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6674520388194981, c_w2v:None, c_uci:-9.941780664845378, c_npmi:-0.357670134920025
+mimno topic coherence:-233.68181288901476
+Epoch  51	Iter    1	Loss_D:-0.1050292	Loss_G:60.6743660	loss_E:0.0371414
+Epoch  51	Iter   11	Loss_D:-0.1070699	Loss_G:59.9658127	loss_E:0.0387318
+Epoch  51	Iter   21	Loss_D:-0.1029377	Loss_G:59.2599106	loss_E:0.0346523
+Epoch  52	Iter    1	Loss_D:-0.1035863	Loss_G:58.5590782	loss_E:0.0355762
+Epoch  52	Iter   11	Loss_D:-0.1044761	Loss_G:57.8622169	loss_E:0.0361581
+Epoch  52	Iter   21	Loss_D:-0.1034361	Loss_G:57.1706734	loss_E:0.0351949
+Epoch  53	Iter    1	Loss_D:-0.1059049	Loss_G:56.4825401	loss_E:0.0375961
+Epoch  53	Iter   11	Loss_D:-0.1026926	Loss_G:55.7990913	loss_E:0.0345786
+Epoch  53	Iter   21	Loss_D:-0.1035726	Loss_G:55.1195831	loss_E:0.0355335
+Epoch  54	Iter    1	Loss_D:-0.1042235	Loss_G:54.4459152	loss_E:0.0359675
+Epoch  54	Iter   11	Loss_D:-0.1024285	Loss_G:53.7745514	loss_E:0.0343654
+Epoch  54	Iter   21	Loss_D:-0.1061406	Loss_G:53.1088448	loss_E:0.0380676
+Epoch  55	Iter    1	Loss_D:-0.1034191	Loss_G:52.4469948	loss_E:0.0354327
+Epoch  55	Iter   11	Loss_D:-0.1050396	Loss_G:51.7906189	loss_E:0.0368303
+Epoch  55	Iter   21	Loss_D:-0.1053496	Loss_G:51.1371651	loss_E:0.0372158
+Epoch  56	Iter    1	Loss_D:-0.1027635	Loss_G:50.4892349	loss_E:0.0344453
+Epoch  56	Iter   11	Loss_D:-0.1056654	Loss_G:49.8443756	loss_E:0.0374880
+Epoch  56	Iter   21	Loss_D:-0.1063016	Loss_G:49.2054596	loss_E:0.0380171
+Epoch  57	Iter    1	Loss_D:-0.1039769	Loss_G:48.5694389	loss_E:0.0359413
+Epoch  57	Iter   11	Loss_D:-0.1066227	Loss_G:47.9386215	loss_E:0.0383846
+Epoch  57	Iter   21	Loss_D:-0.1043003	Loss_G:47.3115196	loss_E:0.0360747
+Epoch  58	Iter    1	Loss_D:-0.1026206	Loss_G:46.6903839	loss_E:0.0341800
+Epoch  58	Iter   11	Loss_D:-0.1058979	Loss_G:46.0717316	loss_E:0.0372686
+Epoch  58	Iter   21	Loss_D:-0.1049800	Loss_G:45.4582939	loss_E:0.0364993
+Epoch  59	Iter    1	Loss_D:-0.1044243	Loss_G:44.8487320	loss_E:0.0362450
+Epoch  59	Iter   11	Loss_D:-0.1046512	Loss_G:44.2447968	loss_E:0.0361327
+Epoch  59	Iter   21	Loss_D:-0.1040851	Loss_G:43.6434822	loss_E:0.0359444
+Epoch  60	Iter    1	Loss_D:-0.1055290	Loss_G:43.0480347	loss_E:0.0371082
+Epoch  60	Iter   11	Loss_D:-0.1040287	Loss_G:42.4556808	loss_E:0.0355223
+Epoch  60	Iter   21	Loss_D:-0.1053635	Loss_G:41.8688507	loss_E:0.0371703
+Epoch  60	Loss_D_avg:-0.0966479	Loss_G_avg:117.6074437	loss_E_avg:0.0321176
+['tip', 'therewa', 'sec', 'instruct', 'night', 'advisory', 'parse', 'ephesian', 'wouldnot', 'survey', 'renderman', 'tm', 'mit', 'ba', 'mvanheyn']
+['casual', 'aged', 'dana', 'tip', 'key', 'vanheyningen', 'ba', 'eliminate', 'malcolm', 'tolearn', 'theline', 'timmon', 'ifthe', 'inhabit', 'kv']
+['mvanheyn', 'intruder', 'wysiwyg', 'instruct', 'speedometer', 'thx', 'progression', 'vx', 'statistic', 'makea', 'assumption', 'roussel', 'likeit', 'fujitsu', 'seethe']
+['thattheir', 'calculus', 'utc', 'puncture', 'thelight', 'dutch', 'instruct', 'hopper', 'dmn', 'keenan', 'roussel', 'celestial', 'sick', 'dakota', 'thorn']
+['naked', 'chat', 'trickle', 'tip', 'aboutthe', 'worker', 'decline', 'logically', 'instruct', 'makefile', 'arc', 'yassin', 'vf', 'comefrom', 'famous']
+['accidental', 'liter', 'jk', 'ofencryption', 'markedly', 'web', 'rid', 'instruct', 'concentrate', 'makefile', 'kariya', 'saddle', 'penny', 'descendant', 'animate']
+['logically', 'audience', 'khz', 'rhetorical', 'arc', 'unm', 'adapt', 'conservative', 'berman', 'cisc', 'magnavox', 'boggs', 'theydo', 'iranian', 'procedure']
+['likeit', 'body', 'bury', 'xwd', 'printer', 'xt', 'legit', 'shine', 'sl', 'view', 'application', 'bulldozer', 'wysiwyg', 'yu', 'wasthat']
+['keenan', 'witty', 'obmoto', 'acknowledge', 'plainly', 'decoder', 'macweek', 'theydo', 'graph', 'breakfast', 'tip', 'likeit', 'instruct', 'scribe', 'incline']
+['vanheyningen', 'dakota', 'berman', 'likeit', 'attract', 'overtime', 'significance', 'scenery', 'conservative', 'magnavox', 'purchasing', 'intruder', 'maddi', 'sanfrancisco', 'brutal']
+['jerusalem', 'wysiwyg', 'theologian', 'decoder', 'oate', 'withinthe', 'decline', 'rate', 'punch', 'speedometer', 'mono', 'pissed', 'themore', 'famous', 'tip']
+['designation', 'witty', 'attemptedto', 'ford', 'initiate', 'concentrated', 'vgalogo', 'pharisee', 'audience', 'coastal', 'sophistication', 'thiskind', 'prozac', 'mono', 'pirate']
+['audience', 'ford', 'freeware', 'tip', 'cylindrical', 'peaceful', 'nx', 'patented', 'sweat', 'compaq', 'flashy', 'usedto', 'conductor', 'anxious', 'responsible']
+['import', 'decoder', 'logically', 'mcdowell', 'weber', 'iici', 'someday', 'arc', 'ridekotrb', 'sys', 'eagerly', 'cs', 'cisc', 'ripken', 'somethinglike']
+['tip', 'nonprofit', 'tc', 'fundamentally', 'becalle', 'turk', 'asthe', 'kick', 'rapid', 'boggs', 'makefile', 'credible', 'nl', 'aboutthe', 'thorn']
+['instruct', 'tip', 'streak', 'thx', 'decline', 'crash', 'vanheyningen', 'import', 'humility', 'thingslike', 'hacker', 'jk', 'dc', 'quayle', 'initialize']
+['dana', 'multitaske', 'tip', 'instruct', 'gallant', 'zone', 'concentrated', 'commercial', 'theologian', 'aggravate', 'thinkthe', 'mvanheyn', 'overlay', 'caste', 'demon']
+['tip', 'malcolm', 'thinkthe', 'zv', 'animate', 'boggs', 'evasion', 'clinic', 'audience', 'rock', 'wn', 'likeit', 'rust', 'prescribe', 'revision']
+['pirate', 'key', 'backward', 'retract', 'progression', 'roland', 'logically', 'audience', 'vx', 'wilson', 'parking', 'slightly', 'bogg', 'crucifixion', 'macweek']
+['magnavox', 'retract', 'obstruction', 'speedometer', 'sys', 'instruct', 'triangulation', 'oo', 'ncd', 'filesystem', 'vf', 'audience', 'understanding', 'boggs', 'wysiwyg']
+['audience', 'likeit', 'score', 'tip', 'mit', 'fujitsu', 'naked', 'recomend', 'shocked', 'soul', 'utilize', 'makefile', 'rock', 'boggs', 'orderto']
+['cowardly', 'instruct', 'commerical', 'jake', 'thorn', 'makefile', 'vanheyningen', 'engage', 'berman', 'recomend', 'chat', 'vf', 'thiskind', 'cisc', 'whiten']
+['ucs', 'multitaske', 'caste', 'severly', 'endless', 'witty', 'imho', 'horse', 'decline', 'bury', 'cylindrical', 'import', 'aged', 'ancestor', 'arc']
+['speedometer', 'neighbouring', 'mit', 'postmaster', 'cryptosystem', 'rhetorical', 'likeit', 'usenet', 'ri', 'perish', 'audience', 'withinthe', 'naked', 'trumpet', 'ancestor']
+['worker', 'ethiopia', 'assort', 'anyways', 'theoutside', 'osf', 'casual', 'xremote', 'red', 'thattheir', 'user', 'censor', 'closeup', 'witty', 'speedometer']
+['chairman', 'witty', 'content', 'magnavox', 'tip', 'richer', 'nolan', 'part', 'oo', 'speedometer', 'psi', 'worker', 'ot', 'comefrom', 'ford']
+['thanto', 'psi', 'paint', 'berman', 'safe', 'push', 'vast', 'rate', 'irish', 'vanheyningen', 'revision', 'art', 'naked', 'prescribe', 'relatively']
+['audience', 'key', 'fujitsu', 'near', 'streak', 'likeit', 'torre', 'gizm', 'arc', 'multitaske', 'foreign', 'securely', 'treally', 'crucifixion', 'ucs']
+['curtis', 'consumption', 'breakfast', 'm', 'retract', 'oate', 'asthe', 'rate', 'dignity', 'prescribe', 'key', 'selector', 'theologian', 'ucs', 'overheat']
+['naked', 'tolearn', 'aboutthe', 'architecture', 'macweek', 'statistic', 'theologian', 'weber', 'tc', 'insane', 'recomend', 'tip', 'thinkthe', 'themore', 'calculus']
+['magnavox', 'securely', 'berman', 'thorn', 'shopper', 'zv', 'frozen', 'tomorrow', 'shootout', 'caste', 'pleasure', 'key', 'audience', 'animate', 'wysiwyg']
+['dub', 'prescribe', 'cultist', 'track', 'timothy', 'intreste', 'witty', 'fixture', 'wysiwyg', 'africa', 'decide', 'jake', 'consulting', 'pleased', 'vanheyningen']
+['bh', 'pleasure', 'ussr', 'ambition', 'incident', 'ratio', 'uta', 'eece', 'senior', 'speedometer', 'multitaske', 'ott', 'volvo', 'ripken', 'macweek']
+['famous', 'consulting', 'audience', 'accidental', 'audit', 'statistic', 'seethe', 'bulgaria', 'vast', 'mit', 'worry', 'caste', 'vanheyningen', 'dat', 'neighbouring']
+['audience', 'sweat', 'theydo', 'bubble', 'cryptosystem', 'assumethat', 'ford', 'thereof', 'prescribe', 'theologian', 'ussr', 'utilize', 'consulting', 'engage', 'endless']
+['naked', 'multitaske', 'gray', 'seethe', 'comefrom', 'fujitsu', 'thiskind', 'ofencryption', 'thay', 'dartmouth', 'casual', 'olson', 'crush', 'asshole', 'lemke']
+['logically', 'speedometer', 'nl', 'likeit', 'ofenvironmental', 'tip', 'highway', 'satisfactory', 'nb', 'calvin', 'berman', 'cdr', 'multitaske', 'xd', 'chairman']
+['speedometer', 'likeit', 'dana', 'tip', 'satisfactory', 'iici', 'paint', 'audience', 'uc', 'turk', 'osf', 'mjone', 'thepossibility', 'shelter', 'notnecessarily']
+['frozen', 'mjone', 'asteroid', 'makefile', 'roussel', 'surrender', 'ankle', 'vanheyningen', 'fundamentally', 'thay', 'pirate', 'orthe', 'wysiwyg', 'gallant', 'magnavox']
+['xremote', 'berman', 'xf', 'risc', 'decline', 'malcolm', 'speedometer', 'simplicity', 'wj', 'therewa', 'rapid', 'cassel', 'commercial', 'statistic', 'caste']
+['coreldraw', 'manypeople', 'immense', 'daytime', 'multitaske', 'casual', 'instruct', 'biographical', 'wolverine', 'vanheyningen', 'mono', 'cmap', 'speculation', 'thinkthe', 'zv']
+['wysiwyg', 'framework', 'lemke', 'fujitsu', 'simplicity', 'witty', 'ofright', 'eecg', 'tax', 'wander', 'bulgaria', 'revision', 'ernie', 'thiskind', 'triangulation']
+['wysiwyg', 'xmapwindow', 'falsehood', 'mit', 'semi', 'securely', 'witty', 'steam', 'realization', 'ingest', 'sort', 'berman', 'lib', 'stake', 'backward']
+['ucs', 'theological', 'key', 'vf', 'macweek', 'casual', 'timmon', 'theoutside', 'asthe', 'curtis', 'pirate', 'isthere', 'los', 'speculation', 'dana']
+['famous', 'okay', 'satan', 'ago', 'repress', 'xremote', 'attract', 'engage', 'packaging', 'icould', 'believe', 'likeit', 'exchange', 'caste', 'gallant']
+['aboutthe', 'gis', 'consulting', 'berman', 'calculus', 'securely', 'nonprofit', 'makefile', 'instruct', 'streak', 'postmaster', 'sys', 'msu', 'patented', 'concentrated']
+['score', 'audience', 'eliminate', 'renderman', 'berman', 'fixture', 'rationale', 'governmental', 'swick', 'makefile', 'slowly', 'imperfect', 'yassin', 'privilege', 'breakfast']
+['audience', 'concentrate', 'framework', 'gouge', 'instruct', 'ifthe', 'art', 'wakefield', 'paradise', 'accidental', 'theoutside', 'berman', 'risc', 'privileged', 'turk']
+['likeit', 'ford', 'withinthe', 'mds', 'berman', 'triangulation', 'foreign', 'plainly', 'temporary', 'cautious', 'chairman', 'toad', 'relationship', 'dakota', 'reveal']
+['float', 'instruct', 'student', 'endless', 'thinkthe', 'calvin', 'mjone', 'na', 'mds', 'rock', 'emotional', 'xwd', 'richer', 'misunderstanding', 'evening']
+==============================
+topic diversity:0.5306666666666666
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6611319275961016, c_w2v:None, c_uci:-9.920997592643621, c_npmi:-0.35675751000242895
+mimno topic coherence:-234.8561931486914
+Epoch  61	Iter    1	Loss_D:-0.1050618	Loss_G:41.2855110	loss_E:0.0369189
+Epoch  61	Iter   11	Loss_D:-0.1046894	Loss_G:40.7069473	loss_E:0.0366253
+Epoch  61	Iter   21	Loss_D:-0.1070422	Loss_G:40.1322289	loss_E:0.0390744
+Epoch  62	Iter    1	Loss_D:-0.1034533	Loss_G:39.5631218	loss_E:0.0355842
+Epoch  62	Iter   11	Loss_D:-0.1059908	Loss_G:38.9969292	loss_E:0.0379709
+Epoch  62	Iter   21	Loss_D:-0.1059157	Loss_G:38.4361153	loss_E:0.0377654
+Epoch  63	Iter    1	Loss_D:-0.1034327	Loss_G:37.8789787	loss_E:0.0353999
+Epoch  63	Iter   11	Loss_D:-0.1035819	Loss_G:37.3275146	loss_E:0.0352054
+Epoch  63	Iter   21	Loss_D:-0.1048047	Loss_G:36.7788239	loss_E:0.0364838
+Epoch  64	Iter    1	Loss_D:-0.1047771	Loss_G:36.2350426	loss_E:0.0368438
+Epoch  64	Iter   11	Loss_D:-0.1040662	Loss_G:35.6954231	loss_E:0.0357504
+Epoch  64	Iter   21	Loss_D:-0.1025058	Loss_G:35.1612091	loss_E:0.0340552
+Epoch  65	Iter    1	Loss_D:-0.1038608	Loss_G:34.6302719	loss_E:0.0353977
+Epoch  65	Iter   11	Loss_D:-0.1051636	Loss_G:34.1041336	loss_E:0.0366938
+Epoch  65	Iter   21	Loss_D:-0.1062063	Loss_G:33.5817261	loss_E:0.0378275
+Epoch  66	Iter    1	Loss_D:-0.1050349	Loss_G:33.0650864	loss_E:0.0366521
+Epoch  66	Iter   11	Loss_D:-0.1048030	Loss_G:32.5510178	loss_E:0.0365164
+Epoch  66	Iter   21	Loss_D:-0.1059810	Loss_G:32.0424042	loss_E:0.0376609
+Epoch  67	Iter    1	Loss_D:-0.1049738	Loss_G:31.5378246	loss_E:0.0366902
+Epoch  67	Iter   11	Loss_D:-0.1033106	Loss_G:31.0382156	loss_E:0.0350735
+Epoch  67	Iter   21	Loss_D:-0.1039067	Loss_G:30.5422821	loss_E:0.0353510
+Epoch  68	Iter    1	Loss_D:-0.1052818	Loss_G:30.0512772	loss_E:0.0367329
+Epoch  68	Iter   11	Loss_D:-0.1039214	Loss_G:29.5636463	loss_E:0.0352755
+Epoch  68	Iter   21	Loss_D:-0.1037213	Loss_G:29.0812092	loss_E:0.0355853
+Epoch  69	Iter    1	Loss_D:-0.1059286	Loss_G:28.6028748	loss_E:0.0375881
+Epoch  69	Iter   11	Loss_D:-0.1045310	Loss_G:28.1293182	loss_E:0.0359506
+Epoch  69	Iter   21	Loss_D:-0.1043575	Loss_G:27.6594734	loss_E:0.0358024
+Epoch  70	Iter    1	Loss_D:-0.1039062	Loss_G:27.1947708	loss_E:0.0357217
+Epoch  70	Iter   11	Loss_D:-0.1041896	Loss_G:26.7334995	loss_E:0.0356085
+Epoch  70	Iter   21	Loss_D:-0.1029718	Loss_G:26.2767010	loss_E:0.0348378
+Epoch  70	Loss_D_avg:-0.0977809	Loss_G_avg:105.5901116	loss_E_avg:0.0327134
+['tip', 'concentrated', 'wouldnot', 'mvanheyn', 'sec', 'instruct', 'therewa', 'advisory', 'muller', 'night', 'ba', 'tm', 'mit', 'parse', 'procedure']
+['tip', 'dana', 'ba', 'vanheyningen', 'malcolm', 'casual', 'aged', 'tolearn', 'key', 'timmon', 'canseco', 'inhabit', 'kv', 'jest', 'capital']
+['mvanheyn', 'thx', 'intruder', 'instruct', 'wysiwyg', 'speedometer', 'roussel', 'likeit', 'patented', 'assumption', 'statistic', 'cousinetc', 'vx', 'fujitsu', 'clinic']
+['thattheir', 'calculus', 'keenan', 'instruct', 'hopper', 'puncture', 'utc', 'endless', 'calvin', 'aged', 'conceivably', 'thorn', 'dakota', 'dignity', 'primate']
+['naked', 'tip', 'aboutthe', 'makefile', 'thorn', 'logically', 'instruct', 'decline', 'audience', 'chat', 'saddle', 'vf', 'yassin', 'trickle', 'arc']
+['accidental', 'markedly', 'kariya', 'instruct', 'saddle', 'nutcase', 'rid', 'jk', 'fujitsu', 'mono', 'float', 'descendant', 'liter', 'makefile', 'concentrate']
+['logically', 'audience', 'arc', 'cisc', 'khz', 'rhetorical', 'conservative', 'magnavox', 'unm', 'procedure', 'exchange', 'witty', 'theydo', 'adapt', 'makefile']
+['body', 'likeit', 'xwd', 'legit', 'view', 'daytime', 'printer', 'sl', 'theconcept', 'xt', 'yu', 'rate', 'whiten', 'part', 'bubble']
+['keenan', 'plainly', 'obmoto', 'witty', 'decoder', 'acknowledge', 'theydo', 'macweek', 'tip', 'likeit', 'vf', 'ridekotrb', 'currently', 'dana', 'ancestor']
+['vanheyningen', 'attract', 'dakota', 'berman', 'overtime', 'significance', 'scenery', 'magnavox', 'likeit', 'conservative', 'lemke', 'ford', 'maddi', 'mjone', 'advanced']
+['jerusalem', 'decline', 'theologian', 'rate', 'tip', 'wysiwyg', 'punch', 'withinthe', 'concentrated', 'attendance', 'mono', 'berman', 'mechanical', 'pissed', 'speedometer']
+['designation', 'ford', 'witty', 'thinkthe', 'attemptedto', 'concentrated', 'initiate', 'interpret', 'prozac', 'sparky', 'pharisee', 'audience', 'mono', 'ba', 'needham']
+['audience', 'ford', 'freeware', 'sweat', 'patented', 'tip', 'responsible', 'vanheyningen', 'peaceful', 'flashy', 'cylindrical', 'oo', 'ussr', 'magnavox', 'anxious']
+['logically', 'decoder', 'import', 'weber', 'someday', 'arc', 'ridekotrb', 'eagerly', 'transferable', 'boggs', 'cisc', 'makefile', 'mcdowell', 'cs', 'sys']
+['turk', 'tc', 'asthe', 'tip', 'boggs', 'aboutthe', 'nonprofit', 'becalle', 'rapid', 'fundamentally', 'credible', 'nl', 'ford', 'zionist', 'makefile']
+['instruct', 'tip', 'streak', 'thx', 'vanheyningen', 'thingslike', 'jk', 'decline', 'sweat', 'quayle', 'crash', 'humility', 'dub', 'canseco', 'crime']
+['dana', 'tip', 'instruct', 'multitaske', 'zone', 'thinkthe', 'gallant', 'concentrated', 'mvanheyn', 'selective', 'theologian', 'roussel', 'aggravate', 'commercial', 'caste']
+['tip', 'thinkthe', 'malcolm', 'rock', 'audience', 'zv', 'clinic', 'boggs', 'prescribe', 'likeit', 'interview', 'exchange', 'evasion', 'miserable', 'irritate']
+['pirate', 'bogg', 'progression', 'streak', 'audience', 'key', 'malcolm', 'logically', 'roland', 'retract', 'invention', 'backward', 'vgalogo', 'ripken', 'lemke']
+['magnavox', 'retract', 'sys', 'oo', 'triangulation', 'filesystem', 'instruct', 'speedometer', 'ncd', 'obstruction', 'audience', 'ford', 'understanding', 'vf', 'late']
+['audience', 'score', 'mit', 'tip', 'likeit', 'rock', 'fujitsu', 'aboutthe', 'scribe', 'daigle', 'makefile', 'naked', 'boggs', 'soul', 'shocked']
+['cowardly', 'instruct', 'thorn', 'vanheyningen', 'vf', 'cisc', 'berman', 'makefile', 'jake', 'commerical', 'thiskind', 'dental', 'slaughter', 'wildly', 'whiten']
+['endless', 'ucs', 'severly', 'witty', 'caste', 'roussel', 'multitaske', 'decline', 'isthere', 'aged', 'horse', 'arc', 'ancestor', 'ford', 'berman']
+['speedometer', 'mit', 'neighbouring', 'usenet', 'postmaster', 'audience', 'likeit', 'trumpet', 'naked', 'somebody', 'ancestor', 'themore', 'withinthe', 'bogg', 'rhetorical']
+['worker', 'assort', 'ethiopia', 'anyways', 'xremote', 'osf', 'plainly', 'witty', 'thay', 'casual', 'closeup', 'gain', 'liberate', 'jake', 'user']
+['chairman', 'content', 'tip', 'witty', 'magnavox', 'oo', 'ultrix', 'psi', 'richer', 'nolan', 'part', 'ford', 'comefrom', 'audience', 'ot']
+['safe', 'psi', 'thanto', 'vanheyningen', 'rate', 'push', 'art', 'berman', 'vast', 'isthere', 'transferable', 'prescribe', 'paint', 'irish', 'overtime']
+['audience', 'fujitsu', 'key', 'streak', 'torre', 'likeit', 'crucifixion', 'foreign', 'multitaske', 'humility', 'treally', 'gizm', 'near', 'satisfactory', 'ucs']
+['curtis', 'prescribe', 'ucs', 'rate', 'dignity', 'oate', 'ifthe', 'breakfast', 'asthe', 'postmaster', 'key', 'consumption', 'theologian', 'exposure', 'overheat']
+['aboutthe', 'tolearn', 'naked', 'tc', 'instruct', 'theologian', 'statistic', 'macweek', 'thinkthe', 'recomend', 'vanheyningen', 'architecture', 'crime', 'multitaske', 'tip']
+['magnavox', 'securely', 'tomorrow', 'shopper', 'zv', 'berman', 'shootout', 'pleasure', 'turk', 'bh', 'audience', 'thorn', 'lemke', 'key', 'evening']
+['witty', 'cultist', 'bogg', 'africa', 'prescribe', 'dub', 'fixture', 'timothy', 'elan', 'intreste', 'track', 'tm', 'vanheyningen', 'jake', 'himmler']
+['bh', 'ussr', 'pleasure', 'ambition', 'ratio', 'incident', 'imho', 'senior', 'elan', 'debatable', 'ripken', 'sport', 'chemist', 'multitaske', 'miserable']
+['audience', 'mit', 'vast', 'vanheyningen', 'famous', 'consulting', 'posix', 'ultrix', 'statistic', 'worry', 'vault', 'lesson', 'accidental', 'audit', 'caste']
+['audience', 'bubble', 'sweat', 'theydo', 'plainly', 'ankle', 'consulting', 'endless', 'assumethat', 'ford', 'theologian', 'utilize', 'vanheyningen', 'thereof', 'prescribe']
+['naked', 'gray', 'multitaske', 'dothat', 'thay', 'fujitsu', 'torre', 'ofencryption', 'amajor', 'berman', 'seethe', 'ba', 'crush', 'comefrom', 'thiskind']
+['logically', 'ofenvironmental', 'satisfactory', 'speedometer', 'tip', 'likeit', 'nb', 'nl', 'prozac', 'berman', 'chairman', 'ucs', 'decline', 'multitaske', 'bobb']
+['speedometer', 'dana', 'iici', 'likeit', 'tip', 'satisfactory', 'audience', 'turk', 'plainly', 'osf', 'vz', 'mjone', 'prescribe', 'worthless', 'paint']
+['ankle', 'mjone', 'asteroid', 'makefile', 'roussel', 'frozen', 'thay', 'pirate', 'magnavox', 'fundamentally', 'audience', 'vanheyningen', 'gallant', 'surrender', 'inner']
+['xremote', 'berman', 'decline', 'malcolm', 'xf', 'therewa', 'simplicity', 'rock', 'raytracer', 'commercial', 'ultrix', 'forabout', 'fujitsu', 'risc', 'digital']
+['manypeople', 'immense', 'daytime', 'mono', 'coreldraw', 'multitaske', 'leadership', 'instruct', 'credible', 'mit', 'casual', 'thinkthe', 'zv', 'sx', 'jerusalem']
+['wysiwyg', 'lemke', 'framework', 'simplicity', 'fujitsu', 'eecg', 'wander', 'mall', 'tax', 'marker', 'triangulation', 'witty', 'ernie', 'exchange', 'gay']
+['mit', 'wysiwyg', 'witty', 'xmapwindow', 'steam', 'dana', 'berman', 'key', 'hominem', 'falsehood', 'view', 'malcolm', 'securely', 'backward', 'realization']
+['ucs', 'key', 'vf', 'casual', 'isthere', 'curtis', 'theological', 'plainly', 'asthe', 'macweek', 'pirate', 'caste', 'timmon', 'isa', 'push']
+['okay', 'famous', 'xremote', 'exchange', 'satan', 'elan', 'repress', 'thinkthe', 'icould', 'attract', 'ago', 'bubble', 'packaging', 'match', 'engage']
+['aboutthe', 'consulting', 'instruct', 'gis', 'berman', 'calculus', 'concentrated', 'nonprofit', 'patented', 'makefile', 'plainly', 'securely', 'theologian', 'postmaster', 'rock']
+['audience', 'score', 'governmental', 'berman', 'printer', 'renderman', 'fixture', 'swick', 'plainly', 'privilege', 'slowly', 'daytime', 'eliminate', 'miserable', 'rationale']
+['audience', 'ifthe', 'concentrate', 'art', 'berman', 'pond', 'logically', 'framework', 'turk', 'instruct', 'endless', 'oo', 'abundance', 'treally', 'thenit']
+['likeit', 'plainly', 'ford', 'berman', 'withinthe', 'triangulation', 'foreign', 'mds', 'chairman', 'sweat', 'boggs', 'cautious', 'audience', 'currently', 'dakota']
+['float', 'student', 'endless', 'instruct', 'rock', 'thinkthe', 'cs', 'evening', 'calvin', 'mjone', 'xwd', 'richer', 'treally', 'mds', 'emotional']
+==============================
+topic diversity:0.4826666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6599364715349563, c_w2v:None, c_uci:-9.957231978958935, c_npmi:-0.3582028726722503
+mimno topic coherence:-259.43439699648366
+Epoch  71	Iter    1	Loss_D:-0.1040928	Loss_G:25.8248100	loss_E:0.0356246
+Epoch  71	Iter   11	Loss_D:-0.1025401	Loss_G:25.3773651	loss_E:0.0343487
+Epoch  71	Iter   21	Loss_D:-0.1050964	Loss_G:24.9332466	loss_E:0.0370994
+Epoch  72	Iter    1	Loss_D:-0.1057312	Loss_G:24.4947472	loss_E:0.0375398
+Epoch  72	Iter   11	Loss_D:-0.1046219	Loss_G:24.0597610	loss_E:0.0360964
+Epoch  72	Iter   21	Loss_D:-0.1036362	Loss_G:23.6302967	loss_E:0.0349606
+Epoch  73	Iter    1	Loss_D:-0.1034635	Loss_G:23.2039623	loss_E:0.0348374
+Epoch  73	Iter   11	Loss_D:-0.1041937	Loss_G:22.7823601	loss_E:0.0356490
+Epoch  73	Iter   21	Loss_D:-0.1057178	Loss_G:22.3651714	loss_E:0.0368229
+Epoch  74	Iter    1	Loss_D:-0.1061898	Loss_G:21.9529152	loss_E:0.0375775
+Epoch  74	Iter   11	Loss_D:-0.1046136	Loss_G:21.5439396	loss_E:0.0356384
+Epoch  74	Iter   21	Loss_D:-0.1038223	Loss_G:21.1397915	loss_E:0.0350911
+Epoch  75	Iter    1	Loss_D:-0.1044815	Loss_G:20.7400646	loss_E:0.0355734
+Epoch  75	Iter   11	Loss_D:-0.1032565	Loss_G:20.3450871	loss_E:0.0344872
+Epoch  75	Iter   21	Loss_D:-0.1040162	Loss_G:19.9537086	loss_E:0.0351497
+Epoch  76	Iter    1	Loss_D:-0.1053643	Loss_G:19.5675526	loss_E:0.0363208
+Epoch  76	Iter   11	Loss_D:-0.1037320	Loss_G:19.1846428	loss_E:0.0345518
+Epoch  76	Iter   21	Loss_D:-0.1029490	Loss_G:18.8071766	loss_E:0.0340053
+Epoch  77	Iter    1	Loss_D:-0.1038074	Loss_G:18.4329071	loss_E:0.0351361
+Epoch  77	Iter   11	Loss_D:-0.1018732	Loss_G:18.0637188	loss_E:0.0332390
+Epoch  77	Iter   21	Loss_D:-0.1041366	Loss_G:17.6986637	loss_E:0.0353203
+Epoch  78	Iter    1	Loss_D:-0.1054170	Loss_G:17.3390102	loss_E:0.0364554
+Epoch  78	Iter   11	Loss_D:-0.1030903	Loss_G:16.9817200	loss_E:0.0343209
+Epoch  78	Iter   21	Loss_D:-0.1053475	Loss_G:16.6303463	loss_E:0.0363450
+Epoch  79	Iter    1	Loss_D:-0.1055662	Loss_G:16.2826347	loss_E:0.0366705
+Epoch  79	Iter   11	Loss_D:-0.1049866	Loss_G:15.9399118	loss_E:0.0363894
+Epoch  79	Iter   21	Loss_D:-0.1051571	Loss_G:15.6009760	loss_E:0.0362161
+Epoch  80	Iter    1	Loss_D:-0.1028281	Loss_G:15.2670450	loss_E:0.0338247
+Epoch  80	Iter   11	Loss_D:-0.1020056	Loss_G:14.9364157	loss_E:0.0329816
+Epoch  80	Iter   21	Loss_D:-0.1069576	Loss_G:14.6114635	loss_E:0.0380317
+Epoch  80	Loss_D_avg:-0.0985945	Loss_G_avg:94.8817286	loss_E_avg:0.0330672
+['tip', 'concentrated', 'muller', 'wouldnot', 'mvanheyn', 'infinity', 'ri', 'tc', 'mit', 'procedure', 'advisory', 'plainly', 'sec', 'ba', 'instruct']
+['tip', 'dana', 'ba', 'malcolm', 'tolearn', 'vanheyningen', 'canseco', 'bbn', 'student', 'timmon', 'casual', 'inhabit', 'procedure', 'hominem', 'aged']
+['homework', 'thx', 'mvanheyn', 'wildly', 'instruct', 'bubble', 'cousinetc', 'berman', 'intruder', 'plainly', 'assumption', 'tolearn', 'rich', 'corp', 'clinic']
+['thattheir', 'instruct', 'conceivably', 'calculus', 'significance', 'keenan', 'transferable', 'agnostic', 'obmoto', 'dignity', 'utc', 'endless', 'calvin', 'hominem', 'hopper']
+['naked', 'tip', 'saddle', 'instruct', 'aboutthe', 'wildly', 'makefile', 'audience', 'obmoto', 'themore', 'crook', 'curtis', 'barbecue', 'thorn', 'ratio']
+['kariya', 'markedly', 'instruct', 'nutcase', 'saddle', 'forbid', 'mono', 'accidental', 'contour', 'savagely', 'batman', 'float', 'procedure', 'decline', 'witty']
+['logically', 'audience', 'cisc', 'exchange', 'witty', 'torre', 'arc', 'conservative', 'instruct', 'decline', 'bbn', 'magnavox', 'procedure', 'theydo', 'rock']
+['body', 'daytime', 'view', 'bubble', 'likeit', 'legit', 'designation', 'xwd', 'part', 'conservative', 'transferable', 'obmoto', 'ucs', 'thinkthe', 'postmaster']
+['keenan', 'plainly', 'witty', 'likeit', 'theydo', 'obmoto', 'ultrix', 'exchange', 'ridekotrb', 'vf', 'tip', 'isthere', 'ancestor', 'dub', 'concentrated']
+['vanheyningen', 'attract', 'lemke', 'significance', 'berman', 'meyer', 'plainly', 'contour', 'mjone', 'ford', 'conservative', 'concentrated', 'hr', 'overtime', 'physic']
+['decline', 'jerusalem', 'rate', 'theologian', 'tip', 'berman', 'concentrated', 'mono', 'wysiwyg', 'attendance', 'thay', 'attemptedto', 'thx', 'worthless', 'nren']
+['attemptedto', 'designation', 'concentrated', 'thinkthe', 'witty', 'ford', 'interpret', 'initiate', 'thay', 'mono', 'exchange', 'prozac', 'closeup', 'saddle', 'audience']
+['audience', 'ford', 'vanheyningen', 'sweat', 'attemptedto', 'treally', 'malcolm', 'ultrix', 'exchange', 'currently', 'ussr', 'concentrated', 'responsible', 'freeware', 'saddle']
+['logically', 'eagerly', 'misnomer', 'import', 'concentrated', 'cisc', 'someday', 'male', 'arc', 'areavailable', 'drug', 'thingslike', 'intercourse', 'likeit', 'totake']
+['asthe', 'aboutthe', 'credible', 'turk', 'bbn', 'eagerly', 'tc', 'ford', 'thinkthe', 'batman', 'boggs', 'mr', 'zionist', 'tip', 'gmq']
+['instruct', 'tip', 'thingslike', 'thx', 'decline', 'streak', 'quayle', 'thinkthe', 'canseco', 'jk', 'dub', 'keenan', 'perfectly', 'mono', 'bubble']
+['thinkthe', 'dana', 'instruct', 'tip', 'roussel', 'theologian', 'mvanheyn', 'selective', 'zone', 'gallant', 'concentrated', 'aggravate', 'exchange', 'muller', 'forabout']
+['tip', 'thinkthe', 'rock', 'malcolm', 'audience', 'miserable', 'exchange', 'clinic', 'prescribe', 'vanheyningen', 'likeit', 'obmoto', 'isthere', 'ford', 'rust']
+['pirate', 'instruct', 'kth', 'lemke', 'malcolm', 'vgalogo', 'witty', 'ripken', 'bogg', 'paradise', 'profess', 'tip', 'hopper', 'slaughter', 'logically']
+['magnavox', 'retract', 'ford', 'instruct', 'oo', 'sys', 'triangulation', 'bh', 'filesystem', 'audience', 'plainly', 'definately', 'leadership', 'perfectly', 'bubble']
+['audience', 'score', 'mit', 'scribe', 'tip', 'rock', 'aboutthe', 'thinkthe', 'likeit', 'fixing', 'induction', 'plainly', 'colon', 'aggravate', 'csc']
+['instruct', 'cowardly', 'vanheyningen', 'thorn', 'cisc', 'wildly', 'whiten', 'vf', 'bubble', 'berman', 'theologian', 'asteroid', 'bh', 'ford', 'aggravate']
+['severly', 'endless', 'ucs', 'ford', 'roussel', 'decline', 'witty', 'aggravate', 'isthere', 'instruct', 'anyways', 'usenet', 'template', 'canseco', 'venerable']
+['usenet', 'mit', 'postmaster', 'plainly', 'audience', 'trumpet', 'ratio', 'exert', 'likeit', 'miserable', 'ford', 'themore', 'naked', 'somebody', 'ri']
+['plainly', 'anyways', 'xremote', 'thay', 'gain', 'liberate', 'witty', 'ford', 'ifthe', 'rich', 'irritate', 'user', 'diego', 'misunderstanding', 'jake']
+['chairman', 'content', 'oo', 'ultrix', 'tip', 'curtis', 'bbn', 'ford', 'exchange', 'psi', 'magnavox', 'hominem', 'themore', 'treally', 'rich']
+['safe', 'vanheyningen', 'rate', 'psi', 'isthere', 'prescribe', 'transferable', 'mono', 'art', 'push', 'keenan', 'berman', 'overtime', 'discrimination', 'intreste']
+['fujitsu', 'audience', 'instruct', 'satisfactory', 'eagerly', 'likeit', 'key', 'streak', 'torre', 'treally', 'humility', 'crucifixion', 'intransigence', 'paradise', 'quayle']
+['curtis', 'bubble', 'themore', 'prescribe', 'rate', 'ucs', 'exchange', 'postmaster', 'theologian', 'falsehood', 'exposure', 'ford', 'quayle', 'idiotic', 'asthe']
+['aboutthe', 'instruct', 'tc', 'tolearn', 'thinkthe', 'plainly', 'naked', 'theologian', 'vanheyningen', 'recomend', 'forabout', 'ifthe', 'crime', 'score', 'statistic']
+['bh', 'turk', 'securely', 'magnavox', 'plainly', 'misnomer', 'tomorrow', 'thinkthe', 'berman', 'audience', 'gay', 'liberate', 'suspectthat', 'wildly', 'shopper']
+['africa', 'cultist', 'witty', 'bogg', 'nl', 'elan', 'drug', 'prescribe', 'dub', 'instruct', 'iisi', 'ultrix', 'jake', 'himmler', 'thename']
+['bh', 'ussr', 'ambition', 'ratio', 'incident', 'pleasure', 'elan', 'satisfactory', 'rate', 'severly', 'lisp', 'miserable', 'imho', 'chemist', 'credible']
+['audience', 'vast', 'mit', 'ultrix', 'posix', 'vanheyningen', 'gerard', 'lesson', 'vault', 'liability', 'misconception', 'barbecue', 'ripken', 'crime', 'intersect']
+['audience', 'plainly', 'bubble', 'ankle', 'sweat', 'endless', 'theologian', 'theydo', 'vanheyningen', 'ford', 'usenet', 'instruct', 'turk', 'prescribe', 'utilize']
+['gray', 'dothat', 'amajor', 'thay', 'torre', 'ba', 'naked', 'insist', 'liberate', 'ccit', 'fujitsu', 'berman', 'cylindrical', 'ofencryption', 'lemke']
+['logically', 'satisfactory', 'ofenvironmental', 'prozac', 'tip', 'decline', 'xtsetarg', 'speedometer', 'exchange', 'nb', 'berman', 'puncture', 'joystick', 'pmfq', 'thattheir']
+['speedometer', 'vz', 'dana', 'audience', 'plainly', 'iici', 'likeit', 'tip', 'turk', 'satisfactory', 'worthless', 'col', 'sweat', 'mjone', 'prescribe']
+['ankle', 'mjone', 'exchange', 'pirate', 'thay', 'asteroid', 'magnavox', 'fundamentally', 'makefile', 'inner', 'sub', 'audience', 'roussel', 'severly', 'ludicrous']
+['xremote', 'berman', 'forabout', 'rock', 'therewa', 'decline', 'raytracer', 'fujitsu', 'moderately', 'ultrix', 'cisc', 'malcolm', 'xf', 'magnavox', 'digital']
+['mono', 'leadership', 'immense', 'credible', 'sx', 'manypeople', 'daytime', 'qs', 'mit', 'instruct', 'hominem', 'fft', 'patented', 'ford', 'thinkthe']
+['lemke', 'exchange', 'mall', 'wysiwyg', 'gay', 'wander', 'fujitsu', 'tax', 'simplicity', 'eecg', 'ernie', 'marker', 'manypeople', 'roussel', 'rate']
+['mit', 'anyways', 'wysiwyg', 'malcolm', 'dana', 'forabout', 'ford', 'key', 'xmapwindow', 'torre', 'rich', 'steam', 'witty', 'hominem', 'plainly']
+['ucs', 'plainly', 'vf', 'key', 'curtis', 'isthere', 'casual', 'theologian', 'asthe', 'pirate', 'theydo', 'liability', 'caste', 'labour', 'isa']
+['exchange', 'xremote', 'okay', 'elan', 'bubble', 'thinkthe', 'forabout', 'concentrated', 'ofright', 'isthere', 'printer', 'canseco', 'overtime', 'haye', 'packaging']
+['instruct', 'aboutthe', 'plainly', 'concentrated', 'calculus', 'consulting', 'hopper', 'theologian', 'designation', 'isthere', 'berman', 'patented', 'gis', 'postmaster', 'boycott']
+['audience', 'governmental', 'printer', 'plainly', 'daytime', 'miserable', 'score', 'thinkthe', 'berman', 'mjone', 'swick', 'conceivably', 'irritate', 'supper', 'ludicrous']
+['audience', 'berman', 'pond', 'ay', 'logically', 'ifthe', 'art', 'markedly', 'torre', 'endless', 'thinkthe', 'ambition', 'treally', 'turk', 'somethinglike']
+['likeit', 'plainly', 'ford', 'berman', 'currently', 'wildly', 'triangulation', 'saddle', 'eagerly', 'withinthe', 'misnomer', 'comefrom', 'chairman', 'audience', 'foreign']
+['float', 'endless', 'student', 'instruct', 'rock', 'concentrated', 'cs', 'evening', 'paradise', 'mvanheyn', 'thinkthe', 'postmaster', 'treally', 'labour', 'ussr']
+==============================
+topic diversity:0.41333333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6703960632841135, c_w2v:None, c_uci:-9.927635247270691, c_npmi:-0.35758955613880344
+mimno topic coherence:-250.6873343955302
+Epoch  81	Iter    1	Loss_D:-0.1052478	Loss_G:14.2898865	loss_E:0.0362967
+Epoch  81	Iter   11	Loss_D:-0.1037732	Loss_G:13.9730206	loss_E:0.0348777
+Epoch  81	Iter   21	Loss_D:-0.1047597	Loss_G:13.6600723	loss_E:0.0358558
+Epoch  82	Iter    1	Loss_D:-0.1039255	Loss_G:13.3524666	loss_E:0.0352834
+Epoch  82	Iter   11	Loss_D:-0.1032275	Loss_G:13.0477428	loss_E:0.0346477
+Epoch  82	Iter   21	Loss_D:-0.1060684	Loss_G:12.7489262	loss_E:0.0370254
+Epoch  83	Iter    1	Loss_D:-0.1048483	Loss_G:12.4535465	loss_E:0.0358287
+Epoch  83	Iter   11	Loss_D:-0.1061181	Loss_G:12.1633453	loss_E:0.0371750
+Epoch  83	Iter   21	Loss_D:-0.1054455	Loss_G:11.8767214	loss_E:0.0361637
+Epoch  84	Iter    1	Loss_D:-0.1059447	Loss_G:11.5947332	loss_E:0.0369333
+Epoch  84	Iter   11	Loss_D:-0.1055997	Loss_G:11.3164501	loss_E:0.0364818
+Epoch  84	Iter   21	Loss_D:-0.1050912	Loss_G:11.0441208	loss_E:0.0358418
+Epoch  85	Iter    1	Loss_D:-0.1046727	Loss_G:10.7746639	loss_E:0.0356039
+Epoch  85	Iter   11	Loss_D:-0.1041883	Loss_G:10.5102949	loss_E:0.0350103
+Epoch  85	Iter   21	Loss_D:-0.1039783	Loss_G:10.2500362	loss_E:0.0345223
+Epoch  86	Iter    1	Loss_D:-0.1054065	Loss_G:9.9949837	loss_E:0.0359788
+Epoch  86	Iter   11	Loss_D:-0.1059801	Loss_G:9.7423897	loss_E:0.0367721
+Epoch  86	Iter   21	Loss_D:-0.1042868	Loss_G:9.4955187	loss_E:0.0351352
+Epoch  87	Iter    1	Loss_D:-0.1040991	Loss_G:9.2521868	loss_E:0.0352220
+Epoch  87	Iter   11	Loss_D:-0.1048600	Loss_G:9.0146885	loss_E:0.0357298
+Epoch  87	Iter   21	Loss_D:-0.1069590	Loss_G:8.7801495	loss_E:0.0378025
+Epoch  88	Iter    1	Loss_D:-0.1038732	Loss_G:8.5506067	loss_E:0.0348787
+Epoch  88	Iter   11	Loss_D:-0.1061930	Loss_G:8.3248243	loss_E:0.0368709
+Epoch  88	Iter   21	Loss_D:-0.1053429	Loss_G:8.1047506	loss_E:0.0358298
+Epoch  89	Iter    1	Loss_D:-0.1057469	Loss_G:7.8872218	loss_E:0.0367453
+Epoch  89	Iter   11	Loss_D:-0.1063848	Loss_G:7.6759872	loss_E:0.0364208
+Epoch  89	Iter   21	Loss_D:-0.1026278	Loss_G:7.4672799	loss_E:0.0330988
+Epoch  90	Iter    1	Loss_D:-0.1048830	Loss_G:7.2645950	loss_E:0.0353538
+Epoch  90	Iter   11	Loss_D:-0.1044534	Loss_G:7.0643916	loss_E:0.0350049
+Epoch  90	Iter   21	Loss_D:-0.1045660	Loss_G:6.8700566	loss_E:0.0349247
+Epoch  90	Loss_D_avg:-0.0993009	Loss_G_avg:85.4820760	loss_E_avg:0.0333683
+['concentrated', 'tip', 'muller', 'plainly', 'infinity', 'mvanheyn', 'tc', 'wouldnot', 'analyzer', 'exchange', 'conceivably', 'ri', 'ford', 'keenan', 'dana']
+['tip', 'tolearn', 'dana', 'procedure', 'ba', 'malcolm', 'theologian', 'student', 'exchange', 'eagerly', 'perfectly', 'ultrix', 'obmoto', 'bbn', 'severly']
+['tolearn', 'homework', 'wildly', 'berman', 'bubble', 'plainly', 'exchange', 'triangulation', 'ultrix', 'eagerly', 'liability', 'rich', 'thx', 'mvanheyn', 'instant']
+['conceivably', 'agnostic', 'instruct', 'satisfactory', 'obmoto', 'icould', 'savagely', 'exchange', 'plainly', 'decline', 'dignity', 'hopper', 'transferable', 'mr', 'eagerly']
+['tip', 'saddle', 'curtis', 'naked', 'charge', 'ucs', 'crook', 'jon', 'instruct', 'suspectthat', 'thinkthe', 'audience', 'wildly', 'contour', 'obmoto']
+['savagely', 'instruct', 'mono', 'saddle', 'thinkthe', 'contour', 'cando', 'procedure', 'suspectthat', 'neo', 'plainly', 'kariya', 'daytime', 'intercourse', 'float']
+['audience', 'logically', 'exchange', 'torre', 'cisc', 'instruct', 'scribe', 'eagerly', 'tip', 'savagely', 'thinkthe', 'bbn', 'decline', 'sexist', 'paradise']
+['bubble', 'body', 'profess', 'moderately', 'designation', 'anyways', 'daytime', 'thinkthe', 'manypeople', 'thx', 'xwd', 'conservative', 'berman', 'colon', 'obmoto']
+['plainly', 'eagerly', 'keenan', 'sub', 'audience', 'obmoto', 'ancestor', 'theydo', 'exchange', 'witty', 'ultrix', 'suspectthat', 'dana', 'likeit', 'baby']
+['designation', 'vanheyningen', 'physic', 'thelist', 'plainly', 'contour', 'ford', 'berman', 'lesson', 'conservative', 'aix', 'print', 'attract', 'concentrated', 'instant']
+['decline', 'berman', 'mono', 'theologian', 'ultrix', 'saddle', 'tip', 'concentrated', 'key', 'manypeople', 'wysiwyg', 'bubble', 'thx', 'instruct', 'obmoto']
+['exchange', 'attemptedto', 'saddle', 'concentrated', 'thay', 'thinkthe', 'ford', 'anyways', 'alomar', 'curtis', 'designation', 'mono', 'witty', 'ba', 'initiate']
+['audience', 'ultrix', 'malcolm', 'treally', 'exchange', 'ford', 'intercourse', 'saddle', 'crack', 'currently', 'plainly', 'vanheyningen', 'lessthan', 'thinkthe', 'kth']
+['logically', 'eagerly', 'exchange', 'intercourse', 'perfectly', 'rich', 'misnomer', 'tolearn', 'theologian', 'cando', 'leadership', 'decline', 'hopper', 'concentrated', 'male']
+['asthe', 'eagerly', 'bbn', 'thinkthe', 'aboutthe', 'clinic', 'credible', 'ford', 'mr', 'jon', 'turk', 'thay', 'ba', 'treally', 'ultrix']
+['exchange', 'tolearn', 'tip', 'thinkthe', 'instruct', 'ucs', 'thingslike', 'mono', 'bubble', 'kth', 'thx', 'scribe', 'theydo', 'dana', 'decline']
+['thinkthe', 'misnomer', 'instruct', 'exchange', 'dana', 'liberate', 'theologian', 'tip', 'forabout', 'muller', 'lesson', 'ultrix', 'mvanheyn', 'curtis', 'conceivably']
+['tip', 'exchange', 'thinkthe', 'audience', 'miserable', 'rock', 'obmoto', 'malcolm', 'clinic', 'vanheyningen', 'isthere', 'ly', 'prescribe', 'mvanheyn', 'hopper']
+['instruct', 'kth', 'hopper', 'paradise', 'wildly', 'pirate', 'scribe', 'tolearn', 'profess', 'audience', 'personal', 'tip', 'ashamed', 'bogg', 'tribune']
+['instruct', 'perfectly', 'key', 'ford', 'saddle', 'leadership', 'tc', 'sub', 'bubble', 'bh', 'exchange', 'clinic', 'eagerly', 'definately', 'amc']
+['thinkthe', 'audience', 'scribe', 'plainly', 'colon', 'saddle', 'tip', 'aboutthe', 'induction', 'mit', 'interfere', 'fixing', 'aggravate', 'analyzer', 'instruct']
+['instruct', 'vanheyningen', 'wildly', 'whiten', 'cisc', 'instant', 'bh', 'thinkthe', 'venerable', 'aboutthe', 'asteroid', 'designation', 'ford', 'jon', 'plainly']
+['ford', 'savagely', 'endless', 'severly', 'instruct', 'decline', 'aggravate', 'template', 'ucs', 'oo', 'aboutthe', 'venerable', 'ancestor', 'witty', 'paradise']
+['plainly', 'ford', 'mit', 'usenet', 'audience', 'ri', 'conceivably', 'miserable', 'mono', 'thinkthe', 'ultrix', 'ba', 'saddle', 'exert', 'postmaster']
+['plainly', 'thay', 'diego', 'ford', 'venerable', 'anyways', 'template', 'theydo', 'wildly', 'key', 'misc', 'daytime', 'liberate', 'forabout', 'ifthe']
+['exchange', 'ford', 'ultrix', 'bbn', 'treally', 'oo', 'forabout', 'eagerly', 'africa', 'audience', 'mono', 'curtis', 'hominem', 'rich', 'theologian']
+['mono', 'safe', 'rate', 'vanheyningen', 'isthere', 'instruct', 'sub', 'berman', 'intreste', 'push', 'neo', 'exchange', 'procedure', 'keenan', 'prescribe']
+['instruct', 'audience', 'eagerly', 'paradise', 'satisfactory', 'fujitsu', 'gizm', 'designation', 'ultrix', 'quayle', 'canseco', 'thinkthe', 'torre', 'mono', 'diego']
+['exchange', 'bubble', 'curtis', 'theologian', 'themore', 'exposure', 'ucs', 'falsehood', 'postmaster', 'quayle', 'canseco', 'eagerly', 'prescribe', 'savagely', 'instruct']
+['instruct', 'tc', 'aboutthe', 'plainly', 'thinkthe', 'tolearn', 'thingslike', 'forabout', 'theologian', 'eagerly', 'crime', 'swick', 'ecole', 'referred', 'vanheyningen']
+['bh', 'endless', 'turk', 'plainly', 'wildly', 'instruct', 'gay', 'bbn', 'liberate', 'sub', 'treally', 'audience', 'suspectthat', 'thinkthe', 'conveniently']
+['africa', 'bogg', 'saddle', 'ultrix', 'cultist', 'instruct', 'posix', 'thename', 'andhe', 'hopper', 'intercourse', 'thinkthe', 'wildly', 'exchange', 'drug']
+['bh', 'ussr', 'ambition', 'mvanheyn', 'saddle', 'rate', 'lisp', 'obmoto', 'exchange', 'instruct', 'credible', 'satisfactory', 'elan', 'conveniently', 'interfere']
+['ly', 'audience', 'liability', 'posix', 'ultrix', 'lesson', 'mit', 'gerard', 'instruct', 'push', 'miserable', 'plainly', 'berman', 'saddle', 'vanheyningen']
+['audience', 'plainly', 'endless', 'instruct', 'bubble', 'prescribe', 'vanheyningen', 'mono', 'theologian', 'neo', 'saddle', 'liberate', 'usenet', 'turk', 'ford']
+['gray', 'dothat', 'thay', 'ccit', 'insist', 'audience', 'berman', 'designation', 'ba', 'liberate', 'plainly', 'torre', 'amajor', 'wildly', 'wow']
+['satisfactory', 'logically', 'exchange', 'mono', 'ofenvironmental', 'theologian', 'diego', 'tip', 'prozac', 'misnomer', 'savagely', 'wildly', 'concentrated', 'tolearn', 'ussr']
+['vz', 'plainly', 'eagerly', 'audience', 'col', 'mono', 'scribe', 'endless', 'pond', 'witty', 'acutally', 'dana', 'swick', 'berman', 'ford']
+['ankle', 'exchange', 'sub', 'pirate', 'mr', 'conveniently', 'conservative', 'fundamentally', 'dana', 'moderately', 'charge', 'icould', 'thay', 'usenet', 'clinic']
+['xremote', 'moderately', 'berman', 'ford', 'cisc', 'mono', 'forabout', 'analyzer', 'exchange', 'bubble', 'raise', 'xf', 'thinkthe', 'scribe', 'raytracer']
+['mono', 'sx', 'exchange', 'instruct', 'hominem', 'immense', 'scribe', 'credible', 'leadership', 'fft', 'plainly', 'jon', 'vice', 'manson', 'thinkthe']
+['exchange', 'ernie', 'gay', 'lesson', 'mall', 'concentrated', 'motor', 'print', 'lemke', 'rate', 'tax', 'manypeople', 'suspectthat', 'ussr', 'curtis']
+['mit', 'anyways', 'ford', 'forabout', 'malcolm', 'plainly', 'lesson', 'rich', 'key', 'saddle', 'torre', 'quayle', 'csc', 'aura', 'isreal']
+['plainly', 'ucs', 'mr', 'key', 'liability', 'theologian', 'theydo', 'curtis', 'vf', 'asthe', 'posix', 'saddle', 'mvanheyn', 'rich', 'contour']
+['exchange', 'bubble', 'elan', 'thinkthe', 'ofright', 'okay', 'intercourse', 'severly', 'isthere', 'xremote', 'idiotic', 'canseco', 'itwa', 'physic', 'andhe']
+['instruct', 'plainly', 'designation', 'aboutthe', 'hopper', 'calculus', 'charge', 'obmoto', 'isthere', 'hee', 'mit', 'concentrated', 'ly', 'theologian', 'satisfactory']
+['theologian', 'exchange', 'thinkthe', 'audience', 'plainly', 'conceivably', 'ford', 'daytime', 'announce', 'miserable', 'supper', 'printer', 'conveniently', 'aix', 'attemptedto']
+['audience', 'pond', 'exchange', 'berman', 'endless', 'treally', 'thay', 'logically', 'ambition', 'sub', 'suspectthat', 'usenet', 'diego', 'bubble', 'thinkthe']
+['plainly', 'berman', 'likeit', 'saddle', 'mit', 'theologian', 'ford', 'eagerly', 'thinkthe', 'currently', 'instruct', 'wildly', 'audience', 'concentrated', 'misnomer']
+['mvanheyn', 'ussr', 'instruct', 'plainly', 'endless', 'concentrated', 'float', 'paradise', 'eagerly', 'audience', 'treally', 'analyzer', 'procedure', 'joystick', 'thinkthe']
+==============================
+topic diversity:0.2866666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6690795326729202, c_w2v:None, c_uci:-9.947042583207308, c_npmi:-0.35844673769425023
+mimno topic coherence:-186.90681110163763
+Epoch  91	Iter    1	Loss_D:-0.1051592	Loss_G:6.6789298	loss_E:0.0358898
+Epoch  91	Iter   11	Loss_D:-0.1061002	Loss_G:6.4936075	loss_E:0.0366135
+Epoch  91	Iter   21	Loss_D:-0.1042419	Loss_G:6.3117580	loss_E:0.0344390
+Epoch  92	Iter    1	Loss_D:-0.1049473	Loss_G:6.1345949	loss_E:0.0351912
+Epoch  92	Iter   11	Loss_D:-0.1054631	Loss_G:5.9610672	loss_E:0.0355618
+Epoch  92	Iter   21	Loss_D:-0.1046907	Loss_G:5.7931170	loss_E:0.0349036
+Epoch  93	Iter    1	Loss_D:-0.1057896	Loss_G:5.6286969	loss_E:0.0358412
+Epoch  93	Iter   11	Loss_D:-0.1046946	Loss_G:5.4689269	loss_E:0.0348287
+Epoch  93	Iter   21	Loss_D:-0.1052093	Loss_G:5.3129597	loss_E:0.0354586
+Epoch  94	Iter    1	Loss_D:-0.1032780	Loss_G:5.1623688	loss_E:0.0338128
+Epoch  94	Iter   11	Loss_D:-0.1051686	Loss_G:5.0152345	loss_E:0.0352408
+Epoch  94	Iter   21	Loss_D:-0.1040965	Loss_G:4.8730593	loss_E:0.0342329
+Epoch  95	Iter    1	Loss_D:-0.1039589	Loss_G:4.7347136	loss_E:0.0341486
+Epoch  95	Iter   11	Loss_D:-0.1044367	Loss_G:4.6020398	loss_E:0.0342486
+Epoch  95	Iter   21	Loss_D:-0.1055434	Loss_G:4.4724817	loss_E:0.0352394
+Epoch  96	Iter    1	Loss_D:-0.1038516	Loss_G:4.3474598	loss_E:0.0339276
+Epoch  96	Iter   11	Loss_D:-0.1040164	Loss_G:4.2258916	loss_E:0.0344855
+Epoch  96	Iter   21	Loss_D:-0.1045193	Loss_G:4.1109619	loss_E:0.0345086
+Epoch  97	Iter    1	Loss_D:-0.1055297	Loss_G:3.9984512	loss_E:0.0358141
+Epoch  97	Iter   11	Loss_D:-0.1045083	Loss_G:3.8909006	loss_E:0.0349077
+Epoch  97	Iter   21	Loss_D:-0.1033715	Loss_G:3.7876654	loss_E:0.0335636
+Epoch  98	Iter    1	Loss_D:-0.1052589	Loss_G:3.6896939	loss_E:0.0354260
+Epoch  98	Iter   11	Loss_D:-0.1053011	Loss_G:3.5946348	loss_E:0.0351759
+Epoch  98	Iter   21	Loss_D:-0.1048398	Loss_G:3.5045648	loss_E:0.0349888
+Epoch  99	Iter    1	Loss_D:-0.1042597	Loss_G:3.4185231	loss_E:0.0344834
+Epoch  99	Iter   11	Loss_D:-0.1065390	Loss_G:3.3377223	loss_E:0.0367451
+Epoch  99	Iter   21	Loss_D:-0.1040184	Loss_G:3.2600238	loss_E:0.0343879
+Epoch 100	Iter    1	Loss_D:-0.1061597	Loss_G:3.1879315	loss_E:0.0362439
+Epoch 100	Iter   11	Loss_D:-0.1040634	Loss_G:3.1190121	loss_E:0.0341052
+Epoch 100	Iter   21	Loss_D:-0.1041541	Loss_G:3.0556278	loss_E:0.0344351
+Epoch 100	Loss_D_avg:-0.0998480	Loss_G_avg:77.3911104	loss_E_avg:0.0335276
+['thinkthe', 'wildly', 'charge', 'sub', 'plainly', 'muller', 'exchange', 'havea', 'instruct', 'malcolm', 'africa', 'perfectly', 'hee', 'scribe', 'thx']
+['exchange', 'hee', 'ford', 'wildly', 'thx', 'scribe', 'charge', 'malcolm', 'thinkthe', 'mit', 'ultrix', 'hopper', 'perfectly', 'bbn', 'andhe']
+['wildly', 'exchange', 'tolearn', 'thx', 'manson', 'eagerly', 'ultrix', 'hee', 'thelist', 'ussr', 'havea', 'plainly', 'saddle', 'venerable', 'jon']
+['africa', 'exchange', 'olson', 'plainly', 'ofright', 'charge', 'thinkthe', 'bbn', 'sub', 'mr', 'wildly', 'eagerly', 'designation', 'paradise', 'instruct']
+['thinkthe', 'exchange', 'analyzer', 'charge', 'scribe', 'wildly', 'kth', 'rich', 'ly', 'ussr', 'havea', 'thx', 'perfectly', 'designation', 'saddle']
+['mono', 'wildly', 'exchange', 'thinkthe', 'designation', 'scribe', 'jon', 'instruct', 'intercourse', 'perfectly', 'plainly', 'ofright', 'manypeople', 'sub', 'olson']
+['eagerly', 'scribe', 'instruct', 'thinkthe', 'aggravate', 'exchange', 'designation', 'charge', 'hee', 'africa', 'sub', 'jon', 'analyzer', 'thx', 'paradise']
+['exchange', 'diego', 'designation', 'analyzer', 'thinkthe', 'aggravate', 'gay', 'charge', 'africa', 'rich', 'thx', 'bbn', 'plainly', 'lf', 'wildly']
+['sub', 'exchange', 'eagerly', 'charge', 'scribe', 'olson', 'plainly', 'africa', 'manypeople', 'wildly', 'gay', 'saddle', 'designation', 'thinkthe', 'audience']
+['designation', 'thelist', 'rich', 'scribe', 'plainly', 'ford', 'wildly', 'tolearn', 'gay', 'intercourse', 'thx', 'africa', 'hee', 'hopper', 'havea']
+['mono', 'diego', 'designation', 'wildly', 'africa', 'ussr', 'exchange', 'ofright', 'scribe', 'manypeople', 'ultrix', 'referred', 'western', 'ford', 'charge']
+['thinkthe', 'exchange', 'jon', 'designation', 'hee', 'ofright', 'plainly', 'saddle', 'thay', 'scribe', 'falsehood', 'thx', 'bbn', 'satisfactory', 'wildly']
+['ultrix', 'sub', 'audience', 'charge', 'malcolm', 'falsehood', 'exchange', 'thelist', 'plainly', 'thinkthe', 'perfectly', 'wildly', 'instruct', 'designation', 'saddle']
+['exchange', 'aggravate', 'africa', 'scribe', 'hopper', 'charge', 'sub', 'thx', 'perfectly', 'ofright', 'wildly', 'malcolm', 'manypeople', 'saddle', 'ly']
+['thinkthe', 'thelist', 'wildly', 'interfere', 'charge', 'plainly', 'bbn', 'sub', 'scribe', 'thay', 'rich', 'ultrix', 'jon', 'ofright', 'mr']
+['exchange', 'scribe', 'ussr', 'hee', 'tolearn', 'thinkthe', 'africa', 'thx', 'instruct', 'designation', 'analyzer', 'plainly', 'manypeople', 'aggravate', 'itwa']
+['thinkthe', 'falsehood', 'sub', 'wildly', 'instruct', 'exchange', 'africa', 'designation', 'hee', 'ussr', 'scribe', 'saddle', 'malcolm', 'aggravate', 'ultrix']
+['exchange', 'thinkthe', 'wildly', 'olson', 'hee', 'andhe', 'hopper', 'audience', 'thx', 'manypeople', 'intercourse', 'sub', 'ussr', 'eagerly', 'africa']
+['exchange', 'western', 'instruct', 'venerable', 'tribune', 'wildly', 'ultrix', 'scribe', 'thinkthe', 'tolearn', 'perfectly', 'diego', 'analyzer', 'malcolm', 'hopper']
+['exchange', 'scribe', 'tolearn', 'perfectly', 'wildly', 'sub', 'falsehood', 'thinkthe', 'ford', 'eagerly', 'designation', 'charge', 'hee', 'bbn', 'venerable']
+['scribe', 'analyzer', 'interfere', 'thinkthe', 'plainly', 'exchange', 'venerable', 'thx', 'audience', 'eagerly', 'andhe', 'hopper', 'sub', 'wildly', 'neo']
+['wildly', 'instruct', 'thx', 'falsehood', 'africa', 'scribe', 'tolearn', 'venerable', 'olson', 'aggravate', 'exchange', 'manypeople', 'jon', 'designation', 'malcolm']
+['sub', 'instruct', 'oo', 'thx', 'ford', 'raise', 'designation', 'mono', 'wildly', 'endless', 'scribe', 'amc', 'aggravate', 'andhe', 'paradise']
+['thinkthe', 'exchange', 'sub', 'ford', 'scribe', 'ultrix', 'mono', 'saddle', 'wildly', 'rich', 'analyzer', 'audience', 'andhe', 'instruct', 'plainly']
+['wildly', 'plainly', 'manypeople', 'diego', 'gay', 'thinkthe', 'misc', 'venerable', 'thelist', 'aggravate', 'ford', 'exchange', 'scribe', 'analyzer', 'rich']
+['exchange', 'saddle', 'eagerly', 'wildly', 'ultrix', 'intercourse', 'rich', 'analyzer', 'audience', 'mono', 'thinkthe', 'kth', 'africa', 'bbn', 'oo']
+['sub', 'wildly', 'andhe', 'exchange', 'mono', 'instruct', 'ofright', 'diego', 'africa', 'audience', 'venerable', 'saddle', 'liability', 'nyx', 'scribe']
+['instruct', 'designation', 'paradise', 'scribe', 'charge', 'audience', 'wildly', 'aggravate', 'hopper', 'kth', 'sub', 'diego', 'thinkthe', 'exchange', 'thx']
+['exchange', 'ofright', 'eagerly', 'liability', 'audience', 'analyzer', 'falsehood', 'charge', 'thinkthe', 'designation', 'jon', 'africa', 'plainly', 'wildly', 'sub']
+['plainly', 'instruct', 'thinkthe', 'africa', 'tolearn', 'scribe', 'diego', 'wildly', 'exchange', 'designation', 'ussr', 'falsehood', 'thx', 'quayle', 'eagerly']
+['plainly', 'sub', 'gay', 'endless', 'instruct', 'ussr', 'ultrix', 'designation', 'exchange', 'mono', 'moderately', 'bbn', 'rich', 'charge', 'eagerly']
+['exchange', 'africa', 'thinkthe', 'andhe', 'designation', 'hee', 'charge', 'aggravate', 'analyzer', 'wildly', 'plainly', 'saddle', 'jon', 'nyx', 'thay']
+['ussr', 'exchange', 'hee', 'instruct', 'saddle', 'wildly', 'interfere', 'ultrix', 'tolearn', 'designation', 'kth', 'eagerly', 'conveniently', 'scribe', 'mono']
+['wildly', 'falsehood', 'scribe', 'thinkthe', 'charge', 'liability', 'mono', 'designation', 'eagerly', 'plainly', 'sub', 'instruct', 'tolearn', 'audience', 'bbn']
+['plainly', 'sub', 'instruct', 'diego', 'mono', 'endless', 'audience', 'nyx', 'wildly', 'designation', 'jon', 'falsehood', 'exchange', 'itwa', 'ofright']
+['wildly', 'hee', 'thinkthe', 'sub', 'rich', 'designation', 'mono', 'ofright', 'andhe', 'ussr', 'mit', 'itwa', 'eagerly', 'thay', 'charge']
+['ussr', 'mono', 'diego', 'exchange', 'charge', 'wildly', 'thinkthe', 'scribe', 'analyzer', 'sub', 'rich', 'instruct', 'satisfactory', 'malcolm', 'vice']
+['analyzer', 'scribe', 'wildly', 'ussr', 'thx', 'sub', 'mono', 'eagerly', 'plainly', 'audience', 'crime', 'ofright', 'exchange', 'designation', 'charge']
+['sub', 'exchange', 'mr', 'designation', 'plainly', 'jon', 'thinkthe', 'wildly', 'manypeople', 'olson', 'ofright', 'hee', 'thx', 'andhe', 'kth']
+['raise', 'analyzer', 'exchange', 'mono', 'scribe', 'moderately', 'hee', 'charge', 'jon', 'sub', 'eagerly', 'hopper', 'havea', 'ford', 'andhe']
+['exchange', 'mono', 'hee', 'wildly', 'plainly', 'designation', 'jon', 'scribe', 'eagerly', 'ofright', 'manson', 'thinkthe', 'quayle', 'vice', 'instruct']
+['wildly', 'exchange', 'hee', 'manypeople', 'designation', 'gay', 'ussr', 'hopper', 'thelist', 'thinkthe', 'plainly', 'diego', 'mono', 'mall', 'africa']
+['ford', 'charge', 'designation', 'plainly', 'sub', 'eagerly', 'africa', 'mit', 'instruct', 'western', 'wildly', 'havea', 'rich', 'thinkthe', 'perfectly']
+['charge', 'interfere', 'plainly', 'mr', 'wildly', 'andhe', 'saddle', 'mono', 'designation', 'exchange', 'manypeople', 'thinkthe', 'sub', 'thx', 'rich']
+['exchange', 'intercourse', 'ofright', 'thay', 'scribe', 'andhe', 'physic', 'aboutthe', 'itwa', 'ussr', 'plainly', 'raise', 'olson', 'manypeople', 'bbn']
+['instruct', 'hee', 'mono', 'designation', 'charge', 'analyzer', 'thinkthe', 'wildly', 'havea', 'ussr', 'mr', 'andhe', 'plainly', 'thelist', 'hopper']
+['exchange', 'thinkthe', 'ford', 'mono', 'designation', 'jon', 'plainly', 'sub', 'bbn', 'ussr', 'wildly', 'western', 'kth', 'manypeople', 'rich']
+['sub', 'exchange', 'africa', 'audience', 'ultrix', 'hee', 'wildly', 'thx', 'endless', 'thay', 'designation', 'analyzer', 'andhe', 'scribe', 'plainly']
+['rich', 'scribe', 'thelist', 'aggravate', 'plainly', 'africa', 'jon', 'designation', 'ofright', 'mit', 'thinkthe', 'eagerly', 'thx', 'charge', 'venerable']
+['plainly', 'hee', 'ussr', 'analyzer', 'thx', 'thinkthe', 'sub', 'paradise', 'exchange', 'saddle', 'malcolm', 'africa', 'charge', 'instruct', 'thelist']
+==============================
+topic diversity:0.09333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6561628862674774, c_w2v:None, c_uci:-9.742787844620604, c_npmi:-0.35022562589064477
+mimno topic coherence:-186.64579166757173
+topic diversity:0.09333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6561628862674774, c_w2v:None, c_uci:-9.742787844620604, c_npmi:-0.35022562589064477
+mimno topic coherence:-186.64579166757173

@@ -1,0 +1,2436 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7fca8944aac0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 19% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:0.1983170	Loss_G:1.7051115	loss_E:-0.0097769
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-7.4442472	Loss_G:9.3703461	loss_E:-0.0120120
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-17.3303299	Loss_G:19.3884163	loss_E:-0.0150676
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-18.4837971	Loss_G:20.5969963	loss_E:-0.0154005
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-28.8663063	Loss_G:31.0118752	loss_E:-0.0185140
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-40.2375145	Loss_G:42.4306107	loss_E:-0.0218160
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-41.1936646	Loss_G:43.3675690	loss_E:-0.0221066
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-53.4436035	Loss_G:55.6383209	loss_E:-0.0253775
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-60.4869041	Loss_G:62.4462280	loss_E:-0.0282685
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-61.0169525	Loss_G:62.9611435	loss_E:-0.0285322
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-70.8947449	Loss_G:72.7675476	loss_E:-0.0312153
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-78.9608994	Loss_G:80.7878418	loss_E:-0.0337746
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-81.2806168	Loss_G:83.0876999	loss_E:-0.0340594
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-87.5692825	Loss_G:89.2725220	loss_E:-0.0364342
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-96.8741989	Loss_G:98.5408936	loss_E:-0.0387986
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-93.8774185	Loss_G:95.4681168	loss_E:-0.0389851
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-102.6518707	Loss_G:104.1896667	loss_E:-0.0411764
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-112.4437790	Loss_G:113.9855194	loss_E:-0.0432700
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-114.0137177	Loss_G:115.5367737	loss_E:-0.0435607
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-121.6632538	Loss_G:123.1621246	loss_E:-0.0454567
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-126.1141510	Loss_G:127.5100098	loss_E:-0.0473604
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-125.3681183	Loss_G:126.7266998	loss_E:-0.0475573
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-132.9141388	Loss_G:134.2160950	loss_E:-0.0493511
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-136.3806000	Loss_G:137.6059570	loss_E:-0.0510116
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 |  3% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-137.4496918	Loss_G:138.6477966	loss_E:-0.0511708
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-142.9463959	Loss_G:144.1147156	loss_E:-0.0528067
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-147.3045959	Loss_G:148.3767395	loss_E:-0.0543263
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-147.7531586	Loss_G:148.8349609	loss_E:-0.0544590
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-151.5166168	Loss_G:152.5118713	loss_E:-0.0558652
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-158.0987854	Loss_G:159.0475159	loss_E:-0.0572798
+Epoch  10	Loss_D_avg:-89.8127012	Loss_G_avg:91.4435895	loss_E_avg:-0.0368264
+['know', 'act', 'basically', 'afford', 'step', 'belief', 'ii', 'explain', 'ancient', 'jews', 'concept', 'die', 'short', 'round', 'create']
+['know', 'basically', 'afford', 'ii', 'deletion', 'belief', 'jews', 'ancient', 'war', 'concept', 'step', 'round', 'pretty', 'nazi', 'citizen']
+['afford', 'die', 'ancient', 'know', 'deletion', 'ii', 'belief', 'nazi', 'step', 'act', 'basically', 'explain', 'round', 'create', 'becauseof']
+['know', 'deletion', 'afford', 'ii', 'pretty', 'nazi', 'ass', 'step', 'create', 'basically', 'act', 'ancient', 'round', 'explain', 'belief']
+['know', 'afford', 'basically', 'belief', 'pretty', 'nazi', 'concept', 'ancient', 'deletion', 'ii', 'step', 'explain', 'bible', 'die', 'act']
+['step', 'know', 'afford', 'basically', 'concept', 'ii', 'explain', 'deletion', 'die', 'round', 'act', 'greek', 'jews', 'nazi', 'belief']
+['deletion', 'concept', 'know', 'ii', 'basically', 'belief', 'explain', 'step', 'round', 'die', 'pretty', 'world', 'create', 'certain', 'jews']
+['know', 'ancient', 'deletion', 'afford', 'basically', 'step', 'die', 'ii', 'belief', 'ass', 'explain', 'nazi', 'create', 'war', 'concept']
+['belief', 'deletion', 'afford', 'know', 'step', 'basically', 'explain', 'bible', 'round', 'nazi', 'ancient', 'world', 'concept', 'imprison', 'certain']
+['afford', 'act', 'belief', 'know', 'deletion', 'certain', 'ass', 'step', 'round', 'war', 'pretty', 'basically', 'ancient', 'die', 'bible']
+['deletion', 'know', 'afford', 'basically', 'concept', 'explain', 'belief', 'bad', 'ancient', 'nazi', 'die', 'step', 'war', 'round', 'create']
+['know', 'ii', 'deletion', 'round', 'afford', 'step', 'belief', 'act', 'jews', 'nazi', 'ancient', 'concept', 'certain', 'die', 'basically']
+['ancient', 'explain', 'know', 'concept', 'pretty', 'belief', 'create', 'afford', 'ii', 'jews', 'basically', 'die', 'round', 'step', 'nazi']
+['belief', 'basically', 'certain', 'afford', 'ii', 'ancient', 'die', 'bible', 'round', 'act', 'step', 'concept', 'know', 'deletion', 'nazi']
+['basically', 'afford', 'know', 'step', 'explain', 'belief', 'ii', 'act', 'pretty', 'concept', 'ancient', 'bad', 'round', 'create', 'nazi']
+['explain', 'afford', 'belief', 'basically', 'ancient', 'nazi', 'step', 'certain', 'round', 'know', 'deletion', 'concept', 'pretty', 'ass', 'becauseof']
+['know', 'explain', 'concept', 'belief', 'ancient', 'deletion', 'step', 'ii', 'basically', 'create', 'jews', 'bad', 'die', 'round', 'generally']
+['ancient', 'concept', 'know', 'deletion', 'step', 'afford', 'basically', 'pretty', 'ii', 'bible', 'ass', 'explain', 'war', 'create', 'jews']
+['belief', 'afford', 'act', 'explain', 'ii', 'certain', 'ancient', 'jews', 'basically', 'know', 'concept', 'die', 'step', 'world', 'round']
+['basically', 'ancient', 'know', 'belief', 'deletion', 'step', 'concept', 'certain', 'afford', 'die', 'nazi', 'pretty', 'prepare', 'different', 'explain']
+['explain', 'ii', 'know', 'deletion', 'belief', 'basically', 'nazi', 'ancient', 'certain', 'act', 'bible', 'greek', 'citizen', 'round', 'afford']
+['afford', 'know', 'basically', 'explain', 'step', 'act', 'round', 'deletion', 'belief', 'pretty', 'jews', 'bad', 'concept', 'ancient', 'imprison']
+['afford', 'round', 'act', 'certain', 'basically', 'ii', 'belief', 'ancient', 'pretty', 'know', 'deletion', 'bible', 'world', 'nazi', 'war']
+['know', 'deletion', 'belief', 'explain', 'ancient', 'afford', 'world', 'basically', 'certain', 'ii', 'act', 'war', 'round', 'step', 'bad']
+['belief', 'ancient', 'afford', 'basically', 'nazi', 'die', 'deletion', 'know', 'pretty', 'step', 'jews', 'war', 'concept', 'ass', 'certain']
+['know', 'basically', 'belief', 'ass', 'deletion', 'ancient', 'step', 'explain', 'act', 'nazi', 'afford', 'round', 'die', 'certain', 'concept']
+['know', 'ass', 'nazi', 'step', 'die', 'afford', 'pretty', 'ancient', 'basically', 'belief', 'ii', 'round', 'explain', 'act', 'concept']
+['afford', 'belief', 'deletion', 'nazi', 'explain', 'know', 'ancient', 'create', 'round', 'pretty', 'basically', 'ii', 'act', 'bible', 'world']
+['basically', 'belief', 'ancient', 'know', 'afford', 'pretty', 'nazi', 'act', 'deletion', 'concept', 'certain', 'step', 'bible', 'ii', 'jews']
+['certain', 'pretty', 'basically', 'afford', 'know', 'ii', 'ancient', 'explain', 'concept', 'belief', 'imprison', 'act', 'deletion', 'ass', 'nazi']
+['know', 'afford', 'act', 'die', 'basically', 'ass', 'step', 'concept', 'deletion', 'pretty', 'jews', 'ancient', 'ii', 'nazi', 'bible']
+['explain', 'deletion', 'afford', 'basically', 'know', 'concept', 'belief', 'round', 'ii', 'certain', 'nazi', 'step', 'world', 'jews', 'ancient']
+['basically', 'belief', 'explain', 'know', 'act', 'afford', 'nazi', 'pretty', 'die', 'world', 'prepare', 'ancient', 'ii', 'greek', 'deletion']
+['know', 'explain', 'basically', 'ii', 'pretty', 'concept', 'ancient', 'nazi', 'belief', 'deletion', 'step', 'act', 'afford', 'round', 'citizen']
+['ii', 'step', 'deletion', 'afford', 'know', 'explain', 'create', 'belief', 'basically', 'pretty', 'ancient', 'certain', 'war', 'bible', 'nazi']
+['know', 'deletion', 'afford', 'belief', 'step', 'act', 'die', 'ii', 'basically', 'concept', 'bad', 'generally', 'war', 'nazi', 'create']
+['know', 'explain', 'ancient', 'round', 'act', 'basically', 'belief', 'world', 'deletion', 'pretty', 'afford', 'becauseof', 'create', 'die', 'ass']
+['ii', 'know', 'pretty', 'afford', 'concept', 'imprison', 'explain', 'basically', 'belief', 'act', 'bad', 'step', 'certain', 'jews', 'citizen']
+['know', 'act', 'ancient', 'basically', 'afford', 'jews', 'bible', 'round', 'belief', 'deletion', 'concept', 'ass', 'pretty', 'create', 'ii']
+['explain', 'nazi', 'basically', 'ii', 'ancient', 'know', 'deletion', 'belief', 'concept', 'step', 'create', 'afford', 'die', 'jews', 'pretty']
+['basically', 'know', 'concept', 'belief', 'explain', 'deletion', 'step', 'afford', 'act', 'die', 'jews', 'certain', 'ii', 'ancient', 'nazi']
+['afford', 'pretty', 'basically', 'know', 'explain', 'act', 'belief', 'deletion', 'bad', 'ass', 'world', 'round', 'certain', 'ancient', 'nazi']
+['afford', 'explain', 'belief', 'act', 'know', 'basically', 'jews', 'deletion', 'ii', 'certain', 'nazi', 'die', 'prepare', 'imprison', 'create']
+['basically', 'explain', 'deletion', 'concept', 'ii', 'jews', 'afford', 'know', 'die', 'round', 'step', 'ancient', 'short', 'belief', 'create']
+['basically', 'concept', 'act', 'know', 'explain', 'belief', 'step', 'pretty', 'afford', 'die', 'certain', 'bible', 'nazi', 'bad', 'generally']
+['know', 'deletion', 'afford', 'ancient', 'belief', 'explain', 'basically', 'war', 'step', 'act', 'ass', 'world', 'pretty', 'nazi', 'imprison']
+['basically', 'concept', 'deletion', 'belief', 'afford', 'step', 'ancient', 'explain', 'round', 'ii', 'die', 'nazi', 'know', 'certain', 'pretty']
+['belief', 'know', 'afford', 'concept', 'round', 'explain', 'ancient', 'deletion', 'jews', 'step', 'certain', 'basically', 'ii', 'act', 'war']
+['deletion', 'know', 'afford', 'basically', 'explain', 'ii', 'nazi', 'ancient', 'concept', 'die', 'belief', 'ass', 'pretty', 'create', 'certain']
+['know', 'deletion', 'step', 'ancient', 'explain', 'belief', 'afford', 'basically', 'round', 'concept', 'act', 'die', 'nazi', 'ii', 'pretty']
+['deletion', 'belief', 'explain', 'basically', 'know', 'ancient', 'certain', 'round', 'nazi', 'step', 'act', 'concept', 'war', 'world', 'pretty']
+['deletion', 'basically', 'know', 'afford', 'ancient', 'belief', 'concept', 'step', 'explain', 'prepare', 'pretty', 'jews', 'nazi', 'greek', 'act']
+['ancient', 'basically', 'deletion', 'know', 'round', 'pretty', 'world', 'certain', 'explain', 'nazi', 'afford', 'act', 'war', 'ii', 'belief']
+['basically', 'know', 'deletion', 'ii', 'afford', 'step', 'concept', 'ancient', 'certain', 'belief', 'prepare', 'war', 'round', 'die', 'bible']
+['deletion', 'nazi', 'explain', 'afford', 'know', 'belief', 'basically', 'concept', 'step', 'pretty', 'die', 'ii', 'bad', 'ass', 'act']
+['afford', 'basically', 'explain', 'deletion', 'ii', 'nazi', 'know', 'concept', 'belief', 'world', 'step', 'ass', 'round', 'pretty', 'certain']
+['deletion', 'basically', 'know', 'explain', 'belief', 'afford', 'nazi', 'bad', 'pretty', 'ancient', 'jews', 'ass', 'step', 'ii', 'concept']
+['afford', 'basically', 'deletion', 'nazi', 'ancient', 'belief', 'know', 'explain', 'certain', 'bible', 'step', 'pretty', 'act', 'ii', 'round']
+['pretty', 'know', 'afford', 'deletion', 'concept', 'belief', 'act', 'die', 'ii', 'step', 'explain', 'ancient', 'bible', 'basically', 'citizen']
+['basically', 'concept', 'afford', 'step', 'die', 'belief', 'certain', 'deletion', 'pretty', 'ii', 'know', 'explain', 'ancient', 'generally', 'act']
+['know', 'deletion', 'belief', 'act', 'die', 'explain', 'nazi', 'step', 'create', 'afford', 'ancient', 'bad', 'citizen', 'concept', 'jews']
+['ancient', 'basically', 'deletion', 'afford', 'know', 'step', 'act', 'certain', 'pretty', 'concept', 'belief', 'nazi', 'imprison', 'ii', 'round']
+['basically', 'nazi', 'ass', 'belief', 'deletion', 'know', 'pretty', 'step', 'afford', 'explain', 'ancient', 'concept', 'becauseof', 'round', 'die']
+['know', 'ancient', 'deletion', 'act', 'pretty', 'belief', 'afford', 'bad', 'certain', 'create', 'jews', 'ass', 'concept', 'ii', 'step']
+['afford', 'belief', 'act', 'ancient', 'certain', 'basically', 'know', 'pretty', 'die', 'prepare', 'explain', 'step', 'round', 'concept', 'generally']
+['know', 'afford', 'ancient', 'round', 'belief', 'explain', 'concept', 'jews', 'nazi', 'deletion', 'pretty', 'act', 'step', 'ass', 'certain']
+['basically', 'deletion', 'explain', 'afford', 'belief', 'concept', 'know', 'ii', 'prepare', 'die', 'step', 'nazi', 'ancient', 'world', 'round']
+['ii', 'nazi', 'basically', 'afford', 'know', 'round', 'belief', 'step', 'world', 'jews', 'die', 'pretty', 'concept', 'certain', 'deletion']
+['belief', 'know', 'afford', 'deletion', 'die', 'ancient', 'basically', 'ii', 'nazi', 'step', 'pretty', 'create', 'explain', 'concept', 'bible']
+['know', 'basically', 'afford', 'pretty', 'explain', 'act', 'round', 'ii', 'step', 'nazi', 'ancient', 'short', 'belief', 'concept', 'certain']
+['know', 'step', 'ii', 'deletion', 'afford', 'die', 'pretty', 'basically', 'belief', 'bad', 'round', 'explain', 'act', 'ancient', 'concept']
+['belief', 'afford', 'know', 'ancient', 'deletion', 'step', 'ass', 'basically', 'certain', 'explain', 'nazi', 'jews', 'die', 'war', 'concept']
+['know', 'deletion', 'afford', 'belief', 'explain', 'ancient', 'basically', 'ii', 'round', 'create', 'bad', 'nazi', 'concept', 'pretty', 'step']
+['afford', 'ancient', 'pretty', 'know', 'basically', 'belief', 'jews', 'deletion', 'round', 'concept', 'ii', 'act', 'explain', 'step', 'create']
+['know', 'pretty', 'basically', 'round', 'ass', 'ancient', 'act', 'bible', 'certain', 'ii', 'afford', 'concept', 'nazi', 'generally', 'deletion']
+==============================
+topic diversity:0.027555555555555555
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3062809942890983, c_w2v:None, c_uci:-5.1457070657456985, c_npmi:-0.17456548373876765
+mimno topic coherence:-327.75316275025244
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-160.2411194	Loss_G:161.1900635	loss_E:-0.0573706
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-165.7862854	Loss_G:166.6717224	loss_E:-0.0586027
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-166.7653961	Loss_G:167.5679321	loss_E:-0.0596633
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-167.7305298	Loss_G:168.5312195	loss_E:-0.0598070
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-169.4343872	Loss_G:170.1631775	loss_E:-0.0607982
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-174.7697144	Loss_G:175.4318848	loss_E:-0.0616878
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-169.7846375	Loss_G:170.4202271	loss_E:-0.0617584
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-175.6781311	Loss_G:176.2697144	loss_E:-0.0625763
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-179.9606476	Loss_G:180.4901733	loss_E:-0.0632523
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-181.2678986	Loss_G:181.7816772	loss_E:-0.0633151
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-176.6429138	Loss_G:177.0803833	loss_E:-0.0639074
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-182.6182251	Loss_G:183.0003967	loss_E:-0.0644433
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-176.9283905	Loss_G:177.2960510	loss_E:-0.0644955
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-184.4351807	Loss_G:184.7531128	loss_E:-0.0649213
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-183.4595337	Loss_G:183.7190857	loss_E:-0.0652149
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-183.3750000	Loss_G:183.6309204	loss_E:-0.0652408
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-183.2465363	Loss_G:183.4512024	loss_E:-0.0655230
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-185.7644196	Loss_G:185.9321289	loss_E:-0.0656788
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-182.8462524	Loss_G:183.0087891	loss_E:-0.0656934
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-185.8270416	Loss_G:185.9627686	loss_E:-0.0658243
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-185.8339691	Loss_G:185.9519653	loss_E:-0.0658854
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-188.5575867	Loss_G:188.6734619	loss_E:-0.0659267
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-187.5421448	Loss_G:187.6467285	loss_E:-0.0659593
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-186.5456543	Loss_G:186.6434326	loss_E:-0.0660431
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-186.4049683	Loss_G:186.5002441	loss_E:-0.0660427
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-185.1618195	Loss_G:185.2528687	loss_E:-0.0660857
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-182.2359619	Loss_G:182.3233643	loss_E:-0.0661077
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-186.3871155	Loss_G:186.4745178	loss_E:-0.0660998
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-183.2772369	Loss_G:183.3619385	loss_E:-0.0661498
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-190.2983551	Loss_G:190.3819275	loss_E:-0.0661730
+Epoch  20	Loss_D_avg:-134.8864682	Loss_G_avg:135.8811794	loss_E_avg:-0.0504173
+['know', 'act', 'basically', 'afford', 'step', 'belief', 'ii', 'explain', 'jews', 'ancient', 'concept', 'short', 'die', 'round', 'greek']
+['basically', 'know', 'ii', 'afford', 'deletion', 'belief', 'jews', 'war', 'ancient', 'concept', 'step', 'pretty', 'round', 'nazi', 'citizen']
+['afford', 'die', 'know', 'deletion', 'ancient', 'ii', 'nazi', 'belief', 'step', 'act', 'basically', 'explain', 'round', 'certain', 'becauseof']
+['know', 'deletion', 'afford', 'pretty', 'ii', 'nazi', 'step', 'ass', 'basically', 'act', 'ancient', 'create', 'round', 'explain', 'belief']
+['know', 'afford', 'basically', 'pretty', 'belief', 'nazi', 'concept', 'deletion', 'ancient', 'step', 'ii', 'explain', 'bible', 'die', 'act']
+['step', 'know', 'afford', 'basically', 'concept', 'ii', 'explain', 'deletion', 'round', 'greek', 'die', 'act', 'jews', 'nazi', 'imprison']
+['deletion', 'concept', 'know', 'ii', 'basically', 'belief', 'explain', 'step', 'round', 'pretty', 'world', 'certain', 'die', 'jews', 'citizen']
+['know', 'ancient', 'deletion', 'afford', 'basically', 'step', 'die', 'ii', 'belief', 'ass', 'explain', 'nazi', 'war', 'concept', 'pretty']
+['belief', 'deletion', 'afford', 'know', 'step', 'basically', 'explain', 'nazi', 'bible', 'round', 'world', 'ancient', 'concept', 'imprison', 'certain']
+['afford', 'act', 'belief', 'know', 'deletion', 'certain', 'ass', 'war', 'round', 'step', 'pretty', 'basically', 'die', 'ancient', 'bible']
+['deletion', 'know', 'afford', 'basically', 'concept', 'explain', 'belief', 'nazi', 'bad', 'ancient', 'die', 'step', 'war', 'round', 'world']
+['know', 'ii', 'deletion', 'round', 'afford', 'step', 'belief', 'nazi', 'act', 'jews', 'concept', 'certain', 'ancient', 'die', 'basically']
+['ancient', 'explain', 'know', 'concept', 'pretty', 'belief', 'ii', 'afford', 'jews', 'create', 'basically', 'step', 'round', 'nazi', 'die']
+['certain', 'belief', 'basically', 'afford', 'ii', 'ancient', 'die', 'bible', 'round', 'act', 'step', 'concept', 'know', 'nazi', 'deletion']
+['basically', 'afford', 'know', 'step', 'explain', 'belief', 'act', 'ii', 'pretty', 'concept', 'ancient', 'round', 'bad', 'nazi', 'certain']
+['explain', 'afford', 'belief', 'basically', 'ancient', 'nazi', 'step', 'certain', 'round', 'know', 'concept', 'pretty', 'deletion', 'becauseof', 'ass']
+['know', 'explain', 'concept', 'belief', 'ancient', 'deletion', 'step', 'ii', 'basically', 'create', 'jews', 'bad', 'die', 'round', 'generally']
+['concept', 'know', 'ancient', 'deletion', 'step', 'basically', 'afford', 'pretty', 'ii', 'bible', 'ass', 'explain', 'war', 'jews', 'belief']
+['belief', 'afford', 'act', 'explain', 'ii', 'certain', 'jews', 'ancient', 'basically', 'know', 'concept', 'step', 'die', 'world', 'imprison']
+['basically', 'ancient', 'know', 'belief', 'deletion', 'step', 'certain', 'concept', 'afford', 'nazi', 'die', 'pretty', 'prepare', 'different', 'explain']
+['explain', 'ii', 'know', 'deletion', 'belief', 'basically', 'nazi', 'certain', 'ancient', 'act', 'greek', 'bible', 'citizen', 'round', 'afford']
+['afford', 'know', 'basically', 'explain', 'step', 'act', 'round', 'deletion', 'belief', 'pretty', 'jews', 'bad', 'concept', 'imprison', 'ancient']
+['afford', 'round', 'certain', 'act', 'basically', 'ii', 'belief', 'pretty', 'ancient', 'know', 'deletion', 'bible', 'world', 'nazi', 'war']
+['know', 'deletion', 'belief', 'explain', 'ancient', 'world', 'afford', 'basically', 'certain', 'war', 'act', 'ii', 'round', 'step', 'bad']
+['belief', 'ancient', 'afford', 'basically', 'nazi', 'die', 'deletion', 'know', 'pretty', 'step', 'war', 'jews', 'concept', 'certain', 'ass']
+['know', 'basically', 'belief', 'ass', 'deletion', 'step', 'ancient', 'explain', 'act', 'nazi', 'afford', 'round', 'certain', 'die', 'concept']
+['know', 'nazi', 'ass', 'step', 'die', 'pretty', 'afford', 'basically', 'belief', 'ancient', 'ii', 'round', 'concept', 'explain', 'act']
+['afford', 'belief', 'deletion', 'nazi', 'explain', 'know', 'ancient', 'round', 'pretty', 'basically', 'create', 'ii', 'act', 'bible', 'world']
+['basically', 'belief', 'ancient', 'know', 'nazi', 'pretty', 'afford', 'act', 'concept', 'deletion', 'certain', 'step', 'bible', 'ii', 'jews']
+['certain', 'pretty', 'basically', 'afford', 'know', 'ii', 'explain', 'ancient', 'concept', 'belief', 'imprison', 'act', 'deletion', 'ass', 'nazi']
+['know', 'afford', 'act', 'basically', 'die', 'ass', 'step', 'concept', 'deletion', 'pretty', 'jews', 'nazi', 'ii', 'ancient', 'bible']
+['explain', 'deletion', 'afford', 'basically', 'know', 'concept', 'belief', 'round', 'certain', 'ii', 'nazi', 'step', 'world', 'jews', 'war']
+['basically', 'belief', 'know', 'explain', 'act', 'afford', 'nazi', 'pretty', 'die', 'prepare', 'world', 'ii', 'ancient', 'greek', 'deletion']
+['know', 'explain', 'basically', 'ii', 'pretty', 'concept', 'nazi', 'ancient', 'belief', 'deletion', 'step', 'act', 'afford', 'round', 'certain']
+['step', 'ii', 'deletion', 'know', 'afford', 'explain', 'belief', 'create', 'basically', 'pretty', 'certain', 'war', 'ancient', 'nazi', 'bible']
+['know', 'deletion', 'afford', 'belief', 'step', 'act', 'die', 'ii', 'basically', 'concept', 'bad', 'generally', 'nazi', 'war', 'round']
+['know', 'explain', 'round', 'ancient', 'act', 'basically', 'belief', 'world', 'pretty', 'deletion', 'becauseof', 'afford', 'die', 'ass', 'nazi']
+['ii', 'know', 'pretty', 'afford', 'concept', 'imprison', 'basically', 'explain', 'belief', 'act', 'bad', 'step', 'certain', 'jews', 'citizen']
+['know', 'act', 'ancient', 'basically', 'afford', 'jews', 'bible', 'round', 'belief', 'deletion', 'concept', 'ass', 'pretty', 'ii', 'explain']
+['explain', 'nazi', 'basically', 'ii', 'know', 'ancient', 'deletion', 'belief', 'concept', 'step', 'afford', 'create', 'die', 'certain', 'jews']
+['basically', 'know', 'concept', 'belief', 'explain', 'deletion', 'step', 'afford', 'act', 'certain', 'jews', 'die', 'nazi', 'ii', 'world']
+['afford', 'pretty', 'basically', 'know', 'explain', 'act', 'belief', 'deletion', 'bad', 'world', 'ass', 'certain', 'round', 'nazi', 'concept']
+['afford', 'explain', 'belief', 'know', 'act', 'basically', 'jews', 'certain', 'deletion', 'ii', 'nazi', 'die', 'prepare', 'imprison', 'concept']
+['basically', 'explain', 'concept', 'deletion', 'ii', 'jews', 'know', 'afford', 'die', 'step', 'round', 'ancient', 'short', 'belief', 'prepare']
+['basically', 'concept', 'act', 'know', 'explain', 'belief', 'pretty', 'step', 'afford', 'certain', 'die', 'nazi', 'bible', 'bad', 'generally']
+['know', 'deletion', 'afford', 'ancient', 'belief', 'explain', 'basically', 'war', 'step', 'act', 'world', 'ass', 'pretty', 'nazi', 'imprison']
+['basically', 'concept', 'belief', 'deletion', 'step', 'afford', 'explain', 'ancient', 'round', 'ii', 'nazi', 'die', 'know', 'certain', 'pretty']
+['belief', 'know', 'afford', 'concept', 'round', 'explain', 'deletion', 'step', 'jews', 'ancient', 'certain', 'basically', 'ii', 'act', 'war']
+['deletion', 'know', 'afford', 'basically', 'explain', 'ii', 'nazi', 'concept', 'ancient', 'belief', 'die', 'ass', 'pretty', 'certain', 'citizen']
+['know', 'deletion', 'step', 'explain', 'ancient', 'belief', 'basically', 'afford', 'round', 'concept', 'act', 'die', 'nazi', 'pretty', 'ii']
+['deletion', 'belief', 'explain', 'basically', 'know', 'certain', 'ancient', 'round', 'nazi', 'step', 'act', 'concept', 'war', 'world', 'pretty']
+['deletion', 'basically', 'know', 'afford', 'belief', 'ancient', 'step', 'concept', 'explain', 'prepare', 'pretty', 'nazi', 'jews', 'greek', 'act']
+['ancient', 'basically', 'deletion', 'know', 'pretty', 'round', 'world', 'certain', 'nazi', 'explain', 'afford', 'act', 'war', 'belief', 'ii']
+['basically', 'know', 'deletion', 'ii', 'afford', 'step', 'concept', 'certain', 'belief', 'ancient', 'prepare', 'war', 'round', 'die', 'bible']
+['deletion', 'nazi', 'explain', 'afford', 'know', 'belief', 'basically', 'concept', 'step', 'pretty', 'die', 'ii', 'ass', 'act', 'bad']
+['afford', 'basically', 'explain', 'deletion', 'ii', 'nazi', 'know', 'concept', 'belief', 'world', 'step', 'round', 'ass', 'certain', 'pretty']
+['deletion', 'basically', 'know', 'explain', 'belief', 'nazi', 'afford', 'pretty', 'bad', 'jews', 'ancient', 'ass', 'step', 'ii', 'concept']
+['afford', 'basically', 'deletion', 'nazi', 'belief', 'ancient', 'know', 'certain', 'explain', 'step', 'bible', 'pretty', 'ii', 'act', 'round']
+['pretty', 'know', 'afford', 'deletion', 'concept', 'belief', 'act', 'die', 'ii', 'step', 'basically', 'explain', 'bible', 'ancient', 'citizen']
+['basically', 'concept', 'afford', 'certain', 'step', 'belief', 'die', 'deletion', 'pretty', 'ii', 'know', 'explain', 'generally', 'ancient', 'act']
+['know', 'deletion', 'belief', 'act', 'die', 'nazi', 'explain', 'step', 'afford', 'ancient', 'citizen', 'bad', 'concept', 'create', 'jews']
+['ancient', 'basically', 'deletion', 'afford', 'know', 'step', 'act', 'certain', 'pretty', 'concept', 'belief', 'nazi', 'imprison', 'ii', 'round']
+['basically', 'nazi', 'ass', 'belief', 'deletion', 'know', 'pretty', 'step', 'afford', 'explain', 'ancient', 'concept', 'becauseof', 'round', 'die']
+['know', 'ancient', 'deletion', 'act', 'pretty', 'belief', 'afford', 'certain', 'bad', 'jews', 'concept', 'ass', 'ii', 'war', 'imprison']
+['afford', 'belief', 'act', 'certain', 'basically', 'ancient', 'know', 'pretty', 'die', 'prepare', 'step', 'explain', 'concept', 'round', 'generally']
+['know', 'afford', 'round', 'ancient', 'belief', 'concept', 'explain', 'jews', 'nazi', 'pretty', 'deletion', 'act', 'step', 'ass', 'certain']
+['basically', 'deletion', 'explain', 'afford', 'concept', 'belief', 'know', 'prepare', 'ii', 'step', 'nazi', 'die', 'world', 'ancient', 'round']
+['nazi', 'ii', 'basically', 'afford', 'know', 'round', 'belief', 'step', 'world', 'pretty', 'jews', 'die', 'concept', 'certain', 'imprison']
+['belief', 'know', 'afford', 'deletion', 'die', 'basically', 'ancient', 'ii', 'nazi', 'step', 'pretty', 'concept', 'explain', 'bible', 'create']
+['know', 'basically', 'afford', 'pretty', 'explain', 'act', 'round', 'ii', 'step', 'nazi', 'short', 'ancient', 'belief', 'concept', 'certain']
+['know', 'step', 'ii', 'deletion', 'afford', 'die', 'pretty', 'basically', 'belief', 'explain', 'round', 'bad', 'act', 'ancient', 'concept']
+['belief', 'afford', 'know', 'deletion', 'ancient', 'step', 'ass', 'basically', 'certain', 'nazi', 'explain', 'jews', 'war', 'concept', 'die']
+['know', 'deletion', 'belief', 'afford', 'basically', 'explain', 'ancient', 'ii', 'round', 'bad', 'nazi', 'concept', 'create', 'pretty', 'step']
+['afford', 'pretty', 'ancient', 'know', 'basically', 'belief', 'jews', 'deletion', 'round', 'concept', 'ii', 'act', 'explain', 'step', 'prepare']
+['know', 'pretty', 'basically', 'round', 'ass', 'ancient', 'certain', 'act', 'bible', 'ii', 'afford', 'concept', 'generally', 'nazi', 'deletion']
+==============================
+topic diversity:0.027555555555555555
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.30757406604165943, c_w2v:None, c_uci:-5.150109440267403, c_npmi:-0.1736313281054404
+mimno topic coherence:-328.55361597237567
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-186.4318542	Loss_G:186.5151367	loss_E:-0.0661872
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-185.0468445	Loss_G:185.1278687	loss_E:-0.0661880
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-189.6613312	Loss_G:189.7420654	loss_E:-0.0661744
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-188.1001129	Loss_G:188.1802673	loss_E:-0.0662127
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-182.8298798	Loss_G:182.9083557	loss_E:-0.0662386
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-187.8521576	Loss_G:187.9308472	loss_E:-0.0662072
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-187.3240356	Loss_G:187.4018860	loss_E:-0.0662559
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-189.1032715	Loss_G:189.1809387	loss_E:-0.0662171
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-184.4658356	Loss_G:184.5422668	loss_E:-0.0662650
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-187.4431610	Loss_G:187.5198364	loss_E:-0.0662667
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-187.0902100	Loss_G:187.1663818	loss_E:-0.0662570
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-187.7478943	Loss_G:187.8233337	loss_E:-0.0662553
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-187.4080353	Loss_G:187.4834290	loss_E:-0.0662771
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-187.1875763	Loss_G:187.2624207	loss_E:-0.0662750
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-187.8178711	Loss_G:187.8921204	loss_E:-0.0662592
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-184.7942352	Loss_G:184.8683472	loss_E:-0.0662990
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-190.3660583	Loss_G:190.4398804	loss_E:-0.0663157
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-187.4873962	Loss_G:187.5608826	loss_E:-0.0663111
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-185.9896393	Loss_G:186.0628052	loss_E:-0.0663379
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-183.5080872	Loss_G:183.5805969	loss_E:-0.0663422
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-191.0606995	Loss_G:191.1332397	loss_E:-0.0663685
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-192.2395935	Loss_G:192.3122253	loss_E:-0.0663420
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-190.3278809	Loss_G:190.4000854	loss_E:-0.0663783
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-191.3740387	Loss_G:191.4457703	loss_E:-0.0663321
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-192.7053223	Loss_G:192.7770996	loss_E:-0.0663458
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-184.9821625	Loss_G:185.0533600	loss_E:-0.0663615
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-185.7049713	Loss_G:185.7756348	loss_E:-0.0663326
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-184.3916321	Loss_G:184.4624023	loss_E:-0.0663161
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-186.1071930	Loss_G:186.1778870	loss_E:-0.0663632
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-186.5442963	Loss_G:186.6147156	loss_E:-0.0663643
+Epoch  30	Loss_D_avg:-152.4031263	Loss_G_avg:153.0912539	loss_E_avg:-0.0557076
+['know', 'act', 'basically', 'afford', 'step', 'belief', 'ii', 'explain', 'jews', 'ancient', 'concept', 'short', 'die', 'round', 'nazi']
+['basically', 'know', 'ii', 'afford', 'deletion', 'belief', 'jews', 'war', 'ancient', 'concept', 'step', 'pretty', 'round', 'nazi', 'citizen']
+['afford', 'die', 'know', 'deletion', 'ii', 'ancient', 'nazi', 'belief', 'step', 'act', 'basically', 'explain', 'round', 'certain', 'pretty']
+['know', 'deletion', 'afford', 'pretty', 'ii', 'nazi', 'step', 'ass', 'basically', 'act', 'ancient', 'round', 'create', 'explain', 'belief']
+['know', 'afford', 'basically', 'pretty', 'belief', 'nazi', 'concept', 'deletion', 'ancient', 'step', 'ii', 'explain', 'bible', 'die', 'certain']
+['step', 'know', 'afford', 'basically', 'concept', 'ii', 'explain', 'deletion', 'greek', 'round', 'act', 'nazi', 'die', 'jews', 'imprison']
+['deletion', 'concept', 'know', 'basically', 'ii', 'belief', 'explain', 'step', 'round', 'certain', 'pretty', 'world', 'die', 'jews', 'citizen']
+['know', 'ancient', 'deletion', 'afford', 'basically', 'step', 'die', 'ii', 'belief', 'ass', 'nazi', 'explain', 'war', 'concept', 'pretty']
+['belief', 'deletion', 'afford', 'step', 'know', 'basically', 'explain', 'nazi', 'world', 'round', 'bible', 'concept', 'imprison', 'ancient', 'certain']
+['act', 'afford', 'belief', 'know', 'certain', 'deletion', 'ass', 'war', 'round', 'step', 'pretty', 'basically', 'concept', 'bible', 'die']
+['deletion', 'know', 'afford', 'basically', 'concept', 'explain', 'nazi', 'belief', 'bad', 'ancient', 'die', 'step', 'war', 'world', 'round']
+['know', 'ii', 'deletion', 'round', 'afford', 'step', 'nazi', 'belief', 'act', 'concept', 'jews', 'certain', 'ancient', 'die', 'basically']
+['ancient', 'explain', 'concept', 'know', 'pretty', 'belief', 'ii', 'afford', 'basically', 'jews', 'create', 'step', 'nazi', 'round', 'die']
+['certain', 'belief', 'basically', 'afford', 'ii', 'ancient', 'die', 'round', 'concept', 'act', 'step', 'bible', 'nazi', 'know', 'deletion']
+['basically', 'afford', 'know', 'step', 'belief', 'explain', 'act', 'pretty', 'ii', 'concept', 'round', 'ancient', 'certain', 'nazi', 'bad']
+['explain', 'afford', 'basically', 'belief', 'nazi', 'ancient', 'certain', 'step', 'round', 'know', 'concept', 'pretty', 'deletion', 'becauseof', 'ass']
+['know', 'explain', 'concept', 'belief', 'deletion', 'ancient', 'step', 'ii', 'basically', 'jews', 'create', 'bad', 'die', 'round', 'generally']
+['concept', 'know', 'deletion', 'ancient', 'step', 'basically', 'afford', 'pretty', 'ii', 'bible', 'ass', 'explain', 'war', 'jews', 'belief']
+['belief', 'afford', 'act', 'explain', 'ii', 'certain', 'jews', 'basically', 'ancient', 'know', 'concept', 'step', 'die', 'world', 'imprison']
+['basically', 'ancient', 'know', 'step', 'belief', 'deletion', 'certain', 'concept', 'nazi', 'afford', 'pretty', 'die', 'prepare', 'different', 'explain']
+['explain', 'ii', 'know', 'deletion', 'belief', 'basically', 'nazi', 'certain', 'ancient', 'act', 'greek', 'bible', 'citizen', 'war', 'round']
+['know', 'afford', 'basically', 'explain', 'step', 'act', 'round', 'deletion', 'belief', 'pretty', 'jews', 'concept', 'bad', 'imprison', 'certain']
+['afford', 'round', 'certain', 'act', 'basically', 'belief', 'ii', 'pretty', 'know', 'ancient', 'deletion', 'bible', 'world', 'nazi', 'war']
+['know', 'deletion', 'belief', 'explain', 'world', 'ancient', 'afford', 'basically', 'certain', 'war', 'act', 'ii', 'round', 'step', 'bad']
+['belief', 'ancient', 'basically', 'afford', 'nazi', 'die', 'deletion', 'know', 'pretty', 'step', 'war', 'concept', 'jews', 'certain', 'ass']
+['know', 'basically', 'belief', 'deletion', 'ass', 'step', 'ancient', 'explain', 'nazi', 'act', 'afford', 'round', 'certain', 'die', 'concept']
+['know', 'nazi', 'step', 'ass', 'pretty', 'afford', 'basically', 'die', 'belief', 'ancient', 'ii', 'round', 'concept', 'act', 'explain']
+['afford', 'belief', 'deletion', 'nazi', 'explain', 'know', 'ancient', 'round', 'pretty', 'basically', 'ii', 'act', 'bible', 'create', 'world']
+['basically', 'belief', 'ancient', 'know', 'nazi', 'pretty', 'afford', 'act', 'concept', 'certain', 'deletion', 'step', 'bible', 'ii', 'jews']
+['certain', 'pretty', 'basically', 'afford', 'know', 'ii', 'explain', 'ancient', 'concept', 'belief', 'imprison', 'act', 'deletion', 'nazi', 'ass']
+['know', 'afford', 'act', 'basically', 'die', 'ass', 'concept', 'step', 'deletion', 'pretty', 'jews', 'nazi', 'ii', 'ancient', 'bible']
+['explain', 'basically', 'deletion', 'afford', 'know', 'concept', 'belief', 'certain', 'nazi', 'round', 'ii', 'step', 'world', 'jews', 'war']
+['basically', 'belief', 'know', 'explain', 'act', 'afford', 'nazi', 'pretty', 'die', 'prepare', 'world', 'ii', 'greek', 'ancient', 'deletion']
+['know', 'explain', 'basically', 'ii', 'pretty', 'concept', 'nazi', 'belief', 'ancient', 'deletion', 'step', 'act', 'afford', 'certain', 'round']
+['step', 'ii', 'deletion', 'know', 'afford', 'explain', 'belief', 'create', 'basically', 'pretty', 'certain', 'war', 'ancient', 'nazi', 'bible']
+['know', 'deletion', 'afford', 'belief', 'step', 'act', 'die', 'ii', 'basically', 'concept', 'generally', 'bad', 'nazi', 'war', 'pretty']
+['know', 'explain', 'round', 'act', 'basically', 'ancient', 'belief', 'world', 'pretty', 'deletion', 'becauseof', 'afford', 'die', 'nazi', 'ass']
+['ii', 'know', 'pretty', 'afford', 'concept', 'imprison', 'basically', 'explain', 'belief', 'act', 'step', 'bad', 'certain', 'jews', 'citizen']
+['know', 'act', 'ancient', 'basically', 'afford', 'jews', 'bible', 'round', 'belief', 'deletion', 'concept', 'ass', 'pretty', 'ii', 'explain']
+['explain', 'nazi', 'basically', 'ii', 'know', 'ancient', 'deletion', 'concept', 'belief', 'step', 'afford', 'certain', 'die', 'pretty', 'jews']
+['basically', 'know', 'concept', 'belief', 'explain', 'step', 'deletion', 'afford', 'act', 'certain', 'jews', 'die', 'nazi', 'ii', 'world']
+['afford', 'pretty', 'basically', 'know', 'explain', 'act', 'belief', 'deletion', 'certain', 'world', 'bad', 'ass', 'nazi', 'concept', 'round']
+['afford', 'explain', 'belief', 'know', 'basically', 'act', 'jews', 'certain', 'deletion', 'ii', 'nazi', 'die', 'prepare', 'imprison', 'concept']
+['basically', 'explain', 'concept', 'deletion', 'know', 'ii', 'jews', 'afford', 'die', 'step', 'round', 'ancient', 'short', 'belief', 'prepare']
+['basically', 'concept', 'act', 'know', 'explain', 'belief', 'pretty', 'step', 'certain', 'afford', 'die', 'nazi', 'bible', 'round', 'generally']
+['know', 'deletion', 'afford', 'ancient', 'belief', 'explain', 'basically', 'war', 'step', 'act', 'world', 'ass', 'pretty', 'nazi', 'imprison']
+['basically', 'concept', 'belief', 'deletion', 'step', 'afford', 'explain', 'round', 'ancient', 'ii', 'nazi', 'die', 'know', 'certain', 'pretty']
+['belief', 'know', 'afford', 'concept', 'round', 'explain', 'step', 'deletion', 'certain', 'jews', 'ancient', 'basically', 'act', 'ii', 'war']
+['deletion', 'know', 'afford', 'basically', 'explain', 'ii', 'nazi', 'concept', 'ancient', 'belief', 'die', 'pretty', 'ass', 'certain', 'citizen']
+['know', 'deletion', 'step', 'explain', 'ancient', 'belief', 'basically', 'afford', 'round', 'concept', 'act', 'nazi', 'die', 'pretty', 'certain']
+['deletion', 'belief', 'explain', 'basically', 'know', 'certain', 'ancient', 'round', 'nazi', 'step', 'act', 'concept', 'war', 'world', 'pretty']
+['deletion', 'basically', 'know', 'afford', 'belief', 'step', 'concept', 'ancient', 'explain', 'prepare', 'pretty', 'nazi', 'jews', 'greek', 'act']
+['ancient', 'basically', 'deletion', 'know', 'pretty', 'round', 'world', 'certain', 'nazi', 'explain', 'war', 'act', 'afford', 'belief', 'ii']
+['basically', 'know', 'deletion', 'ii', 'afford', 'step', 'certain', 'concept', 'belief', 'ancient', 'prepare', 'war', 'round', 'die', 'bible']
+['nazi', 'deletion', 'explain', 'afford', 'know', 'basically', 'belief', 'concept', 'step', 'pretty', 'die', 'ii', 'certain', 'act', 'ass']
+['afford', 'basically', 'explain', 'deletion', 'ii', 'nazi', 'know', 'concept', 'belief', 'world', 'step', 'round', 'ass', 'certain', 'pretty']
+['deletion', 'basically', 'know', 'explain', 'belief', 'nazi', 'afford', 'pretty', 'jews', 'bad', 'ancient', 'ass', 'step', 'concept', 'ii']
+['basically', 'afford', 'deletion', 'nazi', 'belief', 'certain', 'know', 'ancient', 'explain', 'step', 'pretty', 'bible', 'ii', 'act', 'round']
+['pretty', 'know', 'afford', 'deletion', 'concept', 'belief', 'act', 'die', 'step', 'ii', 'basically', 'explain', 'bible', 'ancient', 'citizen']
+['basically', 'concept', 'certain', 'step', 'afford', 'belief', 'die', 'deletion', 'pretty', 'ii', 'know', 'generally', 'explain', 'ancient', 'act']
+['know', 'deletion', 'belief', 'act', 'nazi', 'die', 'explain', 'step', 'afford', 'concept', 'citizen', 'ancient', 'bad', 'jews', 'create']
+['ancient', 'basically', 'deletion', 'afford', 'know', 'step', 'act', 'certain', 'pretty', 'concept', 'nazi', 'imprison', 'belief', 'ii', 'round']
+['nazi', 'basically', 'ass', 'belief', 'deletion', 'pretty', 'know', 'step', 'afford', 'explain', 'concept', 'ancient', 'becauseof', 'round', 'certain']
+['know', 'ancient', 'deletion', 'act', 'pretty', 'belief', 'afford', 'certain', 'bad', 'concept', 'jews', 'ass', 'ii', 'imprison', 'war']
+['afford', 'act', 'belief', 'certain', 'basically', 'ancient', 'know', 'pretty', 'die', 'prepare', 'step', 'explain', 'concept', 'round', 'generally']
+['know', 'afford', 'concept', 'round', 'belief', 'ancient', 'explain', 'nazi', 'jews', 'pretty', 'act', 'deletion', 'step', 'certain', 'ass']
+['basically', 'deletion', 'explain', 'afford', 'concept', 'belief', 'know', 'prepare', 'step', 'ii', 'nazi', 'die', 'world', 'round', 'ancient']
+['nazi', 'ii', 'basically', 'afford', 'know', 'round', 'belief', 'step', 'world', 'pretty', 'jews', 'concept', 'certain', 'die', 'imprison']
+['belief', 'know', 'afford', 'deletion', 'die', 'basically', 'ancient', 'nazi', 'ii', 'pretty', 'step', 'concept', 'explain', 'bible', 'jews']
+['know', 'basically', 'afford', 'pretty', 'explain', 'act', 'round', 'ii', 'step', 'nazi', 'short', 'certain', 'concept', 'belief', 'ancient']
+['know', 'step', 'ii', 'deletion', 'afford', 'die', 'pretty', 'basically', 'belief', 'explain', 'round', 'bad', 'act', 'ancient', 'concept']
+['belief', 'afford', 'know', 'deletion', 'step', 'ancient', 'basically', 'ass', 'certain', 'nazi', 'explain', 'jews', 'war', 'concept', 'die']
+['know', 'deletion', 'belief', 'afford', 'basically', 'explain', 'ancient', 'round', 'ii', 'nazi', 'bad', 'concept', 'pretty', 'step', 'create']
+['afford', 'pretty', 'ancient', 'know', 'basically', 'belief', 'jews', 'deletion', 'round', 'concept', 'ii', 'act', 'explain', 'step', 'prepare']
+['know', 'pretty', 'basically', 'round', 'ass', 'certain', 'ancient', 'act', 'bible', 'ii', 'afford', 'concept', 'nazi', 'generally', 'deletion']
+==============================
+topic diversity:0.027555555555555555
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3051120832865299, c_w2v:None, c_uci:-5.09360016588616, c_npmi:-0.17142776649652874
+mimno topic coherence:-329.554647932705
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-184.5224915	Loss_G:184.5927124	loss_E:-0.0663489
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-187.3889618	Loss_G:187.4588318	loss_E:-0.0663566
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-185.1945953	Loss_G:185.2645264	loss_E:-0.0663669
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-184.8293457	Loss_G:184.8991699	loss_E:-0.0663709
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-191.3070679	Loss_G:191.3769073	loss_E:-0.0663509
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-189.2692413	Loss_G:189.3387451	loss_E:-0.0663948
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-189.8525848	Loss_G:189.9219666	loss_E:-0.0663851
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-187.2696381	Loss_G:187.3389587	loss_E:-0.0664195
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-187.0310822	Loss_G:187.1001434	loss_E:-0.0663881
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-188.3307648	Loss_G:188.3996887	loss_E:-0.0663715
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-188.4601746	Loss_G:188.5290527	loss_E:-0.0664357
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-189.5713959	Loss_G:189.6400757	loss_E:-0.0664173
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-188.0868378	Loss_G:188.1557312	loss_E:-0.0664232
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-187.7282715	Loss_G:187.7969360	loss_E:-0.0664344
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-188.4933777	Loss_G:188.5617065	loss_E:-0.0664378
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-186.1789551	Loss_G:186.2472839	loss_E:-0.0663752
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-185.9579926	Loss_G:186.0261841	loss_E:-0.0664509
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-188.3293762	Loss_G:188.3975220	loss_E:-0.0664394
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-186.9263458	Loss_G:186.9943848	loss_E:-0.0664455
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-187.6051025	Loss_G:187.6730957	loss_E:-0.0664351
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-187.4439850	Loss_G:187.5118408	loss_E:-0.0664472
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-185.6979980	Loss_G:185.7658081	loss_E:-0.0664411
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-187.2915497	Loss_G:187.3591614	loss_E:-0.0664584
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-187.6888885	Loss_G:187.7565002	loss_E:-0.0664551
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-183.5868835	Loss_G:183.6546021	loss_E:-0.0664652
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-187.8589172	Loss_G:187.9265442	loss_E:-0.0664319
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-190.6110229	Loss_G:190.6784973	loss_E:-0.0664664
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-188.4073486	Loss_G:188.4748230	loss_E:-0.0664432
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-187.6186523	Loss_G:187.6861115	loss_E:-0.0664591
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-182.7399292	Loss_G:182.8072510	loss_E:-0.0664664
+Epoch  40	Loss_D_avg:-161.1463345	Loss_G_avg:161.6795635	loss_E_avg:-0.0583856
+['know', 'basically', 'act', 'afford', 'step', 'belief', 'ii', 'jews', 'explain', 'ancient', 'short', 'concept', 'round', 'die', 'nazi']
+['know', 'basically', 'ii', 'afford', 'deletion', 'belief', 'jews', 'war', 'ancient', 'pretty', 'round', 'concept', 'step', 'nazi', 'citizen']
+['know', 'deletion', 'afford', 'die', 'ii', 'ancient', 'nazi', 'belief', 'step', 'basically', 'act', 'round', 'certain', 'explain', 'pretty']
+['know', 'deletion', 'pretty', 'nazi', 'ii', 'afford', 'ass', 'step', 'basically', 'act', 'round', 'ancient', 'create', 'explain', 'jews']
+['know', 'afford', 'pretty', 'basically', 'belief', 'nazi', 'deletion', 'concept', 'bible', 'ii', 'step', 'ancient', 'explain', 'certain', 'act']
+['know', 'step', 'basically', 'afford', 'concept', 'deletion', 'ii', 'explain', 'jews', 'round', 'nazi', 'imprison', 'greek', 'act', 'belief']
+['deletion', 'concept', 'know', 'basically', 'ii', 'belief', 'explain', 'step', 'round', 'world', 'pretty', 'certain', 'jews', 'imprison', 'die']
+['know', 'ancient', 'deletion', 'afford', 'basically', 'step', 'ii', 'die', 'belief', 'ass', 'nazi', 'explain', 'war', 'jews', 'pretty']
+['belief', 'deletion', 'know', 'step', 'afford', 'basically', 'world', 'nazi', 'bible', 'explain', 'round', 'imprison', 'certain', 'concept', 'ancient']
+['act', 'afford', 'know', 'belief', 'certain', 'deletion', 'war', 'round', 'ass', 'step', 'pretty', 'basically', 'bible', 'ancient', 'concept']
+['deletion', 'know', 'basically', 'afford', 'concept', 'explain', 'nazi', 'belief', 'bad', 'ancient', 'war', 'die', 'step', 'world', 'round']
+['know', 'ii', 'deletion', 'round', 'nazi', 'jews', 'step', 'afford', 'certain', 'belief', 'act', 'concept', 'pretty', 'basically', 'ancient']
+['ancient', 'explain', 'know', 'pretty', 'concept', 'belief', 'ii', 'jews', 'afford', 'basically', 'create', 'round', 'nazi', 'step', 'deletion']
+['certain', 'basically', 'belief', 'afford', 'ii', 'ancient', 'know', 'bible', 'round', 'nazi', 'deletion', 'act', 'step', 'concept', 'die']
+['basically', 'know', 'afford', 'step', 'belief', 'explain', 'pretty', 'ii', 'act', 'concept', 'round', 'nazi', 'certain', 'bad', 'deletion']
+['explain', 'afford', 'basically', 'belief', 'nazi', 'certain', 'ancient', 'step', 'round', 'know', 'pretty', 'deletion', 'concept', 'imprison', 'ass']
+['know', 'explain', 'belief', 'concept', 'deletion', 'ancient', 'step', 'ii', 'basically', 'jews', 'bad', 'create', 'die', 'generally', 'round']
+['know', 'concept', 'deletion', 'ancient', 'step', 'basically', 'afford', 'pretty', 'ii', 'bible', 'ass', 'explain', 'war', 'jews', 'certain']
+['belief', 'afford', 'act', 'ii', 'certain', 'explain', 'jews', 'know', 'basically', 'ancient', 'imprison', 'world', 'concept', 'round', 'step']
+['basically', 'know', 'deletion', 'ancient', 'belief', 'certain', 'step', 'concept', 'nazi', 'pretty', 'afford', 'different', 'prepare', 'die', 'explain']
+['explain', 'ii', 'know', 'deletion', 'basically', 'belief', 'certain', 'nazi', 'ancient', 'bible', 'greek', 'war', 'act', 'imprison', 'world']
+['know', 'basically', 'afford', 'explain', 'step', 'round', 'deletion', 'act', 'pretty', 'jews', 'belief', 'imprison', 'bad', 'certain', 'concept']
+['afford', 'round', 'certain', 'act', 'basically', 'belief', 'ii', 'know', 'pretty', 'deletion', 'bible', 'world', 'ancient', 'war', 'nazi']
+['know', 'deletion', 'belief', 'explain', 'world', 'basically', 'ancient', 'afford', 'certain', 'war', 'round', 'ii', 'act', 'step', 'nazi']
+['belief', 'ancient', 'nazi', 'basically', 'deletion', 'afford', 'know', 'pretty', 'die', 'war', 'jews', 'step', 'certain', 'concept', 'ass']
+['know', 'basically', 'deletion', 'belief', 'ass', 'step', 'ancient', 'nazi', 'explain', 'round', 'act', 'certain', 'afford', 'die', 'concept']
+['know', 'nazi', 'ass', 'pretty', 'step', 'basically', 'afford', 'belief', 'round', 'die', 'ii', 'ancient', 'generally', 'bible', 'explain']
+['afford', 'belief', 'deletion', 'nazi', 'know', 'explain', 'ancient', 'round', 'pretty', 'basically', 'bible', 'world', 'ii', 'act', 'war']
+['basically', 'belief', 'know', 'ancient', 'nazi', 'pretty', 'deletion', 'certain', 'afford', 'act', 'concept', 'step', 'bible', 'jews', 'ii']
+['certain', 'pretty', 'basically', 'know', 'afford', 'ii', 'explain', 'imprison', 'belief', 'ancient', 'concept', 'deletion', 'act', 'nazi', 'war']
+['know', 'basically', 'afford', 'act', 'die', 'ass', 'pretty', 'deletion', 'step', 'concept', 'jews', 'nazi', 'bible', 'ii', 'round']
+['explain', 'deletion', 'basically', 'know', 'afford', 'concept', 'belief', 'certain', 'round', 'nazi', 'ii', 'step', 'world', 'jews', 'war']
+['basically', 'know', 'belief', 'explain', 'nazi', 'pretty', 'act', 'afford', 'world', 'prepare', 'die', 'ii', 'deletion', 'greek', 'certain']
+['know', 'explain', 'basically', 'ii', 'pretty', 'nazi', 'concept', 'deletion', 'belief', 'ancient', 'step', 'act', 'certain', 'round', 'afford']
+['deletion', 'ii', 'step', 'know', 'afford', 'explain', 'belief', 'create', 'basically', 'pretty', 'certain', 'war', 'nazi', 'bible', 'ancient']
+['know', 'deletion', 'afford', 'belief', 'step', 'act', 'basically', 'ii', 'die', 'concept', 'generally', 'nazi', 'war', 'bad', 'pretty']
+['know', 'explain', 'round', 'basically', 'world', 'act', 'ancient', 'belief', 'pretty', 'deletion', 'becauseof', 'afford', 'nazi', 'jews', 'ass']
+['know', 'ii', 'pretty', 'imprison', 'afford', 'concept', 'basically', 'explain', 'belief', 'step', 'act', 'bad', 'certain', 'jews', 'citizen']
+['know', 'act', 'ancient', 'basically', 'jews', 'bible', 'afford', 'round', 'deletion', 'belief', 'pretty', 'ass', 'concept', 'ii', 'nazi']
+['explain', 'nazi', 'basically', 'know', 'ii', 'deletion', 'ancient', 'belief', 'concept', 'step', 'afford', 'certain', 'pretty', 'jews', 'round']
+['know', 'basically', 'concept', 'belief', 'deletion', 'explain', 'step', 'afford', 'certain', 'jews', 'act', 'nazi', 'world', 'imprison', 'die']
+['afford', 'pretty', 'know', 'basically', 'explain', 'deletion', 'belief', 'world', 'act', 'certain', 'nazi', 'round', 'ass', 'bad', 'short']
+['afford', 'know', 'explain', 'belief', 'basically', 'act', 'jews', 'certain', 'deletion', 'nazi', 'ii', 'imprison', 'prepare', 'die', 'bible']
+['basically', 'know', 'deletion', 'explain', 'jews', 'concept', 'ii', 'afford', 'round', 'step', 'die', 'short', 'ancient', 'belief', 'nazi']
+['basically', 'know', 'concept', 'act', 'explain', 'pretty', 'belief', 'step', 'certain', 'nazi', 'afford', 'bible', 'generally', 'imprison', 'round']
+['know', 'deletion', 'afford', 'belief', 'ancient', 'war', 'explain', 'basically', 'world', 'step', 'act', 'pretty', 'ass', 'nazi', 'imprison']
+['basically', 'concept', 'deletion', 'belief', 'round', 'step', 'explain', 'afford', 'nazi', 'ii', 'ancient', 'know', 'certain', 'pretty', 'die']
+['belief', 'know', 'afford', 'round', 'concept', 'deletion', 'jews', 'certain', 'explain', 'step', 'basically', 'war', 'ancient', 'ii', 'act']
+['deletion', 'know', 'afford', 'basically', 'explain', 'ii', 'nazi', 'concept', 'belief', 'pretty', 'ancient', 'ass', 'die', 'certain', 'world']
+['know', 'deletion', 'step', 'explain', 'ancient', 'basically', 'belief', 'round', 'afford', 'concept', 'nazi', 'pretty', 'act', 'world', 'certain']
+['deletion', 'belief', 'know', 'basically', 'explain', 'certain', 'round', 'ancient', 'nazi', 'war', 'step', 'world', 'act', 'pretty', 'concept']
+['deletion', 'basically', 'know', 'afford', 'belief', 'step', 'ancient', 'concept', 'pretty', 'explain', 'nazi', 'prepare', 'jews', 'greek', 'infinite']
+['ancient', 'know', 'basically', 'deletion', 'pretty', 'round', 'world', 'certain', 'nazi', 'explain', 'war', 'belief', 'act', 'ii', 'afford']
+['basically', 'know', 'deletion', 'ii', 'afford', 'certain', 'step', 'concept', 'belief', 'war', 'round', 'prepare', 'ancient', 'bible', 'jews']
+['deletion', 'nazi', 'know', 'explain', 'afford', 'basically', 'belief', 'step', 'concept', 'pretty', 'certain', 'ass', 'bible', 'ii', 'act']
+['afford', 'basically', 'deletion', 'explain', 'ii', 'nazi', 'know', 'world', 'belief', 'round', 'concept', 'step', 'ass', 'pretty', 'certain']
+['deletion', 'know', 'basically', 'explain', 'nazi', 'belief', 'pretty', 'jews', 'afford', 'ass', 'bad', 'ancient', 'generally', 'step', 'ii']
+['basically', 'afford', 'deletion', 'nazi', 'know', 'certain', 'belief', 'explain', 'ancient', 'pretty', 'step', 'bible', 'ii', 'round', 'act']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'belief', 'act', 'ii', 'bible', 'step', 'basically', 'die', 'explain', 'citizen', 'ancient']
+['basically', 'certain', 'concept', 'step', 'belief', 'deletion', 'afford', 'die', 'pretty', 'know', 'ii', 'generally', 'explain', 'nazi', 'bible']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'die', 'step', 'afford', 'jews', 'citizen', 'ancient', 'concept', 'bad', 'round']
+['basically', 'ancient', 'know', 'deletion', 'afford', 'act', 'step', 'certain', 'pretty', 'imprison', 'nazi', 'concept', 'belief', 'round', 'jews']
+['nazi', 'basically', 'ass', 'deletion', 'belief', 'know', 'pretty', 'step', 'explain', 'afford', 'round', 'ancient', 'certain', 'concept', 'becauseof']
+['know', 'deletion', 'ancient', 'pretty', 'act', 'belief', 'certain', 'afford', 'jews', 'bad', 'imprison', 'ass', 'war', 'concept', 'ii']
+['afford', 'certain', 'belief', 'know', 'act', 'basically', 'pretty', 'ancient', 'prepare', 'die', 'step', 'explain', 'round', 'generally', 'nazi']
+['know', 'afford', 'round', 'belief', 'jews', 'explain', 'concept', 'ancient', 'nazi', 'pretty', 'deletion', 'act', 'step', 'certain', 'ass']
+['basically', 'deletion', 'explain', 'afford', 'belief', 'know', 'concept', 'nazi', 'world', 'prepare', 'ii', 'step', 'round', 'imprison', 'die']
+['nazi', 'ii', 'know', 'basically', 'round', 'afford', 'belief', 'world', 'pretty', 'jews', 'step', 'certain', 'imprison', 'concept', 'deletion']
+['know', 'belief', 'afford', 'deletion', 'basically', 'nazi', 'ii', 'ancient', 'die', 'pretty', 'step', 'explain', 'concept', 'bible', 'jews']
+['know', 'basically', 'pretty', 'afford', 'explain', 'round', 'act', 'nazi', 'ii', 'step', 'short', 'certain', 'belief', 'concept', 'war']
+['know', 'step', 'ii', 'deletion', 'afford', 'pretty', 'basically', 'die', 'round', 'belief', 'explain', 'bad', 'act', 'ancient', 'war']
+['know', 'belief', 'afford', 'deletion', 'step', 'ancient', 'certain', 'ass', 'basically', 'nazi', 'explain', 'jews', 'war', 'world', 'bible']
+['know', 'deletion', 'belief', 'afford', 'basically', 'round', 'explain', 'ii', 'ancient', 'nazi', 'bad', 'pretty', 'concept', 'step', 'world']
+['afford', 'pretty', 'know', 'basically', 'ancient', 'belief', 'jews', 'deletion', 'round', 'ii', 'concept', 'act', 'explain', 'step', 'short']
+['know', 'pretty', 'basically', 'round', 'ass', 'certain', 'bible', 'act', 'ancient', 'ii', 'generally', 'nazi', 'afford', 'deletion', 'concept']
+==============================
+topic diversity:0.028444444444444446
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.30015477955592385, c_w2v:None, c_uci:-5.099439913616353, c_npmi:-0.17068968089743816
+mimno topic coherence:-332.9857331216979
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-188.0225525	Loss_G:188.0898438	loss_E:-0.0664421
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-189.3503418	Loss_G:189.4176331	loss_E:-0.0664738
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-187.7425232	Loss_G:187.8098450	loss_E:-0.0664528
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-184.2457733	Loss_G:184.3129883	loss_E:-0.0664767
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-186.7027893	Loss_G:186.7700195	loss_E:-0.0664726
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-187.6098633	Loss_G:187.6770325	loss_E:-0.0664729
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-188.6009827	Loss_G:188.6681519	loss_E:-0.0664704
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-185.3247070	Loss_G:185.3919067	loss_E:-0.0664629
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-187.2187042	Loss_G:187.2858582	loss_E:-0.0664591
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-191.5426941	Loss_G:191.6098022	loss_E:-0.0664704
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-189.8802795	Loss_G:189.9473572	loss_E:-0.0664633
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-189.0051422	Loss_G:189.0722351	loss_E:-0.0664545
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-187.9616699	Loss_G:188.0287170	loss_E:-0.0664645
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-187.7693481	Loss_G:187.8362732	loss_E:-0.0664433
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-189.0384827	Loss_G:189.1055298	loss_E:-0.0664616
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-185.6507721	Loss_G:185.7177429	loss_E:-0.0664592
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-188.0573578	Loss_G:188.1242676	loss_E:-0.0664562
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-190.3440704	Loss_G:190.4110107	loss_E:-0.0664666
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-189.1612244	Loss_G:189.2281189	loss_E:-0.0664643
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-188.4224091	Loss_G:188.4893799	loss_E:-0.0664886
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-189.3298645	Loss_G:189.3967590	loss_E:-0.0664650
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-183.6834412	Loss_G:183.7503662	loss_E:-0.0664762
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-186.0579376	Loss_G:186.1248474	loss_E:-0.0664839
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-187.3876953	Loss_G:187.4544983	loss_E:-0.0664582
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-187.4409790	Loss_G:187.5078735	loss_E:-0.0664624
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-189.5349426	Loss_G:189.6018066	loss_E:-0.0664669
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-188.3195648	Loss_G:188.3863525	loss_E:-0.0664771
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-184.6208191	Loss_G:184.6875610	loss_E:-0.0664368
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-189.3970947	Loss_G:189.4638367	loss_E:-0.0664682
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-189.5396729	Loss_G:189.6063538	loss_E:-0.0664361
+Epoch  50	Loss_D_avg:-166.4968256	Loss_G_avg:166.9368106	loss_E_avg:-0.0600012
+['know', 'act', 'basically', 'step', 'afford', 'jews', 'belief', 'ii', 'explain', 'short', 'ancient', 'concept', 'round', 'nazi', 'imprison']
+['know', 'basically', 'ii', 'afford', 'deletion', 'belief', 'jews', 'war', 'pretty', 'ancient', 'round', 'step', 'concept', 'nazi', 'citizen']
+['know', 'deletion', 'afford', 'ii', 'nazi', 'ancient', 'belief', 'step', 'die', 'basically', 'act', 'certain', 'round', 'pretty', 'explain']
+['know', 'deletion', 'pretty', 'nazi', 'ii', 'afford', 'ass', 'step', 'basically', 'act', 'round', 'ancient', 'explain', 'create', 'jews']
+['know', 'pretty', 'basically', 'afford', 'belief', 'nazi', 'deletion', 'concept', 'step', 'ii', 'certain', 'bible', 'explain', 'ancient', 'act']
+['know', 'step', 'basically', 'afford', 'concept', 'deletion', 'explain', 'ii', 'jews', 'imprison', 'round', 'nazi', 'greek', 'act', 'belief']
+['deletion', 'know', 'concept', 'basically', 'ii', 'belief', 'explain', 'step', 'round', 'world', 'certain', 'pretty', 'jews', 'imprison', 'citizen']
+['know', 'deletion', 'ancient', 'afford', 'basically', 'step', 'ii', 'belief', 'die', 'ass', 'nazi', 'explain', 'war', 'jews', 'pretty']
+['belief', 'deletion', 'know', 'step', 'afford', 'basically', 'world', 'nazi', 'imprison', 'explain', 'round', 'bible', 'certain', 'concept', 'ancient']
+['act', 'afford', 'know', 'belief', 'certain', 'deletion', 'war', 'round', 'ass', 'pretty', 'step', 'basically', 'bible', 'concept', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'concept', 'explain', 'nazi', 'belief', 'bad', 'ancient', 'war', 'step', 'world', 'round', 'imprison']
+['know', 'ii', 'deletion', 'round', 'jews', 'nazi', 'certain', 'step', 'afford', 'belief', 'act', 'pretty', 'concept', 'basically', 'ancient']
+['ancient', 'explain', 'know', 'pretty', 'concept', 'belief', 'ii', 'jews', 'afford', 'basically', 'round', 'nazi', 'create', 'step', 'deletion']
+['certain', 'basically', 'belief', 'afford', 'ii', 'ancient', 'know', 'round', 'bible', 'nazi', 'act', 'deletion', 'step', 'concept', 'world']
+['basically', 'know', 'afford', 'step', 'pretty', 'explain', 'belief', 'act', 'ii', 'concept', 'round', 'certain', 'nazi', 'deletion', 'bad']
+['explain', 'afford', 'basically', 'belief', 'nazi', 'certain', 'ancient', 'round', 'step', 'know', 'pretty', 'deletion', 'imprison', 'concept', 'ass']
+['know', 'explain', 'belief', 'concept', 'deletion', 'step', 'ancient', 'ii', 'basically', 'jews', 'bad', 'create', 'generally', 'round', 'nazi']
+['know', 'concept', 'deletion', 'ancient', 'step', 'basically', 'afford', 'pretty', 'ii', 'bible', 'ass', 'war', 'explain', 'jews', 'imprison']
+['belief', 'act', 'afford', 'certain', 'ii', 'explain', 'jews', 'know', 'imprison', 'basically', 'world', 'ancient', 'base', 'concept', 'round']
+['basically', 'know', 'deletion', 'certain', 'ancient', 'step', 'belief', 'concept', 'pretty', 'nazi', 'afford', 'different', 'prepare', 'explain', 'bible']
+['explain', 'ii', 'know', 'deletion', 'basically', 'belief', 'certain', 'nazi', 'imprison', 'bible', 'ancient', 'world', 'war', 'pretty', 'greek']
+['know', 'basically', 'afford', 'explain', 'round', 'step', 'deletion', 'act', 'pretty', 'jews', 'belief', 'imprison', 'certain', 'bad', 'concept']
+['round', 'afford', 'certain', 'act', 'basically', 'pretty', 'ii', 'belief', 'know', 'world', 'deletion', 'bible', 'war', 'nazi', 'ancient']
+['know', 'deletion', 'belief', 'world', 'explain', 'basically', 'certain', 'ancient', 'afford', 'war', 'round', 'act', 'ii', 'step', 'nazi']
+['belief', 'nazi', 'ancient', 'basically', 'deletion', 'know', 'pretty', 'afford', 'war', 'jews', 'certain', 'step', 'concept', 'ass', 'die']
+['know', 'basically', 'deletion', 'belief', 'ass', 'step', 'ancient', 'nazi', 'explain', 'certain', 'round', 'act', 'afford', 'pretty', 'concept']
+['know', 'nazi', 'pretty', 'ass', 'step', 'basically', 'round', 'afford', 'belief', 'ii', 'ancient', 'generally', 'explain', 'bible', 'act']
+['afford', 'belief', 'deletion', 'nazi', 'know', 'explain', 'round', 'pretty', 'ancient', 'basically', 'world', 'bible', 'ii', 'act', 'war']
+['basically', 'belief', 'know', 'ancient', 'pretty', 'nazi', 'certain', 'deletion', 'act', 'afford', 'step', 'concept', 'bible', 'jews', 'ii']
+['certain', 'pretty', 'basically', 'know', 'imprison', 'afford', 'ii', 'explain', 'belief', 'concept', 'ancient', 'deletion', 'act', 'war', 'nazi']
+['know', 'basically', 'act', 'afford', 'ass', 'pretty', 'deletion', 'concept', 'step', 'jews', 'nazi', 'die', 'bible', 'world', 'round']
+['explain', 'deletion', 'basically', 'know', 'afford', 'concept', 'belief', 'certain', 'round', 'nazi', 'ii', 'world', 'step', 'jews', 'war']
+['basically', 'know', 'belief', 'explain', 'pretty', 'nazi', 'act', 'world', 'afford', 'prepare', 'deletion', 'certain', 'ii', 'greek', 'ancient']
+['know', 'explain', 'basically', 'ii', 'pretty', 'nazi', 'concept', 'deletion', 'belief', 'ancient', 'certain', 'act', 'step', 'round', 'afford']
+['deletion', 'step', 'ii', 'know', 'afford', 'explain', 'belief', 'pretty', 'basically', 'certain', 'create', 'war', 'nazi', 'bible', 'ancient']
+['know', 'deletion', 'belief', 'afford', 'step', 'act', 'basically', 'ii', 'concept', 'generally', 'die', 'nazi', 'war', 'bad', 'pretty']
+['know', 'explain', 'round', 'world', 'basically', 'act', 'pretty', 'belief', 'ancient', 'deletion', 'becauseof', 'afford', 'nazi', 'jews', 'man']
+['know', 'ii', 'pretty', 'imprison', 'afford', 'concept', 'explain', 'basically', 'belief', 'act', 'certain', 'step', 'bad', 'jews', 'nazi']
+['know', 'act', 'ancient', 'basically', 'jews', 'bible', 'round', 'afford', 'deletion', 'belief', 'pretty', 'ass', 'concept', 'ii', 'nazi']
+['explain', 'nazi', 'basically', 'know', 'ii', 'deletion', 'belief', 'ancient', 'concept', 'step', 'certain', 'pretty', 'jews', 'afford', 'round']
+['know', 'basically', 'concept', 'belief', 'deletion', 'explain', 'step', 'certain', 'afford', 'jews', 'act', 'world', 'imprison', 'nazi', 'ii']
+['afford', 'pretty', 'know', 'basically', 'explain', 'world', 'deletion', 'act', 'belief', 'certain', 'round', 'nazi', 'ass', 'short', 'imprison']
+['know', 'afford', 'explain', 'belief', 'basically', 'act', 'jews', 'certain', 'deletion', 'nazi', 'ii', 'imprison', 'prepare', 'war', 'step']
+['basically', 'know', 'explain', 'deletion', 'jews', 'concept', 'ii', 'round', 'afford', 'step', 'short', 'ancient', 'nazi', 'belief', 'prepare']
+['basically', 'know', 'act', 'concept', 'pretty', 'explain', 'certain', 'belief', 'step', 'imprison', 'nazi', 'bible', 'generally', 'afford', 'round']
+['know', 'deletion', 'war', 'belief', 'explain', 'ancient', 'afford', 'basically', 'world', 'step', 'pretty', 'act', 'imprison', 'ass', 'nazi']
+['basically', 'concept', 'deletion', 'belief', 'explain', 'round', 'step', 'afford', 'nazi', 'ii', 'know', 'ancient', 'certain', 'pretty', 'jews']
+['belief', 'know', 'round', 'certain', 'afford', 'jews', 'deletion', 'concept', 'explain', 'step', 'war', 'basically', 'ancient', 'act', 'ii']
+['deletion', 'know', 'basically', 'afford', 'explain', 'ii', 'nazi', 'pretty', 'concept', 'belief', 'ancient', 'ass', 'certain', 'world', 'short']
+['know', 'deletion', 'step', 'explain', 'basically', 'ancient', 'round', 'belief', 'afford', 'concept', 'nazi', 'pretty', 'world', 'act', 'certain']
+['deletion', 'belief', 'know', 'basically', 'certain', 'explain', 'round', 'ancient', 'nazi', 'war', 'world', 'step', 'act', 'pretty', 'concept']
+['deletion', 'basically', 'know', 'afford', 'belief', 'step', 'pretty', 'concept', 'ancient', 'explain', 'nazi', 'prepare', 'jews', 'greek', 'certain']
+['ancient', 'know', 'basically', 'deletion', 'pretty', 'round', 'world', 'certain', 'nazi', 'war', 'explain', 'act', 'belief', 'ii', 'afford']
+['basically', 'know', 'deletion', 'ii', 'certain', 'afford', 'step', 'war', 'concept', 'belief', 'round', 'prepare', 'ancient', 'jews', 'bible']
+['deletion', 'nazi', 'know', 'explain', 'basically', 'afford', 'belief', 'step', 'pretty', 'concept', 'certain', 'ii', 'bible', 'ass', 'world']
+['afford', 'basically', 'deletion', 'explain', 'ii', 'nazi', 'know', 'world', 'belief', 'round', 'step', 'certain', 'pretty', 'concept', 'ass']
+['deletion', 'know', 'basically', 'explain', 'nazi', 'pretty', 'belief', 'jews', 'afford', 'ass', 'generally', 'bad', 'step', 'ancient', 'ii']
+['basically', 'deletion', 'afford', 'nazi', 'know', 'certain', 'belief', 'explain', 'pretty', 'ancient', 'step', 'bible', 'round', 'ii', 'war']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'belief', 'act', 'ii', 'step', 'basically', 'bible', 'explain', 'citizen', 'nazi', 'ancient']
+['basically', 'certain', 'concept', 'deletion', 'step', 'belief', 'afford', 'pretty', 'know', 'ii', 'die', 'generally', 'explain', 'nazi', 'bible']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'step', 'jews', 'afford', 'citizen', 'concept', 'ancient', 'die', 'bad', 'round']
+['basically', 'ancient', 'know', 'deletion', 'afford', 'certain', 'act', 'step', 'pretty', 'imprison', 'nazi', 'concept', 'belief', 'round', 'jews']
+['nazi', 'basically', 'ass', 'deletion', 'belief', 'know', 'pretty', 'step', 'explain', 'afford', 'round', 'certain', 'ancient', 'concept', 'world']
+['know', 'deletion', 'ancient', 'pretty', 'act', 'belief', 'certain', 'jews', 'afford', 'imprison', 'war', 'bad', 'ass', 'concept', 'ii']
+['afford', 'certain', 'know', 'act', 'belief', 'pretty', 'basically', 'ancient', 'prepare', 'step', 'round', 'explain', 'generally', 'nazi', 'concept']
+['know', 'afford', 'round', 'jews', 'belief', 'explain', 'pretty', 'nazi', 'concept', 'ancient', 'deletion', 'act', 'step', 'certain', 'ass']
+['basically', 'deletion', 'explain', 'afford', 'know', 'belief', 'concept', 'world', 'nazi', 'prepare', 'ii', 'step', 'imprison', 'round', 'short']
+['nazi', 'ii', 'know', 'basically', 'round', 'afford', 'world', 'belief', 'pretty', 'jews', 'imprison', 'step', 'certain', 'concept', 'deletion']
+['know', 'belief', 'deletion', 'afford', 'nazi', 'basically', 'pretty', 'ancient', 'ii', 'step', 'die', 'explain', 'jews', 'concept', 'bible']
+['know', 'pretty', 'basically', 'afford', 'explain', 'round', 'act', 'nazi', 'ii', 'step', 'short', 'certain', 'war', 'belief', 'generally']
+['know', 'step', 'ii', 'deletion', 'afford', 'pretty', 'basically', 'round', 'belief', 'explain', 'bad', 'act', 'war', 'certain', 'world']
+['know', 'belief', 'deletion', 'afford', 'step', 'ancient', 'certain', 'ass', 'basically', 'nazi', 'war', 'explain', 'jews', 'world', 'bible']
+['know', 'deletion', 'belief', 'afford', 'basically', 'round', 'explain', 'ii', 'ancient', 'nazi', 'pretty', 'bad', 'concept', 'world', 'step']
+['afford', 'pretty', 'know', 'basically', 'ancient', 'jews', 'belief', 'deletion', 'round', 'ii', 'act', 'concept', 'explain', 'step', 'short']
+['know', 'pretty', 'round', 'basically', 'ass', 'certain', 'bible', 'act', 'generally', 'ii', 'ancient', 'nazi', 'afford', 'deletion', 'concept']
+==============================
+topic diversity:0.029333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.29893677862978174, c_w2v:None, c_uci:-5.062805516874596, c_npmi:-0.16871519911788982
+mimno topic coherence:-335.3173760096768
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-188.1277466	Loss_G:188.1945190	loss_E:-0.0664670
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-184.3136597	Loss_G:184.3804321	loss_E:-0.0664596
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-186.9137268	Loss_G:186.9804688	loss_E:-0.0664621
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-189.4561615	Loss_G:189.5228577	loss_E:-0.0664509
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-185.2782135	Loss_G:185.3448792	loss_E:-0.0664837
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-189.2882080	Loss_G:189.3549347	loss_E:-0.0664643
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-188.1339874	Loss_G:188.2006531	loss_E:-0.0664844
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-189.7693481	Loss_G:189.8360596	loss_E:-0.0664449
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-189.8291168	Loss_G:189.8957825	loss_E:-0.0664492
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-188.9253693	Loss_G:188.9919739	loss_E:-0.0664260
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-187.3156128	Loss_G:187.3822937	loss_E:-0.0664601
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-189.9443970	Loss_G:190.0109863	loss_E:-0.0664595
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-188.8688354	Loss_G:188.9354553	loss_E:-0.0664411
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-190.2818298	Loss_G:190.3484497	loss_E:-0.0664693
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-186.6401978	Loss_G:186.7067566	loss_E:-0.0664705
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-191.7815552	Loss_G:191.8481750	loss_E:-0.0664323
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-191.4127655	Loss_G:191.4793701	loss_E:-0.0664446
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-187.2625885	Loss_G:187.3291931	loss_E:-0.0664534
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-186.7241821	Loss_G:186.7908020	loss_E:-0.0664613
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-187.5745544	Loss_G:187.6410828	loss_E:-0.0664433
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-188.4506378	Loss_G:188.5171509	loss_E:-0.0664562
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-184.9749603	Loss_G:185.0415039	loss_E:-0.0664534
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-188.9021606	Loss_G:188.9687195	loss_E:-0.0664733
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-188.1967010	Loss_G:188.2632446	loss_E:-0.0664561
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-187.6024323	Loss_G:187.6690063	loss_E:-0.0664828
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-187.3775024	Loss_G:187.4440308	loss_E:-0.0664781
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-184.4398956	Loss_G:184.5064392	loss_E:-0.0664597
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-184.9192352	Loss_G:184.9857178	loss_E:-0.0664125
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-187.5198975	Loss_G:187.5865021	loss_E:-0.0664414
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-186.6158295	Loss_G:186.6823578	loss_E:-0.0664566
+Epoch  60	Loss_D_avg:-170.0631397	Loss_G_avg:170.4408966	loss_E_avg:-0.0610771
+['know', 'act', 'basically', 'step', 'afford', 'jews', 'belief', 'ii', 'explain', 'short', 'ancient', 'concept', 'round', 'imprison', 'nazi']
+['know', 'basically', 'ii', 'afford', 'deletion', 'belief', 'jews', 'war', 'pretty', 'ancient', 'round', 'step', 'nazi', 'concept', 'imprison']
+['know', 'deletion', 'afford', 'ii', 'nazi', 'ancient', 'belief', 'step', 'die', 'basically', 'act', 'certain', 'round', 'pretty', 'explain']
+['know', 'deletion', 'pretty', 'nazi', 'ii', 'afford', 'ass', 'step', 'basically', 'act', 'round', 'ancient', 'explain', 'create', 'jews']
+['know', 'pretty', 'basically', 'afford', 'nazi', 'belief', 'deletion', 'concept', 'certain', 'step', 'ii', 'explain', 'bible', 'ancient', 'act']
+['know', 'step', 'basically', 'afford', 'concept', 'deletion', 'explain', 'imprison', 'ii', 'jews', 'round', 'nazi', 'greek', 'act', 'pretty']
+['deletion', 'know', 'concept', 'basically', 'ii', 'belief', 'explain', 'round', 'step', 'world', 'certain', 'pretty', 'jews', 'imprison', 'citizen']
+['know', 'deletion', 'ancient', 'afford', 'basically', 'step', 'ii', 'belief', 'ass', 'nazi', 'die', 'explain', 'war', 'jews', 'pretty']
+['belief', 'deletion', 'know', 'step', 'afford', 'basically', 'world', 'imprison', 'nazi', 'round', 'explain', 'bible', 'certain', 'concept', 'ancient']
+['act', 'afford', 'know', 'belief', 'certain', 'deletion', 'war', 'round', 'ass', 'pretty', 'step', 'basically', 'bible', 'concept', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'concept', 'explain', 'nazi', 'belief', 'bad', 'war', 'ancient', 'step', 'world', 'imprison', 'round']
+['know', 'ii', 'deletion', 'round', 'jews', 'nazi', 'certain', 'step', 'afford', 'act', 'belief', 'pretty', 'concept', 'basically', 'ancient']
+['ancient', 'explain', 'know', 'pretty', 'concept', 'belief', 'ii', 'jews', 'afford', 'basically', 'round', 'nazi', 'create', 'step', 'deletion']
+['certain', 'basically', 'belief', 'afford', 'ii', 'ancient', 'know', 'round', 'bible', 'nazi', 'act', 'deletion', 'step', 'concept', 'world']
+['basically', 'know', 'afford', 'step', 'pretty', 'explain', 'belief', 'act', 'ii', 'concept', 'certain', 'round', 'nazi', 'deletion', 'bad']
+['explain', 'afford', 'basically', 'belief', 'nazi', 'certain', 'ancient', 'round', 'step', 'know', 'pretty', 'deletion', 'imprison', 'concept', 'ass']
+['know', 'explain', 'belief', 'concept', 'deletion', 'step', 'ancient', 'ii', 'basically', 'jews', 'bad', 'create', 'generally', 'round', 'nazi']
+['know', 'concept', 'deletion', 'ancient', 'step', 'basically', 'afford', 'pretty', 'ii', 'bible', 'war', 'ass', 'explain', 'jews', 'imprison']
+['belief', 'act', 'afford', 'certain', 'explain', 'ii', 'jews', 'know', 'imprison', 'world', 'basically', 'base', 'ancient', 'round', 'concept']
+['basically', 'know', 'deletion', 'certain', 'ancient', 'step', 'belief', 'concept', 'pretty', 'nazi', 'different', 'afford', 'prepare', 'explain', 'bible']
+['explain', 'ii', 'know', 'deletion', 'basically', 'certain', 'belief', 'nazi', 'imprison', 'bible', 'world', 'war', 'pretty', 'ancient', 'greek']
+['know', 'basically', 'afford', 'explain', 'round', 'step', 'deletion', 'act', 'pretty', 'jews', 'imprison', 'belief', 'certain', 'bad', 'nazi']
+['round', 'certain', 'afford', 'act', 'basically', 'pretty', 'ii', 'know', 'belief', 'world', 'deletion', 'bible', 'war', 'nazi', 'ancient']
+['know', 'deletion', 'belief', 'world', 'explain', 'certain', 'basically', 'ancient', 'war', 'afford', 'round', 'act', 'ii', 'step', 'nazi']
+['belief', 'nazi', 'ancient', 'basically', 'deletion', 'know', 'pretty', 'afford', 'war', 'jews', 'certain', 'step', 'concept', 'ass', 'die']
+['know', 'basically', 'deletion', 'belief', 'ass', 'step', 'ancient', 'nazi', 'explain', 'certain', 'round', 'act', 'afford', 'pretty', 'concept']
+['know', 'nazi', 'pretty', 'ass', 'step', 'basically', 'round', 'afford', 'belief', 'ii', 'ancient', 'generally', 'explain', 'act', 'bible']
+['afford', 'belief', 'deletion', 'nazi', 'know', 'explain', 'round', 'pretty', 'ancient', 'world', 'basically', 'bible', 'act', 'ii', 'war']
+['basically', 'belief', 'know', 'ancient', 'pretty', 'nazi', 'certain', 'deletion', 'act', 'afford', 'step', 'concept', 'bible', 'jews', 'ii']
+['certain', 'pretty', 'basically', 'know', 'imprison', 'ii', 'afford', 'explain', 'belief', 'concept', 'ancient', 'act', 'deletion', 'war', 'nazi']
+['know', 'basically', 'act', 'afford', 'pretty', 'ass', 'deletion', 'concept', 'step', 'jews', 'nazi', 'world', 'die', 'round', 'bible']
+['explain', 'deletion', 'basically', 'know', 'afford', 'concept', 'belief', 'certain', 'round', 'nazi', 'ii', 'world', 'step', 'jews', 'war']
+['basically', 'know', 'belief', 'pretty', 'explain', 'nazi', 'act', 'world', 'afford', 'prepare', 'certain', 'deletion', 'ii', 'greek', 'ancient']
+['know', 'explain', 'basically', 'ii', 'pretty', 'nazi', 'concept', 'deletion', 'belief', 'ancient', 'certain', 'act', 'step', 'round', 'afford']
+['deletion', 'step', 'ii', 'know', 'afford', 'explain', 'belief', 'pretty', 'certain', 'basically', 'war', 'create', 'nazi', 'bible', 'round']
+['know', 'deletion', 'belief', 'afford', 'step', 'act', 'basically', 'ii', 'concept', 'generally', 'nazi', 'war', 'bad', 'die', 'pretty']
+['know', 'explain', 'round', 'world', 'act', 'basically', 'pretty', 'belief', 'ancient', 'deletion', 'becauseof', 'afford', 'man', 'nazi', 'imprison']
+['know', 'pretty', 'ii', 'imprison', 'afford', 'concept', 'explain', 'basically', 'belief', 'certain', 'act', 'step', 'bad', 'jews', 'nazi']
+['know', 'act', 'ancient', 'basically', 'jews', 'bible', 'round', 'afford', 'deletion', 'belief', 'pretty', 'ass', 'concept', 'ii', 'nazi']
+['explain', 'nazi', 'basically', 'know', 'ii', 'deletion', 'belief', 'ancient', 'concept', 'step', 'certain', 'pretty', 'jews', 'afford', 'round']
+['know', 'basically', 'concept', 'deletion', 'belief', 'explain', 'step', 'certain', 'jews', 'afford', 'act', 'world', 'imprison', 'nazi', 'ii']
+['afford', 'pretty', 'know', 'basically', 'explain', 'world', 'deletion', 'act', 'certain', 'belief', 'round', 'nazi', 'imprison', 'short', 'ass']
+['know', 'afford', 'explain', 'belief', 'basically', 'act', 'jews', 'certain', 'deletion', 'nazi', 'ii', 'imprison', 'prepare', 'war', 'step']
+['basically', 'know', 'explain', 'deletion', 'jews', 'concept', 'ii', 'round', 'afford', 'step', 'short', 'ancient', 'nazi', 'belief', 'prepare']
+['basically', 'know', 'act', 'concept', 'pretty', 'explain', 'certain', 'belief', 'step', 'imprison', 'nazi', 'generally', 'bible', 'afford', 'round']
+['know', 'deletion', 'war', 'explain', 'belief', 'ancient', 'afford', 'basically', 'world', 'step', 'pretty', 'imprison', 'act', 'ass', 'nazi']
+['basically', 'concept', 'deletion', 'belief', 'explain', 'round', 'step', 'afford', 'nazi', 'ii', 'know', 'certain', 'ancient', 'pretty', 'jews']
+['belief', 'know', 'round', 'certain', 'jews', 'afford', 'deletion', 'concept', 'explain', 'step', 'war', 'basically', 'act', 'ancient', 'imprison']
+['deletion', 'know', 'basically', 'afford', 'explain', 'ii', 'nazi', 'pretty', 'concept', 'belief', 'ancient', 'ass', 'certain', 'world', 'short']
+['know', 'deletion', 'step', 'explain', 'basically', 'round', 'ancient', 'belief', 'afford', 'concept', 'nazi', 'pretty', 'world', 'act', 'certain']
+['deletion', 'belief', 'know', 'basically', 'certain', 'explain', 'round', 'nazi', 'ancient', 'world', 'war', 'step', 'act', 'pretty', 'concept']
+['deletion', 'basically', 'know', 'afford', 'belief', 'step', 'pretty', 'concept', 'explain', 'ancient', 'nazi', 'prepare', 'jews', 'greek', 'certain']
+['know', 'ancient', 'deletion', 'basically', 'pretty', 'round', 'world', 'certain', 'nazi', 'war', 'explain', 'act', 'belief', 'ii', 'jews']
+['basically', 'know', 'deletion', 'ii', 'certain', 'afford', 'step', 'war', 'concept', 'belief', 'round', 'prepare', 'jews', 'ancient', 'bible']
+['deletion', 'nazi', 'know', 'explain', 'basically', 'afford', 'belief', 'pretty', 'step', 'concept', 'certain', 'ii', 'bible', 'ass', 'world']
+['basically', 'afford', 'deletion', 'explain', 'ii', 'nazi', 'know', 'world', 'round', 'belief', 'certain', 'pretty', 'step', 'concept', 'ass']
+['deletion', 'know', 'basically', 'explain', 'nazi', 'pretty', 'belief', 'jews', 'afford', 'generally', 'ass', 'bad', 'step', 'ancient', 'ii']
+['basically', 'deletion', 'afford', 'nazi', 'know', 'certain', 'belief', 'explain', 'pretty', 'ancient', 'step', 'bible', 'round', 'war', 'ii']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'belief', 'act', 'ii', 'step', 'basically', 'bible', 'explain', 'nazi', 'certain', 'citizen']
+['basically', 'certain', 'concept', 'deletion', 'step', 'belief', 'afford', 'pretty', 'know', 'ii', 'generally', 'die', 'explain', 'nazi', 'act']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'step', 'jews', 'citizen', 'afford', 'concept', 'round', 'ancient', 'bad', 'generally']
+['basically', 'know', 'ancient', 'deletion', 'afford', 'certain', 'act', 'pretty', 'step', 'imprison', 'nazi', 'concept', 'belief', 'round', 'jews']
+['nazi', 'basically', 'ass', 'deletion', 'belief', 'know', 'pretty', 'step', 'explain', 'afford', 'round', 'certain', 'world', 'ancient', 'concept']
+['know', 'deletion', 'ancient', 'pretty', 'act', 'belief', 'certain', 'jews', 'imprison', 'afford', 'war', 'bad', 'ass', 'concept', 'ii']
+['afford', 'certain', 'act', 'know', 'pretty', 'belief', 'basically', 'ancient', 'prepare', 'round', 'step', 'explain', 'generally', 'nazi', 'concept']
+['know', 'afford', 'round', 'jews', 'pretty', 'explain', 'belief', 'nazi', 'concept', 'ancient', 'deletion', 'act', 'step', 'certain', 'ass']
+['basically', 'deletion', 'explain', 'afford', 'know', 'belief', 'concept', 'world', 'nazi', 'prepare', 'ii', 'step', 'imprison', 'round', 'short']
+['nazi', 'ii', 'know', 'basically', 'round', 'world', 'pretty', 'afford', 'belief', 'imprison', 'jews', 'certain', 'step', 'deletion', 'concept']
+['know', 'belief', 'deletion', 'afford', 'nazi', 'basically', 'pretty', 'ancient', 'ii', 'step', 'jews', 'explain', 'die', 'concept', 'bible']
+['know', 'pretty', 'basically', 'afford', 'explain', 'round', 'act', 'nazi', 'ii', 'step', 'short', 'certain', 'war', 'belief', 'generally']
+['know', 'step', 'ii', 'deletion', 'afford', 'pretty', 'basically', 'round', 'belief', 'explain', 'bad', 'act', 'war', 'certain', 'world']
+['know', 'belief', 'deletion', 'afford', 'step', 'ancient', 'certain', 'basically', 'ass', 'nazi', 'war', 'jews', 'explain', 'world', 'pretty']
+['know', 'deletion', 'belief', 'afford', 'basically', 'round', 'explain', 'ii', 'ancient', 'nazi', 'pretty', 'bad', 'world', 'concept', 'step']
+['afford', 'pretty', 'know', 'basically', 'ancient', 'jews', 'belief', 'round', 'deletion', 'ii', 'act', 'explain', 'concept', 'step', 'short']
+['know', 'pretty', 'round', 'basically', 'certain', 'ass', 'bible', 'act', 'generally', 'ii', 'ancient', 'nazi', 'afford', 'deletion', 'concept']
+==============================
+topic diversity:0.029333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2970413477855629, c_w2v:None, c_uci:-5.0598695669144105, c_npmi:-0.16862144092836356
+mimno topic coherence:-337.0203399801217
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-190.7958527	Loss_G:190.8624878	loss_E:-0.0664773
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-189.1016388	Loss_G:189.1681213	loss_E:-0.0664452
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-184.6388550	Loss_G:184.7053375	loss_E:-0.0664313
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-186.5879211	Loss_G:186.6543732	loss_E:-0.0663962
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-183.9891968	Loss_G:184.0556641	loss_E:-0.0664414
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-186.7017212	Loss_G:186.7682495	loss_E:-0.0664453
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-187.9730682	Loss_G:188.0395813	loss_E:-0.0664360
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-190.4306335	Loss_G:190.4971924	loss_E:-0.0664587
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-186.4189606	Loss_G:186.4854431	loss_E:-0.0664278
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-190.1205597	Loss_G:190.1870728	loss_E:-0.0664518
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-183.0859833	Loss_G:183.1524811	loss_E:-0.0664579
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-189.2728424	Loss_G:189.3393250	loss_E:-0.0664579
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-187.0413971	Loss_G:187.1078491	loss_E:-0.0664239
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-189.8949432	Loss_G:189.9614258	loss_E:-0.0664249
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-191.5607300	Loss_G:191.6272736	loss_E:-0.0664668
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-184.6407166	Loss_G:184.7071533	loss_E:-0.0664202
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-189.1886749	Loss_G:189.2551422	loss_E:-0.0664395
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-188.1152344	Loss_G:188.1817017	loss_E:-0.0664121
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-189.6692505	Loss_G:189.7357330	loss_E:-0.0664392
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-189.8670349	Loss_G:189.9335327	loss_E:-0.0664601
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-189.6128387	Loss_G:189.6792908	loss_E:-0.0664268
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-185.9685974	Loss_G:186.0350952	loss_E:-0.0664653
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-189.6696930	Loss_G:189.7362061	loss_E:-0.0664522
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-184.4717255	Loss_G:184.5381927	loss_E:-0.0664518
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-188.1724243	Loss_G:188.2388611	loss_E:-0.0664034
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-189.4438782	Loss_G:189.5103455	loss_E:-0.0664652
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-187.1556396	Loss_G:187.2220612	loss_E:-0.0664222
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-186.2511597	Loss_G:186.3176422	loss_E:-0.0664614
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-185.6584320	Loss_G:185.7248840	loss_E:-0.0664475
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-187.4664001	Loss_G:187.5328369	loss_E:-0.0664438
+Epoch  70	Loss_D_avg:-172.5920531	Loss_G_avg:172.9253426	loss_E_avg:-0.0618434
+['know', 'act', 'basically', 'step', 'afford', 'jews', 'belief', 'ii', 'explain', 'short', 'ancient', 'concept', 'round', 'imprison', 'nazi']
+['know', 'basically', 'ii', 'deletion', 'afford', 'belief', 'jews', 'war', 'pretty', 'round', 'ancient', 'step', 'nazi', 'concept', 'imprison']
+['know', 'deletion', 'afford', 'ii', 'nazi', 'ancient', 'belief', 'step', 'die', 'basically', 'act', 'certain', 'pretty', 'round', 'explain']
+['know', 'deletion', 'pretty', 'nazi', 'ii', 'afford', 'ass', 'basically', 'step', 'act', 'round', 'ancient', 'explain', 'jews', 'create']
+['know', 'pretty', 'basically', 'afford', 'nazi', 'belief', 'deletion', 'concept', 'certain', 'step', 'ii', 'explain', 'bible', 'ancient', 'act']
+['know', 'step', 'basically', 'afford', 'concept', 'deletion', 'imprison', 'explain', 'ii', 'jews', 'round', 'nazi', 'greek', 'act', 'pretty']
+['deletion', 'know', 'concept', 'basically', 'ii', 'belief', 'explain', 'round', 'world', 'step', 'certain', 'pretty', 'imprison', 'jews', 'citizen']
+['know', 'deletion', 'ancient', 'afford', 'basically', 'step', 'ii', 'belief', 'ass', 'nazi', 'explain', 'war', 'die', 'jews', 'pretty']
+['belief', 'deletion', 'know', 'step', 'afford', 'basically', 'world', 'imprison', 'nazi', 'round', 'explain', 'bible', 'certain', 'concept', 'war']
+['act', 'afford', 'know', 'belief', 'certain', 'deletion', 'war', 'round', 'pretty', 'ass', 'step', 'basically', 'bible', 'concept', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'concept', 'explain', 'nazi', 'belief', 'bad', 'war', 'ancient', 'step', 'world', 'imprison', 'round']
+['know', 'ii', 'deletion', 'round', 'jews', 'certain', 'nazi', 'step', 'act', 'afford', 'belief', 'pretty', 'concept', 'basically', 'ancient']
+['ancient', 'explain', 'pretty', 'know', 'concept', 'belief', 'ii', 'jews', 'afford', 'basically', 'round', 'nazi', 'step', 'create', 'deletion']
+['certain', 'basically', 'belief', 'afford', 'ii', 'ancient', 'know', 'round', 'bible', 'nazi', 'act', 'deletion', 'step', 'concept', 'world']
+['basically', 'know', 'afford', 'step', 'pretty', 'explain', 'belief', 'act', 'ii', 'certain', 'concept', 'round', 'nazi', 'deletion', 'bad']
+['explain', 'afford', 'basically', 'belief', 'nazi', 'certain', 'ancient', 'round', 'step', 'know', 'pretty', 'imprison', 'deletion', 'concept', 'ass']
+['know', 'explain', 'belief', 'concept', 'deletion', 'step', 'ancient', 'ii', 'basically', 'jews', 'bad', 'create', 'generally', 'round', 'nazi']
+['know', 'concept', 'deletion', 'ancient', 'step', 'basically', 'pretty', 'afford', 'ii', 'bible', 'war', 'ass', 'explain', 'imprison', 'jews']
+['belief', 'act', 'afford', 'certain', 'explain', 'ii', 'jews', 'know', 'imprison', 'world', 'basically', 'base', 'ancient', 'round', 'concept']
+['basically', 'know', 'deletion', 'certain', 'step', 'ancient', 'belief', 'concept', 'pretty', 'nazi', 'different', 'afford', 'prepare', 'explain', 'bible']
+['explain', 'ii', 'know', 'deletion', 'certain', 'basically', 'belief', 'nazi', 'imprison', 'world', 'pretty', 'bible', 'war', 'ancient', 'greek']
+['know', 'basically', 'afford', 'explain', 'round', 'step', 'act', 'deletion', 'pretty', 'jews', 'imprison', 'belief', 'certain', 'bad', 'nazi']
+['round', 'certain', 'afford', 'act', 'basically', 'pretty', 'know', 'ii', 'belief', 'world', 'deletion', 'bible', 'war', 'nazi', 'ancient']
+['know', 'deletion', 'belief', 'world', 'explain', 'certain', 'basically', 'ancient', 'war', 'afford', 'round', 'act', 'ii', 'step', 'nazi']
+['belief', 'nazi', 'basically', 'ancient', 'deletion', 'know', 'pretty', 'afford', 'war', 'jews', 'certain', 'step', 'concept', 'ass', 'imprison']
+['know', 'basically', 'deletion', 'belief', 'ass', 'step', 'nazi', 'ancient', 'explain', 'certain', 'round', 'act', 'afford', 'pretty', 'concept']
+['know', 'nazi', 'pretty', 'step', 'ass', 'basically', 'round', 'afford', 'belief', 'ii', 'ancient', 'generally', 'act', 'explain', 'bible']
+['afford', 'belief', 'deletion', 'nazi', 'know', 'explain', 'round', 'pretty', 'world', 'ancient', 'basically', 'bible', 'act', 'ii', 'war']
+['basically', 'belief', 'know', 'ancient', 'pretty', 'nazi', 'certain', 'deletion', 'act', 'afford', 'step', 'concept', 'bible', 'jews', 'ii']
+['certain', 'pretty', 'basically', 'know', 'imprison', 'ii', 'afford', 'explain', 'belief', 'concept', 'ancient', 'act', 'deletion', 'war', 'nazi']
+['know', 'act', 'basically', 'afford', 'pretty', 'ass', 'deletion', 'concept', 'step', 'jews', 'nazi', 'world', 'round', 'bible', 'ii']
+['explain', 'deletion', 'basically', 'know', 'afford', 'concept', 'certain', 'belief', 'round', 'nazi', 'ii', 'world', 'step', 'jews', 'war']
+['basically', 'know', 'pretty', 'belief', 'explain', 'nazi', 'act', 'world', 'afford', 'prepare', 'certain', 'deletion', 'ii', 'greek', 'ancient']
+['know', 'explain', 'basically', 'pretty', 'ii', 'nazi', 'concept', 'deletion', 'belief', 'ancient', 'certain', 'act', 'step', 'round', 'afford']
+['deletion', 'step', 'ii', 'know', 'afford', 'explain', 'belief', 'pretty', 'certain', 'basically', 'war', 'create', 'nazi', 'bible', 'round']
+['know', 'deletion', 'belief', 'afford', 'step', 'act', 'basically', 'ii', 'concept', 'generally', 'nazi', 'war', 'bad', 'pretty', 'world']
+['know', 'round', 'explain', 'world', 'act', 'basically', 'pretty', 'belief', 'ancient', 'deletion', 'becauseof', 'imprison', 'man', 'nazi', 'afford']
+['know', 'pretty', 'ii', 'imprison', 'afford', 'concept', 'explain', 'basically', 'belief', 'certain', 'act', 'step', 'bad', 'jews', 'nazi']
+['know', 'act', 'ancient', 'basically', 'jews', 'round', 'bible', 'afford', 'deletion', 'belief', 'pretty', 'ass', 'concept', 'nazi', 'ii']
+['explain', 'nazi', 'basically', 'know', 'ii', 'deletion', 'belief', 'ancient', 'concept', 'step', 'certain', 'pretty', 'jews', 'afford', 'world']
+['know', 'basically', 'concept', 'deletion', 'explain', 'belief', 'step', 'certain', 'jews', 'afford', 'act', 'world', 'imprison', 'nazi', 'ii']
+['afford', 'pretty', 'know', 'basically', 'explain', 'world', 'act', 'deletion', 'certain', 'belief', 'imprison', 'round', 'nazi', 'short', 'ass']
+['know', 'afford', 'explain', 'belief', 'basically', 'act', 'jews', 'certain', 'deletion', 'nazi', 'ii', 'imprison', 'prepare', 'war', 'step']
+['basically', 'know', 'explain', 'jews', 'deletion', 'concept', 'ii', 'round', 'afford', 'short', 'step', 'ancient', 'nazi', 'belief', 'prepare']
+['basically', 'know', 'act', 'concept', 'pretty', 'explain', 'certain', 'belief', 'step', 'imprison', 'nazi', 'generally', 'bible', 'round', 'afford']
+['know', 'deletion', 'war', 'explain', 'belief', 'ancient', 'afford', 'basically', 'world', 'step', 'imprison', 'pretty', 'act', 'ass', 'nazi']
+['basically', 'concept', 'deletion', 'belief', 'explain', 'round', 'step', 'nazi', 'afford', 'know', 'ii', 'certain', 'ancient', 'pretty', 'jews']
+['know', 'belief', 'certain', 'round', 'jews', 'deletion', 'afford', 'explain', 'concept', 'step', 'war', 'basically', 'act', 'imprison', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'explain', 'nazi', 'ii', 'pretty', 'concept', 'belief', 'ancient', 'ass', 'certain', 'world', 'short']
+['know', 'deletion', 'step', 'explain', 'round', 'basically', 'ancient', 'belief', 'afford', 'concept', 'pretty', 'world', 'nazi', 'certain', 'act']
+['deletion', 'belief', 'know', 'basically', 'certain', 'explain', 'round', 'nazi', 'ancient', 'world', 'war', 'step', 'act', 'pretty', 'concept']
+['deletion', 'basically', 'know', 'afford', 'belief', 'step', 'pretty', 'concept', 'explain', 'ancient', 'nazi', 'jews', 'prepare', 'greek', 'certain']
+['know', 'ancient', 'deletion', 'basically', 'pretty', 'round', 'world', 'certain', 'nazi', 'war', 'explain', 'act', 'belief', 'jews', 'ii']
+['basically', 'know', 'deletion', 'ii', 'certain', 'afford', 'step', 'war', 'concept', 'belief', 'round', 'prepare', 'jews', 'ancient', 'bible']
+['deletion', 'nazi', 'know', 'explain', 'basically', 'afford', 'belief', 'pretty', 'step', 'concept', 'certain', 'world', 'ii', 'bible', 'ass']
+['basically', 'afford', 'deletion', 'explain', 'ii', 'nazi', 'know', 'world', 'round', 'belief', 'certain', 'pretty', 'step', 'concept', 'ass']
+['deletion', 'know', 'basically', 'explain', 'pretty', 'nazi', 'belief', 'jews', 'generally', 'afford', 'ass', 'bad', 'step', 'ancient', 'ii']
+['basically', 'deletion', 'afford', 'nazi', 'know', 'certain', 'belief', 'pretty', 'explain', 'ancient', 'step', 'bible', 'round', 'war', 'act']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'belief', 'act', 'ii', 'step', 'basically', 'bible', 'explain', 'certain', 'nazi', 'citizen']
+['basically', 'certain', 'concept', 'deletion', 'step', 'belief', 'afford', 'pretty', 'know', 'ii', 'generally', 'explain', 'die', 'nazi', 'world']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'step', 'jews', 'citizen', 'afford', 'concept', 'round', 'bad', 'ancient', 'pretty']
+['basically', 'know', 'ancient', 'deletion', 'certain', 'afford', 'act', 'pretty', 'step', 'imprison', 'nazi', 'concept', 'belief', 'round', 'jews']
+['nazi', 'basically', 'ass', 'deletion', 'belief', 'pretty', 'know', 'step', 'explain', 'afford', 'certain', 'round', 'world', 'ancient', 'concept']
+['know', 'deletion', 'pretty', 'ancient', 'act', 'belief', 'certain', 'imprison', 'jews', 'afford', 'war', 'bad', 'ass', 'concept', 'man']
+['afford', 'certain', 'act', 'pretty', 'know', 'basically', 'belief', 'ancient', 'prepare', 'round', 'step', 'explain', 'generally', 'nazi', 'concept']
+['know', 'afford', 'round', 'jews', 'pretty', 'explain', 'belief', 'nazi', 'concept', 'deletion', 'ancient', 'act', 'step', 'certain', 'ass']
+['basically', 'deletion', 'explain', 'afford', 'know', 'belief', 'concept', 'world', 'nazi', 'prepare', 'imprison', 'step', 'ii', 'round', 'short']
+['nazi', 'ii', 'know', 'basically', 'round', 'world', 'pretty', 'imprison', 'afford', 'belief', 'jews', 'certain', 'step', 'deletion', 'concept']
+['know', 'belief', 'deletion', 'afford', 'nazi', 'basically', 'pretty', 'ancient', 'ii', 'step', 'jews', 'explain', 'concept', 'bible', 'certain']
+['know', 'pretty', 'basically', 'afford', 'explain', 'round', 'act', 'nazi', 'ii', 'step', 'short', 'certain', 'war', 'generally', 'belief']
+['know', 'step', 'ii', 'deletion', 'afford', 'pretty', 'basically', 'round', 'belief', 'explain', 'act', 'bad', 'certain', 'war', 'world']
+['know', 'belief', 'deletion', 'afford', 'step', 'certain', 'ancient', 'basically', 'ass', 'nazi', 'war', 'jews', 'explain', 'world', 'pretty']
+['know', 'deletion', 'belief', 'afford', 'round', 'basically', 'explain', 'ii', 'ancient', 'nazi', 'pretty', 'bad', 'world', 'concept', 'step']
+['pretty', 'afford', 'know', 'basically', 'ancient', 'jews', 'belief', 'round', 'deletion', 'act', 'ii', 'explain', 'concept', 'step', 'short']
+['know', 'pretty', 'round', 'basically', 'certain', 'ass', 'bible', 'act', 'generally', 'ii', 'ancient', 'nazi', 'afford', 'deletion', 'world']
+==============================
+topic diversity:0.029333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.29819424738683853, c_w2v:None, c_uci:-5.034611809852723, c_npmi:-0.16750003364973873
+mimno topic coherence:-320.1874103129837
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-191.2520599	Loss_G:191.3185120	loss_E:-0.0664443
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-186.5624237	Loss_G:186.6289673	loss_E:-0.0664537
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-189.5005341	Loss_G:189.5670471	loss_E:-0.0664681
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-183.4549713	Loss_G:183.5214386	loss_E:-0.0664516
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-186.6755829	Loss_G:186.7420349	loss_E:-0.0664251
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-185.4609528	Loss_G:185.5273743	loss_E:-0.0664279
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-183.1443481	Loss_G:183.2108307	loss_E:-0.0664634
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-190.6871796	Loss_G:190.7535858	loss_E:-0.0664024
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-188.2575684	Loss_G:188.3240204	loss_E:-0.0664372
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-192.2974548	Loss_G:192.3639221	loss_E:-0.0664445
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-186.7887421	Loss_G:186.8551483	loss_E:-0.0664118
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-188.7662659	Loss_G:188.8327026	loss_E:-0.0664293
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-187.6644897	Loss_G:187.7309265	loss_E:-0.0664439
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-189.0203552	Loss_G:189.0867920	loss_E:-0.0664389
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-191.6477966	Loss_G:191.7142334	loss_E:-0.0664310
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-186.1389771	Loss_G:186.2054138	loss_E:-0.0664350
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-188.7098389	Loss_G:188.7762604	loss_E:-0.0664219
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-187.6927185	Loss_G:187.7591705	loss_E:-0.0664399
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-192.8059692	Loss_G:192.8724976	loss_E:-0.0664353
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-189.8680725	Loss_G:189.9345245	loss_E:-0.0664441
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-185.7153168	Loss_G:185.7817841	loss_E:-0.0664483
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-189.8114929	Loss_G:189.8779907	loss_E:-0.0664756
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-193.2016296	Loss_G:193.2680359	loss_E:-0.0664073
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-185.5459137	Loss_G:185.6123505	loss_E:-0.0664270
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-187.8623657	Loss_G:187.9287567	loss_E:-0.0663882
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-187.5798492	Loss_G:187.6463013	loss_E:-0.0664229
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-184.6136322	Loss_G:184.6800537	loss_E:-0.0664121
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-187.4103699	Loss_G:187.4768066	loss_E:-0.0664324
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-186.3369293	Loss_G:186.4033356	loss_E:-0.0664097
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-187.6928711	Loss_G:187.7592926	loss_E:-0.0664231
+Epoch  80	Loss_D_avg:-174.5270743	Loss_G_avg:174.8270085	loss_E_avg:-0.0624172
+['know', 'act', 'basically', 'step', 'afford', 'jews', 'belief', 'ii', 'explain', 'short', 'ancient', 'concept', 'round', 'imprison', 'nazi']
+['know', 'basically', 'ii', 'deletion', 'afford', 'belief', 'jews', 'war', 'pretty', 'round', 'ancient', 'step', 'nazi', 'concept', 'imprison']
+['know', 'deletion', 'afford', 'ii', 'nazi', 'ancient', 'belief', 'step', 'basically', 'die', 'act', 'certain', 'pretty', 'round', 'explain']
+['know', 'deletion', 'pretty', 'nazi', 'ii', 'afford', 'ass', 'basically', 'step', 'act', 'round', 'ancient', 'explain', 'jews', 'generally']
+['know', 'pretty', 'basically', 'afford', 'nazi', 'belief', 'deletion', 'concept', 'certain', 'step', 'ii', 'explain', 'bible', 'ancient', 'act']
+['know', 'step', 'basically', 'afford', 'concept', 'imprison', 'deletion', 'explain', 'ii', 'jews', 'round', 'nazi', 'greek', 'act', 'pretty']
+['deletion', 'know', 'concept', 'basically', 'ii', 'belief', 'explain', 'world', 'round', 'step', 'certain', 'pretty', 'imprison', 'jews', 'citizen']
+['know', 'deletion', 'ancient', 'afford', 'basically', 'step', 'ii', 'belief', 'ass', 'nazi', 'explain', 'war', 'jews', 'die', 'pretty']
+['belief', 'deletion', 'know', 'step', 'afford', 'basically', 'world', 'imprison', 'nazi', 'round', 'explain', 'bible', 'certain', 'concept', 'war']
+['act', 'afford', 'know', 'belief', 'certain', 'deletion', 'war', 'round', 'pretty', 'ass', 'step', 'basically', 'bible', 'concept', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'concept', 'explain', 'nazi', 'belief', 'bad', 'war', 'ancient', 'step', 'world', 'imprison', 'round']
+['know', 'ii', 'deletion', 'round', 'jews', 'certain', 'nazi', 'step', 'act', 'afford', 'belief', 'pretty', 'concept', 'basically', 'imprison']
+['ancient', 'explain', 'pretty', 'know', 'concept', 'belief', 'ii', 'jews', 'afford', 'basically', 'round', 'nazi', 'step', 'create', 'world']
+['certain', 'basically', 'belief', 'afford', 'ii', 'ancient', 'know', 'round', 'bible', 'nazi', 'act', 'deletion', 'step', 'concept', 'world']
+['basically', 'know', 'afford', 'step', 'pretty', 'explain', 'belief', 'act', 'ii', 'certain', 'round', 'concept', 'nazi', 'deletion', 'bad']
+['explain', 'afford', 'basically', 'belief', 'nazi', 'certain', 'ancient', 'round', 'step', 'know', 'pretty', 'imprison', 'deletion', 'concept', 'war']
+['know', 'explain', 'belief', 'concept', 'deletion', 'step', 'ancient', 'ii', 'basically', 'jews', 'bad', 'create', 'generally', 'round', 'nazi']
+['know', 'concept', 'deletion', 'ancient', 'step', 'basically', 'pretty', 'afford', 'ii', 'bible', 'war', 'ass', 'explain', 'imprison', 'jews']
+['belief', 'act', 'afford', 'certain', 'explain', 'ii', 'jews', 'know', 'imprison', 'world', 'basically', 'base', 'ancient', 'round', 'concept']
+['basically', 'know', 'deletion', 'certain', 'step', 'ancient', 'belief', 'concept', 'pretty', 'nazi', 'different', 'afford', 'prepare', 'explain', 'bible']
+['explain', 'ii', 'know', 'deletion', 'certain', 'basically', 'belief', 'nazi', 'imprison', 'world', 'pretty', 'bible', 'war', 'greek', 'act']
+['know', 'basically', 'afford', 'explain', 'round', 'step', 'act', 'deletion', 'pretty', 'imprison', 'jews', 'belief', 'certain', 'bad', 'nazi']
+['certain', 'round', 'afford', 'act', 'basically', 'pretty', 'know', 'ii', 'belief', 'world', 'deletion', 'bible', 'war', 'nazi', 'ancient']
+['know', 'deletion', 'belief', 'world', 'explain', 'certain', 'basically', 'war', 'ancient', 'afford', 'round', 'act', 'ii', 'step', 'nazi']
+['belief', 'nazi', 'basically', 'ancient', 'deletion', 'pretty', 'know', 'afford', 'war', 'jews', 'certain', 'step', 'concept', 'ass', 'imprison']
+['know', 'basically', 'deletion', 'belief', 'ass', 'step', 'nazi', 'ancient', 'explain', 'certain', 'round', 'act', 'afford', 'pretty', 'concept']
+['know', 'nazi', 'pretty', 'step', 'ass', 'basically', 'round', 'afford', 'belief', 'ii', 'ancient', 'generally', 'act', 'explain', 'bible']
+['afford', 'belief', 'deletion', 'nazi', 'know', 'explain', 'pretty', 'round', 'world', 'ancient', 'basically', 'act', 'bible', 'ii', 'war']
+['basically', 'belief', 'know', 'ancient', 'pretty', 'nazi', 'certain', 'deletion', 'act', 'afford', 'step', 'concept', 'jews', 'bible', 'ii']
+['certain', 'pretty', 'basically', 'know', 'imprison', 'ii', 'afford', 'explain', 'belief', 'concept', 'ancient', 'act', 'deletion', 'war', 'nazi']
+['know', 'act', 'basically', 'afford', 'pretty', 'ass', 'deletion', 'concept', 'step', 'jews', 'nazi', 'world', 'round', 'bible', 'belief']
+['explain', 'deletion', 'basically', 'know', 'afford', 'concept', 'certain', 'belief', 'round', 'nazi', 'world', 'ii', 'step', 'jews', 'war']
+['basically', 'know', 'pretty', 'belief', 'explain', 'nazi', 'act', 'world', 'afford', 'prepare', 'certain', 'deletion', 'ii', 'greek', 'jews']
+['know', 'explain', 'basically', 'pretty', 'ii', 'nazi', 'concept', 'deletion', 'belief', 'certain', 'ancient', 'act', 'step', 'round', 'afford']
+['deletion', 'step', 'ii', 'know', 'explain', 'afford', 'belief', 'pretty', 'certain', 'basically', 'war', 'create', 'nazi', 'bible', 'round']
+['know', 'deletion', 'belief', 'afford', 'step', 'act', 'basically', 'ii', 'concept', 'generally', 'nazi', 'war', 'bad', 'pretty', 'world']
+['know', 'round', 'explain', 'world', 'act', 'basically', 'pretty', 'belief', 'deletion', 'ancient', 'becauseof', 'imprison', 'man', 'nazi', 'jews']
+['know', 'pretty', 'ii', 'imprison', 'afford', 'concept', 'explain', 'basically', 'belief', 'certain', 'act', 'step', 'bad', 'jews', 'nazi']
+['know', 'act', 'ancient', 'basically', 'jews', 'round', 'bible', 'afford', 'deletion', 'pretty', 'belief', 'ass', 'concept', 'nazi', 'ii']
+['explain', 'nazi', 'basically', 'know', 'ii', 'deletion', 'belief', 'ancient', 'concept', 'step', 'certain', 'pretty', 'jews', 'afford', 'world']
+['know', 'basically', 'concept', 'deletion', 'explain', 'belief', 'step', 'certain', 'jews', 'afford', 'act', 'imprison', 'world', 'nazi', 'ii']
+['afford', 'pretty', 'know', 'basically', 'world', 'explain', 'act', 'certain', 'deletion', 'belief', 'imprison', 'round', 'nazi', 'short', 'man']
+['know', 'afford', 'explain', 'belief', 'basically', 'act', 'jews', 'certain', 'deletion', 'nazi', 'ii', 'imprison', 'prepare', 'war', 'step']
+['basically', 'know', 'explain', 'jews', 'deletion', 'concept', 'ii', 'round', 'afford', 'short', 'step', 'ancient', 'nazi', 'belief', 'prepare']
+['basically', 'know', 'act', 'concept', 'pretty', 'explain', 'certain', 'imprison', 'belief', 'step', 'nazi', 'generally', 'bible', 'round', 'afford']
+['know', 'deletion', 'war', 'explain', 'belief', 'ancient', 'afford', 'basically', 'world', 'step', 'imprison', 'pretty', 'act', 'ass', 'nazi']
+['basically', 'concept', 'deletion', 'belief', 'explain', 'round', 'step', 'nazi', 'afford', 'know', 'ii', 'certain', 'ancient', 'pretty', 'jews']
+['know', 'belief', 'certain', 'round', 'jews', 'deletion', 'afford', 'explain', 'concept', 'step', 'war', 'basically', 'imprison', 'act', 'world']
+['deletion', 'know', 'basically', 'afford', 'explain', 'nazi', 'ii', 'pretty', 'concept', 'belief', 'certain', 'ass', 'ancient', 'world', 'short']
+['know', 'deletion', 'step', 'explain', 'round', 'basically', 'ancient', 'belief', 'afford', 'concept', 'pretty', 'world', 'nazi', 'certain', 'act']
+['deletion', 'belief', 'know', 'certain', 'basically', 'explain', 'round', 'nazi', 'ancient', 'world', 'war', 'step', 'act', 'pretty', 'concept']
+['deletion', 'basically', 'know', 'afford', 'belief', 'step', 'pretty', 'concept', 'explain', 'ancient', 'nazi', 'jews', 'prepare', 'greek', 'imprison']
+['know', 'ancient', 'deletion', 'basically', 'pretty', 'round', 'world', 'certain', 'nazi', 'war', 'explain', 'act', 'belief', 'jews', 'ii']
+['basically', 'know', 'deletion', 'ii', 'certain', 'afford', 'step', 'war', 'concept', 'round', 'belief', 'prepare', 'jews', 'ancient', 'world']
+['deletion', 'nazi', 'know', 'explain', 'basically', 'afford', 'belief', 'pretty', 'step', 'concept', 'certain', 'world', 'ii', 'bible', 'round']
+['basically', 'afford', 'deletion', 'explain', 'ii', 'nazi', 'know', 'world', 'round', 'belief', 'certain', 'pretty', 'step', 'concept', 'ass']
+['deletion', 'know', 'basically', 'explain', 'pretty', 'nazi', 'belief', 'jews', 'generally', 'afford', 'ass', 'bad', 'step', 'ancient', 'act']
+['basically', 'deletion', 'afford', 'nazi', 'know', 'certain', 'belief', 'pretty', 'explain', 'ancient', 'step', 'bible', 'round', 'war', 'act']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'belief', 'act', 'ii', 'basically', 'step', 'bible', 'explain', 'certain', 'nazi', 'citizen']
+['basically', 'certain', 'concept', 'deletion', 'step', 'belief', 'afford', 'pretty', 'know', 'ii', 'generally', 'explain', 'nazi', 'die', 'world']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'step', 'jews', 'citizen', 'afford', 'concept', 'round', 'bad', 'ancient', 'pretty']
+['basically', 'know', 'ancient', 'deletion', 'certain', 'afford', 'act', 'pretty', 'imprison', 'step', 'nazi', 'concept', 'belief', 'round', 'jews']
+['nazi', 'basically', 'ass', 'deletion', 'belief', 'pretty', 'know', 'step', 'explain', 'afford', 'certain', 'round', 'world', 'ancient', 'concept']
+['know', 'deletion', 'pretty', 'ancient', 'act', 'belief', 'certain', 'imprison', 'jews', 'afford', 'war', 'bad', 'ass', 'man', 'generally']
+['afford', 'certain', 'act', 'pretty', 'know', 'basically', 'belief', 'ancient', 'prepare', 'round', 'step', 'generally', 'explain', 'nazi', 'concept']
+['know', 'afford', 'round', 'jews', 'pretty', 'explain', 'belief', 'nazi', 'concept', 'deletion', 'ancient', 'act', 'step', 'certain', 'ass']
+['basically', 'deletion', 'explain', 'afford', 'know', 'belief', 'concept', 'world', 'nazi', 'imprison', 'prepare', 'step', 'ii', 'round', 'short']
+['nazi', 'ii', 'know', 'basically', 'round', 'world', 'pretty', 'imprison', 'afford', 'belief', 'certain', 'jews', 'step', 'deletion', 'concept']
+['know', 'belief', 'deletion', 'afford', 'nazi', 'pretty', 'basically', 'ancient', 'ii', 'step', 'jews', 'explain', 'concept', 'certain', 'bible']
+['know', 'pretty', 'basically', 'afford', 'explain', 'round', 'act', 'nazi', 'ii', 'step', 'certain', 'short', 'war', 'generally', 'belief']
+['know', 'step', 'ii', 'deletion', 'pretty', 'afford', 'basically', 'round', 'belief', 'explain', 'act', 'bad', 'certain', 'war', 'world']
+['know', 'belief', 'deletion', 'afford', 'step', 'certain', 'ancient', 'basically', 'ass', 'nazi', 'war', 'jews', 'explain', 'world', 'pretty']
+['know', 'deletion', 'belief', 'afford', 'round', 'basically', 'explain', 'ii', 'ancient', 'nazi', 'pretty', 'bad', 'world', 'concept', 'imprison']
+['pretty', 'afford', 'know', 'basically', 'ancient', 'jews', 'belief', 'round', 'deletion', 'act', 'ii', 'explain', 'concept', 'step', 'short']
+['know', 'pretty', 'round', 'basically', 'certain', 'ass', 'bible', 'act', 'generally', 'ii', 'ancient', 'nazi', 'afford', 'world', 'deletion']
+==============================
+topic diversity:0.029333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.299966366577062, c_w2v:None, c_uci:-4.955751720348154, c_npmi:-0.16438603455595224
+mimno topic coherence:-322.96655643576963
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-189.2465668	Loss_G:189.3130493	loss_E:-0.0664525
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-187.7211914	Loss_G:187.7875671	loss_E:-0.0663799
+| ID | GPU | MEM |
+------------------
+|  0 | 60% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-187.7776184	Loss_G:187.8440857	loss_E:-0.0664551
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-186.5910797	Loss_G:186.6575317	loss_E:-0.0664482
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-188.3142700	Loss_G:188.3807526	loss_E:-0.0664707
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-187.4951324	Loss_G:187.5615692	loss_E:-0.0664375
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-190.1506042	Loss_G:190.2170715	loss_E:-0.0664679
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-185.2633972	Loss_G:185.3297729	loss_E:-0.0663801
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-191.4501495	Loss_G:191.5165710	loss_E:-0.0664128
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-187.8058777	Loss_G:187.8723145	loss_E:-0.0664380
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-186.1956024	Loss_G:186.2620544	loss_E:-0.0664531
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-188.4556885	Loss_G:188.5221252	loss_E:-0.0664438
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-183.9073639	Loss_G:183.9738159	loss_E:-0.0664440
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-182.0711975	Loss_G:182.1376190	loss_E:-0.0664235
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-189.0771179	Loss_G:189.1435547	loss_E:-0.0664336
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-191.7608795	Loss_G:191.8273621	loss_E:-0.0664754
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-183.7945099	Loss_G:183.8609009	loss_E:-0.0663957
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-187.1843567	Loss_G:187.2508240	loss_E:-0.0664596
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-187.1844482	Loss_G:187.2507935	loss_E:-0.0663513
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-187.4104004	Loss_G:187.4768066	loss_E:-0.0664030
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-185.9978333	Loss_G:186.0643005	loss_E:-0.0664668
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-192.7494659	Loss_G:192.8159485	loss_E:-0.0664482
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-192.0433350	Loss_G:192.1098022	loss_E:-0.0664681
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-189.9811554	Loss_G:190.0476990	loss_E:-0.0664463
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-187.2126770	Loss_G:187.2791138	loss_E:-0.0664316
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-188.8510895	Loss_G:188.9176331	loss_E:-0.0664523
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-186.6759338	Loss_G:186.7424011	loss_E:-0.0664729
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-188.6534576	Loss_G:188.7199097	loss_E:-0.0664589
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-184.2182007	Loss_G:184.2846680	loss_E:-0.0664385
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-190.4897614	Loss_G:190.5562439	loss_E:-0.0664851
+Epoch  90	Loss_D_avg:-176.0082526	Loss_G_avg:176.2822441	loss_E_avg:-0.0628641
+['know', 'act', 'basically', 'step', 'afford', 'jews', 'ii', 'belief', 'explain', 'short', 'ancient', 'round', 'concept', 'imprison', 'nazi']
+['know', 'basically', 'ii', 'deletion', 'afford', 'belief', 'jews', 'war', 'pretty', 'round', 'ancient', 'step', 'nazi', 'concept', 'citizen']
+['know', 'deletion', 'ii', 'afford', 'nazi', 'ancient', 'belief', 'step', 'basically', 'act', 'round', 'die', 'pretty', 'certain', 'explain']
+['know', 'deletion', 'pretty', 'ii', 'nazi', 'ass', 'afford', 'basically', 'step', 'act', 'round', 'ancient', 'jews', 'explain', 'create']
+['know', 'pretty', 'basically', 'afford', 'belief', 'nazi', 'deletion', 'concept', 'ii', 'bible', 'step', 'certain', 'explain', 'ancient', 'act']
+['know', 'step', 'basically', 'afford', 'concept', 'jews', 'deletion', 'ii', 'round', 'imprison', 'explain', 'greek', 'nazi', 'act', 'belief']
+['deletion', 'know', 'concept', 'basically', 'ii', 'belief', 'explain', 'round', 'world', 'pretty', 'step', 'jews', 'certain', 'imprison', 'war']
+['know', 'deletion', 'ancient', 'basically', 'afford', 'step', 'ii', 'belief', 'ass', 'nazi', 'war', 'jews', 'explain', 'round', 'pretty']
+['belief', 'deletion', 'know', 'step', 'basically', 'afford', 'world', 'round', 'imprison', 'bible', 'nazi', 'explain', 'certain', 'ass', 'war']
+['act', 'afford', 'know', 'belief', 'certain', 'deletion', 'war', 'round', 'ass', 'pretty', 'step', 'basically', 'bible', 'ancient', 'ii']
+['deletion', 'know', 'basically', 'afford', 'nazi', 'explain', 'concept', 'belief', 'bad', 'war', 'ancient', 'step', 'world', 'round', 'imprison']
+['know', 'ii', 'deletion', 'round', 'jews', 'nazi', 'certain', 'step', 'belief', 'act', 'pretty', 'afford', 'basically', 'concept', 'ancient']
+['ancient', 'explain', 'pretty', 'know', 'concept', 'belief', 'ii', 'jews', 'basically', 'afford', 'round', 'nazi', 'deletion', 'world', 'step']
+['certain', 'basically', 'belief', 'ii', 'afford', 'ancient', 'round', 'bible', 'know', 'act', 'nazi', 'deletion', 'step', 'concept', 'world']
+['basically', 'know', 'afford', 'step', 'pretty', 'belief', 'explain', 'act', 'ii', 'round', 'certain', 'concept', 'nazi', 'bad', 'deletion']
+['explain', 'basically', 'afford', 'belief', 'nazi', 'certain', 'round', 'ancient', 'step', 'know', 'pretty', 'deletion', 'imprison', 'ass', 'war']
+['know', 'explain', 'belief', 'concept', 'deletion', 'ancient', 'step', 'ii', 'basically', 'jews', 'bad', 'round', 'create', 'generally', 'ass']
+['know', 'deletion', 'concept', 'ancient', 'basically', 'step', 'pretty', 'afford', 'ii', 'bible', 'ass', 'war', 'jews', 'explain', 'imprison']
+['belief', 'act', 'afford', 'ii', 'certain', 'jews', 'explain', 'know', 'imprison', 'base', 'world', 'basically', 'round', 'ancient', 'step']
+['basically', 'know', 'deletion', 'certain', 'belief', 'ancient', 'step', 'concept', 'pretty', 'nazi', 'different', 'prepare', 'afford', 'bible', 'explain']
+['ii', 'explain', 'know', 'deletion', 'basically', 'belief', 'certain', 'nazi', 'bible', 'war', 'imprison', 'pretty', 'round', 'world', 'greek']
+['know', 'basically', 'round', 'afford', 'explain', 'step', 'act', 'deletion', 'pretty', 'jews', 'belief', 'imprison', 'bad', 'certain', 'war']
+['round', 'afford', 'certain', 'act', 'basically', 'pretty', 'ii', 'belief', 'know', 'world', 'deletion', 'bible', 'war', 'ancient', 'nazi']
+['know', 'deletion', 'belief', 'world', 'explain', 'basically', 'war', 'ancient', 'certain', 'afford', 'round', 'act', 'ii', 'step', 'bad']
+['belief', 'basically', 'ancient', 'nazi', 'pretty', 'deletion', 'know', 'afford', 'war', 'jews', 'certain', 'step', 'ass', 'concept', 'round']
+['know', 'basically', 'deletion', 'ass', 'belief', 'step', 'ancient', 'nazi', 'round', 'explain', 'act', 'certain', 'afford', 'pretty', 'jews']
+['know', 'pretty', 'nazi', 'ass', 'step', 'basically', 'round', 'ii', 'belief', 'afford', 'ancient', 'generally', 'bible', 'act', 'explain']
+['afford', 'belief', 'deletion', 'nazi', 'know', 'explain', 'round', 'pretty', 'basically', 'world', 'ancient', 'bible', 'ii', 'act', 'war']
+['basically', 'belief', 'know', 'ancient', 'pretty', 'nazi', 'certain', 'deletion', 'act', 'afford', 'jews', 'bible', 'step', 'ii', 'concept']
+['certain', 'pretty', 'basically', 'know', 'ii', 'imprison', 'afford', 'explain', 'belief', 'ancient', 'act', 'war', 'concept', 'deletion', 'ass']
+['know', 'basically', 'act', 'afford', 'ass', 'pretty', 'jews', 'deletion', 'step', 'concept', 'nazi', 'round', 'bible', 'world', 'ii']
+['explain', 'deletion', 'basically', 'know', 'afford', 'belief', 'concept', 'round', 'certain', 'ii', 'nazi', 'world', 'jews', 'war', 'step']
+['basically', 'know', 'belief', 'pretty', 'act', 'nazi', 'explain', 'world', 'prepare', 'afford', 'ii', 'deletion', 'greek', 'certain', 'jews']
+['know', 'explain', 'basically', 'ii', 'pretty', 'nazi', 'concept', 'deletion', 'belief', 'ancient', 'round', 'act', 'certain', 'step', 'jews']
+['ii', 'deletion', 'step', 'know', 'afford', 'explain', 'belief', 'pretty', 'war', 'basically', 'certain', 'create', 'bible', 'nazi', 'round']
+['know', 'deletion', 'belief', 'afford', 'step', 'act', 'basically', 'ii', 'concept', 'generally', 'war', 'bad', 'nazi', 'pretty', 'world']
+['know', 'round', 'world', 'explain', 'basically', 'act', 'pretty', 'belief', 'ancient', 'deletion', 'becauseof', 'jews', 'ass', 'imprison', 'afford']
+['ii', 'pretty', 'know', 'imprison', 'afford', 'basically', 'belief', 'explain', 'concept', 'act', 'bad', 'jews', 'step', 'certain', 'war']
+['know', 'act', 'basically', 'ancient', 'jews', 'round', 'bible', 'belief', 'afford', 'deletion', 'pretty', 'ass', 'ii', 'concept', 'nazi']
+['explain', 'nazi', 'basically', 'know', 'ii', 'deletion', 'belief', 'ancient', 'concept', 'step', 'jews', 'pretty', 'certain', 'round', 'afford']
+['know', 'basically', 'belief', 'deletion', 'concept', 'explain', 'step', 'jews', 'certain', 'afford', 'act', 'world', 'imprison', 'nazi', 'ii']
+['afford', 'pretty', 'know', 'basically', 'world', 'act', 'deletion', 'belief', 'explain', 'round', 'ass', 'certain', 'bad', 'imprison', 'nazi']
+['know', 'afford', 'explain', 'belief', 'basically', 'act', 'jews', 'certain', 'deletion', 'ii', 'nazi', 'imprison', 'prepare', 'war', 'bible']
+['basically', 'jews', 'know', 'deletion', 'explain', 'ii', 'concept', 'round', 'afford', 'short', 'step', 'ancient', 'belief', 'prepare', 'nazi']
+['basically', 'know', 'act', 'pretty', 'concept', 'explain', 'belief', 'certain', 'step', 'imprison', 'round', 'bible', 'nazi', 'generally', 'afford']
+['know', 'deletion', 'war', 'belief', 'ancient', 'explain', 'afford', 'basically', 'world', 'step', 'pretty', 'ass', 'act', 'imprison', 'nazi']
+['basically', 'deletion', 'belief', 'concept', 'round', 'explain', 'step', 'ii', 'afford', 'nazi', 'know', 'ancient', 'pretty', 'certain', 'jews']
+['belief', 'know', 'round', 'jews', 'deletion', 'certain', 'afford', 'explain', 'war', 'concept', 'step', 'basically', 'ii', 'act', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'ii', 'explain', 'nazi', 'pretty', 'belief', 'ass', 'concept', 'ancient', 'certain', 'world', 'bible']
+['know', 'deletion', 'step', 'explain', 'round', 'basically', 'belief', 'ancient', 'afford', 'pretty', 'world', 'concept', 'nazi', 'act', 'war']
+['deletion', 'belief', 'know', 'basically', 'certain', 'explain', 'round', 'ancient', 'nazi', 'war', 'world', 'step', 'act', 'pretty', 'ass']
+['deletion', 'basically', 'know', 'belief', 'afford', 'step', 'pretty', 'jews', 'ancient', 'prepare', 'concept', 'explain', 'nazi', 'greek', 'ass']
+['ancient', 'know', 'basically', 'deletion', 'pretty', 'round', 'world', 'certain', 'nazi', 'war', 'explain', 'act', 'jews', 'belief', 'ii']
+['basically', 'know', 'deletion', 'ii', 'certain', 'afford', 'step', 'war', 'round', 'belief', 'jews', 'prepare', 'concept', 'bible', 'ancient']
+['deletion', 'nazi', 'know', 'explain', 'basically', 'belief', 'afford', 'pretty', 'step', 'concept', 'certain', 'ass', 'ii', 'round', 'bible']
+['basically', 'afford', 'deletion', 'ii', 'explain', 'world', 'know', 'nazi', 'round', 'belief', 'ass', 'pretty', 'step', 'certain', 'concept']
+['deletion', 'know', 'basically', 'explain', 'pretty', 'belief', 'jews', 'nazi', 'ass', 'bad', 'afford', 'generally', 'ii', 'step', 'ancient']
+['basically', 'deletion', 'afford', 'nazi', 'know', 'certain', 'belief', 'pretty', 'ancient', 'bible', 'explain', 'step', 'round', 'war', 'ii']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'belief', 'act', 'ii', 'basically', 'bible', 'step', 'explain', 'ass', 'round', 'citizen']
+['basically', 'certain', 'belief', 'deletion', 'concept', 'step', 'afford', 'pretty', 'ii', 'know', 'generally', 'explain', 'bible', 'prepare', 'nazi']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'jews', 'step', 'citizen', 'round', 'afford', 'bad', 'ancient', 'concept', 'pretty']
+['basically', 'know', 'ancient', 'deletion', 'afford', 'act', 'certain', 'pretty', 'step', 'imprison', 'belief', 'jews', 'round', 'nazi', 'concept']
+['nazi', 'ass', 'basically', 'deletion', 'belief', 'pretty', 'know', 'step', 'explain', 'round', 'afford', 'certain', 'becauseof', 'world', 'war']
+['know', 'deletion', 'pretty', 'ancient', 'act', 'belief', 'jews', 'certain', 'imprison', 'war', 'afford', 'ass', 'bad', 'ii', 'round']
+['afford', 'certain', 'pretty', 'act', 'belief', 'know', 'basically', 'ancient', 'prepare', 'round', 'step', 'explain', 'generally', 'nazi', 'ass']
+['know', 'afford', 'round', 'jews', 'pretty', 'belief', 'explain', 'nazi', 'deletion', 'ancient', 'concept', 'act', 'step', 'ass', 'certain']
+['basically', 'deletion', 'explain', 'belief', 'afford', 'know', 'concept', 'world', 'prepare', 'ii', 'nazi', 'round', 'imprison', 'step', 'short']
+['nazi', 'ii', 'round', 'basically', 'know', 'jews', 'world', 'pretty', 'belief', 'afford', 'imprison', 'step', 'certain', 'deletion', 'concept']
+['know', 'belief', 'deletion', 'afford', 'basically', 'pretty', 'nazi', 'ii', 'ancient', 'step', 'jews', 'bible', 'explain', 'concept', 'certain']
+['know', 'pretty', 'basically', 'round', 'afford', 'explain', 'act', 'ii', 'nazi', 'step', 'short', 'certain', 'war', 'belief', 'jews']
+['know', 'step', 'ii', 'deletion', 'pretty', 'afford', 'basically', 'round', 'belief', 'bad', 'explain', 'act', 'war', 'world', 'certain']
+['know', 'belief', 'deletion', 'afford', 'step', 'ancient', 'certain', 'ass', 'basically', 'war', 'jews', 'nazi', 'explain', 'world', 'bible']
+['know', 'deletion', 'belief', 'afford', 'round', 'basically', 'explain', 'ii', 'ancient', 'pretty', 'nazi', 'bad', 'world', 'step', 'concept']
+['pretty', 'afford', 'know', 'basically', 'ancient', 'jews', 'belief', 'round', 'deletion', 'ii', 'act', 'explain', 'concept', 'step', 'short']
+['know', 'pretty', 'round', 'basically', 'ass', 'certain', 'bible', 'act', 'ii', 'generally', 'ancient', 'nazi', 'jews', 'deletion', 'world']
+==============================
+topic diversity:0.028444444444444446
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2953592952878408, c_w2v:None, c_uci:-5.176579839212721, c_npmi:-0.17299636426675677
+mimno topic coherence:-310.24814190525757
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-187.3821869	Loss_G:187.4486694	loss_E:-0.0664798
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-189.4161835	Loss_G:189.4826965	loss_E:-0.0664761
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-186.9019318	Loss_G:186.9684143	loss_E:-0.0664874
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-184.8960876	Loss_G:184.9626160	loss_E:-0.0664736
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-192.2696686	Loss_G:192.3361816	loss_E:-0.0664479
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-184.3029938	Loss_G:184.3694763	loss_E:-0.0664762
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-189.2467041	Loss_G:189.3131714	loss_E:-0.0664627
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-187.3821259	Loss_G:187.4486084	loss_E:-0.0664818
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-191.0828705	Loss_G:191.1493530	loss_E:-0.0664845
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 |  3% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-186.7324219	Loss_G:186.7988892	loss_E:-0.0664684
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-190.2354584	Loss_G:190.3019104	loss_E:-0.0664479
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-188.0036163	Loss_G:188.0700989	loss_E:-0.0664848
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-190.2353363	Loss_G:190.3018799	loss_E:-0.0664838
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-186.7606964	Loss_G:186.8271790	loss_E:-0.0664845
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-188.2579193	Loss_G:188.3243713	loss_E:-0.0664548
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-187.4103546	Loss_G:187.4768372	loss_E:-0.0664764
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-189.8964386	Loss_G:189.9628601	loss_E:-0.0664212
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-188.5686188	Loss_G:188.6351013	loss_E:-0.0664831
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-189.5008087	Loss_G:189.5673828	loss_E:-0.0664503
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-185.4329224	Loss_G:185.4993896	loss_E:-0.0664649
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-189.8964081	Loss_G:189.9628601	loss_E:-0.0664474
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-187.3538818	Loss_G:187.4203491	loss_E:-0.0664700
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-186.1390686	Loss_G:186.2055664	loss_E:-0.0664597
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-186.5346375	Loss_G:186.6011200	loss_E:-0.0664789
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-185.5741882	Loss_G:185.6406555	loss_E:-0.0664652
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-186.0826416	Loss_G:186.1491089	loss_E:-0.0664719
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-186.5628510	Loss_G:186.6293945	loss_E:-0.0664770
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-187.8623352	Loss_G:187.9288635	loss_E:-0.0664646
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-186.4216309	Loss_G:186.4881592	loss_E:-0.0664608
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-190.0093842	Loss_G:190.0758667	loss_E:-0.0664805
+Epoch 100	Loss_D_avg:-177.1952685	Loss_G_avg:177.4485098	loss_E_avg:-0.0632246
+['know', 'act', 'basically', 'step', 'afford', 'jews', 'belief', 'ii', 'short', 'explain', 'round', 'ancient', 'imprison', 'concept', 'world']
+['know', 'basically', 'ii', 'deletion', 'afford', 'belief', 'war', 'jews', 'pretty', 'round', 'step', 'ancient', 'nazi', 'imprison', 'concept']
+['know', 'deletion', 'ii', 'afford', 'nazi', 'ancient', 'step', 'belief', 'act', 'round', 'pretty', 'certain', 'die', 'basically', 'short']
+['know', 'deletion', 'pretty', 'nazi', 'ass', 'ii', 'act', 'afford', 'step', 'round', 'basically', 'ancient', 'short', 'jews', 'explain']
+['know', 'pretty', 'basically', 'afford', 'nazi', 'belief', 'deletion', 'certain', 'concept', 'step', 'bible', 'ii', 'act', 'round', 'ancient']
+['step', 'know', 'basically', 'afford', 'imprison', 'deletion', 'round', 'concept', 'ii', 'greek', 'jews', 'act', 'explain', 'nazi', 'war']
+['deletion', 'know', 'concept', 'ii', 'basically', 'belief', 'round', 'world', 'pretty', 'step', 'imprison', 'explain', 'certain', 'jews', 'war']
+['know', 'deletion', 'ancient', 'step', 'afford', 'basically', 'ii', 'ass', 'belief', 'war', 'nazi', 'act', 'pretty', 'round', 'jews']
+['belief', 'deletion', 'know', 'step', 'world', 'imprison', 'round', 'afford', 'basically', 'bible', 'nazi', 'certain', 'war', 'explain', 'ass']
+['act', 'know', 'afford', 'certain', 'belief', 'war', 'deletion', 'round', 'pretty', 'ass', 'step', 'basically', 'bible', 'short', 'ancient']
+['deletion', 'know', 'basically', 'afford', 'concept', 'nazi', 'war', 'explain', 'belief', 'world', 'imprison', 'ancient', 'round', 'step', 'bad']
+['know', 'ii', 'deletion', 'round', 'certain', 'jews', 'act', 'step', 'nazi', 'pretty', 'belief', 'afford', 'world', 'imprison', 'concept']
+['ancient', 'pretty', 'explain', 'know', 'concept', 'belief', 'jews', 'ii', 'round', 'afford', 'basically', 'world', 'nazi', 'step', 'deletion']
+['certain', 'basically', 'belief', 'ii', 'afford', 'round', 'ancient', 'act', 'bible', 'know', 'deletion', 'nazi', 'step', 'world', 'concept']
+['basically', 'know', 'afford', 'pretty', 'step', 'act', 'belief', 'explain', 'ii', 'round', 'certain', 'nazi', 'deletion', 'concept', 'ancient']
+['explain', 'afford', 'basically', 'nazi', 'belief', 'certain', 'round', 'ancient', 'step', 'pretty', 'know', 'imprison', 'deletion', 'war', 'ass']
+['know', 'explain', 'belief', 'concept', 'deletion', 'step', 'ancient', 'ii', 'basically', 'jews', 'round', 'create', 'ass', 'world', 'nazi']
+['know', 'deletion', 'concept', 'ancient', 'step', 'basically', 'pretty', 'afford', 'war', 'bible', 'ii', 'imprison', 'ass', 'certain', 'jews']
+['belief', 'act', 'certain', 'afford', 'ii', 'imprison', 'jews', 'explain', 'world', 'know', 'base', 'round', 'basically', 'ancient', 'step']
+['know', 'basically', 'deletion', 'certain', 'step', 'ancient', 'belief', 'pretty', 'concept', 'nazi', 'different', 'good', 'prepare', 'afford', 'bible']
+['ii', 'explain', 'know', 'deletion', 'certain', 'basically', 'belief', 'nazi', 'imprison', 'war', 'world', 'pretty', 'round', 'act', 'greek']
+['know', 'round', 'basically', 'afford', 'step', 'act', 'deletion', 'pretty', 'explain', 'imprison', 'jews', 'belief', 'war', 'certain', 'world']
+['round', 'certain', 'act', 'afford', 'pretty', 'basically', 'world', 'ii', 'know', 'belief', 'deletion', 'war', 'bible', 'nazi', 'ancient']
+['know', 'deletion', 'world', 'belief', 'war', 'explain', 'certain', 'round', 'basically', 'ancient', 'act', 'afford', 'step', 'ii', 'different']
+['belief', 'nazi', 'pretty', 'deletion', 'ancient', 'basically', 'war', 'know', 'afford', 'jews', 'certain', 'step', 'ass', 'concept', 'imprison']
+['know', 'deletion', 'basically', 'ass', 'belief', 'step', 'round', 'nazi', 'ancient', 'act', 'certain', 'explain', 'pretty', 'afford', 'world']
+['know', 'pretty', 'nazi', 'ass', 'step', 'round', 'basically', 'afford', 'ii', 'belief', 'ancient', 'act', 'bible', 'generally', 'explain']
+['afford', 'deletion', 'belief', 'nazi', 'know', 'explain', 'round', 'pretty', 'world', 'act', 'ancient', 'war', 'basically', 'bible', 'ii']
+['basically', 'belief', 'know', 'pretty', 'ancient', 'certain', 'nazi', 'act', 'deletion', 'step', 'afford', 'bible', 'jews', 'concept', 'ass']
+['certain', 'pretty', 'imprison', 'know', 'basically', 'ii', 'afford', 'act', 'war', 'deletion', 'explain', 'ancient', 'belief', 'concept', 'world']
+['know', 'act', 'basically', 'afford', 'pretty', 'ass', 'deletion', 'step', 'concept', 'jews', 'world', 'round', 'nazi', 'bible', 'belief']
+['explain', 'deletion', 'know', 'basically', 'afford', 'round', 'certain', 'concept', 'belief', 'world', 'nazi', 'war', 'ii', 'step', 'jews']
+['basically', 'pretty', 'know', 'act', 'world', 'belief', 'nazi', 'explain', 'afford', 'prepare', 'deletion', 'greek', 'certain', 'round', 'ii']
+['know', 'explain', 'pretty', 'basically', 'ii', 'nazi', 'deletion', 'concept', 'belief', 'act', 'round', 'certain', 'ancient', 'step', 'war']
+['deletion', 'step', 'ii', 'know', 'afford', 'explain', 'pretty', 'war', 'belief', 'certain', 'basically', 'round', 'create', 'world', 'bible']
+['know', 'deletion', 'step', 'belief', 'act', 'afford', 'basically', 'ii', 'concept', 'war', 'nazi', 'world', 'pretty', 'generally', 'imprison']
+['know', 'round', 'world', 'act', 'pretty', 'explain', 'basically', 'deletion', 'belief', 'ancient', 'imprison', 'becauseof', 'man', 'ass', 'nazi']
+['pretty', 'know', 'imprison', 'ii', 'act', 'afford', 'concept', 'basically', 'certain', 'belief', 'step', 'explain', 'jews', 'war', 'greek']
+['know', 'act', 'ancient', 'basically', 'round', 'jews', 'bible', 'deletion', 'pretty', 'afford', 'belief', 'ass', 'concept', 'ii', 'nazi']
+['nazi', 'basically', 'explain', 'know', 'ii', 'deletion', 'ancient', 'belief', 'concept', 'step', 'certain', 'pretty', 'round', 'world', 'jews']
+['know', 'basically', 'deletion', 'concept', 'belief', 'step', 'explain', 'certain', 'act', 'world', 'imprison', 'jews', 'afford', 'round', 'nazi']
+['pretty', 'afford', 'know', 'world', 'basically', 'act', 'deletion', 'round', 'imprison', 'certain', 'ass', 'belief', 'explain', 'short', 'man']
+['know', 'act', 'afford', 'explain', 'belief', 'basically', 'jews', 'certain', 'deletion', 'imprison', 'nazi', 'ii', 'war', 'prepare', 'bible']
+['basically', 'deletion', 'know', 'jews', 'explain', 'round', 'ii', 'concept', 'short', 'step', 'afford', 'imprison', 'ancient', 'act', 'prepare']
+['basically', 'act', 'know', 'pretty', 'concept', 'imprison', 'certain', 'step', 'explain', 'belief', 'round', 'bible', 'nazi', 'world', 'deletion']
+['deletion', 'know', 'war', 'world', 'ancient', 'belief', 'afford', 'explain', 'basically', 'imprison', 'act', 'pretty', 'step', 'ass', 'nazi']
+['basically', 'deletion', 'round', 'concept', 'belief', 'step', 'explain', 'afford', 'ii', 'certain', 'nazi', 'pretty', 'know', 'ancient', 'act']
+['know', 'belief', 'round', 'deletion', 'certain', 'war', 'jews', 'step', 'afford', 'concept', 'imprison', 'act', 'world', 'explain', 'pretty']
+['deletion', 'know', 'basically', 'afford', 'ii', 'nazi', 'explain', 'pretty', 'ass', 'belief', 'concept', 'certain', 'ancient', 'world', 'short']
+['know', 'deletion', 'step', 'round', 'explain', 'basically', 'ancient', 'belief', 'world', 'pretty', 'afford', 'war', 'act', 'nazi', 'certain']
+['deletion', 'belief', 'know', 'certain', 'basically', 'round', 'explain', 'nazi', 'ancient', 'war', 'world', 'act', 'step', 'pretty', 'ass']
+['deletion', 'basically', 'know', 'afford', 'pretty', 'step', 'belief', 'ancient', 'concept', 'nazi', 'prepare', 'jews', 'explain', 'greek', 'imprison']
+['deletion', 'know', 'ancient', 'pretty', 'round', 'basically', 'world', 'certain', 'war', 'nazi', 'act', 'explain', 'imprison', 'jews', 'belief']
+['basically', 'know', 'deletion', 'ii', 'certain', 'war', 'step', 'round', 'afford', 'world', 'concept', 'belief', 'prepare', 'bible', 'jews']
+['deletion', 'nazi', 'know', 'pretty', 'explain', 'basically', 'step', 'afford', 'belief', 'concept', 'certain', 'world', 'war', 'round', 'ass']
+['basically', 'afford', 'deletion', 'world', 'ii', 'explain', 'know', 'nazi', 'round', 'pretty', 'ass', 'certain', 'step', 'belief', 'war']
+['deletion', 'know', 'basically', 'explain', 'pretty', 'nazi', 'belief', 'jews', 'ass', 'step', 'act', 'afford', 'world', 'ancient', 'ii']
+['basically', 'deletion', 'afford', 'nazi', 'certain', 'know', 'pretty', 'step', 'belief', 'bible', 'ancient', 'explain', 'war', 'round', 'act']
+['pretty', 'know', 'deletion', 'afford', 'concept', 'act', 'belief', 'bible', 'step', 'ii', 'basically', 'round', 'certain', 'ass', 'nazi']
+['basically', 'certain', 'deletion', 'step', 'pretty', 'concept', 'belief', 'afford', 'know', 'ii', 'world', 'act', 'generally', 'bible', 'imprison']
+['know', 'deletion', 'belief', 'act', 'nazi', 'explain', 'step', 'jews', 'round', 'citizen', 'afford', 'pretty', 'ancient', 'concept', 'world']
+['basically', 'deletion', 'know', 'ancient', 'act', 'certain', 'imprison', 'pretty', 'afford', 'step', 'round', 'nazi', 'good', 'concept', 'belief']
+['nazi', 'ass', 'basically', 'deletion', 'pretty', 'belief', 'know', 'step', 'round', 'certain', 'explain', 'afford', 'world', 'war', 'becauseof']
+['know', 'deletion', 'pretty', 'act', 'ancient', 'imprison', 'belief', 'certain', 'war', 'jews', 'ass', 'round', 'afford', 'man', 'different']
+['afford', 'act', 'certain', 'pretty', 'know', 'basically', 'belief', 'ancient', 'round', 'prepare', 'step', 'short', 'man', 'ass', 'explain']
+['know', 'afford', 'round', 'pretty', 'jews', 'deletion', 'belief', 'nazi', 'act', 'ancient', 'concept', 'explain', 'step', 'certain', 'ass']
+['deletion', 'basically', 'explain', 'afford', 'know', 'belief', 'concept', 'world', 'imprison', 'round', 'prepare', 'nazi', 'step', 'ii', 'short']
+['nazi', 'round', 'ii', 'know', 'imprison', 'world', 'basically', 'pretty', 'certain', 'jews', 'step', 'belief', 'afford', 'deletion', 'act']
+['know', 'belief', 'deletion', 'pretty', 'nazi', 'afford', 'basically', 'ancient', 'ii', 'step', 'jews', 'imprison', 'bible', 'certain', 'greek']
+['know', 'pretty', 'basically', 'round', 'act', 'afford', 'explain', 'step', 'nazi', 'ii', 'short', 'certain', 'war', 'imprison', 'world']
+['know', 'step', 'deletion', 'ii', 'pretty', 'afford', 'round', 'basically', 'act', 'war', 'belief', 'world', 'imprison', 'certain', 'explain']
+['know', 'belief', 'deletion', 'afford', 'step', 'certain', 'ancient', 'ass', 'war', 'basically', 'world', 'nazi', 'jews', 'pretty', 'explain']
+['know', 'deletion', 'belief', 'round', 'afford', 'basically', 'ii', 'explain', 'pretty', 'ancient', 'nazi', 'world', 'imprison', 'step', 'concept']
+['pretty', 'afford', 'know', 'basically', 'ancient', 'round', 'jews', 'deletion', 'belief', 'act', 'ii', 'step', 'concept', 'explain', 'short']
+['pretty', 'know', 'round', 'ass', 'basically', 'certain', 'bible', 'act', 'ii', 'world', 'ancient', 'deletion', 'nazi', 'generally', 'imprison']
+==============================
+topic diversity:0.030222222222222223
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.30081508594661416, c_w2v:None, c_uci:-5.115074593154637, c_npmi:-0.17045671423215508
+mimno topic coherence:-328.3226747695829
+topic diversity:0.030222222222222223
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.30081508594661416, c_w2v:None, c_uci:-5.115074593154637, c_npmi:-0.17045671423215508
+mimno topic coherence:-328.3226747695829

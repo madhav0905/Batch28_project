@@ -1,0 +1,2821 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f22e55b3ac0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 18% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:-0.3517409	Loss_G:1.8655629	loss_E:0.0100735
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-7.6989036	Loss_G:9.6865368	loss_E:0.0079664
+| ID | GPU | MEM |
+------------------
+|  0 | 64% | 20% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-18.3114586	Loss_G:20.4660110	loss_E:0.0052984
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-19.3241539	Loss_G:21.4932022	loss_E:0.0049742
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-30.2254620	Loss_G:32.4461060	loss_E:0.0018145
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-40.6100426	Loss_G:42.8086777	loss_E:-0.0013357
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-41.0158768	Loss_G:43.1353607	loss_E:-0.0015896
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-53.2226562	Loss_G:55.3872604	loss_E:-0.0046718
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-63.0874786	Loss_G:65.1296387	loss_E:-0.0074476
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-63.1223488	Loss_G:65.1077728	loss_E:-0.0076957
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-72.6986389	Loss_G:74.6237030	loss_E:-0.0104249
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-80.0938339	Loss_G:81.9076996	loss_E:-0.0131088
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-82.8668900	Loss_G:84.7152863	loss_E:-0.0134144
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-90.1804733	Loss_G:91.9342041	loss_E:-0.0161687
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-97.6180725	Loss_G:99.2887115	loss_E:-0.0185453
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-100.5279007	Loss_G:102.2318649	loss_E:-0.0187953
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-108.1254425	Loss_G:109.7426147	loss_E:-0.0210431
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-113.8763580	Loss_G:115.4047394	loss_E:-0.0230977
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-113.4431610	Loss_G:114.9483185	loss_E:-0.0233291
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-125.0082474	Loss_G:126.5083008	loss_E:-0.0254339
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-128.4240875	Loss_G:129.8119812	loss_E:-0.0274424
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-126.4129105	Loss_G:127.7665710	loss_E:-0.0275765
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-132.2407074	Loss_G:133.5078125	loss_E:-0.0293659
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-142.9480896	Loss_G:144.2057800	loss_E:-0.0310830
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-141.6798401	Loss_G:142.9160156	loss_E:-0.0312932
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-146.5336304	Loss_G:147.6827698	loss_E:-0.0328877
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-154.7835236	Loss_G:155.9001770	loss_E:-0.0343894
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-154.6042328	Loss_G:155.7027283	loss_E:-0.0345649
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-152.1104736	Loss_G:153.0901489	loss_E:-0.0359632
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-160.2708893	Loss_G:161.2046204	loss_E:-0.0373244
+Epoch  10	Loss_D_avg:-92.0472508	Loss_G_avg:93.6873392	loss_E_avg:-0.0165955
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'jews', 'generally', 'japanese', 'look', 'prepare', 'afford', 'citizen', 'nazi']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'generally', 'jews', 'look', 'afford', 'japanese', 'intend', 'prepare', 'die', 'final']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'prepare', 'generally', 'die', 'citizen', 'imprison']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'prepare', 'japanese', 'citizen', 'afford']
+['camp', 'let', 'gas', 'ii', 'happen', 'people', 'jews', 'intend', 'prepare', 'japanese', 'generally', 'die', 'final', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'prepare', 'generally', 'look', 'intend', 'citizen', 'imprison']
+['let', 'camp', 'gas', 'ii', 'people', 'intend', 'happen', 'jews', 'die', 'look', 'citizen', 'nazi', 'prepare', 'generally', 'afford']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'jews', 'japanese', 'imprison', 'look', 'intend', 'final', 'afford', 'die', 'prepare']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'intend', 'look', 'happen', 'citizen', 'imprison', 'prepare', 'final', 'generally', 'die']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'happen', 'intend', 'die', 'look', 'nazi', 'final', 'prepare', 'imprison', 'afford']
+['let', 'gas', 'camp', 'people', 'ii', 'happen', 'intend', 'jews', 'die', 'look', 'prepare', 'citizen', 'japanese', 'afford', 'generally']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'afford', 'imprison', 'die', 'nazi']
+['let', 'gas', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'nazi', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'generally', 'japanese', 'look', 'jews', 'imprison', 'final', 'die', 'citizen']
+['camp', 'gas', 'let', 'people', 'ii', 'happen', 'jews', 'look', 'generally', 'japanese', 'prepare', 'afford', 'citizen', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'prepare', 'generally', 'final', 'japanese', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'prepare', 'generally', 'look', 'japanese', 'die', 'afford', 'final']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'prepare', 'generally', 'die', 'imprison', 'japanese']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'jews', 'look', 'intend', 'citizen', 'die', 'nazi', 'generally', 'afford', 'final']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'prepare', 'look', 'generally', 'imprison', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.37669960468020225, c_w2v:None, c_uci:-1.9112814674744585, c_npmi:-0.04026572520813177
+mimno topic coherence:-277.0152518730568
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-164.2152252	Loss_G:165.1663513	loss_E:-0.0374350
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-166.1912842	Loss_G:167.0662079	loss_E:-0.0387240
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-168.9319153	Loss_G:169.7492218	loss_E:-0.0398798
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-172.4341125	Loss_G:173.2622986	loss_E:-0.0400333
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-172.7623444	Loss_G:173.4920349	loss_E:-0.0410946
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-173.1962738	Loss_G:173.8386688	loss_E:-0.0421443
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-176.4553680	Loss_G:177.1029358	loss_E:-0.0422852
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-181.0598145	Loss_G:181.6535339	loss_E:-0.0432271
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-180.5666046	Loss_G:181.0761566	loss_E:-0.0440718
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-179.9978485	Loss_G:180.4911804	loss_E:-0.0441585
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-181.6431885	Loss_G:182.0733948	loss_E:-0.0448165
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-189.0397186	Loss_G:189.4273834	loss_E:-0.0453689
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-186.6636200	Loss_G:187.0257263	loss_E:-0.0454158
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-189.7170105	Loss_G:190.0268555	loss_E:-0.0459010
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-185.6380005	Loss_G:185.8753967	loss_E:-0.0463058
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-189.7624664	Loss_G:190.0064087	loss_E:-0.0463424
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-190.3182068	Loss_G:190.5155182	loss_E:-0.0466970
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-192.5920105	Loss_G:192.7446289	loss_E:-0.0469548
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-189.5473175	Loss_G:189.6945343	loss_E:-0.0469849
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-196.0112457	Loss_G:196.1339111	loss_E:-0.0471539
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-193.4142609	Loss_G:193.5143280	loss_E:-0.0472674
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-192.4225464	Loss_G:192.5225525	loss_E:-0.0472899
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-191.8478546	Loss_G:191.9357605	loss_E:-0.0473977
+| ID | GPU | MEM |
+------------------
+|  0 | 67% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-192.5322876	Loss_G:192.6086273	loss_E:-0.0474831
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-193.8273315	Loss_G:193.9029846	loss_E:-0.0474896
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-192.2705078	Loss_G:192.3422546	loss_E:-0.0475463
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-191.3989105	Loss_G:191.4682922	loss_E:-0.0476012
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-191.9185333	Loss_G:191.9875183	loss_E:-0.0476094
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-191.7568054	Loss_G:191.8226318	loss_E:-0.0476448
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-193.7589111	Loss_G:193.8233643	loss_E:-0.0476866
+Epoch  20	Loss_D_avg:-138.5551508	Loss_G_avg:139.5495140	loss_E_avg:-0.0307979
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'jews', 'generally', 'japanese', 'look', 'prepare', 'afford', 'citizen', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'jews', 'look', 'afford', 'japanese', 'intend', 'die', 'prepare', 'final']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'generally', 'prepare', 'die', 'citizen', 'imprison']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'prepare', 'japanese', 'citizen', 'afford']
+['camp', 'let', 'gas', 'ii', 'happen', 'people', 'jews', 'intend', 'japanese', 'prepare', 'die', 'generally', 'final', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'generally', 'prepare', 'look', 'intend', 'citizen', 'imprison']
+['let', 'camp', 'gas', 'ii', 'people', 'intend', 'happen', 'jews', 'die', 'look', 'citizen', 'nazi', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'jews', 'japanese', 'imprison', 'look', 'final', 'intend', 'afford', 'die', 'prepare']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'citizen', 'imprison', 'final', 'generally', 'prepare', 'die']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'happen', 'intend', 'die', 'look', 'nazi', 'final', 'imprison', 'afford', 'prepare']
+['let', 'gas', 'camp', 'people', 'ii', 'happen', 'intend', 'jews', 'die', 'look', 'citizen', 'japanese', 'prepare', 'afford', 'generally']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'afford', 'imprison', 'die', 'nazi']
+['let', 'gas', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'nazi', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'generally', 'japanese', 'look', 'jews', 'imprison', 'final', 'die', 'citizen']
+['camp', 'gas', 'let', 'people', 'ii', 'happen', 'jews', 'look', 'generally', 'japanese', 'prepare', 'afford', 'citizen', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'generally', 'final', 'prepare', 'japanese', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'prepare', 'generally', 'look', 'japanese', 'die', 'final', 'afford']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'generally', 'prepare', 'die', 'imprison', 'japanese']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'jews', 'look', 'intend', 'citizen', 'die', 'nazi', 'generally', 'afford', 'final']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'prepare', 'look', 'generally', 'imprison', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.37669960468020225, c_w2v:None, c_uci:-1.9112814674744585, c_npmi:-0.04026572520813177
+mimno topic coherence:-277.0152518730568
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-188.4573212	Loss_G:188.5206909	loss_E:-0.0476857
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-187.5932159	Loss_G:187.6551819	loss_E:-0.0477209
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-193.1932983	Loss_G:193.2548218	loss_E:-0.0477543
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-195.3137512	Loss_G:195.3749084	loss_E:-0.0477496
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-191.9529724	Loss_G:192.0122681	loss_E:-0.0477768
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-191.0190277	Loss_G:191.0784912	loss_E:-0.0477855
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-190.9750061	Loss_G:191.0334625	loss_E:-0.0477925
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-193.5274963	Loss_G:193.5861816	loss_E:-0.0478207
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-190.3302460	Loss_G:190.3877106	loss_E:-0.0478327
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-193.1448822	Loss_G:193.2026062	loss_E:-0.0478378
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-192.0313416	Loss_G:192.0883789	loss_E:-0.0478507
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-190.4570160	Loss_G:190.5130157	loss_E:-0.0478705
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-194.1233368	Loss_G:194.1794739	loss_E:-0.0478663
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-192.2765503	Loss_G:192.3320923	loss_E:-0.0478952
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-196.2288666	Loss_G:196.2845612	loss_E:-0.0479082
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-193.2439117	Loss_G:193.2991486	loss_E:-0.0478953
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-195.5503998	Loss_G:195.6054688	loss_E:-0.0479032
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-188.2977448	Loss_G:188.3516846	loss_E:-0.0479265
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-189.0418854	Loss_G:189.0962067	loss_E:-0.0479277
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-189.0888824	Loss_G:189.1427612	loss_E:-0.0479199
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-189.2893066	Loss_G:189.3428345	loss_E:-0.0479514
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-190.7335815	Loss_G:190.7868347	loss_E:-0.0479510
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-190.2169342	Loss_G:190.2700043	loss_E:-0.0479649
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-196.0191345	Loss_G:196.0720367	loss_E:-0.0479747
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-192.9454041	Loss_G:192.9982910	loss_E:-0.0479738
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-189.7120514	Loss_G:189.7644348	loss_E:-0.0479792
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-191.8383026	Loss_G:191.8902893	loss_E:-0.0479902
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-192.0065002	Loss_G:192.0586853	loss_E:-0.0479858
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-192.5382385	Loss_G:192.5903625	loss_E:-0.0480024
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-192.8262177	Loss_G:192.8780212	loss_E:-0.0479922
+Epoch  30	Loss_D_avg:-156.3031319	Loss_G_avg:156.9846861	loss_E_avg:-0.0364929
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'generally', 'jews', 'japanese', 'look', 'prepare', 'afford', 'citizen', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'look', 'jews', 'afford', 'japanese', 'die', 'intend', 'prepare', 'final']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'generally', 'die', 'prepare', 'citizen', 'imprison']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'prepare', 'citizen', 'afford']
+['camp', 'let', 'gas', 'ii', 'happen', 'people', 'jews', 'intend', 'japanese', 'prepare', 'die', 'generally', 'final', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'generally', 'look', 'prepare', 'intend', 'citizen', 'imprison']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'jews', 'die', 'look', 'citizen', 'nazi', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'jews', 'japanese', 'imprison', 'look', 'final', 'intend', 'afford', 'die', 'nazi']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'citizen', 'final', 'generally', 'die', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'happen', 'intend', 'die', 'look', 'nazi', 'final', 'imprison', 'afford', 'prepare']
+['let', 'gas', 'camp', 'people', 'ii', 'happen', 'intend', 'jews', 'die', 'look', 'citizen', 'japanese', 'afford', 'generally', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'afford', 'imprison', 'die', 'nazi']
+['let', 'gas', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'nazi', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'generally', 'look', 'imprison', 'jews', 'final', 'die', 'citizen']
+['camp', 'gas', 'let', 'people', 'ii', 'happen', 'jews', 'look', 'generally', 'japanese', 'prepare', 'afford', 'citizen', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'generally', 'final', 'japanese', 'prepare', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'prepare', 'generally', 'japanese', 'look', 'die', 'final', 'afford']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'generally', 'die', 'imprison', 'prepare', 'japanese']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'jews', 'look', 'intend', 'citizen', 'die', 'nazi', 'generally', 'afford', 'final']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'prepare', 'look', 'generally', 'imprison', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3747716553770314, c_w2v:None, c_uci:-1.8992578488273597, c_npmi:-0.039782961027062226
+mimno topic coherence:-277.0152518730568
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-194.4409790	Loss_G:194.4928284	loss_E:-0.0479993
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-196.9337006	Loss_G:196.9852600	loss_E:-0.0480143
+| ID | GPU | MEM |
+------------------
+|  0 | 63% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-192.5343475	Loss_G:192.5857086	loss_E:-0.0480178
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-190.4566803	Loss_G:190.5078125	loss_E:-0.0480181
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-196.4739075	Loss_G:196.5249786	loss_E:-0.0480305
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-194.9715118	Loss_G:195.0224304	loss_E:-0.0480290
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-193.3853760	Loss_G:193.4361267	loss_E:-0.0480370
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-191.3020935	Loss_G:191.3526611	loss_E:-0.0480294
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-194.5040283	Loss_G:194.5545654	loss_E:-0.0480382
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-196.3275146	Loss_G:196.3780212	loss_E:-0.0480354
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-189.3806000	Loss_G:189.4308167	loss_E:-0.0480302
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-193.2453613	Loss_G:193.2955933	loss_E:-0.0480516
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-192.3432617	Loss_G:192.3933716	loss_E:-0.0480558
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-191.7786255	Loss_G:191.8285980	loss_E:-0.0480582
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-189.9281158	Loss_G:189.9779510	loss_E:-0.0480605
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-195.8320312	Loss_G:195.8818054	loss_E:-0.0480609
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-194.1487732	Loss_G:194.1984253	loss_E:-0.0480609
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-195.1826477	Loss_G:195.2322083	loss_E:-0.0480664
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-192.3595428	Loss_G:192.4090118	loss_E:-0.0480532
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-195.4328918	Loss_G:195.4824524	loss_E:-0.0480739
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-192.9445801	Loss_G:192.9939880	loss_E:-0.0480751
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 |  2% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-193.5603943	Loss_G:193.6096802	loss_E:-0.0480722
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-191.8238831	Loss_G:191.8730621	loss_E:-0.0480598
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-190.5487823	Loss_G:190.5979462	loss_E:-0.0480740
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-191.4493561	Loss_G:191.4985046	loss_E:-0.0480718
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-197.8764648	Loss_G:197.9255676	loss_E:-0.0480736
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-188.5784760	Loss_G:188.6275635	loss_E:-0.0480714
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-188.0941315	Loss_G:188.1432495	loss_E:-0.0480837
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-192.1330566	Loss_G:192.1820374	loss_E:-0.0480717
+| ID | GPU | MEM |
+------------------
+|  0 | 68% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-195.1592560	Loss_G:195.2081299	loss_E:-0.0480795
+Epoch  40	Loss_D_avg:-165.5034354	Loss_G_avg:166.0271009	loss_E_avg:-0.0393826
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'generally', 'japanese', 'jews', 'look', 'prepare', 'afford', 'citizen', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'look', 'jews', 'afford', 'japanese', 'die', 'intend', 'final', 'prepare']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'prepare', 'imprison']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'prepare', 'citizen', 'afford']
+['camp', 'let', 'gas', 'ii', 'happen', 'people', 'jews', 'intend', 'japanese', 'die', 'prepare', 'generally', 'final', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'generally', 'look', 'intend', 'prepare', 'imprison', 'citizen']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'jews', 'die', 'look', 'citizen', 'nazi', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'look', 'final', 'intend', 'afford', 'die', 'nazi']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'citizen', 'final', 'generally', 'die', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'happen', 'intend', 'die', 'look', 'nazi', 'final', 'imprison', 'afford', 'japanese']
+['let', 'gas', 'camp', 'people', 'ii', 'happen', 'intend', 'jews', 'die', 'look', 'japanese', 'citizen', 'afford', 'generally', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'afford', 'imprison', 'die', 'nazi']
+['let', 'gas', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'nazi', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'generally', 'look', 'imprison', 'jews', 'final', 'die', 'citizen']
+['camp', 'gas', 'let', 'people', 'ii', 'happen', 'jews', 'look', 'generally', 'japanese', 'afford', 'prepare', 'citizen', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'generally', 'final', 'japanese', 'prepare', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'prepare', 'generally', 'japanese', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'generally', 'die', 'imprison', 'japanese', 'prepare']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'jews', 'look', 'intend', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'look', 'prepare', 'generally', 'imprison', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.37375694481064203, c_w2v:None, c_uci:-1.9445374087907719, c_npmi:-0.04136632850559439
+mimno topic coherence:-279.84449170195114
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-192.8292999	Loss_G:192.8786163	loss_E:-0.0480864
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-191.1203003	Loss_G:191.1692200	loss_E:-0.0480869
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-198.3017426	Loss_G:198.3505859	loss_E:-0.0480683
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-191.4500732	Loss_G:191.4988556	loss_E:-0.0480584
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-192.9614563	Loss_G:193.0102844	loss_E:-0.0480834
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-192.2701721	Loss_G:192.3189087	loss_E:-0.0480909
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-191.3950348	Loss_G:191.4438019	loss_E:-0.0480813
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-192.9999695	Loss_G:193.0486908	loss_E:-0.0480870
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-193.5512543	Loss_G:193.6000671	loss_E:-0.0480868
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-193.8783264	Loss_G:193.9271240	loss_E:-0.0480942
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-195.0039062	Loss_G:195.0527191	loss_E:-0.0480977
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-193.5864563	Loss_G:193.6351471	loss_E:-0.0480896
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-195.9084778	Loss_G:195.9572144	loss_E:-0.0480962
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-192.6880035	Loss_G:192.7366943	loss_E:-0.0481018
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-191.3554535	Loss_G:191.4040833	loss_E:-0.0480865
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-193.7377777	Loss_G:193.7863770	loss_E:-0.0480996
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-192.1703339	Loss_G:192.2189026	loss_E:-0.0480836
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-188.2503357	Loss_G:188.2988739	loss_E:-0.0481015
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-193.3060303	Loss_G:193.3545837	loss_E:-0.0480972
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-192.2049255	Loss_G:192.2534180	loss_E:-0.0480992
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-194.1529846	Loss_G:194.2015076	loss_E:-0.0480941
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-193.6010895	Loss_G:193.6495667	loss_E:-0.0480904
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-193.9785614	Loss_G:194.0270691	loss_E:-0.0481033
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-194.0990295	Loss_G:194.1474609	loss_E:-0.0481021
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-195.1745911	Loss_G:195.2230530	loss_E:-0.0480999
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-193.6942596	Loss_G:193.7426910	loss_E:-0.0481050
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-193.9555054	Loss_G:194.0039062	loss_E:-0.0480927
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-199.9447479	Loss_G:199.9931641	loss_E:-0.0481074
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-193.2011261	Loss_G:193.2495422	loss_E:-0.0481098
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-191.1982117	Loss_G:191.2465515	loss_E:-0.0480988
+Epoch  50	Loss_D_avg:-171.0825445	Loss_G_avg:171.5112052	loss_E_avg:-0.0411246
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'generally', 'japanese', 'jews', 'look', 'prepare', 'afford', 'citizen', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'look', 'jews', 'afford', 'japanese', 'die', 'intend', 'final', 'prepare']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'prepare', 'imprison']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'prepare', 'afford']
+['camp', 'let', 'gas', 'ii', 'happen', 'jews', 'intend', 'people', 'japanese', 'die', 'generally', 'final', 'prepare', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'generally', 'look', 'intend', 'imprison', 'citizen', 'prepare']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'jews', 'die', 'look', 'citizen', 'nazi', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'look', 'final', 'intend', 'afford', 'die', 'nazi']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'citizen', 'final', 'generally', 'die', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'happen', 'intend', 'die', 'look', 'nazi', 'final', 'imprison', 'afford', 'japanese']
+['let', 'gas', 'camp', 'people', 'ii', 'intend', 'happen', 'jews', 'die', 'look', 'japanese', 'citizen', 'afford', 'generally', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'afford', 'imprison', 'die', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'nazi', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'generally', 'look', 'imprison', 'jews', 'final', 'die', 'citizen']
+['camp', 'gas', 'let', 'people', 'ii', 'happen', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'prepare', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'prepare', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'prepare', 'japanese', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'die', 'generally', 'imprison', 'japanese', 'prepare']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'look', 'generally', 'prepare', 'imprison', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.37215617250127275, c_w2v:None, c_uci:-1.9601155417593201, c_npmi:-0.04165680314992652
+mimno topic coherence:-280.47981931162224
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-194.3084412	Loss_G:194.3568420	loss_E:-0.0481096
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-194.6285858	Loss_G:194.6769714	loss_E:-0.0481074
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-191.1123047	Loss_G:191.1607666	loss_E:-0.0481052
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-192.3622894	Loss_G:192.4107056	loss_E:-0.0481105
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-194.2535706	Loss_G:194.3020477	loss_E:-0.0481064
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-194.3426514	Loss_G:194.3910217	loss_E:-0.0480960
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-193.8489838	Loss_G:193.8972778	loss_E:-0.0481001
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-195.1561737	Loss_G:195.2044678	loss_E:-0.0481103
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-191.0022125	Loss_G:191.0506287	loss_E:-0.0481092
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-197.9193420	Loss_G:197.9675903	loss_E:-0.0481022
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-187.5719910	Loss_G:187.6202393	loss_E:-0.0480951
+| ID | GPU | MEM |
+------------------
+|  0 | 67% | 20% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-193.6773376	Loss_G:193.7256165	loss_E:-0.0480940
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-191.8462677	Loss_G:191.8945160	loss_E:-0.0481042
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-189.6645508	Loss_G:189.7128296	loss_E:-0.0481005
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-192.5736237	Loss_G:192.6218872	loss_E:-0.0481059
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-190.3657837	Loss_G:190.4141693	loss_E:-0.0481064
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-198.1533203	Loss_G:198.2015686	loss_E:-0.0480986
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-193.7656403	Loss_G:193.8138733	loss_E:-0.0481032
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-193.0390472	Loss_G:193.0873871	loss_E:-0.0481136
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-191.7903748	Loss_G:191.8385773	loss_E:-0.0481126
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-191.9074402	Loss_G:191.9556580	loss_E:-0.0481051
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-195.1912079	Loss_G:195.2394104	loss_E:-0.0481131
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-193.8541107	Loss_G:193.9023438	loss_E:-0.0481106
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 20% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-187.8105774	Loss_G:187.8587952	loss_E:-0.0481106
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-196.1214294	Loss_G:196.1695862	loss_E:-0.0480858
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-191.4150848	Loss_G:191.4632568	loss_E:-0.0481033
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 20% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-193.2743683	Loss_G:193.3225403	loss_E:-0.0481116
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-194.7568359	Loss_G:194.8050079	loss_E:-0.0481059
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-197.9828033	Loss_G:198.0309296	loss_E:-0.0480820
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-193.1869354	Loss_G:193.2352905	loss_E:-0.0481100
+Epoch  60	Loss_D_avg:-174.7736943	Loss_G_avg:175.1389588	loss_E_avg:-0.0422879
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'generally', 'jews', 'look', 'prepare', 'afford', 'citizen', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'look', 'jews', 'afford', 'japanese', 'die', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'prepare']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'prepare']
+['camp', 'let', 'gas', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'prepare', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'intend', 'imprison', 'citizen', 'prepare']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'jews', 'die', 'look', 'citizen', 'nazi', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'final', 'look', 'intend', 'afford', 'die', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'citizen', 'final', 'generally', 'die', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'happen', 'intend', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'japanese']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'jews', 'die', 'look', 'japanese', 'citizen', 'afford', 'generally', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'afford', 'die', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'nazi', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'generally', 'look', 'imprison', 'jews', 'final', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'prepare', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'prepare', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'prepare', 'japanese', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'die', 'generally', 'imprison', 'japanese', 'prepare']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'look', 'generally', 'prepare', 'imprison', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36763418520387325, c_w2v:None, c_uci:-1.9810580259452224, c_npmi:-0.04216475546353721
+mimno topic coherence:-280.47981931162224
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-190.6894989	Loss_G:190.7376556	loss_E:-0.0481148
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-190.5724640	Loss_G:190.6206360	loss_E:-0.0481026
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-195.6872101	Loss_G:195.7353821	loss_E:-0.0481144
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-190.6018524	Loss_G:190.6500244	loss_E:-0.0481071
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-191.9389191	Loss_G:191.9870911	loss_E:-0.0481137
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-187.5511627	Loss_G:187.5993958	loss_E:-0.0481129
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-190.6895599	Loss_G:190.7377319	loss_E:-0.0481076
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-195.0773010	Loss_G:195.1254272	loss_E:-0.0481014
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-194.3514404	Loss_G:194.3995819	loss_E:-0.0481133
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-191.0381927	Loss_G:191.0863953	loss_E:-0.0481118
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-194.6999359	Loss_G:194.7480774	loss_E:-0.0481100
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 20% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-191.1555328	Loss_G:191.2037354	loss_E:-0.0481138
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-193.4218903	Loss_G:193.4700317	loss_E:-0.0481142
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-191.9692535	Loss_G:192.0174255	loss_E:-0.0481163
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-190.7488556	Loss_G:190.7969971	loss_E:-0.0481148
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-194.3231354	Loss_G:194.3712769	loss_E:-0.0481147
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-193.1896210	Loss_G:193.2377472	loss_E:-0.0481029
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-193.8876495	Loss_G:193.9357910	loss_E:-0.0481149
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-192.2601624	Loss_G:192.3083344	loss_E:-0.0481052
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-190.8650360	Loss_G:190.9132385	loss_E:-0.0481034
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 20% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-191.3590088	Loss_G:191.4071350	loss_E:-0.0480869
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-191.9402161	Loss_G:191.9885406	loss_E:-0.0481074
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-191.5048370	Loss_G:191.5529633	loss_E:-0.0481152
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-194.7304077	Loss_G:194.7786255	loss_E:-0.0480745
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-192.0277252	Loss_G:192.0758514	loss_E:-0.0481055
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-186.9134674	Loss_G:186.9615784	loss_E:-0.0480861
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-193.4519653	Loss_G:193.5000763	loss_E:-0.0480996
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-191.3017883	Loss_G:191.3498993	loss_E:-0.0481110
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-194.5270233	Loss_G:194.5753784	loss_E:-0.0481133
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-192.5802612	Loss_G:192.6283722	loss_E:-0.0481163
+Epoch  70	Loss_D_avg:-177.2586683	Loss_G_avg:177.5786333	loss_E_avg:-0.0431193
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'generally', 'look', 'jews', 'afford', 'final', 'citizen', 'prepare']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'look', 'jews', 'afford', 'japanese', 'die', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'prepare', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'intend', 'imprison', 'citizen', 'prepare']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'jews', 'die', 'look', 'nazi', 'citizen', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'final', 'look', 'intend', 'afford', 'die', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'citizen', 'final', 'generally', 'die', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'japanese']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'jews', 'die', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'afford', 'die', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'generally', 'look', 'imprison', 'jews', 'final', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'prepare', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'nazi', 'imprison']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'prepare', 'japanese', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'die', 'generally', 'imprison', 'japanese', 'citizen']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'look', 'generally', 'imprison', 'prepare', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36576826631308246, c_w2v:None, c_uci:-1.9418108840312296, c_npmi:-0.040520950139093716
+mimno topic coherence:-278.2937680348841
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-193.9750671	Loss_G:194.0232086	loss_E:-0.0480954
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-189.2675629	Loss_G:189.3156586	loss_E:-0.0480956
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-185.0830231	Loss_G:185.1311340	loss_E:-0.0481109
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-194.7887726	Loss_G:194.8368835	loss_E:-0.0481066
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-191.8538361	Loss_G:191.9019470	loss_E:-0.0481128
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-189.2093201	Loss_G:189.2575073	loss_E:-0.0481003
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-194.1205292	Loss_G:194.1686401	loss_E:-0.0481138
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-195.1957245	Loss_G:195.2439423	loss_E:-0.0481121
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-196.2129974	Loss_G:196.2611237	loss_E:-0.0481043
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-195.3702545	Loss_G:195.4183960	loss_E:-0.0481142
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-192.1154938	Loss_G:192.1636658	loss_E:-0.0481144
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-191.5924988	Loss_G:191.6406250	loss_E:-0.0481017
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-190.5172882	Loss_G:190.5654144	loss_E:-0.0481101
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-195.3703156	Loss_G:195.4184265	loss_E:-0.0481145
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-193.2199402	Loss_G:193.2680359	loss_E:-0.0480932
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-187.9309387	Loss_G:187.9790955	loss_E:-0.0480897
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-190.2266541	Loss_G:190.2748108	loss_E:-0.0481189
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-193.4524078	Loss_G:193.5005188	loss_E:-0.0481123
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-190.7789001	Loss_G:190.8270111	loss_E:-0.0480930
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-192.9002838	Loss_G:192.9483948	loss_E:-0.0481151
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-194.4404755	Loss_G:194.4885864	loss_E:-0.0481124
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-193.3070374	Loss_G:193.3552856	loss_E:-0.0480952
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-193.6267700	Loss_G:193.6748962	loss_E:-0.0480948
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-191.9412842	Loss_G:191.9894409	loss_E:-0.0481186
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-198.0439301	Loss_G:198.0920410	loss_E:-0.0481122
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-192.2900696	Loss_G:192.3381653	loss_E:-0.0480863
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-194.4695282	Loss_G:194.5176544	loss_E:-0.0481087
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-191.9122772	Loss_G:191.9603882	loss_E:-0.0481058
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-193.2490540	Loss_G:193.2971497	loss_E:-0.0480894
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-193.1037598	Loss_G:193.1518555	loss_E:-0.0481008
+Epoch  80	Loss_D_avg:-179.1828597	Loss_G_avg:179.4688454	loss_E_avg:-0.0437425
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'generally', 'look', 'jews', 'afford', 'final', 'nazi', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'generally', 'look', 'jews', 'afford', 'japanese', 'die', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'prepare', 'imprison', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'intend', 'imprison', 'citizen', 'prepare']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'prepare']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'final', 'look', 'intend', 'afford', 'die', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'generally', 'die', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'japanese']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'jews', 'die', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'afford', 'die', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'generally', 'imprison', 'jews', 'final', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'prepare', 'nazi', 'imprison']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'prepare', 'japanese', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'jews', 'happen', 'final', 'look', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'jews', 'intend', 'japanese', 'look', 'generally', 'imprison', 'prepare', 'afford', 'final']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36579033823904117, c_w2v:None, c_uci:-1.920027534313898, c_npmi:-0.03953873231249372
+mimno topic coherence:-278.2937680348841
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-191.5345001	Loss_G:191.5826111	loss_E:-0.0481125
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-191.6216431	Loss_G:191.6697693	loss_E:-0.0480934
+| ID | GPU | MEM |
+------------------
+|  0 | 68% | 20% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-192.7550507	Loss_G:192.8031311	loss_E:-0.0480863
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-192.2609863	Loss_G:192.3091278	loss_E:-0.0480956
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-192.8422241	Loss_G:192.8903198	loss_E:-0.0480934
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 20% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-198.8285522	Loss_G:198.8766632	loss_E:-0.0481149
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-194.5275726	Loss_G:194.5757751	loss_E:-0.0481193
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-195.1089020	Loss_G:195.1569824	loss_E:-0.0480827
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-193.0455780	Loss_G:193.0937195	loss_E:-0.0481058
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-192.9584198	Loss_G:193.0065613	loss_E:-0.0481059
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-191.7669067	Loss_G:191.8150940	loss_E:-0.0481074
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-192.9584503	Loss_G:193.0065460	loss_E:-0.0480954
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-191.3892212	Loss_G:191.4373474	loss_E:-0.0480918
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-196.2713013	Loss_G:196.3193970	loss_E:-0.0480983
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-193.2780914	Loss_G:193.3262024	loss_E:-0.0481040
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-189.5292511	Loss_G:189.5774841	loss_E:-0.0481147
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-194.4695129	Loss_G:194.5176392	loss_E:-0.0481038
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-190.9531555	Loss_G:191.0014343	loss_E:-0.0480916
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-189.1223602	Loss_G:189.1706238	loss_E:-0.0481094
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-193.2199249	Loss_G:193.2680664	loss_E:-0.0481156
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-190.0814667	Loss_G:190.1295776	loss_E:-0.0481037
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-196.2712402	Loss_G:196.3193817	loss_E:-0.0481109
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-192.9293671	Loss_G:192.9775085	loss_E:-0.0481082
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-193.3071594	Loss_G:193.3552704	loss_E:-0.0481118
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-190.4011688	Loss_G:190.4492798	loss_E:-0.0481169
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 20% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-190.7207947	Loss_G:190.7688904	loss_E:-0.0480896
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-193.7140198	Loss_G:193.7621155	loss_E:-0.0480993
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-194.9344940	Loss_G:194.9826202	loss_E:-0.0481059
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-192.7549896	Loss_G:192.8031158	loss_E:-0.0480870
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-195.5738678	Loss_G:195.6219482	loss_E:-0.0480742
+Epoch  90	Loss_D_avg:-180.7148760	Loss_G_avg:180.9744337	loss_E_avg:-0.0442269
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'look', 'generally', 'jews', 'final', 'afford', 'die', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'afford', 'die', 'japanese', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'imprison', 'prepare', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'intend', 'imprison', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'final', 'look', 'intend', 'afford', 'die', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'generally', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'japanese']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'jews', 'die', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'jews', 'final', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'generally', 'imprison', 'final', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'prepare']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'prepare', 'japanese', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'happen', 'jews', 'look', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'jews', 'japanese', 'look', 'generally', 'imprison', 'prepare', 'final', 'afford']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3635138415021252, c_w2v:None, c_uci:-1.9099282392129928, c_npmi:-0.03876754280412287
+mimno topic coherence:-279.98743233738446
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-192.1446533	Loss_G:192.1928711	loss_E:-0.0480984
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-191.1566925	Loss_G:191.2048035	loss_E:-0.0481046
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-189.9652710	Loss_G:190.0133667	loss_E:-0.0480947
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-190.7789459	Loss_G:190.8270264	loss_E:-0.0480857
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-192.9875031	Loss_G:193.0356140	loss_E:-0.0481078
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-190.2267151	Loss_G:190.2749023	loss_E:-0.0481168
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-193.2781219	Loss_G:193.3262024	loss_E:-0.0480871
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-190.2848969	Loss_G:190.3330078	loss_E:-0.0481043
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-191.3890076	Loss_G:191.4372559	loss_E:-0.0480919
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-193.0746613	Loss_G:193.1227722	loss_E:-0.0481049
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-192.9873810	Loss_G:193.0355988	loss_E:-0.0481095
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-193.4524231	Loss_G:193.5005341	loss_E:-0.0480987
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-192.3771973	Loss_G:192.4253387	loss_E:-0.0481057
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-194.0917511	Loss_G:194.1398926	loss_E:-0.0480817
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-191.7960052	Loss_G:191.8441162	loss_E:-0.0481039
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-195.0214996	Loss_G:195.0697632	loss_E:-0.0481118
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-199.3225555	Loss_G:199.3706665	loss_E:-0.0481157
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-189.2097015	Loss_G:189.2578125	loss_E:-0.0481033
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-195.0507202	Loss_G:195.0988159	loss_E:-0.0480904
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-196.1259613	Loss_G:196.1740723	loss_E:-0.0481179
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-193.6848907	Loss_G:193.7330017	loss_E:-0.0481088
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-198.0729675	Loss_G:198.1210785	loss_E:-0.0481117
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-193.1037140	Loss_G:193.1518250	loss_E:-0.0481118
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-191.7378998	Loss_G:191.7860107	loss_E:-0.0481050
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-192.8711853	Loss_G:192.9193420	loss_E:-0.0481199
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-193.2777405	Loss_G:193.3261719	loss_E:-0.0480961
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 20% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-191.6797333	Loss_G:191.7279053	loss_E:-0.0481095
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-187.9891205	Loss_G:188.0372620	loss_E:-0.0481071
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-195.4285126	Loss_G:195.4766083	loss_E:-0.0480977
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-199.1772614	Loss_G:199.2253418	loss_E:-0.0480843
+Epoch 100	Loss_D_avg:-181.9492040	Loss_G_avg:182.1876202	loss_E_avg:-0.0446145
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'look', 'generally', 'jews', 'final', 'afford', 'die', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'afford', 'die', 'japanese', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'imprison', 'prepare', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'imprison', 'intend', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'final', 'look', 'intend', 'afford', 'die', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'generally', 'japanese']
+['camp', 'let', 'gas', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'citizen']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'die', 'jews', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'final', 'jews', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'generally', 'imprison', 'final', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'final']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'japanese', 'prepare', 'look', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'happen', 'jews', 'look', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'citizen', 'die', 'nazi', 'generally', 'final', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'jews', 'japanese', 'look', 'generally', 'imprison', 'final', 'afford', 'prepare']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36519406615399314, c_w2v:None, c_uci:-1.8579779327125359, c_npmi:-0.036711341939122115
+mimno topic coherence:-280.4446030607053
+epoch is: 100
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 20% |
+|  1 |  0% |  0% |
+Epoch 101	Iter    1	Loss_D:-190.4882965	Loss_G:190.5364075	loss_E:-0.0481077
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 101	Iter   11	Loss_D:-194.7891235	Loss_G:194.8372803	loss_E:-0.0480925
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 101	Iter   21	Loss_D:-192.6677399	Loss_G:192.7158813	loss_E:-0.0481073
+epoch is: 101
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 102	Iter    1	Loss_D:-192.1736908	Loss_G:192.2218933	loss_E:-0.0481159
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 102	Iter   11	Loss_D:-191.8249969	Loss_G:191.8731689	loss_E:-0.0481084
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch 102	Iter   21	Loss_D:-191.8250427	Loss_G:191.8731537	loss_E:-0.0481133
+epoch is: 102
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 103	Iter    1	Loss_D:-190.8660736	Loss_G:190.9141846	loss_E:-0.0481133
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 103	Iter   11	Loss_D:-196.7361908	Loss_G:196.7843018	loss_E:-0.0481164
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch 103	Iter   21	Loss_D:-194.7310181	Loss_G:194.7791595	loss_E:-0.0480914
+epoch is: 103
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 104	Iter    1	Loss_D:-189.8199158	Loss_G:189.8680420	loss_E:-0.0481127
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 104	Iter   11	Loss_D:-189.5292969	Loss_G:189.5774231	loss_E:-0.0480982
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch 104	Iter   21	Loss_D:-193.4813995	Loss_G:193.5295715	loss_E:-0.0481134
+epoch is: 104
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 105	Iter    1	Loss_D:-192.9002533	Loss_G:192.9483948	loss_E:-0.0481149
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 105	Iter   11	Loss_D:-194.2951202	Loss_G:194.3432312	loss_E:-0.0480944
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch 105	Iter   21	Loss_D:-190.3139343	Loss_G:190.3620605	loss_E:-0.0480975
+epoch is: 105
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 106	Iter    1	Loss_D:-194.5565796	Loss_G:194.6047668	loss_E:-0.0480464
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 106	Iter   11	Loss_D:-198.7412872	Loss_G:198.7893982	loss_E:-0.0481059
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 106	Iter   21	Loss_D:-192.6675568	Loss_G:192.7158813	loss_E:-0.0481023
+epoch is: 106
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 107	Iter    1	Loss_D:-196.1549225	Loss_G:196.2030792	loss_E:-0.0481177
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 107	Iter   11	Loss_D:-190.6625977	Loss_G:190.7107239	loss_E:-0.0481049
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch 107	Iter   21	Loss_D:-191.8541107	Loss_G:191.9022217	loss_E:-0.0481110
+epoch is: 107
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 108	Iter    1	Loss_D:-192.9584045	Loss_G:193.0065002	loss_E:-0.0480885
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 108	Iter   11	Loss_D:-200.2231750	Loss_G:200.2715149	loss_E:-0.0480987
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 108	Iter   21	Loss_D:-195.8353119	Loss_G:195.8834229	loss_E:-0.0481075
+epoch is: 108
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 109	Iter    1	Loss_D:-196.4455872	Loss_G:196.4936829	loss_E:-0.0480994
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch 109	Iter   11	Loss_D:-192.0574493	Loss_G:192.1056519	loss_E:-0.0481124
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 109	Iter   21	Loss_D:-197.3461609	Loss_G:197.3945312	loss_E:-0.0481034
+epoch is: 109
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 110	Iter    1	Loss_D:-192.5514679	Loss_G:192.5996399	loss_E:-0.0481122
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 110	Iter   11	Loss_D:-195.8934021	Loss_G:195.9415588	loss_E:-0.0481200
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch 110	Iter   21	Loss_D:-193.5686798	Loss_G:193.6167297	loss_E:-0.0480460
+Epoch 110	Loss_D_avg:-183.0082424	Loss_G_avg:183.2293622	loss_E_avg:-0.0449316
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'look', 'generally', 'jews', 'final', 'afford', 'die', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'afford', 'die', 'japanese', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'imprison', 'prepare', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'imprison', 'intend', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'people', 'happen', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'imprison', 'final', 'look', 'intend', 'die', 'afford', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'generally', 'japanese']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'citizen']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'die', 'jews', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'final', 'jews', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'generally', 'imprison', 'final', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'final']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'japanese', 'look', 'prepare', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'look', 'happen', 'jews', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'die', 'citizen', 'nazi', 'final', 'generally', 'afford']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'japanese', 'jews', 'look', 'generally', 'imprison', 'final', 'afford', 'prepare']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36519406615399314, c_w2v:None, c_uci:-1.8579779327125359, c_npmi:-0.036711341939122115
+mimno topic coherence:-279.8849872727699
+epoch is: 110
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 111	Iter    1	Loss_D:-195.5156708	Loss_G:195.5637817	loss_E:-0.0480733
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 111	Iter   11	Loss_D:-190.2268066	Loss_G:190.2749023	loss_E:-0.0480881
+| ID | GPU | MEM |
+------------------
+|  0 | 63% | 20% |
+|  1 |  0% |  0% |
+Epoch 111	Iter   21	Loss_D:-187.6113281	Loss_G:187.6594238	loss_E:-0.0481013
+epoch is: 111
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 112	Iter    1	Loss_D:-188.7155914	Loss_G:188.7637329	loss_E:-0.0481110
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 112	Iter   11	Loss_D:-194.6437836	Loss_G:194.6919250	loss_E:-0.0481140
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch 112	Iter   21	Loss_D:-193.8301849	Loss_G:193.8782654	loss_E:-0.0480813
+epoch is: 112
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 113	Iter    1	Loss_D:-196.3002777	Loss_G:196.3483887	loss_E:-0.0481043
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 113	Iter   11	Loss_D:-196.2712402	Loss_G:196.3193512	loss_E:-0.0481039
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch 113	Iter   21	Loss_D:-192.4643555	Loss_G:192.5124512	loss_E:-0.0480977
+epoch is: 113
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 114	Iter    1	Loss_D:-190.5463715	Loss_G:190.5944824	loss_E:-0.0481143
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 114	Iter   11	Loss_D:-198.2473907	Loss_G:198.2955322	loss_E:-0.0481127
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 114	Iter   21	Loss_D:-193.6849060	Loss_G:193.7330017	loss_E:-0.0480901
+epoch is: 114
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 115	Iter    1	Loss_D:-195.7481842	Loss_G:195.7962646	loss_E:-0.0480795
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 115	Iter   11	Loss_D:-192.0865631	Loss_G:192.1346741	loss_E:-0.0480750
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch 115	Iter   21	Loss_D:-196.6780243	Loss_G:196.7261658	loss_E:-0.0481133
+epoch is: 115
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 116	Iter    1	Loss_D:-189.3258362	Loss_G:189.3739777	loss_E:-0.0480996
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 116	Iter   11	Loss_D:-191.7378540	Loss_G:191.7859497	loss_E:-0.0480970
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch 116	Iter   21	Loss_D:-191.7377625	Loss_G:191.7859497	loss_E:-0.0481065
+epoch is: 116
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 117	Iter    1	Loss_D:-196.3293304	Loss_G:196.3774414	loss_E:-0.0481039
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 117	Iter   11	Loss_D:-193.0455322	Loss_G:193.0936279	loss_E:-0.0480929
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 117	Iter   21	Loss_D:-195.1087799	Loss_G:195.1569214	loss_E:-0.0481047
+epoch is: 117
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch 118	Iter    1	Loss_D:-191.7378235	Loss_G:191.7859650	loss_E:-0.0481043
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 118	Iter   11	Loss_D:-193.4233246	Loss_G:193.4714203	loss_E:-0.0481033
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 118	Iter   21	Loss_D:-191.7087860	Loss_G:191.7568970	loss_E:-0.0481081
+epoch is: 118
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 119	Iter    1	Loss_D:-195.3703156	Loss_G:195.4184265	loss_E:-0.0481132
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 119	Iter   11	Loss_D:-192.2028046	Loss_G:192.2509155	loss_E:-0.0481028
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 119	Iter   21	Loss_D:-199.6130524	Loss_G:199.6611938	loss_E:-0.0481155
+epoch is: 119
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 120	Iter    1	Loss_D:-192.1155853	Loss_G:192.1637421	loss_E:-0.0481098
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 120	Iter   11	Loss_D:-192.0284271	Loss_G:192.0765381	loss_E:-0.0481073
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 120	Iter   21	Loss_D:-192.7549438	Loss_G:192.8030396	loss_E:-0.0480649
+Epoch 120	Loss_D_avg:-183.8709189	Loss_G_avg:184.0776219	loss_E_avg:-0.0451956
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'look', 'generally', 'jews', 'final', 'die', 'afford', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'afford', 'die', 'japanese', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'japanese', 'die', 'final', 'generally', 'imprison', 'prepare', 'citizen']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'imprison', 'intend', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'happen', 'people', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'final', 'imprison', 'look', 'intend', 'die', 'afford', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'generally', 'japanese']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'citizen']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'die', 'jews', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'final', 'jews', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'imprison', 'generally', 'final', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'final']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'japanese', 'look', 'prepare', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'look', 'happen', 'jews', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['let', 'gas', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'die', 'citizen', 'nazi', 'final', 'generally', 'japanese']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'japanese', 'jews', 'look', 'generally', 'imprison', 'final', 'afford', 'prepare']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.366148888675408, c_w2v:None, c_uci:-1.8796729307042992, c_npmi:-0.03760127399816731
+mimno topic coherence:-279.8849872727699
+epoch is: 120
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 121	Iter    1	Loss_D:-193.1908569	Loss_G:193.2389526	loss_E:-0.0481011
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 121	Iter   11	Loss_D:-189.9651794	Loss_G:190.0132751	loss_E:-0.0481008
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 121	Iter   21	Loss_D:-193.1617279	Loss_G:193.2098694	loss_E:-0.0481166
+epoch is: 121
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 122	Iter    1	Loss_D:-193.3361511	Loss_G:193.3842621	loss_E:-0.0480976
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch 122	Iter   11	Loss_D:-194.8762207	Loss_G:194.9244080	loss_E:-0.0480971
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 122	Iter   21	Loss_D:-188.7155914	Loss_G:188.7637024	loss_E:-0.0481118
+epoch is: 122
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 123	Iter    1	Loss_D:-189.7326813	Loss_G:189.7807922	loss_E:-0.0481083
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 123	Iter   11	Loss_D:-193.5976715	Loss_G:193.6457977	loss_E:-0.0481014
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch 123	Iter   21	Loss_D:-191.7088013	Loss_G:191.7568817	loss_E:-0.0480838
+epoch is: 123
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 124	Iter    1	Loss_D:-194.1788635	Loss_G:194.2269592	loss_E:-0.0480909
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 124	Iter   11	Loss_D:-186.2164612	Loss_G:186.2645569	loss_E:-0.0480991
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 124	Iter   21	Loss_D:-196.2421570	Loss_G:196.2902527	loss_E:-0.0480980
+epoch is: 124
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 125	Iter    1	Loss_D:-190.6626282	Loss_G:190.7107239	loss_E:-0.0481000
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 125	Iter   11	Loss_D:-191.1566467	Loss_G:191.2047577	loss_E:-0.0481030
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 125	Iter   21	Loss_D:-190.0523529	Loss_G:190.1004791	loss_E:-0.0481148
+epoch is: 125
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 126	Iter    1	Loss_D:-193.9464264	Loss_G:193.9945374	loss_E:-0.0481128
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 126	Iter   11	Loss_D:-191.4472198	Loss_G:191.4953461	loss_E:-0.0481100
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 126	Iter   21	Loss_D:-190.3138275	Loss_G:190.3619995	loss_E:-0.0481083
+epoch is: 126
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 127	Iter    1	Loss_D:-195.0506592	Loss_G:195.0987701	loss_E:-0.0481165
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch 127	Iter   11	Loss_D:-194.7601166	Loss_G:194.8081665	loss_E:-0.0480493
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 20% |
+|  1 |  0% |  0% |
+Epoch 127	Iter   21	Loss_D:-199.3806000	Loss_G:199.4287109	loss_E:-0.0481160
+epoch is: 127
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 128	Iter    1	Loss_D:-190.7207489	Loss_G:190.7688599	loss_E:-0.0481166
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 128	Iter   11	Loss_D:-190.4010773	Loss_G:190.4491882	loss_E:-0.0481104
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 128	Iter   21	Loss_D:-193.8882599	Loss_G:193.9363708	loss_E:-0.0481089
+epoch is: 128
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 129	Iter    1	Loss_D:-194.1497955	Loss_G:194.1978912	loss_E:-0.0480745
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch 129	Iter   11	Loss_D:-187.4949951	Loss_G:187.5431824	loss_E:-0.0480995
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 129	Iter   21	Loss_D:-193.5685272	Loss_G:193.6166992	loss_E:-0.0481159
+epoch is: 129
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 130	Iter    1	Loss_D:-190.9531708	Loss_G:191.0012817	loss_E:-0.0481103
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 130	Iter   11	Loss_D:-194.6729431	Loss_G:194.7210083	loss_E:-0.0480586
+| ID | GPU | MEM |
+------------------
+|  0 | 63% | 20% |
+|  1 |  0% |  0% |
+Epoch 130	Iter   21	Loss_D:-193.0455322	Loss_G:193.0936432	loss_E:-0.0481038
+Epoch 130	Loss_D_avg:-184.5233813	Loss_G_avg:184.7178851	loss_E_avg:-0.0454191
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'look', 'generally', 'jews', 'final', 'die', 'afford', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'afford', 'die', 'japanese', 'intend', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'die', 'japanese', 'final', 'generally', 'imprison', 'citizen', 'prepare']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'imprison', 'intend', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'happen', 'people', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'final', 'imprison', 'look', 'intend', 'die', 'afford', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'generally', 'japanese']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'citizen']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'die', 'jews', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'final', 'jews', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'imprison', 'generally', 'final', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'final']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'japanese', 'look', 'prepare', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'look', 'happen', 'jews', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['gas', 'let', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'die', 'citizen', 'nazi', 'final', 'generally', 'imprison']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'japanese', 'jews', 'look', 'generally', 'imprison', 'final', 'afford', 'prepare']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36634091539115193, c_w2v:None, c_uci:-1.8716145937361262, c_npmi:-0.03677648388666628
+mimno topic coherence:-279.8849872727699
+epoch is: 130
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 131	Iter    1	Loss_D:-192.3190308	Loss_G:192.3671417	loss_E:-0.0481053
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 131	Iter   11	Loss_D:-191.9703217	Loss_G:192.0184326	loss_E:-0.0481082
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch 131	Iter   21	Loss_D:-191.5633392	Loss_G:191.6115723	loss_E:-0.0481072
+epoch is: 131
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 132	Iter    1	Loss_D:-189.3549042	Loss_G:189.4030151	loss_E:-0.0481118
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 132	Iter   11	Loss_D:-196.2711792	Loss_G:196.3193054	loss_E:-0.0481009
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 132	Iter   21	Loss_D:-195.4284515	Loss_G:195.4765472	loss_E:-0.0480947
+epoch is: 132
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 133	Iter    1	Loss_D:-190.8078918	Loss_G:190.8560028	loss_E:-0.0481045
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 133	Iter   11	Loss_D:-195.1959229	Loss_G:195.2440491	loss_E:-0.0480931
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 133	Iter   21	Loss_D:-192.6096039	Loss_G:192.6577148	loss_E:-0.0481094
+epoch is: 133
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 134	Iter    1	Loss_D:-193.2779694	Loss_G:193.3261108	loss_E:-0.0481066
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 134	Iter   11	Loss_D:-189.9070282	Loss_G:189.9551392	loss_E:-0.0481162
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 134	Iter   21	Loss_D:-194.7309723	Loss_G:194.7790833	loss_E:-0.0481089
+epoch is: 134
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 135	Iter    1	Loss_D:-188.0181427	Loss_G:188.0662537	loss_E:-0.0481069
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch 135	Iter   11	Loss_D:-196.0967865	Loss_G:196.1448975	loss_E:-0.0481083
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 135	Iter   21	Loss_D:-192.4643402	Loss_G:192.5124512	loss_E:-0.0481115
+epoch is: 135
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 136	Iter    1	Loss_D:-195.3412170	Loss_G:195.3893433	loss_E:-0.0480995
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 136	Iter   11	Loss_D:-190.5170898	Loss_G:190.5653687	loss_E:-0.0481019
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 136	Iter   21	Loss_D:-192.2027130	Loss_G:192.2508850	loss_E:-0.0480986
+epoch is: 136
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 137	Iter    1	Loss_D:-191.4471741	Loss_G:191.4953308	loss_E:-0.0481101
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 137	Iter   11	Loss_D:-197.8113556	Loss_G:197.8594666	loss_E:-0.0481121
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 137	Iter   21	Loss_D:-195.6318512	Loss_G:195.6799622	loss_E:-0.0481080
+epoch is: 137
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 138	Iter    1	Loss_D:-194.7019348	Loss_G:194.7500458	loss_E:-0.0481154
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 138	Iter   11	Loss_D:-193.8300934	Loss_G:193.8782043	loss_E:-0.0481056
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 138	Iter   21	Loss_D:-192.2317963	Loss_G:192.2799225	loss_E:-0.0480894
+epoch is: 138
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 139	Iter    1	Loss_D:-190.8950043	Loss_G:190.9432068	loss_E:-0.0481091
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 139	Iter   11	Loss_D:-189.1514893	Loss_G:189.1995850	loss_E:-0.0480924
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 139	Iter   21	Loss_D:-193.3070526	Loss_G:193.3551636	loss_E:-0.0480887
+epoch is: 139
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 140	Iter    1	Loss_D:-188.8898315	Loss_G:188.9380493	loss_E:-0.0481059
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 140	Iter   11	Loss_D:-194.7019196	Loss_G:194.7500305	loss_E:-0.0481136
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch 140	Iter   21	Loss_D:-192.1446228	Loss_G:192.1928101	loss_E:-0.0481026
+Epoch 140	Loss_D_avg:-185.1117613	Loss_G_avg:185.2958102	loss_E_avg:-0.0456109
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'japanese', 'look', 'generally', 'jews', 'final', 'die', 'afford', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'die', 'afford', 'intend', 'japanese', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'nazi']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'afford', 'die']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'die', 'final', 'japanese', 'generally', 'imprison', 'citizen', 'prepare']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'imprison', 'intend', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'happen', 'people', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'final', 'imprison', 'look', 'intend', 'die', 'afford', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'japanese', 'generally']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'citizen']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'die', 'jews', 'look', 'japanese', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'final', 'jews', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'imprison', 'generally', 'final', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'final']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'japanese', 'look', 'prepare', 'die', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'look', 'happen', 'jews', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['gas', 'let', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'die', 'citizen', 'nazi', 'final', 'generally', 'imprison']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'japanese', 'jews', 'look', 'imprison', 'generally', 'final', 'afford', 'prepare']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.36634091539115193, c_w2v:None, c_uci:-1.8716145937361262, c_npmi:-0.03677648388666628
+mimno topic coherence:-277.0636083863606
+epoch is: 140
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 141	Iter    1	Loss_D:-196.9395905	Loss_G:196.9877014	loss_E:-0.0481041
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 141	Iter   11	Loss_D:-197.4916687	Loss_G:197.5397949	loss_E:-0.0480965
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 20% |
+|  1 |  0% |  0% |
+Epoch 141	Iter   21	Loss_D:-189.5001221	Loss_G:189.5482788	loss_E:-0.0480928
+epoch is: 141
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch 142	Iter    1	Loss_D:-194.8472595	Loss_G:194.8953552	loss_E:-0.0480979
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 142	Iter   11	Loss_D:-192.8711395	Loss_G:192.9192657	loss_E:-0.0480915
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 142	Iter   21	Loss_D:-190.4882355	Loss_G:190.5363464	loss_E:-0.0481063
+epoch is: 142
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 143	Iter    1	Loss_D:-191.0694580	Loss_G:191.1175537	loss_E:-0.0481003
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch 143	Iter   11	Loss_D:-194.3532104	Loss_G:194.4013062	loss_E:-0.0481005
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch 143	Iter   21	Loss_D:-190.1685181	Loss_G:190.2166595	loss_E:-0.0481014
+epoch is: 143
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 144	Iter    1	Loss_D:-195.8061981	Loss_G:195.8543091	loss_E:-0.0480988
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 144	Iter   11	Loss_D:-192.7548065	Loss_G:192.8030090	loss_E:-0.0481140
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 144	Iter   21	Loss_D:-191.3016357	Loss_G:191.3500366	loss_E:-0.0481145
+epoch is: 144
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch 145	Iter    1	Loss_D:-191.5053406	Loss_G:191.5534363	loss_E:-0.0480884
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 145	Iter   11	Loss_D:-193.1908112	Loss_G:193.2389221	loss_E:-0.0481148
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 145	Iter   21	Loss_D:-193.8301086	Loss_G:193.8782043	loss_E:-0.0480980
+epoch is: 145
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 146	Iter    1	Loss_D:-184.6181030	Loss_G:184.6662292	loss_E:-0.0481021
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 146	Iter   11	Loss_D:-191.0984955	Loss_G:191.1466064	loss_E:-0.0481146
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 146	Iter   21	Loss_D:-193.3651733	Loss_G:193.4132690	loss_E:-0.0480929
+epoch is: 146
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 147	Iter    1	Loss_D:-188.7156067	Loss_G:188.7637024	loss_E:-0.0480993
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 147	Iter   11	Loss_D:-194.0626526	Loss_G:194.1107483	loss_E:-0.0480923
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 147	Iter   21	Loss_D:-193.9754333	Loss_G:194.0235291	loss_E:-0.0480874
+epoch is: 147
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 148	Iter    1	Loss_D:-193.8010406	Loss_G:193.8491516	loss_E:-0.0481031
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 148	Iter   11	Loss_D:-192.8710938	Loss_G:192.9192505	loss_E:-0.0481024
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 148	Iter   21	Loss_D:-196.6198883	Loss_G:196.6679688	loss_E:-0.0480790
+epoch is: 148
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 149	Iter    1	Loss_D:-187.1463470	Loss_G:187.1944580	loss_E:-0.0481043
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 149	Iter   11	Loss_D:-193.4522858	Loss_G:193.5004425	loss_E:-0.0480828
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 20% |
+|  1 |  0% |  0% |
+Epoch 149	Iter   21	Loss_D:-194.0916901	Loss_G:194.1398010	loss_E:-0.0481089
+epoch is: 149
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 150	Iter    1	Loss_D:-193.9754639	Loss_G:194.0235901	loss_E:-0.0480890
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 150	Iter   11	Loss_D:-189.4420624	Loss_G:189.4901733	loss_E:-0.0481177
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 150	Iter   21	Loss_D:-195.7771301	Loss_G:195.8252258	loss_E:-0.0481007
+Epoch 150	Loss_D_avg:-185.6134896	Loss_G_avg:185.7884769	loss_E_avg:-0.0457769
+['camp', 'let', 'gas', 'ii', 'people', 'happen', 'intend', 'look', 'japanese', 'generally', 'jews', 'final', 'die', 'afford', 'nazi']
+['camp', 'gas', 'let', 'happen', 'people', 'ii', 'look', 'generally', 'jews', 'die', 'afford', 'intend', 'japanese', 'final', 'imprison']
+['let', 'camp', 'gas', 'ii', 'happen', 'people', 'jews', 'look', 'intend', 'afford', 'die', 'generally', 'citizen', 'imprison', 'final']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'look', 'jews', 'intend', 'final', 'imprison', 'japanese', 'citizen', 'die', 'afford']
+['camp', 'gas', 'let', 'ii', 'happen', 'intend', 'jews', 'people', 'die', 'final', 'japanese', 'generally', 'imprison', 'citizen', 'prepare']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'afford', 'japanese', 'look', 'generally', 'imprison', 'intend', 'citizen', 'final']
+['let', 'camp', 'gas', 'ii', 'intend', 'happen', 'people', 'die', 'jews', 'look', 'nazi', 'citizen', 'generally', 'afford', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'final', 'imprison', 'look', 'intend', 'die', 'afford', 'nazi']
+['gas', 'camp', 'let', 'ii', 'people', 'jews', 'look', 'intend', 'happen', 'imprison', 'final', 'citizen', 'die', 'japanese', 'generally']
+['camp', 'gas', 'let', 'ii', 'people', 'jews', 'intend', 'happen', 'die', 'look', 'final', 'nazi', 'imprison', 'afford', 'citizen']
+['let', 'gas', 'camp', 'ii', 'people', 'intend', 'happen', 'die', 'jews', 'look', 'japanese', 'citizen', 'generally', 'final', 'imprison']
+['camp', 'let', 'gas', 'people', 'happen', 'ii', 'japanese', 'jews', 'look', 'intend', 'final', 'imprison', 'die', 'afford', 'nazi']
+['gas', 'let', 'camp', 'ii', 'people', 'happen', 'intend', 'final', 'jews', 'die', 'look', 'japanese', 'imprison', 'nazi', 'citizen']
+['gas', 'camp', 'let', 'happen', 'people', 'ii', 'intend', 'japanese', 'look', 'imprison', 'final', 'generally', 'jews', 'die', 'afford']
+['camp', 'gas', 'let', 'people', 'happen', 'ii', 'jews', 'look', 'generally', 'japanese', 'afford', 'citizen', 'nazi', 'imprison', 'final']
+['let', 'camp', 'gas', 'intend', 'ii', 'people', 'happen', 'die', 'look', 'jews', 'final', 'generally', 'japanese', 'imprison', 'nazi']
+['camp', 'let', 'gas', 'ii', 'people', 'intend', 'jews', 'happen', 'generally', 'japanese', 'look', 'die', 'prepare', 'final', 'imprison']
+['gas', 'let', 'ii', 'camp', 'people', 'intend', 'final', 'look', 'happen', 'jews', 'die', 'imprison', 'generally', 'japanese', 'citizen']
+['gas', 'let', 'camp', 'happen', 'people', 'ii', 'look', 'intend', 'jews', 'die', 'citizen', 'nazi', 'final', 'generally', 'imprison']
+['camp', 'let', 'gas', 'happen', 'ii', 'people', 'intend', 'japanese', 'jews', 'look', 'imprison', 'generally', 'final', 'afford', 'prepare']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3666874918352615, c_w2v:None, c_uci:-1.8783551586398186, c_npmi:-0.037367345919145104
+mimno topic coherence:-277.0636083863606
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3666874918352615, c_w2v:None, c_uci:-1.8783551586398186, c_npmi:-0.037367345919145104
+mimno topic coherence:-277.0636083863606

@@ -1,0 +1,3757 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f87d29cfb20>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+inside train
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 18% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:0.0366613	Loss_G:2.9699826	loss_E:-0.0096787
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 20% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-7.3715081	Loss_G:10.5489645	loss_E:-0.0114241
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-17.4900055	Loss_G:20.8169327	loss_E:-0.0141851
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-18.5853958	Loss_G:21.8920326	loss_E:-0.0145320
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-29.1482086	Loss_G:32.4844742	loss_E:-0.0176512
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-39.4210281	Loss_G:42.7245903	loss_E:-0.0208566
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-40.5511513	Loss_G:43.8196907	loss_E:-0.0211268
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-52.2526665	Loss_G:55.5131378	loss_E:-0.0239059
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-61.3521576	Loss_G:64.4119186	loss_E:-0.0269841
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 |  3% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-61.4956398	Loss_G:64.4874573	loss_E:-0.0272343
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-72.6482544	Loss_G:75.6149750	loss_E:-0.0299636
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-79.9604492	Loss_G:82.7901535	loss_E:-0.0327091
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-82.2250748	Loss_G:85.0606384	loss_E:-0.0329350
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-87.2539520	Loss_G:89.9281387	loss_E:-0.0355176
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-95.1745224	Loss_G:97.7366180	loss_E:-0.0376525
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-98.2673340	Loss_G:100.8659973	loss_E:-0.0378812
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-104.2277908	Loss_G:106.6888123	loss_E:-0.0402969
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-111.3214722	Loss_G:113.7055054	loss_E:-0.0424109
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-112.4009323	Loss_G:114.7660446	loss_E:-0.0426299
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-119.5532227	Loss_G:121.8374329	loss_E:-0.0448607
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-126.7601471	Loss_G:128.9517212	loss_E:-0.0468605
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-126.9330902	Loss_G:129.1048737	loss_E:-0.0470195
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-132.8368225	Loss_G:134.9041595	loss_E:-0.0487780
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-139.7956543	Loss_G:141.8023529	loss_E:-0.0505525
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-139.2608795	Loss_G:141.2344971	loss_E:-0.0507364
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-143.3278503	Loss_G:145.2148895	loss_E:-0.0524768
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-148.9252319	Loss_G:150.7019653	loss_E:-0.0539566
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-149.1914825	Loss_G:150.9517822	loss_E:-0.0540973
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-151.8810730	Loss_G:153.5345154	loss_E:-0.0556254
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-158.6636353	Loss_G:160.2588959	loss_E:-0.0568819
+Epoch  10	Loss_D_avg:-90.2746657	Loss_G_avg:92.8441050	loss_E_avg:-0.0360474
+['look', 'afford', 'intend', 'gas', 'die', 'camp', 'nazi', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'generally', 'final', 'ii', 'imprison', 'jews', 'disease']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'concentration', 'citizen', 'generally', 'nazi', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'citizen', 'die', 'afford', 'generally', 'concentration', 'intend', 'ii', 'nazi', 'final', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'citizen', 'nazi', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'people', 'jews']
+['look', 'afford', 'gas', 'citizen', 'die', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'generally', 'disease', 'final']
+['afford', 'gas', 'look', 'die', 'citizen', 'camp', 'concentration', 'ii', 'intend', 'nazi', 'generally', 'final', 'imprison', 'disease', 'jews']
+['gas', 'citizen', 'look', 'intend', 'nazi', 'die', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'intend', 'camp', 'look', 'die', 'gas', 'final', 'concentration', 'citizen', 'generally', 'nazi', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'citizen', 'afford', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'concentration', 'intend', 'camp', 'jews', 'nazi', 'citizen', 'ii', 'final', 'generally', 'people', 'disease']
+['look', 'gas', 'camp', 'die', 'afford', 'concentration', 'citizen', 'intend', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'citizen', 'look', 'camp', 'intend', 'die', 'concentration', 'afford', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'jews', 'let']
+['camp', 'citizen', 'look', 'gas', 'intend', 'die', 'afford', 'concentration', 'ii', 'generally', 'final', 'nazi', 'disease', 'let', 'jews']
+['die', 'gas', 'look', 'concentration', 'intend', 'afford', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'generally', 'final', 'disease', 'jews']
+['look', 'die', 'citizen', 'gas', 'camp', 'intend', 'afford', 'concentration', 'generally', 'nazi', 'final', 'ii', 'jews', 'imprison', 'disease']
+['gas', 'look', 'afford', 'concentration', 'intend', 'die', 'ii', 'camp', 'citizen', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'prepare']
+['gas', 'look', 'citizen', 'afford', 'die', 'intend', 'nazi', 'disease', 'ii', 'imprison', 'camp', 'concentration', 'generally', 'final', 'jews']
+['look', 'camp', 'die', 'intend', 'gas', 'afford', 'citizen', 'concentration', 'ii', 'generally', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.06
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3452291921293701, c_w2v:None, c_uci:-1.9096460134219015, c_npmi:-0.028353154739533572
+mimno topic coherence:-287.45574775657076
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-159.4095917	Loss_G:160.9722443	loss_E:-0.0570028
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-163.4835510	Loss_G:164.9781342	loss_E:-0.0581602
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-169.1664124	Loss_G:170.5695038	loss_E:-0.0592745
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-163.9348297	Loss_G:165.2979584	loss_E:-0.0593662
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-166.7730103	Loss_G:168.0532684	loss_E:-0.0601992
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-171.1331635	Loss_G:172.3319397	loss_E:-0.0610340
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-172.5875854	Loss_G:173.7632904	loss_E:-0.0611486
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-178.6334229	Loss_G:179.7407684	loss_E:-0.0619636
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-177.9008942	Loss_G:178.9165649	loss_E:-0.0626609
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-174.5082550	Loss_G:175.4918518	loss_E:-0.0627299
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-175.6732941	Loss_G:176.5809326	loss_E:-0.0633397
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-183.4527893	Loss_G:184.2924805	loss_E:-0.0638938
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-177.5860901	Loss_G:178.3936310	loss_E:-0.0639400
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-179.7092438	Loss_G:180.4456177	loss_E:-0.0643895
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-184.6784668	Loss_G:185.3529358	loss_E:-0.0647528
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-183.7099152	Loss_G:184.3671875	loss_E:-0.0647814
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-185.4977264	Loss_G:186.0933838	loss_E:-0.0650782
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-185.1855011	Loss_G:185.7342682	loss_E:-0.0652812
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-182.2474976	Loss_G:182.7777557	loss_E:-0.0653062
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-181.0391846	Loss_G:181.5297699	loss_E:-0.0655088
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-188.7661591	Loss_G:189.2258911	loss_E:-0.0656347
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-186.4331055	Loss_G:186.8814240	loss_E:-0.0656517
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-185.2858734	Loss_G:185.7120819	loss_E:-0.0657514
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-182.4387665	Loss_G:182.8453064	loss_E:-0.0658105
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-183.6096039	Loss_G:184.0063324	loss_E:-0.0658167
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-189.1104279	Loss_G:189.4932404	loss_E:-0.0658719
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-184.2961578	Loss_G:184.6663055	loss_E:-0.0659116
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-191.0986633	Loss_G:191.4603424	loss_E:-0.0659181
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-184.3357849	Loss_G:184.6843109	loss_E:-0.0659533
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-184.2786865	Loss_G:184.6171722	loss_E:-0.0659804
+Epoch  20	Loss_D_avg:-134.7367271	Loss_G_avg:136.4099841	loss_E_avg:-0.0498256
+['look', 'afford', 'intend', 'gas', 'die', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'generally', 'final', 'ii', 'imprison', 'jews', 'disease']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'concentration', 'generally', 'citizen', 'nazi', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'die', 'citizen', 'afford', 'generally', 'concentration', 'intend', 'nazi', 'ii', 'final', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'citizen', 'nazi', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'jews', 'final']
+['look', 'afford', 'gas', 'citizen', 'die', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'generally', 'disease', 'final']
+['afford', 'gas', 'look', 'die', 'citizen', 'camp', 'concentration', 'intend', 'ii', 'nazi', 'generally', 'final', 'imprison', 'disease', 'jews']
+['gas', 'citizen', 'look', 'intend', 'nazi', 'die', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'intend', 'look', 'camp', 'die', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'citizen', 'afford', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'concentration', 'camp', 'jews', 'nazi', 'citizen', 'ii', 'final', 'generally', 'people', 'disease']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'concentration', 'intend', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'citizen', 'look', 'camp', 'intend', 'die', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'jews', 'final']
+['camp', 'citizen', 'look', 'intend', 'gas', 'die', 'afford', 'concentration', 'ii', 'generally', 'final', 'nazi', 'disease', 'let', 'jews']
+['die', 'gas', 'look', 'intend', 'concentration', 'afford', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'generally', 'final', 'disease', 'jews']
+['look', 'die', 'citizen', 'gas', 'camp', 'intend', 'afford', 'concentration', 'generally', 'nazi', 'final', 'ii', 'jews', 'imprison', 'disease']
+['look', 'gas', 'afford', 'concentration', 'intend', 'die', 'ii', 'camp', 'citizen', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'prepare']
+['gas', 'look', 'citizen', 'afford', 'die', 'intend', 'nazi', 'disease', 'ii', 'imprison', 'camp', 'concentration', 'generally', 'final', 'jews']
+['look', 'camp', 'die', 'intend', 'gas', 'afford', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.06
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34259476451461907, c_w2v:None, c_uci:-1.9403558128130836, c_npmi:-0.02932974809698969
+mimno topic coherence:-287.4617179235573
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-180.9327393	Loss_G:181.2620087	loss_E:-0.0659855
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-185.6330566	Loss_G:185.9536896	loss_E:-0.0660082
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-190.1248627	Loss_G:190.4369965	loss_E:-0.0660298
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-189.3648224	Loss_G:189.6686707	loss_E:-0.0660321
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-183.6591644	Loss_G:183.9543304	loss_E:-0.0660560
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-188.4651794	Loss_G:188.7530975	loss_E:-0.0660653
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-185.5567932	Loss_G:185.8379517	loss_E:-0.0660753
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-184.2137299	Loss_G:184.4876099	loss_E:-0.0660954
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-188.4429932	Loss_G:188.7105865	loss_E:-0.0661049
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-183.9082336	Loss_G:184.1698608	loss_E:-0.0661041
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-184.4831085	Loss_G:184.7392578	loss_E:-0.0661188
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-183.2234497	Loss_G:183.4734192	loss_E:-0.0661345
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-187.4905090	Loss_G:187.7360687	loss_E:-0.0661407
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-187.3720856	Loss_G:187.6131897	loss_E:-0.0661487
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-186.1719513	Loss_G:186.4076996	loss_E:-0.0661548
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-190.3598022	Loss_G:190.5922852	loss_E:-0.0661584
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-187.0253601	Loss_G:187.2536926	loss_E:-0.0661641
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-182.7338867	Loss_G:182.9583740	loss_E:-0.0661732
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-183.5583038	Loss_G:183.7799225	loss_E:-0.0661758
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-183.5671997	Loss_G:183.7861023	loss_E:-0.0661858
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-186.7106934	Loss_G:186.9266205	loss_E:-0.0661923
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-186.8638611	Loss_G:187.0781555	loss_E:-0.0661994
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-186.7111359	Loss_G:186.9232941	loss_E:-0.0662031
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-187.7643890	Loss_G:187.9748230	loss_E:-0.0662078
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-187.2642975	Loss_G:187.4737549	loss_E:-0.0662118
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-185.1036224	Loss_G:185.3120728	loss_E:-0.0662105
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-183.5388184	Loss_G:183.7463226	loss_E:-0.0662195
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-182.4073181	Loss_G:182.6149445	loss_E:-0.0662192
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-186.6683197	Loss_G:186.8754272	loss_E:-0.0662287
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-184.9418945	Loss_G:185.1485596	loss_E:-0.0662253
+Epoch  30	Loss_D_avg:-151.7607245	Loss_G_avg:152.9583093	loss_E_avg:-0.0552640
+['look', 'afford', 'intend', 'gas', 'die', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'ii', 'jews', 'imprison', 'disease']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'concentration', 'generally', 'nazi', 'citizen', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'die', 'citizen', 'afford', 'generally', 'concentration', 'intend', 'nazi', 'final', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'citizen', 'nazi', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'citizen', 'die', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'generally', 'disease', 'final']
+['afford', 'gas', 'look', 'die', 'citizen', 'camp', 'concentration', 'intend', 'ii', 'nazi', 'generally', 'final', 'imprison', 'disease', 'jews']
+['gas', 'citizen', 'look', 'intend', 'nazi', 'die', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'intend', 'look', 'camp', 'die', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'citizen', 'afford', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'concentration', 'jews', 'nazi', 'citizen', 'final', 'ii', 'generally', 'people', 'disease']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'concentration', 'intend', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'citizen', 'look', 'camp', 'intend', 'die', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'jews', 'final']
+['camp', 'citizen', 'look', 'intend', 'gas', 'die', 'afford', 'concentration', 'ii', 'generally', 'final', 'nazi', 'disease', 'let', 'jews']
+['die', 'gas', 'look', 'intend', 'concentration', 'afford', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'generally', 'final', 'disease', 'jews']
+['look', 'die', 'citizen', 'gas', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'imprison', 'disease']
+['look', 'gas', 'afford', 'concentration', 'intend', 'die', 'ii', 'camp', 'citizen', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'ii', 'disease', 'generally', 'final', 'imprison', 'jews']
+['gas', 'look', 'citizen', 'afford', 'die', 'intend', 'nazi', 'disease', 'imprison', 'ii', 'camp', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'intend', 'gas', 'afford', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34541000644213843, c_w2v:None, c_uci:-1.9088619277973062, c_npmi:-0.027822477016828558
+mimno topic coherence:-287.4617179235573
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-192.2088928	Loss_G:192.4154968	loss_E:-0.0662272
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-180.4524078	Loss_G:180.6584930	loss_E:-0.0662356
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-184.8648071	Loss_G:185.0704651	loss_E:-0.0662433
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-186.6024323	Loss_G:186.8081665	loss_E:-0.0662418
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-194.3180695	Loss_G:194.5237427	loss_E:-0.0662418
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-188.0506744	Loss_G:188.2556152	loss_E:-0.0662540
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-182.2557373	Loss_G:182.4604645	loss_E:-0.0662532
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-191.7104797	Loss_G:191.9150696	loss_E:-0.0662564
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-185.3453369	Loss_G:185.5494690	loss_E:-0.0662579
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-187.2159729	Loss_G:187.4201050	loss_E:-0.0662557
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-186.4650269	Loss_G:186.6691589	loss_E:-0.0662641
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-189.2644196	Loss_G:189.4680634	loss_E:-0.0662666
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-187.7357941	Loss_G:187.9394684	loss_E:-0.0662649
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-185.0791779	Loss_G:185.2824249	loss_E:-0.0662650
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-186.4933014	Loss_G:186.6963348	loss_E:-0.0662626
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-189.8693085	Loss_G:190.0723572	loss_E:-0.0662643
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-189.6045074	Loss_G:189.8071899	loss_E:-0.0662749
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-187.3251801	Loss_G:187.5275726	loss_E:-0.0662756
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-182.7406616	Loss_G:182.9429626	loss_E:-0.0662751
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-190.0092621	Loss_G:190.2113190	loss_E:-0.0662777
+| ID | GPU | MEM |
+------------------
+|  0 | 66% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-185.5096588	Loss_G:185.7115631	loss_E:-0.0662719
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-181.3756866	Loss_G:181.5773621	loss_E:-0.0662724
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-184.1690216	Loss_G:184.3706970	loss_E:-0.0662796
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-183.9177856	Loss_G:184.1189728	loss_E:-0.0662816
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-185.0753174	Loss_G:185.2765808	loss_E:-0.0662844
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-189.1274719	Loss_G:189.3284607	loss_E:-0.0662836
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-185.5355835	Loss_G:185.7362366	loss_E:-0.0662882
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-187.3870850	Loss_G:187.5877533	loss_E:-0.0662872
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-190.1217957	Loss_G:190.3222809	loss_E:-0.0662821
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-190.7742615	Loss_G:190.9745789	loss_E:-0.0662864
+Epoch  40	Loss_D_avg:-160.5755860	Loss_G_avg:161.5245522	loss_E_avg:-0.0580145
+['look', 'afford', 'intend', 'gas', 'die', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'ii', 'jews', 'imprison', 'disease']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'concentration', 'citizen', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'generally', 'concentration', 'intend', 'nazi', 'final', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'citizen', 'die', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['afford', 'look', 'gas', 'die', 'camp', 'citizen', 'concentration', 'intend', 'ii', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'citizen', 'look', 'intend', 'nazi', 'die', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'intend', 'camp', 'die', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'citizen', 'afford', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'concentration', 'jews', 'nazi', 'citizen', 'final', 'ii', 'generally', 'disease', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'concentration', 'intend', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'look', 'citizen', 'camp', 'intend', 'die', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'final', 'jews']
+['camp', 'look', 'citizen', 'intend', 'gas', 'die', 'afford', 'concentration', 'ii', 'generally', 'final', 'nazi', 'disease', 'let', 'jews']
+['die', 'gas', 'look', 'intend', 'concentration', 'afford', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'final', 'generally', 'disease', 'jews']
+['look', 'die', 'citizen', 'gas', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'imprison', 'disease']
+['look', 'gas', 'afford', 'intend', 'concentration', 'die', 'ii', 'camp', 'nazi', 'citizen', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'disease', 'ii', 'generally', 'final', 'imprison', 'jews']
+['gas', 'look', 'die', 'afford', 'citizen', 'intend', 'nazi', 'disease', 'imprison', 'ii', 'camp', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'intend', 'gas', 'afford', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34541000644213843, c_w2v:None, c_uci:-1.9088619277973062, c_npmi:-0.027822477016828558
+mimno topic coherence:-287.4617179235573
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-190.9769592	Loss_G:191.1772156	loss_E:-0.0662908
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-186.6095428	Loss_G:186.8096313	loss_E:-0.0662913
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-185.0113220	Loss_G:185.2111816	loss_E:-0.0662909
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-189.1775513	Loss_G:189.3772888	loss_E:-0.0662895
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-186.7022247	Loss_G:186.9018250	loss_E:-0.0662923
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-186.8221893	Loss_G:187.0216827	loss_E:-0.0662955
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-185.5249329	Loss_G:185.7242279	loss_E:-0.0662961
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-180.0356598	Loss_G:180.2348328	loss_E:-0.0662911
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-182.0147705	Loss_G:182.2136841	loss_E:-0.0662812
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-183.5303650	Loss_G:183.7294769	loss_E:-0.0662906
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-182.8881378	Loss_G:183.0869141	loss_E:-0.0662984
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-192.8572235	Loss_G:193.0558014	loss_E:-0.0662998
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 |  4% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-191.3410492	Loss_G:191.5395355	loss_E:-0.0662988
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-186.0453033	Loss_G:186.2436218	loss_E:-0.0662992
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-186.2998199	Loss_G:186.4980621	loss_E:-0.0662980
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-190.3545837	Loss_G:190.5527496	loss_E:-0.0662972
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-185.9355621	Loss_G:186.1335602	loss_E:-0.0663002
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-186.1931915	Loss_G:186.3910522	loss_E:-0.0663025
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-185.9114532	Loss_G:186.1091766	loss_E:-0.0663010
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-188.4194489	Loss_G:188.6169739	loss_E:-0.0662958
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-190.0833282	Loss_G:190.2807617	loss_E:-0.0663016
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-189.5474701	Loss_G:189.7448273	loss_E:-0.0663003
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-184.3680573	Loss_G:184.5653381	loss_E:-0.0663031
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-185.1045990	Loss_G:185.3015900	loss_E:-0.0662928
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-187.6095428	Loss_G:187.8065033	loss_E:-0.0662931
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-186.8770905	Loss_G:187.0738373	loss_E:-0.0663072
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-189.5254211	Loss_G:189.7221069	loss_E:-0.0663078
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-186.4005737	Loss_G:186.5971832	loss_E:-0.0663085
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-186.5143127	Loss_G:186.7107391	loss_E:-0.0663080
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-189.1344299	Loss_G:189.3306885	loss_E:-0.0663068
+Epoch  50	Loss_D_avg:-165.8459096	Loss_G_avg:166.6447222	loss_E_avg:-0.0596711
+['look', 'afford', 'intend', 'gas', 'die', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'ii', 'jews', 'disease', 'imprison']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'concentration', 'citizen', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'generally', 'concentration', 'intend', 'nazi', 'final', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'citizen', 'die', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['afford', 'look', 'gas', 'die', 'camp', 'citizen', 'concentration', 'intend', 'ii', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'citizen', 'look', 'intend', 'nazi', 'die', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'intend', 'camp', 'die', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'citizen', 'afford', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'concentration', 'jews', 'nazi', 'citizen', 'final', 'ii', 'generally', 'disease', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'concentration', 'intend', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'look', 'citizen', 'camp', 'intend', 'die', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'final', 'jews']
+['camp', 'look', 'citizen', 'intend', 'gas', 'die', 'afford', 'concentration', 'ii', 'generally', 'final', 'nazi', 'disease', 'let', 'jews']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'final', 'generally', 'disease', 'jews']
+['look', 'die', 'citizen', 'gas', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'imprison', 'disease']
+['look', 'gas', 'afford', 'intend', 'concentration', 'die', 'camp', 'ii', 'nazi', 'citizen', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'disease', 'generally', 'ii', 'final', 'imprison', 'jews']
+['gas', 'look', 'die', 'afford', 'citizen', 'intend', 'disease', 'nazi', 'ii', 'imprison', 'camp', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'intend', 'afford', 'gas', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34541000644213843, c_w2v:None, c_uci:-1.9088619277973062, c_npmi:-0.02782247701682855
+mimno topic coherence:-286.6976190070251
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-186.7117157	Loss_G:186.9079437	loss_E:-0.0663066
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-188.3184814	Loss_G:188.5144958	loss_E:-0.0663079
+| ID | GPU | MEM |
+------------------
+|  0 | 63% | 20% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-185.6743469	Loss_G:185.8702240	loss_E:-0.0663057
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-192.8808136	Loss_G:193.0765991	loss_E:-0.0663058
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-188.5461426	Loss_G:188.7418518	loss_E:-0.0663092
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-186.2400818	Loss_G:186.4355621	loss_E:-0.0663097
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-186.5764465	Loss_G:186.7718658	loss_E:-0.0663078
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-186.6614380	Loss_G:186.8567200	loss_E:-0.0663091
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-185.9311523	Loss_G:186.1262360	loss_E:-0.0663118
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-182.3824158	Loss_G:182.5774384	loss_E:-0.0663110
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-185.2564240	Loss_G:185.4512939	loss_E:-0.0663034
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-186.9476013	Loss_G:187.1423340	loss_E:-0.0663110
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-186.3544617	Loss_G:186.5491180	loss_E:-0.0663107
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-188.7210388	Loss_G:188.9155273	loss_E:-0.0663105
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-189.6517029	Loss_G:189.8460846	loss_E:-0.0663121
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-188.7780457	Loss_G:188.9723358	loss_E:-0.0663121
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-190.9470062	Loss_G:191.1413116	loss_E:-0.0663139
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 20% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-184.1887970	Loss_G:184.3829041	loss_E:-0.0663123
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-188.9194183	Loss_G:189.1134033	loss_E:-0.0663139
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-191.7648010	Loss_G:191.9585724	loss_E:-0.0663117
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 20% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-190.4118347	Loss_G:190.6054840	loss_E:-0.0663114
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-183.4574890	Loss_G:183.6510468	loss_E:-0.0663113
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-183.7398376	Loss_G:183.9332733	loss_E:-0.0663129
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-185.0073242	Loss_G:185.2008209	loss_E:-0.0663136
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 20% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-192.1885071	Loss_G:192.3817444	loss_E:-0.0663137
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 20% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-184.7814026	Loss_G:184.9744415	loss_E:-0.0663135
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-181.9953308	Loss_G:182.1882782	loss_E:-0.0663082
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-186.9503784	Loss_G:187.1434021	loss_E:-0.0663150
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-186.0510864	Loss_G:186.2437897	loss_E:-0.0663155
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-187.1206665	Loss_G:187.3132324	loss_E:-0.0663100
+Epoch  60	Loss_D_avg:-169.3891257	Loss_G_avg:170.0871981	loss_E_avg:-0.0607777
+['look', 'afford', 'intend', 'die', 'gas', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'ii', 'jews', 'disease', 'imprison']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'generally', 'concentration', 'intend', 'final', 'nazi', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['afford', 'look', 'gas', 'die', 'camp', 'citizen', 'concentration', 'intend', 'ii', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'citizen', 'look', 'intend', 'nazi', 'die', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'intend', 'camp', 'die', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'citizen', 'afford', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'concentration', 'jews', 'nazi', 'citizen', 'final', 'ii', 'generally', 'disease', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'concentration', 'intend', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'look', 'camp', 'citizen', 'die', 'intend', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'final', 'jews']
+['camp', 'look', 'intend', 'citizen', 'gas', 'die', 'afford', 'concentration', 'ii', 'generally', 'final', 'nazi', 'disease', 'let', 'jews']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'final', 'generally', 'disease', 'jews']
+['look', 'die', 'gas', 'citizen', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'imprison', 'disease']
+['look', 'gas', 'afford', 'intend', 'concentration', 'die', 'camp', 'ii', 'nazi', 'citizen', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'disease', 'generally', 'ii', 'final', 'imprison', 'jews']
+['gas', 'look', 'die', 'afford', 'citizen', 'intend', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'intend', 'afford', 'gas', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34541000644213843, c_w2v:None, c_uci:-1.9088619277973062, c_npmi:-0.02782247701682855
+mimno topic coherence:-286.6976190070251
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-187.2893372	Loss_G:187.4818268	loss_E:-0.0663075
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-187.8249817	Loss_G:188.0174713	loss_E:-0.0663167
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-185.5160522	Loss_G:185.7082825	loss_E:-0.0663129
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-183.5729065	Loss_G:183.7650757	loss_E:-0.0663141
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-183.7699280	Loss_G:183.9619751	loss_E:-0.0663169
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-190.2196960	Loss_G:190.4115448	loss_E:-0.0663176
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-185.0379944	Loss_G:185.2297516	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-187.1784668	Loss_G:187.3701630	loss_E:-0.0663105
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-186.2206116	Loss_G:186.4121552	loss_E:-0.0663119
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 20% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-191.0080872	Loss_G:191.1994934	loss_E:-0.0663091
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-182.2223511	Loss_G:182.4137573	loss_E:-0.0663114
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-188.7553253	Loss_G:188.9465027	loss_E:-0.0663164
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-182.7577209	Loss_G:182.9488678	loss_E:-0.0663176
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-185.7142944	Loss_G:185.9052429	loss_E:-0.0663141
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-189.5724487	Loss_G:189.7633209	loss_E:-0.0663106
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 |  6% | 20% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-188.4459534	Loss_G:188.6366882	loss_E:-0.0663103
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-187.0664978	Loss_G:187.2571411	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-185.8845062	Loss_G:186.0750122	loss_E:-0.0663133
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-188.6710510	Loss_G:188.8615265	loss_E:-0.0663163
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 20% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-187.7986755	Loss_G:187.9890137	loss_E:-0.0663182
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 20% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-190.9532166	Loss_G:191.1434174	loss_E:-0.0663184
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-185.5464783	Loss_G:185.7364655	loss_E:-0.0663184
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-184.9830017	Loss_G:185.1729126	loss_E:-0.0663154
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-184.9272461	Loss_G:185.1170349	loss_E:-0.0663172
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-182.9838562	Loss_G:183.1735229	loss_E:-0.0663158
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 20% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-189.4320679	Loss_G:189.6216278	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 20% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-186.1383057	Loss_G:186.3277435	loss_E:-0.0663165
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-187.5178528	Loss_G:187.7072906	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-188.6720581	Loss_G:188.8612671	loss_E:-0.0663131
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-191.6009827	Loss_G:191.7902679	loss_E:-0.0663183
+Epoch  70	Loss_D_avg:-171.8920218	Loss_G_avg:172.5176287	loss_E_avg:-0.0615688
+['look', 'afford', 'intend', 'die', 'gas', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'ii', 'jews', 'disease', 'imprison']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'generally', 'intend', 'concentration', 'final', 'nazi', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['afford', 'look', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'citizen', 'look', 'intend', 'die', 'nazi', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'intend', 'die', 'camp', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'afford', 'citizen', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'concentration', 'jews', 'nazi', 'citizen', 'final', 'ii', 'generally', 'disease', 'people']
+['look', 'gas', 'camp', 'die', 'afford', 'citizen', 'intend', 'concentration', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'look', 'camp', 'citizen', 'die', 'intend', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'final', 'jews']
+['camp', 'look', 'intend', 'citizen', 'gas', 'die', 'afford', 'ii', 'concentration', 'generally', 'final', 'nazi', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'final', 'generally', 'disease', 'jews']
+['look', 'die', 'gas', 'citizen', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'disease', 'imprison']
+['look', 'gas', 'afford', 'intend', 'concentration', 'die', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'disease', 'generally', 'ii', 'final', 'imprison', 'jews']
+['gas', 'look', 'die', 'afford', 'citizen', 'intend', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34541000644213843, c_w2v:None, c_uci:-1.9088619277973062, c_npmi:-0.02782247701682855
+mimno topic coherence:-285.6339229834632
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-187.8562012	Loss_G:188.0451660	loss_E:-0.0663177
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-186.7012939	Loss_G:186.8901672	loss_E:-0.0663128
+| ID | GPU | MEM |
+------------------
+|  0 | 66% | 20% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-188.8980560	Loss_G:189.0868225	loss_E:-0.0663018
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-191.7140961	Loss_G:191.9027405	loss_E:-0.0662997
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-187.3490906	Loss_G:187.5376587	loss_E:-0.0663193
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-187.9970398	Loss_G:188.1854248	loss_E:-0.0663158
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-191.0942688	Loss_G:191.2826385	loss_E:-0.0663194
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-186.3918610	Loss_G:186.5800476	loss_E:-0.0663168
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 20% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-189.8273010	Loss_G:190.0155334	loss_E:-0.0663175
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-191.6577454	Loss_G:191.8456879	loss_E:-0.0663167
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-185.9125977	Loss_G:186.1008453	loss_E:-0.0663194
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-186.7860718	Loss_G:186.9738464	loss_E:-0.0663129
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-189.9963379	Loss_G:190.1839294	loss_E:-0.0663106
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-193.0938721	Loss_G:193.2813568	loss_E:-0.0663138
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-183.8295593	Loss_G:184.0169525	loss_E:-0.0663183
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-188.1100159	Loss_G:188.2972717	loss_E:-0.0663170
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-187.3775330	Loss_G:187.5647125	loss_E:-0.0663183
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-187.6307678	Loss_G:187.8177948	loss_E:-0.0663181
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-182.8156738	Loss_G:183.0026245	loss_E:-0.0663165
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 20% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-187.2087402	Loss_G:187.3955383	loss_E:-0.0663176
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-189.2925110	Loss_G:189.4792328	loss_E:-0.0663187
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-188.5321960	Loss_G:188.7188110	loss_E:-0.0663189
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-191.9112854	Loss_G:192.0979309	loss_E:-0.0663140
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-187.8845520	Loss_G:188.0709076	loss_E:-0.0663183
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-189.3208618	Loss_G:189.5070953	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-184.0266724	Loss_G:184.2127991	loss_E:-0.0663184
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 20% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-182.8156738	Loss_G:183.0018005	loss_E:-0.0663168
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-190.7004089	Loss_G:190.8863525	loss_E:-0.0663157
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-182.9848633	Loss_G:183.1706543	loss_E:-0.0663166
+| ID | GPU | MEM |
+------------------
+|  0 | 60% | 20% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-187.4338684	Loss_G:187.6195679	loss_E:-0.0663173
+Epoch  80	Loss_D_avg:-173.8936483	Loss_G_avg:174.4644747	loss_E_avg:-0.0621621
+['look', 'afford', 'intend', 'die', 'gas', 'nazi', 'camp', 'concentration', 'citizen', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'ii', 'jews', 'disease', 'imprison']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'die', 'camp', 'afford', 'citizen', 'generally', 'intend', 'concentration', 'final', 'nazi', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['afford', 'look', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'look', 'citizen', 'intend', 'die', 'nazi', 'afford', 'concentration', 'camp', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'die', 'intend', 'camp', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['gas', 'look', 'die', 'intend', 'nazi', 'afford', 'citizen', 'concentration', 'camp', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'jews', 'nazi', 'concentration', 'citizen', 'final', 'ii', 'generally', 'disease', 'people']
+['look', 'gas', 'die', 'camp', 'afford', 'citizen', 'intend', 'concentration', 'generally', 'final', 'nazi', 'ii', 'disease', 'jews', 'imprison']
+['gas', 'look', 'camp', 'citizen', 'die', 'intend', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'imprison', 'disease', 'final', 'jews']
+['camp', 'look', 'intend', 'gas', 'citizen', 'die', 'afford', 'ii', 'generally', 'concentration', 'final', 'nazi', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'final', 'generally', 'disease', 'jews']
+['look', 'die', 'gas', 'citizen', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'disease', 'imprison']
+['look', 'gas', 'afford', 'intend', 'die', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'look', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'disease', 'generally', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'citizen', 'intend', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34541000644213843, c_w2v:None, c_uci:-1.9088619277973062, c_npmi:-0.027822477016828558
+mimno topic coherence:-285.6339229834632
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-184.3364563	Loss_G:184.5220795	loss_E:-0.0663184
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-190.9258423	Loss_G:191.1113892	loss_E:-0.0663149
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-184.5898743	Loss_G:184.7753296	loss_E:-0.0663168
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-190.4754639	Loss_G:190.6607056	loss_E:-0.0663147
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-188.0253296	Loss_G:188.2105408	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-186.9272766	Loss_G:187.1123352	loss_E:-0.0663185
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-189.7713318	Loss_G:189.9562073	loss_E:-0.0663177
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-185.6600037	Loss_G:185.8448486	loss_E:-0.0663159
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-189.0109711	Loss_G:189.1957397	loss_E:-0.0663112
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-191.0946350	Loss_G:191.2795258	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-184.5618286	Loss_G:184.7463226	loss_E:-0.0663198
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-186.2795715	Loss_G:186.4639282	loss_E:-0.0663124
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-186.8710632	Loss_G:187.0553131	loss_E:-0.0663079
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 20% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-187.2933197	Loss_G:187.4774780	loss_E:-0.0663170
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 20% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-187.8565674	Loss_G:188.0405884	loss_E:-0.0663163
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-185.2657776	Loss_G:185.4497681	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-189.4334869	Loss_G:189.6172943	loss_E:-0.0663172
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-186.1951599	Loss_G:186.3788300	loss_E:-0.0663168
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-186.9555359	Loss_G:187.1390839	loss_E:-0.0663148
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-186.8428345	Loss_G:187.0263062	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-187.0681152	Loss_G:187.2514801	loss_E:-0.0663196
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-190.2783813	Loss_G:190.4616089	loss_E:-0.0663186
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-185.2377625	Loss_G:185.4208679	loss_E:-0.0663121
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-184.7870789	Loss_G:184.9701080	loss_E:-0.0663166
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-187.0399780	Loss_G:187.2228851	loss_E:-0.0663145
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-190.2782898	Loss_G:190.4611053	loss_E:-0.0663183
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-189.3771667	Loss_G:189.5599518	loss_E:-0.0663109
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-187.2367249	Loss_G:187.4196167	loss_E:-0.0663174
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-185.3503723	Loss_G:185.5328369	loss_E:-0.0663172
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-186.7020569	Loss_G:186.8843842	loss_E:-0.0663133
+Epoch  90	Loss_D_avg:-175.3933476	Loss_G_avg:175.9211941	loss_E_avg:-0.0626237
+['look', 'afford', 'intend', 'die', 'gas', 'nazi', 'camp', 'concentration', 'ii', 'citizen', 'generally', 'disease', 'final', 'imprison', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'camp', 'intend', 'concentration', 'final', 'generally', 'jews', 'ii', 'disease', 'imprison']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'die', 'camp', 'afford', 'citizen', 'generally', 'intend', 'concentration', 'final', 'nazi', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'look', 'citizen', 'intend', 'die', 'nazi', 'afford', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'die', 'intend', 'camp', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'jews', 'nazi', 'concentration', 'citizen', 'final', 'ii', 'generally', 'disease', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'citizen', 'intend', 'concentration', 'nazi', 'final', 'generally', 'ii', 'disease', 'jews', 'imprison']
+['look', 'gas', 'camp', 'die', 'citizen', 'intend', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['camp', 'look', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'concentration', 'final', 'nazi', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'citizen', 'camp', 'imprison', 'ii', 'final', 'generally', 'disease', 'jews']
+['look', 'die', 'gas', 'citizen', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'disease', 'imprison']
+['look', 'afford', 'gas', 'intend', 'die', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['look', 'gas', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'concentration', 'disease', 'generally', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'citizen', 'intend', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34550272063913373, c_w2v:None, c_uci:-1.9373508527458245, c_npmi:-0.027913647058339014
+mimno topic coherence:-285.6339229834632
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-183.6889038	Loss_G:183.8711395	loss_E:-0.0663113
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 20% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-187.7720947	Loss_G:187.9542084	loss_E:-0.0663180
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 20% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-184.8998413	Loss_G:185.0818481	loss_E:-0.0663129
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-187.2369690	Loss_G:187.4190216	loss_E:-0.0663166
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-185.8291321	Loss_G:186.0109100	loss_E:-0.0663157
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-189.9404907	Loss_G:190.1221466	loss_E:-0.0663171
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-184.5900574	Loss_G:184.7716370	loss_E:-0.0663157
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-190.2783203	Loss_G:190.4598389	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-187.8003387	Loss_G:187.9816742	loss_E:-0.0663141
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-184.7026672	Loss_G:184.8839569	loss_E:-0.0663162
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 20% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-190.1094360	Loss_G:190.2905579	loss_E:-0.0663172
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-188.2507935	Loss_G:188.4318542	loss_E:-0.0663175
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-187.7439880	Loss_G:187.9248962	loss_E:-0.0663151
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-182.1683350	Loss_G:182.3491211	loss_E:-0.0663168
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-186.8710022	Loss_G:187.0517273	loss_E:-0.0663189
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-187.4342346	Loss_G:187.6148071	loss_E:-0.0663172
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-188.7859192	Loss_G:188.9663544	loss_E:-0.0663170
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-189.1520081	Loss_G:189.3323517	loss_E:-0.0663094
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-186.4203796	Loss_G:186.6007233	loss_E:-0.0663119
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-186.4767761	Loss_G:186.6569366	loss_E:-0.0663174
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-188.9548645	Loss_G:189.1348877	loss_E:-0.0663190
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-184.2803345	Loss_G:184.4602509	loss_E:-0.0663179
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-190.1657104	Loss_G:190.3455658	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-184.9561615	Loss_G:185.1358337	loss_E:-0.0663120
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-185.2659302	Loss_G:185.4455109	loss_E:-0.0663091
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-189.0675354	Loss_G:189.2470093	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-189.9685974	Loss_G:190.1480255	loss_E:-0.0663194
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-188.1382446	Loss_G:188.3175049	loss_E:-0.0663186
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-187.8284149	Loss_G:188.0075989	loss_E:-0.0663086
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-189.1801453	Loss_G:189.3591766	loss_E:-0.0663183
+Epoch 100	Loss_D_avg:-176.5805383	Loss_G_avg:177.0736649	loss_E_avg:-0.0629929
+['look', 'afford', 'intend', 'die', 'gas', 'nazi', 'camp', 'concentration', 'ii', 'citizen', 'generally', 'disease', 'final', 'imprison', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'intend', 'camp', 'concentration', 'final', 'generally', 'jews', 'disease', 'ii', 'imprison']
+['look', 'intend', 'gas', 'die', 'ii', 'camp', 'nazi', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'people']
+['look', 'gas', 'die', 'camp', 'afford', 'citizen', 'generally', 'intend', 'concentration', 'final', 'nazi', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'gas', 'intend', 'die', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'concentration', 'intend', 'nazi', 'ii', 'imprison', 'jews', 'final', 'disease', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'look', 'intend', 'citizen', 'die', 'nazi', 'afford', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'die', 'intend', 'camp', 'gas', 'final', 'concentration', 'citizen', 'nazi', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'jews', 'nazi', 'concentration', 'citizen', 'final', 'ii', 'generally', 'disease', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'intend', 'citizen', 'concentration', 'nazi', 'final', 'generally', 'ii', 'disease', 'jews', 'imprison']
+['look', 'gas', 'camp', 'die', 'citizen', 'intend', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'concentration', 'nazi', 'final', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'imprison', 'ii', 'final', 'disease', 'generally', 'jews']
+['look', 'die', 'gas', 'citizen', 'camp', 'intend', 'afford', 'concentration', 'nazi', 'generally', 'final', 'ii', 'jews', 'disease', 'imprison']
+['look', 'afford', 'gas', 'intend', 'die', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['look', 'gas', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'disease', 'concentration', 'generally', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'citizen', 'intend', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'concentration', 'generally', 'ii', 'nazi', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.056666666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3455027206391338, c_w2v:None, c_uci:-1.937350852745825, c_npmi:-0.027913647058339014
+mimno topic coherence:-285.6339229834632
+epoch is: 100
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 101	Iter    1	Loss_D:-191.7708435	Loss_G:191.9497681	loss_E:-0.0663194
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 101	Iter   11	Loss_D:-189.3491211	Loss_G:189.5279236	loss_E:-0.0663136
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 101	Iter   21	Loss_D:-185.9980774	Loss_G:186.1767883	loss_E:-0.0663136
+epoch is: 101
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 20% |
+|  1 |  0% |  0% |
+Epoch 102	Iter    1	Loss_D:-184.7308197	Loss_G:184.9094696	loss_E:-0.0663138
+| ID | GPU | MEM |
+------------------
+|  0 |  4% | 20% |
+|  1 |  0% |  0% |
+Epoch 102	Iter   11	Loss_D:-183.4073181	Loss_G:183.5858002	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 102	Iter   21	Loss_D:-188.4761658	Loss_G:188.6545258	loss_E:-0.0663165
+epoch is: 102
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch 103	Iter    1	Loss_D:-187.0681458	Loss_G:187.2464142	loss_E:-0.0663155
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch 103	Iter   11	Loss_D:-190.9824219	Loss_G:191.1605835	loss_E:-0.0663194
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 103	Iter   21	Loss_D:-189.8278503	Loss_G:190.0059052	loss_E:-0.0663172
+epoch is: 103
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 104	Iter    1	Loss_D:-186.8991394	Loss_G:187.0771332	loss_E:-0.0663167
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch 104	Iter   11	Loss_D:-187.8566589	Loss_G:188.0344849	loss_E:-0.0663167
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 104	Iter   21	Loss_D:-180.6195068	Loss_G:180.7972260	loss_E:-0.0663152
+epoch is: 104
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 105	Iter    1	Loss_D:-187.5186462	Loss_G:187.6963196	loss_E:-0.0663152
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 105	Iter   11	Loss_D:-190.8132629	Loss_G:190.9909210	loss_E:-0.0663155
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 105	Iter   21	Loss_D:-186.8428955	Loss_G:187.0202942	loss_E:-0.0663125
+epoch is: 105
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 106	Iter    1	Loss_D:-188.8704529	Loss_G:189.0477448	loss_E:-0.0663099
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch 106	Iter   11	Loss_D:-190.2221069	Loss_G:190.3992767	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 60% | 20% |
+|  1 |  0% |  0% |
+Epoch 106	Iter   21	Loss_D:-186.7018127	Loss_G:186.8791504	loss_E:-0.0663152
+epoch is: 106
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 107	Iter    1	Loss_D:-184.7308960	Loss_G:184.9078674	loss_E:-0.0663145
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 107	Iter   11	Loss_D:-188.2508850	Loss_G:188.4277496	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 107	Iter   21	Loss_D:-191.8834839	Loss_G:192.0602570	loss_E:-0.0663171
+epoch is: 107
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 108	Iter    1	Loss_D:-192.4185791	Loss_G:192.5952148	loss_E:-0.0663151
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch 108	Iter   11	Loss_D:-188.9267273	Loss_G:189.1032562	loss_E:-0.0663178
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch 108	Iter   21	Loss_D:-182.8723145	Loss_G:183.0487213	loss_E:-0.0663183
+epoch is: 108
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 109	Iter    1	Loss_D:-186.4768066	Loss_G:186.6531219	loss_E:-0.0663177
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 109	Iter   11	Loss_D:-183.8016205	Loss_G:183.9777985	loss_E:-0.0663038
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 109	Iter   21	Loss_D:-191.7426453	Loss_G:191.9188232	loss_E:-0.0663184
+epoch is: 109
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 110	Iter    1	Loss_D:-183.1257324	Loss_G:183.3017273	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 110	Iter   11	Loss_D:-186.0261688	Loss_G:186.2020874	loss_E:-0.0663180
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch 110	Iter   21	Loss_D:-185.3504028	Loss_G:185.5261688	loss_E:-0.0663125
+Epoch 110	Loss_D_avg:-177.5688575	Loss_G_avg:178.0332788	loss_E_avg:-0.0632950
+['look', 'afford', 'intend', 'die', 'gas', 'nazi', 'camp', 'ii', 'concentration', 'citizen', 'generally', 'disease', 'final', 'imprison', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'nazi', 'intend', 'camp', 'concentration', 'final', 'generally', 'jews', 'disease', 'ii', 'imprison']
+['look', 'intend', 'gas', 'die', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'citizen', 'generally', 'intend', 'concentration', 'nazi', 'final', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'die', 'intend', 'gas', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'intend', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'final', 'disease', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'final', 'generally', 'disease', 'imprison', 'jews']
+['gas', 'look', 'intend', 'citizen', 'die', 'nazi', 'afford', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['afford', 'look', 'die', 'intend', 'camp', 'gas', 'final', 'concentration', 'nazi', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'ii', 'generally', 'disease', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'intend', 'citizen', 'concentration', 'nazi', 'final', 'generally', 'ii', 'disease', 'jews', 'imprison']
+['look', 'gas', 'camp', 'die', 'intend', 'citizen', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'concentration', 'nazi', 'final', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'imprison', 'ii', 'final', 'disease', 'generally', 'jews']
+['look', 'die', 'gas', 'citizen', 'intend', 'camp', 'afford', 'nazi', 'concentration', 'generally', 'final', 'ii', 'jews', 'disease', 'imprison']
+['look', 'afford', 'gas', 'intend', 'die', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['look', 'gas', 'afford', 'nazi', 'die', 'citizen', 'intend', 'camp', 'disease', 'concentration', 'generally', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'citizen', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'concentration', 'generally', 'nazi', 'ii', 'final', 'disease', 'let', 'imprison']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3430851225159096, c_w2v:None, c_uci:-1.96733208707012, c_npmi:-0.028540835462505965
+mimno topic coherence:-284.8979558057203
+epoch is: 110
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 111	Iter    1	Loss_D:-187.0681458	Loss_G:187.2438507	loss_E:-0.0663105
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch 111	Iter   11	Loss_D:-188.6451111	Loss_G:188.8206635	loss_E:-0.0663187
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 111	Iter   21	Loss_D:-186.4204407	Loss_G:186.5958862	loss_E:-0.0663189
+epoch is: 111
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 112	Iter    1	Loss_D:-185.8009644	Loss_G:185.9763031	loss_E:-0.0663177
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch 112	Iter   11	Loss_D:-188.0819244	Loss_G:188.2571564	loss_E:-0.0663169
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch 112	Iter   21	Loss_D:-187.3215027	Loss_G:187.4966888	loss_E:-0.0663178
+epoch is: 112
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 113	Iter    1	Loss_D:-185.4067078	Loss_G:185.5817566	loss_E:-0.0663167
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 113	Iter   11	Loss_D:-180.3942566	Loss_G:180.5691833	loss_E:-0.0663191
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch 113	Iter   21	Loss_D:-186.5048523	Loss_G:186.6797791	loss_E:-0.0663173
+epoch is: 113
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch 114	Iter    1	Loss_D:-185.0124817	Loss_G:185.1871643	loss_E:-0.0663158
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 114	Iter   11	Loss_D:-189.6025085	Loss_G:189.7771454	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch 114	Iter   21	Loss_D:-186.8428650	Loss_G:187.0173340	loss_E:-0.0663186
+epoch is: 114
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 115	Iter    1	Loss_D:-182.9004822	Loss_G:183.0748596	loss_E:-0.0663168
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 115	Iter   11	Loss_D:-190.7571106	Loss_G:190.9313812	loss_E:-0.0663193
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 115	Iter   21	Loss_D:-188.8422546	Loss_G:189.0164032	loss_E:-0.0663195
+epoch is: 115
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 116	Iter    1	Loss_D:-189.1238098	Loss_G:189.2978973	loss_E:-0.0663192
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch 116	Iter   11	Loss_D:-189.7152100	Loss_G:189.8891602	loss_E:-0.0663030
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 116	Iter   21	Loss_D:-185.0405884	Loss_G:185.2144470	loss_E:-0.0663146
+epoch is: 116
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 117	Iter    1	Loss_D:-185.7446289	Loss_G:185.9183502	loss_E:-0.0663126
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 117	Iter   11	Loss_D:-187.5185547	Loss_G:187.6922760	loss_E:-0.0663198
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 117	Iter   21	Loss_D:-191.7708435	Loss_G:191.9444275	loss_E:-0.0663168
+epoch is: 117
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 118	Iter    1	Loss_D:-188.5324707	Loss_G:188.7058868	loss_E:-0.0663146
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 118	Iter   11	Loss_D:-187.6313324	Loss_G:187.8046265	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 118	Iter   21	Loss_D:-185.3785400	Loss_G:185.5517273	loss_E:-0.0663165
+epoch is: 118
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 119	Iter    1	Loss_D:-182.6469727	Loss_G:182.8200989	loss_E:-0.0663166
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 119	Iter   11	Loss_D:-182.4499207	Loss_G:182.6229095	loss_E:-0.0663159
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch 119	Iter   21	Loss_D:-185.0406189	Loss_G:185.2134857	loss_E:-0.0663181
+epoch is: 119
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 120	Iter    1	Loss_D:-191.2639771	Loss_G:191.4367828	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch 120	Iter   11	Loss_D:-186.4486389	Loss_G:186.6212921	loss_E:-0.0663161
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 120	Iter   21	Loss_D:-187.5468445	Loss_G:187.7193909	loss_E:-0.0663200
+Epoch 120	Loss_D_avg:-178.3421599	Loss_G_avg:178.7823897	loss_E_avg:-0.0635468
+['look', 'afford', 'die', 'intend', 'gas', 'nazi', 'camp', 'ii', 'concentration', 'citizen', 'generally', 'disease', 'final', 'imprison', 'jews']
+['look', 'afford', 'die', 'gas', 'citizen', 'nazi', 'intend', 'camp', 'concentration', 'final', 'generally', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'gas', 'die', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'generally', 'citizen', 'intend', 'concentration', 'nazi', 'final', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'die', 'intend', 'gas', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'intend', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'final', 'disease', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'generally', 'final', 'disease', 'imprison', 'jews']
+['gas', 'look', 'intend', 'citizen', 'die', 'nazi', 'afford', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'die', 'intend', 'camp', 'gas', 'final', 'nazi', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'ii', 'generally', 'disease', 'imprison']
+['look', 'die', 'gas', 'camp', 'afford', 'intend', 'citizen', 'concentration', 'nazi', 'final', 'generally', 'ii', 'disease', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'intend', 'citizen', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'concentration', 'nazi', 'final', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'imprison', 'ii', 'final', 'disease', 'generally', 'jews']
+['look', 'die', 'gas', 'citizen', 'intend', 'camp', 'afford', 'nazi', 'concentration', 'generally', 'final', 'jews', 'ii', 'disease', 'imprison']
+['look', 'afford', 'gas', 'intend', 'die', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'camp', 'disease', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'citizen', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'generally', 'nazi', 'concentration', 'ii', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804653, c_npmi:-0.027517477892909474
+mimno topic coherence:-272.68584423213167
+epoch is: 120
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 121	Iter    1	Loss_D:-184.9280396	Loss_G:185.1004791	loss_E:-0.0663198
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch 121	Iter   11	Loss_D:-186.1105957	Loss_G:186.2830963	loss_E:-0.0663152
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 121	Iter   21	Loss_D:-187.0681458	Loss_G:187.2403870	loss_E:-0.0663189
+epoch is: 121
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 122	Iter    1	Loss_D:-183.4355469	Loss_G:183.6076813	loss_E:-0.0663182
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 122	Iter   11	Loss_D:-187.1525879	Loss_G:187.3246613	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 20% |
+|  1 |  0% |  0% |
+Epoch 122	Iter   21	Loss_D:-189.6588745	Loss_G:189.8307800	loss_E:-0.0663183
+epoch is: 122
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 123	Iter    1	Loss_D:-187.5750122	Loss_G:187.7468262	loss_E:-0.0663158
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 123	Iter   11	Loss_D:-190.3345947	Loss_G:190.5064240	loss_E:-0.0663169
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 123	Iter   21	Loss_D:-191.3202820	Loss_G:191.4918823	loss_E:-0.0663194
+epoch is: 123
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 124	Iter    1	Loss_D:-186.8992310	Loss_G:187.0707245	loss_E:-0.0663180
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 124	Iter   11	Loss_D:-184.5900879	Loss_G:184.7614594	loss_E:-0.0663139
+| ID | GPU | MEM |
+------------------
+|  0 | 60% | 20% |
+|  1 |  0% |  0% |
+Epoch 124	Iter   21	Loss_D:-184.3929443	Loss_G:184.5642090	loss_E:-0.0663144
+epoch is: 124
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch 125	Iter    1	Loss_D:-188.6451111	Loss_G:188.8162842	loss_E:-0.0663128
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 125	Iter   11	Loss_D:-189.0393677	Loss_G:189.2104645	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 125	Iter   21	Loss_D:-187.8847961	Loss_G:188.0557709	loss_E:-0.0663176
+epoch is: 125
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 126	Iter    1	Loss_D:-185.2658997	Loss_G:185.4367828	loss_E:-0.0663159
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 126	Iter   11	Loss_D:-184.1112671	Loss_G:184.2821045	loss_E:-0.0663167
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 126	Iter   21	Loss_D:-189.4054108	Loss_G:189.5760651	loss_E:-0.0663187
+epoch is: 126
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 127	Iter    1	Loss_D:-184.5900879	Loss_G:184.7606201	loss_E:-0.0663176
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 127	Iter   11	Loss_D:-186.2233887	Loss_G:186.3938293	loss_E:-0.0663166
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 127	Iter   21	Loss_D:-187.4623871	Loss_G:187.6327209	loss_E:-0.0663157
+epoch is: 127
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 128	Iter    1	Loss_D:-188.7577057	Loss_G:188.9279480	loss_E:-0.0663144
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 128	Iter   11	Loss_D:-184.7590027	Loss_G:184.9291382	loss_E:-0.0663157
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch 128	Iter   21	Loss_D:-184.1113739	Loss_G:184.2813721	loss_E:-0.0663172
+epoch is: 128
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 129	Iter    1	Loss_D:-187.9974060	Loss_G:188.1673737	loss_E:-0.0663169
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch 129	Iter   11	Loss_D:-188.8421936	Loss_G:189.0120697	loss_E:-0.0663161
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch 129	Iter   21	Loss_D:-184.5619202	Loss_G:184.7316284	loss_E:-0.0663130
+epoch is: 129
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 130	Iter    1	Loss_D:-185.6319275	Loss_G:185.8015900	loss_E:-0.0663134
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 130	Iter   11	Loss_D:-187.5186157	Loss_G:187.6881714	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 67% | 20% |
+|  1 |  0% |  0% |
+Epoch 130	Iter   21	Loss_D:-185.2658386	Loss_G:185.4353180	loss_E:-0.0663151
+Epoch 130	Loss_D_avg:-178.9915825	Loss_G_avg:179.4110979	loss_E_avg:-0.0637598
+['look', 'afford', 'die', 'intend', 'gas', 'nazi', 'camp', 'ii', 'citizen', 'concentration', 'generally', 'disease', 'final', 'imprison', 'jews']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'final', 'generally', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'gas', 'die', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'concentration', 'afford', 'disease', 'final', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'generally', 'intend', 'citizen', 'concentration', 'nazi', 'final', 'ii', 'disease', 'jews', 'let']
+['look', 'afford', 'die', 'intend', 'gas', 'camp', 'nazi', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'citizen', 'camp', 'intend', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'final', 'disease', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'nazi', 'disease', 'generally', 'final', 'imprison', 'jews']
+['gas', 'look', 'intend', 'die', 'citizen', 'nazi', 'afford', 'camp', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'die', 'intend', 'camp', 'gas', 'final', 'nazi', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'ii', 'generally', 'disease', 'imprison']
+['look', 'die', 'gas', 'camp', 'afford', 'intend', 'citizen', 'nazi', 'concentration', 'final', 'generally', 'ii', 'disease', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'intend', 'citizen', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'nazi', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'gas', 'look', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'imprison', 'ii', 'final', 'disease', 'generally', 'jews']
+['look', 'die', 'gas', 'citizen', 'intend', 'afford', 'camp', 'nazi', 'concentration', 'generally', 'final', 'jews', 'ii', 'disease', 'imprison']
+['look', 'afford', 'gas', 'intend', 'die', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'camp', 'disease', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'citizen', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804648, c_npmi:-0.027517477892909474
+mimno topic coherence:-273.92640648388993
+epoch is: 130
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 131	Iter    1	Loss_D:-186.6456909	Loss_G:186.8150330	loss_E:-0.0663164
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 20% |
+|  1 |  0% |  0% |
+Epoch 131	Iter   11	Loss_D:-186.3922729	Loss_G:186.5614777	loss_E:-0.0663183
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 131	Iter   21	Loss_D:-189.2646484	Loss_G:189.4337158	loss_E:-0.0663185
+epoch is: 131
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 132	Iter    1	Loss_D:-181.5486755	Loss_G:181.7177582	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 132	Iter   11	Loss_D:-191.8269958	Loss_G:191.9960480	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 132	Iter   21	Loss_D:-188.2227173	Loss_G:188.3914490	loss_E:-0.0663177
+epoch is: 132
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 133	Iter    1	Loss_D:-186.6457214	Loss_G:186.8143768	loss_E:-0.0663164
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 133	Iter   11	Loss_D:-183.8016052	Loss_G:183.9701691	loss_E:-0.0663113
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 133	Iter   21	Loss_D:-188.3353271	Loss_G:188.5037689	loss_E:-0.0663162
+epoch is: 133
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 134	Iter    1	Loss_D:-188.7858582	Loss_G:188.9542542	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch 134	Iter   11	Loss_D:-183.4073486	Loss_G:183.5755615	loss_E:-0.0663132
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 134	Iter   21	Loss_D:-186.9836731	Loss_G:187.1517944	loss_E:-0.0663103
+epoch is: 134
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 135	Iter    1	Loss_D:-189.5460205	Loss_G:189.7141571	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 135	Iter   11	Loss_D:-194.1925964	Loss_G:194.3605499	loss_E:-0.0663191
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch 135	Iter   21	Loss_D:-183.4636841	Loss_G:183.6315002	loss_E:-0.0663177
+epoch is: 135
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 136	Iter    1	Loss_D:-186.3641357	Loss_G:186.5318756	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 136	Iter   11	Loss_D:-188.8985901	Loss_G:189.0661621	loss_E:-0.0663085
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch 136	Iter   21	Loss_D:-184.5056152	Loss_G:184.6730957	loss_E:-0.0663200
+epoch is: 136
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 137	Iter    1	Loss_D:-184.4774170	Loss_G:184.6448059	loss_E:-0.0663193
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 137	Iter   11	Loss_D:-186.8147278	Loss_G:186.9820404	loss_E:-0.0663178
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch 137	Iter   21	Loss_D:-187.5468445	Loss_G:187.7140350	loss_E:-0.0663176
+epoch is: 137
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 138	Iter    1	Loss_D:-193.6012268	Loss_G:193.7683563	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch 138	Iter   11	Loss_D:-190.2784119	Loss_G:190.4453735	loss_E:-0.0663190
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch 138	Iter   21	Loss_D:-182.4780579	Loss_G:182.6449280	loss_E:-0.0663195
+epoch is: 138
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 139	Iter    1	Loss_D:-181.4924316	Loss_G:181.6591797	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 139	Iter   11	Loss_D:-186.4204102	Loss_G:186.5871124	loss_E:-0.0663132
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch 139	Iter   21	Loss_D:-191.3484192	Loss_G:191.5150604	loss_E:-0.0663176
+epoch is: 139
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 140	Iter    1	Loss_D:-186.6456909	Loss_G:186.8121796	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch 140	Iter   11	Loss_D:-190.7571411	Loss_G:190.9234772	loss_E:-0.0663195
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 140	Iter   21	Loss_D:-187.6031494	Loss_G:187.7693787	loss_E:-0.0663182
+Epoch 140	Loss_D_avg:-179.5833626	Loss_G_avg:179.9848972	loss_E_avg:-0.0639425
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'citizen', 'concentration', 'generally', 'disease', 'final', 'imprison', 'jews']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'final', 'generally', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'gas', 'die', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'afford', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'afford', 'intend', 'generally', 'citizen', 'nazi', 'concentration', 'final', 'disease', 'ii', 'jews', 'let']
+['look', 'afford', 'die', 'intend', 'gas', 'camp', 'nazi', 'citizen', 'ii', 'concentration', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'disease', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'ii', 'disease', 'nazi', 'generally', 'final', 'imprison', 'jews']
+['gas', 'look', 'intend', 'die', 'citizen', 'nazi', 'afford', 'camp', 'ii', 'concentration', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'die', 'intend', 'camp', 'gas', 'final', 'nazi', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'ii', 'disease', 'generally', 'imprison']
+['look', 'die', 'gas', 'camp', 'afford', 'intend', 'citizen', 'nazi', 'concentration', 'final', 'generally', 'ii', 'disease', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'intend', 'citizen', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'nazi', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'disease', 'imprison', 'final', 'ii', 'generally', 'jews']
+['look', 'die', 'gas', 'citizen', 'intend', 'afford', 'camp', 'nazi', 'concentration', 'generally', 'final', 'jews', 'disease', 'ii', 'imprison']
+['look', 'afford', 'gas', 'die', 'intend', 'concentration', 'camp', 'ii', 'nazi', 'citizen', 'final', 'generally', 'disease', 'imprison', 'jews']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'camp', 'disease', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'citizen', 'disease', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804648, c_npmi:-0.027517477892909474
+mimno topic coherence:-273.92640648388993
+epoch is: 140
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 141	Iter    1	Loss_D:-182.5624695	Loss_G:182.7286987	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 141	Iter   11	Loss_D:-188.6169434	Loss_G:188.7830353	loss_E:-0.0663170
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch 141	Iter   21	Loss_D:-187.9692993	Loss_G:188.1352386	loss_E:-0.0663099
+epoch is: 141
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 142	Iter    1	Loss_D:-186.6457214	Loss_G:186.8115845	loss_E:-0.0663084
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 142	Iter   11	Loss_D:-187.3215332	Loss_G:187.4872437	loss_E:-0.0663157
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch 142	Iter   21	Loss_D:-187.4060211	Loss_G:187.5717010	loss_E:-0.0663198
+epoch is: 142
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 143	Iter    1	Loss_D:-188.0537720	Loss_G:188.2192841	loss_E:-0.0663191
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch 143	Iter   11	Loss_D:-187.0399780	Loss_G:187.2053986	loss_E:-0.0663161
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 143	Iter   21	Loss_D:-185.4911194	Loss_G:185.6565094	loss_E:-0.0663178
+epoch is: 143
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 144	Iter    1	Loss_D:-182.1119385	Loss_G:182.2771912	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 144	Iter   11	Loss_D:-188.7013855	Loss_G:188.8665314	loss_E:-0.0663198
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 144	Iter   21	Loss_D:-185.6882935	Loss_G:185.8532867	loss_E:-0.0663141
+epoch is: 144
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 145	Iter    1	Loss_D:-187.2088928	Loss_G:187.3738861	loss_E:-0.0663155
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 145	Iter   11	Loss_D:-186.2796326	Loss_G:186.4445190	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch 145	Iter   21	Loss_D:-188.4761658	Loss_G:188.6408691	loss_E:-0.0663182
+epoch is: 145
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 146	Iter    1	Loss_D:-189.0675354	Loss_G:189.2321167	loss_E:-0.0663168
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 146	Iter   11	Loss_D:-187.2370605	Loss_G:187.4015961	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 146	Iter   21	Loss_D:-182.9568481	Loss_G:183.1212311	loss_E:-0.0663182
+epoch is: 146
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 147	Iter    1	Loss_D:-188.9266968	Loss_G:189.0910034	loss_E:-0.0663188
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 147	Iter   11	Loss_D:-185.6882935	Loss_G:185.8524780	loss_E:-0.0663182
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 147	Iter   21	Loss_D:-183.5200348	Loss_G:183.6841278	loss_E:-0.0663177
+epoch is: 147
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch 148	Iter    1	Loss_D:-188.1944885	Loss_G:188.3585052	loss_E:-0.0663196
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 148	Iter   11	Loss_D:-189.9122925	Loss_G:190.0761414	loss_E:-0.0663120
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 148	Iter   21	Loss_D:-189.9122620	Loss_G:190.0760498	loss_E:-0.0663127
+epoch is: 148
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 149	Iter    1	Loss_D:-188.9829407	Loss_G:189.1466522	loss_E:-0.0663135
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch 149	Iter   11	Loss_D:-186.4768066	Loss_G:186.6403809	loss_E:-0.0663179
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 20% |
+|  1 |  0% |  0% |
+Epoch 149	Iter   21	Loss_D:-183.5200348	Loss_G:183.6835022	loss_E:-0.0663168
+epoch is: 149
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 20% |
+|  1 |  0% |  0% |
+Epoch 150	Iter    1	Loss_D:-185.9416809	Loss_G:186.1051025	loss_E:-0.0663172
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 20% |
+|  1 |  0% |  0% |
+Epoch 150	Iter   11	Loss_D:-189.3209229	Loss_G:189.4841766	loss_E:-0.0663179
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 150	Iter   21	Loss_D:-184.6745300	Loss_G:184.8376923	loss_E:-0.0663161
+Epoch 150	Loss_D_avg:-180.0642620	Loss_G_avg:180.4500057	loss_E_avg:-0.0641008
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'citizen', 'generally', 'concentration', 'disease', 'final', 'imprison', 'jews']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'final', 'generally', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'die', 'gas', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'afford', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'gas', 'camp', 'afford', 'intend', 'generally', 'citizen', 'nazi', 'concentration', 'final', 'disease', 'ii', 'jews', 'let']
+['look', 'afford', 'die', 'intend', 'gas', 'camp', 'nazi', 'citizen', 'ii', 'concentration', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'disease', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'disease', 'ii', 'nazi', 'generally', 'final', 'imprison', 'jews']
+['look', 'gas', 'intend', 'die', 'citizen', 'nazi', 'afford', 'camp', 'generally', 'ii', 'concentration', 'disease', 'final', 'imprison', 'let']
+['look', 'afford', 'die', 'intend', 'camp', 'gas', 'final', 'nazi', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'afford', 'citizen', 'camp', 'concentration', 'ii', 'generally', 'final', 'disease', 'let', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'ii', 'disease', 'generally', 'imprison']
+['look', 'die', 'gas', 'camp', 'afford', 'intend', 'citizen', 'nazi', 'concentration', 'final', 'generally', 'disease', 'ii', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'intend', 'citizen', 'afford', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'ii', 'generally', 'nazi', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'disease', 'final', 'ii', 'imprison', 'generally', 'jews']
+['look', 'die', 'gas', 'intend', 'citizen', 'afford', 'camp', 'nazi', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'afford', 'die', 'gas', 'intend', 'concentration', 'camp', 'nazi', 'ii', 'citizen', 'final', 'disease', 'generally', 'imprison', 'jews']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'camp', 'disease', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'disease', 'citizen', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'camp', 'die', 'afford', 'intend', 'gas', 'citizen', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804648, c_npmi:-0.02751747789290947
+mimno topic coherence:-273.92640648388993
+epoch is: 150
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 151	Iter    1	Loss_D:-186.3922882	Loss_G:186.5553589	loss_E:-0.0663180
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch 151	Iter   11	Loss_D:-185.9699097	Loss_G:186.1328583	loss_E:-0.0663138
+| ID | GPU | MEM |
+------------------
+|  0 | 60% | 20% |
+|  1 |  0% |  0% |
+Epoch 151	Iter   21	Loss_D:-186.6457520	Loss_G:186.8086090	loss_E:-0.0663118
+epoch is: 151
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 152	Iter    1	Loss_D:-187.0116577	Loss_G:187.1746063	loss_E:-0.0663136
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 20% |
+|  1 |  0% |  0% |
+Epoch 152	Iter   11	Loss_D:-187.4905396	Loss_G:187.6531677	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch 152	Iter   21	Loss_D:-188.5606079	Loss_G:188.7231750	loss_E:-0.0663193
+epoch is: 152
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 153	Iter    1	Loss_D:-186.0543823	Loss_G:186.2168121	loss_E:-0.0663190
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 153	Iter   11	Loss_D:-187.6031494	Loss_G:187.7655792	loss_E:-0.0663083
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 20% |
+|  1 |  0% |  0% |
+Epoch 153	Iter   21	Loss_D:-189.4616699	Loss_G:189.6240082	loss_E:-0.0663200
+epoch is: 153
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 154	Iter    1	Loss_D:-188.3634949	Loss_G:188.5256348	loss_E:-0.0663196
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 154	Iter   11	Loss_D:-184.0268250	Loss_G:184.1889496	loss_E:-0.0663188
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 154	Iter   21	Loss_D:-186.2231750	Loss_G:186.3852997	loss_E:-0.0663168
+epoch is: 154
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 155	Iter    1	Loss_D:-188.2508545	Loss_G:188.4127045	loss_E:-0.0663172
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 155	Iter   11	Loss_D:-188.1382141	Loss_G:188.2999878	loss_E:-0.0663141
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 155	Iter   21	Loss_D:-186.8146973	Loss_G:186.9763794	loss_E:-0.0663141
+epoch is: 155
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 156	Iter    1	Loss_D:-187.7721405	Loss_G:187.9337006	loss_E:-0.0663140
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 156	Iter   11	Loss_D:-188.8985901	Loss_G:189.0600128	loss_E:-0.0663174
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 156	Iter   21	Loss_D:-185.8290710	Loss_G:185.9904175	loss_E:-0.0663177
+epoch is: 156
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 157	Iter    1	Loss_D:-182.5062103	Loss_G:182.6674500	loss_E:-0.0663191
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 157	Iter   11	Loss_D:-185.0687866	Loss_G:185.2299347	loss_E:-0.0663141
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 157	Iter   21	Loss_D:-187.7719269	Loss_G:187.9331818	loss_E:-0.0663186
+epoch is: 157
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 158	Iter    1	Loss_D:-188.3353577	Loss_G:188.4962921	loss_E:-0.0663176
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 158	Iter   11	Loss_D:-187.7157593	Loss_G:187.8765869	loss_E:-0.0663184
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 20% |
+|  1 |  0% |  0% |
+Epoch 158	Iter   21	Loss_D:-181.3512878	Loss_G:181.5123901	loss_E:-0.0663163
+epoch is: 158
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 159	Iter    1	Loss_D:-192.1369019	Loss_G:192.2975464	loss_E:-0.0663166
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 159	Iter   11	Loss_D:-187.9411011	Loss_G:188.1016541	loss_E:-0.0663132
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 159	Iter   21	Loss_D:-185.9136047	Loss_G:186.0740356	loss_E:-0.0663158
+epoch is: 159
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 160	Iter    1	Loss_D:-185.0686340	Loss_G:185.2291412	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 160	Iter   11	Loss_D:-187.4904175	Loss_G:187.6507568	loss_E:-0.0663151
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch 160	Iter   21	Loss_D:-180.6476746	Loss_G:180.8078003	loss_E:-0.0663182
+Epoch 160	Loss_D_avg:-180.4799429	Loss_G_avg:180.8516804	loss_E_avg:-0.0642393
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'concentration', 'disease', 'final', 'imprison', 'jews']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'final', 'generally', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'die', 'gas', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'afford', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'generally', 'citizen', 'nazi', 'concentration', 'final', 'disease', 'ii', 'jews', 'let']
+['look', 'die', 'afford', 'intend', 'gas', 'camp', 'nazi', 'ii', 'citizen', 'concentration', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'afford', 'gas', 'die', 'camp', 'intend', 'citizen', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'disease', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'concentration', 'disease', 'ii', 'generally', 'nazi', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'intend', 'citizen', 'nazi', 'afford', 'camp', 'generally', 'ii', 'concentration', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'afford', 'intend', 'camp', 'gas', 'final', 'nazi', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'die', 'gas', 'intend', 'nazi', 'afford', 'camp', 'citizen', 'concentration', 'ii', 'generally', 'final', 'disease', 'imprison', 'let']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'ii', 'disease', 'generally', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'nazi', 'citizen', 'concentration', 'final', 'generally', 'disease', 'ii', 'jews', 'imprison']
+['look', 'gas', 'die', 'camp', 'intend', 'afford', 'citizen', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'intend', 'die', 'gas', 'citizen', 'afford', 'generally', 'ii', 'nazi', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'disease', 'final', 'ii', 'imprison', 'generally', 'jews']
+['look', 'die', 'gas', 'intend', 'citizen', 'afford', 'camp', 'nazi', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'afford', 'gas', 'intend', 'concentration', 'camp', 'nazi', 'ii', 'citizen', 'final', 'disease', 'generally', 'jews', 'imprison']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'disease', 'camp', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'disease', 'citizen', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'die', 'camp', 'afford', 'intend', 'gas', 'citizen', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804648, c_npmi:-0.027517477892909474
+mimno topic coherence:-275.4942504990252
+epoch is: 160
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 161	Iter    1	Loss_D:-186.4768066	Loss_G:186.6368103	loss_E:-0.0663173
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 161	Iter   11	Loss_D:-185.0687866	Loss_G:185.2287292	loss_E:-0.0663173
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 161	Iter   21	Loss_D:-184.2521362	Loss_G:184.4119720	loss_E:-0.0663180
+epoch is: 161
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 162	Iter    1	Loss_D:-185.9417267	Loss_G:186.1015472	loss_E:-0.0663195
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 162	Iter   11	Loss_D:-185.6882935	Loss_G:185.8479156	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch 162	Iter   21	Loss_D:-192.1086121	Loss_G:192.2683258	loss_E:-0.0663200
+epoch is: 162
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 163	Iter    1	Loss_D:-189.0112000	Loss_G:189.1706085	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 163	Iter   11	Loss_D:-191.7990417	Loss_G:191.9583740	loss_E:-0.0663147
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 163	Iter   21	Loss_D:-193.0378723	Loss_G:193.1972809	loss_E:-0.0663183
+epoch is: 163
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 164	Iter    1	Loss_D:-187.2089233	Loss_G:187.3680725	loss_E:-0.0663180
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch 164	Iter   11	Loss_D:-186.8710022	Loss_G:187.0300598	loss_E:-0.0663143
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 164	Iter   21	Loss_D:-185.5475159	Loss_G:185.7064514	loss_E:-0.0663184
+epoch is: 164
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 165	Iter    1	Loss_D:-188.8422241	Loss_G:189.0010681	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 165	Iter   11	Loss_D:-186.1951294	Loss_G:186.3539581	loss_E:-0.0663105
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 165	Iter   21	Loss_D:-186.5612793	Loss_G:186.7199097	loss_E:-0.0663162
+epoch is: 165
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 166	Iter    1	Loss_D:-184.2520752	Loss_G:184.4107056	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 166	Iter   11	Loss_D:-189.6025238	Loss_G:189.7609558	loss_E:-0.0663192
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 166	Iter   21	Loss_D:-185.3785400	Loss_G:185.5368805	loss_E:-0.0663200
+epoch is: 166
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 167	Iter    1	Loss_D:-182.4217834	Loss_G:182.5800018	loss_E:-0.0663196
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 167	Iter   11	Loss_D:-182.5907593	Loss_G:182.7489014	loss_E:-0.0663123
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch 167	Iter   21	Loss_D:-187.1808167	Loss_G:187.3388367	loss_E:-0.0663163
+epoch is: 167
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 168	Iter    1	Loss_D:-189.8277283	Loss_G:189.9857941	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 168	Iter   11	Loss_D:-187.5186462	Loss_G:187.6765137	loss_E:-0.0663171
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 168	Iter   21	Loss_D:-187.5187683	Loss_G:187.6765137	loss_E:-0.0663170
+epoch is: 168
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 169	Iter    1	Loss_D:-185.6882477	Loss_G:185.8459167	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch 169	Iter   11	Loss_D:-190.1094055	Loss_G:190.2669525	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 20% |
+|  1 |  0% |  0% |
+Epoch 169	Iter   21	Loss_D:-186.8428650	Loss_G:187.0003052	loss_E:-0.0663163
+epoch is: 169
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 170	Iter    1	Loss_D:-186.9273682	Loss_G:187.0847168	loss_E:-0.0663142
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 170	Iter   11	Loss_D:-187.8283234	Loss_G:187.9856873	loss_E:-0.0663070
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch 170	Iter   21	Loss_D:-185.2940979	Loss_G:185.4512482	loss_E:-0.0663155
+Epoch 170	Loss_D_avg:-180.8705197	Loss_G_avg:181.2297208	loss_E_avg:-0.0643615
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'concentration', 'citizen', 'disease', 'final', 'imprison', 'jews']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'final', 'generally', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'die', 'gas', 'nazi', 'camp', 'ii', 'generally', 'citizen', 'afford', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'generally', 'citizen', 'nazi', 'concentration', 'final', 'disease', 'ii', 'jews', 'let']
+['look', 'die', 'afford', 'intend', 'gas', 'camp', 'nazi', 'ii', 'concentration', 'citizen', 'generally', 'disease', 'imprison', 'jews', 'final']
+['look', 'afford', 'gas', 'die', 'camp', 'intend', 'citizen', 'concentration', 'nazi', 'ii', 'jews', 'imprison', 'disease', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'disease', 'concentration', 'generally', 'ii', 'nazi', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'intend', 'citizen', 'nazi', 'afford', 'camp', 'generally', 'ii', 'concentration', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'afford', 'intend', 'camp', 'gas', 'nazi', 'final', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'let', 'jews']
+['look', 'die', 'gas', 'intend', 'nazi', 'afford', 'camp', 'citizen', 'concentration', 'ii', 'generally', 'final', 'disease', 'imprison', 'let']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'jews', 'concentration', 'citizen', 'final', 'disease', 'ii', 'generally', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'nazi', 'citizen', 'concentration', 'final', 'generally', 'disease', 'ii', 'jews', 'imprison']
+['look', 'gas', 'die', 'intend', 'camp', 'afford', 'citizen', 'concentration', 'nazi', 'ii', 'generally', 'disease', 'imprison', 'final', 'jews']
+['look', 'camp', 'die', 'intend', 'gas', 'citizen', 'afford', 'generally', 'ii', 'nazi', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'disease', 'final', 'ii', 'imprison', 'generally', 'jews']
+['look', 'die', 'gas', 'intend', 'afford', 'citizen', 'camp', 'nazi', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'afford', 'gas', 'intend', 'concentration', 'camp', 'nazi', 'ii', 'citizen', 'final', 'disease', 'generally', 'jews', 'imprison']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'disease', 'camp', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'disease', 'citizen', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'die', 'camp', 'afford', 'intend', 'gas', 'nazi', 'citizen', 'ii', 'generally', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804653, c_npmi:-0.027517477892909474
+mimno topic coherence:-274.66630027963583
+epoch is: 170
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 171	Iter    1	Loss_D:-186.0261993	Loss_G:186.1832581	loss_E:-0.0663147
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 171	Iter   11	Loss_D:-186.8709106	Loss_G:187.0279694	loss_E:-0.0663127
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch 171	Iter   21	Loss_D:-188.3071594	Loss_G:188.4640808	loss_E:-0.0663179
+epoch is: 171
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 172	Iter    1	Loss_D:-189.1801453	Loss_G:189.3369446	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 172	Iter   11	Loss_D:-188.7858582	Loss_G:188.9425659	loss_E:-0.0663188
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 20% |
+|  1 |  0% |  0% |
+Epoch 172	Iter   21	Loss_D:-185.2658386	Loss_G:185.4225159	loss_E:-0.0663200
+epoch is: 172
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 173	Iter    1	Loss_D:-185.5474854	Loss_G:185.7039337	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 173	Iter   11	Loss_D:-181.8866882	Loss_G:182.0430603	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 173	Iter   21	Loss_D:-186.5894165	Loss_G:186.7456665	loss_E:-0.0663163
+epoch is: 173
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 174	Iter    1	Loss_D:-188.6731262	Loss_G:188.8294525	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 20% |
+|  1 |  0% |  0% |
+Epoch 174	Iter   11	Loss_D:-185.6882935	Loss_G:185.8443451	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 20% |
+|  1 |  0% |  0% |
+Epoch 174	Iter   21	Loss_D:-188.8703613	Loss_G:189.0264282	loss_E:-0.0663169
+epoch is: 174
+| ID | GPU | MEM |
+------------------
+|  0 |  6% | 20% |
+|  1 |  0% |  0% |
+Epoch 175	Iter    1	Loss_D:-188.7577515	Loss_G:188.9136047	loss_E:-0.0663165
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 175	Iter   11	Loss_D:-184.7308960	Loss_G:184.8866730	loss_E:-0.0663124
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 175	Iter   21	Loss_D:-186.8146362	Loss_G:186.9704132	loss_E:-0.0663166
+epoch is: 175
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 176	Iter    1	Loss_D:-186.5330811	Loss_G:186.6886597	loss_E:-0.0663163
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 176	Iter   11	Loss_D:-184.3646851	Loss_G:184.5202484	loss_E:-0.0663174
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 20% |
+|  1 |  0% |  0% |
+Epoch 176	Iter   21	Loss_D:-184.9561462	Loss_G:185.1115265	loss_E:-0.0663176
+epoch is: 176
+| ID | GPU | MEM |
+------------------
+|  0 |  6% | 20% |
+|  1 |  0% |  0% |
+Epoch 177	Iter    1	Loss_D:-185.6037903	Loss_G:185.7590790	loss_E:-0.0663168
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 177	Iter   11	Loss_D:-188.3635254	Loss_G:188.5187073	loss_E:-0.0663156
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 177	Iter   21	Loss_D:-189.8278503	Loss_G:189.9829254	loss_E:-0.0663145
+epoch is: 177
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 178	Iter    1	Loss_D:-189.0393677	Loss_G:189.1943665	loss_E:-0.0663116
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch 178	Iter   11	Loss_D:-183.2383423	Loss_G:183.3932648	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch 178	Iter   21	Loss_D:-188.7858887	Loss_G:188.9407043	loss_E:-0.0663136
+epoch is: 178
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 179	Iter    1	Loss_D:-186.7582703	Loss_G:186.9130859	loss_E:-0.0663174
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch 179	Iter   11	Loss_D:-187.9692993	Loss_G:188.1239014	loss_E:-0.0663166
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 20% |
+|  1 |  0% |  0% |
+Epoch 179	Iter   21	Loss_D:-186.0262146	Loss_G:186.1806946	loss_E:-0.0663157
+epoch is: 179
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 180	Iter    1	Loss_D:-186.4766541	Loss_G:186.6312103	loss_E:-0.0663188
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 180	Iter   11	Loss_D:-185.1251221	Loss_G:185.2794189	loss_E:-0.0663182
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 180	Iter   21	Loss_D:-186.8710022	Loss_G:187.0252380	loss_E:-0.0663188
+Epoch 180	Loss_D_avg:-181.1961094	Loss_G_avg:181.5440029	loss_E_avg:-0.0644701
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'concentration', 'citizen', 'disease', 'final', 'imprison', 'jews']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'intend', 'die', 'gas', 'nazi', 'camp', 'ii', 'generally', 'afford', 'citizen', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'generally', 'citizen', 'nazi', 'final', 'concentration', 'disease', 'ii', 'jews', 'let']
+['look', 'die', 'afford', 'intend', 'gas', 'camp', 'nazi', 'ii', 'concentration', 'citizen', 'disease', 'generally', 'imprison', 'jews', 'final']
+['look', 'afford', 'gas', 'die', 'intend', 'camp', 'citizen', 'concentration', 'nazi', 'jews', 'ii', 'disease', 'imprison', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'disease', 'concentration', 'generally', 'nazi', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'intend', 'citizen', 'nazi', 'afford', 'camp', 'generally', 'ii', 'concentration', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'afford', 'intend', 'camp', 'gas', 'nazi', 'final', 'concentration', 'citizen', 'generally', 'ii', 'disease', 'jews', 'let']
+['look', 'die', 'gas', 'intend', 'nazi', 'afford', 'camp', 'citizen', 'concentration', 'ii', 'generally', 'final', 'disease', 'imprison', 'let']
+['look', 'die', 'gas', 'afford', 'intend', 'nazi', 'camp', 'jews', 'concentration', 'citizen', 'disease', 'final', 'ii', 'generally', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'nazi', 'citizen', 'concentration', 'final', 'generally', 'disease', 'ii', 'jews', 'imprison']
+['look', 'die', 'gas', 'intend', 'camp', 'afford', 'citizen', 'concentration', 'nazi', 'ii', 'disease', 'generally', 'imprison', 'final', 'jews']
+['look', 'die', 'intend', 'camp', 'gas', 'citizen', 'afford', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'citizen', 'disease', 'final', 'ii', 'imprison', 'generally', 'jews']
+['look', 'die', 'gas', 'intend', 'afford', 'citizen', 'camp', 'nazi', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'afford', 'gas', 'intend', 'concentration', 'camp', 'nazi', 'ii', 'citizen', 'final', 'disease', 'generally', 'jews', 'imprison']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'disease', 'camp', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'disease', 'citizen', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'die', 'camp', 'afford', 'intend', 'gas', 'nazi', 'citizen', 'ii', 'generally', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804653, c_npmi:-0.027517477892909474
+mimno topic coherence:-274.66630027963583
+epoch is: 180
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 181	Iter    1	Loss_D:-187.0681610	Loss_G:187.2222595	loss_E:-0.0663179
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch 181	Iter   11	Loss_D:-184.3084412	Loss_G:184.4625244	loss_E:-0.0663148
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 181	Iter   21	Loss_D:-189.4053955	Loss_G:189.5593414	loss_E:-0.0663200
+epoch is: 181
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 182	Iter    1	Loss_D:-193.0381012	Loss_G:193.1919250	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 182	Iter   11	Loss_D:-182.6751404	Loss_G:182.8288422	loss_E:-0.0663188
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 182	Iter   21	Loss_D:-183.9142761	Loss_G:184.0679016	loss_E:-0.0663163
+epoch is: 182
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 183	Iter    1	Loss_D:-188.5041962	Loss_G:188.6578674	loss_E:-0.0663182
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch 183	Iter   11	Loss_D:-188.1382141	Loss_G:188.2917023	loss_E:-0.0663164
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch 183	Iter   21	Loss_D:-187.4060669	Loss_G:187.5593872	loss_E:-0.0663177
+epoch is: 183
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 184	Iter    1	Loss_D:-187.0117493	Loss_G:187.1651154	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 184	Iter   11	Loss_D:-183.0412903	Loss_G:183.1944275	loss_E:-0.0663170
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch 184	Iter   21	Loss_D:-189.0956116	Loss_G:189.2487030	loss_E:-0.0663170
+epoch is: 184
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 185	Iter    1	Loss_D:-186.8428345	Loss_G:186.9957886	loss_E:-0.0663178
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch 185	Iter   11	Loss_D:-186.6175842	Loss_G:186.7704620	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 185	Iter   21	Loss_D:-189.5179138	Loss_G:189.6708221	loss_E:-0.0663190
+epoch is: 185
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 186	Iter    1	Loss_D:-186.8147583	Loss_G:186.9674225	loss_E:-0.0663181
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch 186	Iter   11	Loss_D:-188.8985748	Loss_G:189.0511169	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 20% |
+|  1 |  0% |  0% |
+Epoch 186	Iter   21	Loss_D:-188.3353271	Loss_G:188.4877930	loss_E:-0.0663146
+epoch is: 186
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 187	Iter    1	Loss_D:-189.7714844	Loss_G:189.9238892	loss_E:-0.0663139
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 187	Iter   11	Loss_D:-188.0818176	Loss_G:188.2342072	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 187	Iter   21	Loss_D:-189.7151794	Loss_G:189.8673706	loss_E:-0.0663183
+epoch is: 187
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 188	Iter    1	Loss_D:-183.3510437	Loss_G:183.5031433	loss_E:-0.0663176
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch 188	Iter   11	Loss_D:-185.3222656	Loss_G:185.4742584	loss_E:-0.0663180
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch 188	Iter   21	Loss_D:-187.6595001	Loss_G:187.8114014	loss_E:-0.0663193
+epoch is: 188
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 189	Iter    1	Loss_D:-182.6751404	Loss_G:182.8269196	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch 189	Iter   11	Loss_D:-183.5198669	Loss_G:183.6717377	loss_E:-0.0663197
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 189	Iter   21	Loss_D:-186.8428650	Loss_G:186.9944763	loss_E:-0.0663153
+epoch is: 189
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 190	Iter    1	Loss_D:-184.5335693	Loss_G:184.6852722	loss_E:-0.0663192
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 20% |
+|  1 |  0% |  0% |
+Epoch 190	Iter   11	Loss_D:-189.9122925	Loss_G:190.0636902	loss_E:-0.0663175
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch 190	Iter   21	Loss_D:-190.7007599	Loss_G:190.8520813	loss_E:-0.0663190
+Epoch 190	Loss_D_avg:-181.5063482	Loss_G_avg:181.8439709	loss_E_avg:-0.0645674
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'concentration', 'citizen', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'afford', 'gas', 'nazi', 'citizen', 'intend', 'camp', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'afford', 'citizen', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'gas', 'afford', 'camp', 'intend', 'generally', 'nazi', 'citizen', 'final', 'concentration', 'disease', 'ii', 'jews', 'let']
+['look', 'die', 'afford', 'intend', 'gas', 'camp', 'nazi', 'ii', 'concentration', 'citizen', 'disease', 'generally', 'imprison', 'jews', 'final']
+['look', 'afford', 'gas', 'die', 'intend', 'camp', 'concentration', 'citizen', 'nazi', 'jews', 'ii', 'disease', 'imprison', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'citizen', 'intend', 'disease', 'concentration', 'generally', 'nazi', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'citizen', 'afford', 'camp', 'generally', 'ii', 'concentration', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'afford', 'intend', 'camp', 'gas', 'nazi', 'final', 'concentration', 'generally', 'citizen', 'ii', 'disease', 'jews', 'let']
+['look', 'die', 'gas', 'intend', 'nazi', 'afford', 'camp', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'gas', 'afford', 'intend', 'nazi', 'camp', 'jews', 'concentration', 'citizen', 'disease', 'final', 'ii', 'generally', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'citizen', 'concentration', 'final', 'generally', 'disease', 'ii', 'jews', 'imprison']
+['look', 'die', 'gas', 'intend', 'camp', 'afford', 'citizen', 'concentration', 'nazi', 'ii', 'disease', 'generally', 'imprison', 'final', 'jews']
+['look', 'die', 'intend', 'camp', 'gas', 'citizen', 'afford', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'disease', 'citizen', 'final', 'ii', 'imprison', 'generally', 'jews']
+['look', 'die', 'gas', 'intend', 'afford', 'citizen', 'camp', 'nazi', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'afford', 'gas', 'intend', 'concentration', 'camp', 'nazi', 'ii', 'citizen', 'disease', 'final', 'generally', 'jews', 'imprison']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'disease', 'camp', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'afford', 'intend', 'disease', 'citizen', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'die', 'camp', 'afford', 'intend', 'gas', 'nazi', 'citizen', 'ii', 'generally', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804653, c_npmi:-0.02751747789290948
+mimno topic coherence:-274.66630027963583
+epoch is: 190
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch 191	Iter    1	Loss_D:-190.5599365	Loss_G:190.7111664	loss_E:-0.0663178
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch 191	Iter   11	Loss_D:-186.7020569	Loss_G:186.8532562	loss_E:-0.0663186
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch 191	Iter   21	Loss_D:-185.7163086	Loss_G:185.8674927	loss_E:-0.0663190
+epoch is: 191
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 192	Iter    1	Loss_D:-188.5606232	Loss_G:188.7115784	loss_E:-0.0663178
+| ID | GPU | MEM |
+------------------
+|  0 |  2% | 20% |
+|  1 |  0% |  0% |
+Epoch 192	Iter   11	Loss_D:-190.6444092	Loss_G:190.7953186	loss_E:-0.0663200
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 192	Iter   21	Loss_D:-189.0675354	Loss_G:189.2182922	loss_E:-0.0663138
+epoch is: 192
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 193	Iter    1	Loss_D:-186.8428955	Loss_G:186.9935303	loss_E:-0.0663120
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 193	Iter   11	Loss_D:-188.6732788	Loss_G:188.8238678	loss_E:-0.0663194
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch 193	Iter   21	Loss_D:-188.3634338	Loss_G:188.5139923	loss_E:-0.0663199
+epoch is: 193
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 194	Iter    1	Loss_D:-189.2364807	Loss_G:189.3868713	loss_E:-0.0663189
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 194	Iter   11	Loss_D:-185.9981079	Loss_G:186.1483765	loss_E:-0.0663101
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch 194	Iter   21	Loss_D:-189.0675354	Loss_G:189.2177124	loss_E:-0.0663137
+epoch is: 194
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 195	Iter    1	Loss_D:-187.1244812	Loss_G:187.2745667	loss_E:-0.0663121
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 195	Iter   11	Loss_D:-193.1788635	Loss_G:193.3288879	loss_E:-0.0663129
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch 195	Iter   21	Loss_D:-184.5618591	Loss_G:184.7117767	loss_E:-0.0663175
+epoch is: 195
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 196	Iter    1	Loss_D:-189.8841248	Loss_G:190.0339813	loss_E:-0.0663187
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch 196	Iter   11	Loss_D:-187.5749969	Loss_G:187.7247162	loss_E:-0.0663199
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch 196	Iter   21	Loss_D:-186.1106262	Loss_G:186.2603607	loss_E:-0.0663182
+epoch is: 196
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 20% |
+|  1 |  0% |  0% |
+Epoch 197	Iter    1	Loss_D:-191.6582031	Loss_G:191.8076935	loss_E:-0.0663168
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch 197	Iter   11	Loss_D:-190.7571411	Loss_G:190.9065857	loss_E:-0.0663135
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 20% |
+|  1 |  0% |  0% |
+Epoch 197	Iter   21	Loss_D:-187.6031494	Loss_G:187.7525024	loss_E:-0.0663179
+epoch is: 197
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 198	Iter    1	Loss_D:-186.9555359	Loss_G:187.1047974	loss_E:-0.0663162
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 198	Iter   11	Loss_D:-185.0405579	Loss_G:185.1897125	loss_E:-0.0663188
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch 198	Iter   21	Loss_D:-183.2665405	Loss_G:183.4155884	loss_E:-0.0663197
+epoch is: 198
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch 199	Iter    1	Loss_D:-188.3353119	Loss_G:188.4842682	loss_E:-0.0663185
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch 199	Iter   11	Loss_D:-190.9260864	Loss_G:191.0749817	loss_E:-0.0663192
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 20% |
+|  1 |  0% |  0% |
+Epoch 199	Iter   21	Loss_D:-188.8701935	Loss_G:189.0191803	loss_E:-0.0663175
+epoch is: 199
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch 200	Iter    1	Loss_D:-187.5468445	Loss_G:187.6955261	loss_E:-0.0663146
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch 200	Iter   11	Loss_D:-186.5049744	Loss_G:186.6535645	loss_E:-0.0663161
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 20% |
+|  1 |  0% |  0% |
+Epoch 200	Iter   21	Loss_D:-187.4623566	Loss_G:187.6108704	loss_E:-0.0663178
+Epoch 200	Loss_D_avg:-181.8356882	Loss_G_avg:182.1639241	loss_E_avg:-0.0646549
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'concentration', 'citizen', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'afford', 'gas', 'nazi', 'intend', 'citizen', 'camp', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'intend', 'gas', 'nazi', 'camp', 'ii', 'generally', 'afford', 'citizen', 'concentration', 'disease', 'final', 'jews', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'generally', 'nazi', 'citizen', 'final', 'concentration', 'disease', 'ii', 'jews', 'let']
+['look', 'die', 'afford', 'intend', 'gas', 'nazi', 'camp', 'ii', 'concentration', 'citizen', 'disease', 'generally', 'imprison', 'jews', 'final']
+['look', 'afford', 'die', 'gas', 'intend', 'camp', 'concentration', 'citizen', 'nazi', 'jews', 'ii', 'disease', 'imprison', 'final', 'generally']
+['look', 'afford', 'gas', 'die', 'camp', 'intend', 'citizen', 'disease', 'concentration', 'generally', 'nazi', 'ii', 'final', 'imprison', 'jews']
+['look', 'gas', 'die', 'intend', 'nazi', 'citizen', 'afford', 'camp', 'generally', 'ii', 'concentration', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'afford', 'intend', 'camp', 'gas', 'nazi', 'final', 'concentration', 'generally', 'ii', 'citizen', 'disease', 'jews', 'let']
+['look', 'die', 'gas', 'intend', 'nazi', 'afford', 'camp', 'citizen', 'concentration', 'ii', 'generally', 'disease', 'final', 'imprison', 'let']
+['look', 'die', 'gas', 'afford', 'intend', 'nazi', 'camp', 'jews', 'concentration', 'disease', 'citizen', 'final', 'ii', 'generally', 'imprison']
+['look', 'die', 'gas', 'afford', 'intend', 'camp', 'nazi', 'concentration', 'citizen', 'final', 'disease', 'generally', 'ii', 'jews', 'imprison']
+['look', 'die', 'gas', 'intend', 'camp', 'afford', 'citizen', 'concentration', 'nazi', 'ii', 'disease', 'generally', 'imprison', 'final', 'jews']
+['look', 'die', 'intend', 'camp', 'gas', 'citizen', 'afford', 'nazi', 'generally', 'ii', 'concentration', 'final', 'disease', 'jews', 'let']
+['die', 'look', 'gas', 'intend', 'afford', 'concentration', 'nazi', 'camp', 'disease', 'citizen', 'final', 'ii', 'imprison', 'generally', 'jews']
+['look', 'die', 'gas', 'intend', 'afford', 'citizen', 'camp', 'nazi', 'concentration', 'generally', 'final', 'disease', 'jews', 'ii', 'imprison']
+['look', 'die', 'afford', 'intend', 'gas', 'concentration', 'camp', 'nazi', 'ii', 'disease', 'final', 'citizen', 'generally', 'jews', 'imprison']
+['look', 'gas', 'afford', 'die', 'nazi', 'intend', 'citizen', 'disease', 'camp', 'generally', 'concentration', 'ii', 'final', 'imprison', 'jews']
+['look', 'die', 'gas', 'afford', 'intend', 'disease', 'citizen', 'nazi', 'ii', 'camp', 'imprison', 'concentration', 'final', 'generally', 'jews']
+['look', 'die', 'camp', 'afford', 'intend', 'gas', 'nazi', 'ii', 'generally', 'citizen', 'concentration', 'final', 'disease', 'let', 'jews']
+==============================
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804653, c_npmi:-0.027517477892909474
+mimno topic coherence:-274.5002446973023
+topic diversity:0.05333333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3466957349138958, c_w2v:None, c_uci:-1.9371072865804653, c_npmi:-0.027517477892909474
+mimno topic coherence:-274.5002446973023

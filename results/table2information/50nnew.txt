@@ -1,0 +1,2186 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7faef8754ac0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 19% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:0.4562100	Loss_G:1.4462721	loss_E:0.0104614
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-6.7268457	Loss_G:8.4730930	loss_E:0.0084380
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-16.4226742	Loss_G:18.4038582	loss_E:0.0057469
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-17.1696262	Loss_G:19.1221657	loss_E:0.0054929
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-27.5971718	Loss_G:29.6723213	loss_E:0.0024293
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-37.1891022	Loss_G:39.2168350	loss_E:-0.0007079
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-39.7069473	Loss_G:41.8259277	loss_E:-0.0010742
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-48.1114540	Loss_G:50.0649033	loss_E:-0.0041654
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-59.0595169	Loss_G:60.9646988	loss_E:-0.0069803
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-59.0061836	Loss_G:60.8388672	loss_E:-0.0071840
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-67.7026901	Loss_G:69.4525299	loss_E:-0.0096666
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-76.5536194	Loss_G:78.2463989	loss_E:-0.0122101
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-77.6895142	Loss_G:79.4036865	loss_E:-0.0124480
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-84.4720764	Loss_G:86.0915833	loss_E:-0.0147277
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-91.5341415	Loss_G:93.0793991	loss_E:-0.0170669
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-92.2716370	Loss_G:93.8063354	loss_E:-0.0172717
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-98.6756516	Loss_G:100.1172409	loss_E:-0.0192151
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-107.2700500	Loss_G:108.7001038	loss_E:-0.0211554
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-108.7557526	Loss_G:110.1981659	loss_E:-0.0213560
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-112.8827591	Loss_G:114.2144623	loss_E:-0.0231779
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-116.2119675	Loss_G:117.4493713	loss_E:-0.0248834
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-118.2485275	Loss_G:119.4984894	loss_E:-0.0250937
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-122.7132187	Loss_G:123.8923340	loss_E:-0.0267057
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-126.6431274	Loss_G:127.7427750	loss_E:-0.0284155
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-129.2049866	Loss_G:130.3044128	loss_E:-0.0285552
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-133.0351715	Loss_G:134.0671387	loss_E:-0.0300438
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-140.6253510	Loss_G:141.6156006	loss_E:-0.0313938
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-139.8558502	Loss_G:140.8400879	loss_E:-0.0315053
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-142.6809540	Loss_G:143.5814514	loss_E:-0.0328133
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-150.4553375	Loss_G:151.3295441	loss_E:-0.0340731
+Epoch  10	Loss_D_avg:-84.9338565	Loss_G_avg:86.4553351	loss_E_avg:-0.0149774
+['thing', 'generally', 'certain', 'base', 'war', 'final', 'continuous', 'apply', 'imprison', 'citizen', 'run', 'happen', 'concept', 'deletion', 'sure']
+['certain', 'apply', 'continuous', 'base', 'war', 'thing', 'final', 'generally', 'total', 'run', 'good', 'step', 'citizen', 'concept', 'sure']
+['certain', 'thing', 'final', 'citizen', 'war', 'continuous', 'good', 'generally', 'imprison', 'apply', 'base', 'create', 'step', 'sure', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'run', 'japanese', 'step', 'concept', 'create']
+['continuous', 'certain', 'final', 'citizen', 'thing', 'base', 'apply', 'run', 'good', 'generally', 'concept', 'war', 'total', 'happen', 'imprison']
+['certain', 'thing', 'base', 'apply', 'continuous', 'war', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'total', 'concept', 'happen']
+['thing', 'certain', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'concept', 'run', 'happen', 'total', 'step', 'citizen']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'total', 'sure', 'continuous', 'generally', 'step', 'imprison', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'step', 'final', 'generally', 'total', 'citizen', 'base', 'imprison', 'japanese', 'concept', 'create']
+['certain', 'thing', 'war', 'base', 'continuous', 'citizen', 'apply', 'final', 'generally', 'good', 'happen', 'total', 'concept', 'step', 'imprison']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'run', 'imprison', 'japanese', 'good']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'run', 'step', 'total', 'happen', 'good', 'imprison', 'concept', 'final']
+['certain', 'thing', 'base', 'generally', 'total', 'final', 'citizen', 'war', 'concept', 'sure', 'continuous', 'step', 'happen', 'apply', 'good']
+['thing', 'certain', 'continuous', 'final', 'generally', 'apply', 'war', 'base', 'good', 'imprison', 'happen', 'ancient', 'citizen', 'total', 'run']
+['certain', 'continuous', 'base', 'total', 'apply', 'war', 'thing', 'final', 'generally', 'step', 'citizen', 'sure', 'concept', 'happen', 'afford']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'step', 'run', 'imprison']
+['thing', 'certain', 'continuous', 'base', 'apply', 'war', 'run', 'final', 'citizen', 'good', 'concept', 'imprison', 'generally', 'total', 'step']
+['certain', 'continuous', 'thing', 'apply', 'war', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'total', 'create', 'step', 'japanese']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'base', 'war', 'run', 'happen', 'concept', 'imprison', 'ancient', 'total', 'step']
+['war', 'base', 'continuous', 'certain', 'citizen', 'run', 'final', 'thing', 'generally', 'apply', 'step', 'concept', 'good', 'total', 'ancient']
+['certain', 'war', 'citizen', 'final', 'apply', 'thing', 'happen', 'continuous', 'generally', 'base', 'good', 'concept', 'imprison', 'sure', 'create']
+['continuous', 'certain', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'step', 'total', 'final', 'good', 'imprison', 'afford']
+['certain', 'thing', 'generally', 'apply', 'war', 'citizen', 'final', 'japanese', 'total', 'base', 'sure', 'continuous', 'run', 'step', 'concept']
+['certain', 'thing', 'generally', 'war', 'final', 'apply', 'base', 'imprison', 'continuous', 'run', 'citizen', 'total', 'concept', 'step', 'good']
+['continuous', 'thing', 'apply', 'generally', 'base', 'final', 'certain', 'step', 'run', 'citizen', 'war', 'happen', 'sure', 'afford', 'total']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'total', 'thing', 'generally', 'concept', 'japanese', 'good', 'run', 'step']
+['thing', 'certain', 'final', 'continuous', 'apply', 'generally', 'war', 'base', 'citizen', 'run', 'step', 'imprison', 'total', 'good', 'happen']
+['continuous', 'final', 'base', 'certain', 'apply', 'good', 'war', 'generally', 'thing', 'citizen', 'concept', 'afford', 'total', 'run', 'happen']
+['war', 'thing', 'certain', 'final', 'generally', 'concept', 'citizen', 'apply', 'continuous', 'good', 'base', 'happen', 'imprison', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'final', 'war', 'base', 'happen', 'concept', 'good', 'imprison', 'run', 'sure']
+['certain', 'apply', 'continuous', 'thing', 'final', 'base', 'concept', 'citizen', 'generally', 'war', 'sure', 'happen', 'total', 'run', 'step']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'total', 'step', 'citizen', 'war', 'concept', 'imprison', 'good', 'base', 'run']
+['thing', 'war', 'continuous', 'certain', 'base', 'final', 'imprison', 'generally', 'good', 'total', 'citizen', 'apply', 'sure', 'happen', 'run']
+['final', 'certain', 'base', 'continuous', 'war', 'thing', 'happen', 'generally', 'imprison', 'citizen', 'concept', 'total', 'apply', 'step', 'sure']
+['citizen', 'thing', 'concept', 'final', 'certain', 'continuous', 'apply', 'generally', 'war', 'total', 'sure', 'base', 'step', 'run', 'create']
+['thing', 'apply', 'final', 'certain', 'citizen', 'continuous', 'generally', 'sure', 'war', 'imprison', 'good', 'base', 'step', 'happen', 'run']
+['certain', 'citizen', 'final', 'thing', 'apply', 'good', 'war', 'continuous', 'base', 'concept', 'total', 'generally', 'sure', 'step', 'run']
+['certain', 'thing', 'apply', 'continuous', 'generally', 'war', 'good', 'total', 'base', 'concept', 'run', 'final', 'imprison', 'citizen', 'create']
+['apply', 'thing', 'final', 'continuous', 'certain', 'generally', 'war', 'run', 'good', 'citizen', 'step', 'base', 'imprison', 'happen', 'concept']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'happen', 'japanese', 'good', 'generally', 'imprison', 'total', 'concept']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'total', 'run', 'happen', 'final', 'step', 'deletion', 'japanese']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'concept', 'imprison', 'happen', 'step', 'good']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'total', 'generally', 'deletion', 'imprison', 'good', 'run']
+['apply', 'certain', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'sure', 'concept', 'war', 'base', 'step', 'ancient']
+['generally', 'certain', 'thing', 'base', 'war', 'continuous', 'apply', 'total', 'final', 'good', 'citizen', 'run', 'concept', 'step', 'happen']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'total', 'citizen', 'thing', 'apply', 'happen', 'good', 'run', 'step', 'deletion']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'step', 'citizen', 'run', 'total', 'concept']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'concept', 'thing', 'generally', 'happen', 'total', 'good', 'run', 'imprison']
+['thing', 'final', 'base', 'continuous', 'certain', 'apply', 'war', 'generally', 'happen', 'run', 'create', 'citizen', 'good', 'imprison', 'japanese']
+['certain', 'final', 'base', 'sure', 'continuous', 'thing', 'war', 'citizen', 'total', 'apply', 'generally', 'happen', 'good', 'concept', 'imprison']
+==============================
+topic diversity:0.029333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3201318323942936, c_w2v:None, c_uci:-3.5981499570676783, c_npmi:-0.11690031154278163
+mimno topic coherence:-262.10651656292214
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-148.7345886	Loss_G:149.5893860	loss_E:-0.0341836
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-155.7236481	Loss_G:156.5228882	loss_E:-0.0352420
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-156.3901062	Loss_G:157.1185608	loss_E:-0.0363218
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-155.3681793	Loss_G:156.0728455	loss_E:-0.0364254
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-161.9660034	Loss_G:162.6300049	loss_E:-0.0373409
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-163.3316803	Loss_G:163.9289246	loss_E:-0.0381823
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-160.6110077	Loss_G:161.1837463	loss_E:-0.0382800
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-164.8147583	Loss_G:165.3309021	loss_E:-0.0390130
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-166.7806702	Loss_G:167.2369690	loss_E:-0.0397702
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-167.1454010	Loss_G:167.5949707	loss_E:-0.0398172
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-169.4637756	Loss_G:169.8502502	loss_E:-0.0403946
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-170.8925323	Loss_G:171.2160950	loss_E:-0.0408921
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-169.8794556	Loss_G:170.1983643	loss_E:-0.0409028
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-167.5822906	Loss_G:167.8431702	loss_E:-0.0413115
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-173.6031799	Loss_G:173.8197937	loss_E:-0.0416328
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-173.2395020	Loss_G:173.4514008	loss_E:-0.0416889
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-171.9776611	Loss_G:172.1479187	loss_E:-0.0419501
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-174.8808594	Loss_G:175.0159912	loss_E:-0.0421250
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-168.8282471	Loss_G:168.9564819	loss_E:-0.0421617
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-175.5319672	Loss_G:175.6418152	loss_E:-0.0422679
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-170.2764435	Loss_G:170.3661499	loss_E:-0.0423865
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-176.2447205	Loss_G:176.3362579	loss_E:-0.0423927
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-174.9089355	Loss_G:174.9877014	loss_E:-0.0424579
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-175.2793427	Loss_G:175.3508911	loss_E:-0.0425257
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-170.3364716	Loss_G:170.4074402	loss_E:-0.0425361
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-173.8297577	Loss_G:173.8965149	loss_E:-0.0425674
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-176.0645599	Loss_G:176.1286926	loss_E:-0.0426235
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-175.7602081	Loss_G:175.8246460	loss_E:-0.0426168
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-176.8526001	Loss_G:176.9150696	loss_E:-0.0426688
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-174.9212799	Loss_G:174.9812622	loss_E:-0.0426774
+Epoch  20	Loss_D_avg:-126.8205922	Loss_G_avg:127.7367526	loss_E_avg:-0.0277446
+['thing', 'generally', 'certain', 'base', 'war', 'final', 'continuous', 'apply', 'imprison', 'citizen', 'run', 'happen', 'concept', 'deletion', 'good']
+['certain', 'apply', 'continuous', 'base', 'war', 'thing', 'final', 'generally', 'good', 'run', 'total', 'citizen', 'step', 'sure', 'concept']
+['certain', 'thing', 'final', 'citizen', 'war', 'continuous', 'good', 'generally', 'imprison', 'apply', 'base', 'create', 'step', 'sure', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'run', 'japanese', 'step', 'concept', 'create']
+['continuous', 'certain', 'final', 'citizen', 'thing', 'base', 'apply', 'good', 'run', 'generally', 'concept', 'war', 'total', 'happen', 'imprison']
+['certain', 'thing', 'base', 'apply', 'continuous', 'war', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'total', 'concept', 'happen']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'concept', 'happen', 'run', 'total', 'step', 'good']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'total', 'sure', 'continuous', 'generally', 'step', 'imprison', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'step', 'final', 'generally', 'total', 'citizen', 'base', 'imprison', 'japanese', 'concept', 'sure']
+['certain', 'thing', 'war', 'base', 'continuous', 'citizen', 'apply', 'final', 'generally', 'good', 'happen', 'total', 'concept', 'step', 'imprison']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'imprison', 'run', 'good', 'japanese']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'run', 'step', 'total', 'happen', 'good', 'imprison', 'citizen', 'final']
+['certain', 'thing', 'base', 'generally', 'citizen', 'final', 'total', 'war', 'concept', 'sure', 'continuous', 'step', 'happen', 'apply', 'good']
+['thing', 'certain', 'continuous', 'final', 'generally', 'apply', 'war', 'base', 'good', 'imprison', 'happen', 'citizen', 'ancient', 'total', 'run']
+['certain', 'continuous', 'base', 'total', 'apply', 'war', 'thing', 'final', 'generally', 'citizen', 'step', 'sure', 'concept', 'happen', 'afford']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'step', 'imprison', 'run']
+['thing', 'certain', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'citizen', 'good', 'concept', 'imprison', 'step', 'generally', 'total']
+['certain', 'continuous', 'thing', 'apply', 'war', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'total', 'step', 'create', 'japanese']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'base', 'war', 'run', 'happen', 'concept', 'imprison', 'ancient', 'step', 'citizen']
+['war', 'base', 'certain', 'continuous', 'citizen', 'final', 'run', 'thing', 'generally', 'apply', 'step', 'good', 'concept', 'total', 'happen']
+['certain', 'citizen', 'war', 'final', 'apply', 'thing', 'happen', 'continuous', 'generally', 'base', 'good', 'concept', 'imprison', 'sure', 'create']
+['continuous', 'certain', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'step', 'total', 'final', 'good', 'imprison', 'afford']
+['certain', 'thing', 'generally', 'apply', 'war', 'japanese', 'citizen', 'final', 'total', 'base', 'sure', 'continuous', 'run', 'step', 'concept']
+['certain', 'thing', 'generally', 'war', 'final', 'apply', 'base', 'imprison', 'continuous', 'run', 'citizen', 'total', 'concept', 'step', 'good']
+['continuous', 'thing', 'apply', 'generally', 'base', 'final', 'certain', 'step', 'run', 'citizen', 'war', 'happen', 'good', 'sure', 'total']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'total', 'thing', 'generally', 'japanese', 'concept', 'good', 'run', 'step']
+['thing', 'certain', 'final', 'continuous', 'apply', 'war', 'generally', 'base', 'citizen', 'run', 'step', 'imprison', 'good', 'total', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'generally', 'thing', 'citizen', 'concept', 'afford', 'total', 'run', 'happen']
+['war', 'thing', 'certain', 'final', 'generally', 'citizen', 'concept', 'apply', 'continuous', 'good', 'base', 'happen', 'imprison', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'base', 'happen', 'concept', 'good', 'imprison', 'sure', 'run']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'concept', 'citizen', 'generally', 'war', 'sure', 'happen', 'total', 'run', 'good']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'total', 'step', 'citizen', 'war', 'good', 'imprison', 'concept', 'base', 'sure']
+['thing', 'war', 'continuous', 'certain', 'base', 'final', 'imprison', 'generally', 'good', 'citizen', 'total', 'apply', 'sure', 'happen', 'run']
+['final', 'certain', 'base', 'continuous', 'war', 'thing', 'happen', 'generally', 'imprison', 'citizen', 'concept', 'apply', 'total', 'step', 'sure']
+['citizen', 'thing', 'concept', 'final', 'certain', 'continuous', 'apply', 'war', 'generally', 'sure', 'total', 'base', 'step', 'run', 'imprison']
+['thing', 'apply', 'final', 'certain', 'citizen', 'continuous', 'generally', 'sure', 'war', 'imprison', 'good', 'base', 'step', 'happen', 'run']
+['certain', 'citizen', 'final', 'thing', 'apply', 'good', 'war', 'continuous', 'base', 'concept', 'total', 'generally', 'sure', 'step', 'run']
+['certain', 'thing', 'apply', 'continuous', 'generally', 'war', 'good', 'total', 'base', 'concept', 'run', 'final', 'imprison', 'citizen', 'create']
+['apply', 'thing', 'final', 'continuous', 'certain', 'generally', 'war', 'good', 'citizen', 'run', 'step', 'base', 'imprison', 'happen', 'concept']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'happen', 'japanese', 'good', 'imprison', 'generally', 'total', 'concept']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'total', 'happen', 'run', 'final', 'step', 'deletion', 'japanese']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'concept', 'step', 'good']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'generally', 'total', 'imprison', 'good', 'deletion', 'sure']
+['apply', 'certain', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'sure', 'war', 'concept', 'base', 'step', 'happen']
+['generally', 'certain', 'thing', 'base', 'war', 'apply', 'continuous', 'total', 'final', 'good', 'citizen', 'run', 'concept', 'step', 'happen']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'total', 'thing', 'apply', 'happen', 'good', 'run', 'step', 'deletion']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'step', 'citizen', 'run', 'total', 'concept']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'concept', 'thing', 'happen', 'generally', 'total', 'good', 'run', 'imprison']
+['thing', 'final', 'base', 'continuous', 'certain', 'apply', 'war', 'generally', 'happen', 'run', 'create', 'good', 'citizen', 'imprison', 'japanese']
+['certain', 'final', 'base', 'sure', 'continuous', 'thing', 'war', 'citizen', 'total', 'apply', 'generally', 'happen', 'good', 'concept', 'imprison']
+==============================
+topic diversity:0.029333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32122239363872124, c_w2v:None, c_uci:-3.5418837038772364, c_npmi:-0.11466239098670887
+mimno topic coherence:-262.10651656292214
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-172.9662323	Loss_G:173.0258179	loss_E:-0.0426814
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-173.2643433	Loss_G:173.3225708	loss_E:-0.0426940
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-175.1297455	Loss_G:175.1867065	loss_E:-0.0427393
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-175.6415253	Loss_G:175.6981354	loss_E:-0.0427102
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-170.6062012	Loss_G:170.6613770	loss_E:-0.0427526
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-175.3886566	Loss_G:175.4436035	loss_E:-0.0427417
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-175.8649597	Loss_G:175.9199829	loss_E:-0.0427615
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-173.6784515	Loss_G:173.7322388	loss_E:-0.0427710
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-178.6852570	Loss_G:178.7388611	loss_E:-0.0428003
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-175.7292938	Loss_G:175.7826233	loss_E:-0.0427992
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-173.3600159	Loss_G:173.4127197	loss_E:-0.0428124
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-175.5271912	Loss_G:175.5789795	loss_E:-0.0428178
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-168.7102814	Loss_G:168.7618103	loss_E:-0.0428349
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-171.6448822	Loss_G:171.6962585	loss_E:-0.0428388
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-175.1232758	Loss_G:175.1742554	loss_E:-0.0428570
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-176.5275269	Loss_G:176.5785828	loss_E:-0.0428442
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-173.5877380	Loss_G:173.6380310	loss_E:-0.0428436
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-180.9071198	Loss_G:180.9573059	loss_E:-0.0428886
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-174.9427948	Loss_G:174.9926147	loss_E:-0.0428956
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-175.4119873	Loss_G:175.4611816	loss_E:-0.0428817
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-179.2159729	Loss_G:179.2652283	loss_E:-0.0429171
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-177.3385468	Loss_G:177.3879089	loss_E:-0.0428902
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-176.1774139	Loss_G:176.2260742	loss_E:-0.0428888
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-174.0665588	Loss_G:174.1147156	loss_E:-0.0429379
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-173.9494476	Loss_G:173.9976501	loss_E:-0.0429191
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-172.9271088	Loss_G:172.9747925	loss_E:-0.0429501
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-174.5773621	Loss_G:174.6250000	loss_E:-0.0429355
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-174.1740875	Loss_G:174.2216797	loss_E:-0.0429503
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-175.4274445	Loss_G:175.4746399	loss_E:-0.0429474
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-180.1667786	Loss_G:180.2138977	loss_E:-0.0429435
+Epoch  30	Loss_D_avg:-142.8883748	Loss_G_avg:143.5163378	loss_E_avg:-0.0327769
+['thing', 'generally', 'certain', 'base', 'war', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'run', 'happen', 'deletion', 'concept', 'good']
+['certain', 'apply', 'continuous', 'base', 'war', 'thing', 'final', 'generally', 'good', 'run', 'total', 'citizen', 'step', 'sure', 'concept']
+['certain', 'thing', 'final', 'citizen', 'war', 'continuous', 'good', 'generally', 'imprison', 'apply', 'base', 'create', 'sure', 'step', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'run', 'japanese', 'step', 'concept', 'create']
+['continuous', 'certain', 'final', 'citizen', 'thing', 'base', 'apply', 'good', 'run', 'generally', 'war', 'concept', 'total', 'imprison', 'happen']
+['certain', 'thing', 'base', 'apply', 'continuous', 'war', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'total', 'happen', 'concept']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'concept', 'happen', 'run', 'total', 'step', 'good']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'sure', 'continuous', 'total', 'generally', 'step', 'imprison', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'step', 'final', 'generally', 'total', 'citizen', 'imprison', 'base', 'japanese', 'concept', 'sure']
+['certain', 'thing', 'war', 'base', 'continuous', 'citizen', 'apply', 'final', 'generally', 'good', 'happen', 'total', 'concept', 'imprison', 'step']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'imprison', 'run', 'good', 'japanese']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'run', 'step', 'total', 'happen', 'good', 'imprison', 'citizen', 'final']
+['certain', 'thing', 'base', 'generally', 'citizen', 'final', 'total', 'war', 'sure', 'concept', 'continuous', 'step', 'happen', 'apply', 'good']
+['thing', 'certain', 'continuous', 'final', 'generally', 'apply', 'war', 'base', 'good', 'imprison', 'happen', 'citizen', 'ancient', 'run', 'total']
+['certain', 'continuous', 'base', 'total', 'apply', 'war', 'thing', 'final', 'generally', 'citizen', 'step', 'sure', 'concept', 'happen', 'good']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'step', 'imprison', 'run']
+['thing', 'certain', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'citizen', 'good', 'concept', 'imprison', 'step', 'generally', 'total']
+['certain', 'continuous', 'thing', 'apply', 'war', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'total', 'step', 'create', 'japanese']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'base', 'war', 'happen', 'run', 'imprison', 'concept', 'ancient', 'citizen', 'step']
+['war', 'base', 'certain', 'continuous', 'citizen', 'final', 'run', 'thing', 'generally', 'apply', 'step', 'good', 'concept', 'total', 'disease']
+['certain', 'citizen', 'war', 'final', 'apply', 'thing', 'happen', 'continuous', 'generally', 'base', 'good', 'concept', 'imprison', 'sure', 'create']
+['continuous', 'certain', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'step', 'good', 'final', 'total', 'imprison', 'happen']
+['certain', 'thing', 'generally', 'apply', 'war', 'japanese', 'citizen', 'final', 'total', 'base', 'sure', 'continuous', 'run', 'step', 'concept']
+['certain', 'thing', 'generally', 'war', 'final', 'apply', 'base', 'imprison', 'continuous', 'run', 'citizen', 'total', 'step', 'concept', 'good']
+['continuous', 'thing', 'apply', 'generally', 'base', 'final', 'certain', 'step', 'run', 'citizen', 'war', 'happen', 'good', 'sure', 'total']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'total', 'thing', 'japanese', 'generally', 'concept', 'good', 'run', 'happen']
+['thing', 'certain', 'final', 'continuous', 'apply', 'war', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'total', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'thing', 'generally', 'citizen', 'concept', 'afford', 'total', 'run', 'happen']
+['war', 'thing', 'certain', 'final', 'generally', 'citizen', 'apply', 'concept', 'continuous', 'good', 'happen', 'base', 'imprison', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'base', 'happen', 'concept', 'good', 'imprison', 'sure', 'run']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'concept', 'generally', 'war', 'sure', 'happen', 'total', 'run', 'good']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'total', 'step', 'citizen', 'war', 'good', 'imprison', 'concept', 'base', 'sure']
+['thing', 'war', 'continuous', 'certain', 'base', 'final', 'imprison', 'generally', 'good', 'citizen', 'total', 'apply', 'sure', 'happen', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'generally', 'citizen', 'imprison', 'concept', 'apply', 'total', 'sure', 'step']
+['citizen', 'thing', 'final', 'concept', 'certain', 'continuous', 'apply', 'war', 'generally', 'sure', 'total', 'base', 'step', 'imprison', 'run']
+['thing', 'apply', 'final', 'certain', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'base', 'step', 'happen', 'run']
+['certain', 'citizen', 'final', 'apply', 'thing', 'good', 'war', 'continuous', 'base', 'concept', 'total', 'sure', 'generally', 'step', 'run']
+['certain', 'thing', 'apply', 'continuous', 'generally', 'war', 'good', 'total', 'base', 'concept', 'final', 'run', 'imprison', 'citizen', 'create']
+['apply', 'thing', 'final', 'continuous', 'certain', 'generally', 'war', 'good', 'citizen', 'run', 'step', 'base', 'imprison', 'happen', 'concept']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'happen', 'japanese', 'good', 'imprison', 'generally', 'total', 'run']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'total', 'happen', 'final', 'run', 'step', 'deletion', 'japanese']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'concept', 'step', 'good']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'generally', 'total', 'imprison', 'good', 'deletion', 'sure']
+['apply', 'certain', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'sure', 'war', 'base', 'step', 'concept', 'happen']
+['generally', 'certain', 'thing', 'base', 'war', 'apply', 'continuous', 'total', 'final', 'good', 'citizen', 'run', 'concept', 'step', 'happen']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'total', 'thing', 'apply', 'happen', 'good', 'run', 'step', 'deletion']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'citizen', 'step', 'run', 'total', 'concept']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'concept', 'thing', 'happen', 'generally', 'total', 'good', 'imprison', 'run']
+['thing', 'final', 'base', 'continuous', 'certain', 'apply', 'war', 'generally', 'happen', 'run', 'create', 'good', 'citizen', 'imprison', 'japanese']
+['certain', 'final', 'base', 'sure', 'continuous', 'thing', 'war', 'citizen', 'total', 'apply', 'generally', 'happen', 'good', 'concept', 'imprison']
+==============================
+topic diversity:0.030666666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32188149111540926, c_w2v:None, c_uci:-3.4991227644821805, c_npmi:-0.11322975914527927
+mimno topic coherence:-262.10651656292214
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-178.1877747	Loss_G:178.2347412	loss_E:-0.0429395
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-176.6071472	Loss_G:176.6540222	loss_E:-0.0429370
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-176.9447021	Loss_G:176.9910736	loss_E:-0.0429712
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-176.4417725	Loss_G:176.4884033	loss_E:-0.0429669
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-172.7588348	Loss_G:172.8049622	loss_E:-0.0429623
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-174.4438324	Loss_G:174.4896851	loss_E:-0.0429581
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-178.0998840	Loss_G:178.1457825	loss_E:-0.0429624
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-172.8322144	Loss_G:172.8778076	loss_E:-0.0429691
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-177.1638489	Loss_G:177.2093506	loss_E:-0.0429450
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-172.5765076	Loss_G:172.6219177	loss_E:-0.0430012
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-175.2973022	Loss_G:175.3424988	loss_E:-0.0429626
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-178.0360107	Loss_G:178.0811157	loss_E:-0.0429356
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-175.3822937	Loss_G:175.4273682	loss_E:-0.0430032
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-174.0613403	Loss_G:174.1063843	loss_E:-0.0429703
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-172.3253021	Loss_G:172.3701782	loss_E:-0.0430159
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-172.2649841	Loss_G:172.3099060	loss_E:-0.0430023
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-176.1591187	Loss_G:176.2037964	loss_E:-0.0429924
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-175.5735779	Loss_G:175.6181335	loss_E:-0.0430032
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-178.1244812	Loss_G:178.1690063	loss_E:-0.0429456
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-181.0831299	Loss_G:181.1275330	loss_E:-0.0429969
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-176.6239319	Loss_G:176.6683350	loss_E:-0.0430063
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-176.0412903	Loss_G:176.0857849	loss_E:-0.0429930
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-172.6290588	Loss_G:172.6732178	loss_E:-0.0429941
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-175.6572723	Loss_G:175.7014465	loss_E:-0.0430209
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-174.6252136	Loss_G:174.6694031	loss_E:-0.0430037
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-178.9463501	Loss_G:178.9905396	loss_E:-0.0430378
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-174.6553650	Loss_G:174.6994934	loss_E:-0.0430068
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-175.6142578	Loss_G:175.6583252	loss_E:-0.0430374
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-174.0762024	Loss_G:174.1201782	loss_E:-0.0430240
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-173.1490326	Loss_G:173.1930542	loss_E:-0.0430124
+Epoch  40	Loss_D_avg:-151.0527980	Loss_G_avg:151.5350321	loss_E_avg:-0.0353292
+['thing', 'generally', 'certain', 'base', 'war', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'run', 'happen', 'deletion', 'concept', 'good']
+['certain', 'apply', 'continuous', 'base', 'war', 'thing', 'final', 'good', 'generally', 'run', 'citizen', 'total', 'step', 'sure', 'concept']
+['certain', 'thing', 'final', 'citizen', 'war', 'continuous', 'good', 'imprison', 'generally', 'apply', 'base', 'create', 'sure', 'step', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'citizen', 'base', 'final', 'war', 'run', 'japanese', 'step', 'concept', 'create']
+['continuous', 'certain', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'run', 'generally', 'war', 'concept', 'total', 'imprison', 'happen']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'total', 'happen', 'concept']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'happen', 'concept', 'run', 'total', 'step', 'good']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'sure', 'continuous', 'total', 'step', 'generally', 'imprison', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'step', 'final', 'generally', 'total', 'citizen', 'imprison', 'base', 'japanese', 'sure', 'concept']
+['certain', 'thing', 'war', 'base', 'continuous', 'citizen', 'apply', 'final', 'generally', 'good', 'happen', 'total', 'concept', 'imprison', 'step']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'imprison', 'good', 'run', 'japanese']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'run', 'step', 'total', 'good', 'happen', 'imprison', 'citizen', 'final']
+['certain', 'thing', 'base', 'generally', 'citizen', 'final', 'war', 'total', 'sure', 'step', 'continuous', 'concept', 'happen', 'good', 'apply']
+['thing', 'certain', 'continuous', 'final', 'generally', 'war', 'apply', 'base', 'good', 'imprison', 'happen', 'citizen', 'ancient', 'run', 'total']
+['certain', 'continuous', 'base', 'total', 'apply', 'war', 'thing', 'final', 'generally', 'citizen', 'step', 'sure', 'concept', 'happen', 'good']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'step', 'imprison', 'run']
+['thing', 'certain', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'citizen', 'good', 'concept', 'imprison', 'step', 'generally', 'total']
+['certain', 'continuous', 'thing', 'apply', 'war', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'total', 'step', 'create', 'japanese']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'base', 'war', 'happen', 'run', 'imprison', 'concept', 'citizen', 'ancient', 'step']
+['war', 'base', 'certain', 'continuous', 'citizen', 'final', 'run', 'thing', 'generally', 'apply', 'step', 'good', 'concept', 'total', 'disease']
+['certain', 'citizen', 'war', 'final', 'apply', 'thing', 'happen', 'continuous', 'generally', 'base', 'good', 'concept', 'imprison', 'sure', 'japanese']
+['continuous', 'certain', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'step', 'good', 'final', 'total', 'imprison', 'happen']
+['certain', 'thing', 'generally', 'apply', 'war', 'japanese', 'citizen', 'final', 'total', 'base', 'sure', 'continuous', 'step', 'run', 'concept']
+['certain', 'thing', 'generally', 'war', 'final', 'apply', 'base', 'imprison', 'continuous', 'run', 'citizen', 'total', 'step', 'concept', 'good']
+['continuous', 'thing', 'apply', 'generally', 'base', 'final', 'certain', 'step', 'run', 'citizen', 'war', 'happen', 'good', 'sure', 'total']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'total', 'thing', 'japanese', 'generally', 'concept', 'good', 'run', 'happen']
+['thing', 'certain', 'final', 'continuous', 'apply', 'war', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'total', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'thing', 'generally', 'citizen', 'concept', 'afford', 'total', 'run', 'happen']
+['war', 'thing', 'certain', 'final', 'generally', 'citizen', 'apply', 'concept', 'continuous', 'good', 'happen', 'base', 'imprison', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'base', 'happen', 'concept', 'good', 'imprison', 'sure', 'run']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'concept', 'generally', 'war', 'sure', 'happen', 'total', 'run', 'good']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'total', 'step', 'citizen', 'war', 'good', 'imprison', 'base', 'concept', 'sure']
+['thing', 'war', 'continuous', 'certain', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'total', 'apply', 'sure', 'happen', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'generally', 'citizen', 'imprison', 'concept', 'apply', 'sure', 'step', 'total']
+['citizen', 'thing', 'final', 'concept', 'certain', 'continuous', 'apply', 'war', 'generally', 'sure', 'base', 'total', 'step', 'imprison', 'run']
+['thing', 'apply', 'final', 'certain', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'base', 'step', 'happen', 'run']
+['certain', 'citizen', 'final', 'apply', 'thing', 'good', 'war', 'continuous', 'base', 'concept', 'sure', 'total', 'generally', 'step', 'run']
+['certain', 'thing', 'apply', 'continuous', 'generally', 'war', 'good', 'total', 'base', 'concept', 'final', 'run', 'imprison', 'citizen', 'create']
+['apply', 'thing', 'final', 'continuous', 'certain', 'generally', 'war', 'good', 'citizen', 'run', 'step', 'base', 'imprison', 'happen', 'concept']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'happen', 'japanese', 'good', 'imprison', 'generally', 'total', 'run']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'total', 'final', 'run', 'step', 'deletion', 'japanese']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'concept', 'good', 'step']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'generally', 'total', 'good', 'imprison', 'deletion', 'sure']
+['apply', 'certain', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'sure', 'war', 'base', 'step', 'concept', 'happen']
+['generally', 'certain', 'thing', 'base', 'war', 'apply', 'continuous', 'total', 'final', 'good', 'citizen', 'run', 'concept', 'step', 'happen']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'thing', 'total', 'apply', 'happen', 'good', 'run', 'step', 'deletion']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'citizen', 'step', 'run', 'total', 'concept']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'concept', 'thing', 'happen', 'generally', 'good', 'total', 'imprison', 'run']
+['thing', 'final', 'base', 'continuous', 'certain', 'apply', 'war', 'generally', 'happen', 'run', 'create', 'good', 'citizen', 'imprison', 'japanese']
+['certain', 'final', 'base', 'sure', 'continuous', 'thing', 'war', 'citizen', 'total', 'apply', 'generally', 'happen', 'good', 'concept', 'imprison']
+==============================
+topic diversity:0.030666666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32123713082144967, c_w2v:None, c_uci:-3.506562537203041, c_npmi:-0.11352262824280865
+mimno topic coherence:-262.10651656292214
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-173.9570007	Loss_G:174.0009155	loss_E:-0.0430025
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-176.1081390	Loss_G:176.1519775	loss_E:-0.0429828
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-176.3462524	Loss_G:176.3901367	loss_E:-0.0430373
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-174.5727081	Loss_G:174.6164856	loss_E:-0.0430408
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-176.5893555	Loss_G:176.6331482	loss_E:-0.0429716
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-175.3454590	Loss_G:175.3892822	loss_E:-0.0430264
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-171.7919769	Loss_G:171.8357391	loss_E:-0.0430450
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-178.2984161	Loss_G:178.3421021	loss_E:-0.0429838
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-174.1850281	Loss_G:174.2286987	loss_E:-0.0430300
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-173.1809235	Loss_G:173.2245789	loss_E:-0.0430383
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-176.6283569	Loss_G:176.6721954	loss_E:-0.0430578
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-176.2662964	Loss_G:176.3099060	loss_E:-0.0430369
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-175.9974518	Loss_G:176.0410156	loss_E:-0.0429896
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-176.1356812	Loss_G:176.1792603	loss_E:-0.0430373
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-172.3398895	Loss_G:172.3834229	loss_E:-0.0430461
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-174.7281494	Loss_G:174.7716980	loss_E:-0.0430065
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-180.1735840	Loss_G:180.2171326	loss_E:-0.0429983
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-173.8845825	Loss_G:173.9281311	loss_E:-0.0430338
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-174.3889771	Loss_G:174.4326172	loss_E:-0.0430563
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-173.8622894	Loss_G:173.9057922	loss_E:-0.0430501
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-178.1329041	Loss_G:178.1764221	loss_E:-0.0430364
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-173.2546997	Loss_G:173.2982788	loss_E:-0.0430281
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-174.3410797	Loss_G:174.3845520	loss_E:-0.0430438
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-175.9334259	Loss_G:175.9769287	loss_E:-0.0430142
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-175.1670227	Loss_G:175.2104492	loss_E:-0.0430281
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-177.5834656	Loss_G:177.6269226	loss_E:-0.0430232
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-174.7715759	Loss_G:174.8150024	loss_E:-0.0430539
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-171.7483521	Loss_G:171.7916565	loss_E:-0.0430026
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-172.5963287	Loss_G:172.6397095	loss_E:-0.0430500
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-176.4226685	Loss_G:176.4659424	loss_E:-0.0430253
+Epoch  50	Loss_D_avg:-155.8737854	Loss_G_avg:156.2682930	loss_E_avg:-0.0368685
+['thing', 'generally', 'certain', 'base', 'war', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'run', 'happen', 'deletion', 'good', 'concept']
+['certain', 'apply', 'continuous', 'base', 'thing', 'war', 'final', 'good', 'generally', 'run', 'citizen', 'total', 'step', 'sure', 'concept']
+['certain', 'thing', 'final', 'citizen', 'war', 'continuous', 'good', 'imprison', 'generally', 'apply', 'base', 'create', 'sure', 'step', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'run', 'japanese', 'step', 'concept', 'good']
+['certain', 'continuous', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'run', 'generally', 'war', 'concept', 'total', 'imprison', 'happen']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'total', 'happen', 'concept']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'happen', 'concept', 'run', 'total', 'step', 'good']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'sure', 'continuous', 'total', 'imprison', 'step', 'generally', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'step', 'final', 'generally', 'total', 'citizen', 'imprison', 'base', 'japanese', 'sure', 'concept']
+['certain', 'thing', 'war', 'base', 'continuous', 'citizen', 'apply', 'final', 'generally', 'good', 'happen', 'total', 'concept', 'imprison', 'step']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'imprison', 'good', 'japanese', 'run']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'run', 'step', 'total', 'good', 'happen', 'imprison', 'citizen', 'final']
+['certain', 'thing', 'base', 'generally', 'citizen', 'final', 'war', 'total', 'sure', 'step', 'continuous', 'concept', 'good', 'happen', 'apply']
+['thing', 'certain', 'continuous', 'final', 'generally', 'war', 'apply', 'base', 'good', 'imprison', 'happen', 'citizen', 'ancient', 'run', 'total']
+['certain', 'continuous', 'base', 'total', 'apply', 'war', 'thing', 'final', 'generally', 'citizen', 'step', 'sure', 'concept', 'happen', 'good']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'step', 'imprison', 'run']
+['thing', 'certain', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'citizen', 'good', 'imprison', 'concept', 'step', 'generally', 'total']
+['certain', 'continuous', 'thing', 'apply', 'war', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'total', 'step', 'create', 'japanese']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'base', 'war', 'happen', 'run', 'imprison', 'concept', 'citizen', 'step', 'ancient']
+['war', 'base', 'certain', 'continuous', 'citizen', 'final', 'run', 'thing', 'generally', 'apply', 'step', 'good', 'concept', 'total', 'disease']
+['certain', 'citizen', 'war', 'final', 'apply', 'thing', 'happen', 'continuous', 'generally', 'base', 'good', 'concept', 'imprison', 'sure', 'japanese']
+['continuous', 'certain', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'good', 'step', 'final', 'imprison', 'total', 'happen']
+['certain', 'thing', 'generally', 'apply', 'war', 'japanese', 'citizen', 'final', 'total', 'base', 'sure', 'continuous', 'step', 'run', 'concept']
+['certain', 'thing', 'generally', 'war', 'final', 'apply', 'base', 'imprison', 'continuous', 'run', 'citizen', 'total', 'step', 'concept', 'good']
+['continuous', 'thing', 'apply', 'generally', 'base', 'final', 'certain', 'step', 'run', 'citizen', 'war', 'happen', 'good', 'sure', 'total']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'thing', 'total', 'japanese', 'generally', 'concept', 'good', 'run', 'happen']
+['thing', 'certain', 'final', 'continuous', 'apply', 'war', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'total', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'thing', 'generally', 'citizen', 'concept', 'afford', 'total', 'run', 'happen']
+['war', 'thing', 'certain', 'final', 'generally', 'citizen', 'apply', 'good', 'concept', 'continuous', 'happen', 'base', 'imprison', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'base', 'happen', 'concept', 'good', 'imprison', 'sure', 'run']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'concept', 'generally', 'war', 'sure', 'happen', 'total', 'run', 'good']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'total', 'step', 'citizen', 'war', 'good', 'imprison', 'base', 'concept', 'sure']
+['thing', 'war', 'continuous', 'certain', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'total', 'apply', 'happen', 'sure', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'imprison', 'generally', 'citizen', 'concept', 'apply', 'sure', 'step', 'total']
+['citizen', 'thing', 'final', 'concept', 'certain', 'continuous', 'apply', 'war', 'generally', 'sure', 'base', 'total', 'step', 'imprison', 'run']
+['thing', 'apply', 'certain', 'final', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'base', 'happen', 'step', 'run']
+['certain', 'citizen', 'final', 'apply', 'good', 'thing', 'war', 'continuous', 'base', 'sure', 'concept', 'generally', 'total', 'step', 'run']
+['certain', 'thing', 'apply', 'continuous', 'generally', 'good', 'war', 'total', 'base', 'final', 'concept', 'imprison', 'run', 'citizen', 'create']
+['apply', 'thing', 'final', 'continuous', 'certain', 'generally', 'war', 'good', 'citizen', 'run', 'step', 'base', 'imprison', 'happen', 'concept']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'happen', 'good', 'japanese', 'imprison', 'generally', 'total', 'run']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'total', 'final', 'run', 'step', 'deletion', 'japanese']
+['thing', 'final', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'concept', 'good', 'step']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'generally', 'total', 'good', 'imprison', 'deletion', 'sure']
+['apply', 'certain', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'sure', 'war', 'base', 'step', 'concept', 'happen']
+['generally', 'certain', 'thing', 'base', 'war', 'apply', 'continuous', 'total', 'good', 'final', 'citizen', 'run', 'concept', 'step', 'happen']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'thing', 'total', 'apply', 'happen', 'good', 'run', 'step', 'deletion']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'citizen', 'step', 'run', 'total', 'concept']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'concept', 'thing', 'happen', 'generally', 'good', 'total', 'imprison', 'run']
+['thing', 'final', 'base', 'continuous', 'certain', 'apply', 'war', 'generally', 'happen', 'run', 'create', 'good', 'citizen', 'imprison', 'japanese']
+['certain', 'final', 'base', 'sure', 'thing', 'continuous', 'war', 'citizen', 'apply', 'total', 'generally', 'happen', 'good', 'imprison', 'concept']
+==============================
+topic diversity:0.030666666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3213914186242648, c_w2v:None, c_uci:-3.5009731967259428, c_npmi:-0.11333182784156484
+mimno topic coherence:-263.8313210781009
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-174.1357727	Loss_G:174.1791382	loss_E:-0.0430230
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-176.0488129	Loss_G:176.0921021	loss_E:-0.0430432
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-176.8732605	Loss_G:176.9165649	loss_E:-0.0430257
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-180.7225800	Loss_G:180.7659302	loss_E:-0.0430209
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-177.3816986	Loss_G:177.4249878	loss_E:-0.0430167
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-176.9295654	Loss_G:176.9728394	loss_E:-0.0430339
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-175.4443054	Loss_G:175.4875183	loss_E:-0.0430307
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-173.7718353	Loss_G:173.8151245	loss_E:-0.0430393
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-175.5517883	Loss_G:175.5950317	loss_E:-0.0430544
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-180.8069000	Loss_G:180.8501282	loss_E:-0.0430510
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-175.1548462	Loss_G:175.1980591	loss_E:-0.0430035
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-176.8800659	Loss_G:176.9232788	loss_E:-0.0430553
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-176.2707214	Loss_G:176.3139038	loss_E:-0.0430627
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-177.3047638	Loss_G:177.3479309	loss_E:-0.0430285
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-178.5535583	Loss_G:178.5967255	loss_E:-0.0430605
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-173.8026581	Loss_G:173.8458557	loss_E:-0.0430521
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-173.4050140	Loss_G:173.4481812	loss_E:-0.0430415
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-176.4299622	Loss_G:176.4731750	loss_E:-0.0430565
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-176.9074554	Loss_G:176.9506226	loss_E:-0.0430471
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-173.3526459	Loss_G:173.3958435	loss_E:-0.0430504
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-180.1467590	Loss_G:180.1899719	loss_E:-0.0430570
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-176.2728119	Loss_G:176.3160095	loss_E:-0.0430687
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-177.3351440	Loss_G:177.3782806	loss_E:-0.0430647
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-173.9391022	Loss_G:173.9822083	loss_E:-0.0430438
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-175.6372375	Loss_G:175.6803284	loss_E:-0.0430343
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-176.7508392	Loss_G:176.7940063	loss_E:-0.0430591
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-177.8409576	Loss_G:177.8840942	loss_E:-0.0430691
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-177.9465942	Loss_G:177.9897461	loss_E:-0.0430628
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-173.6465607	Loss_G:173.6897888	loss_E:-0.0430407
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-176.7006226	Loss_G:176.7437134	loss_E:-0.0430608
+Epoch  60	Loss_D_avg:-159.2945147	Loss_G_avg:159.6304724	loss_E_avg:-0.0378980
+['thing', 'generally', 'certain', 'war', 'base', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'happen', 'run', 'good', 'sure', 'deletion']
+['certain', 'apply', 'continuous', 'base', 'war', 'thing', 'final', 'good', 'generally', 'run', 'step', 'citizen', 'total', 'sure', 'imprison']
+['certain', 'thing', 'final', 'war', 'good', 'citizen', 'continuous', 'imprison', 'generally', 'apply', 'base', 'sure', 'create', 'step', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'japanese', 'run', 'step', 'good', 'create']
+['certain', 'continuous', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'generally', 'run', 'war', 'total', 'imprison', 'happen', 'concept']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'happen', 'total', 'step']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'happen', 'run', 'step', 'good', 'total', 'like']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'sure', 'continuous', 'total', 'imprison', 'step', 'generally', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'final', 'step', 'generally', 'total', 'imprison', 'citizen', 'japanese', 'base', 'sure', 'happen']
+['certain', 'thing', 'war', 'base', 'continuous', 'apply', 'citizen', 'final', 'good', 'generally', 'happen', 'imprison', 'total', 'step', 'run']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'imprison', 'good', 'japanese', 'run']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'step', 'run', 'good', 'happen', 'total', 'imprison', 'look', 'citizen']
+['certain', 'thing', 'base', 'generally', 'final', 'citizen', 'war', 'total', 'sure', 'step', 'continuous', 'good', 'happen', 'apply', 'concept']
+['certain', 'thing', 'continuous', 'final', 'generally', 'war', 'apply', 'base', 'good', 'imprison', 'happen', 'citizen', 'ancient', 'japanese', 'run']
+['certain', 'continuous', 'base', 'total', 'apply', 'war', 'thing', 'final', 'generally', 'step', 'sure', 'citizen', 'happen', 'good', 'japanese']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'imprison', 'step', 'run']
+['certain', 'thing', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'good', 'citizen', 'imprison', 'step', 'generally', 'total', 'happen']
+['certain', 'continuous', 'apply', 'thing', 'war', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'step', 'japanese', 'create', 'total']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'war', 'base', 'happen', 'run', 'imprison', 'step', 'citizen', 'good', 'ancient']
+['war', 'base', 'certain', 'continuous', 'final', 'citizen', 'run', 'thing', 'generally', 'apply', 'step', 'good', 'total', 'disease', 'happen']
+['certain', 'war', 'final', 'citizen', 'apply', 'happen', 'thing', 'continuous', 'generally', 'base', 'good', 'imprison', 'sure', 'concept', 'japanese']
+['certain', 'continuous', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'good', 'step', 'imprison', 'final', 'total', 'happen']
+['certain', 'thing', 'apply', 'generally', 'war', 'japanese', 'final', 'citizen', 'base', 'total', 'sure', 'continuous', 'step', 'run', 'happen']
+['certain', 'thing', 'war', 'generally', 'apply', 'final', 'base', 'imprison', 'continuous', 'run', 'citizen', 'total', 'step', 'good', 'sure']
+['continuous', 'thing', 'apply', 'base', 'generally', 'certain', 'final', 'step', 'run', 'war', 'citizen', 'happen', 'good', 'sure', 'total']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'thing', 'total', 'japanese', 'generally', 'good', 'concept', 'happen', 'run']
+['certain', 'thing', 'final', 'continuous', 'war', 'apply', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'japanese', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'thing', 'generally', 'citizen', 'afford', 'total', 'run', 'concept', 'happen']
+['war', 'certain', 'thing', 'final', 'generally', 'citizen', 'apply', 'good', 'continuous', 'happen', 'base', 'imprison', 'concept', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'happen', 'base', 'good', 'imprison', 'sure', 'run', 'concept']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'generally', 'war', 'sure', 'happen', 'concept', 'total', 'run', 'good']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'step', 'total', 'citizen', 'good', 'war', 'imprison', 'base', 'sure', 'run']
+['war', 'thing', 'certain', 'continuous', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'apply', 'total', 'sure', 'happen', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'imprison', 'generally', 'citizen', 'apply', 'sure', 'step', 'disease', 'total']
+['citizen', 'thing', 'final', 'certain', 'continuous', 'concept', 'apply', 'war', 'generally', 'sure', 'base', 'total', 'step', 'imprison', 'create']
+['thing', 'certain', 'apply', 'final', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'base', 'happen', 'step', 'run']
+['certain', 'final', 'citizen', 'good', 'apply', 'thing', 'war', 'continuous', 'base', 'sure', 'generally', 'step', 'total', 'concept', 'run']
+['certain', 'thing', 'apply', 'continuous', 'good', 'war', 'generally', 'base', 'total', 'final', 'imprison', 'run', 'citizen', 'create', 'happen']
+['apply', 'final', 'thing', 'continuous', 'certain', 'generally', 'war', 'good', 'citizen', 'step', 'run', 'base', 'imprison', 'happen', 'japanese']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'japanese', 'happen', 'good', 'imprison', 'generally', 'total', 'run']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'final', 'total', 'run', 'japanese', 'step', 'good']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'good', 'step', 'run']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'generally', 'good', 'imprison', 'total', 'deletion', 'sure']
+['certain', 'apply', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'sure', 'war', 'base', 'step', 'happen', 'imprison']
+['certain', 'generally', 'thing', 'base', 'war', 'apply', 'continuous', 'good', 'final', 'total', 'citizen', 'run', 'step', 'happen', 'little']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'thing', 'total', 'apply', 'happen', 'good', 'step', 'run', 'imprison']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'step', 'citizen', 'run', 'total', 'happen']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'thing', 'happen', 'concept', 'generally', 'good', 'total', 'imprison', 'run']
+['thing', 'final', 'base', 'certain', 'continuous', 'apply', 'war', 'happen', 'generally', 'run', 'good', 'create', 'imprison', 'citizen', 'japanese']
+['certain', 'final', 'base', 'sure', 'continuous', 'war', 'thing', 'citizen', 'apply', 'total', 'generally', 'happen', 'good', 'imprison', 'step']
+==============================
+topic diversity:0.034666666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3274249208751835, c_w2v:None, c_uci:-3.3024279150808993, c_npmi:-0.1070061086882829
+mimno topic coherence:-252.67006354503016
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-176.7792664	Loss_G:176.8223572	loss_E:-0.0430218
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-174.4180756	Loss_G:174.4612122	loss_E:-0.0430415
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-175.6116028	Loss_G:175.6547546	loss_E:-0.0430657
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-174.2323914	Loss_G:174.2754822	loss_E:-0.0430251
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-175.7974701	Loss_G:175.8406372	loss_E:-0.0430722
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-177.6031036	Loss_G:177.6461487	loss_E:-0.0430168
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-173.9147186	Loss_G:173.9577942	loss_E:-0.0430478
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-173.5427246	Loss_G:173.5859375	loss_E:-0.0430653
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-176.0113068	Loss_G:176.0543823	loss_E:-0.0430493
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-175.7194824	Loss_G:175.7625427	loss_E:-0.0430278
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-179.0899811	Loss_G:179.1330566	loss_E:-0.0430448
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-174.5518188	Loss_G:174.5949097	loss_E:-0.0430616
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-175.6137085	Loss_G:175.6567383	loss_E:-0.0430018
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-174.5790558	Loss_G:174.6221619	loss_E:-0.0430730
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-175.4544067	Loss_G:175.4974670	loss_E:-0.0430580
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-175.6400757	Loss_G:175.6831665	loss_E:-0.0430634
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-175.0566864	Loss_G:175.0997620	loss_E:-0.0430485
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-176.3573914	Loss_G:176.4004211	loss_E:-0.0430043
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-175.1631927	Loss_G:175.2062988	loss_E:-0.0430679
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-178.4806061	Loss_G:178.5236511	loss_E:-0.0430490
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-176.8352661	Loss_G:176.8783264	loss_E:-0.0430273
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-177.3654633	Loss_G:177.4085388	loss_E:-0.0430450
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-174.0749054	Loss_G:174.1180420	loss_E:-0.0430723
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-177.7638092	Loss_G:177.8068848	loss_E:-0.0430473
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-176.3574219	Loss_G:176.4004822	loss_E:-0.0430535
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-175.5877991	Loss_G:175.6308594	loss_E:-0.0430524
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-176.7023926	Loss_G:176.7454529	loss_E:-0.0430555
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-176.7557220	Loss_G:176.7988281	loss_E:-0.0430475
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-172.1378479	Loss_G:172.1809387	loss_E:-0.0430626
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-179.7017975	Loss_G:179.7448730	loss_E:-0.0429801
+Epoch  70	Loss_D_avg:-161.6662483	Loss_G_avg:161.9603673	loss_E_avg:-0.0386333
+['thing', 'generally', 'certain', 'war', 'base', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'happen', 'run', 'good', 'sure', 'deletion']
+['certain', 'apply', 'continuous', 'base', 'war', 'final', 'thing', 'good', 'generally', 'step', 'run', 'citizen', 'total', 'sure', 'imprison']
+['certain', 'thing', 'final', 'war', 'good', 'citizen', 'continuous', 'imprison', 'generally', 'apply', 'base', 'create', 'sure', 'step', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'japanese', 'run', 'step', 'good', 'create']
+['certain', 'continuous', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'generally', 'run', 'war', 'total', 'imprison', 'happen', 'concept']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'happen', 'total', 'step']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'happen', 'run', 'good', 'step', 'total', 'like']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'continuous', 'sure', 'imprison', 'step', 'total', 'generally', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'final', 'step', 'generally', 'total', 'imprison', 'japanese', 'citizen', 'base', 'happen', 'create']
+['certain', 'thing', 'war', 'base', 'continuous', 'apply', 'citizen', 'final', 'good', 'generally', 'happen', 'imprison', 'step', 'total', 'run']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'sure', 'step', 'imprison', 'good', 'japanese', 'run']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'step', 'run', 'good', 'happen', 'total', 'imprison', 'look', 'citizen']
+['certain', 'thing', 'base', 'generally', 'final', 'war', 'citizen', 'total', 'step', 'sure', 'continuous', 'good', 'happen', 'apply', 'run']
+['certain', 'thing', 'continuous', 'final', 'war', 'generally', 'apply', 'base', 'good', 'imprison', 'happen', 'citizen', 'ancient', 'japanese', 'run']
+['certain', 'continuous', 'base', 'apply', 'total', 'war', 'thing', 'final', 'generally', 'step', 'citizen', 'sure', 'happen', 'good', 'japanese']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'apply', 'war', 'good', 'base', 'final', 'sure', 'total', 'imprison', 'step', 'run']
+['certain', 'thing', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'good', 'citizen', 'imprison', 'step', 'generally', 'total', 'happen']
+['certain', 'continuous', 'apply', 'war', 'thing', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'step', 'japanese', 'create', 'total']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'war', 'base', 'happen', 'imprison', 'run', 'step', 'citizen', 'good', 'ancient']
+['war', 'base', 'certain', 'continuous', 'final', 'citizen', 'run', 'thing', 'apply', 'generally', 'step', 'good', 'total', 'disease', 'happen']
+['certain', 'war', 'final', 'citizen', 'apply', 'happen', 'thing', 'continuous', 'generally', 'base', 'good', 'imprison', 'sure', 'japanese', 'concept']
+['certain', 'continuous', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'good', 'step', 'imprison', 'final', 'total', 'happen']
+['certain', 'thing', 'apply', 'generally', 'war', 'japanese', 'final', 'citizen', 'base', 'total', 'sure', 'continuous', 'step', 'run', 'happen']
+['certain', 'thing', 'war', 'generally', 'apply', 'final', 'base', 'imprison', 'continuous', 'run', 'citizen', 'step', 'total', 'good', 'sure']
+['continuous', 'thing', 'apply', 'base', 'generally', 'certain', 'final', 'step', 'run', 'war', 'citizen', 'happen', 'good', 'sure', 'imprison']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'thing', 'total', 'japanese', 'generally', 'good', 'happen', 'run', 'concept']
+['certain', 'thing', 'final', 'continuous', 'war', 'apply', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'japanese', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'citizen', 'thing', 'generally', 'afford', 'total', 'run', 'concept', 'happen']
+['war', 'certain', 'thing', 'final', 'generally', 'citizen', 'apply', 'good', 'continuous', 'happen', 'base', 'imprison', 'concept', 'total', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'happen', 'base', 'good', 'imprison', 'sure', 'run', 'concept']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'generally', 'war', 'happen', 'sure', 'total', 'concept', 'good', 'run']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'step', 'total', 'citizen', 'war', 'good', 'imprison', 'base', 'sure', 'run']
+['war', 'thing', 'certain', 'continuous', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'apply', 'total', 'happen', 'sure', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'imprison', 'citizen', 'generally', 'apply', 'step', 'sure', 'disease', 'total']
+['citizen', 'thing', 'final', 'certain', 'continuous', 'war', 'apply', 'generally', 'concept', 'sure', 'base', 'total', 'step', 'imprison', 'create']
+['thing', 'certain', 'apply', 'final', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'base', 'happen', 'step', 'run']
+['certain', 'final', 'citizen', 'good', 'apply', 'thing', 'war', 'continuous', 'base', 'sure', 'generally', 'step', 'total', 'concept', 'run']
+['certain', 'thing', 'apply', 'continuous', 'good', 'war', 'generally', 'base', 'total', 'final', 'imprison', 'run', 'citizen', 'create', 'happen']
+['apply', 'final', 'thing', 'continuous', 'certain', 'war', 'generally', 'good', 'citizen', 'step', 'run', 'base', 'imprison', 'happen', 'japanese']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'final', 'happen', 'japanese', 'good', 'imprison', 'generally', 'run', 'total']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'final', 'japanese', 'run', 'total', 'step', 'good']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'good', 'step', 'run']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'good', 'generally', 'imprison', 'total', 'look', 'deletion']
+['certain', 'apply', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'war', 'sure', 'base', 'step', 'happen', 'imprison']
+['certain', 'generally', 'thing', 'base', 'war', 'apply', 'continuous', 'good', 'final', 'total', 'citizen', 'run', 'step', 'happen', 'little']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'thing', 'apply', 'total', 'happen', 'good', 'step', 'run', 'imprison']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'step', 'citizen', 'run', 'total', 'happen']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'thing', 'happen', 'good', 'generally', 'concept', 'total', 'imprison', 'run']
+['thing', 'final', 'base', 'certain', 'continuous', 'apply', 'war', 'happen', 'generally', 'run', 'good', 'create', 'imprison', 'citizen', 'japanese']
+['certain', 'final', 'base', 'continuous', 'war', 'sure', 'thing', 'citizen', 'apply', 'total', 'generally', 'happen', 'good', 'imprison', 'step']
+==============================
+topic diversity:0.034666666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3275722464037924, c_w2v:None, c_uci:-3.2904887891244083, c_npmi:-0.10647236811874712
+mimno topic coherence:-247.9009356971183
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-180.0999298	Loss_G:180.1429749	loss_E:-0.0430203
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-177.5522003	Loss_G:177.5952454	loss_E:-0.0430502
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-174.8450470	Loss_G:174.8880615	loss_E:-0.0430153
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-178.0300751	Loss_G:178.0731506	loss_E:-0.0430124
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-176.5437317	Loss_G:176.5867920	loss_E:-0.0430557
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-178.4808655	Loss_G:178.5239258	loss_E:-0.0430660
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-171.8726349	Loss_G:171.9156799	loss_E:-0.0430395
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-175.1902008	Loss_G:175.2332458	loss_E:-0.0430456
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-176.7825012	Loss_G:176.8255615	loss_E:-0.0430522
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-179.1444550	Loss_G:179.1875916	loss_E:-0.0430397
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-174.5001373	Loss_G:174.5431824	loss_E:-0.0430382
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-177.0479736	Loss_G:177.0910034	loss_E:-0.0430364
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-178.1889648	Loss_G:178.2320251	loss_E:-0.0430569
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-176.8621216	Loss_G:176.9051819	loss_E:-0.0430535
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-172.6954956	Loss_G:172.7385559	loss_E:-0.0430619
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-179.1181183	Loss_G:179.1612244	loss_E:-0.0430685
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-181.0026703	Loss_G:181.0457153	loss_E:-0.0430125
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-175.0044098	Loss_G:175.0474548	loss_E:-0.0430409
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-176.4376678	Loss_G:176.4807739	loss_E:-0.0430209
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-173.2263641	Loss_G:173.2694092	loss_E:-0.0430377
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-177.0481720	Loss_G:177.0912781	loss_E:-0.0430502
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-178.0035400	Loss_G:178.0466003	loss_E:-0.0430673
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-175.5353546	Loss_G:175.5783997	loss_E:-0.0430512
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-174.5003204	Loss_G:174.5433655	loss_E:-0.0430510
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-173.5182953	Loss_G:173.5613708	loss_E:-0.0430426
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-174.8187561	Loss_G:174.8618469	loss_E:-0.0430679
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-177.3666382	Loss_G:177.4096985	loss_E:-0.0430664
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-179.2245026	Loss_G:179.2675476	loss_E:-0.0430469
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-177.6054688	Loss_G:177.6485291	loss_E:-0.0430627
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-178.2160187	Loss_G:178.2590637	loss_E:-0.0430480
+Epoch  80	Loss_D_avg:-163.5348949	Loss_G_avg:163.7976317	loss_E_avg:-0.0391848
+['thing', 'generally', 'certain', 'war', 'base', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'happen', 'run', 'good', 'little', 'sure']
+['certain', 'apply', 'continuous', 'base', 'war', 'final', 'thing', 'good', 'generally', 'step', 'citizen', 'run', 'total', 'sure', 'imprison']
+['certain', 'thing', 'final', 'war', 'good', 'citizen', 'continuous', 'imprison', 'generally', 'apply', 'base', 'create', 'step', 'sure', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'japanese', 'run', 'step', 'good', 'create']
+['certain', 'continuous', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'generally', 'war', 'run', 'total', 'imprison', 'happen', 'create']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'happen', 'total', 'step']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'happen', 'good', 'run', 'step', 'like', 'total']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'continuous', 'sure', 'step', 'imprison', 'total', 'generally', 'good']
+['certain', 'thing', 'apply', 'war', 'continuous', 'final', 'step', 'generally', 'total', 'imprison', 'japanese', 'citizen', 'base', 'happen', 'create']
+['certain', 'thing', 'war', 'base', 'continuous', 'apply', 'citizen', 'final', 'good', 'generally', 'happen', 'imprison', 'step', 'total', 'run']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'step', 'sure', 'imprison', 'good', 'japanese', 'run']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'step', 'run', 'good', 'happen', 'total', 'imprison', 'look', 'japanese']
+['certain', 'thing', 'base', 'generally', 'final', 'war', 'citizen', 'total', 'step', 'sure', 'continuous', 'good', 'happen', 'apply', 'run']
+['certain', 'thing', 'continuous', 'final', 'war', 'generally', 'apply', 'base', 'good', 'imprison', 'happen', 'citizen', 'japanese', 'ancient', 'run']
+['certain', 'continuous', 'base', 'apply', 'total', 'war', 'thing', 'final', 'generally', 'step', 'citizen', 'sure', 'happen', 'good', 'japanese']
+['continuous', 'certain', 'generally', 'thing', 'citizen', 'war', 'apply', 'good', 'base', 'final', 'sure', 'imprison', 'total', 'step', 'run']
+['certain', 'thing', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'good', 'citizen', 'imprison', 'step', 'generally', 'total', 'happen']
+['certain', 'continuous', 'apply', 'war', 'thing', 'generally', 'base', 'final', 'citizen', 'run', 'happen', 'step', 'japanese', 'create', 'total']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'war', 'base', 'happen', 'imprison', 'run', 'step', 'citizen', 'good', 'ancient']
+['war', 'base', 'certain', 'continuous', 'final', 'citizen', 'run', 'thing', 'apply', 'generally', 'step', 'good', 'total', 'disease', 'happen']
+['certain', 'war', 'final', 'citizen', 'apply', 'happen', 'continuous', 'thing', 'generally', 'base', 'good', 'imprison', 'sure', 'japanese', 'create']
+['certain', 'continuous', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'good', 'imprison', 'step', 'final', 'total', 'happen']
+['certain', 'thing', 'apply', 'generally', 'war', 'japanese', 'final', 'citizen', 'base', 'total', 'sure', 'continuous', 'step', 'run', 'happen']
+['certain', 'thing', 'war', 'generally', 'apply', 'final', 'base', 'imprison', 'continuous', 'citizen', 'run', 'step', 'total', 'good', 'sure']
+['continuous', 'thing', 'apply', 'base', 'generally', 'certain', 'final', 'step', 'war', 'run', 'citizen', 'happen', 'good', 'sure', 'imprison']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'thing', 'japanese', 'total', 'generally', 'good', 'happen', 'run', 'step']
+['certain', 'thing', 'final', 'continuous', 'war', 'apply', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'japanese', 'happen']
+['continuous', 'final', 'base', 'certain', 'good', 'apply', 'war', 'citizen', 'thing', 'generally', 'afford', 'total', 'run', 'happen', 'concept']
+['war', 'certain', 'thing', 'final', 'generally', 'citizen', 'apply', 'good', 'continuous', 'happen', 'base', 'imprison', 'total', 'concept', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'happen', 'base', 'good', 'imprison', 'sure', 'run', 'step']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'generally', 'war', 'happen', 'sure', 'total', 'good', 'run', 'concept']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'step', 'total', 'war', 'citizen', 'good', 'imprison', 'base', 'sure', 'run']
+['war', 'certain', 'thing', 'continuous', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'apply', 'total', 'happen', 'sure', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'imprison', 'citizen', 'generally', 'apply', 'step', 'sure', 'disease', 'total']
+['citizen', 'thing', 'final', 'certain', 'continuous', 'war', 'apply', 'generally', 'concept', 'base', 'sure', 'total', 'step', 'imprison', 'create']
+['thing', 'certain', 'apply', 'final', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'happen', 'base', 'step', 'run']
+['certain', 'final', 'citizen', 'good', 'apply', 'thing', 'war', 'continuous', 'base', 'sure', 'step', 'generally', 'total', 'run', 'happen']
+['certain', 'thing', 'apply', 'continuous', 'good', 'war', 'generally', 'base', 'total', 'final', 'imprison', 'run', 'citizen', 'happen', 'create']
+['apply', 'final', 'thing', 'certain', 'continuous', 'war', 'generally', 'good', 'citizen', 'step', 'run', 'base', 'imprison', 'happen', 'japanese']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'happen', 'japanese', 'final', 'good', 'imprison', 'generally', 'run', 'total']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'final', 'japanese', 'step', 'run', 'total', 'good']
+['final', 'thing', 'citizen', 'certain', 'war', 'continuous', 'generally', 'base', 'sure', 'apply', 'imprison', 'happen', 'good', 'step', 'run']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'good', 'imprison', 'generally', 'total', 'look', 'deletion']
+['certain', 'apply', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'war', 'sure', 'base', 'step', 'happen', 'imprison']
+['certain', 'generally', 'thing', 'base', 'war', 'apply', 'continuous', 'good', 'final', 'total', 'citizen', 'run', 'step', 'happen', 'little']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'thing', 'apply', 'total', 'happen', 'good', 'step', 'run', 'imprison']
+['continuous', 'apply', 'certain', 'thing', 'war', 'generally', 'base', 'final', 'good', 'imprison', 'step', 'citizen', 'run', 'total', 'happen']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'thing', 'happen', 'good', 'generally', 'total', 'concept', 'imprison', 'run']
+['thing', 'final', 'certain', 'base', 'continuous', 'apply', 'war', 'happen', 'generally', 'run', 'good', 'create', 'imprison', 'citizen', 'japanese']
+['certain', 'final', 'base', 'continuous', 'war', 'sure', 'thing', 'citizen', 'apply', 'generally', 'total', 'happen', 'good', 'imprison', 'step']
+==============================
+topic diversity:0.034666666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32920143780719174, c_w2v:None, c_uci:-3.2498783855003652, c_npmi:-0.10528527871293822
+mimno topic coherence:-247.60436467724927
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-175.3231354	Loss_G:175.3661804	loss_E:-0.0430108
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-176.1192932	Loss_G:176.1623535	loss_E:-0.0430536
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-180.8168793	Loss_G:180.8599243	loss_E:-0.0430480
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-170.4928284	Loss_G:170.5359497	loss_E:-0.0430562
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-179.9675293	Loss_G:180.0105896	loss_E:-0.0430583
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-176.6766052	Loss_G:176.7196350	loss_E:-0.0430320
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-170.6254272	Loss_G:170.6685791	loss_E:-0.0430255
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-178.7733459	Loss_G:178.8164062	loss_E:-0.0430536
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-179.3572083	Loss_G:179.4002686	loss_E:-0.0430497
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-179.0652924	Loss_G:179.1083374	loss_E:-0.0430395
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-178.9325409	Loss_G:178.9755859	loss_E:-0.0430413
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-176.7031403	Loss_G:176.7462463	loss_E:-0.0430435
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-173.0406189	Loss_G:173.0836792	loss_E:-0.0430279
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-176.1989288	Loss_G:176.2419739	loss_E:-0.0430104
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-173.8899689	Loss_G:173.9330139	loss_E:-0.0430407
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-177.9771576	Loss_G:178.0202026	loss_E:-0.0430504
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-177.9770966	Loss_G:178.0202026	loss_E:-0.0430422
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-177.3666840	Loss_G:177.4097900	loss_E:-0.0430573
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-176.2254944	Loss_G:176.2685547	loss_E:-0.0430586
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-179.8880463	Loss_G:179.9310913	loss_E:-0.0430396
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-175.5619812	Loss_G:175.6050415	loss_E:-0.0430271
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-181.0557251	Loss_G:181.0987854	loss_E:-0.0430583
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-176.5705566	Loss_G:176.6135864	loss_E:-0.0430317
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-174.2880707	Loss_G:174.3311462	loss_E:-0.0430710
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-175.8273468	Loss_G:175.8704224	loss_E:-0.0430525
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-176.4378510	Loss_G:176.4808960	loss_E:-0.0430130
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-177.6852264	Loss_G:177.7282410	loss_E:-0.0429886
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-180.7373199	Loss_G:180.7803650	loss_E:-0.0430446
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-178.0567932	Loss_G:178.0998535	loss_E:-0.0430564
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-180.4718018	Loss_G:180.5149536	loss_E:-0.0430427
+Epoch  90	Loss_D_avg:-165.0388321	Loss_G_avg:165.2771609	loss_E_avg:-0.0396133
+['thing', 'generally', 'certain', 'war', 'base', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'happen', 'run', 'good', 'little', 'sure']
+['certain', 'apply', 'continuous', 'war', 'base', 'final', 'thing', 'good', 'generally', 'step', 'citizen', 'run', 'total', 'sure', 'imprison']
+['certain', 'thing', 'final', 'war', 'good', 'citizen', 'continuous', 'imprison', 'generally', 'apply', 'base', 'create', 'step', 'sure', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'thing', 'base', 'citizen', 'final', 'war', 'japanese', 'run', 'step', 'good', 'create']
+['certain', 'continuous', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'generally', 'war', 'run', 'imprison', 'total', 'happen', 'create']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'happen', 'total', 'step']
+['certain', 'thing', 'war', 'final', 'continuous', 'base', 'apply', 'generally', 'imprison', 'happen', 'good', 'run', 'step', 'like', 'total']
+['certain', 'final', 'citizen', 'base', 'war', 'thing', 'happen', 'apply', 'continuous', 'sure', 'step', 'imprison', 'total', 'generally', 'good']
+['certain', 'apply', 'thing', 'war', 'continuous', 'final', 'step', 'generally', 'total', 'imprison', 'japanese', 'citizen', 'base', 'happen', 'create']
+['certain', 'thing', 'war', 'base', 'continuous', 'apply', 'final', 'citizen', 'good', 'generally', 'happen', 'imprison', 'step', 'total', 'run']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'step', 'imprison', 'sure', 'good', 'japanese', 'run']
+['certain', 'thing', 'war', 'apply', 'continuous', 'base', 'generally', 'step', 'run', 'good', 'happen', 'total', 'imprison', 'look', 'japanese']
+['certain', 'thing', 'base', 'generally', 'war', 'final', 'citizen', 'total', 'step', 'sure', 'continuous', 'good', 'happen', 'apply', 'run']
+['certain', 'thing', 'continuous', 'final', 'war', 'apply', 'generally', 'base', 'good', 'imprison', 'happen', 'citizen', 'japanese', 'ancient', 'run']
+['certain', 'continuous', 'base', 'apply', 'total', 'war', 'thing', 'final', 'generally', 'step', 'citizen', 'sure', 'happen', 'good', 'japanese']
+['certain', 'continuous', 'generally', 'thing', 'citizen', 'war', 'apply', 'good', 'base', 'final', 'sure', 'imprison', 'total', 'step', 'run']
+['certain', 'thing', 'continuous', 'base', 'apply', 'war', 'final', 'run', 'good', 'citizen', 'imprison', 'step', 'generally', 'total', 'happen']
+['certain', 'continuous', 'apply', 'war', 'thing', 'base', 'generally', 'final', 'citizen', 'happen', 'run', 'japanese', 'step', 'create', 'total']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'war', 'base', 'happen', 'imprison', 'run', 'step', 'citizen', 'good', 'ancient']
+['war', 'base', 'certain', 'continuous', 'final', 'citizen', 'run', 'thing', 'apply', 'generally', 'step', 'good', 'total', 'disease', 'happen']
+['certain', 'war', 'final', 'citizen', 'apply', 'happen', 'continuous', 'thing', 'generally', 'base', 'good', 'imprison', 'sure', 'japanese', 'create']
+['certain', 'continuous', 'thing', 'apply', 'run', 'citizen', 'base', 'generally', 'war', 'good', 'imprison', 'step', 'final', 'total', 'happen']
+['certain', 'thing', 'apply', 'war', 'generally', 'japanese', 'final', 'citizen', 'base', 'total', 'sure', 'continuous', 'step', 'run', 'happen']
+['certain', 'thing', 'war', 'generally', 'apply', 'final', 'base', 'imprison', 'continuous', 'citizen', 'run', 'step', 'total', 'good', 'sure']
+['continuous', 'thing', 'apply', 'base', 'certain', 'generally', 'final', 'step', 'war', 'run', 'citizen', 'happen', 'good', 'sure', 'imprison']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'thing', 'japanese', 'total', 'generally', 'good', 'happen', 'run', 'step']
+['certain', 'thing', 'final', 'continuous', 'war', 'apply', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'japanese', 'happen']
+['final', 'continuous', 'base', 'certain', 'good', 'apply', 'war', 'citizen', 'thing', 'generally', 'afford', 'total', 'run', 'happen', 'concept']
+['war', 'certain', 'thing', 'final', 'generally', 'citizen', 'apply', 'good', 'continuous', 'happen', 'base', 'imprison', 'total', 'solution', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'happen', 'base', 'good', 'imprison', 'sure', 'run', 'step']
+['certain', 'apply', 'thing', 'continuous', 'final', 'base', 'citizen', 'war', 'generally', 'happen', 'sure', 'total', 'good', 'run', 'step']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'step', 'total', 'war', 'citizen', 'good', 'imprison', 'base', 'sure', 'create']
+['war', 'certain', 'thing', 'continuous', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'apply', 'happen', 'total', 'sure', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'thing', 'happen', 'imprison', 'citizen', 'generally', 'apply', 'step', 'sure', 'disease', 'total']
+['citizen', 'thing', 'final', 'certain', 'continuous', 'war', 'apply', 'generally', 'base', 'sure', 'concept', 'total', 'step', 'imprison', 'create']
+['thing', 'certain', 'apply', 'final', 'citizen', 'continuous', 'generally', 'sure', 'war', 'good', 'imprison', 'happen', 'base', 'step', 'run']
+['certain', 'final', 'citizen', 'good', 'apply', 'thing', 'war', 'continuous', 'base', 'sure', 'step', 'generally', 'total', 'run', 'happen']
+['certain', 'thing', 'apply', 'continuous', 'good', 'war', 'generally', 'base', 'total', 'imprison', 'final', 'run', 'citizen', 'happen', 'create']
+['apply', 'final', 'thing', 'certain', 'continuous', 'war', 'generally', 'good', 'citizen', 'step', 'run', 'base', 'imprison', 'happen', 'japanese']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'japanese', 'happen', 'final', 'good', 'imprison', 'generally', 'run', 'total']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'final', 'japanese', 'step', 'run', 'total', 'good']
+['final', 'certain', 'thing', 'citizen', 'war', 'continuous', 'generally', 'base', 'apply', 'sure', 'imprison', 'happen', 'good', 'step', 'run']
+['certain', 'continuous', 'thing', 'base', 'final', 'war', 'apply', 'step', 'citizen', 'good', 'imprison', 'generally', 'total', 'look', 'deletion']
+['certain', 'apply', 'thing', 'continuous', 'final', 'total', 'generally', 'good', 'citizen', 'war', 'base', 'sure', 'step', 'happen', 'imprison']
+['certain', 'generally', 'thing', 'base', 'war', 'apply', 'continuous', 'good', 'final', 'total', 'citizen', 'run', 'step', 'happen', 'little']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'thing', 'apply', 'total', 'happen', 'good', 'step', 'run', 'imprison']
+['continuous', 'apply', 'certain', 'war', 'thing', 'generally', 'base', 'final', 'good', 'imprison', 'step', 'citizen', 'run', 'total', 'happen']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'thing', 'happen', 'good', 'generally', 'total', 'imprison', 'concept', 'run']
+['thing', 'final', 'certain', 'base', 'continuous', 'apply', 'war', 'happen', 'generally', 'run', 'good', 'create', 'imprison', 'citizen', 'japanese']
+['certain', 'final', 'base', 'continuous', 'war', 'thing', 'sure', 'citizen', 'apply', 'generally', 'total', 'happen', 'good', 'imprison', 'step']
+==============================
+topic diversity:0.036
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3293394598321675, c_w2v:None, c_uci:-3.2395767904801476, c_npmi:-0.10498553842261062
+mimno topic coherence:-248.09014426908917
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-179.2244873	Loss_G:179.2675781	loss_E:-0.0430541
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-179.0918121	Loss_G:179.1348572	loss_E:-0.0430465
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-175.6150970	Loss_G:175.6581421	loss_E:-0.0430108
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-177.0483093	Loss_G:177.0913391	loss_E:-0.0430327
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-173.1468353	Loss_G:173.1899109	loss_E:-0.0430695
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-177.7648315	Loss_G:177.8078613	loss_E:-0.0430289
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-178.3752289	Loss_G:178.4182739	loss_E:-0.0430412
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-179.7022705	Loss_G:179.7453003	loss_E:-0.0430286
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-178.4548645	Loss_G:178.4979248	loss_E:-0.0429958
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-175.9866638	Loss_G:176.0296936	loss_E:-0.0430324
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-177.8443298	Loss_G:177.8875122	loss_E:-0.0430634
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-175.7743225	Loss_G:175.8173523	loss_E:-0.0430349
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-180.3391724	Loss_G:180.3822327	loss_E:-0.0430232
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-176.1194000	Loss_G:176.1624756	loss_E:-0.0430427
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-179.8349609	Loss_G:179.8780212	loss_E:-0.0430616
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-174.8984375	Loss_G:174.9415588	loss_E:-0.0430670
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-179.8615112	Loss_G:179.9045410	loss_E:-0.0430368
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-173.4918213	Loss_G:173.5349426	loss_E:-0.0430576
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-176.5970306	Loss_G:176.6401062	loss_E:-0.0430374
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-178.7732849	Loss_G:178.8164062	loss_E:-0.0430307
+| ID | GPU | MEM |
+------------------
+|  0 | 49% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-174.1288147	Loss_G:174.1718750	loss_E:-0.0430609
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-174.8454437	Loss_G:174.8884583	loss_E:-0.0430168
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-177.8709869	Loss_G:177.9140320	loss_E:-0.0430387
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-174.8188019	Loss_G:174.8619385	loss_E:-0.0430509
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-176.6235809	Loss_G:176.6666565	loss_E:-0.0430692
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-175.2435455	Loss_G:175.2865906	loss_E:-0.0430466
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-176.7297668	Loss_G:176.7728271	loss_E:-0.0430588
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-179.9145813	Loss_G:179.9576416	loss_E:-0.0430629
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-175.9335175	Loss_G:175.9766541	loss_E:-0.0430690
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-172.2445068	Loss_G:172.2875671	loss_E:-0.0430597
+Epoch 100	Loss_D_avg:-166.2226096	Loss_G_avg:166.4414124	loss_E_avg:-0.0399564
+['thing', 'generally', 'certain', 'war', 'base', 'final', 'apply', 'continuous', 'imprison', 'citizen', 'happen', 'run', 'good', 'little', 'deletion']
+['certain', 'apply', 'continuous', 'base', 'war', 'final', 'thing', 'good', 'generally', 'citizen', 'run', 'step', 'total', 'sure', 'imprison']
+['certain', 'thing', 'war', 'final', 'good', 'citizen', 'continuous', 'imprison', 'generally', 'apply', 'base', 'create', 'step', 'sure', 'run']
+['apply', 'certain', 'continuous', 'generally', 'total', 'base', 'thing', 'citizen', 'final', 'war', 'japanese', 'run', 'step', 'good', 'create']
+['certain', 'continuous', 'final', 'citizen', 'thing', 'apply', 'base', 'good', 'war', 'generally', 'run', 'happen', 'imprison', 'total', 'look']
+['certain', 'thing', 'base', 'apply', 'war', 'continuous', 'final', 'generally', 'run', 'imprison', 'good', 'citizen', 'happen', 'total', 'step']
+['certain', 'thing', 'war', 'final', 'base', 'continuous', 'apply', 'generally', 'imprison', 'happen', 'good', 'run', 'step', 'total', 'like']
+['certain', 'final', 'base', 'citizen', 'war', 'thing', 'happen', 'apply', 'continuous', 'sure', 'imprison', 'step', 'total', 'generally', 'good']
+['certain', 'apply', 'war', 'thing', 'continuous', 'final', 'step', 'generally', 'total', 'imprison', 'base', 'citizen', 'japanese', 'happen', 'create']
+['certain', 'thing', 'war', 'base', 'continuous', 'apply', 'final', 'citizen', 'good', 'happen', 'generally', 'imprison', 'step', 'total', 'run']
+['certain', 'continuous', 'war', 'generally', 'thing', 'apply', 'base', 'citizen', 'final', 'imprison', 'good', 'step', 'sure', 'japanese', 'run']
+['certain', 'thing', 'war', 'apply', 'base', 'continuous', 'generally', 'step', 'run', 'good', 'happen', 'total', 'imprison', 'look', 'citizen']
+['certain', 'thing', 'base', 'generally', 'war', 'citizen', 'final', 'total', 'step', 'continuous', 'sure', 'good', 'happen', 'apply', 'run']
+['certain', 'thing', 'continuous', 'final', 'war', 'apply', 'generally', 'base', 'good', 'imprison', 'happen', 'citizen', 'japanese', 'ancient', 'run']
+['certain', 'continuous', 'base', 'apply', 'total', 'war', 'thing', 'final', 'generally', 'step', 'citizen', 'sure', 'happen', 'good', 'japanese']
+['certain', 'continuous', 'generally', 'thing', 'citizen', 'war', 'good', 'apply', 'base', 'final', 'sure', 'imprison', 'total', 'step', 'run']
+['certain', 'base', 'continuous', 'thing', 'apply', 'war', 'final', 'run', 'good', 'citizen', 'imprison', 'step', 'generally', 'total', 'happen']
+['certain', 'continuous', 'war', 'apply', 'thing', 'base', 'generally', 'final', 'citizen', 'run', 'happen', 'japanese', 'step', 'create', 'good']
+['certain', 'continuous', 'final', 'thing', 'apply', 'generally', 'war', 'base', 'happen', 'imprison', 'run', 'good', 'citizen', 'step', 'ancient']
+['war', 'base', 'certain', 'continuous', 'final', 'citizen', 'run', 'thing', 'apply', 'generally', 'good', 'step', 'total', 'disease', 'happen']
+['certain', 'war', 'final', 'citizen', 'apply', 'happen', 'continuous', 'thing', 'base', 'generally', 'good', 'imprison', 'sure', 'japanese', 'create']
+['certain', 'continuous', 'thing', 'apply', 'run', 'base', 'citizen', 'war', 'generally', 'good', 'imprison', 'final', 'step', 'total', 'happen']
+['certain', 'thing', 'apply', 'war', 'generally', 'japanese', 'final', 'citizen', 'base', 'total', 'sure', 'continuous', 'step', 'run', 'happen']
+['certain', 'thing', 'war', 'generally', 'apply', 'final', 'base', 'imprison', 'continuous', 'citizen', 'run', 'step', 'total', 'good', 'sure']
+['continuous', 'apply', 'thing', 'base', 'certain', 'generally', 'final', 'step', 'war', 'run', 'citizen', 'happen', 'good', 'sure', 'imprison']
+['citizen', 'certain', 'base', 'continuous', 'final', 'apply', 'war', 'thing', 'japanese', 'total', 'generally', 'good', 'happen', 'run', 'step']
+['certain', 'final', 'thing', 'continuous', 'war', 'apply', 'base', 'generally', 'citizen', 'run', 'step', 'imprison', 'good', 'happen', 'japanese']
+['final', 'continuous', 'base', 'certain', 'good', 'apply', 'war', 'citizen', 'generally', 'thing', 'afford', 'run', 'total', 'happen', 'concept']
+['war', 'certain', 'thing', 'final', 'generally', 'citizen', 'apply', 'good', 'continuous', 'happen', 'base', 'imprison', 'total', 'solution', 'sure']
+['certain', 'thing', 'continuous', 'generally', 'citizen', 'apply', 'war', 'final', 'base', 'happen', 'good', 'imprison', 'sure', 'run', 'step']
+['certain', 'apply', 'continuous', 'thing', 'base', 'final', 'citizen', 'war', 'generally', 'happen', 'sure', 'total', 'good', 'run', 'step']
+['certain', 'thing', 'continuous', 'generally', 'apply', 'final', 'step', 'war', 'citizen', 'good', 'total', 'imprison', 'base', 'sure', 'run']
+['war', 'certain', 'thing', 'continuous', 'base', 'final', 'imprison', 'good', 'generally', 'citizen', 'apply', 'happen', 'total', 'sure', 'step']
+['final', 'certain', 'continuous', 'base', 'war', 'happen', 'thing', 'imprison', 'citizen', 'generally', 'apply', 'step', 'sure', 'disease', 'run']
+['citizen', 'thing', 'final', 'certain', 'continuous', 'war', 'apply', 'generally', 'base', 'sure', 'concept', 'total', 'imprison', 'step', 'create']
+['thing', 'certain', 'apply', 'final', 'citizen', 'continuous', 'generally', 'war', 'good', 'sure', 'imprison', 'base', 'happen', 'step', 'run']
+['certain', 'final', 'citizen', 'good', 'apply', 'thing', 'war', 'continuous', 'base', 'sure', 'generally', 'step', 'total', 'run', 'happen']
+['certain', 'thing', 'apply', 'continuous', 'good', 'war', 'generally', 'base', 'total', 'final', 'imprison', 'run', 'citizen', 'happen', 'create']
+['apply', 'final', 'thing', 'certain', 'continuous', 'war', 'generally', 'good', 'citizen', 'run', 'base', 'step', 'imprison', 'happen', 'japanese']
+['certain', 'citizen', 'base', 'thing', 'continuous', 'apply', 'war', 'happen', 'final', 'good', 'japanese', 'imprison', 'generally', 'run', 'total']
+['certain', 'thing', 'generally', 'base', 'war', 'citizen', 'apply', 'continuous', 'happen', 'final', 'run', 'good', 'japanese', 'step', 'total']
+['final', 'certain', 'citizen', 'thing', 'war', 'continuous', 'generally', 'base', 'apply', 'happen', 'imprison', 'sure', 'good', 'step', 'run']
+['certain', 'continuous', 'base', 'thing', 'war', 'final', 'apply', 'step', 'citizen', 'good', 'imprison', 'generally', 'total', 'look', 'deletion']
+['certain', 'apply', 'thing', 'continuous', 'final', 'good', 'total', 'generally', 'citizen', 'war', 'base', 'sure', 'step', 'happen', 'imprison']
+['certain', 'generally', 'thing', 'base', 'war', 'apply', 'continuous', 'good', 'final', 'total', 'citizen', 'run', 'happen', 'step', 'little']
+['certain', 'final', 'base', 'war', 'continuous', 'generally', 'citizen', 'apply', 'thing', 'total', 'happen', 'good', 'step', 'run', 'imprison']
+['continuous', 'apply', 'certain', 'war', 'thing', 'generally', 'base', 'final', 'good', 'imprison', 'citizen', 'step', 'run', 'total', 'happen']
+['certain', 'citizen', 'war', 'continuous', 'base', 'final', 'apply', 'thing', 'happen', 'good', 'generally', 'total', 'imprison', 'concept', 'run']
+['thing', 'final', 'base', 'certain', 'continuous', 'apply', 'war', 'happen', 'generally', 'good', 'run', 'create', 'imprison', 'citizen', 'japanese']
+['certain', 'final', 'base', 'continuous', 'war', 'thing', 'sure', 'citizen', 'apply', 'generally', 'happen', 'total', 'good', 'imprison', 'step']
+==============================
+topic diversity:0.036
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3303140138126123, c_w2v:None, c_uci:-3.21073486201935, c_npmi:-0.10385761293451573
+mimno topic coherence:-249.07813806087646
+topic diversity:0.036
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3303140138126123, c_w2v:None, c_uci:-3.21073486201935, c_npmi:-0.10385761293451573
+mimno topic coherence:-249.07813806087646

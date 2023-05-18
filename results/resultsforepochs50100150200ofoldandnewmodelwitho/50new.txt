@@ -1,0 +1,4102 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f13bc6c4ac0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+inside train
+epoch is: 0
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 18% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:0.2491903	Loss_G:1.6122541	loss_E:0.0079682
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-7.3211036	Loss_G:9.2046261	loss_E:0.0062721
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-17.8035240	Loss_G:19.8940105	loss_E:0.0035249
+epoch is: 1
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-18.2955074	Loss_G:20.3400154	loss_E:0.0032821
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-29.3826523	Loss_G:31.5548668	loss_E:-0.0002072
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-39.9907303	Loss_G:42.1384735	loss_E:-0.0035393
+epoch is: 2
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-41.2344284	Loss_G:43.3937149	loss_E:-0.0038410
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-52.7470703	Loss_G:54.8799515	loss_E:-0.0071785
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-62.3873024	Loss_G:64.3784637	loss_E:-0.0101405
+epoch is: 3
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-62.6559296	Loss_G:64.6198502	loss_E:-0.0104216
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-71.1259842	Loss_G:72.9777985	loss_E:-0.0132408
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-78.8648300	Loss_G:80.5985489	loss_E:-0.0156521
+epoch is: 4
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-81.5698395	Loss_G:83.3474350	loss_E:-0.0158228
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-88.6911087	Loss_G:90.3715286	loss_E:-0.0183278
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-97.9632721	Loss_G:99.6358566	loss_E:-0.0208463
+epoch is: 5
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-97.0433121	Loss_G:98.6656113	loss_E:-0.0210676
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-102.8606491	Loss_G:104.3908997	loss_E:-0.0233787
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-112.8159409	Loss_G:114.3218842	loss_E:-0.0255404
+epoch is: 6
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-113.8110504	Loss_G:115.2866516	loss_E:-0.0257367
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-120.5916748	Loss_G:122.0273056	loss_E:-0.0276542
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-126.0634918	Loss_G:127.4101715	loss_E:-0.0295632
+epoch is: 7
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-126.9009552	Loss_G:128.2437744	loss_E:-0.0296959
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-131.7767792	Loss_G:133.0480347	loss_E:-0.0314869
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 20% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-138.9808044	Loss_G:140.1845703	loss_E:-0.0331343
+epoch is: 8
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-139.7288971	Loss_G:140.9179993	loss_E:-0.0332875
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-149.2411194	Loss_G:150.4191589	loss_E:-0.0349829
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-148.7350922	Loss_G:149.7821045	loss_E:-0.0365253
+epoch is: 9
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-148.6557465	Loss_G:149.6922913	loss_E:-0.0366724
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-148.6143951	Loss_G:149.5547180	loss_E:-0.0379882
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-156.6727295	Loss_G:157.5771179	loss_E:-0.0393006
+Epoch  10	Loss_D_avg:-90.4092243	Loss_G_avg:92.0156562	loss_E_avg:-0.0188062
+['concentration', 'look', 'ii', 'final', 'citizen', 'camp', 'people', 'gas', 'japanese', 'jews', 'die', 'nazi', 'imprison', 'prepare', 'disease']
+['concentration', 'ii', 'look', 'final', 'japanese', 'citizen', 'nazi', 'gas', 'people', 'camp', 'generally', 'die', 'disease', 'jews', 'imprison']
+['concentration', 'final', 'look', 'citizen', 'nazi', 'ii', 'gas', 'people', 'camp', 'japanese', 'jews', 'generally', 'die', 'intend', 'imprison']
+['ii', 'look', 'concentration', 'citizen', 'final', 'japanese', 'gas', 'people', 'disease', 'generally', 'die', 'jews', 'camp', 'nazi', 'prepare']
+['concentration', 'gas', 'ii', 'look', 'final', 'japanese', 'citizen', 'people', 'nazi', 'prepare', 'jews', 'camp', 'die', 'generally', 'disease']
+['concentration', 'citizen', 'ii', 'gas', 'look', 'final', 'nazi', 'japanese', 'people', 'camp', 'jews', 'die', 'generally', 'disease', 'intend']
+['concentration', 'citizen', 'gas', 'people', 'ii', 'nazi', 'final', 'look', 'camp', 'japanese', 'jews', 'generally', 'disease', 'die', 'prepare']
+['concentration', 'japanese', 'final', 'look', 'gas', 'citizen', 'people', 'nazi', 'ii', 'camp', 'jews', 'disease', 'prepare', 'generally', 'die']
+['citizen', 'concentration', 'gas', 'ii', 'japanese', 'people', 'final', 'look', 'nazi', 'generally', 'disease', 'die', 'camp', 'jews', 'let']
+['concentration', 'citizen', 'ii', 'look', 'final', 'japanese', 'gas', 'nazi', 'camp', 'jews', 'disease', 'die', 'generally', 'people', 'imprison']
+['citizen', 'concentration', 'final', 'japanese', 'look', 'ii', 'gas', 'camp', 'nazi', 'people', 'die', 'imprison', 'disease', 'jews', 'generally']
+['concentration', 'final', 'look', 'ii', 'japanese', 'gas', 'citizen', 'people', 'nazi', 'camp', 'die', 'disease', 'generally', 'intend', 'jews']
+['final', 'ii', 'citizen', 'look', 'concentration', 'japanese', 'gas', 'people', 'nazi', 'die', 'camp', 'jews', 'generally', 'disease', 'prepare']
+['concentration', 'japanese', 'citizen', 'nazi', 'ii', 'final', 'gas', 'people', 'look', 'camp', 'disease', 'die', 'jews', 'imprison', 'prepare']
+['citizen', 'concentration', 'final', 'ii', 'look', 'gas', 'people', 'japanese', 'nazi', 'jews', 'camp', 'disease', 'die', 'prepare', 'intend']
+['concentration', 'look', 'final', 'ii', 'japanese', 'citizen', 'nazi', 'camp', 'gas', 'people', 'jews', 'die', 'generally', 'imprison', 'prepare']
+['concentration', 'nazi', 'final', 'japanese', 'ii', 'look', 'people', 'citizen', 'gas', 'camp', 'generally', 'disease', 'imprison', 'die', 'jews']
+['concentration', 'citizen', 'ii', 'people', 'look', 'camp', 'final', 'gas', 'japanese', 'jews', 'nazi', 'die', 'disease', 'prepare', 'imprison']
+['concentration', 'final', 'citizen', 'ii', 'nazi', 'japanese', 'look', 'disease', 'people', 'gas', 'camp', 'prepare', 'die', 'jews', 'generally']
+['concentration', 'citizen', 'final', 'look', 'ii', 'gas', 'japanese', 'nazi', 'generally', 'jews', 'people', 'imprison', 'camp', 'die', 'disease']
+==============================
+topic diversity:0.06
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38652342427404107, c_w2v:None, c_uci:-2.51807905037841, c_npmi:-0.05268195355615126
+mimno topic coherence:-261.7979663905905
+epoch is: 10
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-159.3858948	Loss_G:160.2976379	loss_E:-0.0394004
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-164.2596588	Loss_G:165.1054535	loss_E:-0.0406219
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-166.3891754	Loss_G:167.1783142	loss_E:-0.0417166
+epoch is: 11
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-162.6854095	Loss_G:163.4320068	loss_E:-0.0418371
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-169.5794373	Loss_G:170.2728271	loss_E:-0.0428257
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-171.8591614	Loss_G:172.4829407	loss_E:-0.0436719
+epoch is: 12
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-173.9209290	Loss_G:174.5437012	loss_E:-0.0437676
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-170.5547485	Loss_G:171.0910950	loss_E:-0.0445469
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-182.9428558	Loss_G:183.4548950	loss_E:-0.0451813
+epoch is: 13
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-180.8399353	Loss_G:181.3224945	loss_E:-0.0452691
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-180.7247772	Loss_G:181.1456451	loss_E:-0.0459447
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 20% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-181.0311127	Loss_G:181.3834839	loss_E:-0.0464823
+epoch is: 14
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-179.1745605	Loss_G:179.5179749	loss_E:-0.0464884
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-184.5614929	Loss_G:184.8549042	loss_E:-0.0468969
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-184.3078156	Loss_G:184.5373688	loss_E:-0.0472902
+epoch is: 15
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-184.0282593	Loss_G:184.2551270	loss_E:-0.0473364
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-181.3518372	Loss_G:181.5314941	loss_E:-0.0476215
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-186.5127716	Loss_G:186.6593323	loss_E:-0.0478610
+epoch is: 16
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-182.3492889	Loss_G:182.4921265	loss_E:-0.0478868
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-184.7905273	Loss_G:184.9089661	loss_E:-0.0480857
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-182.1152954	Loss_G:182.2111816	loss_E:-0.0482247
+epoch is: 17
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-188.0326538	Loss_G:188.1281128	loss_E:-0.0482614
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-185.1423492	Loss_G:185.2261658	loss_E:-0.0483752
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-186.8298645	Loss_G:186.9071808	loss_E:-0.0484338
+epoch is: 18
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-186.3237915	Loss_G:186.4012756	loss_E:-0.0484635
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-187.5505829	Loss_G:187.6226501	loss_E:-0.0484891
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 20% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-190.0951538	Loss_G:190.1651917	loss_E:-0.0485547
+epoch is: 19
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-187.5442200	Loss_G:187.6141357	loss_E:-0.0485581
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-187.6951752	Loss_G:187.7623596	loss_E:-0.0485948
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-189.3120270	Loss_G:189.3776398	loss_E:-0.0486261
+Epoch  20	Loss_D_avg:-135.2361249	Loss_G_avg:136.2058895	loss_E_avg:-0.0324917
+['concentration', 'look', 'ii', 'final', 'citizen', 'camp', 'people', 'gas', 'japanese', 'jews', 'die', 'nazi', 'imprison', 'disease', 'happen']
+['concentration', 'ii', 'look', 'final', 'japanese', 'citizen', 'nazi', 'gas', 'people', 'camp', 'generally', 'die', 'disease', 'jews', 'imprison']
+['concentration', 'final', 'citizen', 'look', 'nazi', 'ii', 'gas', 'people', 'camp', 'japanese', 'jews', 'generally', 'die', 'intend', 'imprison']
+['ii', 'look', 'concentration', 'citizen', 'final', 'japanese', 'gas', 'people', 'disease', 'generally', 'die', 'jews', 'camp', 'nazi', 'prepare']
+['concentration', 'gas', 'ii', 'look', 'final', 'japanese', 'citizen', 'people', 'nazi', 'jews', 'prepare', 'camp', 'die', 'generally', 'disease']
+['concentration', 'citizen', 'ii', 'gas', 'look', 'final', 'nazi', 'japanese', 'people', 'camp', 'jews', 'die', 'generally', 'intend', 'disease']
+['concentration', 'citizen', 'gas', 'people', 'ii', 'nazi', 'final', 'look', 'camp', 'japanese', 'jews', 'generally', 'disease', 'die', 'prepare']
+['concentration', 'japanese', 'final', 'look', 'gas', 'citizen', 'people', 'nazi', 'ii', 'camp', 'jews', 'disease', 'prepare', 'generally', 'die']
+['citizen', 'concentration', 'gas', 'ii', 'japanese', 'people', 'final', 'look', 'nazi', 'generally', 'disease', 'die', 'camp', 'jews', 'let']
+['concentration', 'citizen', 'ii', 'look', 'final', 'japanese', 'gas', 'nazi', 'camp', 'jews', 'disease', 'die', 'generally', 'people', 'imprison']
+['citizen', 'concentration', 'final', 'japanese', 'look', 'ii', 'gas', 'camp', 'nazi', 'people', 'die', 'imprison', 'disease', 'jews', 'generally']
+['concentration', 'final', 'look', 'ii', 'japanese', 'gas', 'citizen', 'people', 'nazi', 'camp', 'die', 'disease', 'generally', 'intend', 'jews']
+['final', 'ii', 'citizen', 'look', 'concentration', 'japanese', 'gas', 'people', 'nazi', 'die', 'camp', 'jews', 'generally', 'disease', 'let']
+['concentration', 'japanese', 'citizen', 'nazi', 'ii', 'final', 'gas', 'people', 'look', 'camp', 'disease', 'die', 'jews', 'imprison', 'generally']
+['citizen', 'concentration', 'final', 'ii', 'look', 'gas', 'people', 'japanese', 'nazi', 'jews', 'camp', 'disease', 'die', 'intend', 'generally']
+['concentration', 'look', 'final', 'ii', 'japanese', 'citizen', 'nazi', 'camp', 'gas', 'people', 'jews', 'die', 'generally', 'imprison', 'prepare']
+['concentration', 'nazi', 'final', 'ii', 'japanese', 'look', 'people', 'citizen', 'gas', 'camp', 'generally', 'disease', 'imprison', 'die', 'jews']
+['concentration', 'citizen', 'ii', 'people', 'look', 'camp', 'final', 'gas', 'japanese', 'jews', 'nazi', 'disease', 'die', 'imprison', 'intend']
+['concentration', 'final', 'citizen', 'ii', 'nazi', 'japanese', 'look', 'disease', 'people', 'gas', 'camp', 'prepare', 'die', 'jews', 'generally']
+['concentration', 'citizen', 'final', 'look', 'ii', 'gas', 'japanese', 'nazi', 'generally', 'jews', 'people', 'imprison', 'camp', 'die', 'disease']
+==============================
+topic diversity:0.06333333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3897814233400159, c_w2v:None, c_uci:-2.427926762884038, c_npmi:-0.049999142225926524
+mimno topic coherence:-261.7979663905905
+epoch is: 20
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-185.8542328	Loss_G:185.9190369	loss_E:-0.0486281
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-187.9292908	Loss_G:187.9933777	loss_E:-0.0486423
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-187.1220093	Loss_G:187.1845245	loss_E:-0.0486767
+epoch is: 21
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-187.7011414	Loss_G:187.7640686	loss_E:-0.0486853
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-181.4289398	Loss_G:181.4898071	loss_E:-0.0486942
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-186.2909546	Loss_G:186.3521423	loss_E:-0.0487140
+epoch is: 22
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-188.0845337	Loss_G:188.1455231	loss_E:-0.0487164
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-187.0655212	Loss_G:187.1251831	loss_E:-0.0487342
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-189.1154785	Loss_G:189.1748047	loss_E:-0.0487389
+epoch is: 23
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-184.5997162	Loss_G:184.6590576	loss_E:-0.0487558
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-179.5666962	Loss_G:179.6247253	loss_E:-0.0487786
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-186.3882599	Loss_G:186.4462128	loss_E:-0.0487823
+epoch is: 24
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-186.2556915	Loss_G:186.3137817	loss_E:-0.0487845
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-187.6169434	Loss_G:187.6744690	loss_E:-0.0488049
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 62% | 20% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-187.2252502	Loss_G:187.2818909	loss_E:-0.0488022
+epoch is: 25
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-188.1193695	Loss_G:188.1759033	loss_E:-0.0488029
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-187.4459839	Loss_G:187.5024719	loss_E:-0.0488322
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-189.8016510	Loss_G:189.8576965	loss_E:-0.0488427
+epoch is: 26
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-184.6587219	Loss_G:184.7147217	loss_E:-0.0488459
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-189.5572510	Loss_G:189.6131287	loss_E:-0.0488593
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-190.4171600	Loss_G:190.4723969	loss_E:-0.0488650
+epoch is: 27
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-187.3562164	Loss_G:187.4117126	loss_E:-0.0488393
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-186.5625000	Loss_G:186.6173096	loss_E:-0.0488718
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 20% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-185.2661591	Loss_G:185.3205872	loss_E:-0.0488797
+epoch is: 28
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-189.1068878	Loss_G:189.1609802	loss_E:-0.0488686
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-187.0355835	Loss_G:187.0895081	loss_E:-0.0488906
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-186.4355774	Loss_G:186.4893341	loss_E:-0.0488909
+epoch is: 29
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-191.8129425	Loss_G:191.8670044	loss_E:-0.0489019
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-187.5453186	Loss_G:187.5987396	loss_E:-0.0489027
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 20% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-187.2716675	Loss_G:187.3249207	loss_E:-0.0489162
+Epoch  30	Loss_D_avg:-152.4978349	Loss_G_avg:153.1635377	loss_E_avg:-0.0379272
+['concentration', 'look', 'final', 'ii', 'citizen', 'camp', 'people', 'gas', 'japanese', 'jews', 'die', 'nazi', 'imprison', 'disease', 'happen']
+['concentration', 'ii', 'look', 'final', 'japanese', 'citizen', 'nazi', 'gas', 'people', 'camp', 'generally', 'die', 'disease', 'imprison', 'jews']
+['concentration', 'citizen', 'final', 'look', 'nazi', 'ii', 'gas', 'people', 'camp', 'japanese', 'jews', 'generally', 'die', 'intend', 'imprison']
+['ii', 'look', 'citizen', 'concentration', 'final', 'japanese', 'gas', 'people', 'disease', 'generally', 'die', 'jews', 'camp', 'nazi', 'prepare']
+['concentration', 'gas', 'ii', 'look', 'final', 'japanese', 'citizen', 'people', 'nazi', 'jews', 'camp', 'prepare', 'die', 'generally', 'disease']
+['concentration', 'citizen', 'ii', 'gas', 'nazi', 'look', 'final', 'japanese', 'camp', 'people', 'jews', 'die', 'intend', 'generally', 'disease']
+['concentration', 'citizen', 'gas', 'ii', 'people', 'nazi', 'final', 'look', 'camp', 'japanese', 'jews', 'generally', 'disease', 'die', 'prepare']
+['concentration', 'japanese', 'final', 'look', 'gas', 'citizen', 'people', 'nazi', 'ii', 'camp', 'jews', 'disease', 'generally', 'prepare', 'die']
+['citizen', 'concentration', 'gas', 'ii', 'japanese', 'people', 'final', 'look', 'nazi', 'generally', 'disease', 'die', 'camp', 'jews', 'let']
+['concentration', 'citizen', 'ii', 'look', 'final', 'japanese', 'gas', 'nazi', 'camp', 'disease', 'jews', 'die', 'generally', 'people', 'imprison']
+['citizen', 'concentration', 'final', 'japanese', 'look', 'ii', 'gas', 'camp', 'nazi', 'people', 'die', 'imprison', 'disease', 'jews', 'generally']
+['concentration', 'final', 'look', 'ii', 'japanese', 'gas', 'citizen', 'people', 'nazi', 'camp', 'die', 'disease', 'generally', 'intend', 'jews']
+['final', 'ii', 'citizen', 'look', 'concentration', 'japanese', 'gas', 'people', 'nazi', 'die', 'camp', 'jews', 'generally', 'disease', 'let']
+['concentration', 'japanese', 'citizen', 'nazi', 'ii', 'final', 'gas', 'people', 'look', 'camp', 'disease', 'die', 'jews', 'imprison', 'generally']
+['citizen', 'concentration', 'final', 'ii', 'look', 'gas', 'people', 'japanese', 'nazi', 'jews', 'camp', 'disease', 'die', 'intend', 'generally']
+['concentration', 'look', 'final', 'ii', 'japanese', 'citizen', 'nazi', 'camp', 'gas', 'people', 'jews', 'die', 'generally', 'imprison', 'disease']
+['concentration', 'nazi', 'final', 'ii', 'look', 'japanese', 'people', 'citizen', 'gas', 'camp', 'generally', 'disease', 'imprison', 'die', 'jews']
+['concentration', 'citizen', 'ii', 'people', 'camp', 'look', 'final', 'gas', 'japanese', 'jews', 'nazi', 'disease', 'die', 'intend', 'imprison']
+['concentration', 'final', 'citizen', 'ii', 'nazi', 'japanese', 'look', 'disease', 'people', 'gas', 'camp', 'die', 'prepare', 'jews', 'generally']
+['concentration', 'citizen', 'final', 'look', 'ii', 'gas', 'japanese', 'nazi', 'generally', 'jews', 'people', 'imprison', 'camp', 'die', 'disease']
+==============================
+topic diversity:0.06333333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38847775198241336, c_w2v:None, c_uci:-2.4354419190762817, c_npmi:-0.05057602973669264
+mimno topic coherence:-261.7979663905905
+epoch is: 30
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-188.4230194	Loss_G:188.4763794	loss_E:-0.0489054
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-185.5375366	Loss_G:185.5904846	loss_E:-0.0489240
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 20% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-186.9195862	Loss_G:186.9722900	loss_E:-0.0489227
+epoch is: 31
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-190.0576630	Loss_G:190.1106262	loss_E:-0.0489378
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-186.7185211	Loss_G:186.7709045	loss_E:-0.0489383
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-190.7832947	Loss_G:190.8356934	loss_E:-0.0489474
+epoch is: 32
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-191.4624329	Loss_G:191.5147400	loss_E:-0.0489489
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-184.9606934	Loss_G:185.0126648	loss_E:-0.0489537
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 20% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-189.3173828	Loss_G:189.3694153	loss_E:-0.0489589
+epoch is: 33
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-188.2480621	Loss_G:188.2998962	loss_E:-0.0489601
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-185.5304718	Loss_G:185.5819702	loss_E:-0.0489655
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-183.7042084	Loss_G:183.7555695	loss_E:-0.0489646
+epoch is: 34
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-186.4113922	Loss_G:186.4628296	loss_E:-0.0489592
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-180.7444611	Loss_G:180.7960052	loss_E:-0.0489642
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 20% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-189.4507904	Loss_G:189.5019531	loss_E:-0.0489611
+epoch is: 35
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-189.0316925	Loss_G:189.0827484	loss_E:-0.0489578
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-187.2646179	Loss_G:187.3155518	loss_E:-0.0489610
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 20% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-186.3255310	Loss_G:186.3762207	loss_E:-0.0489766
+epoch is: 36
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-190.9226990	Loss_G:190.9734802	loss_E:-0.0489510
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-188.8634644	Loss_G:188.9141846	loss_E:-0.0489722
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 20% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-188.0124207	Loss_G:188.0631714	loss_E:-0.0489860
+epoch is: 37
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-184.7657166	Loss_G:184.8164062	loss_E:-0.0489876
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-188.6519012	Loss_G:188.7023315	loss_E:-0.0489814
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 20% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-184.2464294	Loss_G:184.2967529	loss_E:-0.0489813
+epoch is: 38
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-186.1708679	Loss_G:186.2211609	loss_E:-0.0489792
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-189.4605713	Loss_G:189.5107117	loss_E:-0.0489449
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 20% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-187.4043274	Loss_G:187.4544220	loss_E:-0.0489932
+epoch is: 39
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-192.2752533	Loss_G:192.3255310	loss_E:-0.0489883
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-186.6492767	Loss_G:186.6992798	loss_E:-0.0489927
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 68% | 20% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-186.9860992	Loss_G:187.0361633	loss_E:-0.0489776
+Epoch  40	Loss_D_avg:-161.2508794	Loss_G_avg:161.7629827	loss_E_avg:-0.0406857
+['concentration', 'look', 'final', 'ii', 'citizen', 'camp', 'people', 'gas', 'japanese', 'jews', 'die', 'nazi', 'imprison', 'disease', 'happen']
+['concentration', 'ii', 'look', 'final', 'citizen', 'japanese', 'nazi', 'gas', 'people', 'camp', 'generally', 'die', 'disease', 'imprison', 'jews']
+['concentration', 'citizen', 'final', 'look', 'nazi', 'ii', 'gas', 'people', 'camp', 'japanese', 'jews', 'generally', 'die', 'intend', 'imprison']
+['ii', 'look', 'citizen', 'concentration', 'final', 'japanese', 'gas', 'people', 'disease', 'generally', 'die', 'jews', 'camp', 'nazi', 'let']
+['concentration', 'gas', 'ii', 'look', 'final', 'japanese', 'citizen', 'people', 'nazi', 'jews', 'camp', 'prepare', 'die', 'generally', 'disease']
+['concentration', 'citizen', 'ii', 'gas', 'nazi', 'final', 'look', 'japanese', 'camp', 'people', 'jews', 'die', 'intend', 'generally', 'disease']
+['concentration', 'citizen', 'gas', 'ii', 'people', 'nazi', 'final', 'look', 'camp', 'japanese', 'jews', 'generally', 'disease', 'die', 'intend']
+['concentration', 'japanese', 'final', 'look', 'gas', 'citizen', 'people', 'nazi', 'ii', 'camp', 'jews', 'disease', 'generally', 'die', 'prepare']
+['citizen', 'concentration', 'gas', 'ii', 'people', 'japanese', 'final', 'look', 'nazi', 'generally', 'die', 'disease', 'camp', 'jews', 'let']
+['concentration', 'citizen', 'ii', 'look', 'final', 'japanese', 'gas', 'nazi', 'camp', 'disease', 'jews', 'die', 'generally', 'people', 'imprison']
+['citizen', 'concentration', 'final', 'japanese', 'look', 'ii', 'gas', 'camp', 'nazi', 'people', 'die', 'disease', 'imprison', 'jews', 'generally']
+['concentration', 'final', 'look', 'ii', 'japanese', 'gas', 'citizen', 'people', 'nazi', 'camp', 'die', 'disease', 'generally', 'intend', 'jews']
+['final', 'ii', 'citizen', 'look', 'concentration', 'japanese', 'gas', 'people', 'nazi', 'die', 'camp', 'generally', 'jews', 'disease', 'let']
+['concentration', 'japanese', 'citizen', 'nazi', 'ii', 'final', 'gas', 'people', 'look', 'camp', 'disease', 'die', 'jews', 'imprison', 'generally']
+['citizen', 'concentration', 'final', 'ii', 'look', 'gas', 'people', 'japanese', 'nazi', 'jews', 'camp', 'disease', 'die', 'intend', 'generally']
+['concentration', 'look', 'final', 'ii', 'citizen', 'japanese', 'nazi', 'camp', 'gas', 'people', 'jews', 'die', 'generally', 'imprison', 'disease']
+['concentration', 'nazi', 'final', 'ii', 'look', 'japanese', 'people', 'citizen', 'gas', 'camp', 'generally', 'disease', 'imprison', 'die', 'jews']
+['concentration', 'citizen', 'ii', 'people', 'camp', 'look', 'final', 'gas', 'japanese', 'jews', 'nazi', 'disease', 'die', 'intend', 'imprison']
+['concentration', 'final', 'citizen', 'ii', 'nazi', 'japanese', 'look', 'disease', 'people', 'gas', 'camp', 'die', 'prepare', 'jews', 'generally']
+['concentration', 'citizen', 'final', 'look', 'ii', 'gas', 'japanese', 'nazi', 'generally', 'jews', 'people', 'imprison', 'camp', 'die', 'disease']
+==============================
+topic diversity:0.06333333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38944251079749354, c_w2v:None, c_uci:-2.3799195826774078, c_npmi:-0.04880892773844941
+mimno topic coherence:-261.7979663905905
+epoch is: 40
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-184.0282898	Loss_G:184.0781860	loss_E:-0.0489839
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-186.9582672	Loss_G:187.0083618	loss_E:-0.0489965
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 20% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-190.1581268	Loss_G:190.2080994	loss_E:-0.0489958
+epoch is: 41
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-191.5709381	Loss_G:191.6208801	loss_E:-0.0489960
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-187.1105804	Loss_G:187.1604309	loss_E:-0.0489950
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-184.9383240	Loss_G:184.9881897	loss_E:-0.0489938
+epoch is: 42
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-186.8939362	Loss_G:186.9437256	loss_E:-0.0489955
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-186.9518127	Loss_G:187.0015869	loss_E:-0.0489729
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 20% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-186.2796783	Loss_G:186.3294067	loss_E:-0.0490013
+epoch is: 43
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-189.8072968	Loss_G:189.8569946	loss_E:-0.0489944
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-184.8699188	Loss_G:184.9196014	loss_E:-0.0489990
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-186.0580292	Loss_G:186.1077118	loss_E:-0.0490002
+epoch is: 44
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-188.5733948	Loss_G:188.6230774	loss_E:-0.0490025
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-181.7388306	Loss_G:181.7884216	loss_E:-0.0489834
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-190.1890564	Loss_G:190.2386475	loss_E:-0.0489973
+epoch is: 45
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-188.1822510	Loss_G:188.2319336	loss_E:-0.0490059
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-185.3041992	Loss_G:185.3537903	loss_E:-0.0489867
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 20% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-187.2000885	Loss_G:187.2496643	loss_E:-0.0489985
+epoch is: 46
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-185.1416626	Loss_G:185.1911926	loss_E:-0.0489873
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-187.2058411	Loss_G:187.2554016	loss_E:-0.0490028
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 20% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-190.2292328	Loss_G:190.2787170	loss_E:-0.0490001
+epoch is: 47
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-187.9971924	Loss_G:188.0467224	loss_E:-0.0490069
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-190.2836761	Loss_G:190.3332214	loss_E:-0.0489978
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 66% | 20% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-190.3174438	Loss_G:190.3669281	loss_E:-0.0490039
+epoch is: 48
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-187.0131226	Loss_G:187.0625916	loss_E:-0.0490068
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-186.5049133	Loss_G:186.5543518	loss_E:-0.0489750
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-190.1229095	Loss_G:190.1724548	loss_E:-0.0490023
+epoch is: 49
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-189.4163971	Loss_G:189.4657898	loss_E:-0.0489707
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-188.4888000	Loss_G:188.5381775	loss_E:-0.0490041
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+torch.Size([512, 20])
+using laplace
+torch.Size([512, 20])
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 20% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-186.8215027	Loss_G:186.8710022	loss_E:-0.0489992
+Epoch  50	Loss_D_avg:-166.5097416	Loss_G_avg:166.9293546	loss_E_avg:-0.0423476
+['concentration', 'look', 'final', 'ii', 'citizen', 'camp', 'people', 'gas', 'japanese', 'jews', 'die', 'nazi', 'imprison', 'disease', 'happen']
+['concentration', 'ii', 'look', 'final', 'citizen', 'japanese', 'nazi', 'gas', 'people', 'camp', 'generally', 'die', 'disease', 'imprison', 'jews']
+['concentration', 'citizen', 'final', 'look', 'nazi', 'ii', 'gas', 'people', 'camp', 'japanese', 'jews', 'generally', 'die', 'intend', 'imprison']
+['ii', 'look', 'citizen', 'concentration', 'final', 'japanese', 'gas', 'people', 'generally', 'disease', 'die', 'jews', 'camp', 'nazi', 'let']
+['concentration', 'gas', 'ii', 'look', 'final', 'japanese', 'citizen', 'people', 'nazi', 'jews', 'camp', 'prepare', 'die', 'generally', 'disease']
+['concentration', 'citizen', 'ii', 'gas', 'nazi', 'final', 'look', 'japanese', 'camp', 'people', 'jews', 'die', 'intend', 'generally', 'disease']
+['concentration', 'citizen', 'gas', 'ii', 'people', 'nazi', 'final', 'look', 'camp', 'japanese', 'jews', 'generally', 'disease', 'die', 'intend']
+['concentration', 'japanese', 'final', 'look', 'citizen', 'gas', 'people', 'nazi', 'ii', 'camp', 'jews', 'disease', 'generally', 'die', 'prepare']
+['citizen', 'concentration', 'gas', 'ii', 'people', 'japanese', 'final', 'look', 'nazi', 'generally', 'die', 'disease', 'camp', 'jews', 'let']
+['concentration', 'citizen', 'ii', 'look', 'final', 'japanese', 'gas', 'nazi', 'camp', 'disease', 'jews', 'die', 'generally', 'people', 'imprison']
+['citizen', 'concentration', 'final', 'japanese', 'look', 'ii', 'gas', 'camp', 'nazi', 'people', 'die', 'disease', 'imprison', 'jews', 'generally']
+['concentration', 'final', 'look', 'ii', 'gas', 'japanese', 'citizen', 'people', 'nazi', 'camp', 'die', 'disease', 'generally', 'intend', 'jews']
+['final', 'ii', 'citizen', 'look', 'concentration', 'japanese', 'gas', 'people', 'nazi', 'die', 'camp', 'generally', 'jews', 'disease', 'let']
+['concentration', 'japanese', 'citizen', 'nazi', 'ii', 'final', 'gas', 'people', 'look', 'camp', 'disease', 'die', 'jews', 'imprison', 'generally']
+['citizen', 'concentration', 'final', 'ii', 'look', 'gas', 'people', 'japanese', 'nazi', 'jews', 'camp', 'disease', 'die', 'intend', 'generally']
+['concentration', 'look', 'final', 'ii', 'citizen', 'japanese', 'nazi', 'camp', 'gas', 'people', 'jews', 'die', 'generally', 'imprison', 'disease']
+['concentration', 'nazi', 'final', 'ii', 'look', 'japanese', 'people', 'citizen', 'gas', 'camp', 'generally', 'disease', 'imprison', 'die', 'jews']
+['concentration', 'citizen', 'ii', 'people', 'camp', 'look', 'final', 'gas', 'japanese', 'jews', 'nazi', 'die', 'disease', 'intend', 'imprison']
+['concentration', 'final', 'citizen', 'ii', 'nazi', 'japanese', 'look', 'disease', 'people', 'gas', 'camp', 'die', 'prepare', 'jews', 'generally']
+['concentration', 'citizen', 'final', 'look', 'ii', 'gas', 'japanese', 'nazi', 'generally', 'jews', 'people', 'imprison', 'camp', 'die', 'disease']
+==============================
+topic diversity:0.06333333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38944251079749354, c_w2v:None, c_uci:-2.3799195826774078, c_npmi:-0.04880892773844941
+mimno topic coherence:-261.7979663905905
+topic diversity:0.06333333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38944251079749354, c_w2v:None, c_uci:-2.3799195826774078, c_npmi:-0.04880892773844941
+mimno topic coherence:-261.7979663905905

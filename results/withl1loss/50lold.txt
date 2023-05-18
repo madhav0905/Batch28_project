@@ -1,0 +1,301 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f65cb9d4550>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0000371	Loss_G:215.1386108	loss_E:-0.0046381
+Epoch   1	Iter   11	Loss_D:-0.0055828	Loss_G:213.7823181	loss_E:-0.0027948
+Epoch   1	Iter   21	Loss_D:-0.0123038	Loss_G:212.4290771	loss_E:0.0009081
+Epoch   2	Iter    1	Loss_D:-0.0142497	Loss_G:211.0783539	loss_E:0.0022188
+Epoch   2	Iter   11	Loss_D:-0.0229058	Loss_G:209.7331390	loss_E:0.0079976
+Epoch   2	Iter   21	Loss_D:-0.0321337	Loss_G:208.3940735	loss_E:0.0137944
+Epoch   3	Iter    1	Loss_D:-0.0343400	Loss_G:207.0558624	loss_E:0.0152662
+Epoch   3	Iter   11	Loss_D:-0.0426472	Loss_G:205.7251282	loss_E:0.0198718
+Epoch   3	Iter   21	Loss_D:-0.0507677	Loss_G:204.3983765	loss_E:0.0239653
+Epoch   4	Iter    1	Loss_D:-0.0522420	Loss_G:203.0730743	loss_E:0.0249468
+Epoch   4	Iter   11	Loss_D:-0.0592786	Loss_G:201.7547150	loss_E:0.0280115
+Epoch   4	Iter   21	Loss_D:-0.0631840	Loss_G:200.4410706	loss_E:0.0288755
+Epoch   5	Iter    1	Loss_D:-0.0651836	Loss_G:199.1286621	loss_E:0.0300326
+Epoch   5	Iter   11	Loss_D:-0.0708197	Loss_G:197.8229675	loss_E:0.0328996
+Epoch   5	Iter   21	Loss_D:-0.0745116	Loss_G:196.5210876	loss_E:0.0339869
+Epoch   6	Iter    1	Loss_D:-0.0764616	Loss_G:195.2227325	loss_E:0.0351185
+Epoch   6	Iter   11	Loss_D:-0.0793901	Loss_G:193.9282684	loss_E:0.0362665
+Epoch   6	Iter   21	Loss_D:-0.0824571	Loss_G:192.6396179	loss_E:0.0370443
+Epoch   7	Iter    1	Loss_D:-0.0830071	Loss_G:191.3530426	loss_E:0.0373218
+Epoch   7	Iter   11	Loss_D:-0.0862851	Loss_G:190.0731506	loss_E:0.0385325
+Epoch   7	Iter   21	Loss_D:-0.0872299	Loss_G:188.7959900	loss_E:0.0381610
+Epoch   8	Iter    1	Loss_D:-0.0887687	Loss_G:187.5229950	loss_E:0.0393330
+Epoch   8	Iter   11	Loss_D:-0.0903192	Loss_G:186.2539978	loss_E:0.0400238
+Epoch   8	Iter   21	Loss_D:-0.0923901	Loss_G:184.9909210	loss_E:0.0407767
+Epoch   9	Iter    1	Loss_D:-0.0918473	Loss_G:183.7303467	loss_E:0.0399849
+Epoch   9	Iter   11	Loss_D:-0.0938086	Loss_G:182.4749756	loss_E:0.0411705
+Epoch   9	Iter   21	Loss_D:-0.0948467	Loss_G:181.2242432	loss_E:0.0407699
+Epoch  10	Iter    1	Loss_D:-0.0954814	Loss_G:179.9777679	loss_E:0.0411321
+Epoch  10	Iter   11	Loss_D:-0.0953750	Loss_G:178.7348633	loss_E:0.0399239
+Epoch  10	Iter   21	Loss_D:-0.0960220	Loss_G:177.4967194	loss_E:0.0400803
+Epoch  10	Loss_D_avg:-0.0644626	Loss_G_avg:196.0298716	loss_E_avg:0.0280327
+['fish', 'jmd', 'hawaii', 'wallet', 'jim', 'testify', 'oral', 'thispoint', 'themost', 'contractor', 'caddy', 'publically', 'erode', 'nodak', 'aboutit']
+['ridiculously', 'goaltende', 'connect', 'sultan', 'maple', 'multitude', 'decide', 'duck', 'verify', 'rigid', 'burt', 'plutonium', 'bond', 'cooking', 'jmd']
+['invader', 'khomeini', 'restaurant', 'tocome', 'elect', 'newton', 'vy', 'amplitude', 'propagate', 'buying', 'robert', 'jmd', 'nodak', 'theadministration', 'fw']
+['depict', 'minor', 'dykstra', 'fusion', 'proud', 'lightweight', 'unconditional', 'hurt', 'rd', 'ministry', 'thankful', 'clarify', 'icd', 'verification', 'orthodox']
+['canon', 'saysthat', 'jmd', 'caddy', 'hwy', 'transistor', 'val', 'conjunction', 'perfectly', 'define', 'awd', 'suffer', 'luckily', 'imperfection', 'previous']
+['surrender', 'jmd', 'employer', 'thegospel', 'harrison', 'jl', 'stanford', 'reread', 'distort', 'pex', 'plus', 'previous', 'includingthe', 'ascertain', 'displace']
+['orwell', 'texas', 'seriously', 'depict', 'po', 'dupont', 'conventional', 'portability', 'anonymous', 'cursor', 'ppm', 'tomorrow', 'careful', 'ministry', 'jacket']
+['untenable', 'transformation', 'pledge', 'scotland', 'neutral', 'tomorrow', 'jam', 'dykstra', 'jl', 'reciever', 'oral', 'videotape', 'nil', 'theevent', 'traffic']
+['moe', 'thefollowing', 'tip', 'thearticle', 'epa', 'bureaucracy', 'fascism', 'iwould', 'abidingcitizen', 'jl', 'synthetic', 'nil', 'kl', 'papal', 'devout']
+['jmd', 'freshman', 'spectra', 'goof', 'shopping', 'nm', 'contractor', 'sony', 'rephrase', 'talk', 'soundblaster', 'janet', 'thearticle', 'find', 'algorythm']
+['workspace', 'jmd', 'conclusion', 'gridlock', 'retract', 'shocking', 'correspondent', 'intifada', 'zi', 'winter', 'vol', 'makeit', 'isit', 'talk', 'sticker']
+['oil', 'employer', 'disagree', 'jmd', 'trample', 'unofficial', 'psi', 'wallet', 'iwould', 'njd', 'birthday', 'mo', 'candida', 'soc', 'dodge']
+['displace', 'shame', 'intrepid', 'early', 'quotation', 'antenna', 'xserver', 'toxicity', 'bethesda', 'motto', 'operate', 'acknowledge', 'browse', 'virtual', 'reese']
+['inflation', 'testify', 'batter', 'strobe', 'misinterpret', 'propagate', 'commentary', 'yawney', 'bethesda', 'app', 'rbis', 'toyota', 'jmd', 'promiscuity', 'reese']
+['workspace', 'withit', 'gland', 'birthday', 'seizure', 'unavoidable', 'creative', 'carbon', 'magazine', 'ik', 'punch', 'recession', 'childish', 'llbe', 'desqview']
+['canbe', 'burt', 'remain', 'syndicate', 'crypt', 'peril', 'jmd', 'larry', 'henry', 'ingest', 'thinkit', 'gilmour', 'repaint', 'obese', 'eachother']
+['pk', 'bosnia', 'jmd', 'shoulder', 'dimension', 'koutd', 'spectator', 'wow', 'texas', 'passport', 'shift', 'shoot', 'itor', 'cd', 'guardian']
+['brink', 'hwy', 'tryingto', 'rephrase', 'widget', 'iwould', 'retard', 'einstein', 'undermine', 'cursor', 'lidstrom', 'luis', 'llbe', 'et', 'willtake']
+['workspace', 'abyss', 'conclusion', 'unofficial', 'work', 'continent', 'andy', 'spill', 'testify', 'status', 'theuniverse', 'neutral', 'shopping', 'mutation', 'detrimental']
+['bureaucracy', 'kmail', 'tuesday', 'workspace', 'theability', 'unofficial', 'jmd', 'accidently', 'appal', 'testify', 'referee', 'pub', 'eloquent', 'disciple', 'mack']
+==============================
+topic diversity:0.8266666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6456771604653238, c_w2v:None, c_uci:-9.879783261074575, c_npmi:-0.3548136555603175
+mimno topic coherence:-170.07056703468064
+Epoch  11	Iter    1	Loss_D:-0.0961146	Loss_G:176.2622681	loss_E:0.0400919
+Epoch  11	Iter   11	Loss_D:-0.0970998	Loss_G:175.0329742	loss_E:0.0406631
+Epoch  11	Iter   21	Loss_D:-0.0980875	Loss_G:173.8078461	loss_E:0.0405978
+Epoch  12	Iter    1	Loss_D:-0.0987882	Loss_G:172.5867767	loss_E:0.0412962
+Epoch  12	Iter   11	Loss_D:-0.0988038	Loss_G:171.3700562	loss_E:0.0404094
+Epoch  12	Iter   21	Loss_D:-0.0994865	Loss_G:170.1588745	loss_E:0.0401047
+Epoch  13	Iter    1	Loss_D:-0.0984739	Loss_G:168.9505615	loss_E:0.0387863
+Epoch  13	Iter   11	Loss_D:-0.1001595	Loss_G:167.7467651	loss_E:0.0403632
+Epoch  13	Iter   21	Loss_D:-0.1013036	Loss_G:166.5479584	loss_E:0.0404002
+Epoch  14	Iter    1	Loss_D:-0.0998258	Loss_G:165.3541412	loss_E:0.0381797
+Epoch  14	Iter   11	Loss_D:-0.1006696	Loss_G:164.1626892	loss_E:0.0388110
+Epoch  14	Iter   21	Loss_D:-0.1016663	Loss_G:162.9762421	loss_E:0.0398649
+Epoch  15	Iter    1	Loss_D:-0.0994256	Loss_G:161.7938690	loss_E:0.0377589
+Epoch  15	Iter   11	Loss_D:-0.0996299	Loss_G:160.6168365	loss_E:0.0376327
+Epoch  15	Iter   21	Loss_D:-0.1000562	Loss_G:159.4436951	loss_E:0.0372725
+Epoch  16	Iter    1	Loss_D:-0.1007113	Loss_G:158.2745667	loss_E:0.0383004
+Epoch  16	Iter   11	Loss_D:-0.1025394	Loss_G:157.1106567	loss_E:0.0387924
+Epoch  16	Iter   21	Loss_D:-0.1007363	Loss_G:155.9503326	loss_E:0.0374993
+Epoch  17	Iter    1	Loss_D:-0.1014069	Loss_G:154.7943573	loss_E:0.0378449
+Epoch  17	Iter   11	Loss_D:-0.1012075	Loss_G:153.6435089	loss_E:0.0368313
+Epoch  17	Iter   21	Loss_D:-0.1014225	Loss_G:152.4954071	loss_E:0.0376007
+Epoch  18	Iter    1	Loss_D:-0.1013450	Loss_G:151.3537750	loss_E:0.0369273
+Epoch  18	Iter   11	Loss_D:-0.1033980	Loss_G:150.2148438	loss_E:0.0385826
+Epoch  18	Iter   21	Loss_D:-0.1018677	Loss_G:149.0807953	loss_E:0.0370357
+Epoch  19	Iter    1	Loss_D:-0.1021256	Loss_G:147.9501190	loss_E:0.0380382
+Epoch  19	Iter   11	Loss_D:-0.1027649	Loss_G:146.8256073	loss_E:0.0381364
+Epoch  19	Iter   21	Loss_D:-0.1055947	Loss_G:145.7049713	loss_E:0.0399417
+Epoch  20	Iter    1	Loss_D:-0.1034235	Loss_G:144.5878448	loss_E:0.0384740
+Epoch  20	Iter   11	Loss_D:-0.1039870	Loss_G:143.4750671	loss_E:0.0387845
+Epoch  20	Iter   21	Loss_D:-0.1017825	Loss_G:142.3673706	loss_E:0.0366921
+Epoch  20	Loss_D_avg:-0.0826297	Loss_G_avg:177.5256154	loss_E_avg:0.0333783
+['fish', 'jmd', 'testify', 'jim', 'wallet', 'hawaii', 'themost', 'oral', 'caddy', 'thispoint', 'publically', 'beneath', 'procomm', 'contractor', 'erode']
+['ridiculously', 'connect', 'sultan', 'rigid', 'maple', 'goaltende', 'decide', 'plutonium', 'duck', 'verify', 'cooking', 'multitude', 'bond', 'burt', 'jmd']
+['invader', 'restaurant', 'khomeini', 'tocome', 'elect', 'propagate', 'newton', 'buying', 'vy', 'amplitude', 'theadministration', 'robert', 'nodak', 'assumethat', 'jmd']
+['depict', 'minor', 'dykstra', 'proud', 'fusion', 'lightweight', 'verification', 'unconditional', 'icd', 'orthodox', 'rd', 'recently', 'clarify', 'maybe', 'ministry']
+['saysthat', 'canon', 'hwy', 'jmd', 'caddy', 'val', 'transistor', 'conjunction', 'awd', 'adrian', 'luckily', 'define', 'perfectly', 'previous', 'suffer']
+['jmd', 'surrender', 'employer', 'harrison', 'displace', 'stanford', 'reread', 'jl', 'thegospel', 'pex', 'ascertain', 'afterlife', 'feminist', 'define', 'moore']
+['depict', 'seriously', 'orwell', 'conventional', 'portability', 'texas', 'dupont', 'po', 'anonymous', 'cursor', 'ppm', 'jacket', 'pee', 'tomorrow', 'commercially']
+['untenable', 'jam', 'transformation', 'pledge', 'jl', 'neutral', 'tomorrow', 'scotland', 'dykstra', 'oral', 'videotape', 'reciever', 'supplemental', 'displace', 'nil']
+['thefollowing', 'tip', 'moe', 'thearticle', 'epa', 'bureaucracy', 'iwould', 'fascism', 'jl', 'abidingcitizen', 'synthetic', 'papal', 'devout', 'nil', 'kl']
+['jmd', 'freshman', 'spectra', 'sony', 'goof', 'nm', 'contractor', 'shopping', 'rephrase', 'talk', 'soundblaster', 'find', 'janet', 'pex', 'motto']
+['workspace', 'jmd', 'gridlock', 'conclusion', 'correspondent', 'retract', 'shocking', 'intifada', 'probe', 'makeit', 'procuracy', 'denver', 'zi', 'isit', 'winter']
+['oil', 'employer', 'jmd', 'disagree', 'unofficial', 'iwould', 'wallet', 'trample', 'psi', 'njd', 'birthday', 'cooperative', 'val', 'removed', 'handlebar']
+['displace', 'intrepid', 'shame', 'early', 'reese', 'motto', 'xserver', 'grade', 'toxicity', 'antenna', 'virtual', 'admire', 'operate', 'verification', 'bethesda']
+['inflation', 'testify', 'misinterpret', 'strobe', 'batter', 'yawney', 'commentary', 'bethesda', 'propagate', 'promiscuity', 'app', 'jmd', 'rbis', 'diego', 'toyota']
+['workspace', 'withit', 'gland', 'seizure', 'birthday', 'unavoidable', 'creative', 'punch', 'dimension', 'ik', 'carbon', 'llbe', 'thegospel', 'huntsville', 'desqview']
+['canbe', 'remain', 'burt', 'syndicate', 'crypt', 'ingest', 'henry', 'larry', 'tenor', 'obese', 'jmd', 'gilmour', 'repaint', 'peril', 'zoom']
+['pk', 'bosnia', 'jmd', 'dimension', 'spectator', 'shoulder', 'koutd', 'shoot', 'wow', 'cd', 'sever', 'shift', 'survivor', 'nasa', 'passport']
+['brink', 'hwy', 'widget', 'tryingto', 'iwould', 'einstein', 'undermine', 'rephrase', 'cursor', 'unwanted', 'willtake', 'lidstrom', 'llbe', 'bi', 'retard']
+['workspace', 'abyss', 'andy', 'unofficial', 'conclusion', 'work', 'continent', 'detrimental', 'neutral', 'spill', 'testify', 'mutation', 'status', 'theuniverse', 'newton']
+['bureaucracy', 'kmail', 'tuesday', 'workspace', 'jmd', 'theability', 'unofficial', 'accidently', 'appal', 'carson', 'referee', 'disciple', 'mack', 'usual', 'andwould']
+==============================
+topic diversity:0.8266666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6537155802453453, c_w2v:None, c_uci:-9.888489915044854, c_npmi:-0.3553115223463658
+mimno topic coherence:-172.37029426851902
+Epoch  21	Iter    1	Loss_D:-0.1036409	Loss_G:141.2636566	loss_E:0.0382969
+Epoch  21	Iter   11	Loss_D:-0.1029474	Loss_G:140.1643524	loss_E:0.0376345
+Epoch  21	Iter   21	Loss_D:-0.1020226	Loss_G:139.0692444	loss_E:0.0365653
+Epoch  22	Iter    1	Loss_D:-0.1020525	Loss_G:137.9793396	loss_E:0.0365285
+Epoch  22	Iter   11	Loss_D:-0.1022218	Loss_G:136.8921051	loss_E:0.0368513
+Epoch  22	Iter   21	Loss_D:-0.1030043	Loss_G:135.8105774	loss_E:0.0375232
+Epoch  23	Iter    1	Loss_D:-0.1039940	Loss_G:134.7335968	loss_E:0.0378711
+Epoch  23	Iter   11	Loss_D:-0.1025003	Loss_G:133.6605988	loss_E:0.0366901
+Epoch  23	Iter   21	Loss_D:-0.1024241	Loss_G:132.5908356	loss_E:0.0370530
+Epoch  24	Iter    1	Loss_D:-0.1029909	Loss_G:131.5269012	loss_E:0.0374928
+Epoch  24	Iter   11	Loss_D:-0.1022016	Loss_G:130.4661865	loss_E:0.0367110
+Epoch  24	Iter   21	Loss_D:-0.1048601	Loss_G:129.4108276	loss_E:0.0395534
+Epoch  25	Iter    1	Loss_D:-0.1047191	Loss_G:128.3591461	loss_E:0.0394207
+Epoch  25	Iter   11	Loss_D:-0.1047024	Loss_G:127.3118134	loss_E:0.0398254
+Epoch  25	Iter   21	Loss_D:-0.1054644	Loss_G:126.2694168	loss_E:0.0399913
+Epoch  26	Iter    1	Loss_D:-0.1043821	Loss_G:125.2320938	loss_E:0.0385948
+Epoch  26	Iter   11	Loss_D:-0.1043698	Loss_G:124.1969299	loss_E:0.0391142
+Epoch  26	Iter   21	Loss_D:-0.1043375	Loss_G:123.1669846	loss_E:0.0396333
+Epoch  27	Iter    1	Loss_D:-0.1031992	Loss_G:122.1418610	loss_E:0.0382483
+Epoch  27	Iter   11	Loss_D:-0.1036931	Loss_G:121.1213303	loss_E:0.0389227
+Epoch  27	Iter   21	Loss_D:-0.1032405	Loss_G:120.1041565	loss_E:0.0387248
+Epoch  28	Iter    1	Loss_D:-0.1040798	Loss_G:119.0925674	loss_E:0.0393647
+Epoch  28	Iter   11	Loss_D:-0.1035298	Loss_G:118.0844040	loss_E:0.0386887
+Epoch  28	Iter   21	Loss_D:-0.1044109	Loss_G:117.0813751	loss_E:0.0398698
+Epoch  29	Iter    1	Loss_D:-0.1041723	Loss_G:116.0820160	loss_E:0.0397359
+Epoch  29	Iter   11	Loss_D:-0.1044933	Loss_G:115.0871964	loss_E:0.0403422
+Epoch  29	Iter   21	Loss_D:-0.1056007	Loss_G:114.0969696	loss_E:0.0411308
+Epoch  30	Iter    1	Loss_D:-0.1051739	Loss_G:113.1116943	loss_E:0.0407157
+Epoch  30	Iter   11	Loss_D:-0.1034522	Loss_G:112.1289444	loss_E:0.0394997
+Epoch  30	Iter   21	Loss_D:-0.1046987	Loss_G:111.1526413	loss_E:0.0400619
+Epoch  30	Loss_D_avg:-0.0896707	Loss_G_avg:160.3214077	loss_E_avg:0.0351484
+['fish', 'testify', 'jmd', 'jim', 'wallet', 'hawaii', 'themost', 'caddy', 'beneath', 'procomm', 'supplemental', 'rtf', 'publically', 'swerve', 'oral']
+['ridiculously', 'connect', 'sultan', 'plutonium', 'rigid', 'tool', 'maple', 'cooking', 'decide', 'jmd', 'reputation', 'burt', 'duck', 'bond', 'iwould']
+['invader', 'restaurant', 'khomeini', 'propagate', 'tocome', 'assumethat', 'newton', 'buying', 'nodak', 'elect', 'bhj', 'theadministration', 'historical', 'tool', 'amplitude']
+['depict', 'dykstra', 'verification', 'proud', 'minor', 'fusion', 'icd', 'lightweight', 'unconditional', 'optional', 'orthodox', 'maybe', 'recently', 'feb', 'harley']
+['saysthat', 'canon', 'jmd', 'hwy', 'val', 'transistor', 'usual', 'awd', 'adrian', 'bellcore', 'conjunction', 'caddy', 'luckily', 'eliminate', 'define']
+['jmd', 'employer', 'surrender', 'displace', 'reread', 'harrison', 'pex', 'stanford', 'ascertain', 'afterlife', 'jl', 'feminist', 'define', 'moore', 'flight']
+['conventional', 'portability', 'depict', 'pee', 'orwell', 'seriously', 'ppm', 'locale', 'cursor', 'anonymous', 'po', 'jacket', 'generally', 'dupont', 'pluto']
+['untenable', 'jam', 'jl', 'transformation', 'pledge', 'dykstra', 'neutral', 'scotland', 'displace', 'oral', 'tomorrow', 'anal', 'reciever', 'videotape', 'collector']
+['thefollowing', 'tip', 'moe', 'iwould', 'fascism', 'epa', 'jl', 'thearticle', 'synthetic', 'bureaucracy', 'abidingcitizen', 'devout', 'papal', 'differential', 'individuality']
+['jmd', 'freshman', 'sony', 'spectra', 'motto', 'talk', 'soundblaster', 'goof', 'pex', 'nm', 'rephrase', 'find', 'contractor', 'microcomputer', 'shopping']
+['workspace', 'jmd', 'correspondent', 'gridlock', 'probe', 'conclusion', 'retract', 'fly', 'shocking', 'intifada', 'hinder', 'procuracy', 'denver', 'makeit', 'decrease']
+['oil', 'employer', 'jmd', 'disagree', 'unofficial', 'iwould', 'njd', 'wallet', 'psi', 'ore', 'trample', 'birthday', 'dykstra', 'val', 'removed']
+['displace', 'intrepid', 'reese', 'grade', 'motto', 'toxicity', 'early', 'admire', 'shame', 'virtual', 'verification', 'ofsome', 'xserver', 'operate', 'antenna']
+['testify', 'inflation', 'misinterpret', 'strobe', 'promiscuity', 'batter', 'yawney', 'propagate', 'bethesda', 'commentary', 'jmd', 'diego', 'app', 'itout', 'ultraviolet']
+['workspace', 'withit', 'seizure', 'birthday', 'gland', 'unavoidable', 'huntsville', 'dimension', 'punch', 'creative', 'equation', 'llbe', 'thegospel', 'frozen', 'ik']
+['remain', 'syndicate', 'burt', 'canbe', 'tenor', 'ingest', 'henry', 'crypt', 'larry', 'obese', 'jmd', 'gilmour', 'becausehe', 'duly', 'weapon']
+['pk', 'bosnia', 'dimension', 'jmd', 'shoulder', 'spectator', 'gnd', 'koutd', 'survivor', 'cd', 'shoot', 'nasa', 'reese', 'sever', 'shift']
+['brink', 'hwy', 'widget', 'iwould', 'unwanted', 'einstein', 'undermine', 'bi', 'tryingto', 'llbe', 'helsinki', 'cursor', 'willtake', 'thegospel', 'anal']
+['abyss', 'workspace', 'andy', 'unofficial', 'neutral', 'conclusion', 'detrimental', 'mutation', 'work', 'newton', 'status', 'continent', 'theuniverse', 'testify', 'spill']
+['bureaucracy', 'workspace', 'tuesday', 'kmail', 'jmd', 'carson', 'theability', 'unofficial', 'appal', 'accidently', 'experimenter', 'mack', 'usual', 'referee', 'pub']
+==============================
+topic diversity:0.8266666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6486670560359088, c_w2v:None, c_uci:-9.92072739732404, c_npmi:-0.35624219680851693
+mimno topic coherence:-166.48385301403482
+Epoch  31	Iter    1	Loss_D:-0.1053682	Loss_G:110.1794434	loss_E:0.0410273
+Epoch  31	Iter   11	Loss_D:-0.1071893	Loss_G:109.2117004	loss_E:0.0426279
+Epoch  31	Iter   21	Loss_D:-0.1022822	Loss_G:108.2468262	loss_E:0.0380681
+Epoch  32	Iter    1	Loss_D:-0.1046900	Loss_G:107.2874756	loss_E:0.0404491
+Epoch  32	Iter   11	Loss_D:-0.1038737	Loss_G:106.3315125	loss_E:0.0397479
+Epoch  32	Iter   21	Loss_D:-0.1038018	Loss_G:105.3809586	loss_E:0.0396755
+Epoch  33	Iter    1	Loss_D:-0.1036606	Loss_G:104.4340210	loss_E:0.0395236
+Epoch  33	Iter   11	Loss_D:-0.1046394	Loss_G:103.4918137	loss_E:0.0406112
+Epoch  33	Iter   21	Loss_D:-0.1031349	Loss_G:102.5535660	loss_E:0.0391143
+Epoch  34	Iter    1	Loss_D:-0.1051167	Loss_G:101.6208344	loss_E:0.0409044
+Epoch  34	Iter   11	Loss_D:-0.1040682	Loss_G:100.6905212	loss_E:0.0402957
+Epoch  34	Iter   21	Loss_D:-0.1032946	Loss_G:99.7655716	loss_E:0.0397757
+Epoch  35	Iter    1	Loss_D:-0.1049059	Loss_G:98.8450089	loss_E:0.0412596
+Epoch  35	Iter   11	Loss_D:-0.1033480	Loss_G:97.9293213	loss_E:0.0398172
+Epoch  35	Iter   21	Loss_D:-0.1035298	Loss_G:97.0172348	loss_E:0.0398892
+Epoch  36	Iter    1	Loss_D:-0.1035855	Loss_G:96.1100006	loss_E:0.0400790
+Epoch  36	Iter   11	Loss_D:-0.1030641	Loss_G:95.2068939	loss_E:0.0390870
+Epoch  36	Iter   21	Loss_D:-0.1027645	Loss_G:94.3086624	loss_E:0.0388794
+Epoch  37	Iter    1	Loss_D:-0.1039909	Loss_G:93.4142075	loss_E:0.0399174
+Epoch  37	Iter   11	Loss_D:-0.1058835	Loss_G:92.5238113	loss_E:0.0423329
+Epoch  37	Iter   21	Loss_D:-0.1037114	Loss_G:91.6382523	loss_E:0.0398683
+Epoch  38	Iter    1	Loss_D:-0.1059902	Loss_G:90.7579346	loss_E:0.0418551
+Epoch  38	Iter   11	Loss_D:-0.1030473	Loss_G:89.8798752	loss_E:0.0394089
+Epoch  38	Iter   21	Loss_D:-0.1032793	Loss_G:89.0075302	loss_E:0.0396248
+Epoch  39	Iter    1	Loss_D:-0.1038507	Loss_G:88.1394730	loss_E:0.0399497
+Epoch  39	Iter   11	Loss_D:-0.1035771	Loss_G:87.2760468	loss_E:0.0397545
+Epoch  39	Iter   21	Loss_D:-0.1042584	Loss_G:86.4163208	loss_E:0.0402900
+Epoch  40	Iter    1	Loss_D:-0.1040945	Loss_G:85.5616913	loss_E:0.0399811
+Epoch  40	Iter   11	Loss_D:-0.1052939	Loss_G:84.7103806	loss_E:0.0412473
+Epoch  40	Iter   21	Loss_D:-0.1034502	Loss_G:83.8646240	loss_E:0.0393443
+Epoch  40	Loss_D_avg:-0.0932759	Loss_G_avg:144.4227350	loss_E_avg:0.0363980
+['fish', 'testify', 'jmd', 'jim', 'wallet', 'beneath', 'hawaii', 'caddy', 'themost', 'supplemental', 'procomm', 'stroke', 'swerve', 'desperate', 'rtf']
+['ridiculously', 'tool', 'connect', 'reputation', 'plutonium', 'sultan', 'cooking', 'authority', 'rigid', 'bond', 'maple', 'iwould', 'burt', 'duck', 'testify']
+['invader', 'restaurant', 'khomeini', 'rifleman', 'assumethat', 'propagate', 'tool', 'nodak', 'historical', 'newton', 'utilization', 'tocome', 'itbefore', 'thinkit', 'buying']
+['verification', 'dykstra', 'proud', 'minor', 'icd', 'depict', 'fusion', 'optional', 'unconditional', 'lightweight', 'feb', 'encoder', 'maybe', 'harley', 'orthodox']
+['saysthat', 'jmd', 'usual', 'val', 'bellcore', 'canon', 'hwy', 'eliminate', 'awd', 'adrian', 'transistor', 'ibid', 'luckily', 'routinely', 'pa']
+['employer', 'displace', 'jmd', 'surrender', 'reread', 'pex', 'wiener', 'ascertain', 'harrison', 'afterlife', 'moore', 'work', 'stanford', 'flight', 'feminist']
+['conventional', 'pee', 'portability', 'locale', 'ppm', 'depict', 'av', 'pluto', 'orwell', 'cursor', 'generally', 'anonymous', 'hamilton', 'dykstra', 'rent']
+['untenable', 'jam', 'jl', 'transformation', 'displace', 'dykstra', 'pledge', 'anal', 'academia', 'collector', 'scotland', 'objectively', 'oral', 'neutral', 'fide']
+['tip', 'thefollowing', 'iwould', 'moe', 'fascism', 'differential', 'epa', 'jl', 'synthetic', 'abidingcitizen', 'devout', 'progress', 'bureaucracy', 'superior', 'individuality']
+['jmd', 'freshman', 'motto', 'pex', 'sony', 'historical', 'talk', 'soundblaster', 'microcomputer', 'find', 'spectra', 'goof', 'shopping', 'nm', 'rephrase']
+['workspace', 'jmd', 'hinder', 'probe', 'gridlock', 'correspondent', 'fly', 'conclusion', 'retract', 'factory', 'wager', 'decrease', 'involvement', 'procuracy', 'intifada']
+['jmd', 'employer', 'oil', 'unofficial', 'disagree', 'iwould', 'njd', 'wallet', 'removed', 'quickly', 'plausible', 'isa', 'fruit', 'dykstra', 'ore']
+['reese', 'grade', 'displace', 'toxicity', 'motto', 'intrepid', 'admire', 'verification', 'early', 'virtual', 'operate', 'palace', 'ofsome', 'antenna', 'galactic']
+['testify', 'inflation', 'misinterpret', 'promiscuity', 'yawney', 'diego', 'batter', 'propagate', 'bream', 'bethesda', 'itout', 'jmd', 'strobe', 'ultraviolet', 'commentary']
+['workspace', 'seizure', 'withit', 'birthday', 'huntsville', 'dimension', 'gland', 'unavoidable', 'punch', 'creative', 'equation', 'frozen', 'ccd', 'jl', 'llbe']
+['remain', 'burt', 'syndicate', 'ingest', 'tenor', 'henry', 'weapon', 'duly', 'obese', 'becausehe', 'crypt', 'embrace', 'larry', 'canbe', 'thatthey']
+['dimension', 'bosnia', 'gnd', 'pk', 'jmd', 'shoulder', 'survivor', 'spectator', 'koutd', 'reese', 'retaliation', 'cd', 'shoot', 'nasa', 'tohave']
+['hwy', 'widget', 'brink', 'unwanted', 'bi', 'iwould', 'helsinki', 'undermine', 'tryingto', 'llbe', 'einstein', 'abomination', 'willtake', 'reseller', 'frightening']
+['abyss', 'workspace', 'andy', 'unofficial', 'detrimental', 'mutation', 'neutral', 'conclusion', 'newton', 'theuniverse', 'status', 'testify', 'theprocess', 'spill', 'continent']
+['bureaucracy', 'workspace', 'tuesday', 'jmd', 'kmail', 'carson', 'experimenter', 'mack', 'theability', 'usual', 'reposte', 'appal', 'andwould', 'verdict', 'unofficial']
+==============================
+topic diversity:0.85
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6536894929296834, c_w2v:None, c_uci:-9.926603304131094, c_npmi:-0.3570534991205857
+mimno topic coherence:-189.4759130725798
+Epoch  41	Iter    1	Loss_D:-0.1069703	Loss_G:83.0223312	loss_E:0.0428160
+Epoch  41	Iter   11	Loss_D:-0.1046237	Loss_G:82.1846695	loss_E:0.0406135
+Epoch  41	Iter   21	Loss_D:-0.1043629	Loss_G:81.3507996	loss_E:0.0405991
+Epoch  42	Iter    1	Loss_D:-0.1037356	Loss_G:80.5225220	loss_E:0.0399914
+Epoch  42	Iter   11	Loss_D:-0.1045909	Loss_G:79.6971741	loss_E:0.0409763
+Epoch  42	Iter   21	Loss_D:-0.1047089	Loss_G:78.8772659	loss_E:0.0410048
+Epoch  43	Iter    1	Loss_D:-0.1021255	Loss_G:78.0611115	loss_E:0.0385996
+Epoch  43	Iter   11	Loss_D:-0.1031543	Loss_G:77.2501907	loss_E:0.0395611
+Epoch  43	Iter   21	Loss_D:-0.1037389	Loss_G:76.4423904	loss_E:0.0403779
+Epoch  44	Iter    1	Loss_D:-0.1036551	Loss_G:75.6399155	loss_E:0.0402982
+Epoch  44	Iter   11	Loss_D:-0.1029133	Loss_G:74.8407288	loss_E:0.0397775
+Epoch  44	Iter   21	Loss_D:-0.1051653	Loss_G:74.0474319	loss_E:0.0418097
+Epoch  45	Iter    1	Loss_D:-0.1039695	Loss_G:73.2573242	loss_E:0.0407922
+Epoch  45	Iter   11	Loss_D:-0.1049249	Loss_G:72.4719849	loss_E:0.0418877
+Epoch  45	Iter   21	Loss_D:-0.1044951	Loss_G:71.6904907	loss_E:0.0417268
+Epoch  46	Iter    1	Loss_D:-0.1067659	Loss_G:70.9145203	loss_E:0.0441058
+Epoch  46	Iter   11	Loss_D:-0.1053032	Loss_G:70.1416016	loss_E:0.0427337
+Epoch  46	Iter   21	Loss_D:-0.1059171	Loss_G:69.3741608	loss_E:0.0432051
+Epoch  47	Iter    1	Loss_D:-0.1045392	Loss_G:68.6104889	loss_E:0.0418714
+Epoch  47	Iter   11	Loss_D:-0.1024379	Loss_G:67.8522720	loss_E:0.0393432
+Epoch  47	Iter   21	Loss_D:-0.1066305	Loss_G:67.0971832	loss_E:0.0434398
+Epoch  48	Iter    1	Loss_D:-0.1038423	Loss_G:66.3471375	loss_E:0.0405284
+Epoch  48	Iter   11	Loss_D:-0.1039346	Loss_G:65.6002731	loss_E:0.0409654
+Epoch  48	Iter   21	Loss_D:-0.1054649	Loss_G:64.8591156	loss_E:0.0425146
+Epoch  49	Iter    1	Loss_D:-0.1052451	Loss_G:64.1212921	loss_E:0.0425471
+Epoch  49	Iter   11	Loss_D:-0.1019067	Loss_G:63.3884964	loss_E:0.0392299
+Epoch  49	Iter   21	Loss_D:-0.1052399	Loss_G:62.6597061	loss_E:0.0424309
+Epoch  50	Iter    1	Loss_D:-0.1030433	Loss_G:61.9364433	loss_E:0.0399459
+Epoch  50	Iter   11	Loss_D:-0.1026001	Loss_G:61.2154617	loss_E:0.0399707
+Epoch  50	Iter   21	Loss_D:-0.1043725	Loss_G:60.5001602	loss_E:0.0416832
+Epoch  50	Loss_D_avg:-0.0954899	Loss_G_avg:129.8313523	loss_E_avg:0.0373540
+['fish', 'testify', 'jmd', 'jim', 'beneath', 'caddy', 'wallet', 'supplemental', 'stroke', 'desperate', 'hawaii', 'themost', 'swerve', 'procomm', 'xwindow']
+['ridiculously', 'tool', 'reputation', 'authority', 'connect', 'cooking', 'plutonium', 'mydisplay', 'operate', 'iwould', 'sultan', 'burt', 'plugger', 'dykstra', 'computing']
+['invader', 'restaurant', 'rifleman', 'khomeini', 'tool', 'assumethat', 'nodak', 'propagate', 'historical', 'utilization', 'thinkit', 'thoughti', 'eject', 'itbefore', 'buying']
+['verification', 'dykstra', 'icd', 'proud', 'minor', 'fusion', 'encoder', 'depict', 'lightweight', 'feb', 'optional', 'harley', 'maybe', 'mention', 'unconditional']
+['jmd', 'usual', 'saysthat', 'bellcore', 'eliminate', 'forpower', 'val', 'routinely', 'canon', 'cascade', 'adrian', 'ibid', 'pa', 'awd', 'hwy']
+['displace', 'employer', 'jmd', 'surrender', 'reread', 'wiener', 'optimistic', 'confuse', 'pex', 'ascertain', 'unofficial', 'moore', 'harrison', 'hisown', 'work']
+['conventional', 'pee', 'av', 'locale', 'hamilton', 'pluto', 'portability', 'marching', 'chamber', 'anonymous', 'tip', 'messiah', 'ppm', 'cursor', 'propagate']
+['jam', 'jl', 'displace', 'dykstra', 'academia', 'untenable', 'transformation', 'anal', 'objectively', 'oral', 'fide', 'radiosity', 'traction', 'pluto', 'pledge']
+['iwould', 'tip', 'differential', 'thefollowing', 'moe', 'fascism', 'epa', 'jmd', 'superior', 'progress', 'abidingcitizen', 'devout', 'individuality', 'xian', 'commentary']
+['jmd', 'motto', 'historical', 'freshman', 'pex', 'soundblaster', 'talk', 'sony', 'find', 'spectra', 'microcomputer', 'manipulation', 'scare', 'ibid', 'afghanistan']
+['workspace', 'hinder', 'decrease', 'fly', 'factory', 'involvement', 'conclusion', 'gridlock', 'jmd', 'correspondent', 'wager', 'asteroid', 'retract', 'probe', 'agenda']
+['jmd', 'employer', 'unofficial', 'iwould', 'njd', 'oil', 'disagree', 'removed', 'isa', 'quickly', 'fruit', 'ast', 'wallet', 'attributable', 'plausible']
+['reese', 'motto', 'intrepid', 'palace', 'grade', 'displace', 'toxicity', 'galactic', 'admire', 'operate', 'ofsome', 'newton', 'virtual', 'tip', 'deion']
+['testify', 'misinterpret', 'inflation', 'diego', 'promiscuity', 'bream', 'ultraviolet', 'yawney', 'itout', 'batter', 'balance', 'fast', 'bethesda', 'propagate', 'sell']
+['seizure', 'workspace', 'withit', 'huntsville', 'dimension', 'birthday', 'ccd', 'creative', 'equation', 'unavoidable', 'jl', 'frozen', 'gland', 'afghanistan', 'punch']
+['remain', 'burt', 'syndicate', 'ingest', 'becausehe', 'weapon', 'tenor', 'embrace', 'andy', 'duly', 'obese', 'wasthat', 'pa', 'thatthey', 'possiblethat']
+['gnd', 'dimension', 'jmd', 'retaliation', 'bosnia', 'shoulder', 'survivor', 'reese', 'spectator', 'cd', 'nasa', 'tohave', 'shoot', 'guardian', 'finalize']
+['unwanted', 'widget', 'bi', 'iwould', 'brink', 'hwy', 'helsinki', 'abomination', 'einstein', 'llbe', 'conclusive', 'frightening', 'tryingto', 'usual', 'inventory']
+['abyss', 'andy', 'workspace', 'detrimental', 'unofficial', 'conclusion', 'mutation', 'newton', 'neutral', 'theprocess', 'theuniverse', 'spill', 'status', 'secretive', 'testify']
+['workspace', 'bureaucracy', 'tuesday', 'jmd', 'experimenter', 'mack', 'carson', 'reposte', 'verdict', 'theability', 'usual', 'andwould', 'unofficial', 'kmail', 'agenda']
+==============================
+topic diversity:0.8366666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6537093572337895, c_w2v:None, c_uci:-9.866990124043856, c_npmi:-0.3545810714280474
+mimno topic coherence:-194.90684964521014
+topic diversity:0.8366666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6537093572337895, c_w2v:None, c_uci:-9.866990124043856, c_npmi:-0.3545810714280474
+mimno topic coherence:-194.90684964521014

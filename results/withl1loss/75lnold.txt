@@ -1,0 +1,1136 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7fab265f0550>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0005104	Loss_G:217.2461853	loss_E:-0.0029285
+Epoch   1	Iter   11	Loss_D:-0.0055498	Loss_G:215.8842621	loss_E:-0.0013186
+Epoch   1	Iter   21	Loss_D:-0.0119409	Loss_G:214.5254211	loss_E:0.0020291
+Epoch   2	Iter    1	Loss_D:-0.0133909	Loss_G:213.1685791	loss_E:0.0032915
+Epoch   2	Iter   11	Loss_D:-0.0223053	Loss_G:211.8178558	loss_E:0.0092676
+Epoch   2	Iter   21	Loss_D:-0.0311779	Loss_G:210.4729309	loss_E:0.0148760
+Epoch   3	Iter    1	Loss_D:-0.0335122	Loss_G:209.1289520	loss_E:0.0167087
+Epoch   3	Iter   11	Loss_D:-0.0417320	Loss_G:207.7928925	loss_E:0.0209197
+Epoch   3	Iter   21	Loss_D:-0.0502741	Loss_G:206.4609528	loss_E:0.0248807
+Epoch   4	Iter    1	Loss_D:-0.0517840	Loss_G:205.1301270	loss_E:0.0258719
+Epoch   4	Iter   11	Loss_D:-0.0585181	Loss_G:203.8057251	loss_E:0.0289349
+Epoch   4	Iter   21	Loss_D:-0.0644666	Loss_G:202.4872437	loss_E:0.0310871
+Epoch   5	Iter    1	Loss_D:-0.0653341	Loss_G:201.1691284	loss_E:0.0311572
+Epoch   5	Iter   11	Loss_D:-0.0698087	Loss_G:199.8578949	loss_E:0.0326407
+Epoch   5	Iter   21	Loss_D:-0.0736542	Loss_G:198.5504761	loss_E:0.0337050
+Epoch   6	Iter    1	Loss_D:-0.0758959	Loss_G:197.2464752	loss_E:0.0351488
+Epoch   6	Iter   11	Loss_D:-0.0787789	Loss_G:195.9469147	loss_E:0.0355657
+Epoch   6	Iter   21	Loss_D:-0.0816768	Loss_G:194.6525116	loss_E:0.0363017
+Epoch   7	Iter    1	Loss_D:-0.0833139	Loss_G:193.3603668	loss_E:0.0374797
+Epoch   7	Iter   11	Loss_D:-0.0849106	Loss_G:192.0744019	loss_E:0.0373835
+Epoch   7	Iter   21	Loss_D:-0.0872904	Loss_G:190.7918854	loss_E:0.0380958
+Epoch   8	Iter    1	Loss_D:-0.0885296	Loss_G:189.5129700	loss_E:0.0393190
+Epoch   8	Iter   11	Loss_D:-0.0897991	Loss_G:188.2386627	loss_E:0.0392968
+Epoch   8	Iter   21	Loss_D:-0.0907265	Loss_G:186.9698944	loss_E:0.0389936
+Epoch   9	Iter    1	Loss_D:-0.0913461	Loss_G:185.7040100	loss_E:0.0390589
+Epoch   9	Iter   11	Loss_D:-0.0929415	Loss_G:184.4426880	loss_E:0.0402324
+Epoch   9	Iter   21	Loss_D:-0.0945934	Loss_G:183.1863861	loss_E:0.0404657
+Epoch  10	Iter    1	Loss_D:-0.0939192	Loss_G:181.9341278	loss_E:0.0397767
+Epoch  10	Iter   11	Loss_D:-0.0955587	Loss_G:180.6852417	loss_E:0.0407663
+Epoch  10	Iter   21	Loss_D:-0.0952033	Loss_G:179.4417267	loss_E:0.0398890
+Epoch  10	Loss_D_avg:-0.0639481	Loss_G_avg:198.0562297	loss_E_avg:0.0282966
+['harbor', 'dxf', 'out', 'wet', 'forgot', 'kenny', 'network', 'wholly', 'exec', 'pretext', 'import', 'notorious', 'phig', 'distinctly', 'certainty']
+['rhetorical', 'ussr', 'symmetric', 'gifs', 'amd', 'grossly', 'investigator', 'foia', 'puncture', 'pathetic', 'blatant', 'manson', 'mute', 'dsp', 'upcoming']
+['redwood', 'helper', 'wrap', 'retreat', 'saviour', 'ora', 'negligent', 'finish', 'blatant', 'donation', 'speedo', 'radar', 'mostpeople', 'difference', 'due']
+['trunk', 'lm', 'thisarticle', 'pb', 'unopened', 'incapable', 'tenure', 'ts', 'octopus', 'descarte', 'boat', 'gamble', 'ussr', 'astronomy', 'vz']
+['wrap', 'ussr', 'trunk', 'ocean', 'deterrent', 'cradle', 'mindset', 'pe', 'citizenry', 'dispatch', 'brutality', 'shake', 'depletion', 'reinforce', 'restrain']
+['handlebar', 'gifs', 'subroutine', 'operator', 'venerable', 'qs', 'tellme', 'harbor', 'clement', 'success', 'arithmetic', 'rahul', 'nyt', 'negotiation', 'publicly']
+['hm', 'donation', 'trw', 'realm', 'trunk', 'wasthe', 'perfectly', 'due', 'expense', 'igor', 'ergonomic', 'dysfunction', 'crypt', 'hater', 'revelation']
+['mostpeople', 'butthere', 'crypt', 'neatly', 'mother', 'hm', 'new', 'gifs', 'acronym', 'difference', 'jack', 'forother', 'jonestown', 'rahul', 'ml']
+['emperor', 'trunk', 'fine', 'havealready', 'thought', 'certainty', 'headquarters', 'photography', 'odger', 'den', 'automate', 'controller', 'icon', 'aresome', 'subdivision']
+['superset', 'theory', 'certainty', 'harbor', 'boomer', 'odger', 'bombard', 'authoritative', 'incapable', 'wolfe', 'intolerant', 'smartdrv', 'soda', 'brutality', 'honestly']
+['graph', 'wallow', 'youneed', 'refrain', 'analogous', 'forabout', 'accessible', 'deterrent', 'sunday', 'capture', 'madison', 'satanic', 'pennsylvania', 'dimension', 'notwithstanding']
+['exception', 'gifs', 'mist', 'forgot', 'ml', 'ice', 'centrally', 'critic', 'distinctly', 'applicable', 'combination', 'jan', 'hic', 'madison', 'divorce']
+['terribly', 'disgusted', 'neatly', 'clark', 'x.', 'unofficial', 'manhattan', 'colleague', 'rahul', 'eh', 'whatexactly', 'jonestown', 'negotiation', 'authenticity', 'congratulation']
+['atm', 'mud', 'iftccu', 'harbor', 'gadget', 'uxa', 'lifetime', 'isbn', 'deliberation', 'thick', 'flat', 'thermodynamic', 'neatly', 'onit', 'women']
+['marc', 'scarolina', 'quiet', 'jonestown', 'groin', 'gifs', 'theseare', 'regard', 'bombard', 'arithmetic', 'cracker', 'african', 'mute', 'immunity', 'wi']
+['madison', 'hellman', 'qualifying', 'mysterious', 'experimentation', 'silicon', 'withyou', 'groin', 'simon', 'noteworthy', 'trunk', 'ck', 'contractor', 'photography', 'blaster']
+['handlebar', 'compel', 'evangelism', 'jonestown', 'mist', 'slmr', 'charles', 'thatwill', 'pex', 'subscribe', 'trunk', 'oe', 'density', 'yushkevich', 'wi']
+['pit', 'thenazi', 'dime', 'carroll', 'perception', 'deliberation', 'excuse', 'hold', 'overpay', 'sociology', 'jonestown', 'angele', 'superset', 'guarantee', 'theyhad']
+['disgusted', 'trunk', 'thispoint', 'anticipate', 'ini', 'dysfunction', 'centris', 'youget', 'testing', 'improved', 'subdivision', 'outskirt', 'gateway', 'cw', 'jonestown']
+['superset', 'peek', 'gazan', 'cuba', 'flat', 'theory', 'foolishness', 'terrestrial', 'tj', 'notan', 'itbefore', 'lib', 'ussr', 'acronym', 'theisraeli']
+['dime', 'flat', 'pit', 'lbs', 'hartford', 'deterrent', 'pretext', 'illusion', 'allude', 'zalapski', 'zp', 'mutually', 'ahh', 'foolishness', 'linear']
+['superset', 'handlebar', 'publicly', 'aim', 'trunk', 'operating', 'front', 'crypt', 'pink', 'fantastic', 'madison', 'yushkevich', 'boomer', 'tome', 'baseball']
+['mostpeople', 'trunk', 'harbor', 'administer', 'awarethat', 'bombard', 'makesure', 'knife', 'gifs', 'ml', 'madison', 'ultrasound', 'dmm', 'share', 'executive']
+['gifs', 'neatly', 'redwood', 'wrap', 'instruct', 'hellman', 'misconception', 'pornography', 'pow', 'forabout', 'warrantee', 'abidingcitizen', 'jone', 'blatant', 'pex']
+['trunk', 'template', 'jonestown', 'gt', 'dispense', 'groin', 'deir', 'occult', 'dime', 'instinct', 'brief', 'transmitter', 'poulin', 'atm', 'determined']
+['redwood', 'yes', 'trunk', 'trw', 'den', 'saviour', 'dispense', 'thatwill', 'israelite', 'worse', 'ld', 'carroll', 'perfectly', 'terribly', 'elapse']
+['gifs', 'clutch', 'berlin', 'laboratory', 'remedy', 'gw', 'xnew', 'fabrication', 'stacker', 'deir', 'ps', 'frontal', 'israelite', 'geek', 'soda']
+['possiblethat', 'eclipse', 'spout', 'donation', 'superset', 'gup', 'trunk', 'neatly', 'megatek', 'necessitate', 'thiscountry', 'prof', 'mud', 'lotof', 'redeem']
+['wecan', 'import', 'onit', 'terribly', 'pink', 'sunday', 'sociology', 'blew', 'yl', 'ding', 'jonestown', 'forabout', 'weight', 'triangulation', 'themajority']
+['wolfe', 'cu', 'irish', 'template', 'demonstrator', 'hextall', 'neatly', 'et', 'ephemeris', 'jonestown', 'wrap', 'scout', 'grocery', 'beam', 'og']
+['achieve', 'instigate', 'den', 'william', 'hesaid', 'mission', 'carroll', 'theonly', 'obo', 'peaceful', 'michael', 'pool', 'airborne', 'transparent', 'div']
+['deir', 'becausei', 'capture', 'centris', 'terrestrial', 'fahrenheit', 'sine', 'damphousse', 'wt', 'elm', 'umd', 'customer', 'decision', 'job', 'resurrection']
+['retract', 'drop', 'honestly', 'exceed', 'tokill', 'dk', 'onit', 'lattice', 'ussr', 'let', 'relief', 'mis', 'master', 'combination', 'density']
+['participation', 'wrap', 'divorce', 'gup', 'madison', 'element', 'condom', 'jonestown', 'loc', 'secret', 'buddy', 'projectile', 'zp', 'pool', 'robitaille']
+['armature', 'manson', 'bureaucrat', 'hm', 'flat', 'perfectly', 'irish', 'europe', 'weekly', 'jazz', 'neighbor', 'qualifying', 'acknowledgement', 'ocean', 'somethinglike']
+['layer', 'sunday', 'handlebar', 'decision', 'iguess', 'contender', 'dispatch', 'qualifying', 'instigate', 'project', 'keen', 'seminary', 'redwood', 'voltmeter', 'jrm']
+['sullivan', 'bay', 'fatigue', 'backlit', 'pwu', 'subroutine', 'psychologist', 'xor', 'hartford', 'nyt', 'sheesh', 'molester', 'accordingly', 'export', 'handlebar']
+['transmitter', 'jonestown', 'twm', 'pornography', 'cry', 'certainty', 'blew', 'uxa', 'brutality', 'removable', 'customer', 'illinois', 'carpet', 'sure', 'hatch']
+['thanthe', 'thejew', 'reagan', 'sunday', 'cy', 'diary', 'peaceful', 'deir', 'mist', 'daytime', 'cor', 'rink', 'juneau', 'peek', 'damphousse']
+['decision', 'zalapski', 'certainty', 'ts', 'onit', 'import', 'bureaucrat', 'cen', 'geek', 'restore', 'ml', 'ephemeris', 'investigator', 'thesource', 'plunder']
+['gifs', 'job', 'faust', 'peek', 'front', 'gardner', 'thenazi', 'trunk', 'supra', 'pex', 'kong', 'angele', 'gazan', 'limited', 'brief']
+['removable', 'sjust', 'pitcher', 'redwood', 'aresome', 'thepeople', 'dissemination', 'restaurant', 'aim', 'dread', 'db', 'wt', 'modest', 'mega', 'io']
+['acknowledgement', 'zp', 'gifs', 'makesure', 'solo', 'neatly', 'umanitoba', 'paradox', 'icon', 'owen', 'lake', 'analyst', 'wantsto', 'qtm', 'ahl']
+['interplanetary', 'trunk', 'fisk', 'meaningof', 'neatly', 'regenerate', 'zalapski', 'yes', 'torque', 'saddle', 'patriot', 'job', 'div', 'noon', 'perfectly']
+['qualifying', 'acknowledgement', 'hominem', 'wild', 'cunneyworth', 'mostpeople', 'yl', 'prosecutor', 'gifs', 'trunk', 'ireland', 'reichel', 'difference', 'liberty', 'eklund']
+['cipher', 'donation', 'trunk', 'tim', 'duly', 'gifs', 'trust', 'xnew', 'colonel', 'verbal', 'makethe', 'usa', 'acknowledgement', 'me', 'sarcastic']
+['havealready', 'shopping', 'respectfully', 'feminist', 'participation', 'leverage', 'yushkevich', 'carroll', 'thermodynamic', 'administer', 'agood', 'newgroup', 'uk', 'daytime', 'diet']
+['boxer', 'cartridge', 'lk', 'ahh', 'relativity', 'imagemagick', 'thisarticle', 'antibiotic', 'white', 'ml', 'youneed', 'pathetic', 'incandescent', 'lag', 'obligation']
+['baseball', 'dysfunction', 'beautiful', 'operator', 'iowa', 'woofe', 'deir', 'backto', 'macintosh', 'buddy', 'jeep', 'deterrent', 'ariane', 'template', 'participation']
+['peaceful', 'contender', 'job', 'geek', 'template', 'odger', 'basic', 'flat', 'latin', 'transformer', 'wc', 'harbor', 'phig', 'whichha', 'breaking']
+['trunk', 'wrap', 'healthy', 'employer', 'resurrection', 'ussr', 'achieve', 'llbe', 'shopping', 'shipment', 'owen', 'nhs', 'limited', 'dime', 'metaphysical']
+['lucifer', 'jone', 'superset', 'foot', 'hold', 'foolishness', 'thiscountry', 'x.', 'ofcourse', 'establish', 'thermodynamic', 'lindbergh', 'redwood', 'saddle', 'shalala']
+['ashton', 'limited', 'mac', 'newgroup', 'geek', 'pgh', 'yl', 'qualifying', 'cardinal', 'perfectly', 'honestly', 'sister', 'aerial', 'gifs', 'financially']
+['symmetric', 'gifs', 'peek', 'secretly', 'compress', 'qualifying', 'relay', 'bribe', 'onit', 'careful', 'somepeople', 'doi', 'customer', 'importance', 'trunk']
+['limited', 'tasking', 'ahh', 'truetype', 'tribe', 'ussr', 'cargo', 'thenazi', 'wysiwyg', 'wallow', 'signify', 'scenery', 'superset', 'leverage', 'program']
+['yl', 'excuse', 'harold', 'employer', 'marry', 'ck', 'pass', 'crypt', 'agood', 'dispatch', 'smoothly', 'berman', 'frontal', 'ofisrael', 'wholly']
+['boomer', 'xnew', 'x.', 'big', 'sunday', 'market', 'chilling', 'toss', 'deterrent', 'ermeni', 'thephone', 'ucsb', 'hellman', 'lunar', 'mostpeople']
+['sure', 'knife', 'front', 'isbn', 'becalle', 'puncture', 'gamble', 'racism', 'gifs', 'template', 'juneau', 'donation', 'pb', 'subscriber', 'deflate']
+['workable', 'zen', 'somethinglike', 'tone', 'ml', 'gifs', 'prosecutor', 'wail', 'theory', 'employer', 'trick', 'hewlett', 'gerald', 'pink', 'subdivision']
+['wrap', 'cryptanalytic', 'pax', 'graphical', 'layer', 'lake', 'excess', 'new', 'difference', 'acknowledgement', 'feeder', 'peaceful', 'hextall', 'discover', 'project']
+['ml', 'lattice', 'layer', 'marc', 'jack', 'leftover', 'armature', 'engineer', 'frontal', 'silverline', 'intention', 'interplanetary', 'theisraeli', 'symmetric', 'figure']
+['owen', 'wrap', 'talking', 'unit', 'feminist', 'flat', 'moore', 'shake', 'russell', 'mist', 'div', 'redwood', 'unopened', 'prohibition', 'familiarwith']
+['perpetuate', 'fatigue', 'considerable', 'lake', 'goingto', 'angular', 'fw', 'applicable', 'conventional', 'artificial', 'standalone', 'import', 'duane', 'disgust', 'youwant']
+['me', 'density', 'shape', 'thermostat', 'aug', 'anonymous', 'cartridge', 'lindbergh', 'filename', 'cleaner', 'perpendicular', 'acceptable', 'rahul', 'stortek', 'span']
+['congratulation', 'endif', 'subroutine', 'thay', 'interplanetary', 'daigle', 'isa', 'carroll', 'generate', 'berne', 'inflict', 'agood', 'helper', 'elm', 'pink']
+['certainty', 'incriminate', 'bogus', 'zur', 'zp', 'ini', 'restore', 'mud', 'casserole', 'average', 'workable', 'mindset', 'scope', 'unjust', 'nelson']
+['hal', 'foreground', 'bya', 'thejew', 'hatch', 'peaceful', 'repent', 'withit', 'madison', 'mostpeople', 'terrestrial', 'pax', 'handlebar', 'hisown', 'znh']
+['soda', 'certainty', 'gifs', 'mush', 'privileged', 'obscurity', 'gadget', 'x.', 'blatantly', 'trunk', 'new', 'known', 'aim', 'eklund', 'relay']
+['quart', 'sheriff', 'honestly', 'pax', 'juneau', 'sjust', 'outline', 'libertarianism', 'peaceful', 'care', 'disgust', 'limited', 'pole', 'redwood', 'flamed']
+['william', 'deir', 'lisa', 'earn', 'dxf', 'eternally', 'torque', 'brutality', 'ext', 'dysfunction', 'mixer', 'ussr', 'front', 'automate', 'aug']
+['carroll', 'certainty', 'ultrasound', 'hacker', 'madison', 'crypt', 'rhetoric', 'symmetric', 'template', 'cbr', 'demise', 'thesun', 'wt', 'cartridge', 'informationabout']
+['buster', 'saddle', 'flat', 'bombard', 'dtmedin', 'dare', 'achieve', 'mist', 'amd', 'crony', 'kaiser', 'owen', 'fabrication', 'ml', 'chilling']
+['considerable', 'wasthe', 'certainty', 'tom', 'insignificant', 'deterrent', 'relativity', 'ussr', 'weapon', 'regenerate', 'lindbergh', 'subdirectory', 'graphical', 'jude', 'convention']
+['average', 'certainty', 'baseball', 'channel', 'peek', 'cry', 'workable', 'new', 'mud', 'stricken', 'privileged', 'standalone', 'intrigue', 'rendezvous', 'donation']
+['contaminate', 'antibiotic', 'bureaucrat', 'intend', 'wasthe', 'lucifer', 'cen', 'lindbergh', 'intro', 'ussr', 'seagate', 'oxide', 'harbor', 'minded', 'tellme']
+==============================
+topic diversity:0.5831111111111111
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6567758105784438, c_w2v:None, c_uci:-9.92112230309492, c_npmi:-0.35712809928707245
+mimno topic coherence:-198.67126732592925
+Epoch  11	Iter    1	Loss_D:-0.0967916	Loss_G:178.2019196	loss_E:0.0413037
+Epoch  11	Iter   11	Loss_D:-0.0967740	Loss_G:176.9673767	loss_E:0.0408763
+Epoch  11	Iter   21	Loss_D:-0.0978862	Loss_G:175.7364960	loss_E:0.0413258
+Epoch  12	Iter    1	Loss_D:-0.0976149	Loss_G:174.5105743	loss_E:0.0406213
+Epoch  12	Iter   11	Loss_D:-0.0981028	Loss_G:173.2875977	loss_E:0.0410122
+Epoch  12	Iter   21	Loss_D:-0.0988492	Loss_G:172.0709686	loss_E:0.0410209
+Epoch  13	Iter    1	Loss_D:-0.0981115	Loss_G:170.8570862	loss_E:0.0402177
+Epoch  13	Iter   11	Loss_D:-0.0995224	Loss_G:169.6480255	loss_E:0.0414188
+Epoch  13	Iter   21	Loss_D:-0.0971875	Loss_G:168.4437714	loss_E:0.0380572
+Epoch  14	Iter    1	Loss_D:-0.1002275	Loss_G:167.2438507	loss_E:0.0412030
+Epoch  14	Iter   11	Loss_D:-0.0983959	Loss_G:166.0470428	loss_E:0.0391273
+Epoch  14	Iter   21	Loss_D:-0.1011719	Loss_G:164.8559265	loss_E:0.0413275
+Epoch  15	Iter    1	Loss_D:-0.0984043	Loss_G:163.6680756	loss_E:0.0388156
+Epoch  15	Iter   11	Loss_D:-0.1005136	Loss_G:162.4865265	loss_E:0.0398665
+Epoch  15	Iter   21	Loss_D:-0.1018056	Loss_G:161.3079376	loss_E:0.0405244
+Epoch  16	Iter    1	Loss_D:-0.1013793	Loss_G:160.1334534	loss_E:0.0406470
+Epoch  16	Iter   11	Loss_D:-0.1006657	Loss_G:158.9634399	loss_E:0.0393087
+Epoch  16	Iter   21	Loss_D:-0.1016409	Loss_G:157.7987213	loss_E:0.0400576
+Epoch  17	Iter    1	Loss_D:-0.1009509	Loss_G:156.6369171	loss_E:0.0395958
+Epoch  17	Iter   11	Loss_D:-0.1013650	Loss_G:155.4811554	loss_E:0.0390891
+Epoch  17	Iter   21	Loss_D:-0.1010797	Loss_G:154.3279266	loss_E:0.0393204
+Epoch  18	Iter    1	Loss_D:-0.1010454	Loss_G:153.1814575	loss_E:0.0384821
+Epoch  18	Iter   11	Loss_D:-0.1019200	Loss_G:152.0368805	loss_E:0.0393894
+Epoch  18	Iter   21	Loss_D:-0.1014731	Loss_G:150.8984070	loss_E:0.0382998
+Epoch  19	Iter    1	Loss_D:-0.1002578	Loss_G:149.7630463	loss_E:0.0372470
+Epoch  19	Iter   11	Loss_D:-0.1035786	Loss_G:148.6336212	loss_E:0.0399367
+Epoch  19	Iter   21	Loss_D:-0.1030572	Loss_G:147.5074005	loss_E:0.0388693
+Epoch  20	Iter    1	Loss_D:-0.1016786	Loss_G:146.3855286	loss_E:0.0378179
+Epoch  20	Iter   11	Loss_D:-0.1061708	Loss_G:145.2676697	loss_E:0.0419220
+Epoch  20	Iter   21	Loss_D:-0.1007944	Loss_G:144.1543579	loss_E:0.0373356
+Epoch  20	Loss_D_avg:-0.0821143	Loss_G_avg:179.4698341	loss_E_avg:0.0340489
+['harbor', 'wet', 'out', 'dxf', 'forgot', 'kenny', 'exec', 'pretext', 'network', 'certainty', 'cartridge', 'wholly', 'import', 'notorious', 'groin']
+['rhetorical', 'ussr', 'symmetric', 'gifs', 'grossly', 'amd', 'investigator', 'blatant', 'puncture', 'ice', 'dsp', 'slam', 'mute', 'upcoming', 'ron']
+['redwood', 'helper', 'speedo', 'retreat', 'negligent', 'wrap', 'ora', 'finish', 'saviour', 'blatant', 'radar', 'ithought', 'mostpeople', 'difference', 'damphousse']
+['trunk', 'lm', 'thisarticle', 'achieve', 'ts', 'unopened', 'tenure', 'pb', 'boat', 'astronomy', 'octopus', 'majestic', 'gamble', 'incapable', 'linear']
+['wrap', 'trunk', 'ussr', 'deterrent', 'ocean', 'mindset', 'cradle', 'pe', 'citizenry', 'uw', 'restrain', 'iis', 'shake', 'ice', 'waco']
+['handlebar', 'gifs', 'operator', 'subroutine', 'qs', 'harbor', 'venerable', 'tuesday', 'tellme', 'gadget', 'clement', 'success', 'ihad', 'arithmetic', 'zp']
+['hm', 'donation', 'realm', 'trunk', 'trw', 'perfectly', 'due', 'wasthe', 'revelation', 'ergonomic', 'eg', 'igor', 'expense', 'verbal', 'crypt']
+['butthere', 'mostpeople', 'neatly', 'crypt', 'gifs', 'hm', 'mother', 'new', 'jack', 'difference', 'acronym', 'forother', 'jonestown', 'rahul', 'corner']
+['emperor', 'trunk', 'havealready', 'fine', 'thought', 'odger', 'photography', 'aresome', 'headquarters', 'jude', 'den', 'regenerate', 'automate', 'certainty', 'subdivision']
+['certainty', 'harbor', 'theory', 'superset', 'boomer', 'soda', 'odger', 'bombard', 'ml', 'iis', 'wolfe', 'honestly', 'authoritative', 'gifs', 'intolerant']
+['graph', 'youneed', 'refrain', 'wallow', 'analogous', 'accessible', 'forabout', 'deterrent', 'sunday', 'satanic', 'dimension', 'madison', 'psychologist', 'amal', 'notwithstanding']
+['exception', 'gifs', 'mist', 'ice', 'forgot', 'ml', 'critic', 'centrally', 'new', 'hic', 'combination', 'madison', 'erich', 'approval', 'applicable']
+['terribly', 'disgusted', 'neatly', 'clark', 'rahul', 'manhattan', 'whatexactly', 'unofficial', 'x.', 'bribe', 'eh', 'jonestown', 'relief', 'authenticity', 'agood']
+['atm', 'iftccu', 'mud', 'harbor', 'gadget', 'uxa', 'isbn', 'deliberation', 'flat', 'lifetime', 'thick', 'owen', 'aresome', 'neatly', 'onit']
+['quiet', 'marc', 'cracker', 'immunity', 'jonestown', 'scarolina', 'groin', 'gifs', 'wi', 'lindbergh', 'theseare', 'regard', 'mute', 'ron', 'relief']
+['madison', 'hellman', 'qualifying', 'experimentation', 'mysterious', 'withyou', 'silicon', 'ck', 'groin', 'contractor', 'noteworthy', 'simon', 'photography', 'trunk', 'blaster']
+['handlebar', 'compel', 'jonestown', 'slmr', 'mist', 'evangelism', 'charles', 'explain', 'thatwill', 'trunk', 'subscribe', 'pex', 'yushkevich', 'earn', 'pow']
+['pit', 'dime', 'thenazi', 'excuse', 'deliberation', 'overpay', 'redwood', 'carroll', 'theyhad', 'perception', 'hold', 'superset', 'minded', 'stacker', 'phosphor']
+['disgusted', 'trunk', 'ini', 'thispoint', 'gateway', 'centris', 'subdivision', 'improved', 'anticipate', 'kaiser', 'outskirt', 'jonestown', 'testing', 'atlas', 'certainty']
+['superset', 'peek', 'gazan', 'tj', 'foolishness', 'terrestrial', 'flat', 'itbefore', 'theory', 'notan', 'cuba', 'acronym', 'deterrent', 'lengthy', 'ussr']
+['pit', 'dime', 'flat', 'pretext', 'lbs', 'zp', 'hartford', 'allude', 'zalapski', 'deterrent', 'illusion', 'foolishness', 'rhetoric', 'xcreatecolormap', 'dpy']
+['handlebar', 'superset', 'publicly', 'front', 'aim', 'operating', 'trunk', 'boomer', 'pink', 'crypt', 'sine', 'madison', 'tome', 'baseball', 'yushkevich']
+['mostpeople', 'trunk', 'harbor', 'administer', 'awarethat', 'bombard', 'makesure', 'madison', 'knife', 'gifs', 'share', 'adaptation', 'ml', 'underwear', 'ultrasound']
+['gifs', 'redwood', 'neatly', 'instruct', 'hellman', 'warrantee', 'wrap', 'cryptanalytic', 'pex', 'standalone', 'jone', 'abidingcitizen', 'shipment', 'legion', 'intrigue']
+['trunk', 'jonestown', 'template', 'deir', 'occult', 'dispense', 'gt', 'groin', 'dime', 'poulin', 'determined', 'commerce', 'brief', 'atm', 'kozlov']
+['redwood', 'yes', 'trunk', 'trw', 'den', 'saviour', 'chipto', 'israelite', 'perfectly', 'thatwill', 'ld', 'dispense', 'worse', 'majestic', 'carroll']
+['gifs', 'clutch', 'berlin', 'laboratory', 'stacker', 'remedy', 'fabrication', 'israelite', 'xnew', 'frontal', 'gw', 'deir', 'ps', 'soda', 'science']
+['possiblethat', 'spout', 'eclipse', 'donation', 'superset', 'trunk', 'gup', 'neatly', 'megatek', 'thiscountry', 'necessitate', 'zp', 'prof', 'fu', 'mud']
+['wecan', 'onit', 'import', 'terribly', 'pink', 'blew', 'sunday', 'yl', 'jonestown', 'sociology', 'forabout', 'ice', 'triangulation', 'ding', 'coalition']
+['irish', 'wolfe', 'cu', 'template', 'hextall', 'demonstrator', 'wrap', 'scout', 'jonestown', 'ephemeris', 'lake', 'explosive', 'et', 'shape', 'beam']
+['den', 'achieve', 'instigate', 'william', 'mission', 'hesaid', 'peaceful', 'gmq', 'theonly', 'carroll', 'pretext', 'michael', 'gifs', 'obo', 'rli']
+['deir', 'becausei', 'capture', 'centris', 'terrestrial', 'wt', 'fahrenheit', 'sine', 'damphousse', 'elm', 'job', 'marc', 'umd', 'customer', 'evidently']
+['retract', 'drop', 'honestly', 'dk', 'onit', 'exceed', 'tokill', 'lattice', 'relief', 'ussr', 'chipto', 'harddisk', 'task', 'projectile', 'master']
+['participation', 'gup', 'wrap', 'madison', 'zp', 'condom', 'jonestown', 'buddy', 'robitaille', 'element', 'projectile', 'secret', 'straighten', 'divorce', 'trunk']
+['armature', 'bureaucrat', 'flat', 'manson', 'hm', 'weekly', 'europe', 'perfectly', 'irish', 'jazz', 'ocean', 'neighbor', 'acknowledgement', 'qualifying', 'somethinglike']
+['layer', 'iguess', 'handlebar', 'decision', 'jrm', 'sunday', 'keen', 'contender', 'seminary', 'redwood', 'qualifying', 'lindbergh', 'voltmeter', 'instigate', 'verbal']
+['sullivan', 'bay', 'backlit', 'fatigue', 'pwu', 'sheesh', 'nyt', 'psychologist', 'hartford', 'subroutine', 'accordingly', 'chuck', 'xor', 'cardinal', 'molester']
+['jonestown', 'transmitter', 'pornography', 'twm', 'blew', 'removable', 'cry', 'customer', 'uxa', 'strongly', 'sure', 'brutality', 'eclipse', 'urgent', 'certainty']
+['thanthe', 'thejew', 'sunday', 'reagan', 'cy', 'diary', 'deir', 'peaceful', 'peek', 'mist', 'rink', 'daytime', 'juneau', 'cor', 'vj']
+['zalapski', 'certainty', 'decision', 'onit', 'ts', 'import', 'bureaucrat', 'ml', 'restore', 'layer', 'plunder', 'thesource', 'ephemeris', 'cen', 'goingto']
+['gifs', 'job', 'faust', 'peek', 'front', 'gardner', 'supra', 'trunk', 'thenazi', 'kong', 'angele', 'pex', 'gazan', 'yl', 'brief']
+['redwood', 'removable', 'aresome', 'sjust', 'pitcher', 'aim', 'restaurant', 'thepeople', 'modest', 'io', 'dread', 'jonestown', 'fisk', 'wt', 'db']
+['acknowledgement', 'zp', 'gifs', 'neatly', 'makesure', 'owen', 'analyst', 'lake', 'odger', 'paradox', 'solo', 'icon', 'qtm', 'singing', 'ahl']
+['interplanetary', 'trunk', 'fisk', 'meaningof', 'regenerate', 'zalapski', 'patriot', 'torque', 'neatly', 'saddle', 'noon', 'verbal', 'yes', 'perfectly', 'qs']
+['acknowledgement', 'qualifying', 'yl', 'hominem', 'wild', 'cunneyworth', 'gifs', 'prosecutor', 'mostpeople', 'difference', 'clone', 'agood', 'trunk', 'casual', 'buddy']
+['donation', 'trunk', 'cipher', 'tim', 'verbal', 'gifs', 'trust', 'duly', 'makethe', 'usually', 'usa', 'xnew', 'brief', 'famine', 'colonel']
+['havealready', 'shopping', 'leverage', 'yushkevich', 'feminist', 'respectfully', 'carroll', 'administer', 'thermodynamic', 'participation', 'agood', 'newgroup', 'omit', 'diet', 'snuff']
+['boxer', 'cartridge', 'lk', 'ahh', 'wt', 'cryptanalytic', 'yl', 'lag', 'ml', 'berman', 'antibiotic', 'imagemagick', 'incandescent', 'relativity', 'puncture']
+['dysfunction', 'operator', 'iowa', 'baseball', 'beautiful', 'deir', 'buddy', 'backto', 'macintosh', 'woofe', 'participation', 'lindbergh', 'ariane', 'kelly', 'deterrent']
+['peaceful', 'job', 'contender', 'template', 'geek', 'odger', 'transformer', 'harbor', 'basic', 'whichha', 'jack', 'flat', 'oiler', 'gemini', 'feminist']
+['trunk', 'healthy', 'wrap', 'employer', 'achieve', 'resurrection', 'ussr', 'nhs', 'llbe', 'owen', 'shopping', 'metaphysical', 'shipment', 'relay', 'dread']
+['lucifer', 'jone', 'superset', 'foot', 'lindbergh', 'thiscountry', 'redwood', 'shalala', 'x.', 'ofcourse', 'groin', 'foolishness', 'establish', 'josephu', 'hold']
+['ashton', 'mac', 'yl', 'limited', 'newgroup', 'cardinal', 'qualifying', 'pgh', 'geek', 'gifs', 'perfectly', 'jonestown', 'honestly', 'speedo', 'lengthy']
+['symmetric', 'gifs', 'peek', 'secretly', 'compress', 'onit', 'relay', 'bribe', 'qualifying', 'customer', 'applicable', 'careful', 'importance', 'minded', 'jone']
+['tasking', 'ahh', 'truetype', 'tribe', 'limited', 'cargo', 'ussr', 'wysiwyg', 'thenazi', 'signify', 'program', 'minded', 'wallow', 'thatwill', 'lag']
+['yl', 'excuse', 'employer', 'harold', 'pass', 'ck', 'marry', 'berman', 'agood', 'crypt', 'dispatch', 'ofisrael', 'smoothly', 'frontal', 'wholly']
+['xnew', 'boomer', 'x.', 'sunday', 'big', 'market', 'hellman', 'toss', 'chilling', 'thephone', 'ermeni', 'deterrent', 'regenerate', 'new', 'ucsb']
+['sure', 'knife', 'front', 'isbn', 'gifs', 'racism', 'aim', 'juneau', 'puncture', 'pb', 'subscriber', 'gamble', 'apr', 'becalle', 'agood']
+['somethinglike', 'workable', 'gifs', 'ml', 'tone', 'zen', 'prosecutor', 'wail', 'pink', 'employer', 'theory', 'hewlett', 'gerald', 'subdivision', 'reputation']
+['wrap', 'cryptanalytic', 'pax', 'graphical', 'lake', 'layer', 'new', 'excess', 'acknowledgement', 'difference', 'discover', 'hextall', 'relay', 'peaceful', 'deliberation']
+['layer', 'ml', 'jack', 'lattice', 'silverline', 'marc', 'interplanetary', 'leftover', 'armature', 'engineer', 'symmetric', 'theisraeli', 'frontal', 'intention', 'toss']
+['wrap', 'owen', 'talking', 'feminist', 'unit', 'flat', 'shake', 'moore', 'russell', 'unopened', 'mist', 'redwood', 'prohibition', 'familiarwith', 'ofpeople']
+['perpetuate', 'fatigue', 'lake', 'considerable', 'goingto', 'angular', 'applicable', 'wet', 'fw', 'artificial', 'conventional', 'improved', 'duane', 'automate', 'standalone']
+['me', 'thermostat', 'shape', 'density', 'aug', 'anonymous', 'cartridge', 'perpendicular', 'bulldozer', 'lindbergh', 'initiative', 'acceptable', 'armature', 'span', 'cleaner']
+['congratulation', 'thay', 'endif', 'interplanetary', 'subroutine', 'carroll', 'daigle', 'agood', 'generate', 'berne', 'inflict', 'pink', 'isa', 'helper', 'shutdown']
+['certainty', 'incriminate', 'ini', 'bogus', 'zur', 'restore', 'mindset', 'casserole', 'zp', 'unjust', 'average', 'mud', 'bin', 'athlete', 'isjust']
+['hal', 'foreground', 'hatch', 'thejew', 'peaceful', 'bya', 'pax', 'withit', 'mostpeople', 'handlebar', 'repent', 'hisown', 'madison', 'terrestrial', 'agood']
+['certainty', 'soda', 'gifs', 'privileged', 'mush', 'x.', 'new', 'gadget', 'aim', 'trunk', 'thegreek', 'relay', 'eklund', 'blatantly', 'obscurity']
+['quart', 'sheriff', 'honestly', 'pax', 'sjust', 'juneau', 'peaceful', 'redwood', 'deir', 'master', 'care', 'outline', 'riot', 'flamed', 'peek']
+['william', 'deir', 'torque', 'eternally', 'lisa', 'brutality', 'earn', 'dxf', 'ext', 'becausei', 'ussr', 'ofisrael', 'ld', 'automate', 'angele']
+['carroll', 'ultrasound', 'certainty', 'hacker', 'madison', 'crypt', 'rhetoric', 'symmetric', 'wt', 'informationabout', 'cartridge', 'groin', 'psychologist', 'thesun', 'cbr']
+['flat', 'buster', 'achieve', 'saddle', 'bombard', 'dare', 'mist', 'ron', 'dtmedin', 'amd', 'biblical', 'owen', 'kaiser', 'fabrication', 'adirondack']
+['certainty', 'considerable', 'insignificant', 'deterrent', 'wasthe', 'tom', 'weapon', 'lindbergh', 'ussr', 'relativity', 'regenerate', 'subdirectory', 'jude', 'convention', 'majestic']
+['average', 'channel', 'certainty', 'baseball', 'new', 'cry', 'standalone', 'peek', 'privileged', 'rendezvous', 'donation', 'kelly', 'intrigue', 'mud', 'layer']
+['antibiotic', 'contaminate', 'bureaucrat', 'lucifer', 'oxide', 'harbor', 'lindbergh', 'minded', 'wasthe', 'intro', 'cen', 'intend', 'tothis', 'drake', 'induction']
+==============================
+topic diversity:0.5653333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6545399255426257, c_w2v:None, c_uci:-9.903297297308987, c_npmi:-0.3562039166424415
+mimno topic coherence:-173.97479740797763
+Epoch  21	Iter    1	Loss_D:-0.1031231	Loss_G:143.0463257	loss_E:0.0385298
+Epoch  21	Iter   11	Loss_D:-0.1021244	Loss_G:141.9411926	loss_E:0.0383568
+Epoch  21	Iter   21	Loss_D:-0.1036011	Loss_G:140.8418579	loss_E:0.0388325
+Epoch  22	Iter    1	Loss_D:-0.1021239	Loss_G:139.7461853	loss_E:0.0380637
+Epoch  22	Iter   11	Loss_D:-0.1011802	Loss_G:138.6539001	loss_E:0.0372833
+Epoch  22	Iter   21	Loss_D:-0.1046945	Loss_G:137.5684967	loss_E:0.0394712
+Epoch  23	Iter    1	Loss_D:-0.1012594	Loss_G:136.4857330	loss_E:0.0360714
+Epoch  23	Iter   11	Loss_D:-0.1028177	Loss_G:135.4073639	loss_E:0.0384223
+Epoch  23	Iter   21	Loss_D:-0.1037659	Loss_G:134.3336639	loss_E:0.0387209
+Epoch  24	Iter    1	Loss_D:-0.1036630	Loss_G:133.2646942	loss_E:0.0384623
+Epoch  24	Iter   11	Loss_D:-0.1037580	Loss_G:132.1992340	loss_E:0.0383530
+Epoch  24	Iter   21	Loss_D:-0.1043826	Loss_G:131.1390381	loss_E:0.0391310
+Epoch  25	Iter    1	Loss_D:-0.1035122	Loss_G:130.0827484	loss_E:0.0378864
+Epoch  25	Iter   11	Loss_D:-0.1050271	Loss_G:129.0306702	loss_E:0.0395806
+Epoch  25	Iter   21	Loss_D:-0.1016847	Loss_G:127.9825363	loss_E:0.0364542
+Epoch  26	Iter    1	Loss_D:-0.1046060	Loss_G:126.9401627	loss_E:0.0392714
+Epoch  26	Iter   11	Loss_D:-0.1014446	Loss_G:125.9000092	loss_E:0.0365671
+Epoch  26	Iter   21	Loss_D:-0.1024700	Loss_G:124.8657303	loss_E:0.0375540
+Epoch  27	Iter    1	Loss_D:-0.1026759	Loss_G:123.8356094	loss_E:0.0375537
+Epoch  27	Iter   11	Loss_D:-0.1019507	Loss_G:122.8103333	loss_E:0.0368525
+Epoch  27	Iter   21	Loss_D:-0.1014641	Loss_G:121.7876358	loss_E:0.0371801
+Epoch  28	Iter    1	Loss_D:-0.1003225	Loss_G:120.7716293	loss_E:0.0353736
+Epoch  28	Iter   11	Loss_D:-0.1044032	Loss_G:119.7587280	loss_E:0.0390342
+Epoch  28	Iter   21	Loss_D:-0.1039532	Loss_G:118.7510452	loss_E:0.0386392
+Epoch  29	Iter    1	Loss_D:-0.1024438	Loss_G:117.7468719	loss_E:0.0371240
+Epoch  29	Iter   11	Loss_D:-0.1023296	Loss_G:116.7468796	loss_E:0.0375291
+Epoch  29	Iter   21	Loss_D:-0.1046896	Loss_G:115.7516861	loss_E:0.0395376
+Epoch  30	Iter    1	Loss_D:-0.1025025	Loss_G:114.7611160	loss_E:0.0379997
+Epoch  30	Iter   11	Loss_D:-0.1032678	Loss_G:113.7738647	loss_E:0.0387314
+Epoch  30	Iter   21	Loss_D:-0.1049078	Loss_G:112.7920456	loss_E:0.0402513
+Epoch  30	Loss_D_avg:-0.0890779	Loss_G_avg:162.1878560	loss_E_avg:0.0353972
+['harbor', 'wet', 'pretext', 'out', 'exec', 'forgot', 'certainty', 'network', 'kenny', 'cartridge', 'groin', 'dpi', 'filename', 'dxf', 'isbn']
+['ussr', 'symmetric', 'rhetorical', 'gifs', 'grossly', 'amd', 'ice', 'slam', 'blatant', 'investigator', 'puncture', 'dsp', 'aboutit', 'ron', 'mute']
+['redwood', 'speedo', 'helper', 'negligent', 'ora', 'finish', 'retreat', 'wrap', 'ithought', 'blatant', 'saviour', 'damphousse', 'difference', 'unjust', 'bonilla']
+['trunk', 'thisarticle', 'achieve', 'lm', 'unopened', 'ts', 'boat', 'astronomy', 'starr', 'tenure', 'gamble', 'pb', 'majestic', 'darryl', 'kirlian']
+['wrap', 'trunk', 'deterrent', 'ussr', 'ocean', 'iis', 'uw', 'mindset', 'ice', 'waco', 'restrain', 'diary', 'citizenry', 'shake', 'yes']
+['gifs', 'operator', 'handlebar', 'subroutine', 'tuesday', 'harbor', 'gadget', 'qs', 'ihad', 'venerable', 'tellme', 'success', 'zp', 'rahul', 'clement']
+['donation', 'hm', 'trunk', 'realm', 'trw', 'perfectly', 'due', 'revelation', 'ahem', 'wasthe', 'verbal', 'fidelity', 'ergonomic', 'eg', 'igor']
+['butthere', 'gifs', 'mostpeople', 'neatly', 'crypt', 'hm', 'jack', 'new', 'corner', 'mother', 'forother', 'difference', 'jonestown', 'acronym', 'rahul']
+['emperor', 'trunk', 'odger', 'havealready', 'aresome', 'jude', 'photography', 'thought', 'regenerate', 'fine', 'den', 'headquarters', 'phosphor', 'straw', 'senior']
+['certainty', 'harbor', 'theory', 'soda', 'ml', 'boomer', 'odger', 'iis', 'superset', 'honestly', 'bombard', 'wolfe', 'gifs', 'standalone', 'unjust']
+['graph', 'refrain', 'youneed', 'analogous', 'accessible', 'wallow', 'deterrent', 'forabout', 'sunday', 'satanic', 'dimension', 'psychologist', 'terribly', 'berman', 'madison']
+['exception', 'gifs', 'critic', 'ice', 'mist', 'forgot', 'ml', 'centrally', 'erich', 'madison', 'hic', 'new', 'combination', 'approval', 'chipto']
+['terribly', 'disgusted', 'bribe', 'rahul', 'whatexactly', 'agood', 'relief', 'neatly', 'manhattan', 'jonestown', 'authenticity', 'clark', 'eh', 'unofficial', 'dk']
+['atm', 'iftccu', 'harbor', 'gadget', 'isbn', 'mud', 'uxa', 'aresome', 'cl', 'owen', 'deliberation', 'flat', 'seat', 'onit', 'homosexuality']
+['cracker', 'quiet', 'immunity', 'marc', 'wi', 'relief', 'jonestown', 'ck', 'lindbergh', 'mute', 'gifs', 'groin', 'regard', 'ron', 'theseare']
+['madison', 'hellman', 'experimentation', 'qualifying', 'ck', 'silicon', 'withyou', 'whatexactly', 'groin', 'clement', 'mysterious', 'silverline', 'contractor', 'hose', 'blaster']
+['handlebar', 'compel', 'slmr', 'jonestown', 'charles', 'mist', 'explain', 'evangelism', 'earn', 'yushkevich', 'trunk', 'subscribe', 'thatwill', 'pow', 'realm']
+['pit', 'redwood', 'theyhad', 'overpay', 'phosphor', 'minded', 'excuse', 'dime', 'deliberation', 'negligent', 'wrap', 'uci', 'stacker', 'thenazi', 'michael']
+['disgusted', 'ini', 'trunk', 'gateway', 'kaiser', 'jonestown', 'subdivision', 'eugene', 'outskirt', 'certainty', 'improved', 'centris', 'thispoint', 'yoke', 'atlas']
+['superset', 'peek', 'gazan', 'tj', 'itbefore', 'foolishness', 'vebeen', 'flat', 'determined', 'terrestrial', 'deterrent', 'acronym', 'notan', 'theory', 'ussr']
+['pretext', 'pit', 'zp', 'lbs', 'flat', 'zalapski', 'xcreatecolormap', 'allude', 'deterrent', 'rhetoric', 'foolishness', 'hartford', 'jonestown', 'illusion', 'dime']
+['handlebar', 'publicly', 'superset', 'sine', 'front', 'boomer', 'pink', 'trunk', 'crypt', 'aim', 'operating', 'madison', 'odger', 'bus', 'warrantee']
+['mostpeople', 'trunk', 'harbor', 'awarethat', 'madison', 'administer', 'knife', 'gifs', 'wail', 'bombard', 'underwear', 'makesure', 'share', 'anniversary', 'adaptation']
+['gifs', 'redwood', 'warrantee', 'neatly', 'cryptanalytic', 'instruct', 'hellman', 'standalone', 'legion', 'bn', 'achieve', 'wrap', 'shipment', 'jone', 'abidingcitizen']
+['trunk', 'jonestown', 'template', 'occult', 'deir', 'kozlov', 'dispense', 'poulin', 'determined', 'commerce', 'groin', 'berman', 'perfectly', 'dime', 'atm']
+['redwood', 'yes', 'trunk', 'trw', 'den', 'chipto', 'saviour', 'perfectly', 'ld', 'israelite', 'gardner', 'thatwill', 'majestic', 'template', 'elapse']
+['clutch', 'gifs', 'berlin', 'stacker', 'laboratory', 'fabrication', 'remedy', 'frontal', 'israelite', 'xnew', 'soda', 'gw', 'bulldozer', 'deir', 'science']
+['possiblethat', 'spout', 'donation', 'eclipse', 'trunk', 'zp', 'gup', 'thiscountry', 'neatly', 'superset', 'necessitate', 'megatek', 'prof', 'incandescent', 'millen']
+['onit', 'wecan', 'import', 'terribly', 'blew', 'pink', 'yl', 'sunday', 'achieve', 'forabout', 'jonestown', 'ice', 'triangulation', 'coalition', 'determined']
+['irish', 'cu', 'template', 'hextall', 'lake', 'explosive', 'wolfe', 'jonestown', 'wrap', 'demonstrator', 'regenerate', 'moore', 'shape', 'scout', 'ephemeris']
+['den', 'achieve', 'instigate', 'mission', 'william', 'hesaid', 'gifs', 'pretext', 'gmq', 'peaceful', 'rli', 'michael', 'deir', 'channel', 'carroll']
+['deir', 'becausei', 'capture', 'centris', 'terrestrial', 'wt', 'job', 'sine', 'marc', 'atm', 'fahrenheit', 'damphousse', 'elm', 'evidently', 'umd']
+['onit', 'dk', 'honestly', 'drop', 'exceed', 'tokill', 'retract', 'harddisk', 'lattice', 'chipto', 'projectile', 'biologist', 'relief', 'task', 'mis']
+['participation', 'zp', 'gup', 'robitaille', 'madison', 'straighten', 'jonestown', 'buddy', 'wrap', 'condom', 'projectile', 'trunk', 'element', 'secret', 'cryptanalytic']
+['armature', 'flat', 'bureaucrat', 'hm', 'weekly', 'europe', 'perfectly', 'manson', 'irish', 'cracker', 'fabrication', 'jone', 'jaw', 'frontal', 'killing']
+['layer', 'jrm', 'lindbergh', 'iguess', 'sunday', 'contender', 'redwood', 'decision', 'voltmeter', 'keen', 'bos', 'seminary', 'verbal', 'consumable', 'odger']
+['backlit', 'bay', 'sheesh', 'sullivan', 'chuck', 'nyt', 'psychologist', 'cardinal', 'hartford', 'fatigue', 'accordingly', 'pwu', 'subroutine', 'theory', 'ariane']
+['jonestown', 'transmitter', 'pornography', 'twm', 'strongly', 'removable', 'blew', 'customer', 'uxa', 'operator', 'income', 'eclipse', 'sure', 'cry', 'urgent']
+['sunday', 'thejew', 'thanthe', 'reagan', 'cy', 'diary', 'deir', 'peaceful', 'peek', 'juneau', 'vj', 'rink', 'daytime', 'mist', 'retrospect']
+['certainty', 'zalapski', 'decision', 'onit', 'bureaucrat', 'ts', 'import', 'ml', 'layer', 'thesource', 'excuse', 'goingto', 'restore', 'minded', 'plunder']
+['gifs', 'job', 'faust', 'peek', 'gardner', 'supra', 'front', 'kong', 'angele', 'thenazi', 'incandescent', 'trunk', 'yl', 'blew', 'gazan']
+['redwood', 'removable', 'aresome', 'aim', 'jonestown', 'sjust', 'restaurant', 'odger', 'fidelity', 'semitic', 'fisk', 'io', 'dread', 'modest', 'wt']
+['gifs', 'acknowledgement', 'zp', 'neatly', 'owen', 'odger', 'analyst', 'lake', 'makesure', 'singing', 'qtm', 'slmr', 'eventhe', 'ahl', 'paradox']
+['interplanetary', 'trunk', 'fisk', 'meaningof', 'patriot', 'torque', 'noon', 'creationist', 'regenerate', 'zalapski', 'worse', 'citizenry', 'perfectly', 'yes', 'verbal']
+['yl', 'acknowledgement', 'agood', 'qualifying', 'wild', 'difference', 'gifs', 'prosecutor', 'onit', 'clone', 'buddy', 'cunneyworth', 'hominem', 'senior', 'casual']
+['donation', 'usually', 'trunk', 'verbal', 'trust', 'cipher', 'brief', 'jone', 'gifs', 'makethe', 'usa', 'famine', 'diary', 'xnew', 'deterrent']
+['havealready', 'leverage', 'shopping', 'yushkevich', 'carroll', 'feminist', 'thermodynamic', 'agood', 'administer', 'newgroup', 'respectfully', 'omit', 'intestinal', 'participation', 'snuff']
+['boxer', 'cartridge', 'cryptanalytic', 'wt', 'lk', 'yl', 'berman', 'lag', 'ml', 'puncture', 'latch', 'ahh', 'incandescent', 'blew', 'thick']
+['iowa', 'operator', 'buddy', 'deir', 'dysfunction', 'beautiful', 'lindbergh', 'backto', 'participation', 'ariane', 'deterrent', 'diabete', 'kelly', 'gup', 'baseball']
+['peaceful', 'contender', 'job', 'odger', 'template', 'transformer', 'geek', 'oiler', 'harbor', 'jack', 'whichha', 'aim', 'jude', 'gemini', 'blew']
+['trunk', 'healthy', 'wrap', 'employer', 'achieve', 'nhs', 'resurrection', 'metaphysical', 'llbe', 'owen', 'ussr', 'shipment', 'standalone', 'shopping', 'dread']
+['lucifer', 'jone', 'foot', 'lindbergh', 'redwood', 'shalala', 'strawberry', 'suck', 'thiscountry', 'phosphor', 'x.', 'superset', 'groin', 'depletion', 'ofcourse']
+['ashton', 'mac', 'yl', 'jonestown', 'cardinal', 'speedo', 'channel', 'perfectly', 'qualifying', 'moore', 'gifs', 'newgroup', 'honestly', 'lengthy', 'geek']
+['symmetric', 'gifs', 'secretly', 'peek', 'compress', 'onit', 'bribe', 'minded', 'relay', 'jone', 'applicable', 'qualifying', 'specialize', 'trunk', 'yl']
+['ahh', 'tribe', 'truetype', 'tasking', 'cargo', 'minded', 'program', 'ussr', 'lag', 'thatwill', 'wysiwyg', 'improved', 'wrap', 'asa', 'thenazi']
+['yl', 'excuse', 'berman', 'employer', 'harold', 'pass', 'ck', 'marry', 'agood', 'crypt', 'ofisrael', 'trunk', 'mis', 'dispatch', 'layer']
+['xnew', 'sunday', 'boomer', 'big', 'x.', 'hellman', 'market', 'toss', 'thephone', 'fidelity', 'regenerate', 'chilling', 'new', 'deterrent', 'lag']
+['sure', 'front', 'knife', 'isbn', 'gifs', 'juneau', 'racism', 'aim', 'apr', 'pb', 'puncture', 'agood', 'ignorant', 'tox', 'cryptanalytic']
+['gifs', 'somethinglike', 'wail', 'prosecutor', 'ml', 'tone', 'workable', 'pink', 'employer', 'zen', 'reputation', 'subdivision', 'theory', 'gup', 'gerald']
+['wrap', 'cryptanalytic', 'pax', 'lake', 'graphical', 'layer', 'new', 'discover', 'acknowledgement', 'difference', 'excess', 'foligno', 'hextall', 'relay', 'artificial']
+['layer', 'silverline', 'jack', 'interplanetary', 'ml', 'lattice', 'marc', 'leftover', 'armature', 'phosphor', 'engineer', 'toss', 'symmetric', 'handlebar', 'thegreek']
+['feminist', 'wrap', 'owen', 'talking', 'unit', 'shake', 'unopened', 'flat', 'moore', 'redwood', 'russell', 'snuff', 'georgetown', 'familiarwith', 'butthere']
+['perpetuate', 'lake', 'fatigue', 'considerable', 'wet', 'applicable', 'improved', 'goingto', 'artificial', 'angular', 'conventional', 'automate', 'fw', 'madison', 'standalone']
+['me', 'thermostat', 'aug', 'bulldozer', 'shape', 'perpendicular', 'anonymous', 'initiative', 'cartridge', 'density', 'mt', 'armature', 'symmetric', 'acceptable', 'algebra']
+['thay', 'congratulation', 'interplanetary', 'endif', 'carroll', 'agood', 'subroutine', 'pink', 'generate', 'inflict', 'berne', 'daigle', 'shutdown', 'helper', 'fall']
+['certainty', 'incriminate', 'mindset', 'ini', 'casserole', 'unjust', 'athlete', 'restore', 'zur', 'isjust', 'zp', 'bin', 'oscar', 'triangulation', 'thejew']
+['hal', 'foreground', 'hatch', 'thejew', 'pax', 'withit', 'peaceful', 'bya', 'mostpeople', 'handlebar', 'achieve', 'repent', 'hisown', 'agood', 'madison']
+['certainty', 'soda', 'privileged', 'gifs', 'new', 'thegreek', 'x.', 'aim', 'gadget', 'army', 'mush', 'odger', 'relay', 'trunk', 'mnp']
+['quart', 'honestly', 'sheriff', 'pax', 'sjust', 'redwood', 'juneau', 'deir', 'master', 'peaceful', 'peek', 'riot', 'care', 'wet', 'cultivate']
+['torque', 'william', 'eternally', 'deir', 'lisa', 'brutality', 'earn', 'ld', 'ofisrael', 'ussr', 'becausei', 'speech', 'ext', 'monk', 'channel']
+['carroll', 'ultrasound', 'rhetoric', 'certainty', 'hacker', 'crypt', 'madison', 'cartridge', 'groin', 'symmetric', 'wt', 'informationabout', 'boomer', 'psychologist', 'metal']
+['flat', 'achieve', 'ron', 'mist', 'dare', 'bombard', 'biblical', 'buster', 'owen', 'fabrication', 'saddle', 'kaiser', 'amd', 'incidental', 'adirondack']
+['certainty', 'deterrent', 'considerable', 'insignificant', 'lindbergh', 'weapon', 'wasthe', 'majestic', 'envelope', 'ussr', 'convention', 'armature', 'subdirectory', 'tom', 'jude']
+['channel', 'average', 'new', 'certainty', 'standalone', 'privileged', 'peek', 'rendezvous', 'donation', 'cry', 'baseball', 'kelly', 'intrigue', 'layer', 'havealready']
+['antibiotic', 'harbor', 'minded', 'oxide', 'lucifer', 'lindbergh', 'bureaucrat', 'contaminate', 'tothis', 'wasthe', 'drake', 'almanac', 'intro', 'rick', 'speedo']
+==============================
+topic diversity:0.5404444444444444
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6559215286229041, c_w2v:None, c_uci:-9.853471300852455, c_npmi:-0.3544502882544478
+mimno topic coherence:-175.76020296402677
+Epoch  31	Iter    1	Loss_D:-0.1029548	Loss_G:111.8140030	loss_E:0.0385105
+Epoch  31	Iter   11	Loss_D:-0.1025461	Loss_G:110.8406296	loss_E:0.0387318
+Epoch  31	Iter   21	Loss_D:-0.1066058	Loss_G:109.8715744	loss_E:0.0423064
+Epoch  32	Iter    1	Loss_D:-0.1040706	Loss_G:108.9075089	loss_E:0.0396312
+Epoch  32	Iter   11	Loss_D:-0.1032723	Loss_G:107.9464493	loss_E:0.0390185
+Epoch  32	Iter   21	Loss_D:-0.1047847	Loss_G:106.9916916	loss_E:0.0401298
+Epoch  33	Iter    1	Loss_D:-0.1021525	Loss_G:106.0397873	loss_E:0.0375662
+Epoch  33	Iter   11	Loss_D:-0.1046400	Loss_G:105.0924759	loss_E:0.0404314
+Epoch  33	Iter   21	Loss_D:-0.1049478	Loss_G:104.1491699	loss_E:0.0409883
+Epoch  34	Iter    1	Loss_D:-0.1028595	Loss_G:103.2117615	loss_E:0.0387288
+Epoch  34	Iter   11	Loss_D:-0.1057603	Loss_G:102.2771759	loss_E:0.0413862
+Epoch  34	Iter   21	Loss_D:-0.1042670	Loss_G:101.3468781	loss_E:0.0407333
+Epoch  35	Iter    1	Loss_D:-0.1060802	Loss_G:100.4215393	loss_E:0.0424554
+Epoch  35	Iter   11	Loss_D:-0.1053472	Loss_G:99.5012207	loss_E:0.0416997
+Epoch  35	Iter   21	Loss_D:-0.1033146	Loss_G:98.5833206	loss_E:0.0404336
+Epoch  36	Iter    1	Loss_D:-0.1045847	Loss_G:97.6717606	loss_E:0.0413885
+Epoch  36	Iter   11	Loss_D:-0.1053017	Loss_G:96.7630920	loss_E:0.0423398
+Epoch  36	Iter   21	Loss_D:-0.1032222	Loss_G:95.8598862	loss_E:0.0405414
+Epoch  37	Iter    1	Loss_D:-0.1069531	Loss_G:94.9600372	loss_E:0.0446352
+Epoch  37	Iter   11	Loss_D:-0.1046958	Loss_G:94.0653076	loss_E:0.0423401
+Epoch  37	Iter   21	Loss_D:-0.1037095	Loss_G:93.1740952	loss_E:0.0417900
+Epoch  38	Iter    1	Loss_D:-0.1054396	Loss_G:92.2892303	loss_E:0.0431530
+Epoch  38	Iter   11	Loss_D:-0.1056347	Loss_G:91.4064331	loss_E:0.0436209
+Epoch  38	Iter   21	Loss_D:-0.1062639	Loss_G:90.5292435	loss_E:0.0442924
+Epoch  39	Iter    1	Loss_D:-0.1057195	Loss_G:89.6560135	loss_E:0.0439000
+Epoch  39	Iter   11	Loss_D:-0.1047433	Loss_G:88.7876892	loss_E:0.0431336
+Epoch  39	Iter   21	Loss_D:-0.1031142	Loss_G:87.9234009	loss_E:0.0410202
+Epoch  40	Iter    1	Loss_D:-0.1034025	Loss_G:87.0635147	loss_E:0.0416547
+Epoch  40	Iter   11	Loss_D:-0.1050351	Loss_G:86.2071838	loss_E:0.0433852
+Epoch  40	Iter   21	Loss_D:-0.1033902	Loss_G:85.3567886	loss_E:0.0416753
+Epoch  40	Loss_D_avg:-0.0929318	Loss_G_avg:146.2134658	loss_E_avg:0.0368948
+['harbor', 'pretext', 'certainty', 'exec', 'wet', 'dpi', 'out', 'cartridge', 'isbn', 'groin', 'forgot', 'filename', 'pet', 'perfectly', 'jonestown']
+['symmetric', 'ussr', 'gifs', 'grossly', 'slam', 'ice', 'blatant', 'aboutit', 'rhetorical', 'dsp', 'puncture', 'amd', 'investigator', 'ron', 'universally']
+['redwood', 'speedo', 'ithought', 'blatant', 'damphousse', 'wrap', 'ora', 'negligent', 'difference', 'finish', 'alter', 'playback', 'helper', 'unjust', 'retreat']
+['achieve', 'trunk', 'thisarticle', 'unopened', 'lm', 'astronomy', 'starr', 'boat', 'gamble', 'darryl', 'ts', 'function', 'tenure', 'linear', 'kirlian']
+['wrap', 'deterrent', 'trunk', 'iis', 'ussr', 'waco', 'uw', 'ice', 'ocean', 'unconditional', 'diary', 'andbe', 'mindset', 'restrain', 'citizenry']
+['operator', 'gifs', 'tuesday', 'handlebar', 'subroutine', 'gadget', 'harbor', 'asmany', 'ihad', 'zp', 'week', 'qs', 'science', 'mac', 'kozlov']
+['donation', 'hm', 'perfectly', 'trunk', 'realm', 'trw', 'ahem', 'fidelity', 'revelation', 'verbally', 'verbal', 'beirut', 'due', 'emphatically', 'crypt']
+['gifs', 'butthere', 'corner', 'jack', 'new', 'crypt', 'hm', 'mostpeople', 'forother', 'jonestown', 'difference', 'neatly', 'contractor', 'sunday', 'acronym']
+['odger', 'emperor', 'aresome', 'havealready', 'jude', 'trunk', 'regenerate', 'photography', 'phosphor', 'thought', 'den', 'straw', 'week', 'senior', 'subdivision']
+['certainty', 'harbor', 'theory', 'soda', 'ml', 'iis', 'odger', 'boomer', 'honestly', 'standalone', 'analogous', 'unjust', 'gifs', 'eclipse', 'madison']
+['graph', 'refrain', 'analogous', 'sunday', 'accessible', 'deterrent', 'youneed', 'wallow', 'satanic', 'fife', 'terribly', 'forabout', 'berman', 'dimension', 'psychologist']
+['critic', 'exception', 'gifs', 'ice', 'mist', 'forgot', 'madison', 'erich', 'hic', 'chipto', 'ml', 'centrally', 'theconstitution', 'wail', 'jonestown']
+['terribly', 'agood', 'disgusted', 'bribe', 'relief', 'whatexactly', 'rahul', 'jonestown', 'manhattan', 'sarcastic', 'neatly', 'dk', 'authenticity', 'congratulation', 'pretext']
+['atm', 'harbor', 'iftccu', 'gadget', 'isbn', 'cl', 'alp', 'seat', 'aresome', 'uxa', 'gut', 'mud', 'owen', 'homosexuality', 'thick']
+['immunity', 'cracker', 'quiet', 'marc', 'relief', 'wi', 'ck', 'jonestown', 'lindbergh', 'mute', 'symmetric', 'gui', 'acronym', 'regard', 'ini']
+['hellman', 'ck', 'whatexactly', 'madison', 'experimentation', 'qualifying', 'silicon', 'clement', 'groin', 'withyou', 'russell', 'silverline', 'hose', 'contractor', 'blaster']
+['slmr', 'handlebar', 'compel', 'jonestown', 'earn', 'explain', 'charles', 'achieve', 'secondary', 'realm', 'mist', 'trunk', 'evangelism', 'yushkevich', 'thick']
+['pit', 'redwood', 'berman', 'phosphor', 'negligent', 'minded', 'overpay', 'uci', 'rhetoric', 'wrap', 'unjust', 'anniversary', 'theyhad', 'excuse', 'stacker']
+['ini', 'disgusted', 'gateway', 'kaiser', 'jonestown', 'trunk', 'eugene', 'subdivision', 'certainty', 'outskirt', 'joke', 'strongly', 'improved', 'blatant', 'yoke']
+['peek', 'superset', 'itbefore', 'vebeen', 'foolishness', 'gazan', 'tj', 'determined', 'deterrent', 'chuck', 'minded', 'phosphor', 'compel', 'ussr', 'flat']
+['pretext', 'zp', 'pit', 'xcreatecolormap', 'rhetoric', 'lbs', 'zalapski', 'jonestown', 'ultrasound', 'deterrent', 'allude', 'rli', 'projectile', 'illusion', 'foolishness']
+['sine', 'boomer', 'pink', 'publicly', 'front', 'crypt', 'handlebar', 'trunk', 'superset', 'odger', 'aim', 'operating', 'bus', 'uxa', 'intelligence']
+['harbor', 'mostpeople', 'trunk', 'madison', 'awarethat', 'wail', 'knife', 'underwear', 'anniversary', 'administer', 'gifs', 'share', 'berman', 'jone', 'wt']
+['gifs', 'redwood', 'bn', 'standalone', 'warrantee', 'legion', 'sunday', 'achieve', 'hellman', 'shipment', 'cryptanalytic', 'hateful', 'instruct', 'jone', 'wrap']
+['trunk', 'jonestown', 'kozlov', 'occult', 'deir', 'poulin', 'template', 'determined', 'berman', 'commerce', 'perfectly', 'dispense', 'andthey', 'atm', 'intimate']
+['redwood', 'yes', 'trunk', 'chipto', 'trw', 'den', 'gardner', 'perfectly', 'saviour', 'ld', 'harbor', 'thatwill', 'traditional', 'ultrasound', 'tooth']
+['clutch', 'gifs', 'berlin', 'stacker', 'fabrication', 'odger', 'laboratory', 'soda', 'unreasonably', 'finish', 'bulldozer', 'remedy', 'occult', 'tooth', 'frontal']
+['possiblethat', 'spout', 'zp', 'eclipse', 'thiscountry', 'donation', 'trunk', 'gup', 'neatly', 'necessitate', 'millen', 'lm', 'prof', 'incandescent', 'frontal']
+['onit', 'wecan', 'terribly', 'import', 'sunday', 'pink', 'yl', 'blew', 'achieve', 'becausehe', 'jonestown', 'forabout', 'ice', 'determined', 'diabete']
+['irish', 'cu', 'lake', 'moore', 'explosive', 'jonestown', 'template', 'hextall', 'regenerate', 'odger', 'shape', 'float', 'lindbergh', 'ephemeris', 'scout']
+['den', 'mission', 'achieve', 'instigate', 'william', 'gifs', 'gateway', 'gmq', 'pretext', 'hesaid', 'rli', 'ache', 'minded', 'singing', 'deir']
+['deir', 'becausei', 'capture', 'centris', 'terrestrial', 'atm', 'wt', 'job', 'marc', 'suck', 'damphousse', 'sine', 'subdivision', 'disgusted', 'quart']
+['onit', 'dk', 'honestly', 'drop', 'shipment', 'harddisk', 'biologist', 'chipto', 'exceed', 'strongly', 'tokill', 'projectile', 'task', 'odger', 'yuri']
+['participation', 'zp', 'robitaille', 'straighten', 'gup', 'jonestown', 'buddy', 'projectile', 'joke', 'trunk', 'madison', 'condom', 'wrap', 'chipto', 'cryptanalytic']
+['hm', 'flat', 'armature', 'bureaucrat', 'europe', 'weekly', 'perfectly', 'frontal', 'manson', 'irish', 'cracker', 'jone', 'fabrication', 'harmony', 'function']
+['layer', 'jrm', 'voltmeter', 'sunday', 'lindbergh', 'redwood', 'bos', 'keen', 'verbal', 'contender', 'odger', 'iguess', 'decision', 'fabrication', 'seminary']
+['backlit', 'sheesh', 'chuck', 'cardinal', 'bay', 'nyt', 'lightweight', 'psychologist', 'theory', 'sullivan', 'hartford', 'deterrent', 'ariane', 'ukraine', 'ora']
+['jonestown', 'strongly', 'twm', 'operator', 'transmitter', 'spout', 'uxa', 'pornography', 'scott', 'terribly', 'anger', 'removable', 'blew', 'eclipse', 'fame']
+['sunday', 'cy', 'thejew', 'reagan', 'diary', 'thanthe', 'deir', 'juneau', 'vj', 'peek', 'peaceful', 'bitter', 'retrospect', 'rink', 'mist']
+['certainty', 'zalapski', 'decision', 'onit', 'bureaucrat', 'thesource', 'layer', 'excuse', 'minded', 'cartridge', 'thatmatter', 'spout', 'separate', 'ts', 'goingto']
+['job', 'gifs', 'faust', 'peek', 'gardner', 'supra', 'front', 'silverline', 'incandescent', 'blew', 'yl', 'angele', 'kong', 'eternally', 'brief']
+['redwood', 'removable', 'odger', 'aresome', 'jonestown', 'fidelity', 'semitic', 'aim', 'restaurant', 'fisk', 'sunday', 'leftover', 'sjust', 'dread', 'modest']
+['gifs', 'zp', 'acknowledgement', 'odger', 'owen', 'slmr', 'neatly', 'lake', 'eventhe', 'mad', 'channel', 'qtm', 'singing', 'analyst', 'reichel']
+['interplanetary', 'trunk', 'patriot', 'torque', 'citizenry', 'creationist', 'fisk', 'bn', 'meaningof', 'oscar', 'noon', 'negligent', 'jonestown', 'worse', 'regenerate']
+['yl', 'agood', 'buddy', 'difference', 'onit', 'yd', 'wild', 'prosecutor', 'gifs', 'senior', 'acknowledgement', 'redwood', 'success', 'clone', 'interplanetary']
+['usually', 'donation', 'verbal', 'brief', 'jone', 'dsp', 'diary', 'trust', 'trunk', 'gifs', 'lake', 'usa', 'deterrent', 'standalone', 'kenny']
+['havealready', 'agood', 'yushkevich', 'shopping', 'intestinal', 'leverage', 'feminist', 'newgroup', 'thermodynamic', 'carroll', 'administer', 'harmony', 'omit', 'snuff', 'thay']
+['boxer', 'cryptanalytic', 'cartridge', 'wt', 'berman', 'lag', 'yl', 'thick', 'latch', 'ml', 'skew', 'puncture', 'incandescent', 'cardinal', 'speedo']
+['iowa', 'buddy', 'operator', 'deir', 'lindbergh', 'dysfunction', 'backto', 'harbor', 'beautiful', 'participation', 'combo', 'kelly', 'diabete', 'somethinglike', 'deterrent']
+['peaceful', 'job', 'contender', 'odger', 'transformer', 'template', 'oiler', 'geek', 'harbor', 'jude', 'jack', 'gemini', 'aim', 'whichha', 'blew']
+['healthy', 'trunk', 'achieve', 'nhs', 'wrap', 'employer', 'llbe', 'standalone', 'resurrection', 'metaphysical', 'owen', 'gup', 'shipment', 'speedo', 'lydick']
+['lucifer', 'redwood', 'lindbergh', 'strawberry', 'foot', 'shalala', 'phosphor', 'suck', 'jone', 'wi', 'buddy', 'harbor', 'depletion', 'thiscountry', 'x.']
+['yl', 'mac', 'channel', 'ashton', 'moore', 'jonestown', 'speedo', 'lengthy', 'perfectly', 'gifs', 'oiler', 'cardinal', 'corel', 'newgroup', 'honestly']
+['symmetric', 'gifs', 'minded', 'secretly', 'compress', 'jone', 'bribe', 'relay', 'applicable', 'peek', 'onit', 'yl', 'hm', 'moore', 'starr']
+['ahh', 'tribe', 'buddy', 'cargo', 'minded', 'program', 'truetype', 'wrap', 'tasking', 'lag', 'improved', 'blew', 'thatwill', 'clamp', 'asa']
+['yl', 'berman', 'excuse', 'ofisrael', 'employer', 'crypt', 'pass', 'ck', 'harold', 'agood', 'mis', 'marry', 'trunk', 'layer', 'boomer']
+['sunday', 'xnew', 'hellman', 'boomer', 'big', 'x.', 'fidelity', 'toss', 'market', 'thephone', 'regenerate', 'xy', 'thejew', 'expense', 'new']
+['front', 'isbn', 'sure', 'juneau', 'knife', 'apr', 'tox', 'gifs', 'aim', 'pb', 'agood', 'sony', 'russell', 'ignorant', 'thay']
+['wail', 'gifs', 'prosecutor', 'somethinglike', 'ml', 'pink', 'tone', 'reputation', 'subdivision', 'employer', 'redwood', 'anger', 'ron', 'gup', 'workable']
+['wrap', 'cryptanalytic', 'pax', 'lake', 'graphical', 'new', 'layer', 'gadget', 'discover', 'foligno', 'difference', 'briefly', 'peice', 'acknowledgement', 'relay']
+['layer', 'silverline', 'interplanetary', 'jack', 'phosphor', 'greg', 'marc', 'lattice', 'ml', 'thegreek', 'stare', 'leftover', 'handlebar', 'armature', 'symmetric']
+['feminist', 'talking', 'moore', 'unopened', 'wrap', 'redwood', 'shake', 'owen', 'compress', 'snuff', 'flat', 'familiarwith', 'unit', 'georgetown', 'miniature']
+['perpetuate', 'lake', 'applicable', 'wet', 'improved', 'considerable', 'fatigue', 'gifs', 'groin', 'telecast', 'zp', 'artificial', 'automate', 'ofother', 'thay']
+['me', 'bulldozer', 'aug', 'initiative', 'perpendicular', 'mt', 'thermostat', 'aj', 'anger', 'symmetric', 'gadget', 'sunday', 'armature', 'jonestown', 'shape']
+['thay', 'congratulation', 'interplanetary', 'agood', 'pink', 'carroll', 'starr', 'endif', 'fall', 'shutdown', 'berne', 'inflict', 'generate', 'observation', 'perpetuate']
+['certainty', 'mindset', 'ini', 'athlete', 'unjust', 'bin', 'rhetoric', 'unconditional', 'incriminate', 'isjust', 'triangulation', 'thejew', 'oscar', 'casserole', 'zp']
+['hal', 'pax', 'foreground', 'thejew', 'hatch', 'withit', 'achieve', 'agood', 'curt', 'handlebar', 'relay', 'peaceful', 'mostpeople', 'allude', 'verbal']
+['certainty', 'soda', 'thegreek', 'new', 'privileged', 'gifs', 'aim', 'army', 'x.', 'odger', 'europe', 'gadget', 'couple', 'mnp', 'chipto']
+['quart', 'honestly', 'pax', 'sjust', 'sheriff', 'deir', 'redwood', 'juneau', 'master', 'lp', 'peaceful', 'riot', 'peek', 'slander', 'wet']
+['torque', 'eternally', 'earn', 'william', 'deir', 'lisa', 'speech', 'ld', 'ofisrael', 'channel', 'ussr', 'becausei', 'sunday', 'whoop', 'brutality']
+['carroll', 'ultrasound', 'rhetoric', 'boomer', 'certainty', 'groin', 'hacker', 'cartridge', 'crypt', 'symmetric', 'metal', 'informationabout', 'madison', 'wt', 'oklahoma']
+['achieve', 'ron', 'flat', 'mist', 'biblical', 'owen', 'dare', 'fabrication', 'faust', 'gifs', 'becausei', 'ld', 'bombard', 'incidental', 'cartridge']
+['lindbergh', 'deterrent', 'certainty', 'considerable', 'insignificant', 'envelope', 'armature', 'convention', 'weapon', 'majestic', 'redwood', 'jude', 'subdirectory', 'master', 'wasthe']
+['channel', 'new', 'privileged', 'standalone', 'average', 'certainty', 'rendezvous', 'intrigue', 'havealready', 'donation', 'peek', 'cry', 'brief', 'kelly', 'berne']
+['antibiotic', 'minded', 'harbor', 'oxide', 'lindbergh', 'lucifer', 'likely', 'bureaucrat', 'thay', 'apr', 'tothis', 'ticket', 'patriot', 'almanac', 'rick']
+==============================
+topic diversity:0.512
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.660933526786891, c_w2v:None, c_uci:-9.876687485703865, c_npmi:-0.35520633507550103
+mimno topic coherence:-208.2614777887156
+Epoch  41	Iter    1	Loss_D:-0.1059218	Loss_G:84.5100555	loss_E:0.0437983
+Epoch  41	Iter   11	Loss_D:-0.1048056	Loss_G:83.6671066	loss_E:0.0433667
+Epoch  41	Iter   21	Loss_D:-0.1021515	Loss_G:82.8285522	loss_E:0.0407926
+Epoch  42	Iter    1	Loss_D:-0.1050470	Loss_G:81.9958878	loss_E:0.0434760
+Epoch  42	Iter   11	Loss_D:-0.1037034	Loss_G:81.1654739	loss_E:0.0423828
+Epoch  42	Iter   21	Loss_D:-0.1041364	Loss_G:80.3408966	loss_E:0.0425580
+Epoch  43	Iter    1	Loss_D:-0.1038360	Loss_G:79.5202103	loss_E:0.0421511
+Epoch  43	Iter   11	Loss_D:-0.1049695	Loss_G:78.7048111	loss_E:0.0430477
+Epoch  43	Iter   21	Loss_D:-0.1055920	Loss_G:77.8920517	loss_E:0.0440283
+Epoch  44	Iter    1	Loss_D:-0.1036890	Loss_G:77.0850983	loss_E:0.0420078
+Epoch  44	Iter   11	Loss_D:-0.1049236	Loss_G:76.2814713	loss_E:0.0431256
+Epoch  44	Iter   21	Loss_D:-0.1046160	Loss_G:75.4835052	loss_E:0.0426272
+Epoch  45	Iter    1	Loss_D:-0.1043644	Loss_G:74.6884918	loss_E:0.0427211
+Epoch  45	Iter   11	Loss_D:-0.1048518	Loss_G:73.8989182	loss_E:0.0429130
+Epoch  45	Iter   21	Loss_D:-0.1040993	Loss_G:73.1128464	loss_E:0.0421703
+Epoch  46	Iter    1	Loss_D:-0.1048752	Loss_G:72.3324127	loss_E:0.0429298
+Epoch  46	Iter   11	Loss_D:-0.1045883	Loss_G:71.5544968	loss_E:0.0428368
+Epoch  46	Iter   21	Loss_D:-0.1062560	Loss_G:70.7821121	loss_E:0.0444108
+Epoch  47	Iter    1	Loss_D:-0.1043462	Loss_G:70.0135422	loss_E:0.0426878
+Epoch  47	Iter   11	Loss_D:-0.1031657	Loss_G:69.2504349	loss_E:0.0413131
+Epoch  47	Iter   21	Loss_D:-0.1024100	Loss_G:68.4901505	loss_E:0.0407794
+Epoch  48	Iter    1	Loss_D:-0.1042288	Loss_G:67.7358170	loss_E:0.0421296
+Epoch  48	Iter   11	Loss_D:-0.1067400	Loss_G:66.9843674	loss_E:0.0446212
+Epoch  48	Iter   21	Loss_D:-0.1038187	Loss_G:66.2381363	loss_E:0.0420762
+Epoch  49	Iter    1	Loss_D:-0.1032330	Loss_G:65.4958420	loss_E:0.0413583
+Epoch  49	Iter   11	Loss_D:-0.1055467	Loss_G:64.7579346	loss_E:0.0439277
+Epoch  49	Iter   21	Loss_D:-0.1038011	Loss_G:64.0247040	loss_E:0.0416624
+Epoch  50	Iter    1	Loss_D:-0.1046810	Loss_G:63.2960777	loss_E:0.0429484
+Epoch  50	Iter   11	Loss_D:-0.1050017	Loss_G:62.5709267	loss_E:0.0429569
+Epoch  50	Iter   21	Loss_D:-0.1049748	Loss_G:61.8509674	loss_E:0.0427463
+Epoch  50	Loss_D_avg:-0.0952413	Loss_G_avg:131.5477946	loss_E_avg:0.0380528
+['harbor', 'certainty', 'exec', 'dpi', 'pretext', 'groin', 'cartridge', 'understand', 'filename', 'layer', 'perfectly', 'pet', 'isbn', 'illusion', 'wet']
+['symmetric', 'gifs', 'ussr', 'ice', 'slam', 'aboutit', 'grossly', 'blatant', 'ron', 'observation', 'universally', 'dsp', 'expense', 'puncture', 'marc']
+['speedo', 'redwood', 'blatant', 'damphousse', 'wrap', 'msdo', 'alter', 'difference', 'ithought', 'playback', 'gup', 'ora', 'finish', 'faust', 'negligent']
+['achieve', 'unopened', 'trunk', 'thisarticle', 'boat', 'gamble', 'astronomy', 'starr', 'darryl', 'lm', 'mess', 'kaiser', 'andy', 'exec', 'agood']
+['wrap', 'deterrent', 'iis', 'trunk', 'waco', 'unconditional', 'uw', 'ice', 'ussr', 'geographic', 'andbe', 'stupidity', 'diary', 'ocean', 'yes']
+['operator', 'gifs', 'asmany', 'gadget', 'subroutine', 'tuesday', 'week', 'kozlov', 'handlebar', 'privileged', 'ihad', 'zp', 'harbor', 'mac', 'oiler']
+['hm', 'donation', 'perfectly', 'trunk', 'verbally', 'fidelity', 'beirut', 'realm', 'ahem', 'revelation', 'asente', 'preach', 'crypt', 'ice', 'emphatically']
+['gifs', 'butthere', 'jack', 'corner', 'new', 'jonestown', 'sunday', 'lisa', 'crypt', 'difference', 'goverment', 'hm', 'forother', 'eventhe', 'shading']
+['odger', 'havealready', 'aresome', 'jude', 'regenerate', 'phosphor', 'photography', 'senior', 'week', 'mission', 'emperor', 'trunk', 'wrap', 'subdivision', 'den']
+['certainty', 'soda', 'harbor', 'theory', 'ml', 'iis', 'privileged', 'analogous', 'odger', 'unjust', 'standalone', 'honestly', 'briefly', 'backlit', 'eclipse']
+['sunday', 'graph', 'deterrent', 'refrain', 'fife', 'analogous', 'august', 'accessible', 'satanic', 'likely', 'youneed', 'terribly', 'amal', 'berman', 'disgusted']
+['critic', 'ice', 'gifs', 'exception', 'mist', 'wail', 'chipto', 'forgot', 'hic', 'madison', 'theconstitution', 'jonestown', 'achieve', 'cartridge', 'applicable']
+['terribly', 'agood', 'whatexactly', 'disgusted', 'relief', 'bribe', 'sarcastic', 'jonestown', 'rahul', 'senior', 'groin', 'manhattan', 'misplay', 'dk', 'float']
+['harbor', 'atm', 'gut', 'alp', 'cl', 'gadget', 'seat', 'isbn', 'iftccu', 'uxa', 'carson', 'onit', 'thick', 'aresome', 'homosexuality']
+['immunity', 'cracker', 'marc', 'quiet', 'relief', 'symmetric', 'ck', 'wi', 'jonestown', 'ini', 'mute', 'lindbergh', 'gui', 'utah', 'armature']
+['hellman', 'whatexactly', 'ck', 'sunday', 'russell', 'silicon', 'groin', 'clement', 'hose', 'withyou', 'suck', 'zealand', 'experimentation', 'silverline', 'bn']
+['slmr', 'handlebar', 'earn', 'compel', 'jonestown', 'achieve', 'secondary', 'explain', 'charles', 'minded', 'thick', 'distribute', 'realtime', 'standalone', 'realm']
+['berman', 'redwood', 'pit', 'negligent', 'phosphor', 'minded', 'uci', 'rhetoric', 'unjust', 'wrap', 'anniversary', 'peek', 'forgot', 'boomer', 'overpay']
+['jonestown', 'ini', 'kaiser', 'gateway', 'disgusted', 'subdivision', 'joke', 'strongly', 'minded', 'eugene', 'blatant', 'trunk', 'outskirt', 'improved', 'certainty']
+['peek', 'itbefore', 'ama', 'minded', 'phosphor', 'chuck', 'vebeen', 'determined', 'deterrent', 'incandescent', 'compel', 'retreat', 'yl', 'perfectly', 'unconditional']
+['pretext', 'pit', 'zp', 'xcreatecolormap', 'jonestown', 'ultrasound', 'rhetoric', 'combo', 'bribe', 'scrub', 'deterrent', 'minded', 'illusion', 'vibration', 'expense']
+['boomer', 'sine', 'pink', 'uxa', 'odger', 'crypt', 'front', 'intelligence', 'trunk', 'publicly', 'handlebar', 'dk', 'bus', 'rm', 'miniscule']
+['harbor', 'mostpeople', 'wail', 'madison', 'awarethat', 'trunk', 'anniversary', 'underwear', 'berman', 'share', 'knife', 'gifs', 'wt', 'ultrasound', 'jone']
+['gifs', 'redwood', 'sunday', 'bn', 'legion', 'achieve', 'standalone', 'hateful', 'hellman', 'warrantee', 'shipment', 'cartridge', 'meta', 'market', 'jone']
+['trunk', 'jonestown', 'kozlov', 'occult', 'deir', 'berman', 'determined', 'poulin', 'andthey', 'template', 'intimate', 'perfectly', 'austria', 'predecessor', 'baseman']
+['redwood', 'yes', 'trunk', 'chipto', 'gardner', 'trw', 'den', 'thatwill', 'perfectly', 'figured', 'harbor', 'pax', 'telecast', 'foil', 'traditional']
+['gifs', 'berlin', 'clutch', 'stacker', 'finish', 'unreasonably', 'odger', 'secondary', 'senior', 'tooth', 'occult', 'bulldozer', 'fabrication', 'soda', 'applicable']
+['zp', 'thiscountry', 'spout', 'possiblethat', 'eclipse', 'lm', 'donation', 'millen', 'trunk', 'frontal', 'gup', 'texas', 'incandescent', 'prof', 'ergonomic']
+['onit', 'pink', 'wecan', 'sunday', 'yl', 'import', 'achieve', 'terribly', 'jonestown', 'becausehe', 'blew', 'gifs', 'ice', 'determined', 'jude']
+['irish', 'cu', 'lake', 'moore', 'lindbergh', 'jonestown', 'odger', 'regenerate', 'explosive', 'alp', 'exhibition', 'bell', 'mess', 'float', 'template']
+['mission', 'den', 'achieve', 'gateway', 'gifs', 'ache', 'instigate', 'william', 'minded', 'alp', 'rli', 'lone', 'ofisrael', 'pretext', 'gmq']
+['deir', 'becausei', 'capture', 'atm', 'suck', 'wt', 'terrestrial', 'subdivision', 'job', 'centris', 'cfv', 'quart', 'buddy', 'disgusted', 'evidently']
+['dk', 'onit', 'honestly', 'shipment', 'yuri', 'biologist', 'chipto', 'strongly', 'exceed', 'drop', 'crypt', 'thay', 'mis', 'odger', 'task']
+['participation', 'zp', 'straighten', 'robitaille', 'gup', 'joke', 'projectile', 'chipto', 'jonestown', 'madison', 'trunk', 'buddy', 'function', 'wrap', 'cryptanalytic']
+['hm', 'bureaucrat', 'europe', 'armature', 'flat', 'weekly', 'frontal', 'perfectly', 'jonestown', 'harmony', 'jaw', 'cracker', 'jone', 'function', 'brief']
+['layer', 'voltmeter', 'sunday', 'jrm', 'bos', 'redwood', 'keen', 'lindbergh', 'verbal', 'odger', 'ahead', 'contender', 'fabrication', 'kd', 'ihope']
+['backlit', 'chuck', 'sheesh', 'lightweight', 'cardinal', 'theory', 'nyt', 'achieve', 'whoop', 'wo', 'deterrent', 'bay', 'pd', 'thick', 'ukraine']
+['jonestown', 'spout', 'scott', 'anger', 'terribly', 'strongly', 'operator', 'moore', 'uxa', 'twm', 'fame', 'andthey', 'eclipse', 'cso', 'blew']
+['sunday', 'cy', 'thejew', 'reagan', 'vj', 'diary', 'juneau', 'thanthe', 'deir', 'peek', 'retrospect', 'bitter', 'layer', 'wrap', 'forgot']
+['certainty', 'zalapski', 'thesource', 'layer', 'cartridge', 'excuse', 'bureaucrat', 'spout', 'decision', 'thatmatter', 'minded', 'separate', 'immunity', 'ld', 'onit']
+['job', 'gifs', 'faust', 'peek', 'gardner', 'silverline', 'supra', 'incandescent', 'senior', 'brief', 'yl', 'front', 'eternally', 'megatek', 'blew']
+['redwood', 'removable', 'odger', 'fidelity', 'jonestown', 'semitic', 'sunday', 'aresome', 'seam', 'zu', 'aim', 'exec', 'leftover', 'preach', 'fn']
+['gifs', 'zp', 'odger', 'channel', 'slmr', 'mad', 'eventhe', 'lake', 'acknowledgement', 'owen', 'layer', 'qtm', 'neatly', 'ahl', 'silverline']
+['interplanetary', 'patriot', 'creationist', 'oscar', 'bn', 'negligent', 'trunk', 'citizenry', 'torque', 'jonestown', 'fisk', 'meaningof', 'fidelity', 'rebuild', 'noon']
+['yl', 'agood', 'buddy', 'redwood', 'ache', 'yd', 'regenerate', 'onit', 'difference', 'senior', 'vz', 'interplanetary', 'ideally', 'labor', 'wild']
+['brief', 'usually', 'jone', 'dsp', 'def', 'diary', 'verbal', 'lake', 'wildly', 'donation', 'senior', 'trust', 'research', 'deterrent', 'gifs']
+['havealready', 'agood', 'lydick', 'harmony', 'intestinal', 'yushkevich', 'newgroup', 'timeand', 'blaster', 'shopping', 'bos', 'feminist', 'sunday', 'omit', 'thay']
+['boxer', 'cryptanalytic', 'wt', 'cartridge', 'thick', 'skew', 'berman', 'yl', 'lag', 'latch', 'cardinal', 'speedo', 'ml', 'deterrent', 'puncture']
+['iowa', 'buddy', 'operator', 'deir', 'combo', 'dysfunction', 'lindbergh', 'populated', 'leftover', 'kelly', 'chipto', 'boolean', 'lag', 'backto', 'gup']
+['contender', 'odger', 'transformer', 'job', 'template', 'peaceful', 'oiler', 'jude', 'gemini', 'cassette', 'wt', 'geek', 'informationabout', 'harbor', 'blew']
+['healthy', 'achieve', 'trunk', 'nhs', 'wrap', 'standalone', 'lydick', 'speedo', 'gup', 'llbe', 'employer', 'agood', 'metaphysical', 'owen', 'resurrection']
+['redwood', 'lindbergh', 'lucifer', 'strawberry', 'phosphor', 'foot', 'suck', 'shalala', 'harbor', 'depletion', 'wi', 'austria', 'buddy', 'minded', 'jone']
+['yl', 'channel', 'moore', 'jonestown', 'speedo', 'oiler', 'perfectly', 'lengthy', 'mac', 'gifs', 'corel', 'lm', 'achieve', 'percentage', 'symmetric']
+['minded', 'symmetric', 'jone', 'gifs', 'compress', 'bribe', 'applicable', 'yl', 'hm', 'secretly', 'peek', 'relay', 'incandescent', 'onit', 'starr']
+['buddy', 'wrap', 'ahh', 'cargo', 'minded', 'tribe', 'program', 'clamp', 'blew', 'improved', 'lag', 'truetype', 'senior', 'thatwill', 'deir']
+['yl', 'berman', 'ofisrael', 'mis', 'excuse', 'crypt', 'agood', 'pass', 'boomer', 'trunk', 'employer', 'jonestown', 'ck', 'harold', 'combo']
+['sunday', 'hellman', 'xnew', 'boomer', 'x.', 'fidelity', 'big', 'tox', 'expense', 'regenerate', 'thejew', 'xy', 'foot', 'new', 'symmetric']
+['isbn', 'tox', 'front', 'juneau', 'sony', 'apr', 'pb', 'sure', 'gifs', 'russell', 'thay', 'agood', 'ignorant', 'aim', 'sunday']
+['wail', 'gifs', 'prosecutor', 'pink', 'tone', 'ml', 'subdivision', 'anger', 'ron', 'somethinglike', 'sunday', 'reputation', 'wrap', 'redwood', 'employer']
+['wrap', 'pax', 'cryptanalytic', 'gadget', 'briefly', 'lake', 'new', 'layer', 'graphical', 'peice', 'achieve', 'foligno', 'discover', 'difference', 'ini']
+['silverline', 'layer', 'interplanetary', 'greg', 'jack', 'phosphor', 'stare', 'marc', 'thegreek', 'sunday', 'fractal', 'leftover', 'handlebar', 'armature', 'packaging']
+['redwood', 'feminist', 'talking', 'moore', 'unopened', 'compress', 'familiarwith', 'wrap', 'distribute', 'headquarter', 'miniature', 'snuff', 'georgetown', 'butthere', 'usually']
+['perpetuate', 'applicable', 'lake', 'improved', 'zp', 'gifs', 'groin', 'telecast', 'wet', 'considerable', 'chipto', 'dk', 'dpi', 'artificial', 'ofother']
+['me', 'bulldozer', 'aj', 'mt', 'initiative', 'gadget', 'aug', 'anger', 'jonestown', 'sunday', 'perpendicular', 'minded', 'respective', 'armature', 'symmetric']
+['congratulation', 'thay', 'interplanetary', 'agood', 'pink', 'carroll', 'starr', 'fall', 'kaiser', 'inflict', 'berne', 'shutdown', 'fife', 'unconditional', 'ini']
+['certainty', 'mindset', 'ini', 'unconditional', 'isjust', 'athlete', 'signal', 'rhetoric', 'bin', 'ache', 'oscar', 'joke', 'zp', 'triangulation', 'float']
+['pax', 'thejew', 'achieve', 'foreground', 'withit', 'agood', 'hatch', 'hal', 'allude', 'variation', 'thegreek', 'almanac', 'curt', 'verbal', 'relay']
+['certainty', 'new', 'thegreek', 'privileged', 'soda', 'aim', 'chipto', 'odger', 'couple', 'gifs', 'unjust', 'europe', 'army', 'x.', 'berman']
+['quart', 'pax', 'sjust', 'honestly', 'deir', 'sheriff', 'redwood', 'lp', 'master', 'juneau', 'riot', 'subdivision', 'peek', 'dread', 'cfv']
+['torque', 'eternally', 'earn', 'ld', 'speech', 'channel', 'lisa', 'deir', 'ofisrael', 'becausei', 'ussr', 'sunday', 'whoop', 'william', 'martinez']
+['ultrasound', 'rhetoric', 'boomer', 'carroll', 'groin', 'cartridge', 'hacker', 'symmetric', 'oklahoma', 'metal', 'escalate', 'crypt', 'greg', 'certainty', 'chipto']
+['achieve', 'ron', 'mist', 'biblical', 'flat', 'faust', 'owen', 'gifs', 'becausei', 'incidental', 'voltmeter', 'ld', 'cartridge', 'symmetric', 'dare']
+['lindbergh', 'deterrent', 'considerable', 'certainty', 'armature', 'envelope', 'redwood', 'insignificant', 'speedo', 'incidental', 'convention', 'layer', 'silverline', 'dread', 'majestic']
+['channel', 'new', 'privileged', 'havealready', 'standalone', 'intrigue', 'cry', 'minded', 'brief', 'confirm', 'layer', 'rendezvous', 'pretext', 'stacker', 'berne']
+['minded', 'harbor', 'antibiotic', 'oxide', 'lindbergh', 'lucifer', 'likely', 'ticket', 'clockwise', 'bin', 'instrument', 'bureaucrat', 'thay', 'subscriber', 'efficiently']
+==============================
+topic diversity:0.4826666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6632785469197566, c_w2v:None, c_uci:-9.951064597057643, c_npmi:-0.3576393414327898
+mimno topic coherence:-219.65060588112274
+Epoch  51	Iter    1	Loss_D:-0.1042866	Loss_G:61.1345558	loss_E:0.0424444
+Epoch  51	Iter   11	Loss_D:-0.1048897	Loss_G:60.4239578	loss_E:0.0426672
+Epoch  51	Iter   21	Loss_D:-0.1041561	Loss_G:59.7162056	loss_E:0.0419657
+Epoch  52	Iter    1	Loss_D:-0.1017520	Loss_G:59.0136490	loss_E:0.0396316
+Epoch  52	Iter   11	Loss_D:-0.1040276	Loss_G:58.3146858	loss_E:0.0417749
+Epoch  52	Iter   21	Loss_D:-0.1034425	Loss_G:57.6212006	loss_E:0.0412361
+Epoch  53	Iter    1	Loss_D:-0.1050465	Loss_G:56.9309845	loss_E:0.0430991
+Epoch  53	Iter   11	Loss_D:-0.1043814	Loss_G:56.2458649	loss_E:0.0423883
+Epoch  53	Iter   21	Loss_D:-0.1054165	Loss_G:55.5644951	loss_E:0.0435519
+Epoch  54	Iter    1	Loss_D:-0.1025089	Loss_G:54.8889503	loss_E:0.0405323
+Epoch  54	Iter   11	Loss_D:-0.1053969	Loss_G:54.2159386	loss_E:0.0435145
+Epoch  54	Iter   21	Loss_D:-0.1025860	Loss_G:53.5484734	loss_E:0.0405351
+Epoch  55	Iter    1	Loss_D:-0.1030357	Loss_G:52.8847809	loss_E:0.0411081
+Epoch  55	Iter   11	Loss_D:-0.1032794	Loss_G:52.2260361	loss_E:0.0415982
+Epoch  55	Iter   21	Loss_D:-0.1055973	Loss_G:51.5711250	loss_E:0.0435891
+Epoch  56	Iter    1	Loss_D:-0.1066950	Loss_G:50.9210701	loss_E:0.0447686
+Epoch  56	Iter   11	Loss_D:-0.1056015	Loss_G:50.2745285	loss_E:0.0435531
+Epoch  56	Iter   21	Loss_D:-0.1054880	Loss_G:49.6335297	loss_E:0.0434077
+Epoch  57	Iter    1	Loss_D:-0.1048876	Loss_G:48.9954872	loss_E:0.0432479
+Epoch  57	Iter   11	Loss_D:-0.1040908	Loss_G:48.3628273	loss_E:0.0423414
+Epoch  57	Iter   21	Loss_D:-0.1040334	Loss_G:47.7345886	loss_E:0.0416791
+Epoch  58	Iter    1	Loss_D:-0.1034302	Loss_G:47.1106071	loss_E:0.0416587
+Epoch  58	Iter   11	Loss_D:-0.1031615	Loss_G:46.4900703	loss_E:0.0412960
+Epoch  58	Iter   21	Loss_D:-0.1045162	Loss_G:45.8749237	loss_E:0.0424379
+Epoch  59	Iter    1	Loss_D:-0.1067668	Loss_G:45.2635307	loss_E:0.0448329
+Epoch  59	Iter   11	Loss_D:-0.1023784	Loss_G:44.6574745	loss_E:0.0403211
+Epoch  59	Iter   21	Loss_D:-0.1042117	Loss_G:44.0543365	loss_E:0.0423388
+Epoch  60	Iter    1	Loss_D:-0.1046479	Loss_G:43.4567566	loss_E:0.0427405
+Epoch  60	Iter   11	Loss_D:-0.1052164	Loss_G:42.8624420	loss_E:0.0432451
+Epoch  60	Iter   21	Loss_D:-0.1051816	Loss_G:42.2735138	loss_E:0.0433543
+Epoch  60	Loss_D_avg:-0.0967573	Loss_G_avg:118.1913099	loss_E_avg:0.0387710
+['certainty', 'dpi', 'exec', 'layer', 'groin', 'harbor', 'perfectly', 'understand', 'yuri', 'jonestown', 'illusion', 'pet', 'pretext', 'cartridge', 'patriot']
+['symmetric', 'gifs', 'ice', 'aboutit', 'slam', 'ussr', 'observation', 'expense', 'marc', 'blatant', 'theyshould', 'absolutely', 'ron', 'savage', 'privileged']
+['speedo', 'msdo', 'blatant', 'redwood', 'damphousse', 'gup', 'playback', 'wrap', 'alter', 'irish', 'feminist', 'savage', 'difference', 'vj', 'ithought']
+['achieve', 'unopened', 'darryl', 'boat', 'exec', 'trunk', 'pit', 'secondary', 'agood', 'astronomy', 'kaiser', 'jonestown', 'lm', 'mess', 'andy']
+['wrap', 'deterrent', 'waco', 'unconditional', 'iis', 'trunk', 'geographic', 'uw', 'ice', 'stupidity', 'yes', 'unreasonably', 'onlythe', 'applicable', 'andbe']
+['asmany', 'gifs', 'operator', 'gadget', 'week', 'kozlov', 'whoop', 'gup', 'zp', 'ihad', 'bright', 'privileged', 'beirut', 'oiler', 'keen']
+['perfectly', 'hm', 'verbally', 'trunk', 'donation', 'fidelity', 'beirut', 'revelation', 'gut', 'exec', 'asente', 'crypt', 'preach', 'ice', 'realm']
+['gifs', 'jonestown', 'jack', 'sunday', 'new', 'butthere', 'goverment', 'lisa', 'corner', 'reach', 'expense', 'hm', 'apr', 'relief', 'eventhe']
+['havealready', 'regenerate', 'odger', 'phosphor', 'aresome', 'jude', 'senior', 'mission', 'berman', 'fidelity', 'wrap', 'silverline', 'week', 'subdivision', 'jonestown']
+['certainty', 'privileged', 'soda', 'harbor', 'analogous', 'briefly', 'theory', 'thosewho', 'iis', 'sunday', 'odger', 'groin', 'ml', 'unjust', 'standalone']
+['sunday', 'graph', 'august', 'deterrent', 'likely', 'fife', 'disgusted', 'amal', 'analogous', 'berman', 'refrain', 'perfectly', 'satanic', 'robitaille', 'bos']
+['critic', 'ice', 'gifs', 'wail', 'chipto', 'madison', 'theconstitution', 'forgot', 'jonestown', 'mist', 'foot', 'havealready', 'hic', 'mission', 'hellman']
+['sarcastic', 'agood', 'relief', 'terribly', 'whatexactly', 'disgusted', 'bribe', 'jonestown', 'groin', 'misplay', 'boat', 'dk', 'senior', 'new', 'usually']
+['gut', 'harbor', 'alp', 'atm', 'cl', 'seat', 'usually', 'uxa', 'sunday', 'wax', 'gadget', 'thick', 'surgeon', 'isbn', 'carson']
+['cracker', 'marc', 'immunity', 'quiet', 'ini', 'symmetric', 'relief', 'mute', 'ck', 'theconstitution', 'jonestown', 'armature', 'theyshould', 'wi', 'ethz']
+['whatexactly', 'sunday', 'hellman', 'ck', 'suck', 'zealand', 'groin', 'russell', 'bn', 'hose', 'telecast', 'silicon', 'berman', 'silverline', 'armature']
+['slmr', 'earn', 'achieve', 'secondary', 'jonestown', 'charles', 'explain', 'lengthy', 'pertinent', 'minded', 'handlebar', 'withhis', 'distribute', 'yl', 'pink']
+['berman', 'pit', 'negligent', 'redwood', 'minded', 'rhetoric', 'wrap', 'phosphor', 'uci', 'pax', 'peek', 'occult', 'yuri', 'dma', 'forgot']
+['jonestown', 'ini', 'kaiser', 'subdivision', 'minded', 'strongly', 'disgusted', 'gateway', 'cy', 'blatant', 'joke', 'phosphor', 'outskirt', 'restaurant', 'boat']
+['peek', 'ama', 'minded', 'phosphor', 'chuck', 'retreat', 'yl', 'incandescent', 'goverment', 'reardon', 'determined', 'vebeen', 'subdivision', 'itbefore', 'redwood']
+['jonestown', 'pretext', 'combo', 'pit', 'zp', 'scrub', 'expense', 'bribe', 'xcreatecolormap', 'stare', 'minded', 'vibration', 'illusion', 'dk', 'marc']
+['pink', 'odger', 'uxa', 'sine', 'boomer', 'intelligence', 'crypt', 'dk', 'trunk', 'front', 'incandescent', 'berman', 'new', 'publicly', 'miniscule']
+['wail', 'harbor', 'mostpeople', 'anniversary', 'berman', 'madison', 'underwear', 'awarethat', 'share', 'trunk', 'ultrasound', 'wt', 'let', 'gifs', 'berlin']
+['sunday', 'gifs', 'redwood', 'bn', 'legion', 'secondary', 'hateful', 'achieve', 'meta', 'standalone', 'hellman', 'cartridge', 'europe', 'market', 'wrap']
+['jonestown', 'occult', 'kozlov', 'trunk', 'berman', 'deir', 'andthey', 'determined', 'austria', 'poulin', 'predecessor', 'intimate', 'ofpeople', 'template', 'lisa']
+['yes', 'redwood', 'chipto', 'gardner', 'pax', 'thatwill', 'trunk', 'figured', 'traditional', 'telecast', 'gup', 'naturally', 'trw', 'actively', 'pink']
+['gifs', 'berlin', 'finish', 'unreasonably', 'secondary', 'senior', 'occult', 'stacker', 'odger', 'silverline', 'clutch', 'tooth', 'applicable', 'barber', 'bulldozer']
+['zp', 'thiscountry', 'lm', 'spout', 'eclipse', 'possiblethat', 'millen', 'trunk', 'texas', 'vz', 'voltmeter', 'verbally', 'darryl', 'sunday', 'europe']
+['pink', 'onit', 'sunday', 'gifs', 'yuri', 'yl', 'jonestown', 'becausehe', 'wecan', 'jude', 'achieve', 'ice', 'import', 'msdo', 'hm']
+['irish', 'cu', 'lake', 'lindbergh', 'regenerate', 'moore', 'bell', 'jonestown', 'odger', 'alp', 'goverment', 'reach', 'exhibition', 'mess', 'lm']
+['mission', 'den', 'gateway', 'gifs', 'ache', 'alp', 'disgusted', 'british', 'minded', 'achieve', 'rli', 'lone', 'ofisrael', 'predecessor', 'subdivision']
+['deir', 'suck', 'cfv', 'becausei', 'subdivision', 'wt', 'aj', 'atm', 'disgusted', 'buddy', 'bos', 'job', 'capture', 'evidently', 'quart']
+['dk', 'onit', 'shipment', 'yuri', 'honestly', 'lossless', 'exceed', 'reach', 'biologist', 'chipto', 'wrap', 'crypt', 'phosphor', 'mis', 'strongly']
+['zp', 'robitaille', 'participation', 'straighten', 'gup', 'joke', 'trunk', 'projectile', 'jonestown', 'chipto', 'madison', 'waco', 'moore', 'buddy', 'hm']
+['hm', 'jonestown', 'europe', 'bureaucrat', 'weekly', 'harmony', 'yuri', 'perfectly', 'cracker', 'armature', 'flat', 'mosaic', 'meaningof', 'jone', 'frontal']
+['layer', 'voltmeter', 'sunday', 'bos', 'kd', 'jrm', 'keen', 'lindbergh', 'verbal', 'redwood', 'odger', 'ihope', 'telecast', 'contender', 'privileged']
+['backlit', 'sheesh', 'lightweight', 'chuck', 'cardinal', 'channel', 'wo', 'theory', 'whoop', 'thick', 'achieve', 'ukraine', 'meaningof', 'gup', 'jude']
+['jonestown', 'scott', 'spout', 'terribly', 'andthey', 'moore', 'twm', 'anger', 'uxa', 'strongly', 'foot', 'cso', 'operator', 'ariane', 'fame']
+['cy', 'sunday', 'reagan', 'vj', 'thejew', 'peek', 'diary', 'august', 'retrospect', 'wrap', 'layer', 'deir', 'theyshould', 'juneau', 'thanthe']
+['zalapski', 'thesource', 'certainty', 'layer', 'cartridge', 'excuse', 'applicable', 'spout', 'minded', 'bureaucrat', 'thatmatter', 'immunity', 'ld', 'back', 'cryptanalysis']
+['job', 'gifs', 'faust', 'silverline', 'gardner', 'peek', 'incarnate', 'yl', 'naturally', 'onit', 'megatek', 'senior', 'incandescent', 'eternally', 'brief']
+['redwood', 'odger', 'fidelity', 'removable', 'sunday', 'seam', 'exec', 'ache', 'zu', 'sympathy', 'confident', 'semitic', 'fn', 'jonestown', 'gardner']
+['gifs', 'zp', 'odger', 'mad', 'channel', 'slmr', 'eventhe', 'silverline', 'layer', 'lengthy', 'notify', 'mindset', 'subdivision', 'trunk', 'educational']
+['interplanetary', 'negligent', 'patriot', 'bn', 'oscar', 'creationist', 'fidelity', 'torque', 'jonestown', 'meaningof', 'shipment', 'rebuild', 'fisk', 'citizenry', 'spoil']
+['yl', 'ache', 'agood', 'redwood', 'regenerate', 'buddy', 'yd', 'vz', 'suck', 'brief', 'ideally', 'senior', 'patriot', 'projectile', 'privileged']
+['def', 'usually', 'wildly', 'senior', 'jone', 'lake', 'brief', 'research', 'diary', 'dsp', 'havealready', 'verbal', 'kenny', 'subdivision', 'circumvent']
+['havealready', 'agood', 'lydick', 'sunday', 'harmony', 'yushkevich', 'intestinal', 'bos', 'alp', 'strawberry', 'timeand', 'ihope', 'blaster', 'feminist', 'envelope']
+['skew', 'cryptanalytic', 'thick', 'wt', 'cardinal', 'berman', 'deterrent', 'harddisk', 'speedo', 'boxer', 'cartridge', 'oklahoma', 'yl', 'lag', 'ml']
+['iowa', 'buddy', 'combo', 'chipto', 'populated', 'deir', 'operator', 'irish', 'dysfunction', 'boolean', 'lengthy', 'leftover', 'kelly', 'lag', 'manhattan']
+['odger', 'contender', 'cassette', 'template', 'lydick', 'jude', 'gemini', 'transformer', 'oiler', 'job', 'wt', 'informational', 'wildly', 'forgot', 'informationabout']
+['healthy', 'nhs', 'achieve', 'standalone', 'wrap', 'trunk', 'lydick', 'gup', 'speedo', 'moore', 'llbe', 'agood', 'geographic', 'expense', 'gifs']
+['redwood', 'phosphor', 'strawberry', 'lindbergh', 'suck', 'austria', 'foot', 'hacker', 'thick', 'lucifer', 'minded', 'negligent', 'gateway', 'shalala', 'back']
+['yl', 'moore', 'channel', 'speedo', 'jonestown', 'perfectly', 'oiler', 'lengthy', 'corel', 'lm', 'dg', 'gifs', 'achieve', 'adb', 'percentage']
+['minded', 'symmetric', 'jone', 'compress', 'bribe', 'gifs', 'applicable', 'incandescent', 'yl', 'hm', 'stacker', 'peek', 'starr', 'aj', 'onit']
+['wrap', 'buddy', 'ahh', 'blew', 'deir', 'cargo', 'minded', 'clamp', 'layer', 'improved', 'senior', 'tribe', 'program', 'bk', 'lag']
+['yl', 'berman', 'mis', 'ofisrael', 'boomer', 'jonestown', 'combo', 'crypt', 'fail', 'excuse', 'misplay', 'yushkevich', 'trunk', 'lengthy', 'agood']
+['sunday', 'hellman', 'xnew', 'expense', 'tox', 'foot', 'boomer', 'fidelity', 'regenerate', 'x.', 'big', 'ache', 'new', 'thephone', 'thejew']
+['tox', 'isbn', 'sony', 'pb', 'juneau', 'sunday', 'operator', 'russell', 'front', 'minded', 'apr', 'expense', 'gifs', 'agood', 'europe']
+['wail', 'pink', 'gifs', 'sunday', 'subdivision', 'ron', 'tone', 'anger', 'prosecutor', 'achieve', 'ml', 'mission', 'layer', 'austria', 'fabrication']
+['wrap', 'pax', 'gadget', 'briefly', 'greg', 'cryptanalytic', 'new', 'layer', 'ini', 'llbe', 'europe', 'lake', 'zp', 'exec', 'discover']
+['silverline', 'layer', 'greg', 'phosphor', 'thegreek', 'interplanetary', 'marc', 'stare', 'sunday', 'jack', 'fractal', 'twm', 'thosewho', 'leftover', 'pax']
+['feminist', 'redwood', 'usually', 'sunday', 'talking', 'compress', 'moore', 'headquarter', 'distribute', 'escalate', 'miniature', 'unopened', 'familiarwith', 'observation', 'casserole']
+['perpetuate', 'applicable', 'telecast', 'chipto', 'lake', 'dk', 'groin', 'improved', 'zp', 'asthey', 'gifs', 'wet', 'soup', 'dpi', 'considerable']
+['me', 'aj', 'bulldozer', 'gadget', 'mt', 'jonestown', 'respective', 'sunday', 'initiative', 'minded', 'anger', 'ini', 'unconditional', 'armature', 'marc']
+['congratulation', 'pink', 'kaiser', 'thay', 'agood', 'interplanetary', 'carroll', 'fife', 'ini', 'starr', 'madison', 'telecast', 'inflict', 'bos', 'unconditional']
+['mindset', 'certainty', 'unconditional', 'ini', 'signal', 'isjust', 'reach', 'ache', 'joke', 'yuri', 'rhetoric', 'oscar', 'bin', 'august', 'athlete']
+['pax', 'agood', 'variation', 'allude', 'achieve', 'withit', 'thejew', 'thegreek', 'lengthy', 'ini', 'foreground', 'verbal', 'zu', 'evolve', 'almanac']
+['certainty', 'privileged', 'couple', 'thegreek', 'new', 'odger', 'chipto', 'aim', 'berman', 'unjust', 'europe', 'soda', 'goverment', 'manhattan', 'cone']
+['quart', 'pax', 'master', 'lp', 'subdivision', 'sjust', 'honestly', 'dread', 'deir', 'sheriff', 'redwood', 'speedo', 'physic', 'cfv', 'juneau']
+['torque', 'ld', 'channel', 'lisa', 'eternally', 'speech', 'earn', 'exec', 'becausei', 'martinez', 'uxa', 'achieve', 'marc', 'ussr', 'sunday']
+['ultrasound', 'boomer', 'rhetoric', 'groin', 'cartridge', 'hacker', 'escalate', 'taking', 'earn', 'greg', 'symmetric', 'oklahoma', 'chipto', 'carroll', 'sine']
+['ron', 'achieve', 'becausei', 'gifs', 'mist', 'faust', 'incidental', 'owen', 'soda', 'biblical', 'refreshing', 'bos', 'symmetric', 'gartner', 'voltmeter']
+['lindbergh', 'deterrent', 'armature', 'incidental', 'envelope', 'considerable', 'dread', 'patriot', 'redwood', 'berman', 'speedo', 'legislation', 'layer', 'silverline', 'igor']
+['channel', 'new', 'privileged', 'minded', 'havealready', 'standalone', 'intrigue', 'layer', 'cry', 'confirm', 'cfv', 'pretext', 'sunday', 'stacker', 'brief']
+['minded', 'harbor', 'subscriber', 'bin', 'clockwise', 'oxide', 'antibiotic', 'lindbergh', 'lucifer', 'likely', 'video', 'efficiently', 'ticket', 'ofpeople', 'instrument']
+==============================
+topic diversity:0.42933333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.663650988607496, c_w2v:None, c_uci:-9.966603487752367, c_npmi:-0.35829856775220514
+mimno topic coherence:-210.32167949490142
+Epoch  61	Iter    1	Loss_D:-0.1037542	Loss_G:41.6885376	loss_E:0.0416452
+Epoch  61	Iter   11	Loss_D:-0.1065044	Loss_G:41.1078987	loss_E:0.0445571
+Epoch  61	Iter   21	Loss_D:-0.1045598	Loss_G:40.5315437	loss_E:0.0423329
+Epoch  62	Iter    1	Loss_D:-0.1056245	Loss_G:39.9604073	loss_E:0.0434769
+Epoch  62	Iter   11	Loss_D:-0.1056535	Loss_G:39.3921471	loss_E:0.0433916
+Epoch  62	Iter   21	Loss_D:-0.1037934	Loss_G:38.8290901	loss_E:0.0416608
+Epoch  63	Iter    1	Loss_D:-0.1060443	Loss_G:38.2702179	loss_E:0.0438577
+Epoch  63	Iter   11	Loss_D:-0.1064423	Loss_G:37.7166214	loss_E:0.0439723
+Epoch  63	Iter   21	Loss_D:-0.1047836	Loss_G:37.1656609	loss_E:0.0425723
+Epoch  64	Iter    1	Loss_D:-0.1055437	Loss_G:36.6204033	loss_E:0.0432518
+Epoch  64	Iter   11	Loss_D:-0.1037821	Loss_G:36.0785103	loss_E:0.0413653
+Epoch  64	Iter   21	Loss_D:-0.1053342	Loss_G:35.5423355	loss_E:0.0428080
+Epoch  65	Iter    1	Loss_D:-0.1037247	Loss_G:35.0090866	loss_E:0.0414642
+Epoch  65	Iter   11	Loss_D:-0.1043140	Loss_G:34.4809761	loss_E:0.0420419
+Epoch  65	Iter   21	Loss_D:-0.1026559	Loss_G:33.9564934	loss_E:0.0406196
+Epoch  66	Iter    1	Loss_D:-0.1034706	Loss_G:33.4379425	loss_E:0.0413397
+Epoch  66	Iter   11	Loss_D:-0.1032756	Loss_G:32.9222794	loss_E:0.0408532
+Epoch  66	Iter   21	Loss_D:-0.1047039	Loss_G:32.4114113	loss_E:0.0425907
+Epoch  67	Iter    1	Loss_D:-0.1050580	Loss_G:31.9051228	loss_E:0.0426573
+Epoch  67	Iter   11	Loss_D:-0.1029318	Loss_G:31.4036541	loss_E:0.0406095
+Epoch  67	Iter   21	Loss_D:-0.1051655	Loss_G:30.9056244	loss_E:0.0426965
+Epoch  68	Iter    1	Loss_D:-0.1052473	Loss_G:30.4127750	loss_E:0.0427864
+Epoch  68	Iter   11	Loss_D:-0.1025860	Loss_G:29.9229431	loss_E:0.0403136
+Epoch  68	Iter   21	Loss_D:-0.1050444	Loss_G:29.4389763	loss_E:0.0428016
+Epoch  69	Iter    1	Loss_D:-0.1057408	Loss_G:28.9585743	loss_E:0.0433935
+Epoch  69	Iter   11	Loss_D:-0.1056035	Loss_G:28.4832897	loss_E:0.0429141
+Epoch  69	Iter   21	Loss_D:-0.1047081	Loss_G:28.0110874	loss_E:0.0424031
+Epoch  70	Iter    1	Loss_D:-0.1048243	Loss_G:27.5448914	loss_E:0.0424735
+Epoch  70	Iter   11	Loss_D:-0.1030727	Loss_G:27.0811329	loss_E:0.0408917
+Epoch  70	Iter   21	Loss_D:-0.1047584	Loss_G:26.6230564	loss_E:0.0425189
+Epoch  70	Loss_D_avg:-0.0978810	Loss_G_avg:106.1440404	loss_E_avg:0.0392812
+['layer', 'dpi', 'exec', 'certainty', 'yuri', 'groin', 'understand', 'reconciliation', 'perfectly', 'jonestown', 'sine', 'illusion', 'patriot', 'waco', 'pet']
+['symmetric', 'expense', 'gifs', 'ice', 'observation', 'theyshould', 'ron', 'absolutely', 'slam', 'aboutit', 'privileged', 'savage', 'berman', 'marc', 'escalate']
+['speedo', 'msdo', 'gup', 'irish', 'playback', 'blatant', 'theyshould', 'lydick', 'redwood', 'foot', 'savage', 'vj', 'taking', 'feminist', 'negligent']
+['achieve', 'secondary', 'exec', 'agood', 'darryl', 'jonestown', 'odger', 'pit', 'combo', 'boat', 'operator', 'minded', 'rockwell', 'havealready', 'unopened']
+['wrap', 'unconditional', 'berman', 'unreasonably', 'deterrent', 'waco', 'master', 'onlythe', 'trunk', 'bn', 'geographic', 'applicable', 'yes', 'iis', 'mute']
+['asmany', 'gifs', 'operator', 'gup', 'beirut', 'ihad', 'week', 'kozlov', 'gadget', 'seam', 'oiler', 'dg', 'ariane', 'privileged', 'whoop']
+['perfectly', 'hm', 'verbally', 'fidelity', 'gut', 'beirut', 'trunk', 'oscar', 'intelligence', 'exec', 'revelation', 'gifs', 'irish', 'evolve', 'pet']
+['gifs', 'sunday', 'jonestown', 'new', 'expense', 'jack', 'goverment', 'reach', 'lisa', 'hm', 'combo', 'skew', 'relief', 'subdivision', 'andthey']
+['berman', 'havealready', 'wrap', 'fidelity', 'senior', 'silverline', 'regenerate', 'mission', 'jude', 'weep', 'odger', 'research', 'ache', 'phosphor', 'jonestown']
+['privileged', 'certainty', 'soda', 'briefly', 'groin', 'sunday', 'thosewho', 'analogous', 'yuri', 'berman', 'corel', 'theory', 'dma', 'harbor', 'iis']
+['sunday', 'august', 'berman', 'likely', 'perfectly', 'graph', 'disgusted', 'fife', 'ora', 'attention', 'robitaille', 'canada', 'analogous', 'qtm', 'gifs']
+['critic', 'gifs', 'wail', 'chipto', 'ice', 'foot', 'odger', 'mission', 'pit', 'reagan', 'theconstitution', 'usually', 'havealready', 'madison', 'jonestown']
+['sarcastic', 'agood', 'groin', 'relief', 'disgusted', 'boat', 'bribe', 'usually', 'negligent', 'jonestown', 'misplay', 'yl', 'casserole', 'senior', 'dk']
+['gut', 'usually', 'alp', 'sunday', 'atm', 'harbor', 'surgeon', 'hateful', 'cl', 'wax', 'thick', 'rust', 'uxa', 'shipment', 'ave']
+['cracker', 'marc', 'ini', 'armature', 'symmetric', 'theconstitution', 'quiet', 'mute', 'august', 'ora', 'yl', 'immunity', 'theyshould', 'protest', 'ethz']
+['sunday', 'berman', 'zealand', 'hellman', 'whatexactly', 'suck', 'ck', 'bn', 'silverline', 'groin', 'wo', 'armature', 'telecast', 'legislation', 'vj']
+['slmr', 'achieve', 'earn', 'secondary', 'lengthy', 'pertinent', 'representation', 'legislation', 'charles', 'sunday', 'jonestown', 'soup', 'wt', 'infectious', 'minded']
+['berman', 'pit', 'negligent', 'wrap', 'minded', 'redwood', 'rhetoric', 'peek', 'pax', 'thier', 'yuri', 'earn', 'miniature', 'phosphor', 'dma']
+['jonestown', 'subdivision', 'minded', 'ini', 'strongly', 'cy', 'kaiser', 'phosphor', 'goverment', 'snuff', 'casserole', 'disgusted', 'foot', 'boat', 'trunk']
+['minded', 'ama', 'peek', 'phosphor', 'retreat', 'goverment', 'reardon', 'subdivision', 'yl', 'incandescent', 'redwood', 'chuck', 'darryl', 'lengthy', 'lisa']
+['expense', 'jonestown', 'combo', 'scrub', 'andthey', 'minded', 'sunday', 'dk', 'marc', 'bribe', 'thick', 'stare', 'pit', 'murray', 'ache']
+['odger', 'uxa', 'pink', 'intelligence', 'august', 'combo', 'sine', 'berman', 'ticket', 'crypt', 'incandescent', 'misplay', 'bondra', 'gifs', 'trunk']
+['wail', 'mostpeople', 'anniversary', 'harbor', 'berman', 'madison', 'skew', 'share', 'let', 'taking', 'thx', 'gifs', 'underwear', 'awarethat', 'happily']
+['sunday', 'gifs', 'secondary', 'redwood', 'meta', 'achieve', 'cso', 'pink', 'hateful', 'hellman', 'bn', 'wrap', 'market', 'europe', 'shipment']
+['kozlov', 'berman', 'jonestown', 'andthey', 'determined', 'occult', 'austria', 'sheesh', 'trunk', 'populated', 'standalone', 'intimate', 'twm', 'predecessor', 'ofpeople']
+['yes', 'redwood', 'chipto', 'pax', 'figured', 'gup', 'traditional', 'gardner', 'naturally', 'thatwill', 'wail', 'telecast', 'agood', 'august', 'pink']
+['gifs', 'berlin', 'unreasonably', 'secondary', 'finish', 'silverline', 'jonestown', 'senior', 'misplay', 'vj', 'odger', 'manhattan', 'occult', 'shipment', 'minded']
+['lm', 'zp', 'thiscountry', 'spout', 'sunday', 'eclipse', 'verbally', 'darryl', 'europe', 'voltmeter', 'hm', 'millen', 'possiblethat', 'trunk', 'toother']
+['onit', 'gifs', 'sunday', 'pink', 'yuri', 'hm', 'jude', 'msdo', 'astray', 'becausehe', 'jonestown', 'yl', 'boat', 'achieve', 'ice']
+['irish', 'lake', 'goverment', 'bell', 'lindbergh', 'cu', 'reach', 'moore', 'alp', 'odger', 'jonestown', 'rv', 'pbmplus', 'gifs', 'hellman']
+['mission', 'den', 'gateway', 'ache', 'disgusted', 'gifs', 'british', 'august', 'privileged', 'minded', 'alp', 'bn', 'lydick', 'predecessor', 'madison']
+['cfv', 'aj', 'suck', 'deir', 'subdivision', 'wt', 'disgusted', 'moore', 'bos', 'buddy', 'becausei', 'vj', 'rockwell', 'job', 'occult']
+['shipment', 'dk', 'onit', 'yuri', 'wrap', 'lossless', 'exceed', 'jonestown', 'privileged', 'mis', 'harmony', 'general', 'bait', 'honestly', 'legislation']
+['zp', 'robitaille', 'gup', 'straighten', 'madison', 'waco', 'trunk', 'chipto', 'participation', 'jonestown', 'lc', 'hm', 'joke', 'ini', 'moore']
+['meaningof', 'hm', 'jonestown', 'yuri', 'harmony', 'europe', 'perpendicular', 'taking', 'cracker', 'agood', 'mosaic', 'channel', 'understand', 'harddisk', 'speech']
+['layer', 'voltmeter', 'sunday', 'bos', 'kd', 'dg', 'patriot', 'considerable', 'odger', 'ihope', 'privileged', 'forgot', 'jrm', 'keen', 'lindbergh']
+['backlit', 'sheesh', 'channel', 'shipment', 'gup', 'standalone', 'andthey', 'theory', 'wo', 'meaningof', 'thick', 'cardinal', 'lightweight', 'ukraine', 'achieve']
+['jonestown', 'scott', 'spout', 'andthey', 'moore', 'vj', 'foot', 'twm', 'ariane', 'sunday', 'envelope', 'eclipse', 'cso', 'hillside', 'casserole']
+['sunday', 'cy', 'vj', 'wrap', 'reagan', 'august', 'peek', 'layer', 'retrospect', 'bell', 'privileged', 'theyshould', 'thejew', 'weep', 'insertion']
+['thesource', 'cartridge', 'applicable', 'zalapski', 'certainty', 'excuse', 'layer', 'minded', 'back', 'spout', 'thatmatter', 'cryptanalysis', 'closeup', 'bureaucrat', 'berman']
+['silverline', 'job', 'gifs', 'faust', 'gardner', 'peek', 'naturally', 'incarnate', 'cfv', 'misplay', 'yl', 'oklahoma', 'combo', 'onit', 'shipment']
+['odger', 'redwood', 'fidelity', 'exec', 'sunday', 'sympathy', 'seam', 'ache', 'gardner', 'evolve', 'earn', 'zu', 'shipment', 'removable', 'pax']
+['odger', 'mad', 'gifs', 'channel', 'zp', 'slmr', 'lp', 'silverline', 'notify', 'lengthy', 'ini', 'educational', 'mindset', 'representation', 'eventhe']
+['negligent', 'oscar', 'patriot', 'bn', 'shipment', 'aj', 'fidelity', 'torque', 'meaningof', 'interplanetary', 'usually', 'lydick', 'lengthy', 'creationist', 'spoil']
+['ache', 'yl', 'agood', 'redwood', 'regenerate', 'vz', 'reconciliation', 'suck', 'silverline', 'patriot', 'brief', 'yd', 'theyshould', 'privileged', 'buddy']
+['def', 'havealready', 'wildly', 'usually', 'senior', 'lake', 'research', 'kenny', 'aj', 'brief', 'subdivision', 'dma', 'jone', 'circumvent', 'onit']
+['havealready', 'agood', 'envelope', 'sunday', 'lydick', 'strawberry', 'yushkevich', 'gut', 'harmony', 'aj', 'ihope', 'bos', 'alp', 'intestinal', 'fidelity']
+['skew', 'cardinal', 'wt', 'berman', 'thick', 'cryptanalytic', 'oklahoma', 'harddisk', 'rest', 'speedo', 'shipment', 'deterrent', 'mad', 'minded', 'lag']
+['iowa', 'chipto', 'combo', 'populated', 'buddy', 'manhattan', 'irish', 'onit', 'waco', 'europe', 'becausehe', 'bandwidth', 'lengthy', 'boolean', 'aj']
+['lydick', 'cassette', 'odger', 'gemini', 'informational', 'contender', 'jude', 'forgot', 'wildly', 'understand', 'achieve', 'madison', 'template', 'efficiently', 'wt']
+['nhs', 'lydick', 'healthy', 'wrap', 'standalone', 'geographic', 'gup', 'expense', 'achieve', 'speedo', 'trunk', 'agood', 'sunday', 'attention', 'gifs']
+['hacker', 'thick', 'redwood', 'phosphor', 'gateway', 'suck', 'austria', 'foot', 'negligent', 'minded', 'strawberry', 'lindbergh', 'pertinent', 'dma', 'understand']
+['yl', 'speedo', 'moore', 'dg', 'channel', 'jonestown', 'perfectly', 'bn', 'berman', 'actively', 'thier', 'skew', 'corel', 'oiler', 'hm']
+['minded', 'symmetric', 'jone', 'hm', 'stacker', 'yl', 'incandescent', 'applicable', 'evolve', 'gifs', 'vj', 'aj', 'bribe', 'dk', 'compress']
+['wrap', 'buddy', 'layer', 'deir', 'minded', 'irish', 'senior', 'oklahoma', 'depletion', 'bk', 'sarcastic', 'blew', 'ahh', 'combo', 'cluster']
+['mis', 'yl', 'fail', 'ofisrael', 'berman', 'combo', 'incarnate', 'misplay', 'boomer', 'lengthy', 'jonestown', 'variation', 'likely', 'excuse', 'crypt']
+['sunday', 'expense', 'hellman', 'xnew', 'foot', 'tox', 'ache', 'fidelity', 'thephone', 'boomer', 'regenerate', 'boat', 'subdivision', 'incarnate', 'new']
+['tox', 'minded', 'sunday', 'isbn', 'pb', 'sony', 'operator', 'theyshould', 'lydick', 'aj', 'expense', 'gifs', 'agood', 'combo', 'europe']
+['wail', 'pink', 'gifs', 'subdivision', 'sunday', 'achieve', 'ron', 'austria', 'mission', 'tone', 'anger', 'say', 'layer', 'oklahoma', 'jude']
+['wrap', 'greg', 'briefly', 'zp', 'incandescent', 'pax', 'europe', 'ini', 'protest', 'llbe', 'gadget', 'ora', 'retreat', 'layer', 'acronym']
+['silverline', 'thegreek', 'greg', 'marc', 'layer', 'phosphor', 'sunday', 'twm', 'pax', 'stare', 'cfv', 'fife', 'fractal', 'interplanetary', 'shipment']
+['sunday', 'usually', 'feminist', 'redwood', 'escalate', 'earn', 'miniature', 'mormon', 'headquarter', 'distribute', 'observation', 'geographic', 'incidental', 'yes', 'wrap']
+['perpetuate', 'chipto', 'asthey', 'applicable', 'telecast', 'dk', 'soup', 'groin', 'shipment', 'marc', 'improved', 'considerable', 'lake', 'gifs', 'dpi']
+['aj', 'me', 'ini', 'minded', 'gadget', 'feustel', 'initiative', 'jonestown', 'sunday', 'legislation', 'msdo', 'mt', 'marc', 'respective', 'evolve']
+['madison', 'ini', 'congratulation', 'kaiser', 'agood', 'fife', 'mormon', 'hm', 'telecast', 'pink', 'bos', 'inflict', 'carroll', 'subdivision', 'manhattan']
+['mindset', 'ini', 'unconditional', 'ache', 'spout', 'lost', 'signal', 'yuri', 'august', 'reach', 'isjust', 'certainty', 'berman', 'groin', 'combo']
+['agood', 'pax', 'variation', 'allude', 'bn', 'lengthy', 'achieve', 'withit', 'evolve', 'ini', 'expense', 'thegreek', 'microdistrict', 'wail', 'shipment']
+['certainty', 'couple', 'odger', 'privileged', 'berman', 'chipto', 'thegreek', 'manhattan', 'ora', 'goverment', 'cone', 'jonestown', 'lm', 'new', 'unjust']
+['pax', 'quart', 'lp', 'dread', 'subdivision', 'master', 'physic', 'cfv', 'speedo', 'groin', 'sheriff', 'oklahoma', 'totake', 'redwood', 'honestly']
+['torque', 'lisa', 'ld', 'exec', 'achieve', 'channel', 'martinez', 'earn', 'speech', 'uxa', 'becausei', 'marc', 'eternally', 'misplay', 'disgusted']
+['earn', 'ultrasound', 'taking', 'boomer', 'lengthy', 'escalate', 'cartridge', 'sine', 'rhetoric', 'wrap', 'greg', 'oklahoma', 'odger', 'groin', 'hacker']
+['ron', 'achieve', 'gifs', 'becausei', 'incidental', 'havealready', 'bos', 'faust', 'refreshing', 'applicable', 'soda', 'symmetric', 'voltmeter', 'reconciliation', 'mist']
+['dg', 'incidental', 'patriot', 'envelope', 'legislation', 'berman', 'armature', 'dread', 'lindbergh', 'deterrent', 'vj', 'layer', 'considerable', 'redwood', 'silverline']
+['channel', 'privileged', 'minded', 'new', 'havealready', 'becausei', 'intrigue', 'sunday', 'berman', 'cfv', 'layer', 'pretext', 'confirm', 'standalone', 'oscar']
+['minded', 'harbor', 'bin', 'subscriber', 'clockwise', 'efficiently', 'gup', 'verbally', 'ofpeople', 'lydick', 'lindbergh', 'video', 'agood', 'legislation', 'lucifer']
+==============================
+topic diversity:0.36088888888888887
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6632741131982282, c_w2v:None, c_uci:-9.994587623395779, c_npmi:-0.3594070028467742
+mimno topic coherence:-191.60077889760544
+Epoch  71	Iter    1	Loss_D:-0.1040420	Loss_G:26.1688061	loss_E:0.0418969
+Epoch  71	Iter   11	Loss_D:-0.1032277	Loss_G:25.7197094	loss_E:0.0411366
+Epoch  71	Iter   21	Loss_D:-0.1042145	Loss_G:25.2738361	loss_E:0.0421611
+Epoch  72	Iter    1	Loss_D:-0.1021181	Loss_G:24.8334122	loss_E:0.0400818
+Epoch  72	Iter   11	Loss_D:-0.1050922	Loss_G:24.3962173	loss_E:0.0430319
+Epoch  72	Iter   21	Loss_D:-0.1024168	Loss_G:23.9646893	loss_E:0.0403327
+Epoch  73	Iter    1	Loss_D:-0.1038232	Loss_G:23.5362682	loss_E:0.0420416
+Epoch  73	Iter   11	Loss_D:-0.1061993	Loss_G:23.1130276	loss_E:0.0443390
+Epoch  73	Iter   21	Loss_D:-0.1034369	Loss_G:22.6934223	loss_E:0.0417642
+Epoch  74	Iter    1	Loss_D:-0.1044171	Loss_G:22.2798653	loss_E:0.0424359
+Epoch  74	Iter   11	Loss_D:-0.1051578	Loss_G:21.8686733	loss_E:0.0432076
+Epoch  74	Iter   21	Loss_D:-0.1044004	Loss_G:21.4628201	loss_E:0.0425147
+Epoch  75	Iter    1	Loss_D:-0.1039463	Loss_G:21.0611992	loss_E:0.0418767
+Epoch  75	Iter   11	Loss_D:-0.1039476	Loss_G:20.6644554	loss_E:0.0418553
+Epoch  75	Iter   21	Loss_D:-0.1049215	Loss_G:20.2710781	loss_E:0.0427414
+Epoch  76	Iter    1	Loss_D:-0.1050649	Loss_G:19.8829250	loss_E:0.0428566
+Epoch  76	Iter   11	Loss_D:-0.1031707	Loss_G:19.4982014	loss_E:0.0408075
+Epoch  76	Iter   21	Loss_D:-0.1025091	Loss_G:19.1187916	loss_E:0.0403610
+Epoch  77	Iter    1	Loss_D:-0.1048325	Loss_G:18.7429447	loss_E:0.0427851
+Epoch  77	Iter   11	Loss_D:-0.1036002	Loss_G:18.3721809	loss_E:0.0413601
+Epoch  77	Iter   21	Loss_D:-0.1037297	Loss_G:18.0050354	loss_E:0.0414885
+Epoch  78	Iter    1	Loss_D:-0.1059685	Loss_G:17.6434326	loss_E:0.0438107
+Epoch  78	Iter   11	Loss_D:-0.1054651	Loss_G:17.2849617	loss_E:0.0429377
+Epoch  78	Iter   21	Loss_D:-0.1061455	Loss_G:16.9311485	loss_E:0.0439610
+Epoch  79	Iter    1	Loss_D:-0.1039437	Loss_G:16.5817909	loss_E:0.0417068
+Epoch  79	Iter   11	Loss_D:-0.1044436	Loss_G:16.2376633	loss_E:0.0418441
+Epoch  79	Iter   21	Loss_D:-0.1027636	Loss_G:15.8963108	loss_E:0.0403902
+Epoch  80	Iter    1	Loss_D:-0.1063271	Loss_G:15.5606565	loss_E:0.0439437
+Epoch  80	Iter   11	Loss_D:-0.1031091	Loss_G:15.2279081	loss_E:0.0409474
+Epoch  80	Iter   21	Loss_D:-0.1040762	Loss_G:14.9013166	loss_E:0.0416273
+Epoch  80	Loss_D_avg:-0.0986730	Loss_G_avg:95.4060051	loss_E_avg:0.0396304
+['layer', 'sol', 'groin', 'sine', 'understand', 'feustel', 'exec', 'channel', 'evolve', 'reconciliation', 'oscar', 'ache', 'yuri', 'waco', 'dpi']
+['symmetric', 'ron', 'theyshould', 'berman', 'savage', 'torque', 'market', 'privileged', 'expense', 'let', 'madison', 'observation', 'gifs', 'moore', 'escalate']
+['msdo', 'speedo', 'irish', 'taking', 'theyshould', 'gup', 'playback', 'lydick', 'vj', 'foot', 'minded', 'understand', 'yuri', 'pit', 'blatant']
+['combo', 'agood', 'darryl', 'secondary', 'exec', 'odger', 'jonestown', 'minded', 'havealready', 'rockwell', 'achieve', 'layer', 'boat', 'retrospect', 'cracker']
+['master', 'berman', 'unconditional', 'unreasonably', 'wrap', 'applicable', 'perpendicular', 'evolve', 'hacker', 'bn', 'geographic', 'dg', 'yes', 'onlythe', 'moonbase']
+['gifs', 'asmany', 'gup', 'hateful', 'ariane', 'dg', 'cfv', 'seam', 'combo', 'kozlov', 'havealready', 'darryl', 'let', 'ron', 'gateway']
+['verbally', 'perfectly', 'hm', 'fidelity', 'oscar', 'pet', 'gifs', 'intelligence', 'gut', 'irish', 'aj', 'theyshould', 'evolve', 'actively', 'wail']
+['gifs', 'murray', 'sunday', 'expense', 'goverment', 'ache', 'ariane', 'peek', 'new', 'wail', 'skew', 'impartial', 'agood', 'boat', 'doi']
+['berman', 'ache', 'fidelity', 'silverline', 'havealready', 'research', 'wrap', 'envelope', 'jude', 'agood', 'senior', 'odger', 'channel', 'weep', 'layer']
+['privileged', 'groin', 'sunday', 'briefly', 'berman', 'thosewho', 'sine', 'aj', 'madison', 'onit', 'theory', 'wail', 'yuri', 'fidelity', 'analogous']
+['berman', 'sunday', 'august', 'likely', 'perfectly', 'fife', 'ora', 'minded', 'disgusted', 'bandwidth', 'gifs', 'ache', 'attention', 'havealready', 'canada']
+['chipto', 'reagan', 'gifs', 'wail', 'critic', 'cracker', 'berman', 'pit', 'gettingthe', 'odger', 'protest', 'foot', 'usually', 'dma', 'vj']
+['sarcastic', 'boat', 'agood', 'groin', 'disgusted', 'yl', 'bribe', 'negligent', 'usually', 'relief', 'theory', 'casserole', 'senior', 'aj', 'jonestown']
+['usually', 'gut', 'hateful', 'surgeon', 'alp', 'ave', 'scott', 'speech', 'shipment', 'pit', 'acrossthe', 'sunday', 'odger', 'thick', 'wax']
+['cracker', 'august', 'ini', 'marc', 'armature', 'theconstitution', 'mute', 'symmetric', 'ora', 'protest', 'informational', 'considerable', 'yl', 'suck', 'yuri']
+['berman', 'sunday', 'zealand', 'silverline', 'wo', 'hellman', 'oscar', 'ora', 'murray', 'vj', 'evolve', 'august', 'legislation', 'groin', 'tooth']
+['secondary', 'achieve', 'legislation', 'slmr', 'sunday', 'reardon', 'pink', 'representation', 'earn', 'thiscountry', 'boat', 'pertinent', 'berlin', 'lengthy', 'efficiently']
+['berman', 'negligent', 'wrap', 'thier', 'pit', 'taking', 'minded', 'peek', 'ache', 'shipment', 'gc', 'lydick', 'nationalist', 'wail', 'pax']
+['jonestown', 'minded', 'subdivision', 'ini', 'snuff', 'strongly', 'foot', 'goverment', 'casserole', 'meaningof', 'boat', 'retreat', 'technical', 'kaiser', 'phosphor']
+['minded', 'ama', 'retreat', 'darryl', 'reardon', 'goverment', 'peek', 'incandescent', 'lengthy', 'subdivision', 'yl', 'phosphor', 'murray', 'exec', 'redwood']
+['ache', 'marc', 'andthey', 'sunday', 'scrub', 'jonestown', 'expense', 'combo', 'mad', 'gup', 'lag', 'minded', 'depletion', 'dk', 'berman']
+['august', 'pink', 'odger', 'berman', 'moonbase', 'combo', 'yuri', 'form', 'uxa', 'perfectly', 'bondra', 'incandescent', 'twm', 'millen', 'intelligence']
+['wail', 'anniversary', 'skew', 'taking', 'madison', 'berman', 'harbor', 'gifs', 'let', 'happily', 'wt', 'negligent', 'share', 'berlin', 'np']
+['sunday', 'secondary', 'achieve', 'market', 'pink', 'redwood', 'cso', 'hateful', 'europe', 'august', 'wrap', 'gifs', 'shipment', 'theconstitution', 'feustel']
+['berman', 'kozlov', 'determined', 'andthey', 'austria', 'populated', 'standalone', 'occult', 'boat', 'jonestown', 'almighty', 'twm', 'groin', 'gi', 'turnaround']
+['yes', 'chipto', 'redwood', 'gup', 'pax', 'wail', 'figured', 'pink', 'shipment', 'traditional', 'agood', 'pit', 'gardner', 'naturally', 'august']
+['gifs', 'berlin', 'misplay', 'vj', 'secondary', 'jonestown', 'silverline', 'unreasonably', 'senior', 'odger', 'minded', 'occult', 'shipment', 'manhattan', 'fife']
+['sunday', 'lm', 'thiscountry', 'zp', 'hm', 'spout', 'europe', 'darryl', 'eclipse', 'verbally', 'millen', 'voltmeter', 'toother', 'msdo', 'aj']
+['yuri', 'onit', 'gifs', 'sunday', 'boat', 'astray', 'jude', 'msdo', 'pink', 'hm', 'aj', 'becausehe', 'yl', 'tofind', 'populated']
+['irish', 'goverment', 'moore', 'alp', 'lake', 'minded', 'toother', 'lindbergh', 'odger', 'hellman', 'gifs', 'pbmplus', 'reach', 'rv', 'applicable']
+['gateway', 'mission', 'ache', 'august', 'den', 'disgusted', 'british', 'alto', 'bn', 'gifs', 'privileged', 'madison', 'theanswer', 'lydick', 'aj']
+['aj', 'cfv', 'moore', 'suck', 'rockwell', 'ariane', 'wt', 'subdivision', 'vj', 'wail', 'disgusted', 'beauchaine', 'madison', 'occult', 'norton']
+['shipment', 'onit', 'wrap', 'jonestown', 'bait', 'mis', 'privileged', 'legislation', 'yuri', 'general', 'fife', 'dk', 'thick', 'odger', 'gifs']
+['zp', 'gup', 'robitaille', 'chipto', 'madison', 'hateful', 'physic', 'murray', 'lag', 'ini', 'envelope', 'waco', 'pax', 'hm', 'negligent']
+['meaningof', 'perpendicular', 'hm', 'jonestown', 'channel', 'taking', 'moonbase', 'stl', 'agood', 'europe', 'ache', 'alto', 'cracker', 'yuri', 'ron']
+['layer', 'voltmeter', 'sunday', 'dg', 'ihope', 'forgot', 'kd', 'berman', 'considerable', 'bos', 'irish', 'groin', 'odger', 'feminist', 'pax']
+['channel', 'shipment', 'sheesh', 'standalone', 'backlit', 'theory', 'andthey', 'meaningof', 'gup', 'jude', 'achieve', 'ukraine', 'cardinal', 'aj', 'thick']
+['jonestown', 'vj', 'scott', 'ariane', 'spout', 'foot', 'andthey', 'fame', 'twm', 'envelope', 'hillside', 'sunday', 'moore', 'eclipse', 'darryl']
+['vj', 'sunday', 'wrap', 'august', 'reagan', 'layer', 'shipment', 'privileged', 'retrospect', 'insertion', 'favourite', 'fidelity', 'weep', 'peek', 'applicable']
+['spout', 'berman', 'thesource', 'minded', 'thatmatter', 'applicable', 'back', 'layer', 'andthey', 'rockwell', 'plunder', 'misplay', 'protest', 'cartridge', 'cryptanalysis']
+['silverline', 'misplay', 'gardner', 'gifs', 'naturally', 'incarnate', 'cfv', 'job', 'faust', 'peek', 'twm', 'combo', 'berman', 'oklahoma', 'sine']
+['odger', 'sunday', 'gardner', 'sympathy', 'fidelity', 'evolve', 'shipment', 'ache', 'berman', 'seam', 'redwood', 'exec', 'people', 'foot', 'pax']
+['odger', 'mad', 'channel', 'gifs', 'ini', 'armature', 'impartial', 'silverline', 'zp', 'aj', 'taxi', 'gardner', 'lp', 'legislation', 'agood']
+['negligent', 'aj', 'shipment', 'ache', 'fidelity', 'lydick', 'oscar', 'torque', 'lengthy', 'bn', 'meaningof', 'misplay', 'hacker', 'spoil', 'jude']
+['ache', 'yl', 'agood', 'vz', 'silverline', 'redwood', 'cfv', 'berman', 'suck', 'theyshould', 'steam', 'reconciliation', 'privileged', 'alto', 'shy']
+['havealready', 'wildly', 'def', 'usually', 'efficiently', 'senior', 'asu', 'wrap', 'kenny', 'perfectly', 'jude', 'incandescent', 'aj', 'marc', 'dma']
+['envelope', 'havealready', 'sunday', 'strawberry', 'agood', 'aj', 'layer', 'gut', 'fidelity', 'goverment', 'lydick', 'reardon', 'groin', 'yushkevich', 'bandwidth']
+['skew', 'cardinal', 'berman', 'thick', 'wt', 'rest', 'speedo', 'shipment', 'oklahoma', 'mad', 'weep', 'gi', 'minded', 'aj', 'foot']
+['iowa', 'chipto', 'combo', 'populated', 'manhattan', 'bandwidth', 'alto', 'irish', 'aj', 'moonbase', 'onit', 'lydick', 'tettleton', 'waco', 'europe']
+['forgot', 'lydick', 'informational', 'achieve', 'efficiently', 'odger', 'jude', 'gemini', 'cassette', 'moore', 'wildly', 'understand', 'efficiency', 'hateful', 'vj']
+['attention', 'geographic', 'marc', 'wrap', 'lydick', 'gup', 'oklahoma', 'expense', 'nhs', 'sunday', 'reconciliation', 'vj', 'fidelity', 'standalone', 'agood']
+['hacker', 'thick', 'negligent', 'gateway', 'foot', 'minded', 'redwood', 'ron', 'suck', 'alto', 'dma', 'protest', 'iowa', 'efficiently', 'depletion']
+['yl', 'dg', 'berman', 'channel', 'speedo', 'moore', 'taking', 'actively', 'thier', 'bn', 'marc', 'aj', 'perfectly', 'dread', 'moonbase']
+['minded', 'symmetric', 'evolve', 'incandescent', 'havealready', 'thier', 'hm', 'msu', 'vj', 'negligent', 'yl', 'gifs', 'applicable', 'stacker', 'aj']
+['wrap', 'layer', 'depletion', 'sunday', 'minded', 'aj', 'buddy', 'irish', 'senior', 'perpendicular', 'combo', 'base', 'sarcastic', 'ora', 'oklahoma']
+['mis', 'fail', 'misplay', 'yl', 'berman', 'lengthy', 'odger', 'variation', 'incarnate', 'alp', 'combo', 'physic', 'allude', 'ofisrael', 'pillion']
+['sunday', 'expense', 'ache', 'hellman', 'foot', 'tox', 'marc', 'xnew', 'shipment', 'fidelity', 'irish', 'zp', 'ariane', 'legislation', 'layer']
+['tox', 'minded', 'murray', 'aj', 'theyshould', 'ron', 'europe', 'combo', 'expense', 'darryl', 'agood', 'bn', 'lydick', 'sunday', 'pb']
+['wail', 'pink', 'say', 'ron', 'sunday', 'turnaround', 'gifs', 'achieve', 'layer', 'austria', 'gup', 'cracker', 'anger', 'subdivision', 'oklahoma']
+['wrap', 'berman', 'incandescent', 'protest', 'ora', 'zp', 'briefly', 'layer', 'greg', 'ini', 'aj', 'llbe', 'mormon', 'europe', 'darryl']
+['silverline', 'thegreek', 'marc', 'greg', 'sunday', 'pax', 'twm', 'layer', 'cfv', 'ihope', 'eclipse', 'andthey', 'kenny', 'perpendicular', 'becausei']
+['sunday', 'escalate', 'usually', 'earn', 'likely', 'redwood', 'yes', 'incidental', 'feminist', 'geographic', 'distribute', 'gup', 'achieve', 'observation', 'video']
+['perpetuate', 'asthey', 'ache', 'chipto', 'shipment', 'perfectly', 'alto', 'murray', 'dk', 'marc', 'groin', 'ave', 'soup', 'applicable', 'considerable']
+['feustel', 'aj', 'legislation', 'marc', 'ini', 'msdo', 'evolve', 'jonestown', 'minded', 'sunday', 'likely', 'verbally', 'mainland', 'august', 'channel']
+['madison', 'mormon', 'ini', 'hm', 'lost', 'beauchaine', 'manhattan', 'fife', 'agood', 'sunday', 'telecast', 'thier', 'rest', 'tettleton', 'subdivision']
+['mindset', 'lost', 'spout', 'ache', 'ini', 'groin', 'august', 'berman', 'ron', 'vj', 'signal', 'fractal', 'combo', 'yuri', 'reardon']
+['agood', 'pax', 'variation', 'microdistrict', 'bn', 'wail', 'rockwell', 'lydick', 'allude', 'mis', 'achieve', 'thecountry', 'surgeon', 'thephone', 'expense']
+['couple', 'berman', 'privileged', 'ora', 'manhattan', 'efficiency', 'goverment', 'taking', 'odger', 'riding', 'cone', 'np', 'chipto', 'hateful', 'sunday']
+['dread', 'lp', 'physic', 'thevarious', 'groin', 'master', 'marc', 'pax', 'cfv', 'oklahoma', 'subdivision', 'mute', 'negligent', 'msdo', 'quart']
+['lisa', 'torque', 'marc', 'berman', 'martinez', 'exec', 'channel', 'achieve', 'becausei', 'ld', 'uxa', 'misplay', 'irish', 'aj', 'canada']
+['sine', 'taking', 'madison', 'greg', 'lengthy', 'escalate', 'earn', 'boomer', 'silverline', 'odger', 'unofficial', 'fractal', 'pax', 'cracker', 'alto']
+['ron', 'gifs', 'becausei', 'havealready', 'applicable', 'reconciliation', 'achieve', 'silverline', 'torque', 'negligent', 'voltmeter', 'hellman', 'incidental', 'turnaround', 'disgusted']
+['dg', 'berman', 'legislation', 'envelope', 'vj', 'incidental', 'silverline', 'dread', 'layer', 'patriot', 'andthey', 'lb', 'europe', 'perfectly', 'armature']
+['channel', 'becausei', 'minded', 'privileged', 'berman', 'havealready', 'moonbase', 'cfv', 'alto', 'yuri', 'new', 'groin', 'dg', 'layer', 'evolve']
+['minded', 'verbally', 'bin', 'legislation', 'gup', 'harbor', 'efficiently', 'consulting', 'agood', 'pink', 'subscriber', 'ache', 'playback', 'video', 'expose']
+==============================
+topic diversity:0.2897777777777778
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6582505049916553, c_w2v:None, c_uci:-9.937063392697539, c_npmi:-0.35739727612893274
+mimno topic coherence:-190.29634738579136
+Epoch  81	Iter    1	Loss_D:-0.1048733	Loss_G:14.5778198	loss_E:0.0425457
+Epoch  81	Iter   11	Loss_D:-0.1043625	Loss_G:14.2594118	loss_E:0.0418317
+Epoch  81	Iter   21	Loss_D:-0.1058044	Loss_G:13.9446983	loss_E:0.0431909
+Epoch  82	Iter    1	Loss_D:-0.1062416	Loss_G:13.6352139	loss_E:0.0439606
+Epoch  82	Iter   11	Loss_D:-0.1035146	Loss_G:13.3286848	loss_E:0.0413184
+Epoch  82	Iter   21	Loss_D:-0.1050797	Loss_G:13.0277767	loss_E:0.0427576
+Epoch  83	Iter    1	Loss_D:-0.1025615	Loss_G:12.7306519	loss_E:0.0402780
+Epoch  83	Iter   11	Loss_D:-0.1042263	Loss_G:12.4383068	loss_E:0.0423054
+Epoch  83	Iter   21	Loss_D:-0.1048957	Loss_G:12.1500454	loss_E:0.0425032
+Epoch  84	Iter    1	Loss_D:-0.1027252	Loss_G:11.8666763	loss_E:0.0403996
+Epoch  84	Iter   11	Loss_D:-0.1050139	Loss_G:11.5865345	loss_E:0.0426470
+Epoch  84	Iter   21	Loss_D:-0.1030860	Loss_G:11.3119984	loss_E:0.0407069
+Epoch  85	Iter    1	Loss_D:-0.1055599	Loss_G:11.0408783	loss_E:0.0432355
+Epoch  85	Iter   11	Loss_D:-0.1045327	Loss_G:10.7747488	loss_E:0.0422589
+Epoch  85	Iter   21	Loss_D:-0.1038209	Loss_G:10.5125217	loss_E:0.0413345
+Epoch  86	Iter    1	Loss_D:-0.1025726	Loss_G:10.2555904	loss_E:0.0402679
+Epoch  86	Iter   11	Loss_D:-0.1045380	Loss_G:10.0015173	loss_E:0.0422396
+Epoch  86	Iter   21	Loss_D:-0.1052397	Loss_G:9.7529259	loss_E:0.0428741
+Epoch  87	Iter    1	Loss_D:-0.1045273	Loss_G:9.5082664	loss_E:0.0420344
+Epoch  87	Iter   11	Loss_D:-0.1048320	Loss_G:9.2681265	loss_E:0.0427840
+Epoch  87	Iter   21	Loss_D:-0.1035189	Loss_G:9.0320473	loss_E:0.0412175
+Epoch  88	Iter    1	Loss_D:-0.1051503	Loss_G:8.8012829	loss_E:0.0426651
+Epoch  88	Iter   11	Loss_D:-0.1047867	Loss_G:8.5735483	loss_E:0.0421902
+Epoch  88	Iter   21	Loss_D:-0.1048886	Loss_G:8.3512840	loss_E:0.0423299
+Epoch  89	Iter    1	Loss_D:-0.1073767	Loss_G:8.1327162	loss_E:0.0448183
+Epoch  89	Iter   11	Loss_D:-0.1044548	Loss_G:7.9188380	loss_E:0.0419823
+Epoch  89	Iter   21	Loss_D:-0.1049024	Loss_G:7.7084603	loss_E:0.0428059
+Epoch  90	Iter    1	Loss_D:-0.1054376	Loss_G:7.5043478	loss_E:0.0430612
+Epoch  90	Iter   11	Loss_D:-0.1049119	Loss_G:7.3026228	loss_E:0.0426343
+Epoch  90	Iter   21	Loss_D:-0.1033140	Loss_G:7.1062698	loss_E:0.0410524
+Epoch  90	Loss_D_avg:-0.0993269	Loss_G_avg:85.9772038	loss_E_avg:0.0399167
+['evolve', 'thevarious', 'sol', 'channel', 'layer', 'ache', 'feustel', 'understand', 'vj', 'groin', 'thier', 'aj', 'oscar', 'mute', 'tone']
+['symmetric', 'berman', 'theyshould', 'envelope', 'rockwell', 'vj', 'torque', 'lag', 'alto', 'exchange', 'geographic', 'ron', 'aj', 'thier', 'spout']
+['msdo', 'vj', 'gup', 'darryl', 'theyshould', 'taking', 'understand', 'oscar', 'yuri', 'moonbase', 'speedo', 'berlin', 'gifs', 'channel', 'negligent']
+['darryl', 'agood', 'exec', 'combo', 'retrospect', 'educational', 'pink', 'rockwell', 'odger', 'secondary', 'bondra', 'zp', 'jonestown', 'subscription', 'ache']
+['berman', 'master', 'evolve', 'hacker', 'sarcastic', 'dg', 'moonbase', 'fidelity', 'msdo', 'microdistrict', 'unconditional', 'wrap', 'mad', 'mute', 'marc']
+['combo', 'ariane', 'gifs', 'gup', 'gateway', 'darryl', 'kozlov', 'aj', 'hateful', 'evolve', 'channel', 'dg', 'cfv', 'let', 'asmany']
+['perfectly', 'hm', 'fidelity', 'thier', 'gifs', 'verbally', 'combo', 'aj', 'theyshould', 'forgot', 'oscar', 'ache', 'misplay', 'actively', 'subscription']
+['murray', 'gifs', 'subscription', 'ariane', 'wail', 'ache', 'thier', 'negligent', 'meaningof', 'feustel', 'cracker', 'moonbase', 'alto', 'impartial', 'boat']
+['berman', 'ache', 'fidelity', 'moonbase', 'madison', 'silverline', 'channel', 'jude', 'havealready', 'theanswer', 'senior', 'ukraine', 'pink', 'mod', 'gui']
+['berman', 'madison', 'bandwidth', 'fidelity', 'thosewho', 'wail', 'groin', 'europe', 'sine', 'perpendicular', 'alto', 'rockwell', 'onit', 'privileged', 'sunday']
+['berman', 'bandwidth', 'perfectly', 'sunday', 'august', 'rest', 'gifs', 'minded', 'llbe', 'marc', 'incandescent', 'ora', 'msdo', 'likely', 'msu']
+['berman', 'gifs', 'vj', 'sarcastic', 'uxa', 'cracker', 'gateway', 'foot', 'bandwidth', 'protest', 'wail', 'chipto', 'august', 'berlin', 'pit']
+['sarcastic', 'agood', 'boat', 'theory', 'ache', 'groin', 'disgusted', 'aj', 'rest', 'negligent', 'channel', 'yl', 'senior', 'yuri', 'alto']
+['shipment', 'bandwidth', 'hateful', 'surgeon', 'scott', 'berman', 'usually', 'wail', 'rockwell', 'uxa', 'ave', 'pit', 'fidelity', 'considerable', 'vj']
+['cracker', 'august', 'mute', 'informational', 'ini', 'considerable', 'marc', 'protest', 'theanswer', 'ora', 'theconstitution', 'msdo', 'perl', 'fife', 'yl']
+['berman', 'oscar', 'zealand', 'attention', 'evolve', 'perfectly', 'rest', 'silverline', 'ora', 'murray', 'wrap', 'groin', 'legislation', 'vj', 'marc']
+['pink', 'reardon', 'boat', 'thy', 'thiscountry', 'legislation', 'sunday', 'berlin', 'representation', 'moonbase', 'channel', 'lag', 'efficiently', 'sarcastic', 'achieve']
+['berman', 'negligent', 'ache', 'thier', 'darryl', 'wrap', 'shipment', 'mosaic', 'taking', 'vj', 'wail', 'groin', 'physic', 'lydick', 'onit']
+['jonestown', 'snuff', 'foot', 'aj', 'ini', 'meaningof', 'gateway', 'tettleton', 'bandwidth', 'pink', 'protest', 'boat', 'goverment', 'attention', 'favourite']
+['minded', 'reardon', 'murray', 'darryl', 'vj', 'gateway', 'understand', 'retreat', 'mod', 'therest', 'evolve', 'groin', 'yuri', 'attention', 'incandescent']
+['andthey', 'ache', 'rest', 'berman', 'mad', 'gup', 'depletion', 'market', 'combo', 'marc', 'lag', 'sarcastic', 'attention', 'sierra', 'sunday']
+['pink', 'berman', 'form', 'twm', 'yuri', 'moonbase', 'berlin', 'darryl', 'august', 'depletion', 'sarcastic', 'odger', 'combo', 'incandescent', 'bondra']
+['wail', 'madison', 'reardon', 'thiscountry', 'taking', 'berman', 'rest', 'berlin', 'aj', 'gifs', 'np', 'skew', 'consulting', 'feustel', 'pax']
+['achieve', 'market', 'berman', 'feustel', 'boat', 'pink', 'sarcastic', 'madison', 'europe', 'sunday', 'ave', 'august', 'hateful', 'murray', 'theconstitution']
+['kozlov', 'berman', 'channel', 'austria', 'andthey', 'boat', 'evolve', 'yuri', 'exchange', 'groin', 'occult', 'almighty', 'turnaround', 'murray', 'misplay']
+['shipment', 'gup', 'pink', 'rest', 'impartial', 'agood', 'berman', 'wail', 'doi', 'meaningof', 'traditional', 'beauchaine', 'pax', 'pit', 'misplay']
+['berlin', 'vj', 'gifs', 'misplay', 'senior', 'shipment', 'odger', 'mod', 'actively', 'secondary', 'jonestown', 'minded', 'berman', 'thosewho', 'silverline']
+['sunday', 'channel', 'darryl', 'europe', 'hm', 'thiscountry', 'murray', 'almighty', 'msdo', 'toother', 'groin', 'alto', 'aj', 'mute', 'verbally']
+['yuri', 'onit', 'boat', 'aj', 'msdo', 'combo', 'jude', 'tofind', 'master', 'gifs', 'vj', 'hm', 'theanswer', 'populated', 'fidelity']
+['thiscountry', 'irish', 'toother', 'bandwidth', 'berlin', 'meaningof', 'andthey', 'gifs', 'cracker', 'mosaic', 'evolve', 'goverment', 'msdo', 'minded', 'bin']
+['gateway', 'bn', 'august', 'ache', 'alto', 'gifs', 'den', 'theanswer', 'incandescent', 'madison', 'disgusted', 'negligent', 'reardon', 'aj', 'moonbase']
+['aj', 'vj', 'rockwell', 'wail', 'beauchaine', 'ariane', 'madison', 'cfv', 'actively', 'suck', 'mainland', 'moore', 'groin', 'turnaround', 'reardon']
+['mis', 'shipment', 'legislation', 'bait', 'bandwidth', 'onit', 'wrap', 'odger', 'pink', 'zealand', 'weep', 'fife', 'oiler', 'jonestown', 'marc']
+['gup', 'physic', 'zp', 'chipto', 'hateful', 'madison', 'wail', 'meaningof', 'ini', 'sutcliffe', 'lag', 'darryl', 'thatmatter', 'sierra', 'cfv']
+['meaningof', 'moonbase', 'ache', 'perpendicular', 'channel', 'incandescent', 'vj', 'jonestown', 'europe', 'madison', 'understand', 'isthere', 'stl', 'hateful', 'agood']
+['berman', 'forgot', 'ihope', 'sunday', 'populated', 'negligent', 'considerable', 'perl', 'alto', 'gateway', 'pax', 'berlin', 'physic', 'subscription', 'dg']
+['channel', 'shipment', 'darryl', 'standalone', 'aj', 'gup', 'meaningof', 'andthey', 'ariane', 'jude', 'gateway', 'theory', 'vj', 'achieve', 'ron']
+['vj', 'andthey', 'jonestown', 'darryl', 'spout', 'scott', 'ariane', 'foot', 'twm', 'efficiency', 'europe', 'pax', 'seam', 'fame', 'envelope']
+['vj', 'marc', 'msdo', 'understand', 'favourite', 'shipment', 'weep', 'combo', 'moonbase', 'suck', 'layer', 'fidelity', 'surgeon', 'retrospect', 'wrap']
+['berman', 'spout', 'misplay', 'rockwell', 'wail', 'thatmatter', 'andthey', 'envelope', 'minded', 'meaningof', 'protest', 'cfv', 'almighty', 'bandwidth', 'gateway']
+['misplay', 'silverline', 'berman', 'gifs', 'sine', 'vj', 'twm', 'mad', 'cfv', 'shipment', 'attention', 'gardner', 'murray', 'naturally', 'groin']
+['berman', 'shipment', 'physic', 'evolve', 'people', 'sunday', 'foot', 'ache', 'efficiency', 'envelope', 'boat', 'oscar', 'odger', 'distribute', 'subscription']
+['odger', 'channel', 'legislation', 'gifs', 'mad', 'impartial', 'aj', 'perpendicular', 'taxi', 'ache', 'berman', 'evolve', 'agood', 'layer', 'ini']
+['negligent', 'shipment', 'hacker', 'aj', 'jude', 'oscar', 'fidelity', 'meaningof', 'ache', 'lengthy', 'escalate', 'misplay', 'favourite', 'physic', 'bn']
+['agood', 'alto', 'cfv', 'ache', 'thiscountry', 'berman', 'yl', 'pink', 'bandwidth', 'shipment', 'madison', 'physic', 'shy', 'suck', 'thier']
+['havealready', 'asu', 'incandescent', 'channel', 'bin', 'jude', 'wildly', 'couple', 'berman', 'marc', 'aj', 'evidently', 'gup', 'vj', 'msdo']
+['envelope', 'aj', 'havealready', 'bandwidth', 'sunday', 'agood', 'reardon', 'attention', 'mod', 'fidelity', 'msdo', 'gifs', 'gut', 'rest', 'thier']
+['skew', 'berman', 'wail', 'rest', 'madison', 'shipment', 'reardon', 'weep', 'variation', 'market', 'gup', 'speedo', 'evolve', 'aj', 'foot']
+['alto', 'combo', 'bandwidth', 'iowa', 'channel', 'moonbase', 'chipto', 'msdo', 'attention', 'populated', 'thevarious', 'hellman', 'lydick', 'gup', 'fidelity']
+['forgot', 'efficiency', 'berman', 'hateful', 'darryl', 'jude', 'vj', 'msdo', 'general', 'ache', 'sierra', 'groin', 'efficiently', 'moonbase', 'senior']
+['attention', 'marc', 'geographic', 'aj', 'sunday', 'berman', 'gup', 'andthey', 'vj', 'people', 'channel', 'gettingthe', 'ora', 'yuri', 'fidelity']
+['hacker', 'alto', 'protest', 'exchange', 'foot', 'gateway', 'negligent', 'ron', 'dma', 'thick', 'feustel', 'dangerous', 'theyshould', 'msdo', 'channel']
+['yl', 'impartial', 'channel', 'berman', 'aj', 'marc', 'dg', 'layer', 'moonbase', 'bn', 'perfectly', 'kozlov', 'rest', 'hm', 'taking']
+['evolve', 'thier', 'channel', 'incandescent', 'berman', 'negligent', 'havealready', 'msu', 'kozlov', 'bandwidth', 'aj', 'moonbase', 'darryl', 'oscar', 'vj']
+['depletion', 'wrap', 'layer', 'combo', 'evolve', 'aj', 'pink', 'sunday', 'senior', 'theanswer', 'gateway', 'perpendicular', 'ora', 'thy', 'hateful']
+['mis', 'misplay', 'oscar', 'aj', 'odger', 'physic', 'berman', 'variation', 'pink', 'moonbase', 'evolve', 'gup', 'combo', 'torque', 'fail']
+['sunday', 'ache', 'marc', 'hellman', 'tox', 'feustel', 'shipment', 'hateful', 'layer', 'rockwell', 'gup', 'gifs', 'foot', 'alto', 'depletion']
+['aj', 'tox', 'darryl', 'reardon', 'murray', 'bn', 'combo', 'minded', 'bandwidth', 'subscription', 'ron', 'theyshould', 'evolve', 'europe', 'hm']
+['wail', 'pink', 'rockwell', 'say', 'cracker', 'turnaround', 'alto', 'gup', 'ave', 'jude', 'fidelity', 'beauchaine', 'gifs', 'berlin', 'ron']
+['berman', 'rest', 'ora', 'protest', 'darryl', 'incandescent', 'bandwidth', 'aj', 'shipment', 'uxa', 'layer', 'meaningof', 'almighty', 'envelope', 'ini']
+['silverline', 'alto', 'sunday', 'ihope', 'marc', 'andthey', 'hacker', 'kenny', 'cfv', 'rockwell', 'understand', 'wail', 'yuri', 'greg', 'pax']
+['sunday', 'escalate', 'gup', 'negligent', 'senior', 'achieve', 'berman', 'video', 'usually', 'aj', 'geographic', 'earn', 'incidental', 'couple', 'vj']
+['ache', 'shipment', 'perfectly', 'alto', 'almighty', 'marc', 'perl', 'murray', 'meaningof', 'asthey', 'attention', 'boat', 'physic', 'berman', 'thier']
+['feustel', 'marc', 'evolve', 'legislation', 'channel', 'aj', 'vj', 'msdo', 'kozlov', 'reardon', 'moonbase', 'ini', 'jonestown', 'mainland', 'mute']
+['madison', 'beauchaine', 'tettleton', 'rest', 'fife', 'misplay', 'thier', 'europe', 'manhattan', 'hm', 'mormon', 'ini', 'darryl', 'lost', 'agood']
+['berman', 'spout', 'combo', 'vj', 'reardon', 'ache', 'lost', 'august', 'fractal', 'rest', 'beauchaine', 'kz', 'sarcastic', 'evidently', 'austria']
+['microdistrict', 'agood', 'pax', 'rest', 'mis', 'wail', 'rockwell', 'variation', 'channel', 'negligent', 'evolve', 'bandwidth', 'bn', 'vj', 'form']
+['couple', 'berman', 'oscar', 'wail', 'envelope', 'hateful', 'ora', 'thier', 'efficiency', 'bandwidth', 'riding', 'europe', 'spout', 'notgoe', 'jonestown']
+['groin', 'master', 'negligent', 'marc', 'mute', 'physic', 'thevarious', 'channel', 'dread', 'cfv', 'rockwell', 'pax', 'alto', 'evolve', 'mis']
+['berman', 'channel', 'darryl', 'aj', 'rest', 'marc', 'martinez', 'alto', 'uxa', 'negligent', 'becausei', 'forgot', 'exec', 'jude', 'ron']
+['madison', 'alto', 'greg', 'fractal', 'escalate', 'cracker', 'pax', 'combo', 'ave', 'shipment', 'sct', 'sine', 'odger', 'feustel', 'ache']
+['gifs', 'ron', 'becausei', 'torque', 'negligent', 'reconciliation', 'applicable', 'channel', 'havealready', 'achieve', 'evolve', 'turnaround', 'wail', 'jonestown', 'disgusted']
+['berman', 'vj', 'dg', 'reardon', 'envelope', 'andthey', 'europe', 'mad', 'silverline', 'legislation', 'shipment', 'hm', 'layer', 'incidental', 'variation']
+['becausei', 'berman', 'channel', 'alto', 'moonbase', 'envelope', 'cfv', 'evolve', 'groin', 'minded', 'dg', 'marc', 'aj', 'havealready', 'darryl']
+['minded', 'ihope', 'gup', 'legislation', 'berman', 'bin', 'madison', 'verbally', 'oscar', 'hacker', 'fidelity', 'agood', 'yuri', 'sarcastic', 'consulting']
+==============================
+topic diversity:0.19822222222222222
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6588560011000706, c_w2v:None, c_uci:-9.884194869856058, c_npmi:-0.3551797798316952
+mimno topic coherence:-181.1283753376246
+Epoch  91	Iter    1	Loss_D:-0.1039419	Loss_G:6.9140153	loss_E:0.0416569
+Epoch  91	Iter   11	Loss_D:-0.1051917	Loss_G:6.7271395	loss_E:0.0424482
+Epoch  91	Iter   21	Loss_D:-0.1054731	Loss_G:6.5431108	loss_E:0.0428578
+Epoch  92	Iter    1	Loss_D:-0.1045772	Loss_G:6.3649840	loss_E:0.0415719
+Epoch  92	Iter   11	Loss_D:-0.1040484	Loss_G:6.1893358	loss_E:0.0412975
+Epoch  92	Iter   21	Loss_D:-0.1042771	Loss_G:6.0190129	loss_E:0.0420000
+Epoch  93	Iter    1	Loss_D:-0.1052545	Loss_G:5.8529706	loss_E:0.0429255
+Epoch  93	Iter   11	Loss_D:-0.1049006	Loss_G:5.6913877	loss_E:0.0427401
+Epoch  93	Iter   21	Loss_D:-0.1068106	Loss_G:5.5341482	loss_E:0.0441342
+Epoch  94	Iter    1	Loss_D:-0.1046310	Loss_G:5.3820815	loss_E:0.0420281
+Epoch  94	Iter   11	Loss_D:-0.1044092	Loss_G:5.2325912	loss_E:0.0420976
+Epoch  94	Iter   21	Loss_D:-0.1045297	Loss_G:5.0886941	loss_E:0.0420226
+Epoch  95	Iter    1	Loss_D:-0.1032706	Loss_G:4.9485173	loss_E:0.0409493
+Epoch  95	Iter   11	Loss_D:-0.1059667	Loss_G:4.8139029	loss_E:0.0433008
+Epoch  95	Iter   21	Loss_D:-0.1065271	Loss_G:4.6826129	loss_E:0.0436822
+Epoch  96	Iter    1	Loss_D:-0.1042164	Loss_G:4.5561714	loss_E:0.0415607
+Epoch  96	Iter   11	Loss_D:-0.1040712	Loss_G:4.4330659	loss_E:0.0415127
+Epoch  96	Iter   21	Loss_D:-0.1033474	Loss_G:4.3155761	loss_E:0.0407753
+Epoch  97	Iter    1	Loss_D:-0.1043453	Loss_G:4.2019110	loss_E:0.0417001
+Epoch  97	Iter   11	Loss_D:-0.1048117	Loss_G:4.0930381	loss_E:0.0419866
+Epoch  97	Iter   21	Loss_D:-0.1047204	Loss_G:3.9877317	loss_E:0.0418951
+Epoch  98	Iter    1	Loss_D:-0.1060320	Loss_G:3.8878827	loss_E:0.0434062
+Epoch  98	Iter   11	Loss_D:-0.1046643	Loss_G:3.7912931	loss_E:0.0417595
+Epoch  98	Iter   21	Loss_D:-0.1047499	Loss_G:3.6996908	loss_E:0.0418633
+Epoch  99	Iter    1	Loss_D:-0.1039560	Loss_G:3.6119552	loss_E:0.0413702
+Epoch  99	Iter   11	Loss_D:-0.1045716	Loss_G:3.5299354	loss_E:0.0414174
+Epoch  99	Iter   21	Loss_D:-0.1051797	Loss_G:3.4506664	loss_E:0.0422129
+Epoch 100	Iter    1	Loss_D:-0.1055598	Loss_G:3.3768184	loss_E:0.0426211
+Epoch 100	Iter   11	Loss_D:-0.1046045	Loss_G:3.3056970	loss_E:0.0421405
+Epoch 100	Iter   21	Loss_D:-0.1045892	Loss_G:3.2410743	loss_E:0.0416383
+Epoch 100	Loss_D_avg:-0.0998717	Loss_G_avg:77.8577068	loss_E_avg:0.0401370
+['gateway', 'aj', 'alto', 'rest', 'perl', 'theanswer', 'msdo', 'channel', 'jude', 'combo', 'meaningof', 'incandescent', 'shipment', 'rockwell', 'darryl']
+['gateway', 'rest', 'alto', 'aj', 'rockwell', 'thatmatter', 'meaningof', 'becausei', 'darryl', 'perl', 'actively', 'jude', 'theanswer', 'combo', 'newer']
+['msdo', 'perl', 'channel', 'darryl', 'rest', 'alto', 'incandescent', 'theanswer', 'berlin', 'aj', 'jude', 'fidelity', 'combo', 'rockwell', 'moonbase']
+['alto', 'rest', 'darryl', 'becausei', 'theanswer', 'aj', 'gateway', 'tox', 'berman', 'combo', 'meaningof', 'andthey', 'bandwidth', 'berlin', 'reardon']
+['rest', 'msdo', 'marc', 'aj', 'murray', 'perl', 'moonbase', 'sarcastic', 'becausei', 'berman', 'meaningof', 'microdistrict', 'darryl', 'mod', 'alto']
+['combo', 'gateway', 'becausei', 'aj', 'meaningof', 'incandescent', 'marc', 'perl', 'rest', 'europe', 'darryl', 'thatmatter', 'fidelity', 'kozlov', 'ariane']
+['rest', 'perl', 'alto', 'fidelity', 'channel', 'combo', 'becausei', 'aj', 'ariane', 'berlin', 'theanswer', 'marc', 'subscription', 'andthey', 'msdo']
+['rest', 'murray', 'jude', 'meaningof', 'alto', 'gateway', 'ariane', 'marc', 'msdo', 'feustel', 'boat', 'sutcliffe', 'wail', 'impartial', 'channel']
+['alto', 'becausei', 'rest', 'darryl', 'berman', 'theanswer', 'channel', 'fidelity', 'meaningof', 'moonbase', 'ache', 'aj', 'reardon', 'thatmatter', 'mis']
+['alto', 'rest', 'bandwidth', 'berman', 'marc', 'fidelity', 'tox', 'impartial', 'europe', 'sutcliffe', 'theanswer', 'gateway', 'berlin', 'darryl', 'meaningof']
+['rest', 'perl', 'bandwidth', 'theanswer', 'incandescent', 'berman', 'rockwell', 'eg', 'combo', 'channel', 'gateway', 'mis', 'marc', 'evolve', 'msdo']
+['berman', 'rest', 'gateway', 'darryl', 'sarcastic', 'bandwidth', 'meaningof', 'foot', 'berlin', 'thatmatter', 'reardon', 'mis', 'vj', 'aj', 'jude']
+['sarcastic', 'rest', 'channel', 'combo', 'alto', 'msdo', 'fidelity', 'darryl', 'aj', 'boat', 'terrible', 'meaningof', 'becausei', 'agood', 'mis']
+['bandwidth', 'rest', 'aj', 'marc', 'becausei', 'shipment', 'perl', 'berman', 'reardon', 'mis', 'fidelity', 'ariane', 'theanswer', 'alto', 'combo']
+['theanswer', 'meaningof', 'aj', 'channel', 'rest', 'perl', 'becausei', 'considerable', 'jude', 'darryl', 'fidelity', 'eg', 'combo', 'berman', 'msdo']
+['rest', 'becausei', 'berman', 'marc', 'aj', 'rockwell', 'perl', 'channel', 'darryl', 'gateway', 'murray', 'weep', 'fidelity', 'bandwidth', 'alto']
+['rest', 'channel', 'marc', 'meaningof', 'jude', 'boat', 'perl', 'becausei', 'incandescent', 'terrible', 'fidelity', 'mod', 'gateway', 'reardon', 'alto']
+['rest', 'darryl', 'berman', 'marc', 'fidelity', 'vj', 'perl', 'becausei', 'ariane', 'msdo', 'moonbase', 'alto', 'combo', 'feustel', 'shipment']
+['aj', 'rest', 'meaningof', 'incandescent', 'bandwidth', 'gateway', 'shipment', 'becausei', 'foot', 'combo', 'favourite', 'murray', 'rockwell', 'impartial', 'perl']
+['rest', 'gateway', 'murray', 'newer', 'marc', 'perl', 'becausei', 'alto', 'minded', 'jude', 'theanswer', 'meaningof', 'darryl', 'msdo', 'europe']
+['rest', 'becausei', 'darryl', 'sarcastic', 'alto', 'berlin', 'thatmatter', 'marc', 'bandwidth', 'berman', 'impartial', 'combo', 'rockwell', 'murray', 'ora']
+['berman', 'darryl', 'rest', 'aj', 'perl', 'combo', 'meaningof', 'alto', 'moonbase', 'mis', 'msdo', 'becausei', 'sarcastic', 'incandescent', 'murray']
+['aj', 'rest', 'wail', 'perl', 'reardon', 'alto', 'theanswer', 'berman', 'feustel', 'impartial', 'meaningof', 'sarcastic', 'gateway', 'berlin', 'mod']
+['berman', 'rest', 'gateway', 'theanswer', 'msdo', 'boat', 'combo', 'moonbase', 'impartial', 'feustel', 'mis', 'channel', 'reardon', 'sarcastic', 'madison']
+['perl', 'becausei', 'channel', 'meaningof', 'rest', 'boat', 'gateway', 'alto', 'aj', 'incandescent', 'marc', 'berlin', 'berman', 'murray', 'theanswer']
+['rest', 'meaningof', 'gateway', 'mod', 'berman', 'shipment', 'impartial', 'minded', 'aj', 'microdistrict', 'msdo', 'perl', 'fidelity', 'darryl', 'marc']
+['berlin', 'aj', 'rest', 'becausei', 'mod', 'alto', 'sarcastic', 'berman', 'perl', 'darryl', 'marc', 'ariane', 'shipment', 'microdistrict', 'vj']
+['channel', 'alto', 'murray', 'rest', 'darryl', 'aj', 'bandwidth', 'europe', 'marc', 'combo', 'becausei', 'gateway', 'msdo', 'jude', 'meaningof']
+['rest', 'msdo', 'aj', 'combo', 'boat', 'perl', 'marc', 'fidelity', 'theanswer', 'meaningof', 'mod', 'murray', 'wail', 'evolve', 'berlin']
+['bandwidth', 'aj', 'theanswer', 'marc', 'meaningof', 'berlin', 'channel', 'incandescent', 'rest', 'evolve', 'msdo', 'mod', 'andthey', 'darryl', 'combo']
+['gateway', 'darryl', 'incandescent', 'msdo', 'rest', 'alto', 'becausei', 'combo', 'theanswer', 'moonbase', 'perl', 'bn', 'fidelity', 'europe', 'murray']
+['aj', 'rest', 'ariane', 'becausei', 'combo', 'wail', 'gateway', 'alto', 'vj', 'rockwell', 'marc', 'incandescent', 'meaningof', 'eg', 'minded']
+['mis', 'gateway', 'meaningof', 'rest', 'bandwidth', 'marc', 'fidelity', 'theanswer', 'alto', 'moonbase', 'aj', 'weep', 'microdistrict', 'incandescent', 'andthey']
+['rest', 'gateway', 'aj', 'murray', 'mis', 'alto', 'berlin', 'becausei', 'sutcliffe', 'evolve', 'meaningof', 'favourite', 'wail', 'msdo', 'thatmatter']
+['meaningof', 'marc', 'moonbase', 'aj', 'rest', 'incandescent', 'alto', 'becausei', 'feustel', 'ariane', 'gateway', 'hacker', 'msdo', 'combo', 'perl']
+['gateway', 'rest', 'berman', 'perl', 'aj', 'rockwell', 'alto', 'considerable', 'wail', 'marc', 'hacker', 'shipment', 'becausei', 'thatmatter', 'minded']
+['channel', 'meaningof', 'gateway', 'ariane', 'aj', 'bandwidth', 'berlin', 'rest', 'becausei', 'alto', 'darryl', 'jude', 'shipment', 'incandescent', 'vj']
+['meaningof', 'combo', 'darryl', 'jonestown', 'europe', 'alto', 'boat', 'andthey', 'rest', 'gateway', 'vj', 'murray', 'foot', 'fidelity', 'feustel']
+['msdo', 'rest', 'mis', 'meaningof', 'marc', 'combo', 'moonbase', 'vj', 'thatmatter', 'sutcliffe', 'aj', 'europe', 'becausei', 'jude', 'terrible']
+['berman', 'thatmatter', 'andthey', 'combo', 'becausei', 'meaningof', 'gateway', 'rest', 'marc', 'bandwidth', 'newer', 'wail', 'perl', 'alto', 'aj']
+['rest', 'alto', 'msdo', 'murray', 'meaningof', 'gateway', 'berlin', 'feustel', 'bandwidth', 'moonbase', 'berman', 'aj', 'mod', 'newer', 'combo']
+['berman', 'rest', 'darryl', 'boat', 'ariane', 'alto', 'tooth', 'marc', 'shipment', 'berlin', 'combo', 'aj', 'evolve', 'gateway', 'bandwidth']
+['channel', 'rest', 'impartial', 'marc', 'berman', 'perl', 'ariane', 'terrible', 'combo', 'weep', 'gateway', 'ora', 'mod', 'alto', 'fidelity']
+['jude', 'rest', 'becausei', 'aj', 'meaningof', 'shipment', 'marc', 'bandwidth', 'murray', 'combo', 'alto', 'hacker', 'wail', 'fidelity', 'berlin']
+['alto', 'bandwidth', 'berman', 'rest', 'andthey', 'gateway', 'becausei', 'darryl', 'meaningof', 'murray', 'marc', 'combo', 'shipment', 'fidelity', 'favourite']
+['aj', 'rest', 'marc', 'alto', 'msdo', 'gateway', 'incandescent', 'gup', 'meaningof', 'combo', 'jude', 'murray', 'bin', 'berman', 'sutcliffe']
+['rest', 'msdo', 'aj', 'channel', 'jude', 'bandwidth', 'alto', 'eg', 'theanswer', 'sutcliffe', 'becausei', 'fidelity', 'gateway', 'reardon', 'berman']
+['rest', 'gateway', 'aj', 'evolve', 'terrible', 'combo', 'becausei', 'jude', 'darryl', 'berman', 'foot', 'theanswer', 'minded', 'ora', 'tox']
+['alto', 'rest', 'msdo', 'bandwidth', 'murray', 'thatmatter', 'channel', 'theanswer', 'meaningof', 'combo', 'perl', 'moonbase', 'impartial', 'ariane', 'jude']
+['darryl', 'berman', 'fidelity', 'becausei', 'forgot', 'aj', 'alto', 'vj', 'meaningof', 'rest', 'marc', 'groin', 'gateway', 'msdo', 'jude']
+['rest', 'aj', 'perl', 'meaningof', 'gateway', 'berman', 'impartial', 'marc', 'bandwidth', 'murray', 'msdo', 'shipment', 'fidelity', 'vj', 'darryl']
+['alto', 'gateway', 'rest', 'marc', 'mis', 'msdo', 'becausei', 'meaningof', 'perl', 'aj', 'channel', 'hacker', 'mod', 'ariane', 'fidelity']
+['msdo', 'impartial', 'rest', 'gateway', 'berman', 'theanswer', 'aj', 'alto', 'europe', 'incandescent', 'perl', 'marc', 'bandwidth', 'meaningof', 'channel']
+['marc', 'evolve', 'aj', 'theanswer', 'becausei', 'rest', 'channel', 'alto', 'fidelity', 'incandescent', 'impartial', 'rockwell', 'berman', 'terrible', 'actively']
+['theanswer', 'aj', 'rest', 'berlin', 'fidelity', 'gateway', 'perl', 'combo', 'alto', 'sutcliffe', 'becausei', 'incandescent', 'moonbase', 'ariane', 'darryl']
+['aj', 'mis', 'becausei', 'evolve', 'rest', 'alto', 'gateway', 'meaningof', 'moonbase', 'darryl', 'ora', 'fight', 'berman', 'feustel', 'andthey']
+['rest', 'alto', 'darryl', 'bandwidth', 'mod', 'ache', 'jude', 'eg', 'gateway', 'becausei', 'marc', 'perl', 'combo', 'considerable', 'rockwell']
+['combo', 'bandwidth', 'murray', 'gateway', 'fidelity', 'darryl', 'aj', 'becausei', 'mis', 'subscription', 'reardon', 'tox', 'europe', 'msdo', 'theanswer']
+['rest', 'alto', 'marc', 'bandwidth', 'gateway', 'rockwell', 'meaningof', 'thatmatter', 'europe', 'fidelity', 'berman', 'mis', 'wail', 'msdo', 'impartial']
+['rest', 'bandwidth', 'msdo', 'berman', 'combo', 'aj', 'marc', 'darryl', 'gateway', 'newer', 'actively', 'alto', 'fidelity', 'evolve', 'shipment']
+['rest', 'alto', 'gateway', 'msdo', 'impartial', 'marc', 'channel', 'combo', 'becausei', 'mod', 'rockwell', 'hacker', 'feustel', 'considerable', 'aj']
+['aj', 'becausei', 'moonbase', 'meaningof', 'impartial', 'rest', 'darryl', 'incandescent', 'gateway', 'sutcliffe', 'ariane', 'reardon', 'alto', 'berman', 'mis']
+['alto', 'rest', 'marc', 'bandwidth', 'fidelity', 'meaningof', 'gateway', 'msdo', 'perl', 'shipment', 'theanswer', 'becausei', 'murray', 'terrible', 'channel']
+['feustel', 'kozlov', 'marc', 'aj', 'perl', 'rest', 'vj', 'berman', 'reardon', 'meaningof', 'msdo', 'combo', 'berlin', 'incandescent', 'darryl']
+['rest', 'perl', 'sutcliffe', 'berman', 'jude', 'europe', 'meaningof', 'incandescent', 'beauchaine', 'ariane', 'newer', 'berlin', 'gateway', 'rockwell', 'msdo']
+['rest', 'berman', 'combo', 'gateway', 'mod', 'alto', 'mis', 'darryl', 'reardon', 'impartial', 'becausei', 'sarcastic', 'europe', 'msdo', 'bandwidth']
+['rest', 'mis', 'microdistrict', 'msdo', 'marc', 'bandwidth', 'alto', 'theanswer', 'evolve', 'moonbase', 'berlin', 'meaningof', 'tox', 'impartial', 'incandescent']
+['bandwidth', 'gateway', 'berman', 'reardon', 'marc', 'alto', 'msdo', 'wail', 'newer', 'berlin', 'microdistrict', 'feustel', 'considerable', 'perl', 'vj']
+['groin', 'meaningof', 'gateway', 'marc', 'becausei', 'alto', 'perl', 'theanswer', 'rest', 'terrible', 'incandescent', 'andthey', 'aj', 'berlin', 'berman']
+['rest', 'becausei', 'channel', 'darryl', 'alto', 'aj', 'bandwidth', 'marc', 'meaningof', 'gateway', 'impartial', 'berman', 'boat', 'msdo', 'reardon']
+['alto', 'aj', 'msdo', 'channel', 'meaningof', 'rest', 'combo', 'tox', 'bandwidth', 'marc', 'jude', 'favourite', 'feustel', 'berlin', 'darryl']
+['becausei', 'alto', 'channel', 'aj', 'bandwidth', 'rest', 'mod', 'wail', 'evolve', 'sarcastic', 'fidelity', 'incandescent', 'jude', 'boat', 'murray']
+['becausei', 'alto', 'berman', 'gateway', 'aj', 'shipment', 'reardon', 'fidelity', 'vj', 'msdo', 'marc', 'rest', 'theanswer', 'hacker', 'andthey']
+['becausei', 'mis', 'aj', 'marc', 'alto', 'msdo', 'europe', 'rest', 'murray', 'combo', 'perl', 'gateway', 'jude', 'moonbase', 'incandescent']
+['sarcastic', 'becausei', 'rest', 'combo', 'aj', 'actively', 'berman', 'darryl', 'fidelity', 'europe', 'bin', 'feustel', 'gup', 'eg', 'sutcliffe']
+==============================
+topic diversity:0.057777777777777775
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6816533660080082, c_w2v:None, c_uci:-10.198927356848165, c_npmi:-0.36785870027680806
+mimno topic coherence:-215.03658900602954
+topic diversity:0.057777777777777775
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6816533660080082, c_w2v:None, c_uci:-10.198927356848165, c_npmi:-0.36785870027680806
+mimno topic coherence:-215.03658900602954

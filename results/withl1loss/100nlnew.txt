@@ -1,0 +1,2687 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f4434e1bb20>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+inside train
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 19% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:-0.0918515	Loss_G:8.9839296	loss_E:0.0100829
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 22% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-7.2782426	Loss_G:16.2769070	loss_E:0.0080637
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 22% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-17.4939651	Loss_G:26.6177235	loss_E:0.0051278
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-17.9323387	Loss_G:26.8342495	loss_E:0.0048221
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-29.6655388	Loss_G:38.6020279	loss_E:0.0015666
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 22% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-40.3509521	Loss_G:49.1628647	loss_E:-0.0017820
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-42.7233849	Loss_G:51.4590302	loss_E:-0.0021304
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-50.7069855	Loss_G:59.1515427	loss_E:-0.0053619
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 22% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-60.6157913	Loss_G:68.7598572	loss_E:-0.0083923
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-61.6118736	Loss_G:69.6419754	loss_E:-0.0086781
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-72.4914780	Loss_G:80.3794098	loss_E:-0.0114637
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 22% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-80.2113800	Loss_G:87.8669434	loss_E:-0.0141265
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 |  2% | 22% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-80.4969711	Loss_G:88.0204544	loss_E:-0.0143820
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-90.0146408	Loss_G:97.3853378	loss_E:-0.0169128
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 22% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-98.3302536	Loss_G:105.5045776	loss_E:-0.0193387
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-98.9773560	Loss_G:106.0482330	loss_E:-0.0195525
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-106.8403625	Loss_G:113.7321014	loss_E:-0.0218040
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 22% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-113.6678238	Loss_G:120.3792267	loss_E:-0.0239832
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-115.0051804	Loss_G:121.5915985	loss_E:-0.0242140
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-120.7203140	Loss_G:127.1168747	loss_E:-0.0263310
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-125.4076385	Loss_G:131.6248169	loss_E:-0.0282747
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 22% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-125.7865982	Loss_G:131.8894043	loss_E:-0.0284427
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 22% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-131.8914490	Loss_G:137.8233032	loss_E:-0.0302006
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-137.6288757	Loss_G:143.3898773	loss_E:-0.0318943
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-140.3736420	Loss_G:146.0540924	loss_E:-0.0320147
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-144.5481567	Loss_G:150.0355530	loss_E:-0.0335779
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-150.7276154	Loss_G:156.0672913	loss_E:-0.0351084
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-152.4499664	Loss_G:157.7036743	loss_E:-0.0352520
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-151.9116058	Loss_G:156.9542389	loss_E:-0.0366383
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-157.2435760	Loss_G:162.1355743	loss_E:-0.0379065
+Epoch  10	Loss_D_avg:-90.7731936	Loss_G_avg:97.9064230	loss_E_avg:-0.0172700
+['thing', 'way', 'run', 'gas', 'infinite', 'lead', 'course', 'bobby', 'fact', 'think', 'clear', 'step', 'world', 'man', 'mathematical']
+['world', 'run', 'thing', 'gas', 'bobby', 'infinite', 'way', 'man', 'lead', 'think', 'step', 'trial', 'clear', 'mathematical', 'attempt']
+['mathematical', 'run', 'clear', 'thing', 'gas', 'way', 'continuous', 'man', 'lead', 'trial', 'idea', 'infinite', 'know', 'fact', 'step']
+['thing', 'way', 'gas', 'infinite', 'mathematical', 'lead', 'clear', 'know', 'think', 'solution', 'trial', 'run', 'idea', 'continuous', 'fact']
+['solution', 'way', 'gas', 'bobby', 'clear', 'deletion', 'run', 'mathematical', 'fact', 'world', 'infinite', 'lead', 'idea', 'choice', 'die']
+['thing', 'run', 'mathematical', 'infinite', 'gas', 'clear', 'know', 'fact', 'lead', 'step', 'idea', 'way', 'infinity', 'bobby', 'ii']
+['gas', 'run', 'lead', 'clear', 'way', 'mathematical', 'bobby', 'infinite', 'know', 'ii', 'thing', 'fact', 'man', 'deletion', 'solution']
+['gas', 'run', 'way', 'infinite', 'step', 'thing', 'world', 'ii', 'bobby', 'lead', 'man', 'fact', 'die', 'think', 'mathematical']
+['way', 'gas', 'mathematical', 'infinite', 'run', 'world', 'thing', 'clear', 'fact', 'know', 'die', 'ii', 'lead', 'trial', 'bobby']
+['way', 'mathematical', 'infinite', 'lead', 'gas', 'man', 'world', 'bobby', 'continuous', 'fact', 'run', 'ii', 'know', 'thing', 'idea']
+['way', 'infinite', 'gas', 'mathematical', 'fact', 'trial', 'world', 'run', 'thing', 'solution', 'think', 'clear', 'know', 'man', 'ii']
+['run', 'infinite', 'way', 'clear', 'lead', 'fact', 'mathematical', 'think', 'solution', 'bobby', 'gas', 'world', 'step', 'nazi', 'man']
+['way', 'gas', 'infinite', 'fact', 'run', 'thing', 'continuous', 'mathematical', 'die', 'world', 'solution', 'bobby', 'step', 'ii', 'clear']
+['way', 'thing', 'run', 'clear', 'attempt', 'mathematical', 'infinite', 'gas', 'think', 'ii', 'lead', 'fact', 'world', 'bobby', 'step']
+['way', 'gas', 'mathematical', 'know', 'deletion', 'ii', 'man', 'thing', 'clear', 'attempt', 'lead', 'fact', 'continuous', 'world', 'idea']
+['thing', 'clear', 'lead', 'run', 'mathematical', 'gas', 'infinite', 'trial', 'way', 'man', 'continuous', 'think', 'attempt', 'agree', 'bobby']
+['mathematical', 'infinite', 'idea', 'know', 'clear', 'run', 'way', 'continuous', 'gas', 'thing', 'step', 'fact', 'lead', 'trial', 'ii']
+['mathematical', 'thing', 'way', 'clear', 'man', 'run', 'trial', 'lead', 'infinite', 'gas', 'think', 'bobby', 'continuous', 'fact', 'know']
+['way', 'gas', 'mathematical', 'run', 'ii', 'actually', 'clear', 'world', 'infinite', 'idea', 'trial', 'man', 'lead', 'die', 'bobby']
+['clear', 'trial', 'fact', 'infinite', 'gas', 'mathematical', 'way', 'man', 'run', 'lead', 'world', 'ii', 'thing', 'die', 'step']
+['mathematical', 'way', 'fact', 'clear', 'infinite', 'bobby', 'gas', 'attempt', 'run', 'thing', 'step', 'idea', 'world', 'trial', 'lead']
+['mathematical', 'run', 'way', 'ii', 'fact', 'thing', 'infinite', 'clear', 'gas', 'trial', 'continuous', 'world', 'bobby', 'think', 'describe']
+['way', 'fact', 'gas', 'idea', 'mathematical', 'world', 'ii', 'actually', 'trial', 'bobby', 'run', 'clear', 'solution', 'thing', 'think']
+['gas', 'infinite', 'thing', 'way', 'world', 'think', 'run', 'bobby', 'lead', 'clear', 'mathematical', 'know', 'man', 'fact', 'course']
+['gas', 'way', 'thing', 'man', 'run', 'mathematical', 'fact', 'infinite', 'know', 'ii', 'think', 'continuous', 'bobby', 'course', 'absolute']
+['infinite', 'run', 'way', 'clear', 'thing', 'mathematical', 'know', 'gas', 'continuous', 'world', 'lead', 'ii', 'bobby', 'trial', 'solution']
+['fact', 'run', 'gas', 'mathematical', 'way', 'clear', 'lead', 'trial', 'bobby', 'know', 'idea', 'thing', 'infinite', 'world', 'agree']
+['way', 'continuous', 'infinite', 'lead', 'mathematical', 'gas', 'run', 'fact', 'know', 'idea', 'clear', 'ii', 'die', 'time', 'thing']
+['infinite', 'fact', 'run', 'way', 'clear', 'lead', 'thing', 'know', 'mathematical', 'continuous', 'bobby', 'idea', 'world', 'think', 'gas']
+['gas', 'mathematical', 'way', 'step', 'fact', 'man', 'run', 'infinite', 'world', 'bobby', 'trial', 'lead', 'clear', 'solution', 'thing']
+['mathematical', 'clear', 'lead', 'run', 'infinite', 'world', 'way', 'attempt', 'gas', 'think', 'know', 'bobby', 'thing', 'idea', 'ii']
+['run', 'lead', 'thing', 'infinite', 'clear', 'way', 'gas', 'mathematical', 'idea', 'bobby', 'know', 'trial', 'step', 'think', 'continuous']
+['mathematical', 'fact', 'idea', 'run', 'infinite', 'gas', 'clear', 'world', 'bobby', 'thing', 'continuous', 'man', 'way', 'trial', 'know']
+['gas', 'mathematical', 'man', 'bobby', 'way', 'infinite', 'world', 'idea', 'run', 'continuous', 'lead', 'fact', 'choice', 'clear', 'thing']
+['lead', 'infinite', 'thing', 'trial', 'clear', 'mathematical', 'run', 'think', 'bobby', 'way', 'know', 'idea', 'gas', 'course', 'esther']
+['run', 'infinite', 'mathematical', 'way', 'world', 'bobby', 'clear', 'know', 'man', 'lead', 'step', 'gas', 'solution', 'continuous', 'idea']
+['way', 'mathematical', 'run', 'gas', 'bobby', 'lead', 'thing', 'world', 'ii', 'infinite', 'continuous', 'trial', 'know', 'man', 'fact']
+['run', 'clear', 'bobby', 'gas', 'know', 'way', 'lead', 'think', 'explain', 'ii', 'trial', 'step', 'thing', 'attempt', 'infinite']
+['mathematical', 'run', 'lead', 'clear', 'way', 'idea', 'gas', 'world', 'attempt', 'thing', 'infinite', 'trial', 'fact', 'bobby', 'man']
+['thing', 'continuous', 'lead', 'way', 'man', 'mathematical', 'run', 'gas', 'world', 'clear', 'infinite', 'trial', 'think', 'know', 'attempt']
+['infinite', 'thing', 'way', 'think', 'mathematical', 'lead', 'gas', 'run', 'bobby', 'know', 'clear', 'fact', 'actually', 'ii', 'idea']
+['infinite', 'bobby', 'way', 'know', 'mathematical', 'run', 'thing', 'gas', 'clear', 'lead', 'continuous', 'idea', 'actually', 'solution', 'ii']
+['run', 'way', 'gas', 'die', 'idea', 'mathematical', 'fact', 'clear', 'trial', 'ii', 'lead', 'think', 'continuous', 'know', 'step']
+['run', 'way', 'thing', 'gas', 'mathematical', 'infinite', 'bobby', 'man', 'trial', 'world', 'clear', 'step', 'lead', 'fact', 'idea']
+['mathematical', 'infinite', 'gas', 'way', 'clear', 'run', 'fact', 'trial', 'idea', 'lead', 'solution', 'know', 'bobby', 'ii', 'think']
+['gas', 'way', 'trial', 'mathematical', 'know', 'lead', 'continuous', 'infinite', 'clear', 'bobby', 'world', 'thing', 'man', 'run', 'atheist']
+['thing', 'infinite', 'run', 'gas', 'lead', 'way', 'bobby', 'step', 'man', 'think', 'ii', 'clear', 'deletion', 'mathematical', 'world']
+['mathematical', 'fact', 'run', 'bobby', 'know', 'gas', 'idea', 'clear', 'thing', 'trial', 'lead', 'infinite', 'actually', 'way', 'solution']
+['way', 'lead', 'run', 'infinite', 'mathematical', 'gas', 'know', 'trial', 'fact', 'idea', 'step', 'attempt', 'thing', 'world', 'clear']
+['thing', 'run', 'mathematical', 'man', 'step', 'lead', 'world', 'fact', 'trial', 'way', 'gas', 'clear', 'attempt', 'continuous', 'infinite']
+['thing', 'gas', 'know', 'mathematical', 'bobby', 'think', 'man', 'run', 'way', 'clear', 'world', 'trial', 'infinite', 'deletion', 'attempt']
+['infinite', 'thing', 'bobby', 'run', 'mathematical', 'know', 'continuous', 'man', 'way', 'fact', 'lead', 'world', 'gas', 'deletion', 'trial']
+['mathematical', 'lead', 'run', 'trial', 'clear', 'thing', 'way', 'continuous', 'idea', 'bobby', 'man', 'fact', 'world', 'know', 'think']
+['infinite', 'run', 'way', 'fact', 'mathematical', 'lead', 'thing', 'bobby', 'world', 'gas', 'course', 'man', 'continuous', 'know', 'clear']
+['run', 'gas', 'mathematical', 'trial', 'idea', 'world', 'way', 'fact', 'bobby', 'lead', 'know', 'clear', 'thing', 'ancient', 'infinite']
+['infinite', 'way', 'run', 'mathematical', 'clear', 'fact', 'idea', 'solution', 'know', 'lead', 'gas', 'step', 'continuous', 'thing', 'deletion']
+['infinite', 'way', 'mathematical', 'clear', 'thing', 'lead', 'run', 'idea', 'gas', 'bobby', 'esther', 'think', 'fact', 'continuous', 'know']
+['gas', 'way', 'mathematical', 'bobby', 'lead', 'infinite', 'fact', 'solution', 'trial', 'idea', 'man', 'thing', 'clear', 'world', 'actually']
+['way', 'mathematical', 'fact', 'lead', 'run', 'infinite', 'know', 'bobby', 'gas', 'thing', 'step', 'continuous', 'world', 'ii', 'attempt']
+['infinite', 'thing', 'lead', 'run', 'know', 'way', 'bobby', 'gas', 'mathematical', 'continuous', 'clear', 'step', 'ii', 'world', 'idea']
+['run', 'mathematical', 'idea', 'bobby', 'gas', 'fact', 'way', 'thing', 'solution', 'ii', 'world', 'infinite', 'man', 'know', 'actually']
+['mathematical', 'way', 'gas', 'continuous', 'bobby', 'lead', 'trial', 'man', 'idea', 'infinite', 'clear', 'world', 'actually', 'attempt', 'know']
+['know', 'lead', 'run', 'clear', 'mathematical', 'way', 'infinite', 'thing', 'trial', 'bobby', 'world', 'attempt', 'idea', 'solution', 'total']
+['mathematical', 'infinite', 'ii', 'way', 'run', 'fact', 'gas', 'continuous', 'lead', 'clear', 'bobby', 'world', 'thing', 'actually', 'step']
+['bobby', 'mathematical', 'lead', 'infinite', 'gas', 'fact', 'solution', 'choice', 'thing', 'know', 'world', 'run', 'deletion', 'clear', 'attempt']
+['run', 'gas', 'bobby', 'world', 'man', 'lead', 'clear', 'mathematical', 'continuous', 'way', 'infinite', 'fact', 'thing', 'choice', 'caste']
+['infinite', 'lead', 'run', 'bobby', 'clear', 'gas', 'mathematical', 'think', 'thing', 'solution', 'way', 'idea', 'atheist', 'continuous', 'deletion']
+['lead', 'thing', 'way', 'clear', 'world', 'mathematical', 'infinite', 'run', 'trial', 'think', 'bobby', 'gas', 'step', 'continuous', 'fact']
+['way', 'think', 'run', 'gas', 'thing', 'bobby', 'lead', 'absolute', 'infinite', 'mathematical', 'solution', 'attempt', 'world', 'continuous', 'idea']
+['gas', 'bobby', 'mathematical', 'world', 'infinite', 'fact', 'lead', 'way', 'deletion', 'thing', 'clear', 'run', 'know', 'continuous', 'solution']
+['clear', 'infinite', 'mathematical', 'run', 'lead', 'gas', 'trial', 'know', 'thing', 'step', 'ii', 'world', 'bobby', 'way', 'man']
+['thing', 'run', 'mathematical', 'lead', 'infinite', 'man', 'gas', 'ii', 'way', 'think', 'continuous', 'trial', 'know', 'bobby', 'atheist']
+['way', 'continuous', 'run', 'gas', 'know', 'man', 'thing', 'mathematical', 'ii', 'infinite', 'lead', 'trial', 'clear', 'fact', 'idea']
+['mathematical', 'lead', 'way', 'actually', 'bobby', 'infinite', 'run', 'man', 'attempt', 'gas', 'know', 'continuous', 'thing', 'ii', 'think']
+['mathematical', 'run', 'thing', 'gas', 'infinite', 'lead', 'clear', 'bobby', 'attempt', 'ii', 'course', 'solution', 'step', 'man', 'world']
+['thing', 'infinite', 'gas', 'run', 'think', 'clear', 'trial', 'bobby', 'idea', 'mathematical', 'course', 'lead', 'way', 'man', 'esther']
+['run', 'mathematical', 'thing', 'gas', 'infinite', 'continuous', 'idea', 'way', 'fact', 'trial', 'man', 'think', 'know', 'universe', 'step']
+['thing', 'mathematical', 'run', 'infinite', 'fact', 'bobby', 'lead', 'way', 'know', 'idea', 'gas', 'course', 'trial', 'world', 'esther']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'fact', 'world', 'ii', 'lead', 'know', 'continuous', 'step', 'deletion', 'actually', 'man']
+['clear', 'infinite', 'thing', 'gas', 'know', 'run', 'way', 'mathematical', 'trial', 'lead', 'think', 'fact', 'bobby', 'ii', 'man']
+['continuous', 'run', 'way', 'infinite', 'lead', 'bobby', 'know', 'gas', 'clear', 'trial', 'idea', 'mathematical', 'man', 'fact', 'ancient']
+['mathematical', 'infinite', 'run', 'way', 'clear', 'fact', 'man', 'think', 'thing', 'step', 'solution', 'know', 'gas', 'lead', 'ii']
+['run', 'mathematical', 'know', 'lead', 'continuous', 'bobby', 'gas', 'idea', 'fact', 'clear', 'way', 'thing', 'infinite', 'trial', 'ii']
+['lead', 'way', 'bobby', 'clear', 'infinite', 'mathematical', 'run', 'thing', 'continuous', 'actually', 'ii', 'know', 'man', 'attempt', 'world']
+['lead', 'way', 'mathematical', 'infinite', 'solution', 'gas', 'clear', 'fact', 'run', 'idea', 'die', 'know', 'world', 'continuous', 'ii']
+['thing', 'run', 'fact', 'infinite', 'clear', 'way', 'gas', 'mathematical', 'know', 'think', 'man', 'bobby', 'continuous', 'lead', 'solution']
+['run', 'way', 'fact', 'continuous', 'clear', 'gas', 'mathematical', 'infinite', 'think', 'man', 'idea', 'bobby', 'solution', 'know', 'ancient']
+['way', 'mathematical', 'idea', 'gas', 'fact', 'run', 'bobby', 'man', 'continuous', 'clear', 'trial', 'solution', 'infinite', 'world', 'ancient']
+['thing', 'way', 'lead', 'run', 'ii', 'think', 'fact', 'gas', 'continuous', 'know', 'actually', 'bobby', 'describe', 'atheist', 'clear']
+['mathematical', 'gas', 'man', 'lead', 'bobby', 'way', 'trial', 'attempt', 'thing', 'think', 'run', 'idea', 'know', 'fact', 'continuous']
+['mathematical', 'infinite', 'gas', 'way', 'run', 'fact', 'clear', 'solution', 'know', 'idea', 'lead', 'world', 'step', 'course', 'continuous']
+['way', 'idea', 'mathematical', 'gas', 'thing', 'clear', 'agree', 'fact', 'solution', 'infinite', 'world', 'trial', 'bobby', 'lead', 'ii']
+['mathematical', 'way', 'run', 'know', 'lead', 'gas', 'man', 'infinite', 'bobby', 'idea', 'actually', 'trial', 'ii', 'clear', 'world']
+['lead', 'bobby', 'infinite', 'know', 'thing', 'mathematical', 'run', 'gas', 'clear', 'continuous', 'actually', 'man', 'way', 'world', 'ii']
+['gas', 'lead', 'infinite', 'world', 'bobby', 'way', 'thing', 'run', 'trial', 'clear', 'idea', 'attempt', 'mathematical', 'actually', 'man']
+['mathematical', 'fact', 'clear', 'way', 'lead', 'gas', 'solution', 'infinite', 'run', 'thing', 'die', 'atheist', 'bobby', 'know', 'idea']
+['way', 'gas', 'mathematical', 'run', 'lead', 'man', 'clear', 'ii', 'know', 'fact', 'trial', 'bobby', 'idea', 'step', 'attempt']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'thing', 'run', 'trial', 'lead', 'course', 'man', 'clear', 'think', 'actually', 'attempt']
+['mathematical', 'lead', 'thing', 'infinite', 'way', 'gas', 'world', 'bobby', 'fact', 'clear', 'solution', 'run', 'think', 'know', 'continuous']
+['way', 'infinite', 'fact', 'mathematical', 'clear', 'bobby', 'gas', 'think', 'thing', 'lead', 'idea', 'man', 'trial', 'world', 'continuous']
+==============================
+topic diversity:0.026
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3548081235289594, c_w2v:None, c_uci:-3.6374020601429278, c_npmi:-0.12017710244567677
+mimno topic coherence:-245.0924551995644
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-161.2595978	Loss_G:166.0865936	loss_E:-0.0380386
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-166.8016052	Loss_G:171.4694824	loss_E:-0.0392637
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 22% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-164.9029846	Loss_G:169.3876495	loss_E:-0.0402823
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 22% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-168.9627075	Loss_G:173.3705292	loss_E:-0.0403725
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-168.3970184	Loss_G:172.6294403	loss_E:-0.0413700
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 22% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-177.0595551	Loss_G:181.1705170	loss_E:-0.0422778
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-173.7815704	Loss_G:177.7880707	loss_E:-0.0423446
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 22% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-175.5613098	Loss_G:179.4188232	loss_E:-0.0431366
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-181.3577576	Loss_G:185.0847931	loss_E:-0.0438559
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-186.4180450	Loss_G:190.0790710	loss_E:-0.0439064
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 22% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-181.2962646	Loss_G:184.7969513	loss_E:-0.0445136
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 22% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-183.3313141	Loss_G:186.6919403	loss_E:-0.0450203
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-179.4141388	Loss_G:182.6941376	loss_E:-0.0450668
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-182.3425598	Loss_G:185.4902344	loss_E:-0.0454745
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 22% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-183.2956085	Loss_G:186.3178711	loss_E:-0.0457915
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 22% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-186.2412415	Loss_G:189.1999664	loss_E:-0.0458032
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 22% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-185.4301910	Loss_G:188.2734680	loss_E:-0.0460575
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-185.8304749	Loss_G:188.5704803	loss_E:-0.0462152
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-182.0799713	Loss_G:184.7547607	loss_E:-0.0462317
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-189.8340912	Loss_G:192.4247437	loss_E:-0.0463644
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-187.5143890	Loss_G:190.0216522	loss_E:-0.0464362
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-187.5171814	Loss_G:189.9669952	loss_E:-0.0464514
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 22% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-187.2725677	Loss_G:189.6537781	loss_E:-0.0465055
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-185.8914642	Loss_G:188.2096558	loss_E:-0.0465598
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-189.8617554	Loss_G:192.1260834	loss_E:-0.0465634
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-187.2026062	Loss_G:189.4100189	loss_E:-0.0465987
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-190.9781342	Loss_G:193.1326447	loss_E:-0.0466419
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-186.1958160	Loss_G:188.3004150	loss_E:-0.0466249
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-188.4477692	Loss_G:190.5027313	loss_E:-0.0466747
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 22% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-189.8969727	Loss_G:191.9053345	loss_E:-0.0466937
+Epoch  20	Loss_D_avg:-136.1262079	Loss_G_avg:141.2686921	loss_E_avg:-0.0309206
+['way', 'thing', 'gas', 'run', 'infinite', 'lead', 'course', 'bobby', 'fact', 'clear', 'think', 'man', 'world', 'step', 'mathematical']
+['world', 'run', 'thing', 'gas', 'way', 'bobby', 'infinite', 'man', 'lead', 'think', 'step', 'trial', 'clear', 'mathematical', 'attempt']
+['mathematical', 'run', 'clear', 'gas', 'thing', 'way', 'continuous', 'man', 'lead', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['thing', 'way', 'gas', 'infinite', 'mathematical', 'lead', 'clear', 'know', 'think', 'trial', 'solution', 'run', 'continuous', 'idea', 'fact']
+['solution', 'way', 'gas', 'bobby', 'clear', 'deletion', 'run', 'mathematical', 'fact', 'world', 'infinite', 'lead', 'idea', 'man', 'die']
+['thing', 'run', 'mathematical', 'infinite', 'gas', 'clear', 'know', 'fact', 'lead', 'step', 'idea', 'way', 'ii', 'bobby', 'solution']
+['gas', 'run', 'lead', 'clear', 'way', 'mathematical', 'bobby', 'infinite', 'ii', 'thing', 'know', 'fact', 'man', 'idea', 'deletion']
+['gas', 'run', 'way', 'infinite', 'thing', 'world', 'step', 'ii', 'bobby', 'lead', 'man', 'fact', 'die', 'mathematical', 'clear']
+['way', 'gas', 'mathematical', 'infinite', 'run', 'world', 'clear', 'thing', 'fact', 'know', 'ii', 'die', 'lead', 'trial', 'bobby']
+['way', 'mathematical', 'infinite', 'lead', 'gas', 'man', 'world', 'continuous', 'bobby', 'fact', 'run', 'ii', 'know', 'thing', 'idea']
+['way', 'infinite', 'gas', 'mathematical', 'fact', 'trial', 'world', 'run', 'thing', 'solution', 'think', 'clear', 'man', 'know', 'ii']
+['run', 'infinite', 'way', 'clear', 'lead', 'fact', 'mathematical', 'solution', 'think', 'gas', 'bobby', 'world', 'man', 'ii', 'nazi']
+['way', 'gas', 'fact', 'infinite', 'run', 'thing', 'continuous', 'mathematical', 'die', 'world', 'step', 'solution', 'clear', 'ii', 'bobby']
+['way', 'thing', 'clear', 'run', 'mathematical', 'attempt', 'infinite', 'gas', 'ii', 'lead', 'think', 'fact', 'world', 'bobby', 'step']
+['way', 'gas', 'mathematical', 'man', 'know', 'ii', 'thing', 'clear', 'deletion', 'fact', 'attempt', 'lead', 'continuous', 'world', 'idea']
+['clear', 'thing', 'lead', 'mathematical', 'run', 'gas', 'trial', 'infinite', 'way', 'man', 'continuous', 'think', 'attempt', 'agree', 'bobby']
+['mathematical', 'infinite', 'clear', 'idea', 'know', 'run', 'way', 'continuous', 'gas', 'thing', 'fact', 'step', 'lead', 'trial', 'ii']
+['mathematical', 'thing', 'way', 'clear', 'man', 'run', 'trial', 'lead', 'infinite', 'gas', 'think', 'continuous', 'fact', 'bobby', 'agree']
+['way', 'gas', 'mathematical', 'run', 'clear', 'ii', 'actually', 'world', 'infinite', 'idea', 'man', 'trial', 'lead', 'bobby', 'continuous']
+['clear', 'trial', 'fact', 'mathematical', 'gas', 'infinite', 'way', 'man', 'run', 'lead', 'world', 'ii', 'thing', 'die', 'step']
+['mathematical', 'way', 'fact', 'clear', 'infinite', 'bobby', 'gas', 'attempt', 'thing', 'run', 'idea', 'step', 'world', 'trial', 'lead']
+['mathematical', 'run', 'way', 'ii', 'thing', 'fact', 'infinite', 'clear', 'gas', 'trial', 'continuous', 'world', 'bobby', 'lead', 'think']
+['way', 'gas', 'fact', 'mathematical', 'world', 'idea', 'ii', 'actually', 'trial', 'run', 'bobby', 'clear', 'thing', 'solution', 'think']
+['gas', 'infinite', 'way', 'world', 'thing', 'run', 'think', 'lead', 'bobby', 'clear', 'mathematical', 'know', 'man', 'fact', 'solution']
+['gas', 'way', 'thing', 'man', 'run', 'mathematical', 'fact', 'know', 'infinite', 'ii', 'continuous', 'think', 'attempt', 'bobby', 'absolute']
+['infinite', 'run', 'way', 'clear', 'thing', 'mathematical', 'know', 'continuous', 'gas', 'world', 'lead', 'ii', 'bobby', 'trial', 'man']
+['fact', 'gas', 'run', 'way', 'mathematical', 'clear', 'lead', 'trial', 'know', 'idea', 'bobby', 'thing', 'infinite', 'world', 'agree']
+['way', 'continuous', 'infinite', 'lead', 'mathematical', 'gas', 'run', 'fact', 'know', 'idea', 'clear', 'ii', 'die', 'thing', 'time']
+['infinite', 'fact', 'run', 'way', 'clear', 'lead', 'thing', 'know', 'mathematical', 'continuous', 'bobby', 'world', 'idea', 'gas', 'think']
+['gas', 'mathematical', 'way', 'man', 'step', 'fact', 'run', 'infinite', 'trial', 'world', 'bobby', 'lead', 'clear', 'solution', 'thing']
+['mathematical', 'clear', 'run', 'lead', 'infinite', 'way', 'world', 'gas', 'attempt', 'know', 'think', 'thing', 'bobby', 'continuous', 'idea']
+['run', 'lead', 'thing', 'infinite', 'clear', 'way', 'gas', 'mathematical', 'idea', 'bobby', 'know', 'trial', 'step', 'think', 'continuous']
+['mathematical', 'fact', 'idea', 'run', 'infinite', 'gas', 'clear', 'world', 'bobby', 'thing', 'continuous', 'man', 'way', 'trial', 'know']
+['gas', 'mathematical', 'man', 'bobby', 'way', 'infinite', 'world', 'idea', 'run', 'continuous', 'lead', 'fact', 'clear', 'trial', 'choice']
+['lead', 'infinite', 'thing', 'clear', 'trial', 'mathematical', 'run', 'way', 'think', 'bobby', 'know', 'idea', 'gas', 'continuous', 'course']
+['run', 'infinite', 'mathematical', 'way', 'clear', 'world', 'know', 'man', 'bobby', 'lead', 'step', 'gas', 'continuous', 'solution', 'idea']
+['way', 'mathematical', 'run', 'gas', 'lead', 'bobby', 'thing', 'world', 'ii', 'infinite', 'continuous', 'trial', 'man', 'know', 'fact']
+['run', 'clear', 'gas', 'bobby', 'know', 'way', 'lead', 'ii', 'trial', 'think', 'explain', 'thing', 'step', 'world', 'infinite']
+['mathematical', 'run', 'lead', 'clear', 'way', 'gas', 'idea', 'world', 'attempt', 'thing', 'infinite', 'trial', 'fact', 'bobby', 'man']
+['thing', 'continuous', 'lead', 'way', 'man', 'mathematical', 'gas', 'run', 'clear', 'world', 'infinite', 'trial', 'think', 'know', 'attempt']
+['infinite', 'thing', 'way', 'think', 'mathematical', 'gas', 'lead', 'run', 'bobby', 'clear', 'know', 'fact', 'actually', 'ii', 'continuous']
+['infinite', 'way', 'bobby', 'mathematical', 'know', 'run', 'thing', 'gas', 'clear', 'lead', 'continuous', 'idea', 'actually', 'ii', 'solution']
+['way', 'run', 'gas', 'die', 'mathematical', 'fact', 'idea', 'clear', 'trial', 'ii', 'lead', 'think', 'continuous', 'step', 'know']
+['run', 'way', 'thing', 'gas', 'mathematical', 'infinite', 'man', 'bobby', 'clear', 'world', 'trial', 'step', 'lead', 'fact', 'idea']
+['mathematical', 'gas', 'way', 'infinite', 'clear', 'run', 'fact', 'trial', 'idea', 'lead', 'know', 'solution', 'bobby', 'ii', 'thing']
+['gas', 'way', 'trial', 'mathematical', 'know', 'lead', 'continuous', 'clear', 'infinite', 'world', 'bobby', 'thing', 'man', 'run', 'atheist']
+['thing', 'infinite', 'gas', 'run', 'lead', 'way', 'bobby', 'man', 'step', 'think', 'ii', 'clear', 'mathematical', 'world', 'actually']
+['mathematical', 'fact', 'run', 'bobby', 'gas', 'clear', 'know', 'idea', 'thing', 'trial', 'lead', 'way', 'infinite', 'actually', 'solution']
+['way', 'lead', 'mathematical', 'run', 'infinite', 'gas', 'know', 'fact', 'trial', 'idea', 'step', 'attempt', 'thing', 'clear', 'world']
+['thing', 'run', 'mathematical', 'man', 'step', 'lead', 'way', 'world', 'trial', 'fact', 'gas', 'clear', 'continuous', 'infinite', 'attempt']
+['thing', 'gas', 'mathematical', 'know', 'bobby', 'think', 'man', 'way', 'clear', 'run', 'world', 'trial', 'infinite', 'attempt', 'deletion']
+['infinite', 'thing', 'bobby', 'mathematical', 'run', 'know', 'continuous', 'way', 'man', 'lead', 'fact', 'gas', 'world', 'deletion', 'trial']
+['mathematical', 'lead', 'run', 'trial', 'clear', 'thing', 'way', 'continuous', 'idea', 'man', 'bobby', 'fact', 'world', 'know', 'infinite']
+['infinite', 'run', 'way', 'fact', 'mathematical', 'lead', 'thing', 'bobby', 'world', 'gas', 'man', 'continuous', 'clear', 'course', 'know']
+['run', 'gas', 'mathematical', 'trial', 'idea', 'world', 'way', 'fact', 'bobby', 'lead', 'clear', 'know', 'thing', 'man', 'infinite']
+['infinite', 'way', 'run', 'mathematical', 'clear', 'fact', 'idea', 'know', 'solution', 'lead', 'gas', 'step', 'continuous', 'thing', 'world']
+['infinite', 'way', 'mathematical', 'clear', 'thing', 'lead', 'run', 'idea', 'gas', 'bobby', 'fact', 'esther', 'think', 'continuous', 'know']
+['gas', 'way', 'mathematical', 'bobby', 'lead', 'fact', 'infinite', 'solution', 'trial', 'man', 'idea', 'thing', 'clear', 'world', 'step']
+['way', 'mathematical', 'fact', 'lead', 'run', 'infinite', 'know', 'gas', 'bobby', 'thing', 'continuous', 'step', 'world', 'ii', 'trial']
+['infinite', 'thing', 'lead', 'run', 'know', 'way', 'bobby', 'gas', 'mathematical', 'continuous', 'clear', 'world', 'step', 'ii', 'idea']
+['run', 'mathematical', 'idea', 'bobby', 'gas', 'fact', 'way', 'thing', 'solution', 'ii', 'world', 'man', 'infinite', 'know', 'actually']
+['mathematical', 'way', 'gas', 'continuous', 'lead', 'bobby', 'man', 'trial', 'infinite', 'idea', 'clear', 'world', 'attempt', 'actually', 'know']
+['know', 'lead', 'clear', 'run', 'mathematical', 'way', 'infinite', 'thing', 'trial', 'world', 'idea', 'bobby', 'attempt', 'gas', 'solution']
+['mathematical', 'infinite', 'ii', 'way', 'run', 'fact', 'gas', 'continuous', 'clear', 'lead', 'world', 'bobby', 'thing', 'man', 'actually']
+['bobby', 'mathematical', 'lead', 'infinite', 'gas', 'fact', 'solution', 'world', 'thing', 'choice', 'run', 'know', 'clear', 'attempt', 'way']
+['run', 'gas', 'bobby', 'world', 'man', 'lead', 'clear', 'mathematical', 'way', 'continuous', 'infinite', 'fact', 'thing', 'choice', 'caste']
+['infinite', 'lead', 'run', 'bobby', 'clear', 'gas', 'mathematical', 'thing', 'think', 'way', 'solution', 'idea', 'continuous', 'man', 'atheist']
+['lead', 'thing', 'way', 'clear', 'world', 'mathematical', 'infinite', 'run', 'trial', 'think', 'bobby', 'gas', 'step', 'continuous', 'fact']
+['way', 'run', 'gas', 'think', 'thing', 'lead', 'bobby', 'infinite', 'absolute', 'mathematical', 'solution', 'world', 'attempt', 'continuous', 'clear']
+['gas', 'bobby', 'mathematical', 'world', 'infinite', 'fact', 'lead', 'way', 'thing', 'deletion', 'clear', 'run', 'continuous', 'know', 'solution']
+['clear', 'infinite', 'mathematical', 'run', 'lead', 'gas', 'trial', 'know', 'thing', 'world', 'ii', 'step', 'way', 'man', 'bobby']
+['thing', 'run', 'mathematical', 'man', 'lead', 'infinite', 'gas', 'ii', 'way', 'think', 'continuous', 'trial', 'know', 'bobby', 'clear']
+['way', 'continuous', 'run', 'gas', 'know', 'man', 'mathematical', 'thing', 'ii', 'lead', 'infinite', 'trial', 'clear', 'fact', 'idea']
+['mathematical', 'lead', 'way', 'actually', 'bobby', 'infinite', 'run', 'man', 'gas', 'attempt', 'continuous', 'know', 'ii', 'thing', 'fact']
+['mathematical', 'run', 'thing', 'gas', 'clear', 'lead', 'infinite', 'bobby', 'ii', 'attempt', 'man', 'course', 'world', 'solution', 'step']
+['thing', 'infinite', 'gas', 'run', 'think', 'clear', 'trial', 'bobby', 'idea', 'mathematical', 'lead', 'way', 'man', 'course', 'step']
+['run', 'mathematical', 'thing', 'gas', 'infinite', 'continuous', 'idea', 'way', 'fact', 'trial', 'man', 'know', 'think', 'step', 'universe']
+['thing', 'mathematical', 'infinite', 'run', 'fact', 'way', 'lead', 'bobby', 'know', 'idea', 'gas', 'trial', 'world', 'course', 'step']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'fact', 'world', 'lead', 'ii', 'continuous', 'know', 'step', 'deletion', 'actually', 'man']
+['clear', 'infinite', 'thing', 'gas', 'know', 'run', 'way', 'mathematical', 'trial', 'lead', 'fact', 'bobby', 'think', 'man', 'ii']
+['continuous', 'way', 'run', 'infinite', 'lead', 'gas', 'know', 'bobby', 'clear', 'trial', 'mathematical', 'idea', 'man', 'fact', 'thing']
+['mathematical', 'infinite', 'run', 'way', 'clear', 'man', 'fact', 'think', 'thing', 'solution', 'step', 'gas', 'know', 'lead', 'world']
+['run', 'mathematical', 'know', 'lead', 'continuous', 'gas', 'bobby', 'idea', 'fact', 'clear', 'way', 'thing', 'infinite', 'trial', 'man']
+['lead', 'way', 'bobby', 'clear', 'infinite', 'mathematical', 'run', 'thing', 'continuous', 'man', 'ii', 'know', 'actually', 'world', 'attempt']
+['lead', 'way', 'mathematical', 'infinite', 'gas', 'solution', 'clear', 'fact', 'run', 'idea', 'know', 'world', 'continuous', 'die', 'ii']
+['thing', 'run', 'fact', 'clear', 'infinite', 'way', 'gas', 'mathematical', 'know', 'man', 'think', 'bobby', 'continuous', 'lead', 'solution']
+['run', 'way', 'fact', 'clear', 'gas', 'continuous', 'mathematical', 'infinite', 'man', 'idea', 'think', 'bobby', 'solution', 'know', 'thing']
+['way', 'mathematical', 'gas', 'idea', 'fact', 'run', 'bobby', 'man', 'continuous', 'clear', 'trial', 'solution', 'world', 'infinite', 'ii']
+['thing', 'way', 'lead', 'run', 'ii', 'think', 'fact', 'gas', 'continuous', 'know', 'actually', 'bobby', 'describe', 'clear', 'man']
+['mathematical', 'gas', 'man', 'lead', 'bobby', 'way', 'trial', 'attempt', 'thing', 'run', 'idea', 'think', 'know', 'clear', 'fact']
+['mathematical', 'infinite', 'gas', 'way', 'run', 'fact', 'clear', 'solution', 'know', 'lead', 'idea', 'world', 'step', 'continuous', 'trial']
+['way', 'mathematical', 'idea', 'gas', 'clear', 'thing', 'agree', 'fact', 'solution', 'world', 'infinite', 'trial', 'lead', 'bobby', 'ii']
+['mathematical', 'way', 'run', 'know', 'lead', 'gas', 'man', 'infinite', 'bobby', 'idea', 'actually', 'trial', 'clear', 'world', 'ii']
+['lead', 'infinite', 'bobby', 'know', 'thing', 'mathematical', 'run', 'gas', 'continuous', 'clear', 'actually', 'way', 'man', 'world', 'ii']
+['gas', 'lead', 'infinite', 'world', 'way', 'bobby', 'run', 'thing', 'trial', 'clear', 'mathematical', 'idea', 'attempt', 'actually', 'man']
+['mathematical', 'fact', 'clear', 'way', 'lead', 'gas', 'solution', 'infinite', 'run', 'thing', 'die', 'atheist', 'know', 'bobby', 'idea']
+['way', 'gas', 'mathematical', 'run', 'lead', 'man', 'clear', 'ii', 'know', 'fact', 'trial', 'idea', 'bobby', 'step', 'infinite']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'run', 'thing', 'trial', 'lead', 'man', 'clear', 'course', 'think', 'actually', 'attempt']
+['mathematical', 'lead', 'thing', 'infinite', 'way', 'gas', 'world', 'clear', 'fact', 'bobby', 'solution', 'run', 'know', 'continuous', 'think']
+['way', 'infinite', 'clear', 'mathematical', 'fact', 'gas', 'bobby', 'think', 'thing', 'trial', 'lead', 'man', 'idea', 'continuous', 'world']
+==============================
+topic diversity:0.024
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35720116897507503, c_w2v:None, c_uci:-3.5715833147794194, c_npmi:-0.11763922483894435
+mimno topic coherence:-235.89896107525692
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-189.0690155	Loss_G:191.0328369	loss_E:-0.0467066
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-188.8028412	Loss_G:190.7220001	loss_E:-0.0467089
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 22% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-188.4687195	Loss_G:190.3456726	loss_E:-0.0467500
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-194.1545868	Loss_G:195.9928589	loss_E:-0.0467452
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-189.3192902	Loss_G:191.1174011	loss_E:-0.0467664
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 22% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-189.1301575	Loss_G:190.8907013	loss_E:-0.0467835
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-187.2948914	Loss_G:189.0203552	loss_E:-0.0467851
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-188.4432526	Loss_G:190.1348877	loss_E:-0.0468044
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-187.4412537	Loss_G:189.0999146	loss_E:-0.0468176
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 22% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-186.9023438	Loss_G:188.5305634	loss_E:-0.0468109
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 22% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-191.9225006	Loss_G:193.5217743	loss_E:-0.0468316
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-190.4266663	Loss_G:191.9981079	loss_E:-0.0468488
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 22% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-187.1585083	Loss_G:188.7037964	loss_E:-0.0468500
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-192.0079498	Loss_G:193.5284576	loss_E:-0.0468574
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-190.5059814	Loss_G:192.0032959	loss_E:-0.0468740
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 |  4% | 22% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-187.8948059	Loss_G:189.3711548	loss_E:-0.0468765
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-183.8461304	Loss_G:185.3014984	loss_E:-0.0468777
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 22% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-189.9263000	Loss_G:191.3636932	loss_E:-0.0468960
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 22% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-185.3995056	Loss_G:186.8200226	loss_E:-0.0468933
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 22% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-189.0706635	Loss_G:190.4761810	loss_E:-0.0468956
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 22% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-190.3282166	Loss_G:191.7198486	loss_E:-0.0469069
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-190.7105255	Loss_G:192.0902557	loss_E:-0.0469139
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-187.8934784	Loss_G:189.2622986	loss_E:-0.0469208
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-194.3106842	Loss_G:195.6705780	loss_E:-0.0469168
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-184.2749939	Loss_G:185.6268463	loss_E:-0.0469311
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-189.0870209	Loss_G:190.4331665	loss_E:-0.0469140
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-186.6145782	Loss_G:187.9558868	loss_E:-0.0469421
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-187.6231079	Loss_G:188.9617310	loss_E:-0.0469440
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-187.8447113	Loss_G:189.1796875	loss_E:-0.0469494
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 22% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-187.2915497	Loss_G:188.6231232	loss_E:-0.0469513
+Epoch  30	Loss_D_avg:-153.6748522	Loss_G_avg:157.6180013	loss_E_avg:-0.0362323
+['way', 'thing', 'gas', 'run', 'infinite', 'lead', 'course', 'fact', 'bobby', 'clear', 'man', 'world', 'think', 'mathematical', 'step']
+['run', 'world', 'way', 'thing', 'gas', 'man', 'bobby', 'infinite', 'lead', 'clear', 'think', 'mathematical', 'trial', 'step', 'attempt']
+['mathematical', 'run', 'clear', 'gas', 'way', 'thing', 'continuous', 'man', 'lead', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['thing', 'way', 'gas', 'infinite', 'mathematical', 'lead', 'clear', 'know', 'trial', 'think', 'solution', 'run', 'continuous', 'idea', 'fact']
+['way', 'gas', 'solution', 'clear', 'bobby', 'run', 'mathematical', 'deletion', 'fact', 'world', 'infinite', 'lead', 'idea', 'man', 'thing']
+['thing', 'run', 'mathematical', 'infinite', 'gas', 'clear', 'know', 'lead', 'fact', 'way', 'step', 'idea', 'ii', 'solution', 'bobby']
+['gas', 'run', 'lead', 'clear', 'way', 'mathematical', 'bobby', 'infinite', 'ii', 'man', 'thing', 'fact', 'know', 'idea', 'solution']
+['gas', 'run', 'way', 'infinite', 'world', 'thing', 'step', 'ii', 'lead', 'bobby', 'man', 'fact', 'mathematical', 'die', 'clear']
+['way', 'gas', 'mathematical', 'infinite', 'world', 'run', 'clear', 'thing', 'fact', 'know', 'lead', 'trial', 'ii', 'die', 'continuous']
+['way', 'mathematical', 'infinite', 'gas', 'lead', 'man', 'world', 'continuous', 'fact', 'bobby', 'run', 'ii', 'know', 'thing', 'idea']
+['way', 'gas', 'infinite', 'mathematical', 'fact', 'world', 'trial', 'run', 'thing', 'solution', 'clear', 'man', 'think', 'know', 'ii']
+['run', 'way', 'infinite', 'clear', 'lead', 'mathematical', 'fact', 'solution', 'gas', 'think', 'bobby', 'world', 'man', 'ii', 'idea']
+['way', 'gas', 'fact', 'run', 'infinite', 'thing', 'continuous', 'mathematical', 'die', 'world', 'clear', 'step', 'solution', 'ii', 'bobby']
+['way', 'thing', 'clear', 'mathematical', 'run', 'infinite', 'attempt', 'gas', 'lead', 'ii', 'fact', 'world', 'think', 'bobby', 'step']
+['way', 'gas', 'mathematical', 'man', 'ii', 'know', 'clear', 'thing', 'deletion', 'fact', 'continuous', 'lead', 'attempt', 'world', 'idea']
+['clear', 'thing', 'lead', 'mathematical', 'run', 'gas', 'trial', 'way', 'infinite', 'man', 'continuous', 'think', 'attempt', 'bobby', 'agree']
+['mathematical', 'clear', 'infinite', 'idea', 'know', 'run', 'way', 'continuous', 'gas', 'thing', 'fact', 'step', 'lead', 'trial', 'ii']
+['mathematical', 'way', 'thing', 'clear', 'man', 'run', 'trial', 'lead', 'infinite', 'gas', 'continuous', 'think', 'fact', 'bobby', 'agree']
+['way', 'gas', 'mathematical', 'run', 'clear', 'ii', 'infinite', 'world', 'actually', 'man', 'idea', 'trial', 'lead', 'continuous', 'bobby']
+['clear', 'trial', 'mathematical', 'gas', 'fact', 'man', 'way', 'infinite', 'run', 'lead', 'world', 'ii', 'thing', 'bobby', 'step']
+['mathematical', 'way', 'fact', 'clear', 'infinite', 'gas', 'bobby', 'thing', 'attempt', 'run', 'world', 'idea', 'lead', 'trial', 'step']
+['mathematical', 'run', 'way', 'ii', 'thing', 'fact', 'clear', 'infinite', 'gas', 'trial', 'continuous', 'world', 'lead', 'bobby', 'know']
+['way', 'gas', 'mathematical', 'fact', 'world', 'idea', 'ii', 'actually', 'trial', 'run', 'bobby', 'clear', 'thing', 'solution', 'think']
+['gas', 'way', 'infinite', 'world', 'thing', 'run', 'lead', 'clear', 'bobby', 'think', 'mathematical', 'know', 'man', 'fact', 'solution']
+['gas', 'way', 'man', 'thing', 'run', 'mathematical', 'fact', 'know', 'infinite', 'continuous', 'ii', 'think', 'trial', 'attempt', 'bobby']
+['infinite', 'run', 'way', 'clear', 'thing', 'mathematical', 'continuous', 'gas', 'know', 'world', 'lead', 'ii', 'trial', 'bobby', 'man']
+['fact', 'way', 'gas', 'run', 'clear', 'mathematical', 'lead', 'trial', 'thing', 'idea', 'know', 'infinite', 'bobby', 'world', 'ii']
+['way', 'continuous', 'infinite', 'lead', 'mathematical', 'gas', 'fact', 'run', 'know', 'clear', 'idea', 'ii', 'die', 'thing', 'actually']
+['infinite', 'fact', 'way', 'clear', 'run', 'lead', 'thing', 'know', 'mathematical', 'continuous', 'world', 'bobby', 'gas', 'idea', 'man']
+['gas', 'mathematical', 'way', 'man', 'fact', 'step', 'run', 'infinite', 'trial', 'world', 'clear', 'lead', 'bobby', 'thing', 'solution']
+['mathematical', 'clear', 'run', 'lead', 'way', 'infinite', 'world', 'gas', 'attempt', 'know', 'think', 'man', 'continuous', 'thing', 'bobby']
+['run', 'lead', 'thing', 'clear', 'infinite', 'way', 'gas', 'mathematical', 'idea', 'bobby', 'know', 'trial', 'step', 'continuous', 'think']
+['mathematical', 'fact', 'run', 'idea', 'infinite', 'gas', 'clear', 'world', 'continuous', 'bobby', 'thing', 'man', 'way', 'trial', 'know']
+['gas', 'mathematical', 'man', 'way', 'bobby', 'infinite', 'world', 'idea', 'lead', 'continuous', 'run', 'fact', 'clear', 'trial', 'thing']
+['lead', 'infinite', 'thing', 'clear', 'trial', 'mathematical', 'run', 'way', 'bobby', 'think', 'know', 'continuous', 'gas', 'idea', 'course']
+['run', 'infinite', 'mathematical', 'way', 'clear', 'world', 'man', 'know', 'lead', 'bobby', 'step', 'gas', 'continuous', 'solution', 'fact']
+['way', 'mathematical', 'run', 'gas', 'lead', 'bobby', 'thing', 'world', 'ii', 'continuous', 'infinite', 'trial', 'man', 'know', 'fact']
+['run', 'clear', 'gas', 'bobby', 'know', 'way', 'lead', 'trial', 'ii', 'world', 'mathematical', 'thing', 'think', 'infinite', 'explain']
+['mathematical', 'lead', 'run', 'clear', 'way', 'gas', 'idea', 'world', 'attempt', 'thing', 'infinite', 'trial', 'fact', 'bobby', 'man']
+['thing', 'continuous', 'lead', 'way', 'man', 'mathematical', 'gas', 'run', 'clear', 'world', 'infinite', 'trial', 'know', 'think', 'bobby']
+['infinite', 'thing', 'way', 'mathematical', 'think', 'gas', 'lead', 'run', 'clear', 'bobby', 'know', 'fact', 'ii', 'actually', 'continuous']
+['infinite', 'way', 'bobby', 'mathematical', 'know', 'run', 'thing', 'gas', 'clear', 'continuous', 'lead', 'idea', 'actually', 'world', 'ii']
+['way', 'run', 'gas', 'mathematical', 'die', 'fact', 'idea', 'clear', 'trial', 'lead', 'ii', 'continuous', 'think', 'step', 'thing']
+['run', 'way', 'thing', 'gas', 'mathematical', 'infinite', 'man', 'clear', 'world', 'trial', 'bobby', 'lead', 'step', 'fact', 'idea']
+['mathematical', 'way', 'gas', 'infinite', 'clear', 'run', 'fact', 'trial', 'idea', 'lead', 'know', 'solution', 'bobby', 'ii', 'continuous']
+['gas', 'way', 'mathematical', 'trial', 'know', 'lead', 'continuous', 'clear', 'world', 'infinite', 'bobby', 'man', 'thing', 'run', 'fact']
+['thing', 'infinite', 'gas', 'run', 'lead', 'way', 'man', 'bobby', 'step', 'clear', 'ii', 'think', 'mathematical', 'world', 'actually']
+['mathematical', 'run', 'fact', 'bobby', 'gas', 'clear', 'know', 'idea', 'thing', 'trial', 'way', 'lead', 'infinite', 'continuous', 'actually']
+['way', 'lead', 'mathematical', 'run', 'infinite', 'gas', 'fact', 'trial', 'know', 'idea', 'step', 'attempt', 'thing', 'clear', 'world']
+['thing', 'run', 'mathematical', 'man', 'lead', 'way', 'step', 'world', 'trial', 'fact', 'gas', 'clear', 'continuous', 'infinite', 'know']
+['thing', 'gas', 'mathematical', 'know', 'bobby', 'man', 'way', 'clear', 'think', 'world', 'run', 'trial', 'infinite', 'continuous', 'attempt']
+['infinite', 'thing', 'bobby', 'mathematical', 'continuous', 'run', 'know', 'way', 'man', 'lead', 'gas', 'fact', 'world', 'trial', 'clear']
+['mathematical', 'lead', 'run', 'trial', 'clear', 'thing', 'way', 'continuous', 'idea', 'man', 'bobby', 'fact', 'world', 'know', 'infinite']
+['infinite', 'run', 'way', 'fact', 'mathematical', 'lead', 'thing', 'bobby', 'world', 'gas', 'man', 'continuous', 'clear', 'know', 'course']
+['run', 'gas', 'mathematical', 'trial', 'idea', 'way', 'world', 'fact', 'lead', 'bobby', 'clear', 'thing', 'know', 'man', 'infinite']
+['infinite', 'way', 'run', 'mathematical', 'clear', 'fact', 'idea', 'know', 'gas', 'lead', 'solution', 'continuous', 'step', 'thing', 'man']
+['infinite', 'way', 'mathematical', 'clear', 'thing', 'lead', 'run', 'gas', 'idea', 'bobby', 'fact', 'continuous', 'esther', 'think', 'know']
+['gas', 'way', 'mathematical', 'lead', 'bobby', 'fact', 'infinite', 'trial', 'man', 'solution', 'idea', 'clear', 'thing', 'world', 'step']
+['way', 'mathematical', 'fact', 'lead', 'run', 'infinite', 'know', 'gas', 'bobby', 'thing', 'continuous', 'step', 'world', 'ii', 'trial']
+['infinite', 'thing', 'lead', 'run', 'know', 'way', 'gas', 'mathematical', 'bobby', 'continuous', 'clear', 'world', 'ii', 'step', 'idea']
+['run', 'mathematical', 'idea', 'bobby', 'gas', 'fact', 'way', 'thing', 'ii', 'world', 'solution', 'man', 'infinite', 'know', 'actually']
+['mathematical', 'way', 'gas', 'continuous', 'lead', 'man', 'trial', 'bobby', 'infinite', 'idea', 'clear', 'world', 'run', 'know', 'attempt']
+['know', 'lead', 'clear', 'mathematical', 'run', 'way', 'infinite', 'thing', 'trial', 'world', 'idea', 'bobby', 'attempt', 'gas', 'continuous']
+['mathematical', 'infinite', 'way', 'ii', 'run', 'fact', 'gas', 'continuous', 'clear', 'lead', 'world', 'thing', 'man', 'bobby', 'actually']
+['bobby', 'mathematical', 'lead', 'infinite', 'gas', 'fact', 'world', 'thing', 'clear', 'run', 'solution', 'way', 'know', 'attempt', 'choice']
+['run', 'gas', 'bobby', 'world', 'man', 'clear', 'lead', 'way', 'mathematical', 'continuous', 'infinite', 'fact', 'thing', 'solution', 'choice']
+['lead', 'run', 'infinite', 'clear', 'bobby', 'gas', 'mathematical', 'way', 'thing', 'think', 'idea', 'solution', 'man', 'continuous', 'atheist']
+['lead', 'thing', 'way', 'clear', 'mathematical', 'world', 'infinite', 'run', 'trial', 'gas', 'bobby', 'think', 'continuous', 'step', 'fact']
+['way', 'run', 'gas', 'thing', 'think', 'lead', 'bobby', 'infinite', 'mathematical', 'absolute', 'solution', 'world', 'continuous', 'clear', 'man']
+['gas', 'mathematical', 'bobby', 'world', 'infinite', 'way', 'fact', 'lead', 'clear', 'thing', 'deletion', 'run', 'continuous', 'know', 'man']
+['clear', 'infinite', 'mathematical', 'run', 'lead', 'gas', 'trial', 'know', 'thing', 'world', 'way', 'ii', 'man', 'step', 'idea']
+['thing', 'mathematical', 'run', 'man', 'lead', 'infinite', 'gas', 'way', 'ii', 'trial', 'continuous', 'think', 'clear', 'know', 'bobby']
+['way', 'run', 'continuous', 'gas', 'know', 'man', 'mathematical', 'thing', 'ii', 'lead', 'infinite', 'trial', 'clear', 'fact', 'idea']
+['mathematical', 'way', 'lead', 'actually', 'infinite', 'bobby', 'run', 'man', 'gas', 'attempt', 'continuous', 'ii', 'know', 'thing', 'fact']
+['mathematical', 'run', 'gas', 'thing', 'clear', 'lead', 'infinite', 'bobby', 'ii', 'attempt', 'man', 'world', 'way', 'trial', 'step']
+['thing', 'gas', 'infinite', 'run', 'clear', 'think', 'trial', 'bobby', 'idea', 'mathematical', 'way', 'lead', 'man', 'course', 'fact']
+['mathematical', 'run', 'gas', 'thing', 'infinite', 'continuous', 'idea', 'way', 'fact', 'trial', 'man', 'know', 'think', 'step', 'universe']
+['thing', 'mathematical', 'infinite', 'run', 'way', 'lead', 'fact', 'bobby', 'know', 'idea', 'gas', 'trial', 'world', 'clear', 'continuous']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'lead', 'world', 'fact', 'ii', 'continuous', 'know', 'step', 'man', 'deletion', 'actually']
+['clear', 'infinite', 'thing', 'gas', 'know', 'run', 'way', 'mathematical', 'trial', 'lead', 'fact', 'bobby', 'man', 'ii', 'think']
+['continuous', 'way', 'run', 'infinite', 'lead', 'gas', 'clear', 'know', 'mathematical', 'bobby', 'trial', 'idea', 'man', 'fact', 'thing']
+['mathematical', 'infinite', 'way', 'run', 'clear', 'man', 'fact', 'thing', 'think', 'gas', 'solution', 'lead', 'know', 'step', 'world']
+['run', 'mathematical', 'know', 'continuous', 'lead', 'gas', 'bobby', 'fact', 'clear', 'idea', 'way', 'thing', 'infinite', 'trial', 'man']
+['lead', 'way', 'bobby', 'clear', 'infinite', 'mathematical', 'run', 'thing', 'continuous', 'man', 'ii', 'world', 'know', 'actually', 'gas']
+['lead', 'way', 'mathematical', 'infinite', 'gas', 'solution', 'clear', 'fact', 'run', 'idea', 'know', 'continuous', 'world', 'ii', 'die']
+['thing', 'run', 'fact', 'clear', 'way', 'infinite', 'gas', 'mathematical', 'man', 'know', 'think', 'bobby', 'continuous', 'lead', 'ii']
+['run', 'way', 'clear', 'gas', 'fact', 'continuous', 'mathematical', 'man', 'infinite', 'idea', 'think', 'bobby', 'solution', 'know', 'thing']
+['way', 'mathematical', 'gas', 'fact', 'idea', 'run', 'man', 'bobby', 'continuous', 'clear', 'trial', 'solution', 'world', 'infinite', 'ii']
+['thing', 'way', 'lead', 'run', 'ii', 'fact', 'think', 'gas', 'continuous', 'know', 'clear', 'actually', 'man', 'bobby', 'world']
+['mathematical', 'gas', 'man', 'lead', 'way', 'bobby', 'trial', 'attempt', 'thing', 'run', 'idea', 'clear', 'know', 'fact', 'think']
+['mathematical', 'gas', 'infinite', 'way', 'run', 'fact', 'clear', 'solution', 'know', 'lead', 'idea', 'world', 'trial', 'continuous', 'step']
+['way', 'mathematical', 'idea', 'gas', 'clear', 'thing', 'agree', 'fact', 'solution', 'lead', 'world', 'trial', 'infinite', 'bobby', 'ii']
+['mathematical', 'way', 'run', 'know', 'lead', 'gas', 'man', 'infinite', 'bobby', 'idea', 'actually', 'trial', 'clear', 'world', 'continuous']
+['lead', 'infinite', 'bobby', 'mathematical', 'know', 'thing', 'run', 'gas', 'continuous', 'clear', 'way', 'man', 'world', 'actually', 'ii']
+['gas', 'lead', 'infinite', 'world', 'way', 'bobby', 'run', 'thing', 'trial', 'clear', 'mathematical', 'idea', 'man', 'attempt', 'actually']
+['mathematical', 'fact', 'clear', 'way', 'lead', 'gas', 'infinite', 'solution', 'thing', 'run', 'die', 'know', 'bobby', 'continuous', 'atheist']
+['way', 'gas', 'mathematical', 'run', 'man', 'lead', 'clear', 'ii', 'trial', 'fact', 'know', 'idea', 'bobby', 'step', 'world']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'run', 'thing', 'trial', 'lead', 'man', 'clear', 'course', 'think', 'actually', 'fact']
+['mathematical', 'lead', 'thing', 'way', 'infinite', 'gas', 'world', 'clear', 'fact', 'bobby', 'run', 'solution', 'continuous', 'know', 'think']
+['way', 'infinite', 'clear', 'mathematical', 'fact', 'gas', 'bobby', 'trial', 'man', 'thing', 'lead', 'idea', 'think', 'continuous', 'world']
+==============================
+topic diversity:0.021333333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3573866258332752, c_w2v:None, c_uci:-3.576491097262591, c_npmi:-0.11791681336219809
+mimno topic coherence:-224.97553729486626
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 22% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-190.1384430	Loss_G:191.4676361	loss_E:-0.0469562
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 22% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-188.4557648	Loss_G:189.7816315	loss_E:-0.0469569
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 22% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-192.9608307	Loss_G:194.2836914	loss_E:-0.0469650
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-188.2959595	Loss_G:189.6162262	loss_E:-0.0469651
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 22% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-186.2542725	Loss_G:187.5713196	loss_E:-0.0469694
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-191.5337524	Loss_G:192.8480988	loss_E:-0.0469735
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-187.8646393	Loss_G:189.1761322	loss_E:-0.0469765
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-191.5107422	Loss_G:192.8194122	loss_E:-0.0469728
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-189.2544861	Loss_G:190.5601196	loss_E:-0.0469692
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-190.4528656	Loss_G:191.7559052	loss_E:-0.0469825
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-182.5807953	Loss_G:183.8805237	loss_E:-0.0469863
+| ID | GPU | MEM |
+------------------
+|  0 | 59% | 22% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-189.8148956	Loss_G:191.1120911	loss_E:-0.0469870
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-188.4761810	Loss_G:189.7707214	loss_E:-0.0469889
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-191.8833008	Loss_G:193.1749573	loss_E:-0.0469899
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-190.8662872	Loss_G:192.1548309	loss_E:-0.0469929
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-188.5075989	Loss_G:189.7935944	loss_E:-0.0469904
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 22% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-188.1686401	Loss_G:189.4517059	loss_E:-0.0469984
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 22% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-187.7792816	Loss_G:189.0595398	loss_E:-0.0469798
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 22% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-189.6258545	Loss_G:190.9035492	loss_E:-0.0469956
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-189.7557983	Loss_G:191.0304565	loss_E:-0.0470021
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 22% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-189.6992950	Loss_G:190.9712524	loss_E:-0.0470037
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-187.9984131	Loss_G:189.2677002	loss_E:-0.0470008
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-195.5254211	Loss_G:196.7918243	loss_E:-0.0470043
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 22% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-193.5090790	Loss_G:194.7727661	loss_E:-0.0470080
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-188.2681122	Loss_G:189.5291138	loss_E:-0.0470073
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-186.9572906	Loss_G:188.2156372	loss_E:-0.0470077
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 22% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-189.7536774	Loss_G:191.0090790	loss_E:-0.0470099
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-184.5706940	Loss_G:185.8235321	loss_E:-0.0470019
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-187.5129547	Loss_G:188.7629547	loss_E:-0.0470064
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 22% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-185.9973602	Loss_G:187.2448578	loss_E:-0.0470138
+Epoch  40	Loss_D_avg:-162.5392449	Loss_G_avg:165.8185082	loss_E_avg:-0.0389214
+['way', 'thing', 'gas', 'run', 'infinite', 'lead', 'clear', 'fact', 'man', 'bobby', 'course', 'world', 'mathematical', 'step', 'think']
+['way', 'run', 'world', 'thing', 'man', 'gas', 'bobby', 'infinite', 'lead', 'clear', 'mathematical', 'trial', 'think', 'step', 'attempt']
+['mathematical', 'run', 'clear', 'gas', 'way', 'thing', 'continuous', 'man', 'lead', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['thing', 'way', 'gas', 'mathematical', 'infinite', 'lead', 'clear', 'know', 'trial', 'think', 'solution', 'continuous', 'run', 'idea', 'fact']
+['way', 'gas', 'clear', 'solution', 'bobby', 'mathematical', 'run', 'fact', 'deletion', 'world', 'infinite', 'idea', 'lead', 'man', 'thing']
+['thing', 'run', 'mathematical', 'infinite', 'gas', 'clear', 'know', 'lead', 'fact', 'way', 'idea', 'step', 'ii', 'continuous', 'trial']
+['gas', 'run', 'clear', 'lead', 'mathematical', 'way', 'infinite', 'bobby', 'man', 'thing', 'ii', 'fact', 'know', 'idea', 'continuous']
+['gas', 'way', 'run', 'infinite', 'world', 'thing', 'step', 'lead', 'ii', 'man', 'fact', 'bobby', 'mathematical', 'clear', 'die']
+['way', 'gas', 'mathematical', 'infinite', 'clear', 'world', 'run', 'thing', 'fact', 'lead', 'trial', 'know', 'ii', 'continuous', 'die']
+['way', 'mathematical', 'infinite', 'gas', 'lead', 'man', 'continuous', 'world', 'fact', 'run', 'bobby', 'ii', 'thing', 'know', 'idea']
+['way', 'gas', 'mathematical', 'infinite', 'world', 'fact', 'trial', 'thing', 'run', 'clear', 'man', 'solution', 'continuous', 'think', 'know']
+['run', 'way', 'infinite', 'clear', 'mathematical', 'lead', 'fact', 'gas', 'solution', 'man', 'bobby', 'think', 'world', 'ii', 'idea']
+['way', 'gas', 'fact', 'run', 'infinite', 'thing', 'continuous', 'mathematical', 'world', 'clear', 'die', 'step', 'solution', 'ii', 'idea']
+['way', 'thing', 'clear', 'mathematical', 'run', 'infinite', 'gas', 'attempt', 'lead', 'ii', 'fact', 'world', 'think', 'continuous', 'step']
+['way', 'gas', 'mathematical', 'man', 'clear', 'ii', 'know', 'thing', 'fact', 'continuous', 'deletion', 'lead', 'world', 'attempt', 'idea']
+['clear', 'thing', 'lead', 'mathematical', 'run', 'gas', 'trial', 'way', 'man', 'infinite', 'continuous', 'bobby', 'agree', 'think', 'attempt']
+['mathematical', 'clear', 'infinite', 'idea', 'way', 'run', 'know', 'continuous', 'gas', 'thing', 'fact', 'step', 'lead', 'trial', 'man']
+['mathematical', 'way', 'man', 'thing', 'clear', 'run', 'trial', 'lead', 'gas', 'infinite', 'continuous', 'fact', 'think', 'bobby', 'agree']
+['way', 'gas', 'mathematical', 'clear', 'run', 'infinite', 'ii', 'man', 'world', 'idea', 'trial', 'lead', 'actually', 'continuous', 'bobby']
+['clear', 'trial', 'mathematical', 'gas', 'fact', 'man', 'way', 'infinite', 'run', 'lead', 'world', 'thing', 'ii', 'bobby', 'step']
+['mathematical', 'way', 'fact', 'clear', 'infinite', 'gas', 'bobby', 'thing', 'world', 'lead', 'run', 'trial', 'attempt', 'idea', 'step']
+['mathematical', 'run', 'way', 'ii', 'thing', 'fact', 'clear', 'infinite', 'trial', 'gas', 'continuous', 'world', 'lead', 'bobby', 'man']
+['way', 'mathematical', 'gas', 'fact', 'world', 'idea', 'ii', 'actually', 'trial', 'run', 'clear', 'bobby', 'thing', 'solution', 'step']
+['gas', 'way', 'infinite', 'world', 'thing', 'run', 'clear', 'lead', 'bobby', 'mathematical', 'think', 'know', 'man', 'fact', 'ii']
+['gas', 'way', 'man', 'thing', 'run', 'mathematical', 'fact', 'continuous', 'know', 'infinite', 'ii', 'think', 'trial', 'attempt', 'step']
+['infinite', 'run', 'way', 'clear', 'thing', 'mathematical', 'continuous', 'gas', 'know', 'world', 'lead', 'ii', 'trial', 'bobby', 'man']
+['fact', 'way', 'gas', 'clear', 'run', 'mathematical', 'lead', 'trial', 'thing', 'idea', 'infinite', 'know', 'world', 'bobby', 'ii']
+['way', 'continuous', 'infinite', 'lead', 'mathematical', 'gas', 'fact', 'run', 'know', 'clear', 'idea', 'ii', 'die', 'thing', 'actually']
+['infinite', 'fact', 'way', 'clear', 'run', 'lead', 'mathematical', 'know', 'thing', 'continuous', 'world', 'gas', 'bobby', 'man', 'idea']
+['gas', 'mathematical', 'way', 'man', 'fact', 'step', 'trial', 'run', 'infinite', 'world', 'clear', 'lead', 'bobby', 'thing', 'solution']
+['mathematical', 'clear', 'run', 'lead', 'way', 'world', 'infinite', 'gas', 'attempt', 'know', 'man', 'continuous', 'think', 'thing', 'bobby']
+['run', 'lead', 'clear', 'thing', 'way', 'gas', 'mathematical', 'infinite', 'idea', 'bobby', 'trial', 'know', 'step', 'continuous', 'fact']
+['mathematical', 'fact', 'run', 'idea', 'infinite', 'gas', 'clear', 'continuous', 'world', 'bobby', 'man', 'way', 'thing', 'trial', 'lead']
+['gas', 'mathematical', 'way', 'man', 'bobby', 'infinite', 'lead', 'world', 'idea', 'continuous', 'run', 'fact', 'clear', 'trial', 'thing']
+['lead', 'infinite', 'thing', 'clear', 'trial', 'mathematical', 'way', 'run', 'bobby', 'think', 'continuous', 'gas', 'know', 'idea', 'step']
+['run', 'mathematical', 'infinite', 'way', 'clear', 'world', 'man', 'know', 'lead', 'bobby', 'gas', 'step', 'continuous', 'fact', 'solution']
+['way', 'mathematical', 'run', 'gas', 'lead', 'bobby', 'thing', 'world', 'continuous', 'ii', 'infinite', 'trial', 'man', 'fact', 'know']
+['clear', 'run', 'gas', 'bobby', 'way', 'know', 'lead', 'trial', 'mathematical', 'world', 'ii', 'thing', 'infinite', 'man', 'think']
+['mathematical', 'lead', 'clear', 'run', 'way', 'gas', 'idea', 'world', 'attempt', 'thing', 'infinite', 'trial', 'fact', 'bobby', 'man']
+['thing', 'continuous', 'lead', 'way', 'man', 'mathematical', 'gas', 'run', 'clear', 'world', 'infinite', 'trial', 'know', 'think', 'ii']
+['infinite', 'thing', 'way', 'mathematical', 'gas', 'think', 'lead', 'clear', 'run', 'bobby', 'know', 'fact', 'ii', 'continuous', 'actually']
+['infinite', 'way', 'bobby', 'mathematical', 'know', 'run', 'gas', 'thing', 'clear', 'continuous', 'lead', 'idea', 'actually', 'world', 'man']
+['way', 'run', 'gas', 'mathematical', 'die', 'fact', 'clear', 'trial', 'idea', 'lead', 'ii', 'continuous', 'thing', 'world', 'step']
+['run', 'way', 'thing', 'mathematical', 'gas', 'infinite', 'clear', 'man', 'world', 'trial', 'bobby', 'lead', 'step', 'fact', 'idea']
+['mathematical', 'way', 'gas', 'infinite', 'clear', 'run', 'fact', 'trial', 'idea', 'lead', 'know', 'ii', 'solution', 'bobby', 'continuous']
+['gas', 'way', 'mathematical', 'trial', 'lead', 'know', 'clear', 'continuous', 'world', 'infinite', 'man', 'bobby', 'run', 'thing', 'fact']
+['thing', 'gas', 'infinite', 'way', 'lead', 'run', 'man', 'bobby', 'clear', 'step', 'ii', 'mathematical', 'think', 'world', 'actually']
+['mathematical', 'run', 'fact', 'bobby', 'clear', 'gas', 'know', 'idea', 'trial', 'thing', 'way', 'lead', 'continuous', 'infinite', 'world']
+['way', 'mathematical', 'lead', 'infinite', 'run', 'gas', 'fact', 'trial', 'know', 'idea', 'step', 'thing', 'clear', 'attempt', 'ii']
+['thing', 'run', 'mathematical', 'man', 'way', 'lead', 'world', 'step', 'trial', 'fact', 'gas', 'clear', 'continuous', 'infinite', 'know']
+['thing', 'gas', 'mathematical', 'know', 'man', 'way', 'bobby', 'clear', 'world', 'run', 'think', 'trial', 'infinite', 'continuous', 'fact']
+['infinite', 'thing', 'mathematical', 'bobby', 'continuous', 'run', 'way', 'know', 'man', 'lead', 'gas', 'fact', 'world', 'trial', 'clear']
+['mathematical', 'run', 'lead', 'trial', 'clear', 'way', 'thing', 'continuous', 'idea', 'man', 'bobby', 'fact', 'world', 'know', 'infinite']
+['infinite', 'way', 'run', 'mathematical', 'fact', 'lead', 'thing', 'bobby', 'gas', 'world', 'man', 'clear', 'continuous', 'know', 'ii']
+['run', 'gas', 'mathematical', 'trial', 'way', 'idea', 'world', 'fact', 'lead', 'clear', 'bobby', 'thing', 'man', 'know', 'continuous']
+['infinite', 'way', 'mathematical', 'run', 'clear', 'fact', 'idea', 'gas', 'know', 'lead', 'continuous', 'solution', 'step', 'man', 'thing']
+['infinite', 'way', 'mathematical', 'clear', 'thing', 'lead', 'gas', 'run', 'idea', 'bobby', 'fact', 'continuous', 'think', 'esther', 'know']
+['gas', 'way', 'mathematical', 'lead', 'bobby', 'fact', 'infinite', 'trial', 'man', 'clear', 'thing', 'solution', 'idea', 'world', 'step']
+['way', 'mathematical', 'fact', 'lead', 'run', 'know', 'infinite', 'gas', 'thing', 'bobby', 'continuous', 'step', 'world', 'trial', 'ii']
+['infinite', 'lead', 'thing', 'run', 'way', 'know', 'gas', 'mathematical', 'bobby', 'continuous', 'clear', 'world', 'ii', 'step', 'idea']
+['run', 'mathematical', 'idea', 'gas', 'bobby', 'way', 'fact', 'thing', 'man', 'world', 'ii', 'solution', 'infinite', 'know', 'continuous']
+['mathematical', 'way', 'gas', 'continuous', 'lead', 'man', 'trial', 'infinite', 'bobby', 'clear', 'idea', 'world', 'run', 'know', 'fact']
+['know', 'clear', 'mathematical', 'lead', 'way', 'run', 'infinite', 'trial', 'thing', 'world', 'idea', 'bobby', 'gas', 'attempt', 'continuous']
+['mathematical', 'way', 'infinite', 'ii', 'run', 'fact', 'gas', 'continuous', 'clear', 'lead', 'world', 'thing', 'man', 'bobby', 'idea']
+['mathematical', 'bobby', 'lead', 'gas', 'infinite', 'fact', 'world', 'clear', 'way', 'thing', 'run', 'solution', 'know', 'attempt', 'trial']
+['run', 'gas', 'man', 'world', 'bobby', 'clear', 'way', 'lead', 'mathematical', 'continuous', 'infinite', 'fact', 'thing', 'trial', 'solution']
+['lead', 'run', 'infinite', 'clear', 'bobby', 'gas', 'way', 'mathematical', 'thing', 'man', 'continuous', 'idea', 'think', 'solution', 'trial']
+['lead', 'thing', 'way', 'clear', 'mathematical', 'world', 'infinite', 'run', 'trial', 'gas', 'bobby', 'continuous', 'think', 'man', 'fact']
+['way', 'run', 'gas', 'thing', 'lead', 'think', 'mathematical', 'infinite', 'bobby', 'absolute', 'clear', 'world', 'continuous', 'man', 'solution']
+['gas', 'mathematical', 'bobby', 'world', 'infinite', 'way', 'fact', 'lead', 'clear', 'thing', 'deletion', 'run', 'continuous', 'man', 'trial']
+['clear', 'mathematical', 'infinite', 'run', 'lead', 'gas', 'trial', 'way', 'know', 'world', 'thing', 'ii', 'man', 'step', 'idea']
+['thing', 'mathematical', 'run', 'man', 'lead', 'infinite', 'gas', 'way', 'ii', 'trial', 'continuous', 'clear', 'think', 'know', 'bobby']
+['way', 'run', 'continuous', 'gas', 'man', 'mathematical', 'know', 'ii', 'thing', 'lead', 'trial', 'clear', 'infinite', 'fact', 'idea']
+['mathematical', 'way', 'lead', 'actually', 'infinite', 'run', 'bobby', 'man', 'gas', 'continuous', 'attempt', 'ii', 'know', 'thing', 'fact']
+['mathematical', 'gas', 'run', 'thing', 'clear', 'lead', 'infinite', 'bobby', 'ii', 'attempt', 'man', 'world', 'way', 'trial', 'fact']
+['gas', 'thing', 'infinite', 'run', 'clear', 'think', 'trial', 'mathematical', 'bobby', 'way', 'idea', 'lead', 'man', 'fact', 'continuous']
+['mathematical', 'run', 'gas', 'thing', 'infinite', 'continuous', 'way', 'idea', 'fact', 'trial', 'man', 'know', 'think', 'step', 'clear']
+['thing', 'mathematical', 'infinite', 'way', 'run', 'lead', 'fact', 'bobby', 'gas', 'know', 'idea', 'trial', 'clear', 'world', 'man']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'lead', 'world', 'fact', 'continuous', 'ii', 'know', 'step', 'man', 'clear', 'deletion']
+['clear', 'thing', 'gas', 'infinite', 'know', 'run', 'mathematical', 'way', 'trial', 'lead', 'fact', 'man', 'bobby', 'ii', 'think']
+['continuous', 'way', 'run', 'infinite', 'lead', 'gas', 'clear', 'mathematical', 'know', 'trial', 'bobby', 'idea', 'man', 'fact', 'thing']
+['mathematical', 'infinite', 'way', 'run', 'clear', 'man', 'fact', 'thing', 'gas', 'think', 'lead', 'solution', 'know', 'step', 'world']
+['run', 'mathematical', 'continuous', 'know', 'gas', 'lead', 'bobby', 'clear', 'fact', 'way', 'idea', 'thing', 'infinite', 'trial', 'man']
+['way', 'lead', 'clear', 'bobby', 'mathematical', 'infinite', 'run', 'thing', 'continuous', 'man', 'world', 'ii', 'gas', 'know', 'actually']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'solution', 'fact', 'run', 'idea', 'continuous', 'know', 'world', 'ii', 'die']
+['thing', 'run', 'fact', 'clear', 'way', 'gas', 'infinite', 'mathematical', 'man', 'know', 'lead', 'continuous', 'bobby', 'think', 'ii']
+['run', 'way', 'clear', 'gas', 'continuous', 'fact', 'mathematical', 'man', 'infinite', 'idea', 'think', 'bobby', 'know', 'solution', 'thing']
+['way', 'mathematical', 'gas', 'fact', 'idea', 'run', 'man', 'bobby', 'continuous', 'clear', 'trial', 'world', 'solution', 'infinite', 'ii']
+['thing', 'way', 'lead', 'run', 'ii', 'fact', 'gas', 'continuous', 'think', 'clear', 'know', 'actually', 'man', 'mathematical', 'world']
+['mathematical', 'gas', 'man', 'lead', 'way', 'bobby', 'trial', 'thing', 'attempt', 'run', 'clear', 'idea', 'fact', 'know', 'continuous']
+['mathematical', 'gas', 'infinite', 'way', 'run', 'fact', 'clear', 'lead', 'know', 'solution', 'idea', 'world', 'trial', 'continuous', 'step']
+['way', 'mathematical', 'gas', 'idea', 'clear', 'thing', 'agree', 'fact', 'lead', 'world', 'trial', 'solution', 'infinite', 'bobby', 'ii']
+['mathematical', 'way', 'run', 'lead', 'know', 'gas', 'man', 'infinite', 'bobby', 'idea', 'clear', 'trial', 'world', 'actually', 'continuous']
+['lead', 'infinite', 'bobby', 'mathematical', 'thing', 'know', 'gas', 'run', 'continuous', 'clear', 'way', 'man', 'world', 'actually', 'ii']
+['gas', 'lead', 'infinite', 'world', 'way', 'clear', 'run', 'bobby', 'trial', 'thing', 'mathematical', 'man', 'idea', 'attempt', 'step']
+['mathematical', 'fact', 'clear', 'way', 'lead', 'gas', 'infinite', 'thing', 'run', 'solution', 'know', 'continuous', 'die', 'man', 'idea']
+['way', 'gas', 'mathematical', 'clear', 'run', 'man', 'lead', 'ii', 'trial', 'fact', 'know', 'idea', 'bobby', 'step', 'world']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'run', 'thing', 'trial', 'lead', 'clear', 'man', 'course', 'actually', 'fact', 'think']
+['mathematical', 'lead', 'thing', 'way', 'infinite', 'gas', 'world', 'clear', 'fact', 'bobby', 'run', 'continuous', 'solution', 'know', 'ii']
+['way', 'clear', 'mathematical', 'infinite', 'fact', 'gas', 'bobby', 'trial', 'man', 'lead', 'thing', 'idea', 'think', 'continuous', 'world']
+==============================
+topic diversity:0.018666666666666668
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3532121396137893, c_w2v:None, c_uci:-3.6238914749584423, c_npmi:-0.12007068799289224
+mimno topic coherence:-226.09049342726712
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 22% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-188.8777924	Loss_G:190.1225891	loss_E:-0.0470117
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 22% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-185.8076324	Loss_G:187.0495911	loss_E:-0.0470130
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 22% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-190.1986389	Loss_G:191.4378967	loss_E:-0.0470022
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 22% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-190.2533264	Loss_G:191.4902039	loss_E:-0.0470098
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 22% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-190.2629242	Loss_G:191.4967651	loss_E:-0.0470150
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-191.0859222	Loss_G:192.3172302	loss_E:-0.0470182
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-193.5998383	Loss_G:194.8285828	loss_E:-0.0470183
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 22% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-194.0889435	Loss_G:195.3150177	loss_E:-0.0470074
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 22% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-192.7782745	Loss_G:194.0015411	loss_E:-0.0470191
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-189.9285431	Loss_G:191.1493073	loss_E:-0.0470092
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-190.1880188	Loss_G:191.4060822	loss_E:-0.0470203
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 22% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-190.0785980	Loss_G:191.2939911	loss_E:-0.0470215
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-190.2185822	Loss_G:191.4313354	loss_E:-0.0470062
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-184.4036865	Loss_G:185.6137695	loss_E:-0.0470210
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 22% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-186.6015472	Loss_G:187.8089752	loss_E:-0.0470177
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 22% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-188.6298065	Loss_G:189.8347931	loss_E:-0.0470229
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 22% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-189.9393158	Loss_G:191.1414642	loss_E:-0.0470240
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-190.6865997	Loss_G:191.8860931	loss_E:-0.0470242
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-188.6311646	Loss_G:189.8282623	loss_E:-0.0470246
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-187.4906311	Loss_G:188.6850433	loss_E:-0.0470254
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-192.9403381	Loss_G:194.1319733	loss_E:-0.0470266
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-189.2645264	Loss_G:190.4536896	loss_E:-0.0470260
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-190.9745789	Loss_G:192.1611176	loss_E:-0.0470276
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-189.1224976	Loss_G:190.3064575	loss_E:-0.0470222
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-187.9519958	Loss_G:189.1333923	loss_E:-0.0470242
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-184.1913452	Loss_G:185.3700714	loss_E:-0.0470283
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 22% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-191.6074829	Loss_G:192.7836151	loss_E:-0.0470268
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 22% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-188.8152466	Loss_G:189.9889679	loss_E:-0.0470289
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 22% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-190.5530090	Loss_G:191.7239075	loss_E:-0.0470298
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-192.8349609	Loss_G:194.0033722	loss_E:-0.0470258
+Epoch  50	Loss_D_avg:-167.9781010	Loss_G_avg:170.8427739	loss_E_avg:-0.0405411
+['way', 'gas', 'thing', 'run', 'infinite', 'lead', 'clear', 'man', 'fact', 'bobby', 'mathematical', 'world', 'course', 'continuous', 'step']
+['way', 'run', 'man', 'thing', 'world', 'gas', 'bobby', 'infinite', 'clear', 'lead', 'mathematical', 'trial', 'think', 'step', 'idea']
+['mathematical', 'run', 'clear', 'gas', 'way', 'continuous', 'thing', 'lead', 'man', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['thing', 'way', 'gas', 'mathematical', 'lead', 'infinite', 'clear', 'know', 'trial', 'continuous', 'run', 'think', 'solution', 'fact', 'idea']
+['way', 'gas', 'clear', 'solution', 'bobby', 'mathematical', 'run', 'fact', 'world', 'deletion', 'infinite', 'idea', 'lead', 'man', 'thing']
+['thing', 'mathematical', 'run', 'infinite', 'gas', 'clear', 'know', 'lead', 'fact', 'way', 'idea', 'step', 'ii', 'continuous', 'trial']
+['gas', 'clear', 'run', 'mathematical', 'lead', 'way', 'infinite', 'bobby', 'man', 'thing', 'ii', 'fact', 'know', 'idea', 'continuous']
+['way', 'gas', 'run', 'infinite', 'world', 'thing', 'step', 'lead', 'man', 'ii', 'fact', 'bobby', 'mathematical', 'clear', 'trial']
+['way', 'gas', 'mathematical', 'infinite', 'clear', 'world', 'thing', 'run', 'trial', 'lead', 'fact', 'know', 'ii', 'continuous', 'die']
+['way', 'mathematical', 'gas', 'infinite', 'lead', 'man', 'continuous', 'world', 'fact', 'run', 'bobby', 'ii', 'know', 'thing', 'clear']
+['way', 'gas', 'mathematical', 'infinite', 'world', 'fact', 'trial', 'thing', 'run', 'clear', 'man', 'solution', 'continuous', 'lead', 'know']
+['run', 'way', 'clear', 'infinite', 'mathematical', 'lead', 'fact', 'gas', 'man', 'solution', 'world', 'bobby', 'think', 'ii', 'idea']
+['way', 'gas', 'fact', 'run', 'infinite', 'continuous', 'thing', 'mathematical', 'clear', 'world', 'die', 'step', 'solution', 'idea', 'ii']
+['way', 'thing', 'clear', 'mathematical', 'run', 'infinite', 'gas', 'attempt', 'lead', 'fact', 'ii', 'world', 'continuous', 'trial', 'think']
+['way', 'gas', 'mathematical', 'man', 'clear', 'ii', 'thing', 'know', 'fact', 'continuous', 'world', 'lead', 'deletion', 'attempt', 'idea']
+['clear', 'lead', 'thing', 'mathematical', 'run', 'trial', 'gas', 'way', 'man', 'continuous', 'infinite', 'bobby', 'agree', 'fact', 'attempt']
+['mathematical', 'clear', 'infinite', 'way', 'idea', 'run', 'know', 'gas', 'continuous', 'thing', 'fact', 'step', 'lead', 'trial', 'man']
+['mathematical', 'way', 'man', 'clear', 'thing', 'run', 'trial', 'lead', 'gas', 'infinite', 'continuous', 'fact', 'think', 'ii', 'bobby']
+['way', 'gas', 'mathematical', 'clear', 'run', 'infinite', 'ii', 'man', 'world', 'idea', 'lead', 'continuous', 'trial', 'fact', 'actually']
+['clear', 'trial', 'mathematical', 'gas', 'way', 'man', 'fact', 'infinite', 'run', 'lead', 'world', 'thing', 'ii', 'bobby', 'step']
+['mathematical', 'way', 'fact', 'clear', 'gas', 'infinite', 'bobby', 'lead', 'thing', 'world', 'trial', 'run', 'idea', 'man', 'attempt']
+['mathematical', 'run', 'way', 'ii', 'thing', 'fact', 'clear', 'infinite', 'trial', 'gas', 'continuous', 'world', 'lead', 'man', 'bobby']
+['way', 'mathematical', 'fact', 'gas', 'world', 'idea', 'ii', 'trial', 'run', 'actually', 'clear', 'bobby', 'thing', 'step', 'continuous']
+['gas', 'way', 'infinite', 'world', 'clear', 'thing', 'run', 'lead', 'mathematical', 'bobby', 'think', 'man', 'know', 'fact', 'continuous']
+['gas', 'way', 'man', 'thing', 'mathematical', 'run', 'fact', 'continuous', 'know', 'infinite', 'ii', 'trial', 'think', 'lead', 'clear']
+['infinite', 'way', 'run', 'clear', 'thing', 'continuous', 'mathematical', 'gas', 'know', 'lead', 'world', 'ii', 'trial', 'bobby', 'man']
+['fact', 'way', 'clear', 'gas', 'mathematical', 'run', 'lead', 'trial', 'thing', 'infinite', 'idea', 'world', 'know', 'bobby', 'ii']
+['way', 'continuous', 'infinite', 'lead', 'mathematical', 'gas', 'fact', 'run', 'clear', 'know', 'idea', 'ii', 'thing', 'die', 'bobby']
+['infinite', 'clear', 'way', 'fact', 'run', 'lead', 'mathematical', 'continuous', 'know', 'thing', 'gas', 'world', 'man', 'bobby', 'idea']
+['gas', 'mathematical', 'way', 'man', 'fact', 'trial', 'step', 'infinite', 'run', 'clear', 'lead', 'world', 'thing', 'bobby', 'solution']
+['mathematical', 'clear', 'run', 'lead', 'way', 'gas', 'world', 'infinite', 'attempt', 'know', 'man', 'continuous', 'thing', 'bobby', 'think']
+['run', 'lead', 'clear', 'way', 'thing', 'gas', 'mathematical', 'infinite', 'idea', 'trial', 'bobby', 'know', 'step', 'continuous', 'fact']
+['mathematical', 'fact', 'run', 'idea', 'gas', 'infinite', 'clear', 'continuous', 'world', 'man', 'way', 'bobby', 'trial', 'thing', 'lead']
+['gas', 'mathematical', 'way', 'man', 'infinite', 'bobby', 'lead', 'world', 'continuous', 'idea', 'fact', 'run', 'clear', 'trial', 'thing']
+['lead', 'thing', 'infinite', 'clear', 'trial', 'mathematical', 'way', 'run', 'bobby', 'continuous', 'gas', 'idea', 'think', 'know', 'man']
+['run', 'mathematical', 'infinite', 'clear', 'way', 'world', 'man', 'lead', 'know', 'gas', 'bobby', 'step', 'continuous', 'fact', 'solution']
+['way', 'mathematical', 'run', 'gas', 'lead', 'bobby', 'world', 'thing', 'continuous', 'ii', 'man', 'infinite', 'trial', 'fact', 'know']
+['clear', 'run', 'gas', 'way', 'bobby', 'know', 'lead', 'mathematical', 'trial', 'world', 'thing', 'ii', 'man', 'infinite', 'continuous']
+['mathematical', 'lead', 'clear', 'way', 'run', 'gas', 'idea', 'world', 'thing', 'infinite', 'attempt', 'trial', 'bobby', 'fact', 'man']
+['thing', 'continuous', 'lead', 'way', 'man', 'gas', 'mathematical', 'clear', 'run', 'world', 'infinite', 'trial', 'know', 'ii', 'fact']
+['infinite', 'way', 'thing', 'mathematical', 'gas', 'lead', 'think', 'clear', 'run', 'know', 'fact', 'bobby', 'ii', 'continuous', 'man']
+['infinite', 'way', 'mathematical', 'bobby', 'run', 'know', 'gas', 'continuous', 'clear', 'lead', 'thing', 'idea', 'actually', 'man', 'world']
+['way', 'run', 'gas', 'mathematical', 'fact', 'clear', 'die', 'trial', 'idea', 'lead', 'ii', 'continuous', 'world', 'man', 'thing']
+['run', 'way', 'thing', 'mathematical', 'gas', 'clear', 'infinite', 'man', 'world', 'trial', 'lead', 'bobby', 'fact', 'step', 'idea']
+['mathematical', 'way', 'gas', 'clear', 'infinite', 'run', 'fact', 'trial', 'idea', 'lead', 'know', 'ii', 'solution', 'bobby', 'continuous']
+['gas', 'way', 'mathematical', 'trial', 'clear', 'lead', 'continuous', 'know', 'world', 'man', 'infinite', 'run', 'bobby', 'thing', 'fact']
+['gas', 'thing', 'infinite', 'way', 'lead', 'run', 'man', 'bobby', 'clear', 'step', 'mathematical', 'ii', 'think', 'world', 'trial']
+['mathematical', 'run', 'fact', 'clear', 'bobby', 'gas', 'trial', 'thing', 'know', 'idea', 'way', 'lead', 'continuous', 'infinite', 'world']
+['way', 'mathematical', 'lead', 'infinite', 'run', 'gas', 'fact', 'trial', 'know', 'idea', 'thing', 'clear', 'step', 'ii', 'world']
+['thing', 'mathematical', 'run', 'man', 'way', 'lead', 'world', 'step', 'trial', 'gas', 'fact', 'clear', 'continuous', 'infinite', 'know']
+['thing', 'gas', 'mathematical', 'know', 'man', 'way', 'clear', 'bobby', 'world', 'run', 'trial', 'think', 'continuous', 'infinite', 'fact']
+['infinite', 'thing', 'mathematical', 'continuous', 'bobby', 'way', 'run', 'man', 'know', 'lead', 'gas', 'fact', 'world', 'trial', 'clear']
+['mathematical', 'run', 'lead', 'trial', 'clear', 'way', 'thing', 'continuous', 'idea', 'man', 'bobby', 'fact', 'world', 'infinite', 'know']
+['way', 'mathematical', 'infinite', 'fact', 'run', 'lead', 'thing', 'gas', 'bobby', 'world', 'clear', 'man', 'continuous', 'know', 'ii']
+['run', 'gas', 'mathematical', 'trial', 'way', 'fact', 'world', 'idea', 'lead', 'clear', 'thing', 'man', 'bobby', 'continuous', 'know']
+['infinite', 'way', 'clear', 'mathematical', 'run', 'fact', 'idea', 'gas', 'know', 'continuous', 'lead', 'solution', 'step', 'man', 'thing']
+['infinite', 'way', 'mathematical', 'clear', 'gas', 'thing', 'lead', 'run', 'idea', 'fact', 'bobby', 'continuous', 'know', 'think', 'trial']
+['gas', 'way', 'mathematical', 'lead', 'bobby', 'fact', 'infinite', 'trial', 'man', 'clear', 'thing', 'idea', 'solution', 'world', 'step']
+['way', 'mathematical', 'lead', 'fact', 'run', 'gas', 'know', 'infinite', 'thing', 'continuous', 'bobby', 'step', 'world', 'trial', 'ii']
+['infinite', 'lead', 'thing', 'run', 'way', 'know', 'gas', 'mathematical', 'continuous', 'bobby', 'clear', 'world', 'ii', 'step', 'idea']
+['run', 'mathematical', 'idea', 'gas', 'way', 'bobby', 'fact', 'thing', 'man', 'world', 'ii', 'infinite', 'solution', 'continuous', 'know']
+['mathematical', 'way', 'gas', 'continuous', 'lead', 'man', 'trial', 'infinite', 'clear', 'bobby', 'idea', 'run', 'world', 'fact', 'know']
+['clear', 'mathematical', 'know', 'lead', 'way', 'run', 'infinite', 'trial', 'thing', 'world', 'idea', 'gas', 'bobby', 'continuous', 'attempt']
+['mathematical', 'way', 'infinite', 'ii', 'run', 'fact', 'gas', 'continuous', 'clear', 'lead', 'world', 'thing', 'man', 'trial', 'idea']
+['mathematical', 'bobby', 'lead', 'gas', 'infinite', 'fact', 'way', 'clear', 'world', 'run', 'thing', 'trial', 'solution', 'know', 'man']
+['run', 'gas', 'man', 'world', 'clear', 'way', 'bobby', 'mathematical', 'lead', 'continuous', 'infinite', 'thing', 'fact', 'trial', 'solution']
+['lead', 'run', 'infinite', 'clear', 'gas', 'bobby', 'way', 'mathematical', 'thing', 'man', 'continuous', 'idea', 'trial', 'solution', 'think']
+['lead', 'way', 'thing', 'clear', 'mathematical', 'world', 'infinite', 'run', 'trial', 'gas', 'bobby', 'continuous', 'man', 'fact', 'think']
+['way', 'gas', 'run', 'thing', 'lead', 'mathematical', 'infinite', 'think', 'bobby', 'clear', 'absolute', 'continuous', 'world', 'man', 'solution']
+['gas', 'mathematical', 'bobby', 'world', 'way', 'infinite', 'fact', 'clear', 'lead', 'thing', 'deletion', 'run', 'continuous', 'man', 'trial']
+['clear', 'mathematical', 'infinite', 'run', 'lead', 'gas', 'trial', 'way', 'world', 'know', 'man', 'thing', 'ii', 'step', 'idea']
+['thing', 'mathematical', 'run', 'man', 'lead', 'infinite', 'gas', 'way', 'trial', 'ii', 'clear', 'continuous', 'know', 'think', 'bobby']
+['way', 'run', 'continuous', 'gas', 'man', 'mathematical', 'know', 'lead', 'ii', 'trial', 'clear', 'thing', 'infinite', 'fact', 'idea']
+['mathematical', 'way', 'lead', 'actually', 'run', 'infinite', 'man', 'bobby', 'gas', 'continuous', 'ii', 'attempt', 'know', 'fact', 'thing']
+['mathematical', 'gas', 'run', 'clear', 'thing', 'lead', 'infinite', 'bobby', 'ii', 'man', 'way', 'world', 'attempt', 'trial', 'fact']
+['gas', 'thing', 'infinite', 'run', 'clear', 'trial', 'mathematical', 'way', 'think', 'bobby', 'idea', 'lead', 'man', 'fact', 'continuous']
+['mathematical', 'run', 'gas', 'thing', 'continuous', 'infinite', 'way', 'idea', 'fact', 'trial', 'man', 'know', 'clear', 'step', 'think']
+['thing', 'mathematical', 'way', 'infinite', 'run', 'lead', 'fact', 'bobby', 'gas', 'idea', 'know', 'trial', 'clear', 'world', 'man']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'lead', 'world', 'continuous', 'fact', 'ii', 'know', 'man', 'step', 'clear', 'gas']
+['clear', 'thing', 'gas', 'infinite', 'know', 'run', 'mathematical', 'way', 'trial', 'lead', 'fact', 'man', 'bobby', 'ii', 'step']
+['continuous', 'way', 'run', 'infinite', 'lead', 'gas', 'clear', 'mathematical', 'trial', 'know', 'idea', 'bobby', 'man', 'fact', 'thing']
+['mathematical', 'infinite', 'way', 'run', 'clear', 'man', 'fact', 'thing', 'gas', 'lead', 'solution', 'think', 'know', 'world', 'step']
+['run', 'mathematical', 'continuous', 'know', 'gas', 'lead', 'bobby', 'clear', 'fact', 'way', 'idea', 'thing', 'trial', 'infinite', 'man']
+['way', 'lead', 'clear', 'mathematical', 'bobby', 'infinite', 'run', 'continuous', 'thing', 'man', 'world', 'ii', 'gas', 'know', 'actually']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'solution', 'fact', 'run', 'continuous', 'idea', 'know', 'world', 'ii', 'thing']
+['thing', 'clear', 'run', 'fact', 'way', 'gas', 'infinite', 'mathematical', 'man', 'know', 'lead', 'continuous', 'ii', 'bobby', 'world']
+['run', 'way', 'clear', 'gas', 'continuous', 'fact', 'mathematical', 'man', 'infinite', 'idea', 'bobby', 'think', 'know', 'thing', 'solution']
+['way', 'mathematical', 'gas', 'fact', 'run', 'idea', 'man', 'bobby', 'clear', 'continuous', 'trial', 'world', 'solution', 'infinite', 'ii']
+['thing', 'way', 'lead', 'run', 'fact', 'ii', 'gas', 'continuous', 'clear', 'think', 'know', 'mathematical', 'man', 'actually', 'world']
+['mathematical', 'gas', 'man', 'lead', 'way', 'bobby', 'trial', 'thing', 'clear', 'attempt', 'run', 'idea', 'fact', 'continuous', 'know']
+['mathematical', 'gas', 'infinite', 'way', 'run', 'fact', 'clear', 'lead', 'know', 'idea', 'trial', 'solution', 'world', 'continuous', 'man']
+['mathematical', 'way', 'gas', 'clear', 'idea', 'thing', 'agree', 'fact', 'lead', 'world', 'trial', 'solution', 'infinite', 'ii', 'bobby']
+['mathematical', 'way', 'run', 'gas', 'lead', 'know', 'man', 'infinite', 'bobby', 'idea', 'clear', 'trial', 'world', 'continuous', 'actually']
+['lead', 'infinite', 'bobby', 'mathematical', 'gas', 'thing', 'know', 'run', 'continuous', 'clear', 'way', 'man', 'world', 'actually', 'ii']
+['gas', 'lead', 'infinite', 'world', 'way', 'clear', 'mathematical', 'run', 'trial', 'bobby', 'thing', 'man', 'idea', 'step', 'attempt']
+['mathematical', 'fact', 'clear', 'way', 'lead', 'gas', 'infinite', 'thing', 'run', 'solution', 'continuous', 'know', 'man', 'idea', 'die']
+['way', 'gas', 'mathematical', 'clear', 'man', 'run', 'lead', 'ii', 'trial', 'fact', 'idea', 'know', 'bobby', 'world', 'step']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'run', 'trial', 'thing', 'lead', 'clear', 'man', 'fact', 'ii', 'course', 'actually']
+['mathematical', 'lead', 'thing', 'way', 'gas', 'infinite', 'clear', 'world', 'fact', 'bobby', 'continuous', 'run', 'solution', 'know', 'ii']
+['way', 'clear', 'mathematical', 'infinite', 'fact', 'gas', 'bobby', 'trial', 'man', 'lead', 'thing', 'idea', 'continuous', 'world', 'think']
+==============================
+topic diversity:0.018
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35100354535881534, c_w2v:None, c_uci:-3.646737029535089, c_npmi:-0.12125388330442136
+mimno topic coherence:-220.32343401657923
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-189.6685486	Loss_G:190.8344727	loss_E:-0.0470272
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-190.1560669	Loss_G:191.3193817	loss_E:-0.0470305
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 22% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-195.9477539	Loss_G:197.1082916	loss_E:-0.0470253
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-189.7302551	Loss_G:190.8884125	loss_E:-0.0470315
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-190.4725800	Loss_G:191.6281433	loss_E:-0.0470315
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 22% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-188.7639771	Loss_G:189.9169159	loss_E:-0.0470312
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 |  1% | 22% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-189.0189514	Loss_G:190.1694183	loss_E:-0.0470315
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-188.3919525	Loss_G:189.5397644	loss_E:-0.0470326
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-188.9339752	Loss_G:190.0792389	loss_E:-0.0470275
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-184.2011414	Loss_G:185.3440094	loss_E:-0.0470334
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-192.4154358	Loss_G:193.5555573	loss_E:-0.0470303
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-186.8827972	Loss_G:188.0203552	loss_E:-0.0470297
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 22% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-189.5630341	Loss_G:190.6982574	loss_E:-0.0470340
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-186.7121277	Loss_G:187.8447876	loss_E:-0.0470334
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 22% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-188.0235291	Loss_G:189.1534882	loss_E:-0.0470316
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-192.9884796	Loss_G:194.1160431	loss_E:-0.0470343
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-189.1669312	Loss_G:190.2918549	loss_E:-0.0470306
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-191.4763794	Loss_G:192.5988922	loss_E:-0.0470352
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 22% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-193.6158142	Loss_G:194.7357483	loss_E:-0.0470348
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 22% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-190.3372650	Loss_G:191.4547119	loss_E:-0.0470356
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 22% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-190.3378448	Loss_G:191.4527740	loss_E:-0.0470356
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-189.9386597	Loss_G:191.0512085	loss_E:-0.0470359
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-187.8263245	Loss_G:188.9361115	loss_E:-0.0470316
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 22% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-188.1709595	Loss_G:189.2782745	loss_E:-0.0470332
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-191.3654022	Loss_G:192.4703827	loss_E:-0.0470360
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-187.4291992	Loss_G:188.5317383	loss_E:-0.0470342
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-189.3692627	Loss_G:190.4689941	loss_E:-0.0470335
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-189.7973785	Loss_G:190.8948975	loss_E:-0.0470365
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 22% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-187.0025330	Loss_G:188.0974121	loss_E:-0.0470297
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 22% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-188.4857025	Loss_G:189.5782013	loss_E:-0.0470367
+Epoch  60	Loss_D_avg:-171.5716968	Loss_G_avg:174.1470768	loss_E_avg:-0.0416230
+['way', 'gas', 'thing', 'run', 'infinite', 'lead', 'clear', 'man', 'fact', 'mathematical', 'bobby', 'world', 'continuous', 'step', 'course']
+['way', 'run', 'man', 'thing', 'world', 'clear', 'gas', 'bobby', 'infinite', 'lead', 'mathematical', 'trial', 'step', 'think', 'idea']
+['mathematical', 'clear', 'run', 'gas', 'way', 'continuous', 'thing', 'lead', 'man', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['thing', 'way', 'gas', 'mathematical', 'lead', 'infinite', 'clear', 'trial', 'know', 'continuous', 'run', 'think', 'solution', 'fact', 'ii']
+['way', 'gas', 'clear', 'mathematical', 'solution', 'bobby', 'run', 'fact', 'world', 'infinite', 'deletion', 'lead', 'idea', 'man', 'thing']
+['mathematical', 'thing', 'run', 'infinite', 'gas', 'clear', 'lead', 'fact', 'know', 'way', 'ii', 'idea', 'trial', 'continuous', 'step']
+['gas', 'mathematical', 'clear', 'way', 'run', 'lead', 'infinite', 'bobby', 'man', 'thing', 'ii', 'fact', 'know', 'continuous', 'idea']
+['way', 'gas', 'run', 'infinite', 'world', 'thing', 'lead', 'step', 'man', 'fact', 'ii', 'mathematical', 'bobby', 'clear', 'trial']
+['way', 'gas', 'mathematical', 'infinite', 'clear', 'world', 'thing', 'lead', 'run', 'trial', 'fact', 'know', 'continuous', 'ii', 'man']
+['way', 'mathematical', 'gas', 'infinite', 'lead', 'man', 'continuous', 'world', 'fact', 'run', 'bobby', 'ii', 'clear', 'idea', 'trial']
+['way', 'gas', 'mathematical', 'infinite', 'world', 'fact', 'trial', 'thing', 'run', 'clear', 'man', 'continuous', 'lead', 'solution', 'know']
+['run', 'way', 'clear', 'infinite', 'mathematical', 'lead', 'fact', 'gas', 'man', 'solution', 'world', 'ii', 'bobby', 'think', 'thing']
+['way', 'gas', 'fact', 'run', 'mathematical', 'continuous', 'infinite', 'thing', 'clear', 'world', 'step', 'die', 'idea', 'man', 'solution']
+['way', 'thing', 'mathematical', 'clear', 'run', 'gas', 'infinite', 'attempt', 'lead', 'fact', 'ii', 'continuous', 'world', 'trial', 'step']
+['way', 'gas', 'mathematical', 'man', 'clear', 'thing', 'ii', 'know', 'continuous', 'fact', 'world', 'lead', 'attempt', 'idea', 'deletion']
+['clear', 'lead', 'thing', 'mathematical', 'gas', 'trial', 'run', 'way', 'man', 'continuous', 'infinite', 'bobby', 'fact', 'agree', 'idea']
+['mathematical', 'clear', 'way', 'infinite', 'idea', 'run', 'know', 'gas', 'continuous', 'fact', 'thing', 'step', 'lead', 'trial', 'man']
+['mathematical', 'way', 'man', 'clear', 'thing', 'trial', 'run', 'lead', 'gas', 'infinite', 'continuous', 'fact', 'ii', 'bobby', 'know']
+['way', 'gas', 'mathematical', 'clear', 'run', 'infinite', 'ii', 'man', 'lead', 'continuous', 'world', 'idea', 'trial', 'fact', 'bobby']
+['clear', 'mathematical', 'trial', 'gas', 'way', 'man', 'fact', 'infinite', 'run', 'lead', 'world', 'thing', 'ii', 'bobby', 'idea']
+['mathematical', 'way', 'clear', 'fact', 'gas', 'infinite', 'lead', 'bobby', 'thing', 'trial', 'world', 'run', 'man', 'idea', 'step']
+['mathematical', 'run', 'way', 'ii', 'thing', 'clear', 'fact', 'trial', 'infinite', 'gas', 'continuous', 'world', 'lead', 'man', 'bobby']
+['way', 'mathematical', 'gas', 'fact', 'world', 'idea', 'trial', 'run', 'ii', 'clear', 'actually', 'bobby', 'thing', 'continuous', 'step']
+['gas', 'way', 'infinite', 'clear', 'world', 'run', 'thing', 'lead', 'mathematical', 'bobby', 'man', 'know', 'think', 'fact', 'continuous']
+['gas', 'way', 'man', 'thing', 'mathematical', 'run', 'fact', 'continuous', 'know', 'infinite', 'ii', 'trial', 'lead', 'clear', 'think']
+['infinite', 'way', 'run', 'clear', 'continuous', 'mathematical', 'gas', 'thing', 'know', 'lead', 'world', 'trial', 'ii', 'bobby', 'man']
+['way', 'fact', 'clear', 'gas', 'mathematical', 'run', 'lead', 'trial', 'thing', 'infinite', 'idea', 'world', 'know', 'bobby', 'ii']
+['way', 'continuous', 'mathematical', 'lead', 'infinite', 'gas', 'fact', 'run', 'clear', 'know', 'idea', 'ii', 'thing', 'bobby', 'actually']
+['infinite', 'clear', 'way', 'fact', 'run', 'lead', 'mathematical', 'continuous', 'know', 'gas', 'thing', 'world', 'man', 'bobby', 'idea']
+['gas', 'mathematical', 'way', 'man', 'trial', 'fact', 'infinite', 'step', 'clear', 'run', 'lead', 'world', 'thing', 'bobby', 'continuous']
+['mathematical', 'clear', 'run', 'way', 'lead', 'gas', 'world', 'infinite', 'man', 'know', 'continuous', 'attempt', 'thing', 'fact', 'bobby']
+['run', 'lead', 'clear', 'way', 'gas', 'mathematical', 'thing', 'infinite', 'idea', 'trial', 'bobby', 'know', 'step', 'continuous', 'fact']
+['mathematical', 'fact', 'run', 'gas', 'idea', 'infinite', 'clear', 'continuous', 'way', 'man', 'world', 'trial', 'bobby', 'lead', 'thing']
+['gas', 'mathematical', 'way', 'man', 'infinite', 'lead', 'bobby', 'continuous', 'clear', 'world', 'fact', 'idea', 'run', 'trial', 'thing']
+['lead', 'thing', 'infinite', 'clear', 'trial', 'mathematical', 'way', 'run', 'continuous', 'bobby', 'gas', 'idea', 'know', 'think', 'man']
+['run', 'mathematical', 'clear', 'way', 'infinite', 'man', 'world', 'lead', 'gas', 'know', 'continuous', 'step', 'bobby', 'fact', 'idea']
+['way', 'mathematical', 'run', 'gas', 'lead', 'continuous', 'world', 'bobby', 'thing', 'ii', 'man', 'trial', 'infinite', 'fact', 'clear']
+['clear', 'run', 'gas', 'way', 'lead', 'bobby', 'know', 'mathematical', 'trial', 'world', 'thing', 'ii', 'man', 'continuous', 'infinite']
+['mathematical', 'clear', 'lead', 'way', 'run', 'gas', 'idea', 'world', 'thing', 'infinite', 'trial', 'bobby', 'attempt', 'fact', 'man']
+['thing', 'continuous', 'lead', 'way', 'man', 'gas', 'mathematical', 'clear', 'run', 'world', 'infinite', 'trial', 'know', 'fact', 'ii']
+['infinite', 'way', 'thing', 'mathematical', 'gas', 'lead', 'think', 'clear', 'run', 'fact', 'know', 'bobby', 'ii', 'continuous', 'man']
+['infinite', 'way', 'mathematical', 'bobby', 'run', 'know', 'gas', 'continuous', 'clear', 'lead', 'thing', 'idea', 'man', 'actually', 'world']
+['way', 'gas', 'run', 'mathematical', 'fact', 'clear', 'trial', 'die', 'idea', 'lead', 'ii', 'continuous', 'man', 'world', 'infinite']
+['run', 'way', 'mathematical', 'thing', 'gas', 'clear', 'man', 'infinite', 'world', 'trial', 'lead', 'bobby', 'fact', 'step', 'idea']
+['mathematical', 'way', 'gas', 'clear', 'infinite', 'run', 'fact', 'trial', 'lead', 'idea', 'ii', 'know', 'continuous', 'thing', 'solution']
+['gas', 'way', 'mathematical', 'trial', 'clear', 'lead', 'continuous', 'know', 'world', 'man', 'run', 'infinite', 'bobby', 'thing', 'fact']
+['gas', 'thing', 'infinite', 'way', 'lead', 'run', 'man', 'clear', 'bobby', 'mathematical', 'step', 'ii', 'world', 'trial', 'think']
+['mathematical', 'run', 'fact', 'clear', 'gas', 'bobby', 'trial', 'way', 'thing', 'idea', 'know', 'lead', 'continuous', 'infinite', 'world']
+['way', 'mathematical', 'lead', 'gas', 'infinite', 'run', 'trial', 'fact', 'know', 'idea', 'clear', 'thing', 'step', 'ii', 'world']
+['thing', 'mathematical', 'run', 'man', 'way', 'lead', 'world', 'gas', 'step', 'trial', 'fact', 'clear', 'continuous', 'infinite', 'know']
+['thing', 'gas', 'mathematical', 'way', 'man', 'clear', 'know', 'world', 'run', 'bobby', 'trial', 'continuous', 'think', 'fact', 'infinite']
+['infinite', 'thing', 'mathematical', 'continuous', 'bobby', 'way', 'run', 'gas', 'man', 'lead', 'know', 'fact', 'trial', 'clear', 'world']
+['mathematical', 'run', 'trial', 'lead', 'clear', 'way', 'thing', 'continuous', 'idea', 'man', 'fact', 'bobby', 'world', 'infinite', 'know']
+['way', 'mathematical', 'fact', 'infinite', 'run', 'lead', 'thing', 'gas', 'clear', 'man', 'world', 'bobby', 'continuous', 'know', 'ii']
+['mathematical', 'gas', 'run', 'trial', 'way', 'fact', 'world', 'idea', 'clear', 'lead', 'thing', 'man', 'continuous', 'bobby', 'infinite']
+['infinite', 'way', 'clear', 'mathematical', 'run', 'fact', 'idea', 'gas', 'continuous', 'know', 'lead', 'solution', 'man', 'step', 'trial']
+['way', 'infinite', 'mathematical', 'clear', 'gas', 'lead', 'thing', 'run', 'idea', 'fact', 'bobby', 'continuous', 'know', 'trial', 'man']
+['gas', 'way', 'mathematical', 'lead', 'bobby', 'fact', 'infinite', 'trial', 'man', 'clear', 'thing', 'idea', 'world', 'solution', 'actually']
+['way', 'mathematical', 'lead', 'fact', 'gas', 'run', 'know', 'infinite', 'thing', 'continuous', 'bobby', 'world', 'trial', 'step', 'ii']
+['infinite', 'lead', 'thing', 'run', 'way', 'know', 'gas', 'mathematical', 'continuous', 'clear', 'bobby', 'world', 'ii', 'step', 'idea']
+['run', 'mathematical', 'gas', 'idea', 'way', 'fact', 'bobby', 'thing', 'man', 'world', 'ii', 'infinite', 'continuous', 'solution', 'know']
+['mathematical', 'way', 'gas', 'continuous', 'lead', 'man', 'trial', 'clear', 'infinite', 'bobby', 'idea', 'run', 'world', 'fact', 'know']
+['clear', 'mathematical', 'way', 'lead', 'know', 'run', 'infinite', 'trial', 'thing', 'gas', 'world', 'idea', 'continuous', 'bobby', 'attempt']
+['mathematical', 'way', 'infinite', 'run', 'ii', 'fact', 'gas', 'continuous', 'clear', 'lead', 'world', 'thing', 'man', 'trial', 'idea']
+['mathematical', 'bobby', 'lead', 'gas', 'infinite', 'fact', 'way', 'clear', 'run', 'world', 'thing', 'trial', 'man', 'continuous', 'know']
+['run', 'gas', 'man', 'world', 'clear', 'way', 'mathematical', 'bobby', 'lead', 'continuous', 'infinite', 'thing', 'fact', 'trial', 'solution']
+['lead', 'run', 'infinite', 'clear', 'gas', 'bobby', 'way', 'mathematical', 'man', 'thing', 'continuous', 'idea', 'trial', 'solution', 'fact']
+['lead', 'way', 'clear', 'mathematical', 'thing', 'world', 'infinite', 'run', 'trial', 'gas', 'continuous', 'man', 'bobby', 'fact', 'step']
+['way', 'gas', 'run', 'mathematical', 'lead', 'thing', 'infinite', 'clear', 'continuous', 'think', 'bobby', 'world', 'man', 'absolute', 'fact']
+['gas', 'mathematical', 'world', 'bobby', 'way', 'infinite', 'clear', 'fact', 'lead', 'thing', 'run', 'continuous', 'man', 'deletion', 'trial']
+['clear', 'mathematical', 'infinite', 'run', 'lead', 'gas', 'way', 'trial', 'world', 'man', 'know', 'thing', 'ii', 'idea', 'step']
+['mathematical', 'thing', 'man', 'run', 'lead', 'infinite', 'gas', 'way', 'trial', 'clear', 'ii', 'continuous', 'know', 'bobby', 'think']
+['way', 'run', 'continuous', 'gas', 'mathematical', 'man', 'lead', 'clear', 'trial', 'know', 'ii', 'thing', 'fact', 'infinite', 'idea']
+['mathematical', 'way', 'lead', 'actually', 'run', 'infinite', 'man', 'gas', 'bobby', 'continuous', 'ii', 'attempt', 'fact', 'thing', 'know']
+['mathematical', 'gas', 'clear', 'run', 'thing', 'lead', 'infinite', 'bobby', 'way', 'man', 'ii', 'world', 'trial', 'attempt', 'fact']
+['gas', 'infinite', 'thing', 'run', 'clear', 'way', 'mathematical', 'trial', 'bobby', 'lead', 'man', 'think', 'idea', 'fact', 'continuous']
+['mathematical', 'run', 'gas', 'thing', 'continuous', 'way', 'infinite', 'idea', 'fact', 'trial', 'man', 'clear', 'know', 'step', 'think']
+['mathematical', 'thing', 'way', 'infinite', 'run', 'lead', 'fact', 'gas', 'bobby', 'idea', 'know', 'trial', 'clear', 'man', 'world']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'lead', 'continuous', 'world', 'fact', 'ii', 'man', 'know', 'clear', 'step', 'gas']
+['clear', 'gas', 'thing', 'infinite', 'know', 'run', 'mathematical', 'way', 'trial', 'lead', 'fact', 'man', 'bobby', 'ii', 'step']
+['continuous', 'way', 'run', 'infinite', 'lead', 'gas', 'clear', 'mathematical', 'trial', 'know', 'idea', 'bobby', 'man', 'fact', 'ii']
+['mathematical', 'infinite', 'way', 'clear', 'run', 'man', 'fact', 'gas', 'thing', 'lead', 'solution', 'world', 'know', 'think', 'step']
+['run', 'mathematical', 'continuous', 'gas', 'know', 'lead', 'clear', 'bobby', 'fact', 'way', 'idea', 'thing', 'trial', 'infinite', 'man']
+['way', 'lead', 'mathematical', 'clear', 'bobby', 'infinite', 'run', 'continuous', 'thing', 'man', 'world', 'gas', 'ii', 'know', 'actually']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'solution', 'run', 'fact', 'continuous', 'idea', 'world', 'know', 'man', 'trial']
+['clear', 'thing', 'fact', 'run', 'way', 'gas', 'infinite', 'mathematical', 'man', 'know', 'lead', 'continuous', 'ii', 'world', 'bobby']
+['run', 'way', 'clear', 'gas', 'continuous', 'fact', 'mathematical', 'man', 'infinite', 'idea', 'trial', 'thing', 'bobby', 'know', 'solution']
+['way', 'mathematical', 'gas', 'fact', 'run', 'idea', 'man', 'clear', 'continuous', 'bobby', 'trial', 'world', 'infinite', 'solution', 'ii']
+['thing', 'way', 'lead', 'run', 'fact', 'gas', 'continuous', 'ii', 'clear', 'mathematical', 'know', 'man', 'think', 'world', 'actually']
+['mathematical', 'gas', 'man', 'lead', 'way', 'bobby', 'trial', 'clear', 'thing', 'run', 'idea', 'fact', 'attempt', 'continuous', 'know']
+['gas', 'mathematical', 'way', 'infinite', 'run', 'clear', 'fact', 'lead', 'trial', 'know', 'idea', 'continuous', 'world', 'solution', 'man']
+['mathematical', 'way', 'gas', 'clear', 'thing', 'idea', 'lead', 'fact', 'agree', 'trial', 'world', 'infinite', 'solution', 'ii', 'bobby']
+['mathematical', 'way', 'run', 'gas', 'lead', 'know', 'man', 'infinite', 'bobby', 'clear', 'trial', 'continuous', 'world', 'idea', 'ii']
+['lead', 'infinite', 'bobby', 'mathematical', 'gas', 'thing', 'know', 'run', 'continuous', 'clear', 'way', 'man', 'world', 'actually', 'ii']
+['gas', 'lead', 'way', 'infinite', 'world', 'clear', 'mathematical', 'run', 'trial', 'thing', 'bobby', 'man', 'idea', 'step', 'continuous']
+['mathematical', 'fact', 'clear', 'way', 'lead', 'gas', 'infinite', 'thing', 'run', 'continuous', 'solution', 'man', 'know', 'trial', 'idea']
+['way', 'gas', 'mathematical', 'clear', 'man', 'run', 'lead', 'ii', 'trial', 'fact', 'idea', 'know', 'world', 'bobby', 'infinite']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'run', 'trial', 'thing', 'lead', 'clear', 'man', 'fact', 'ii', 'actually', 'course']
+['mathematical', 'lead', 'thing', 'way', 'gas', 'infinite', 'clear', 'world', 'fact', 'bobby', 'continuous', 'run', 'solution', 'know', 'man']
+['way', 'clear', 'mathematical', 'infinite', 'gas', 'fact', 'bobby', 'trial', 'lead', 'man', 'thing', 'continuous', 'idea', 'world', 'run']
+==============================
+topic diversity:0.018
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34653785542086496, c_w2v:None, c_uci:-3.7131906740527576, c_npmi:-0.1239693800211141
+mimno topic coherence:-224.384048335094
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-190.4824066	Loss_G:191.5723724	loss_E:-0.0470361
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-193.6473694	Loss_G:194.7348175	loss_E:-0.0470371
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 22% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-190.7675629	Loss_G:191.8525543	loss_E:-0.0470375
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-188.9426117	Loss_G:190.0253601	loss_E:-0.0470377
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-186.4328003	Loss_G:187.5127869	loss_E:-0.0470374
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 22% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-190.5679474	Loss_G:191.6455078	loss_E:-0.0470365
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-190.9673920	Loss_G:192.0426941	loss_E:-0.0470370
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 22% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-190.7398834	Loss_G:191.8126373	loss_E:-0.0470358
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 22% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-188.9427338	Loss_G:190.0128937	loss_E:-0.0470367
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-188.0880280	Loss_G:189.1558685	loss_E:-0.0470383
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-188.3443451	Loss_G:189.4096527	loss_E:-0.0470382
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-187.3465118	Loss_G:188.4094696	loss_E:-0.0470383
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-192.1950531	Loss_G:193.2554779	loss_E:-0.0470383
+| ID | GPU | MEM |
+------------------
+|  0 |  2% | 22% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-188.1451721	Loss_G:189.2031555	loss_E:-0.0470382
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 22% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-186.9477081	Loss_G:188.0032349	loss_E:-0.0470388
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 |  1% | 22% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-184.8369751	Loss_G:185.8903046	loss_E:-0.0470388
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 22% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-187.9175873	Loss_G:188.9681702	loss_E:-0.0470384
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 22% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-192.5090790	Loss_G:193.5574188	loss_E:-0.0470369
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-191.9673004	Loss_G:193.0133667	loss_E:-0.0470384
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-193.7924652	Loss_G:194.8360138	loss_E:-0.0470387
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 22% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-189.5432587	Loss_G:190.5841675	loss_E:-0.0470386
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-190.8552399	Loss_G:191.8939209	loss_E:-0.0470370
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-190.7979279	Loss_G:191.8341522	loss_E:-0.0470374
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-185.4649811	Loss_G:186.4988556	loss_E:-0.0470391
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-191.9105072	Loss_G:192.9419403	loss_E:-0.0470388
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-189.2011566	Loss_G:190.2301483	loss_E:-0.0470389
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 22% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-189.8857880	Loss_G:190.9123688	loss_E:-0.0470390
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-192.2813873	Loss_G:193.3057709	loss_E:-0.0470389
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-192.3670502	Loss_G:193.3888397	loss_E:-0.0470387
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 22% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-190.0853729	Loss_G:191.1047974	loss_E:-0.0470390
+Epoch  70	Loss_D_avg:-174.1851382	Loss_G_avg:176.5432502	loss_E_avg:-0.0423966
+['way', 'gas', 'thing', 'run', 'infinite', 'clear', 'lead', 'man', 'fact', 'mathematical', 'world', 'bobby', 'continuous', 'trial', 'step']
+['way', 'run', 'man', 'clear', 'thing', 'world', 'gas', 'mathematical', 'lead', 'bobby', 'infinite', 'trial', 'step', 'think', 'idea']
+['mathematical', 'clear', 'run', 'gas', 'way', 'continuous', 'lead', 'thing', 'man', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['way', 'thing', 'gas', 'mathematical', 'lead', 'clear', 'infinite', 'trial', 'know', 'continuous', 'run', 'fact', 'solution', 'ii', 'man']
+['way', 'gas', 'clear', 'mathematical', 'run', 'solution', 'bobby', 'fact', 'world', 'infinite', 'deletion', 'lead', 'idea', 'man', 'thing']
+['mathematical', 'thing', 'run', 'infinite', 'gas', 'clear', 'lead', 'fact', 'way', 'know', 'trial', 'continuous', 'ii', 'idea', 'man']
+['gas', 'mathematical', 'way', 'clear', 'lead', 'run', 'infinite', 'man', 'thing', 'bobby', 'ii', 'fact', 'know', 'continuous', 'idea']
+['way', 'gas', 'run', 'infinite', 'world', 'thing', 'lead', 'step', 'man', 'fact', 'ii', 'mathematical', 'clear', 'bobby', 'trial']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'world', 'thing', 'lead', 'trial', 'run', 'fact', 'continuous', 'know', 'ii', 'man']
+['way', 'mathematical', 'gas', 'lead', 'man', 'infinite', 'continuous', 'world', 'fact', 'run', 'ii', 'bobby', 'clear', 'trial', 'idea']
+['way', 'gas', 'mathematical', 'infinite', 'world', 'fact', 'trial', 'thing', 'run', 'clear', 'man', 'continuous', 'lead', 'solution', 'know']
+['run', 'way', 'clear', 'infinite', 'mathematical', 'lead', 'fact', 'gas', 'man', 'world', 'ii', 'solution', 'bobby', 'thing', 'think']
+['way', 'gas', 'fact', 'run', 'mathematical', 'continuous', 'infinite', 'thing', 'clear', 'world', 'step', 'man', 'idea', 'die', 'solution']
+['way', 'thing', 'mathematical', 'clear', 'gas', 'run', 'infinite', 'lead', 'attempt', 'fact', 'continuous', 'trial', 'world', 'ii', 'idea']
+['way', 'gas', 'mathematical', 'clear', 'man', 'thing', 'ii', 'continuous', 'know', 'fact', 'world', 'lead', 'idea', 'run', 'attempt']
+['clear', 'lead', 'mathematical', 'thing', 'gas', 'trial', 'run', 'way', 'man', 'continuous', 'infinite', 'fact', 'bobby', 'idea', 'agree']
+['mathematical', 'clear', 'way', 'infinite', 'idea', 'run', 'know', 'gas', 'continuous', 'fact', 'thing', 'lead', 'step', 'trial', 'man']
+['mathematical', 'way', 'man', 'clear', 'trial', 'thing', 'run', 'lead', 'gas', 'continuous', 'infinite', 'fact', 'ii', 'know', 'bobby']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'run', 'man', 'ii', 'continuous', 'lead', 'world', 'idea', 'trial', 'fact', 'bobby']
+['clear', 'mathematical', 'gas', 'trial', 'way', 'man', 'fact', 'run', 'infinite', 'lead', 'world', 'thing', 'ii', 'bobby', 'idea']
+['mathematical', 'way', 'clear', 'fact', 'gas', 'infinite', 'lead', 'trial', 'thing', 'bobby', 'run', 'world', 'man', 'idea', 'step']
+['mathematical', 'run', 'way', 'ii', 'thing', 'clear', 'fact', 'trial', 'gas', 'infinite', 'continuous', 'world', 'lead', 'man', 'bobby']
+['way', 'mathematical', 'gas', 'fact', 'world', 'trial', 'run', 'clear', 'idea', 'ii', 'actually', 'bobby', 'thing', 'continuous', 'step']
+['gas', 'way', 'clear', 'infinite', 'world', 'run', 'mathematical', 'thing', 'lead', 'bobby', 'man', 'fact', 'know', 'think', 'continuous']
+['gas', 'way', 'man', 'thing', 'mathematical', 'run', 'continuous', 'fact', 'know', 'infinite', 'ii', 'trial', 'lead', 'clear', 'step']
+['way', 'infinite', 'run', 'clear', 'continuous', 'mathematical', 'gas', 'thing', 'lead', 'know', 'world', 'trial', 'ii', 'man', 'bobby']
+['way', 'clear', 'fact', 'gas', 'mathematical', 'run', 'lead', 'trial', 'thing', 'infinite', 'idea', 'world', 'know', 'bobby', 'ii']
+['way', 'continuous', 'mathematical', 'lead', 'infinite', 'gas', 'fact', 'clear', 'run', 'know', 'idea', 'ii', 'thing', 'bobby', 'trial']
+['infinite', 'clear', 'way', 'fact', 'run', 'lead', 'mathematical', 'continuous', 'gas', 'man', 'know', 'world', 'thing', 'bobby', 'trial']
+['gas', 'mathematical', 'way', 'man', 'trial', 'infinite', 'fact', 'clear', 'lead', 'step', 'run', 'world', 'thing', 'continuous', 'bobby']
+['mathematical', 'clear', 'run', 'way', 'lead', 'gas', 'world', 'infinite', 'man', 'continuous', 'know', 'fact', 'thing', 'attempt', 'bobby']
+['run', 'lead', 'clear', 'way', 'gas', 'mathematical', 'thing', 'infinite', 'trial', 'idea', 'know', 'bobby', 'continuous', 'step', 'fact']
+['mathematical', 'fact', 'run', 'gas', 'infinite', 'clear', 'idea', 'continuous', 'way', 'man', 'trial', 'lead', 'world', 'bobby', 'thing']
+['gas', 'mathematical', 'way', 'man', 'infinite', 'lead', 'clear', 'fact', 'continuous', 'bobby', 'world', 'idea', 'trial', 'run', 'thing']
+['lead', 'thing', 'clear', 'infinite', 'trial', 'mathematical', 'way', 'run', 'continuous', 'gas', 'bobby', 'idea', 'know', 'man', 'think']
+['run', 'mathematical', 'clear', 'way', 'infinite', 'man', 'world', 'lead', 'gas', 'know', 'continuous', 'step', 'bobby', 'fact', 'trial']
+['way', 'mathematical', 'gas', 'run', 'lead', 'continuous', 'world', 'bobby', 'thing', 'man', 'trial', 'ii', 'infinite', 'clear', 'fact']
+['clear', 'run', 'way', 'gas', 'lead', 'mathematical', 'bobby', 'know', 'trial', 'world', 'thing', 'man', 'ii', 'continuous', 'infinite']
+['mathematical', 'clear', 'lead', 'way', 'gas', 'run', 'idea', 'world', 'thing', 'infinite', 'trial', 'bobby', 'fact', 'man', 'attempt']
+['thing', 'continuous', 'lead', 'way', 'man', 'gas', 'mathematical', 'clear', 'run', 'world', 'infinite', 'trial', 'fact', 'know', 'ii']
+['infinite', 'way', 'mathematical', 'thing', 'gas', 'lead', 'clear', 'think', 'run', 'fact', 'know', 'continuous', 'bobby', 'ii', 'man']
+['infinite', 'way', 'mathematical', 'bobby', 'run', 'gas', 'continuous', 'clear', 'know', 'lead', 'thing', 'idea', 'man', 'world', 'actually']
+['way', 'gas', 'run', 'mathematical', 'clear', 'fact', 'trial', 'die', 'lead', 'idea', 'ii', 'continuous', 'man', 'world', 'infinite']
+['run', 'way', 'mathematical', 'gas', 'thing', 'clear', 'man', 'world', 'infinite', 'trial', 'lead', 'bobby', 'fact', 'step', 'idea']
+['mathematical', 'way', 'gas', 'clear', 'infinite', 'run', 'fact', 'trial', 'lead', 'idea', 'ii', 'know', 'continuous', 'thing', 'man']
+['gas', 'way', 'mathematical', 'trial', 'clear', 'lead', 'continuous', 'know', 'world', 'man', 'run', 'infinite', 'bobby', 'thing', 'fact']
+['gas', 'way', 'infinite', 'thing', 'lead', 'run', 'man', 'clear', 'mathematical', 'bobby', 'step', 'ii', 'world', 'trial', 'continuous']
+['mathematical', 'run', 'fact', 'clear', 'gas', 'bobby', 'way', 'trial', 'thing', 'idea', 'know', 'continuous', 'lead', 'infinite', 'world']
+['way', 'mathematical', 'lead', 'gas', 'infinite', 'run', 'trial', 'fact', 'know', 'clear', 'thing', 'idea', 'step', 'ii', 'man']
+['thing', 'mathematical', 'run', 'man', 'way', 'lead', 'world', 'gas', 'trial', 'step', 'clear', 'fact', 'continuous', 'infinite', 'know']
+['thing', 'gas', 'mathematical', 'way', 'man', 'clear', 'know', 'world', 'run', 'trial', 'bobby', 'continuous', 'fact', 'infinite', 'think']
+['infinite', 'mathematical', 'thing', 'continuous', 'way', 'bobby', 'run', 'gas', 'lead', 'man', 'fact', 'know', 'clear', 'trial', 'world']
+['mathematical', 'run', 'trial', 'clear', 'lead', 'way', 'thing', 'continuous', 'idea', 'man', 'fact', 'world', 'bobby', 'infinite', 'know']
+['way', 'mathematical', 'fact', 'infinite', 'run', 'lead', 'thing', 'gas', 'clear', 'man', 'world', 'continuous', 'bobby', 'trial', 'ii']
+['mathematical', 'gas', 'run', 'trial', 'way', 'fact', 'world', 'clear', 'idea', 'lead', 'man', 'thing', 'continuous', 'infinite', 'bobby']
+['way', 'infinite', 'clear', 'mathematical', 'run', 'fact', 'idea', 'gas', 'continuous', 'know', 'lead', 'man', 'solution', 'trial', 'step']
+['way', 'infinite', 'mathematical', 'gas', 'clear', 'lead', 'thing', 'run', 'idea', 'fact', 'bobby', 'continuous', 'trial', 'know', 'man']
+['gas', 'way', 'mathematical', 'lead', 'fact', 'bobby', 'infinite', 'trial', 'clear', 'man', 'thing', 'idea', 'world', 'solution', 'actually']
+['way', 'mathematical', 'lead', 'fact', 'gas', 'run', 'know', 'infinite', 'thing', 'continuous', 'trial', 'bobby', 'world', 'step', 'ii']
+['infinite', 'lead', 'thing', 'way', 'run', 'know', 'gas', 'mathematical', 'continuous', 'clear', 'bobby', 'world', 'ii', 'step', 'idea']
+['run', 'mathematical', 'gas', 'idea', 'way', 'fact', 'thing', 'bobby', 'man', 'world', 'ii', 'continuous', 'infinite', 'lead', 'trial']
+['way', 'mathematical', 'gas', 'continuous', 'lead', 'trial', 'man', 'clear', 'infinite', 'bobby', 'run', 'idea', 'world', 'fact', 'know']
+['clear', 'mathematical', 'way', 'lead', 'know', 'run', 'infinite', 'trial', 'thing', 'gas', 'world', 'continuous', 'idea', 'bobby', 'solution']
+['mathematical', 'way', 'infinite', 'run', 'fact', 'ii', 'gas', 'continuous', 'clear', 'lead', 'world', 'thing', 'man', 'trial', 'step']
+['mathematical', 'lead', 'bobby', 'gas', 'infinite', 'fact', 'way', 'clear', 'run', 'world', 'thing', 'man', 'continuous', 'trial', 'know']
+['gas', 'run', 'man', 'way', 'clear', 'world', 'mathematical', 'continuous', 'lead', 'bobby', 'infinite', 'thing', 'fact', 'trial', 'know']
+['lead', 'run', 'clear', 'infinite', 'gas', 'way', 'bobby', 'mathematical', 'man', 'thing', 'continuous', 'trial', 'idea', 'fact', 'solution']
+['lead', 'way', 'mathematical', 'clear', 'thing', 'infinite', 'world', 'run', 'trial', 'gas', 'continuous', 'man', 'bobby', 'fact', 'step']
+['way', 'gas', 'run', 'mathematical', 'lead', 'thing', 'infinite', 'clear', 'continuous', 'man', 'world', 'bobby', 'think', 'absolute', 'fact']
+['gas', 'mathematical', 'world', 'way', 'bobby', 'clear', 'infinite', 'fact', 'lead', 'thing', 'run', 'continuous', 'man', 'trial', 'deletion']
+['clear', 'mathematical', 'infinite', 'gas', 'lead', 'run', 'way', 'trial', 'man', 'world', 'know', 'thing', 'ii', 'continuous', 'idea']
+['mathematical', 'thing', 'man', 'lead', 'run', 'gas', 'infinite', 'way', 'trial', 'clear', 'ii', 'continuous', 'know', 'bobby', 'think']
+['way', 'run', 'continuous', 'gas', 'mathematical', 'man', 'clear', 'lead', 'trial', 'ii', 'know', 'thing', 'fact', 'infinite', 'idea']
+['mathematical', 'way', 'lead', 'actually', 'run', 'man', 'infinite', 'gas', 'continuous', 'bobby', 'ii', 'fact', 'attempt', 'thing', 'clear']
+['mathematical', 'gas', 'clear', 'run', 'thing', 'lead', 'infinite', 'way', 'bobby', 'man', 'world', 'trial', 'ii', 'fact', 'attempt']
+['gas', 'infinite', 'run', 'thing', 'clear', 'way', 'mathematical', 'trial', 'bobby', 'man', 'lead', 'idea', 'fact', 'think', 'continuous']
+['mathematical', 'run', 'gas', 'thing', 'continuous', 'way', 'infinite', 'fact', 'idea', 'trial', 'man', 'clear', 'know', 'step', 'lead']
+['mathematical', 'thing', 'way', 'infinite', 'fact', 'lead', 'run', 'gas', 'bobby', 'idea', 'trial', 'clear', 'know', 'man', 'world']
+['way', 'mathematical', 'run', 'thing', 'infinite', 'lead', 'continuous', 'world', 'fact', 'ii', 'man', 'clear', 'know', 'gas', 'step']
+['clear', 'gas', 'thing', 'infinite', 'know', 'mathematical', 'run', 'way', 'lead', 'trial', 'fact', 'man', 'bobby', 'ii', 'step']
+['continuous', 'way', 'run', 'infinite', 'gas', 'lead', 'clear', 'mathematical', 'trial', 'know', 'idea', 'man', 'bobby', 'fact', 'world']
+['mathematical', 'way', 'infinite', 'clear', 'run', 'man', 'fact', 'gas', 'thing', 'lead', 'world', 'solution', 'know', 'continuous', 'step']
+['run', 'mathematical', 'continuous', 'gas', 'know', 'lead', 'clear', 'fact', 'bobby', 'way', 'idea', 'thing', 'trial', 'infinite', 'man']
+['way', 'lead', 'mathematical', 'clear', 'infinite', 'bobby', 'run', 'continuous', 'man', 'world', 'thing', 'gas', 'ii', 'know', 'actually']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'solution', 'run', 'fact', 'continuous', 'world', 'know', 'idea', 'man', 'trial']
+['clear', 'way', 'fact', 'thing', 'run', 'gas', 'mathematical', 'infinite', 'man', 'know', 'lead', 'continuous', 'ii', 'world', 'trial']
+['run', 'way', 'clear', 'gas', 'continuous', 'fact', 'mathematical', 'man', 'infinite', 'idea', 'trial', 'thing', 'bobby', 'know', 'lead']
+['way', 'mathematical', 'gas', 'fact', 'run', 'idea', 'clear', 'man', 'continuous', 'bobby', 'trial', 'world', 'infinite', 'solution', 'ii']
+['thing', 'way', 'lead', 'run', 'fact', 'gas', 'clear', 'continuous', 'ii', 'mathematical', 'man', 'know', 'world', 'think', 'actually']
+['mathematical', 'gas', 'man', 'lead', 'way', 'trial', 'bobby', 'clear', 'thing', 'run', 'fact', 'idea', 'continuous', 'attempt', 'world']
+['gas', 'mathematical', 'way', 'infinite', 'run', 'clear', 'fact', 'lead', 'trial', 'continuous', 'idea', 'know', 'world', 'man', 'solution']
+['mathematical', 'way', 'gas', 'clear', 'thing', 'idea', 'lead', 'fact', 'trial', 'world', 'agree', 'infinite', 'ii', 'solution', 'bobby']
+['mathematical', 'way', 'run', 'gas', 'lead', 'man', 'know', 'infinite', 'clear', 'continuous', 'bobby', 'trial', 'world', 'idea', 'ii']
+['lead', 'infinite', 'bobby', 'mathematical', 'gas', 'run', 'thing', 'know', 'clear', 'continuous', 'way', 'man', 'world', 'ii', 'actually']
+['gas', 'way', 'lead', 'infinite', 'world', 'clear', 'mathematical', 'trial', 'run', 'thing', 'bobby', 'man', 'continuous', 'idea', 'step']
+['mathematical', 'clear', 'fact', 'way', 'lead', 'gas', 'infinite', 'run', 'thing', 'continuous', 'trial', 'man', 'know', 'solution', 'idea']
+['way', 'gas', 'mathematical', 'clear', 'man', 'run', 'lead', 'ii', 'trial', 'fact', 'idea', 'infinite', 'know', 'world', 'bobby']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'run', 'trial', 'thing', 'clear', 'lead', 'man', 'fact', 'ii', 'continuous', 'actually']
+['mathematical', 'lead', 'thing', 'way', 'gas', 'infinite', 'clear', 'world', 'fact', 'continuous', 'bobby', 'run', 'man', 'solution', 'trial']
+['way', 'clear', 'mathematical', 'infinite', 'gas', 'fact', 'bobby', 'trial', 'lead', 'man', 'thing', 'continuous', 'idea', 'world', 'run']
+==============================
+topic diversity:0.017333333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34256934010242956, c_w2v:None, c_uci:-3.7674455240737057, c_npmi:-0.12629731728459118
+mimno topic coherence:-224.384048335094
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-189.4580536	Loss_G:190.4752197	loss_E:-0.0470385
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 22% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-187.3757629	Loss_G:188.3905334	loss_E:-0.0470385
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 22% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-187.1193848	Loss_G:188.1315765	loss_E:-0.0470392
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-194.5348663	Loss_G:195.5448608	loss_E:-0.0470393
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-186.2070770	Loss_G:187.2146454	loss_E:-0.0470390
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-192.9091034	Loss_G:193.9143524	loss_E:-0.0470395
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-189.6578827	Loss_G:190.6607513	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-190.7700653	Loss_G:191.7705688	loss_E:-0.0470391
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-182.6705475	Loss_G:183.6686859	loss_E:-0.0470395
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-194.1353912	Loss_G:195.1313324	loss_E:-0.0470395
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 22% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-190.3708038	Loss_G:191.3641205	loss_E:-0.0470392
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 22% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-188.7453461	Loss_G:189.7363739	loss_E:-0.0470383
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-184.7239990	Loss_G:185.7128296	loss_E:-0.0470395
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-189.1730804	Loss_G:190.1595459	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 22% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-185.7792816	Loss_G:186.7632294	loss_E:-0.0470398
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-192.0251617	Loss_G:193.0069275	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-187.6615753	Loss_G:188.6409912	loss_E:-0.0470392
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-186.5207367	Loss_G:187.4978180	loss_E:-0.0470395
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-186.6632843	Loss_G:187.6380005	loss_E:-0.0470390
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 22% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-191.6258698	Loss_G:192.5982971	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-189.0876465	Loss_G:190.0576935	loss_E:-0.0470397
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-191.3977356	Loss_G:192.3656464	loss_E:-0.0470395
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-188.7739105	Loss_G:189.7392731	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 22% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-184.6385345	Loss_G:185.6016235	loss_E:-0.0470394
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-190.2569427	Loss_G:191.2179260	loss_E:-0.0470383
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-188.1179962	Loss_G:189.0766144	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 22% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-192.7951965	Loss_G:193.7512970	loss_E:-0.0470394
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 22% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-193.1660309	Loss_G:194.1200409	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-189.2303009	Loss_G:190.1819153	loss_E:-0.0470392
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 22% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-192.4814606	Loss_G:193.4308929	loss_E:-0.0470399
+Epoch  80	Loss_D_avg:-176.0706335	Loss_G_avg:178.2568588	loss_E_avg:-0.0429769
+['way', 'gas', 'thing', 'run', 'clear', 'infinite', 'lead', 'man', 'mathematical', 'fact', 'world', 'bobby', 'continuous', 'trial', 'step']
+['way', 'run', 'clear', 'man', 'thing', 'world', 'gas', 'mathematical', 'lead', 'trial', 'infinite', 'bobby', 'step', 'idea', 'fact']
+['mathematical', 'clear', 'gas', 'run', 'way', 'continuous', 'lead', 'man', 'thing', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['way', 'thing', 'gas', 'mathematical', 'lead', 'clear', 'infinite', 'trial', 'continuous', 'know', 'run', 'fact', 'man', 'ii', 'world']
+['way', 'gas', 'clear', 'mathematical', 'run', 'bobby', 'solution', 'fact', 'world', 'infinite', 'lead', 'man', 'idea', 'thing', 'deletion']
+['mathematical', 'thing', 'run', 'infinite', 'gas', 'clear', 'lead', 'way', 'fact', 'know', 'trial', 'continuous', 'man', 'ii', 'idea']
+['gas', 'mathematical', 'way', 'clear', 'lead', 'run', 'infinite', 'man', 'thing', 'fact', 'ii', 'bobby', 'continuous', 'know', 'idea']
+['way', 'gas', 'run', 'world', 'infinite', 'lead', 'thing', 'man', 'step', 'fact', 'mathematical', 'clear', 'ii', 'trial', 'bobby']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'lead', 'world', 'thing', 'trial', 'run', 'fact', 'continuous', 'man', 'know', 'ii']
+['way', 'mathematical', 'gas', 'lead', 'man', 'infinite', 'continuous', 'fact', 'world', 'run', 'clear', 'ii', 'bobby', 'trial', 'idea']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'fact', 'trial', 'thing', 'run', 'clear', 'man', 'continuous', 'lead', 'know', 'ii']
+['run', 'way', 'clear', 'infinite', 'mathematical', 'fact', 'lead', 'gas', 'man', 'world', 'ii', 'solution', 'bobby', 'thing', 'continuous']
+['way', 'gas', 'fact', 'run', 'mathematical', 'continuous', 'thing', 'infinite', 'clear', 'world', 'man', 'step', 'idea', 'lead', 'die']
+['way', 'thing', 'mathematical', 'clear', 'gas', 'run', 'infinite', 'lead', 'fact', 'continuous', 'trial', 'attempt', 'world', 'ii', 'idea']
+['way', 'gas', 'mathematical', 'clear', 'man', 'thing', 'continuous', 'ii', 'fact', 'know', 'world', 'lead', 'run', 'idea', 'attempt']
+['clear', 'lead', 'mathematical', 'thing', 'gas', 'trial', 'run', 'way', 'man', 'continuous', 'infinite', 'fact', 'bobby', 'idea', 'agree']
+['mathematical', 'clear', 'way', 'infinite', 'idea', 'run', 'gas', 'know', 'continuous', 'fact', 'thing', 'lead', 'trial', 'step', 'man']
+['mathematical', 'way', 'man', 'clear', 'trial', 'thing', 'gas', 'run', 'lead', 'continuous', 'infinite', 'fact', 'ii', 'world', 'know']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'run', 'man', 'continuous', 'lead', 'ii', 'world', 'idea', 'fact', 'trial', 'bobby']
+['clear', 'mathematical', 'gas', 'trial', 'way', 'man', 'fact', 'run', 'lead', 'infinite', 'world', 'thing', 'ii', 'bobby', 'idea']
+['mathematical', 'way', 'clear', 'fact', 'gas', 'infinite', 'lead', 'trial', 'thing', 'run', 'world', 'man', 'bobby', 'idea', 'step']
+['mathematical', 'run', 'way', 'thing', 'ii', 'clear', 'trial', 'fact', 'gas', 'infinite', 'continuous', 'world', 'lead', 'man', 'bobby']
+['way', 'mathematical', 'gas', 'fact', 'world', 'trial', 'clear', 'run', 'idea', 'ii', 'actually', 'bobby', 'thing', 'continuous', 'lead']
+['gas', 'way', 'clear', 'infinite', 'mathematical', 'world', 'run', 'lead', 'thing', 'man', 'bobby', 'fact', 'know', 'continuous', 'trial']
+['gas', 'way', 'man', 'mathematical', 'thing', 'run', 'continuous', 'fact', 'infinite', 'know', 'ii', 'trial', 'lead', 'clear', 'world']
+['way', 'infinite', 'run', 'clear', 'continuous', 'mathematical', 'gas', 'thing', 'lead', 'trial', 'world', 'know', 'ii', 'man', 'bobby']
+['way', 'clear', 'fact', 'mathematical', 'gas', 'run', 'lead', 'trial', 'thing', 'infinite', 'world', 'idea', 'know', 'bobby', 'continuous']
+['way', 'continuous', 'mathematical', 'lead', 'gas', 'infinite', 'clear', 'fact', 'run', 'know', 'ii', 'idea', 'thing', 'bobby', 'trial']
+['clear', 'infinite', 'way', 'fact', 'run', 'lead', 'mathematical', 'continuous', 'gas', 'man', 'world', 'know', 'thing', 'bobby', 'trial']
+['gas', 'mathematical', 'way', 'man', 'trial', 'clear', 'lead', 'infinite', 'fact', 'run', 'step', 'world', 'thing', 'continuous', 'bobby']
+['mathematical', 'clear', 'way', 'run', 'gas', 'lead', 'world', 'infinite', 'man', 'continuous', 'fact', 'thing', 'know', 'bobby', 'attempt']
+['run', 'lead', 'clear', 'way', 'gas', 'mathematical', 'thing', 'infinite', 'trial', 'idea', 'know', 'bobby', 'continuous', 'step', 'fact']
+['mathematical', 'fact', 'gas', 'run', 'clear', 'infinite', 'idea', 'continuous', 'way', 'man', 'trial', 'lead', 'world', 'bobby', 'thing']
+['gas', 'mathematical', 'way', 'man', 'infinite', 'clear', 'lead', 'fact', 'continuous', 'trial', 'world', 'idea', 'bobby', 'run', 'thing']
+['lead', 'clear', 'thing', 'infinite', 'trial', 'mathematical', 'way', 'run', 'continuous', 'gas', 'bobby', 'idea', 'man', 'know', 'step']
+['run', 'mathematical', 'clear', 'way', 'infinite', 'man', 'gas', 'world', 'lead', 'continuous', 'know', 'step', 'fact', 'bobby', 'trial']
+['way', 'mathematical', 'gas', 'run', 'lead', 'continuous', 'world', 'man', 'thing', 'bobby', 'trial', 'infinite', 'ii', 'clear', 'fact']
+['clear', 'run', 'way', 'gas', 'lead', 'mathematical', 'know', 'bobby', 'trial', 'world', 'thing', 'man', 'continuous', 'ii', 'infinite']
+['mathematical', 'clear', 'lead', 'way', 'gas', 'run', 'idea', 'world', 'infinite', 'thing', 'trial', 'fact', 'man', 'bobby', 'continuous']
+['thing', 'continuous', 'lead', 'way', 'man', 'gas', 'mathematical', 'clear', 'run', 'world', 'infinite', 'trial', 'fact', 'ii', 'know']
+['infinite', 'way', 'mathematical', 'thing', 'gas', 'lead', 'clear', 'run', 'fact', 'think', 'know', 'continuous', 'man', 'ii', 'bobby']
+['infinite', 'way', 'mathematical', 'bobby', 'run', 'gas', 'continuous', 'clear', 'lead', 'know', 'thing', 'idea', 'man', 'world', 'trial']
+['way', 'gas', 'mathematical', 'run', 'clear', 'fact', 'trial', 'lead', 'die', 'idea', 'ii', 'man', 'continuous', 'infinite', 'world']
+['run', 'way', 'mathematical', 'gas', 'thing', 'clear', 'man', 'world', 'infinite', 'trial', 'lead', 'fact', 'bobby', 'step', 'continuous']
+['mathematical', 'way', 'gas', 'clear', 'infinite', 'run', 'fact', 'trial', 'lead', 'idea', 'ii', 'continuous', 'know', 'thing', 'man']
+['gas', 'way', 'mathematical', 'trial', 'lead', 'clear', 'continuous', 'world', 'man', 'know', 'run', 'infinite', 'fact', 'bobby', 'thing']
+['gas', 'way', 'infinite', 'thing', 'lead', 'run', 'man', 'clear', 'mathematical', 'bobby', 'step', 'trial', 'ii', 'world', 'continuous']
+['mathematical', 'run', 'fact', 'clear', 'gas', 'way', 'trial', 'bobby', 'thing', 'idea', 'continuous', 'know', 'lead', 'infinite', 'world']
+['mathematical', 'way', 'gas', 'lead', 'infinite', 'run', 'trial', 'fact', 'clear', 'thing', 'know', 'idea', 'step', 'man', 'ii']
+['thing', 'mathematical', 'run', 'man', 'way', 'lead', 'gas', 'world', 'clear', 'trial', 'step', 'fact', 'continuous', 'infinite', 'know']
+['gas', 'thing', 'mathematical', 'way', 'man', 'clear', 'world', 'run', 'know', 'trial', 'bobby', 'continuous', 'fact', 'infinite', 'lead']
+['infinite', 'mathematical', 'thing', 'continuous', 'way', 'gas', 'run', 'lead', 'bobby', 'man', 'fact', 'clear', 'trial', 'know', 'world']
+['mathematical', 'run', 'trial', 'clear', 'lead', 'way', 'thing', 'continuous', 'idea', 'man', 'world', 'fact', 'bobby', 'infinite', 'gas']
+['way', 'mathematical', 'fact', 'run', 'lead', 'infinite', 'thing', 'gas', 'clear', 'man', 'continuous', 'world', 'bobby', 'trial', 'ii']
+['mathematical', 'gas', 'run', 'trial', 'way', 'fact', 'clear', 'world', 'lead', 'idea', 'continuous', 'man', 'thing', 'infinite', 'bobby']
+['way', 'infinite', 'clear', 'mathematical', 'run', 'fact', 'idea', 'gas', 'continuous', 'know', 'lead', 'man', 'trial', 'world', 'solution']
+['way', 'infinite', 'mathematical', 'gas', 'clear', 'lead', 'thing', 'run', 'idea', 'fact', 'continuous', 'bobby', 'man', 'trial', 'know']
+['gas', 'way', 'mathematical', 'lead', 'fact', 'bobby', 'infinite', 'trial', 'clear', 'man', 'thing', 'idea', 'world', 'solution', 'continuous']
+['way', 'mathematical', 'lead', 'gas', 'fact', 'run', 'know', 'infinite', 'thing', 'continuous', 'trial', 'world', 'bobby', 'step', 'ii']
+['infinite', 'lead', 'thing', 'way', 'run', 'know', 'gas', 'mathematical', 'continuous', 'clear', 'bobby', 'world', 'ii', 'fact', 'idea']
+['mathematical', 'run', 'gas', 'way', 'idea', 'fact', 'thing', 'man', 'bobby', 'continuous', 'world', 'infinite', 'ii', 'lead', 'trial']
+['way', 'mathematical', 'gas', 'continuous', 'lead', 'clear', 'trial', 'man', 'infinite', 'run', 'bobby', 'idea', 'world', 'fact', 'know']
+['clear', 'mathematical', 'way', 'lead', 'run', 'know', 'infinite', 'trial', 'thing', 'gas', 'continuous', 'world', 'idea', 'bobby', 'man']
+['mathematical', 'way', 'infinite', 'run', 'fact', 'gas', 'ii', 'clear', 'continuous', 'lead', 'world', 'thing', 'man', 'trial', 'step']
+['mathematical', 'lead', 'bobby', 'gas', 'infinite', 'way', 'fact', 'clear', 'run', 'world', 'thing', 'continuous', 'man', 'trial', 'know']
+['gas', 'run', 'man', 'way', 'clear', 'mathematical', 'world', 'continuous', 'lead', 'infinite', 'bobby', 'thing', 'fact', 'trial', 'know']
+['lead', 'run', 'clear', 'infinite', 'gas', 'way', 'bobby', 'mathematical', 'man', 'thing', 'continuous', 'trial', 'idea', 'fact', 'world']
+['mathematical', 'way', 'lead', 'clear', 'thing', 'infinite', 'world', 'run', 'trial', 'gas', 'continuous', 'man', 'fact', 'bobby', 'step']
+['way', 'gas', 'run', 'mathematical', 'lead', 'thing', 'clear', 'continuous', 'infinite', 'man', 'world', 'bobby', 'fact', 'think', 'trial']
+['gas', 'mathematical', 'way', 'world', 'clear', 'bobby', 'fact', 'infinite', 'lead', 'run', 'thing', 'continuous', 'man', 'trial', 'know']
+['clear', 'mathematical', 'infinite', 'gas', 'lead', 'run', 'way', 'trial', 'man', 'world', 'thing', 'ii', 'know', 'continuous', 'idea']
+['mathematical', 'lead', 'thing', 'man', 'run', 'gas', 'infinite', 'way', 'clear', 'trial', 'ii', 'continuous', 'know', 'bobby', 'fact']
+['way', 'continuous', 'run', 'gas', 'mathematical', 'man', 'clear', 'lead', 'trial', 'ii', 'fact', 'know', 'thing', 'infinite', 'idea']
+['mathematical', 'way', 'lead', 'gas', 'man', 'run', 'infinite', 'actually', 'continuous', 'bobby', 'ii', 'fact', 'clear', 'thing', 'world']
+['mathematical', 'gas', 'clear', 'run', 'thing', 'lead', 'infinite', 'way', 'man', 'bobby', 'world', 'trial', 'ii', 'fact', 'continuous']
+['gas', 'run', 'infinite', 'thing', 'clear', 'way', 'mathematical', 'trial', 'bobby', 'man', 'lead', 'idea', 'fact', 'continuous', 'think']
+['mathematical', 'run', 'gas', 'thing', 'way', 'continuous', 'infinite', 'fact', 'idea', 'trial', 'clear', 'man', 'know', 'lead', 'step']
+['mathematical', 'thing', 'way', 'infinite', 'fact', 'run', 'lead', 'gas', 'bobby', 'idea', 'clear', 'trial', 'know', 'man', 'continuous']
+['way', 'mathematical', 'run', 'thing', 'lead', 'infinite', 'continuous', 'world', 'fact', 'man', 'ii', 'clear', 'gas', 'know', 'step']
+['clear', 'gas', 'thing', 'infinite', 'mathematical', 'run', 'know', 'way', 'lead', 'trial', 'fact', 'man', 'ii', 'bobby', 'continuous']
+['continuous', 'way', 'infinite', 'run', 'gas', 'clear', 'mathematical', 'lead', 'trial', 'man', 'idea', 'know', 'fact', 'bobby', 'world']
+['mathematical', 'way', 'infinite', 'clear', 'man', 'run', 'fact', 'gas', 'thing', 'lead', 'world', 'solution', 'continuous', 'know', 'trial']
+['run', 'mathematical', 'continuous', 'gas', 'know', 'clear', 'lead', 'fact', 'way', 'bobby', 'idea', 'trial', 'thing', 'infinite', 'man']
+['way', 'lead', 'mathematical', 'clear', 'infinite', 'bobby', 'continuous', 'run', 'gas', 'man', 'world', 'thing', 'ii', 'know', 'fact']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'run', 'fact', 'solution', 'continuous', 'world', 'know', 'idea', 'man', 'trial']
+['clear', 'way', 'fact', 'run', 'thing', 'gas', 'mathematical', 'infinite', 'man', 'lead', 'know', 'continuous', 'ii', 'world', 'trial']
+['run', 'way', 'clear', 'gas', 'continuous', 'fact', 'mathematical', 'man', 'infinite', 'idea', 'trial', 'thing', 'bobby', 'lead', 'know']
+['way', 'mathematical', 'gas', 'fact', 'run', 'clear', 'idea', 'man', 'continuous', 'bobby', 'trial', 'world', 'infinite', 'ii', 'solution']
+['way', 'thing', 'lead', 'run', 'fact', 'gas', 'clear', 'continuous', 'mathematical', 'ii', 'man', 'know', 'world', 'infinite', 'think']
+['mathematical', 'gas', 'man', 'lead', 'way', 'clear', 'trial', 'bobby', 'thing', 'run', 'fact', 'continuous', 'idea', 'world', 'attempt']
+['gas', 'mathematical', 'way', 'infinite', 'run', 'clear', 'fact', 'trial', 'lead', 'continuous', 'world', 'idea', 'know', 'man', 'solution']
+['mathematical', 'way', 'gas', 'clear', 'thing', 'lead', 'idea', 'fact', 'trial', 'world', 'agree', 'ii', 'infinite', 'run', 'bobby']
+['mathematical', 'way', 'run', 'gas', 'lead', 'man', 'infinite', 'know', 'clear', 'continuous', 'world', 'trial', 'bobby', 'idea', 'thing']
+['lead', 'infinite', 'mathematical', 'gas', 'bobby', 'clear', 'way', 'run', 'continuous', 'thing', 'know', 'man', 'world', 'ii', 'fact']
+['gas', 'way', 'lead', 'clear', 'infinite', 'mathematical', 'world', 'trial', 'run', 'thing', 'bobby', 'man', 'continuous', 'fact', 'idea']
+['mathematical', 'clear', 'fact', 'way', 'lead', 'gas', 'infinite', 'run', 'thing', 'continuous', 'trial', 'man', 'know', 'idea', 'solution']
+['way', 'gas', 'mathematical', 'clear', 'man', 'run', 'lead', 'trial', 'ii', 'fact', 'infinite', 'idea', 'world', 'know', 'thing']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'trial', 'run', 'thing', 'clear', 'lead', 'man', 'fact', 'ii', 'continuous', 'actually']
+['mathematical', 'lead', 'way', 'thing', 'gas', 'clear', 'infinite', 'world', 'fact', 'continuous', 'bobby', 'run', 'man', 'trial', 'solution']
+['way', 'clear', 'mathematical', 'gas', 'infinite', 'fact', 'lead', 'trial', 'bobby', 'man', 'continuous', 'thing', 'idea', 'world', 'run']
+==============================
+topic diversity:0.016666666666666666
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34097870053170193, c_w2v:None, c_uci:-3.7933923101827793, c_npmi:-0.12742526261894274
+mimno topic coherence:-225.83119743674524
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-188.4032593	Loss_G:189.3503113	loss_E:-0.0470387
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 22% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-190.8273468	Loss_G:191.7721863	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 22% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-185.2660370	Loss_G:186.2084808	loss_E:-0.0470397
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-192.3960571	Loss_G:193.3363953	loss_E:-0.0470394
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 22% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-191.9966583	Loss_G:192.9344635	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-192.4814911	Loss_G:193.4170837	loss_E:-0.0470389
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-189.4299469	Loss_G:190.3634033	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-189.1732635	Loss_G:190.1044617	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 22% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-185.3800812	Loss_G:186.3088074	loss_E:-0.0470386
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-196.1319733	Loss_G:197.0586395	loss_E:-0.0470392
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-188.2891693	Loss_G:189.2134705	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 22% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-191.1124268	Loss_G:192.0345459	loss_E:-0.0470399
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-194.8487396	Loss_G:195.7685394	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-188.7454529	Loss_G:189.6629944	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 22% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-191.2836761	Loss_G:192.1989746	loss_E:-0.0470398
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-189.0591125	Loss_G:189.9723206	loss_E:-0.0470387
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 22% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-191.7400360	Loss_G:192.6507874	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 22% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-186.1786957	Loss_G:187.0872192	loss_E:-0.0470395
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-189.5437775	Loss_G:190.4502716	loss_E:-0.0470393
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-194.5635529	Loss_G:195.4677429	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 22% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-188.0039825	Loss_G:188.9057312	loss_E:-0.0470398
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-190.6848450	Loss_G:191.5845795	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 22% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-195.6757812	Loss_G:196.5731964	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 22% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-187.6616821	Loss_G:188.5570374	loss_E:-0.0470396
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-186.2641296	Loss_G:187.1572113	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-191.5974884	Loss_G:192.4882660	loss_E:-0.0470395
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-187.4050751	Loss_G:188.2936249	loss_E:-0.0470395
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 22% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-191.5689240	Loss_G:192.4554443	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 22% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-190.4281158	Loss_G:191.3121948	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 22% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-190.7132721	Loss_G:191.5951996	loss_E:-0.0470387
+Epoch  90	Loss_D_avg:-177.6437263	Loss_G_avg:179.6886285	loss_E_avg:-0.0434283
+['way', 'gas', 'run', 'thing', 'clear', 'infinite', 'man', 'lead', 'mathematical', 'fact', 'world', 'continuous', 'trial', 'bobby', 'idea']
+['way', 'clear', 'run', 'man', 'mathematical', 'gas', 'thing', 'world', 'trial', 'lead', 'infinite', 'bobby', 'step', 'fact', 'idea']
+['clear', 'mathematical', 'way', 'gas', 'run', 'continuous', 'lead', 'man', 'thing', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['way', 'thing', 'mathematical', 'gas', 'clear', 'lead', 'infinite', 'trial', 'continuous', 'run', 'know', 'fact', 'man', 'ii', 'world']
+['way', 'gas', 'clear', 'mathematical', 'run', 'bobby', 'fact', 'solution', 'world', 'infinite', 'man', 'lead', 'idea', 'thing', 'continuous']
+['mathematical', 'thing', 'run', 'gas', 'clear', 'infinite', 'way', 'lead', 'fact', 'know', 'trial', 'continuous', 'man', 'ii', 'idea']
+['gas', 'way', 'mathematical', 'clear', 'lead', 'run', 'man', 'infinite', 'thing', 'fact', 'ii', 'bobby', 'continuous', 'know', 'idea']
+['way', 'gas', 'run', 'infinite', 'world', 'lead', 'thing', 'man', 'mathematical', 'fact', 'clear', 'step', 'trial', 'ii', 'continuous']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'lead', 'world', 'thing', 'trial', 'fact', 'run', 'continuous', 'man', 'know', 'ii']
+['way', 'mathematical', 'gas', 'lead', 'man', 'infinite', 'continuous', 'fact', 'world', 'run', 'clear', 'ii', 'bobby', 'trial', 'idea']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'fact', 'trial', 'thing', 'clear', 'run', 'man', 'continuous', 'lead', 'know', 'ii']
+['run', 'way', 'clear', 'mathematical', 'infinite', 'fact', 'gas', 'lead', 'man', 'world', 'ii', 'thing', 'solution', 'bobby', 'continuous']
+['way', 'gas', 'fact', 'run', 'mathematical', 'continuous', 'thing', 'infinite', 'clear', 'world', 'man', 'step', 'idea', 'lead', 'die']
+['way', 'thing', 'clear', 'mathematical', 'gas', 'infinite', 'run', 'lead', 'continuous', 'fact', 'trial', 'world', 'ii', 'attempt', 'idea']
+['way', 'mathematical', 'gas', 'clear', 'man', 'thing', 'continuous', 'fact', 'ii', 'know', 'world', 'lead', 'run', 'idea', 'infinite']
+['clear', 'lead', 'mathematical', 'thing', 'gas', 'trial', 'way', 'run', 'man', 'continuous', 'infinite', 'fact', 'bobby', 'idea', 'world']
+['mathematical', 'clear', 'way', 'infinite', 'run', 'idea', 'gas', 'know', 'continuous', 'fact', 'thing', 'lead', 'trial', 'step', 'man']
+['mathematical', 'way', 'man', 'clear', 'trial', 'gas', 'lead', 'run', 'thing', 'continuous', 'infinite', 'fact', 'ii', 'world', 'know']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'run', 'man', 'continuous', 'lead', 'fact', 'ii', 'world', 'idea', 'trial', 'bobby']
+['clear', 'mathematical', 'gas', 'trial', 'way', 'man', 'fact', 'run', 'lead', 'infinite', 'world', 'thing', 'continuous', 'ii', 'bobby']
+['mathematical', 'way', 'clear', 'fact', 'gas', 'infinite', 'lead', 'trial', 'thing', 'run', 'man', 'world', 'bobby', 'idea', 'ii']
+['mathematical', 'run', 'way', 'clear', 'thing', 'ii', 'trial', 'gas', 'fact', 'infinite', 'continuous', 'world', 'lead', 'man', 'bobby']
+['way', 'mathematical', 'gas', 'fact', 'world', 'clear', 'trial', 'run', 'idea', 'ii', 'actually', 'thing', 'bobby', 'continuous', 'lead']
+['gas', 'way', 'clear', 'mathematical', 'run', 'infinite', 'world', 'lead', 'thing', 'man', 'bobby', 'fact', 'know', 'continuous', 'trial']
+['gas', 'way', 'man', 'mathematical', 'thing', 'run', 'continuous', 'fact', 'infinite', 'know', 'trial', 'lead', 'ii', 'clear', 'world']
+['way', 'infinite', 'run', 'clear', 'mathematical', 'continuous', 'gas', 'thing', 'trial', 'lead', 'world', 'know', 'ii', 'man', 'fact']
+['way', 'clear', 'mathematical', 'gas', 'fact', 'run', 'lead', 'trial', 'thing', 'infinite', 'world', 'idea', 'know', 'continuous', 'man']
+['way', 'continuous', 'mathematical', 'lead', 'gas', 'infinite', 'clear', 'fact', 'run', 'ii', 'know', 'idea', 'thing', 'trial', 'bobby']
+['clear', 'way', 'infinite', 'run', 'fact', 'lead', 'mathematical', 'gas', 'man', 'continuous', 'world', 'know', 'thing', 'trial', 'bobby']
+['gas', 'mathematical', 'way', 'man', 'trial', 'clear', 'lead', 'infinite', 'fact', 'run', 'thing', 'world', 'step', 'continuous', 'bobby']
+['mathematical', 'clear', 'way', 'gas', 'run', 'lead', 'world', 'infinite', 'man', 'continuous', 'fact', 'thing', 'know', 'bobby', 'ii']
+['run', 'lead', 'clear', 'way', 'gas', 'mathematical', 'thing', 'infinite', 'trial', 'idea', 'know', 'continuous', 'bobby', 'fact', 'step']
+['mathematical', 'fact', 'gas', 'clear', 'run', 'infinite', 'idea', 'continuous', 'way', 'man', 'lead', 'trial', 'world', 'bobby', 'thing']
+['gas', 'mathematical', 'way', 'man', 'clear', 'infinite', 'lead', 'fact', 'continuous', 'trial', 'world', 'idea', 'run', 'bobby', 'thing']
+['lead', 'clear', 'thing', 'infinite', 'trial', 'way', 'mathematical', 'run', 'continuous', 'gas', 'idea', 'bobby', 'man', 'know', 'step']
+['run', 'mathematical', 'clear', 'way', 'infinite', 'man', 'gas', 'lead', 'world', 'continuous', 'know', 'step', 'fact', 'trial', 'bobby']
+['way', 'mathematical', 'gas', 'run', 'continuous', 'lead', 'world', 'man', 'thing', 'trial', 'bobby', 'infinite', 'clear', 'ii', 'fact']
+['clear', 'run', 'way', 'gas', 'mathematical', 'lead', 'trial', 'know', 'world', 'thing', 'man', 'bobby', 'continuous', 'infinite', 'ii']
+['mathematical', 'clear', 'way', 'lead', 'gas', 'run', 'idea', 'world', 'infinite', 'thing', 'man', 'trial', 'fact', 'bobby', 'continuous']
+['thing', 'continuous', 'way', 'lead', 'man', 'gas', 'mathematical', 'clear', 'run', 'world', 'infinite', 'trial', 'fact', 'ii', 'know']
+['infinite', 'way', 'mathematical', 'gas', 'thing', 'clear', 'lead', 'run', 'fact', 'continuous', 'know', 'man', 'think', 'ii', 'bobby']
+['infinite', 'way', 'mathematical', 'run', 'gas', 'continuous', 'clear', 'bobby', 'lead', 'know', 'thing', 'man', 'idea', 'world', 'trial']
+['way', 'gas', 'mathematical', 'run', 'clear', 'trial', 'fact', 'lead', 'die', 'idea', 'man', 'ii', 'infinite', 'world', 'continuous']
+['way', 'run', 'mathematical', 'gas', 'thing', 'clear', 'man', 'world', 'trial', 'infinite', 'lead', 'fact', 'bobby', 'continuous', 'step']
+['mathematical', 'way', 'gas', 'clear', 'infinite', 'fact', 'run', 'trial', 'lead', 'idea', 'ii', 'continuous', 'thing', 'know', 'man']
+['gas', 'way', 'mathematical', 'trial', 'lead', 'clear', 'continuous', 'world', 'man', 'run', 'know', 'infinite', 'fact', 'bobby', 'thing']
+['gas', 'way', 'infinite', 'thing', 'lead', 'clear', 'man', 'run', 'mathematical', 'bobby', 'trial', 'step', 'continuous', 'world', 'ii']
+['mathematical', 'run', 'fact', 'clear', 'gas', 'way', 'trial', 'bobby', 'thing', 'continuous', 'idea', 'lead', 'know', 'infinite', 'world']
+['mathematical', 'way', 'gas', 'lead', 'infinite', 'trial', 'run', 'fact', 'clear', 'thing', 'know', 'idea', 'man', 'continuous', 'step']
+['thing', 'mathematical', 'run', 'man', 'way', 'lead', 'gas', 'world', 'clear', 'trial', 'continuous', 'fact', 'step', 'infinite', 'know']
+['gas', 'thing', 'mathematical', 'way', 'man', 'clear', 'world', 'trial', 'run', 'know', 'continuous', 'bobby', 'fact', 'infinite', 'lead']
+['infinite', 'mathematical', 'continuous', 'thing', 'way', 'gas', 'lead', 'run', 'clear', 'man', 'fact', 'bobby', 'trial', 'know', 'world']
+['mathematical', 'run', 'trial', 'clear', 'lead', 'way', 'thing', 'continuous', 'idea', 'man', 'world', 'fact', 'infinite', 'gas', 'bobby']
+['way', 'mathematical', 'fact', 'run', 'lead', 'infinite', 'thing', 'clear', 'gas', 'man', 'continuous', 'world', 'trial', 'bobby', 'ii']
+['mathematical', 'gas', 'run', 'trial', 'way', 'fact', 'clear', 'world', 'continuous', 'lead', 'man', 'idea', 'thing', 'infinite', 'know']
+['way', 'clear', 'infinite', 'mathematical', 'run', 'fact', 'gas', 'idea', 'continuous', 'man', 'lead', 'know', 'trial', 'world', 'thing']
+['way', 'infinite', 'mathematical', 'gas', 'clear', 'lead', 'run', 'thing', 'idea', 'fact', 'continuous', 'bobby', 'man', 'trial', 'know']
+['gas', 'way', 'mathematical', 'lead', 'fact', 'trial', 'infinite', 'clear', 'bobby', 'man', 'thing', 'idea', 'world', 'continuous', 'solution']
+['way', 'mathematical', 'lead', 'gas', 'fact', 'run', 'infinite', 'know', 'thing', 'continuous', 'trial', 'world', 'bobby', 'clear', 'step']
+['infinite', 'lead', 'thing', 'way', 'run', 'mathematical', 'gas', 'know', 'clear', 'continuous', 'bobby', 'world', 'fact', 'idea', 'ii']
+['mathematical', 'run', 'gas', 'way', 'idea', 'fact', 'thing', 'man', 'continuous', 'infinite', 'world', 'bobby', 'trial', 'lead', 'ii']
+['way', 'mathematical', 'gas', 'continuous', 'lead', 'clear', 'trial', 'man', 'infinite', 'run', 'idea', 'world', 'fact', 'bobby', 'know']
+['clear', 'mathematical', 'way', 'lead', 'run', 'know', 'infinite', 'trial', 'gas', 'thing', 'continuous', 'world', 'idea', 'bobby', 'man']
+['mathematical', 'way', 'infinite', 'run', 'gas', 'clear', 'fact', 'continuous', 'ii', 'lead', 'world', 'thing', 'man', 'trial', 'idea']
+['mathematical', 'lead', 'gas', 'bobby', 'infinite', 'way', 'fact', 'clear', 'run', 'world', 'thing', 'continuous', 'man', 'trial', 'idea']
+['gas', 'run', 'man', 'way', 'clear', 'mathematical', 'world', 'continuous', 'lead', 'infinite', 'bobby', 'thing', 'fact', 'trial', 'know']
+['lead', 'clear', 'run', 'gas', 'infinite', 'way', 'mathematical', 'man', 'bobby', 'continuous', 'thing', 'trial', 'fact', 'idea', 'world']
+['mathematical', 'way', 'clear', 'lead', 'thing', 'infinite', 'trial', 'run', 'world', 'gas', 'continuous', 'man', 'fact', 'bobby', 'step']
+['way', 'gas', 'run', 'mathematical', 'lead', 'thing', 'clear', 'continuous', 'infinite', 'man', 'world', 'fact', 'bobby', 'trial', 'think']
+['gas', 'mathematical', 'way', 'clear', 'world', 'fact', 'bobby', 'infinite', 'lead', 'run', 'continuous', 'thing', 'man', 'trial', 'know']
+['clear', 'mathematical', 'gas', 'infinite', 'lead', 'way', 'run', 'trial', 'man', 'world', 'thing', 'ii', 'know', 'continuous', 'fact']
+['mathematical', 'lead', 'man', 'thing', 'gas', 'run', 'infinite', 'way', 'clear', 'trial', 'ii', 'continuous', 'fact', 'know', 'world']
+['way', 'continuous', 'run', 'gas', 'mathematical', 'man', 'clear', 'trial', 'lead', 'fact', 'ii', 'thing', 'infinite', 'know', 'idea']
+['mathematical', 'way', 'lead', 'gas', 'man', 'run', 'infinite', 'continuous', 'actually', 'ii', 'bobby', 'clear', 'fact', 'world', 'thing']
+['mathematical', 'gas', 'clear', 'run', 'lead', 'thing', 'infinite', 'way', 'man', 'bobby', 'world', 'trial', 'fact', 'ii', 'continuous']
+['gas', 'run', 'infinite', 'clear', 'thing', 'way', 'mathematical', 'trial', 'man', 'lead', 'bobby', 'fact', 'idea', 'continuous', 'world']
+['mathematical', 'run', 'gas', 'thing', 'way', 'continuous', 'infinite', 'fact', 'idea', 'trial', 'clear', 'man', 'know', 'lead', 'step']
+['mathematical', 'thing', 'way', 'infinite', 'fact', 'run', 'lead', 'gas', 'clear', 'idea', 'trial', 'bobby', 'man', 'know', 'continuous']
+['way', 'mathematical', 'run', 'thing', 'lead', 'continuous', 'infinite', 'man', 'world', 'clear', 'fact', 'ii', 'gas', 'know', 'step']
+['clear', 'gas', 'thing', 'infinite', 'mathematical', 'way', 'run', 'know', 'lead', 'trial', 'fact', 'man', 'ii', 'bobby', 'continuous']
+['continuous', 'way', 'mathematical', 'clear', 'gas', 'infinite', 'run', 'lead', 'trial', 'man', 'fact', 'idea', 'know', 'bobby', 'world']
+['mathematical', 'way', 'clear', 'infinite', 'man', 'run', 'fact', 'gas', 'thing', 'lead', 'world', 'continuous', 'solution', 'trial', 'know']
+['run', 'mathematical', 'continuous', 'gas', 'clear', 'lead', 'know', 'fact', 'way', 'bobby', 'trial', 'idea', 'thing', 'infinite', 'man']
+['way', 'lead', 'mathematical', 'clear', 'infinite', 'bobby', 'continuous', 'run', 'gas', 'man', 'world', 'thing', 'ii', 'know', 'fact']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'run', 'fact', 'continuous', 'world', 'solution', 'know', 'man', 'trial', 'idea']
+['clear', 'way', 'fact', 'run', 'thing', 'gas', 'mathematical', 'infinite', 'man', 'lead', 'continuous', 'know', 'world', 'ii', 'trial']
+['run', 'way', 'clear', 'gas', 'continuous', 'mathematical', 'man', 'fact', 'infinite', 'trial', 'idea', 'thing', 'lead', 'bobby', 'know']
+['way', 'mathematical', 'gas', 'fact', 'run', 'clear', 'idea', 'man', 'continuous', 'bobby', 'trial', 'world', 'infinite', 'ii', 'solution']
+['way', 'thing', 'lead', 'run', 'clear', 'fact', 'gas', 'mathematical', 'continuous', 'man', 'ii', 'world', 'know', 'infinite', 'trial']
+['mathematical', 'gas', 'man', 'way', 'lead', 'clear', 'trial', 'bobby', 'thing', 'run', 'fact', 'continuous', 'idea', 'world', 'infinite']
+['gas', 'mathematical', 'way', 'clear', 'run', 'infinite', 'fact', 'trial', 'lead', 'continuous', 'man', 'world', 'idea', 'know', 'thing']
+['mathematical', 'way', 'gas', 'clear', 'thing', 'lead', 'fact', 'idea', 'trial', 'world', 'ii', 'infinite', 'agree', 'run', 'bobby']
+['mathematical', 'way', 'run', 'gas', 'lead', 'man', 'infinite', 'know', 'clear', 'continuous', 'world', 'trial', 'bobby', 'idea', 'thing']
+['lead', 'infinite', 'mathematical', 'gas', 'bobby', 'way', 'clear', 'continuous', 'run', 'thing', 'know', 'man', 'world', 'fact', 'ii']
+['gas', 'way', 'lead', 'clear', 'mathematical', 'infinite', 'world', 'trial', 'run', 'thing', 'bobby', 'man', 'continuous', 'fact', 'step']
+['mathematical', 'clear', 'way', 'fact', 'lead', 'gas', 'infinite', 'run', 'thing', 'trial', 'continuous', 'man', 'know', 'idea', 'solution']
+['way', 'gas', 'mathematical', 'clear', 'man', 'run', 'lead', 'trial', 'ii', 'fact', 'infinite', 'idea', 'continuous', 'thing', 'world']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'trial', 'run', 'thing', 'clear', 'lead', 'man', 'fact', 'continuous', 'ii', 'bobby']
+['mathematical', 'lead', 'way', 'gas', 'thing', 'clear', 'infinite', 'world', 'fact', 'continuous', 'run', 'bobby', 'man', 'trial', 'ii']
+['way', 'clear', 'mathematical', 'gas', 'infinite', 'fact', 'lead', 'man', 'trial', 'continuous', 'bobby', 'thing', 'world', 'idea', 'run']
+==============================
+topic diversity:0.016
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.340397954376671, c_w2v:None, c_uci:-3.8004972693027423, c_npmi:-0.12759284751188535
+mimno topic coherence:-228.9829215787656
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 22% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-191.8541412	Loss_G:192.7340088	loss_E:-0.0470394
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 22% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-192.7953339	Loss_G:193.6730042	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 22% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-189.2303314	Loss_G:190.1056061	loss_E:-0.0470398
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 22% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-187.4050293	Loss_G:188.2782745	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 22% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-196.1036224	Loss_G:196.9746552	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 22% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-189.4584656	Loss_G:190.3273621	loss_E:-0.0470395
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-182.9559479	Loss_G:183.8226318	loss_E:-0.0470390
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-195.2480164	Loss_G:196.1125336	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-188.1465302	Loss_G:189.0088196	loss_E:-0.0470397
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-187.3480225	Loss_G:188.2083282	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-185.2945709	Loss_G:186.1524658	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 22% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-190.1714478	Loss_G:191.0272064	loss_E:-0.0470392
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-189.6295471	Loss_G:190.4832916	loss_E:-0.0470397
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 22% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-188.1750336	Loss_G:189.0266113	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 22% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-186.2642059	Loss_G:187.1134491	loss_E:-0.0470388
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-189.0591888	Loss_G:189.9064484	loss_E:-0.0470395
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 22% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-186.8916473	Loss_G:187.7366943	loss_E:-0.0470399
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 22% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-189.5439758	Loss_G:190.3870087	loss_E:-0.0470398
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-191.1696320	Loss_G:192.0104523	loss_E:-0.0470399
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 22% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-187.2909546	Loss_G:188.1295776	loss_E:-0.0470399
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-187.8043213	Loss_G:188.6408081	loss_E:-0.0470395
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-190.3710785	Loss_G:191.2055969	loss_E:-0.0470395
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-183.8685760	Loss_G:184.7007141	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 22% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-192.0252838	Loss_G:192.8553619	loss_E:-0.0470390
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 22% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-187.5761566	Loss_G:188.4042511	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 22% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-188.7740021	Loss_G:189.5999908	loss_E:-0.0470396
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 22% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-187.4620819	Loss_G:188.2857361	loss_E:-0.0470398
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 22% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-188.4318085	Loss_G:189.2534943	loss_E:-0.0470393
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 22% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-187.9183960	Loss_G:188.7379456	loss_E:-0.0470398
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 22% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-190.3426514	Loss_G:191.1601410	loss_E:-0.0470398
+Epoch 100	Loss_D_avg:-178.7747203	Loss_G_avg:180.6999739	loss_E_avg:-0.0437894
+['way', 'gas', 'clear', 'run', 'thing', 'man', 'infinite', 'lead', 'mathematical', 'fact', 'world', 'trial', 'continuous', 'bobby', 'idea']
+['way', 'clear', 'run', 'mathematical', 'man', 'gas', 'thing', 'trial', 'world', 'lead', 'infinite', 'bobby', 'fact', 'step', 'continuous']
+['clear', 'mathematical', 'way', 'gas', 'run', 'continuous', 'lead', 'man', 'thing', 'trial', 'idea', 'infinite', 'fact', 'know', 'step']
+['way', 'mathematical', 'thing', 'gas', 'clear', 'lead', 'infinite', 'trial', 'continuous', 'run', 'know', 'fact', 'man', 'world', 'ii']
+['way', 'gas', 'clear', 'mathematical', 'run', 'fact', 'bobby', 'world', 'solution', 'infinite', 'man', 'lead', 'thing', 'idea', 'continuous']
+['mathematical', 'thing', 'run', 'clear', 'gas', 'infinite', 'way', 'lead', 'fact', 'trial', 'man', 'continuous', 'know', 'ii', 'idea']
+['gas', 'way', 'mathematical', 'clear', 'lead', 'run', 'man', 'infinite', 'thing', 'fact', 'ii', 'continuous', 'trial', 'bobby', 'idea']
+['way', 'gas', 'run', 'infinite', 'world', 'lead', 'thing', 'mathematical', 'man', 'clear', 'fact', 'trial', 'step', 'continuous', 'ii']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'lead', 'world', 'thing', 'trial', 'fact', 'continuous', 'run', 'man', 'ii', 'know']
+['way', 'mathematical', 'gas', 'lead', 'man', 'infinite', 'continuous', 'fact', 'world', 'run', 'clear', 'trial', 'ii', 'bobby', 'idea']
+['way', 'mathematical', 'gas', 'infinite', 'world', 'trial', 'fact', 'thing', 'clear', 'run', 'man', 'continuous', 'lead', 'know', 'ii']
+['run', 'clear', 'way', 'mathematical', 'infinite', 'gas', 'fact', 'lead', 'man', 'world', 'ii', 'thing', 'continuous', 'trial', 'bobby']
+['way', 'gas', 'mathematical', 'fact', 'run', 'continuous', 'thing', 'infinite', 'clear', 'world', 'man', 'idea', 'step', 'lead', 'die']
+['way', 'thing', 'clear', 'mathematical', 'gas', 'infinite', 'run', 'lead', 'continuous', 'fact', 'trial', 'world', 'ii', 'idea', 'attempt']
+['way', 'mathematical', 'gas', 'clear', 'man', 'thing', 'continuous', 'fact', 'ii', 'know', 'world', 'lead', 'run', 'idea', 'infinite']
+['clear', 'mathematical', 'lead', 'trial', 'gas', 'thing', 'way', 'run', 'continuous', 'man', 'infinite', 'fact', 'bobby', 'idea', 'world']
+['mathematical', 'clear', 'way', 'gas', 'run', 'infinite', 'idea', 'continuous', 'know', 'fact', 'thing', 'lead', 'trial', 'man', 'step']
+['mathematical', 'way', 'man', 'clear', 'trial', 'gas', 'lead', 'run', 'thing', 'continuous', 'infinite', 'fact', 'world', 'ii', 'know']
+['way', 'gas', 'mathematical', 'clear', 'infinite', 'run', 'man', 'continuous', 'lead', 'fact', 'world', 'trial', 'idea', 'ii', 'bobby']
+['clear', 'mathematical', 'gas', 'way', 'man', 'trial', 'fact', 'run', 'lead', 'infinite', 'world', 'thing', 'continuous', 'idea', 'ii']
+['mathematical', 'way', 'clear', 'fact', 'gas', 'infinite', 'lead', 'trial', 'run', 'man', 'thing', 'world', 'bobby', 'idea', 'ii']
+['mathematical', 'run', 'way', 'clear', 'thing', 'trial', 'gas', 'ii', 'fact', 'infinite', 'continuous', 'world', 'lead', 'man', 'bobby']
+['way', 'mathematical', 'gas', 'fact', 'clear', 'world', 'trial', 'run', 'idea', 'ii', 'continuous', 'thing', 'man', 'actually', 'lead']
+['way', 'gas', 'clear', 'mathematical', 'run', 'infinite', 'lead', 'world', 'thing', 'man', 'fact', 'bobby', 'continuous', 'know', 'trial']
+['gas', 'way', 'man', 'mathematical', 'run', 'thing', 'continuous', 'fact', 'infinite', 'trial', 'know', 'lead', 'clear', 'ii', 'world']
+['way', 'infinite', 'run', 'clear', 'mathematical', 'gas', 'continuous', 'trial', 'lead', 'thing', 'world', 'know', 'ii', 'man', 'fact']
+['way', 'clear', 'mathematical', 'gas', 'fact', 'run', 'lead', 'trial', 'thing', 'infinite', 'world', 'idea', 'continuous', 'know', 'man']
+['way', 'continuous', 'mathematical', 'lead', 'gas', 'infinite', 'clear', 'fact', 'run', 'ii', 'know', 'idea', 'trial', 'thing', 'man']
+['clear', 'way', 'infinite', 'run', 'fact', 'mathematical', 'lead', 'gas', 'man', 'continuous', 'world', 'trial', 'thing', 'know', 'bobby']
+['gas', 'mathematical', 'way', 'man', 'clear', 'trial', 'lead', 'infinite', 'thing', 'run', 'fact', 'world', 'continuous', 'step', 'bobby']
+['mathematical', 'clear', 'way', 'gas', 'run', 'lead', 'world', 'infinite', 'man', 'continuous', 'fact', 'thing', 'know', 'bobby', 'trial']
+['run', 'clear', 'lead', 'way', 'mathematical', 'gas', 'thing', 'trial', 'infinite', 'idea', 'continuous', 'know', 'bobby', 'fact', 'step']
+['mathematical', 'fact', 'gas', 'clear', 'run', 'infinite', 'idea', 'continuous', 'way', 'man', 'lead', 'trial', 'world', 'thing', 'bobby']
+['gas', 'mathematical', 'way', 'clear', 'man', 'infinite', 'lead', 'fact', 'continuous', 'trial', 'world', 'idea', 'run', 'bobby', 'thing']
+['lead', 'clear', 'thing', 'infinite', 'way', 'trial', 'mathematical', 'run', 'continuous', 'gas', 'man', 'idea', 'bobby', 'know', 'step']
+['run', 'mathematical', 'clear', 'way', 'infinite', 'man', 'gas', 'lead', 'world', 'continuous', 'fact', 'know', 'step', 'trial', 'bobby']
+['way', 'mathematical', 'gas', 'run', 'continuous', 'lead', 'man', 'world', 'trial', 'thing', 'clear', 'bobby', 'infinite', 'ii', 'fact']
+['clear', 'way', 'run', 'gas', 'mathematical', 'lead', 'trial', 'man', 'thing', 'world', 'know', 'bobby', 'continuous', 'infinite', 'ii']
+['mathematical', 'clear', 'way', 'lead', 'gas', 'run', 'idea', 'world', 'infinite', 'thing', 'man', 'trial', 'fact', 'continuous', 'bobby']
+['thing', 'continuous', 'way', 'lead', 'man', 'gas', 'mathematical', 'clear', 'run', 'world', 'infinite', 'trial', 'fact', 'ii', 'know']
+['way', 'infinite', 'mathematical', 'gas', 'thing', 'clear', 'lead', 'run', 'fact', 'continuous', 'man', 'know', 'ii', 'trial', 'think']
+['infinite', 'way', 'mathematical', 'gas', 'clear', 'continuous', 'run', 'bobby', 'lead', 'thing', 'know', 'man', 'idea', 'world', 'trial']
+['way', 'gas', 'mathematical', 'clear', 'run', 'trial', 'fact', 'lead', 'idea', 'die', 'man', 'infinite', 'world', 'continuous', 'ii']
+['way', 'run', 'mathematical', 'gas', 'clear', 'thing', 'man', 'trial', 'world', 'infinite', 'lead', 'fact', 'bobby', 'continuous', 'idea']
+['mathematical', 'way', 'gas', 'clear', 'infinite', 'fact', 'run', 'trial', 'lead', 'idea', 'continuous', 'ii', 'thing', 'man', 'know']
+['gas', 'way', 'mathematical', 'trial', 'clear', 'lead', 'continuous', 'man', 'world', 'run', 'infinite', 'know', 'fact', 'bobby', 'thing']
+['gas', 'way', 'infinite', 'lead', 'thing', 'clear', 'man', 'run', 'mathematical', 'trial', 'bobby', 'continuous', 'world', 'step', 'ii']
+['mathematical', 'run', 'clear', 'fact', 'gas', 'way', 'trial', 'thing', 'bobby', 'continuous', 'lead', 'idea', 'infinite', 'world', 'know']
+['mathematical', 'way', 'gas', 'lead', 'infinite', 'trial', 'clear', 'run', 'fact', 'thing', 'know', 'man', 'idea', 'continuous', 'ii']
+['mathematical', 'thing', 'way', 'man', 'run', 'lead', 'gas', 'clear', 'world', 'continuous', 'trial', 'fact', 'step', 'infinite', 'know']
+['gas', 'thing', 'mathematical', 'way', 'clear', 'man', 'world', 'trial', 'run', 'continuous', 'know', 'fact', 'bobby', 'infinite', 'lead']
+['infinite', 'mathematical', 'way', 'continuous', 'thing', 'gas', 'lead', 'clear', 'run', 'man', 'fact', 'trial', 'bobby', 'know', 'world']
+['mathematical', 'trial', 'run', 'clear', 'way', 'lead', 'continuous', 'thing', 'idea', 'man', 'world', 'fact', 'gas', 'infinite', 'bobby']
+['way', 'mathematical', 'fact', 'run', 'lead', 'infinite', 'clear', 'thing', 'gas', 'man', 'continuous', 'world', 'trial', 'bobby', 'idea']
+['mathematical', 'gas', 'run', 'trial', 'way', 'fact', 'clear', 'continuous', 'world', 'lead', 'man', 'thing', 'idea', 'infinite', 'know']
+['clear', 'way', 'infinite', 'mathematical', 'run', 'fact', 'gas', 'idea', 'continuous', 'man', 'lead', 'know', 'trial', 'world', 'thing']
+['way', 'mathematical', 'gas', 'infinite', 'clear', 'lead', 'run', 'thing', 'fact', 'idea', 'continuous', 'bobby', 'man', 'trial', 'know']
+['gas', 'way', 'mathematical', 'lead', 'fact', 'trial', 'clear', 'infinite', 'man', 'bobby', 'thing', 'world', 'idea', 'continuous', 'run']
+['way', 'mathematical', 'gas', 'lead', 'fact', 'run', 'infinite', 'know', 'thing', 'trial', 'continuous', 'world', 'clear', 'man', 'bobby']
+['infinite', 'lead', 'thing', 'way', 'run', 'mathematical', 'gas', 'know', 'clear', 'continuous', 'bobby', 'world', 'fact', 'idea', 'trial']
+['mathematical', 'run', 'way', 'gas', 'idea', 'fact', 'thing', 'man', 'continuous', 'infinite', 'world', 'clear', 'trial', 'lead', 'bobby']
+['way', 'mathematical', 'gas', 'continuous', 'clear', 'lead', 'trial', 'man', 'infinite', 'run', 'world', 'idea', 'fact', 'bobby', 'know']
+['clear', 'mathematical', 'way', 'lead', 'run', 'infinite', 'know', 'gas', 'trial', 'continuous', 'thing', 'world', 'idea', 'man', 'bobby']
+['mathematical', 'way', 'infinite', 'run', 'clear', 'gas', 'fact', 'continuous', 'lead', 'ii', 'world', 'thing', 'man', 'trial', 'idea']
+['mathematical', 'lead', 'gas', 'way', 'bobby', 'infinite', 'clear', 'fact', 'run', 'world', 'continuous', 'thing', 'man', 'trial', 'idea']
+['gas', 'man', 'run', 'way', 'clear', 'mathematical', 'continuous', 'world', 'lead', 'infinite', 'bobby', 'thing', 'fact', 'trial', 'know']
+['lead', 'clear', 'run', 'gas', 'way', 'infinite', 'mathematical', 'man', 'continuous', 'bobby', 'thing', 'trial', 'fact', 'idea', 'world']
+['mathematical', 'way', 'clear', 'lead', 'thing', 'trial', 'infinite', 'run', 'world', 'gas', 'continuous', 'man', 'fact', 'bobby', 'know']
+['gas', 'way', 'run', 'mathematical', 'lead', 'clear', 'thing', 'continuous', 'man', 'infinite', 'world', 'fact', 'trial', 'bobby', 'idea']
+['gas', 'mathematical', 'way', 'clear', 'world', 'fact', 'infinite', 'bobby', 'lead', 'continuous', 'run', 'man', 'trial', 'thing', 'know']
+['mathematical', 'clear', 'gas', 'way', 'lead', 'infinite', 'run', 'trial', 'man', 'world', 'thing', 'continuous', 'ii', 'know', 'fact']
+['mathematical', 'lead', 'gas', 'man', 'thing', 'run', 'way', 'infinite', 'clear', 'trial', 'continuous', 'ii', 'fact', 'world', 'know']
+['way', 'continuous', 'run', 'gas', 'mathematical', 'man', 'clear', 'trial', 'lead', 'fact', 'ii', 'infinite', 'thing', 'world', 'know']
+['mathematical', 'way', 'lead', 'gas', 'man', 'run', 'continuous', 'infinite', 'clear', 'actually', 'ii', 'world', 'bobby', 'fact', 'thing']
+['mathematical', 'gas', 'clear', 'run', 'lead', 'thing', 'infinite', 'way', 'man', 'trial', 'world', 'bobby', 'fact', 'continuous', 'ii']
+['gas', 'run', 'clear', 'infinite', 'way', 'thing', 'mathematical', 'trial', 'man', 'lead', 'fact', 'bobby', 'continuous', 'idea', 'world']
+['mathematical', 'run', 'gas', 'way', 'thing', 'continuous', 'fact', 'infinite', 'clear', 'idea', 'trial', 'man', 'know', 'lead', 'world']
+['mathematical', 'thing', 'way', 'infinite', 'run', 'fact', 'gas', 'lead', 'clear', 'trial', 'idea', 'bobby', 'man', 'know', 'continuous']
+['way', 'mathematical', 'run', 'thing', 'continuous', 'lead', 'man', 'infinite', 'clear', 'world', 'fact', 'ii', 'gas', 'know', 'idea']
+['clear', 'gas', 'thing', 'infinite', 'mathematical', 'way', 'run', 'lead', 'trial', 'know', 'fact', 'man', 'continuous', 'ii', 'bobby']
+['continuous', 'way', 'mathematical', 'clear', 'gas', 'infinite', 'run', 'lead', 'trial', 'man', 'fact', 'idea', 'know', 'bobby', 'world']
+['mathematical', 'way', 'clear', 'infinite', 'man', 'run', 'gas', 'fact', 'thing', 'lead', 'world', 'continuous', 'trial', 'solution', 'know']
+['mathematical', 'run', 'continuous', 'gas', 'clear', 'lead', 'way', 'know', 'fact', 'bobby', 'trial', 'idea', 'thing', 'infinite', 'man']
+['way', 'lead', 'mathematical', 'clear', 'infinite', 'continuous', 'bobby', 'gas', 'run', 'man', 'world', 'thing', 'ii', 'know', 'fact']
+['way', 'lead', 'mathematical', 'infinite', 'gas', 'clear', 'run', 'continuous', 'fact', 'world', 'man', 'trial', 'know', 'solution', 'idea']
+['way', 'clear', 'fact', 'run', 'gas', 'mathematical', 'thing', 'infinite', 'man', 'lead', 'continuous', 'know', 'trial', 'world', 'ii']
+['run', 'way', 'clear', 'gas', 'continuous', 'mathematical', 'man', 'fact', 'infinite', 'trial', 'idea', 'thing', 'lead', 'know', 'bobby']
+['way', 'mathematical', 'gas', 'fact', 'run', 'clear', 'continuous', 'man', 'idea', 'bobby', 'trial', 'world', 'infinite', 'ii', 'lead']
+['way', 'thing', 'lead', 'run', 'clear', 'gas', 'fact', 'mathematical', 'continuous', 'man', 'ii', 'world', 'know', 'infinite', 'trial']
+['mathematical', 'gas', 'man', 'way', 'lead', 'clear', 'trial', 'run', 'bobby', 'thing', 'continuous', 'fact', 'world', 'idea', 'infinite']
+['gas', 'mathematical', 'way', 'clear', 'run', 'infinite', 'fact', 'trial', 'continuous', 'lead', 'man', 'world', 'idea', 'know', 'thing']
+['mathematical', 'way', 'gas', 'clear', 'lead', 'thing', 'fact', 'trial', 'world', 'idea', 'ii', 'infinite', 'run', 'agree', 'man']
+['mathematical', 'way', 'run', 'gas', 'lead', 'man', 'infinite', 'clear', 'continuous', 'know', 'world', 'trial', 'bobby', 'thing', 'idea']
+['lead', 'infinite', 'mathematical', 'gas', 'way', 'clear', 'bobby', 'continuous', 'run', 'thing', 'know', 'world', 'man', 'fact', 'trial']
+['gas', 'way', 'clear', 'mathematical', 'lead', 'infinite', 'world', 'trial', 'run', 'thing', 'man', 'bobby', 'continuous', 'fact', 'idea']
+['mathematical', 'clear', 'way', 'lead', 'fact', 'gas', 'infinite', 'run', 'thing', 'trial', 'continuous', 'man', 'know', 'idea', 'world']
+['way', 'gas', 'mathematical', 'clear', 'man', 'run', 'lead', 'trial', 'ii', 'fact', 'infinite', 'continuous', 'thing', 'world', 'idea']
+['way', 'mathematical', 'gas', 'infinite', 'clear', 'trial', 'run', 'thing', 'world', 'lead', 'man', 'fact', 'continuous', 'ii', 'bobby']
+['mathematical', 'way', 'lead', 'gas', 'thing', 'clear', 'infinite', 'world', 'fact', 'continuous', 'run', 'bobby', 'man', 'trial', 'ii']
+['way', 'clear', 'mathematical', 'gas', 'infinite', 'fact', 'lead', 'man', 'trial', 'continuous', 'thing', 'bobby', 'world', 'run', 'idea']
+==============================
+topic diversity:0.016
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3435804821672035, c_w2v:None, c_uci:-3.760062223472594, c_npmi:-0.12621516506072253
+mimno topic coherence:-232.65047484890152
+topic diversity:0.016
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3435804821672035, c_w2v:None, c_uci:-3.760062223472594, c_npmi:-0.12621516506072253
+mimno topic coherence:-232.65047484890152

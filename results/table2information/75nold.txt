@@ -1,0 +1,1136 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7fe76ff1c4f0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:0.0004749	Loss_G:0.0102801	loss_E:-0.0094356
+Epoch   1	Iter   11	Loss_D:-0.0054593	Loss_G:0.0139811	loss_E:-0.0077104
+Epoch   1	Iter   21	Loss_D:-0.0116512	Loss_G:0.0168726	loss_E:-0.0041789
+Epoch   2	Iter    1	Loss_D:-0.0136613	Loss_G:0.0173972	loss_E:-0.0026279
+Epoch   2	Iter   11	Loss_D:-0.0222426	Loss_G:0.0203598	loss_E:0.0031401
+Epoch   2	Iter   21	Loss_D:-0.0311445	Loss_G:0.0235875	loss_E:0.0088813
+Epoch   3	Iter    1	Loss_D:-0.0337329	Loss_G:0.0242636	loss_E:0.0107735
+Epoch   3	Iter   11	Loss_D:-0.0425887	Loss_G:0.0286143	loss_E:0.0152273
+Epoch   3	Iter   21	Loss_D:-0.0496328	Loss_G:0.0323039	loss_E:0.0184388
+Epoch   4	Iter    1	Loss_D:-0.0511422	Loss_G:0.0328526	loss_E:0.0193770
+Epoch   4	Iter   11	Loss_D:-0.0576828	Loss_G:0.0366891	loss_E:0.0219818
+Epoch   4	Iter   21	Loss_D:-0.0626764	Loss_G:0.0398114	loss_E:0.0237779
+Epoch   5	Iter    1	Loss_D:-0.0642017	Loss_G:0.0401061	loss_E:0.0250028
+Epoch   5	Iter   11	Loss_D:-0.0696795	Loss_G:0.0433055	loss_E:0.0272008
+Epoch   5	Iter   21	Loss_D:-0.0730924	Loss_G:0.0460862	loss_E:0.0277839
+Epoch   6	Iter    1	Loss_D:-0.0737635	Loss_G:0.0465558	loss_E:0.0279603
+Epoch   6	Iter   11	Loss_D:-0.0777232	Loss_G:0.0488995	loss_E:0.0295499
+Epoch   6	Iter   21	Loss_D:-0.0803480	Loss_G:0.0505525	loss_E:0.0304228
+Epoch   7	Iter    1	Loss_D:-0.0821937	Loss_G:0.0510228	loss_E:0.0317685
+Epoch   7	Iter   11	Loss_D:-0.0832393	Loss_G:0.0527658	loss_E:0.0310172
+Epoch   7	Iter   21	Loss_D:-0.0863646	Loss_G:0.0540445	loss_E:0.0328758
+Epoch   8	Iter    1	Loss_D:-0.0858610	Loss_G:0.0541663	loss_E:0.0322376
+Epoch   8	Iter   11	Loss_D:-0.0892069	Loss_G:0.0554407	loss_E:0.0342579
+Epoch   8	Iter   21	Loss_D:-0.0891284	Loss_G:0.0564871	loss_E:0.0330895
+Epoch   9	Iter    1	Loss_D:-0.0898679	Loss_G:0.0564405	loss_E:0.0338605
+Epoch   9	Iter   11	Loss_D:-0.0900233	Loss_G:0.0566642	loss_E:0.0337754
+Epoch   9	Iter   21	Loss_D:-0.0916463	Loss_G:0.0573867	loss_E:0.0346364
+Epoch  10	Iter    1	Loss_D:-0.0918030	Loss_G:0.0580556	loss_E:0.0341186
+Epoch  10	Iter   11	Loss_D:-0.0916511	Loss_G:0.0584026	loss_E:0.0336263
+Epoch  10	Iter   21	Loss_D:-0.0929380	Loss_G:0.0585078	loss_E:0.0347563
+Epoch  10	Loss_D_avg:-0.0627957	Loss_G_avg:0.0413968	loss_E_avg:0.0221862
+['robert', 'consumer', 'duke', 'finally', 'oppose', 'compression', 'hand', 'treatment', 'automatically', 'crash', 'obtain', 'alternative', 'increase', 'doug', 'marc']
+['consumer', 'minute', 'dump', 'small', 'art', 'develop', 'favorite', 'say', 'wish', 'confirm', 'course', 'la', 'firm', 'fire', 'grow']
+['volunteer', 'debate', 'device', 'country', 'land', 'netter', 'attack', 'office', 'quantum', 'guess', 'richard', 'confirm', 'well', 'status', 'month']
+['steal', 'course', 'consumer', 'violent', 'manager', 'mount', 'church', 'level', 'virtually', 'treatment', 'boy', 'unknown', 'belief', 'kit', 'occur']
+['report', 'tail', 'consumer', 'vs', 'release', 'account', 'recent', 'sp', 'la', 'reason', 'easily', 'jason', 'civil', 'debate', 'protection']
+['columbia', 'occur', 'church', 'useful', 'president', 'treatment', 'arm', 'existence', 'mount', 'majority', 'confirm', 'display', 'circuit', 'minute', 'material']
+['package', 'resource', 'treatment', 'mount', 'choose', 'quantum', 'willing', 'custom', 'key', 'rate', 'duke', 'spread', 'realize', 'jason', 'responsible']
+['sp', 'certain', 'confirm', 'pointer', 'session', 'richard', 'info', 'trust', 'important', 'craft', 'majority', 'panel', 'thread', 'package', 'signal']
+['wish', 'thread', 'course', 'suspect', 'hall', 'compression', 'dangerous', 'consumer', 'respond', 'electronic', 'la', 'arm', 'go', 'capture', 'frequency']
+['completely', 'et', 'resolution', 'package', 'class', 'race', 'private', 'certain', 'belief', 'alternative', 'session', 'money', 'question', 'hand', 'key']
+['wish', 'north', 'anti', 'currently', 'favorite', 'treatment', 'draft', 'support', 'church', 'supply', 'difference', 'claim', 'impressive', 'belief', 'la']
+['luck', 'trial', 'hot', 'support', 'course', 'civil', 'huge', 'action', 'consumer', 'favorite', 'small', 'normal', 'majority', 'access', 'g']
+['chase', 'appropriate', 'motorcycle', 'math', 'small', 'vga', 'land', 'figure', 'treatment', 'impressive', 'arm', 'finish', 'majority', 'ibm', 'server']
+['confirm', 'resolution', 'perfectly', 'church', 'month', 'engineer', 'california', 'suspect', 'knowledge', 'thread', 'signal', 'debate', 'go', 'give', 'netter']
+['eric', 'drug', 'jump', 'monitor', 'cat', 'duke', 'frequency', 'realize', 'release', 'say', 'com', 'gordon', 'gas', 'plug', 'smiley']
+['church', 'palestinian', 'width', 'majority', 'favorite', 'thoma', 'seriously', 'tiger', 'material', 'jack', 'crazy', 'minute', 'british', 'mary', 'cut']
+['race', 'electronic', 'random', 'recent', 'completely', 'arm', 'polygon', 'majority', 'duke', 'belong', 'manufacture', 'faq', 'hopefully', 'uunet', 'north']
+['columbia', 'treatment', 'movement', 'cub', 'mouth', 'favorite', 'consumer', 'useless', 'dod', 'short', 'package', 'case', 'private', 'church', 'certain']
+['guide', 'electronic', 'smiley', 'pass', 'increase', 'arm', 'california', 'movement', 'vs', 'consumer', 'signature', 'chain', 'surprise', 'doug', 'wire']
+['resource', 'superior', 'demonstrate', 'cub', 'story', 'argue', 'capture', 'metal', 'north', 'terminal', 'remember', 'convince', 'et', 'release', 'scientific']
+['math', 'movement', 'leave', 'angel', 'imply', 'release', 'pov', 'church', 'arm', 'basic', 'tail', 'adjust', 'favorite', 'possible', 'north']
+['resource', 'scientific', 'exact', 'wish', 'level', 'expensive', 'smiley', 'tune', 'existence', 'damage', 'money', 'majority', 'engineering', 'experience', 'battery']
+['favorite', 'minute', 'course', 'treatment', 'important', 'manufacture', 'question', 'selling', 'civil', 'california', 'rock', 'park', 'polygon', 'man', 'excellent']
+['thread', 'impressive', 'kill', 'important', 'cut', 'presence', 'lord', 'church', 'certain', 'people', 'treatment', 'red', 'finally', 'marc', 'land']
+['small', 'release', 'width', 'excellent', 'till', 'north', 'american', 'land', 'associate', 'wave', 'armenia', 'excuse', 'suspect', 'follow', 'drug']
+['course', 'normal', 'increase', 'jay', 'drug', 'minute', 'boy', 'consumer', 'arm', 'correctly', 'belong', 'tek', 'algorithm', 'select', 'thread']
+['usually', 'give', 'small', 'normal', 'pass', 'hal', 'thinking', 'session', 'story', 'perfectly', 'money', 'luck', 'release', 'speak', 'sport']
+['fbi', 'church', 'favorite', 'small', 'majority', 'report', 'murder', 'knowledge', 'deck', 'realize', 'minute', 'pain', 'mount', 'short', 'useful']
+['course', 'rate', 'north', 'instance', 'support', 'consumer', 'church', 'responsibility', 'claim', 'certain', 'belong', 'appropriate', 'respond', 'connection', 'favorite']
+['money', 'north', 'key', 'eric', 'contract', 'quantum', 'firm', 'pull', 'period', 'clemen', 'significantly', 'chain', 'property', 'red', 'debate']
+['minimum', 'course', 'significantly', 'certain', 'et', 'complete', 'eric', 'describe', 'twice', 'planet', 'anybody', 'injure', 'country', 'increase', 'exe']
+['thisis', 'firm', 'church', 'duke', 'red', 'judge', 'resource', 'claim', 'complete', 'majority', 'release', 'develop', 'sphere', 'package', 'consumer']
+['expansion', 'treatment', 'trust', 'damage', 'complete', 'faq', 'huge', 'quickly', 'completely', 'rare', 'guide', 'reply', 'rate', 'school', 'personally']
+['favorite', 'rock', 'completely', 'strange', 'shell', 'et', 'mount', 'range', 'money', 'increase', 'motorcycle', 'wish', 'resolution', 'structure', 'recent']
+['palestinian', 'normal', 'wish', 'consumer', 'read', 'perfectly', 'manufacture', 'chain', 'confirm', 'argue', 'design', 'armenia', 'device', 'estimate', 'race']
+['treatment', 'bird', 'resource', 'release', 'advice', 'perfectly', 'adapter', 'jason', 'packard', 'personally', 'section', 'blood', 'voltage', 'bat', 'important']
+['course', 'simm', 'armenian', 'netter', 'school', 'frequency', 'battery', 'custom', 'et', 'claim', 'actual', 'superior', 'utility', 'monitor', 'alternative']
+['opportunity', 'movement', 'oppose', 'driver', 'gee', 'far', 'watch', 'estimate', 'church', 'fbi', 'suggest', 'consumer', 'go', 'boy', 'citizen']
+['say', 'ibm', 'north', 'connector', 'race', 'et', 'majority', 'increase', 'range', 'la', 'duke', 'luck', 'money', 'contract', 'netter']
+['certain', 'church', 'favorite', 'math', 'figure', 'laser', 'superior', 'actual', 'small', 'instance', 'nasa', 'thinking', 'red', 'desktop', 'dump']
+['perfectly', 'movement', 'belong', 'say', 'alternative', 'race', 'complete', 'jump', 'course', 'size', 'port', 'go', 'certain', 'chain', 'church']
+['treatment', 'guide', 'resource', 'quantum', 'small', 'et', 'messy', 'advice', 'murder', 'existence', 'useful', 'religious', 'trust', 'luck', 'stupid']
+['netter', 'w', 'excuse', 'team', 'suspect', 'lie', 'race', 'correction', 'hopefully', 'wire', 'cent', 'wish', 'report', 'private', 'pop']
+['impressive', 'release', 'vs', 'boy', 'robert', 'church', 'pov', 'school', 'victim', 'consumer', 'panel', 'jason', 'faq', 'printer', 'small']
+['important', 'course', 'argue', 'excuse', 'xterm', 'firm', 'small', 'go', 'strange', 'server', 'circuit', 'width', 'issue', 'confirm', 'planet']
+['server', 'anymore', 'protect', 'quantum', 'course', 'superior', 'session', 'resource', 'consumer', 'useful', 'arm', 'okay', 'contract', 'completely', 'disagree']
+['rate', 'wish', 'eric', 'require', 'photoshop', 'uk', 'vs', 'useless', 'red', 'minute', 'section', 'netter', 'year', 'perfectly', 'recent']
+['drug', 'responsibility', 'rate', 'thisis', 'debate', 'session', 'impressive', 'claim', 'role', 'certain', 'learn', 'resource', 'turkey', 'instance', 'historical']
+['boy', 'say', 'experience', 'adjust', 'historical', 'religious', 'bet', 'firm', 'nasa', 'robert', 'angel', 'rate', 'resolution', 'slightly', 'display']
+['resource', 'certain', 'small', 'red', 'basic', 'et', 'nasa', 'real', 'happen', 'people', 'territory', 'circuit', 'robert', 'guess', 'ibm']
+['cold', 'convert', 'drug', 'seriously', 'question', 'parent', 'cut', 'imply', 'structure', 'random', 'small', 'frequency', 'treatment', 'measure', 'wayne']
+['richard', 'mark', 'planet', 'story', 'battery', 'tire', 'trust', 'simm', 'favorite', 'quantum', 'personally', 'movement', 'german', 'ago', 'turn']
+['palestinian', 'wish', 'remember', 'frequency', 'useful', 'fbi', 'people', 'certain', 'capture', 'impressive', 'z', 'selling', 'mon', 'willing', 'blue']
+['treatment', 'favorite', 'display', 'translation', 'jack', 'small', 'hall', 'section', 'usually', 'suggest', 'original', 'suspect', 'team', 'confirm', 'defense']
+['favorite', 'rate', 'north', 'robert', 'duty', 'superior', 'package', 'thinking', 'background', 'shine', 'arm', 'la', 'instead', 'socket', 'resource']
+['majority', 'perfectly', 'month', 'key', 'release', 'american', 'dangerous', 'land', 'say', 'question', 'utility', 'increase', 'realize', 'arrest', 'pay']
+['battery', 'consumer', 'session', 'mount', 'course', 'spacecraft', 'willing', 'responsibility', 'appropriate', 'display', 'treatment', 'frequency', 'scientific', 'confirm', 'cub']
+['failure', 'resource', 'oppose', 'pay', 'hall', 'surrender', 'colour', 'real', 'tie', 'motorcycle', 'arm', 'completely', 'month', 'favorite', 'consumer']
+['report', 'netter', 'cut', 'thisis', 'certain', 'sf', 'territory', 'occur', 'favorite', 'lean', 'hmmmm', 'resource', 'tap', 'germany', 'say']
+['favorite', 'quantum', 'realize', 'surprise', 'faq', 'church', 'digital', 'story', 'oppose', 'cut', 'experience', 'firearm', 'foreign', 'appreciate', 'instead']
+['say', 'church', 'consumer', 'treatment', 'big', 'excuse', 'minute', 'seriously', 'responsibility', 'display', 'mount', 'dangerous', 'give', 'ignore', 'wish']
+['money', 'treatment', 'normal', 'impressive', 'pre', 'consumer', 'appropriate', 'fbi', 'frequency', 'xterm', 'surprise', 'mount', 'prepare', 'wish', 'chain']
+['people', 'california', 'protect', 'release', 'math', 'smiley', 'hall', 'race', 'pointer', 'monitor', 'detail', 'vs', 'package', 'pov', 'dan']
+['normal', 'thinking', 'estimate', 'steal', 'useful', 'tie', 'smiley', 'small', 'german', 'handy', 'cut', 'abuse', 'pitch', 'film', 'treatment']
+['jay', 'alternative', 'experience', 'private', 'normal', 'quantum', 'rate', 'draft', 'realize', 'perfectly', 'tm', 'sf', 'mount', 'monitor', 'existence']
+['excuse', 'basis', 'imply', 'treatment', 'fine', 'say', 'land', 'purchase', 'richard', 'crazy', 'church', 'netter', 'mount', 'cub', 'controller']
+['minute', 'release', 'team', 'pointer', 'key', 'murder', 'trust', 'firm', 'discussion', 'church', 'beautiful', 'gee', 'temperature', 'cage', 'rookie']
+['iisi', 'robert', 'math', 'boy', 'mount', 'lord', 'circuit', 'gas', 'complete', 'piece', 'basic', 'firm', 'money', 'thread', 'perfectly']
+['treatment', 'useful', 'display', 'small', 'april', 'thisis', 'instal', 'attack', 'specification', 'constitution', 'discussion', 'forget', 'pointer', 'radar', 'run']
+['realize', 'resource', 'netter', 'craft', 'normal', 'robert', 'friend', 'circuit', 'armenian', 'useful', 'pull', 'duke', 'detail', 'fi', 'rookie']
+['increase', 'citizen', 'gun', 'story', 'extremely', 'red', 'sf', 'robert', 'background', 'class', 'treat', 'money', 'thread', 'switch', 'report']
+['quantum', 'people', 'thisis', 'frequency', 'memory', 'shine', 'recommendation', 'movement', 'wish', 'curious', 'status', 'se', 'physician', 'resource', 'watch']
+['boy', 'thisis', 'citizen', 'netter', 'red', 'useful', 'signal', 'estimate', 'luck', 'disclaimer', 'civil', 'complete', 'reading', 'compound', 'pop']
+['label', 'release', 'consumer', 'private', 'support', 'small', 'excuse', 'thisis', 'north', 'debate', 'obtain', 'havebeen', 'art', 'personally', 'resolution']
+['drug', 'mode', 'la', 'programmer', 'possible', 'cheer', 'increase', 'pov', 'dan', 'rate', 'parent', 'algorithm', 'personally', 'red', 'circuit']
+==============================
+topic diversity:0.36444444444444446
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32238985423368943, c_w2v:None, c_uci:-8.133212476698512, c_npmi:-0.2855478698896836
+mimno topic coherence:-319.4736978692687
+Epoch  11	Iter    1	Loss_D:-0.0926155	Loss_G:0.0586327	loss_E:0.0343402
+Epoch  11	Iter   11	Loss_D:-0.0937370	Loss_G:0.0586116	loss_E:0.0354467
+Epoch  11	Iter   21	Loss_D:-0.0936497	Loss_G:0.0594019	loss_E:0.0345861
+Epoch  12	Iter    1	Loss_D:-0.0945917	Loss_G:0.0593764	loss_E:0.0355160
+Epoch  12	Iter   11	Loss_D:-0.0940685	Loss_G:0.0591407	loss_E:0.0352536
+Epoch  12	Iter   21	Loss_D:-0.0931737	Loss_G:0.0599439	loss_E:0.0335276
+Epoch  13	Iter    1	Loss_D:-0.0945399	Loss_G:0.0595920	loss_E:0.0352742
+Epoch  13	Iter   11	Loss_D:-0.0941185	Loss_G:0.0592253	loss_E:0.0352003
+Epoch  13	Iter   21	Loss_D:-0.0933980	Loss_G:0.0599245	loss_E:0.0337491
+Epoch  14	Iter    1	Loss_D:-0.0936514	Loss_G:0.0600869	loss_E:0.0338628
+Epoch  14	Iter   11	Loss_D:-0.0946966	Loss_G:0.0596198	loss_E:0.0353601
+Epoch  14	Iter   21	Loss_D:-0.0943747	Loss_G:0.0600607	loss_E:0.0346511
+Epoch  15	Iter    1	Loss_D:-0.0936902	Loss_G:0.0596124	loss_E:0.0343726
+Epoch  15	Iter   11	Loss_D:-0.0924436	Loss_G:0.0600260	loss_E:0.0327304
+Epoch  15	Iter   21	Loss_D:-0.0929815	Loss_G:0.0595030	loss_E:0.0337642
+Epoch  16	Iter    1	Loss_D:-0.0926878	Loss_G:0.0599529	loss_E:0.0329938
+Epoch  16	Iter   11	Loss_D:-0.0916327	Loss_G:0.0597920	loss_E:0.0321235
+Epoch  16	Iter   21	Loss_D:-0.0948154	Loss_G:0.0592498	loss_E:0.0358515
+Epoch  17	Iter    1	Loss_D:-0.0922177	Loss_G:0.0594403	loss_E:0.0330609
+Epoch  17	Iter   11	Loss_D:-0.0936500	Loss_G:0.0598536	loss_E:0.0340752
+Epoch  17	Iter   21	Loss_D:-0.0932799	Loss_G:0.0596343	loss_E:0.0339001
+Epoch  18	Iter    1	Loss_D:-0.0941150	Loss_G:0.0594928	loss_E:0.0348820
+Epoch  18	Iter   11	Loss_D:-0.0937874	Loss_G:0.0593963	loss_E:0.0346555
+Epoch  18	Iter   21	Loss_D:-0.0925728	Loss_G:0.0594899	loss_E:0.0333607
+Epoch  19	Iter    1	Loss_D:-0.0934455	Loss_G:0.0592473	loss_E:0.0344694
+Epoch  19	Iter   11	Loss_D:-0.0921994	Loss_G:0.0591007	loss_E:0.0333572
+Epoch  19	Iter   21	Loss_D:-0.0913143	Loss_G:0.0591576	loss_E:0.0324330
+Epoch  20	Iter    1	Loss_D:-0.0936442	Loss_G:0.0593605	loss_E:0.0345520
+Epoch  20	Iter   11	Loss_D:-0.0932215	Loss_G:0.0586798	loss_E:0.0348021
+Epoch  20	Iter   21	Loss_D:-0.0910879	Loss_G:0.0588310	loss_E:0.0325589
+Epoch  20	Loss_D_avg:-0.0780546	Loss_G_avg:0.0504223	loss_E_avg:0.0281716
+['robert', 'consumer', 'oppose', 'compression', 'finally', 'marc', 'treatment', 'doug', 'crash', 'et', 'hand', 'alternative', 'session', 'powerbook', 'north']
+['consumer', 'dump', 'art', 'favorite', 'minute', 'small', 'grow', 'develop', 'wish', 'say', 'scientific', 'la', 'wave', 'threaten', 'course']
+['debate', 'device', 'netter', 'country', 'richard', 'land', 'status', 'attack', 'sp', 'office', 'pen', 'developer', 'quantum', 'guess', 'select']
+['steal', 'course', 'consumer', 'mount', 'manager', 'kit', 'unknown', 'boy', 'treatment', 'church', 'compression', 'document', 'level', 'lib', 'belief']
+['report', 'tail', 'consumer', 'vs', 'sp', 'jason', 'recent', 'release', 'la', 'account', 'debate', 'protection', 'richard', 'civil', 'easily']
+['president', 'treatment', 'occur', 'useful', 'existence', 'church', 'majority', 'arm', 'mount', 'parent', 'angel', 'circuit', 'minute', 'stealth', 'modem']
+['package', 'resource', 'treatment', 'mount', 'custom', 'jason', 'choose', 'willing', 'responsible', 'quantum', 'spread', 'realize', 'rate', 'key', 'capture']
+['sp', 'richard', 'certain', 'pointer', 'session', 'info', 'majority', 'trust', 'confirm', 'panel', 'important', 'contract', 'thread', 'nec', 'consumer']
+['wish', 'thread', 'hall', 'course', 'dangerous', 'compression', 'consumer', 'suspect', 'frequency', 'la', 'electronic', 'arm', 'robert', 'abuse', 'respond']
+['completely', 'et', 'resolution', 'package', 'race', 'class', 'session', 'private', 'alternative', 'complex', 'belief', 'certain', 'favorite', 'money', 'hand']
+['north', 'wish', 'favorite', 'draft', 'anti', 'treatment', 'currently', 'impressive', 'church', 'support', 'majority', 'la', 'supply', 'belief', 'difference']
+['huge', 'trial', 'luck', 'favorite', 'course', 'civil', 'consumer', 'hot', 'majority', 'support', 'action', 'humor', 'impressive', 'normal', 'access']
+['appropriate', 'chase', 'motorcycle', 'math', 'impressive', 'vga', 'treatment', 'majority', 'finish', 'small', 'custom', 'land', 'arm', 'excuse', 'smart']
+['perfectly', 'resolution', 'engineer', 'confirm', 'california', 'church', 'month', 'debate', 'knowledge', 'suspect', 'thread', 'chain', 'netter', 'jack', 'teaching']
+['eric', 'jump', 'drug', 'frequency', 'monitor', 'cat', 'realize', 'release', 'smiley', 'flyer', 'debate', 'say', 'gordon', 'convince', 'plug']
+['church', 'palestinian', 'favorite', 'width', 'majority', 'thoma', 'jack', 'tiger', 'british', 'seriously', 'smiley', 'mary', 'promise', 'parent', 'material']
+['race', 'polygon', 'random', 'majority', 'electronic', 'belong', 'recent', 'arm', 'hopefully', 'manufacture', 'completely', 'faq', 'marc', 'favorite', 'north']
+['treatment', 'favorite', 'cub', 'movement', 'consumer', 'harvard', 'dod', 'boy', 'useless', 'short', 'package', 'private', 'ready', 'guide', 'audio']
+['guide', 'smiley', 'electronic', 'movement', 'chain', 'consumer', 'arm', 'california', 'doug', 'vs', 'pass', 'surprise', 'increase', 'wire', 'north']
+['resource', 'demonstrate', 'cub', 'superior', 'metal', 'story', 'north', 'argue', 'terminal', 'convince', 'et', 'favorite', 'capture', 'scientific', 'hopefully']
+['math', 'angel', 'movement', 'imply', 'leave', 'release', 'pov', 'favorite', 'arm', 'church', 'basic', 'expansion', 'teaching', 'north', 'foreign']
+['scientific', 'resource', 'smiley', 'tune', 'exact', 'expensive', 'majority', 'existence', 'wish', 'damage', 'level', 'engineering', 'bird', 'benefit', 'battery']
+['favorite', 'treatment', 'minute', 'manufacture', 'polygon', 'course', 'rock', 'important', 'solve', 'california', 'civil', 'park', 'excuse', 'extremely', 'imply']
+['impressive', 'thread', 'kill', 'important', 'cut', 'marc', 'teaching', 'lord', 'smiley', 'church', 'treatment', 'click', 'vs', 'interpretation', 'unknown']
+['release', 'small', 'width', 'north', 'excellent', 'armenia', 'associate', 'till', 'wave', 'excuse', 'oppose', 'french', 'american', 'panel', 'grow']
+['course', 'jay', 'consumer', 'boy', 'tek', 'correctly', 'minute', 'normal', 'belong', 'drug', 'perfectly', 'increase', 'arm', 'movie', 'select']
+['usually', 'give', 'small', 'perfectly', 'normal', 'session', 'thinking', 'pass', 'story', 'responsible', 'release', 'favorite', 'luck', 'sport', 'richard']
+['fbi', 'favorite', 'majority', 'church', 'murder', 'small', 'knowledge', 'report', 'realize', 'mount', 'minute', 'perfectly', 'pain', 'fi', 'teaching']
+['course', 'north', 'instance', 'consumer', 'rate', 'responsibility', 'support', 'appropriate', 'belong', 'equivalent', 'favorite', 'church', 'marc', 'perfectly', 'certain']
+['north', 'money', 'eric', 'contract', 'chain', 'debate', 'art', 'metal', 'key', 'clemen', 'property', 'period', 'pull', 'quantum', 'course']
+['minimum', 'course', 'et', 'eric', 'planet', 'exe', 'complete', 'twice', 'certain', 'describe', 'jack', 'robert', 'tek', 'actual', 'palestinian']
+['church', 'resource', 'majority', 'consumer', 'red', 'judge', 'benefit', 'ridiculous', 'firm', 'claim', 'complete', 'impressive', 'release', 'develop', 'package']
+['expansion', 'treatment', 'damage', 'trust', 'faq', 'huge', 'complete', 'guide', 'quickly', 'personally', 'te', 'school', 'completely', 'reply', 'algorithm']
+['favorite', 'rock', 'strange', 'completely', 'shell', 'et', 'mount', 'range', 'money', 'motorcycle', 'resolution', 'structure', 'injury', 'recent', 'wish']
+['palestinian', 'normal', 'perfectly', 'consumer', 'chain', 'wish', 'armenia', 'manufacture', 'estimate', 'argue', 'read', 'parent', 'race', 'jack', 'disease']
+['treatment', 'bird', 'perfectly', 'resource', 'jason', 'adapter', 'advice', 'release', 'personally', 'voltage', 'section', 'morality', 'consumer', 'blood', 'bat']
+['course', 'simm', 'armenian', 'frequency', 'netter', 'school', 'battery', 'et', 'custom', 'actual', 'utility', 'alternative', 'richard', 'parent', 'audio']
+['movement', 'opportunity', 'oppose', 'gee', 'estimate', 'consumer', 'driver', 'watch', 'church', 'fbi', 'jay', 'draft', 'boy', 'far', 'robert']
+['ibm', 'north', 'say', 'et', 'majority', 'connector', 'race', 'contract', 'oppose', 'movement', 'netter', 'la', 'range', 'richard', 'luck']
+['favorite', 'church', 'math', 'certain', 'laser', 'instance', 'desktop', 'thinking', 'actual', 'dump', 'sp', 'small', 'figure', 'attend', 'exact']
+['perfectly', 'belong', 'movement', 'alternative', 'jump', 'race', 'chain', 'angel', 'watt', 'complete', 'yup', 'course', 'contract', 'say', 'et']
+['treatment', 'guide', 'resource', 'et', 'small', 'quantum', 'existence', 'advice', 'murder', 'useful', 'ready', 'impressive', 'stupid', 'trust', 'religious']
+['netter', 'excuse', 'w', 'hopefully', 'team', 'race', 'suspect', 'lie', 'correction', 'wire', 'pop', 'private', 'resource', 'wish', 'finally']
+['impressive', 'release', 'pov', 'victim', 'vs', 'robert', 'boy', 'jason', 'panel', 'consumer', 'school', 'church', 'richard', 'constitution', 'faq']
+['important', 'excuse', 'course', 'argue', 'xterm', 'planet', 'strange', 'width', 'audio', 'circuit', 'small', 'explanation', 'resource', 'perfectly', 'server']
+['anymore', 'server', 'consumer', 'session', 'protect', 'resource', 'course', 'quantum', 'contract', 'majority', 'disagree', 'useful', 'arm', 'okay', 'translation']
+['wish', 'rate', 'eric', 'perfectly', 'vs', 'uk', 'netter', 'require', 'photoshop', 'scientific', 'useless', 'section', 'minute', 'warn', 'expensive']
+['responsibility', 'drug', 'debate', 'session', 'impressive', 'role', 'rate', 'instance', 'claim', 'resource', 'turkey', 'favorite', 'certain', 'et', 'oppose']
+['boy', 'say', 'experience', 'angel', 'bet', 'robert', 'hall', 'religious', 'slightly', 'palestinian', 'favorite', 'responsibility', 'resolution', 'jason', 'treatment']
+['resource', 'certain', 'et', 'basic', 'small', 'red', 'nasa', 'territory', 'eisa', 'robert', 'circuit', 'thinking', 'real', 'perfectly', 'people']
+['cold', 'parent', 'seriously', 'drug', 'convert', 'frequency', 'question', 'cut', 'random', 'et', 'imply', 'demand', 'treatment', 'structure', 'serial']
+['richard', 'planet', 'tire', 'favorite', 'mark', 'battery', 'story', 'metal', 'movement', 'eric', 'trust', 'personally', 'eisa', 'simm', 'german']
+['palestinian', 'frequency', 'wish', 'remember', 'useful', 'impressive', 'mon', 'fbi', 'people', 'scientific', 'responsibility', 'certain', 'capture', 'z', 'willing']
+['treatment', 'favorite', 'translation', 'hall', 'jack', 'display', 'majority', 'section', 'soviet', 'north', 'small', 'usually', 'desktop', 'suggest', 'potential']
+['favorite', 'north', 'robert', 'rate', 'duty', 'thinking', 'background', 'package', 'arm', 'la', 'resource', 'boy', 'socket', 'frequency', 'perfectly']
+['perfectly', 'majority', 'month', 'dangerous', 'arrest', 'key', 'release', 'utility', 'et', 'land', 'realize', 'alternative', 'treatment', 'motorcycle', 'say']
+['consumer', 'mount', 'session', 'battery', 'spacecraft', 'course', 'appropriate', 'responsibility', 'willing', 'frequency', 'scientific', 'treatment', 'cub', 'estimate', 'warn']
+['failure', 'oppose', 'resource', 'hall', 'colour', 'surrender', 'tie', 'favorite', 'pay', 'motorcycle', 'consumer', 'arm', 'et', 'completely', 'month']
+['report', 'netter', 'favorite', 'cut', 'lean', 'territory', 'certain', 'resource', 'germany', 'occur', 'perfectly', 'majority', 'tap', 'sf', 'marc']
+['favorite', 'surprise', 'quantum', 'realize', 'faq', 'foreign', 'oppose', 'digital', 'church', 'impressive', 'firearm', 'robert', 'story', 'marc', 'cut']
+['say', 'consumer', 'church', 'treatment', 'excuse', 'responsibility', 'mount', 'dangerous', 'et', 'seriously', 'big', 'display', 'minute', 'ignore', 'anonymous']
+['treatment', 'money', 'impressive', 'pre', 'normal', 'consumer', 'appropriate', 'frequency', 'surprise', 'xterm', 'chain', 'fbi', 'mount', 'responsibility', 'angel']
+['california', 'people', 'hall', 'smiley', 'protect', 'math', 'race', 'pointer', 'release', 'pov', 'draft', 'angel', 'vs', 'dan', 'monitor']
+['thinking', 'estimate', 'steal', 'normal', 'smiley', 'useful', 'tie', 'british', 'gold', 'abuse', 'german', 'perfectly', 'pack', 'small', 'film']
+['jay', 'alternative', 'private', 'experience', 'normal', 'perfectly', 'draft', 'quantum', 'realize', 'mount', 'tm', 'existence', 'spacecraft', 'actual', 'robert']
+['excuse', 'basis', 'imply', 'richard', 'treatment', 'fine', 'purchase', 'netter', 'convince', 'hall', 'say', 'land', 'mount', 'cub', 'spacecraft']
+['minute', 'release', 'team', 'pointer', 'murder', 'key', 'trust', 'gee', 'cage', 'church', 'temperature', 'robert', 'compression', 'discussion', 'holy']
+['robert', 'math', 'iisi', 'boy', 'mount', 'perfectly', 'piece', 'circuit', 'lord', 'basic', 'complete', 'debate', 'gas', 'resource', 'north']
+['treatment', 'useful', 'constitution', 'display', 'radar', 'april', 'small', 'yup', 'pointer', 'instal', 'attack', 'estimate', 'park', 'robert', 'alternative']
+['realize', 'resource', 'netter', 'robert', 'circuit', 'normal', 'friend', 'armenian', 'useful', 'fi', 'pull', 'craft', 'chain', 'metal', 'perfectly']
+['increase', 'citizen', 'extremely', 'robert', 'background', 'gun', 'story', 'red', 'witness', 'treat', 'sf', 'kit', 'class', 'thread', 'treatment']
+['quantum', 'frequency', 'people', 'movement', 'status', 'curious', 'physician', 'speech', 'content', 'memory', 'resource', 'wish', 'guide', 'se', 'race']
+['boy', 'citizen', 'netter', 'disclaimer', 'estimate', 'useful', 'reading', 'compound', 'red', 'civil', 'pop', 'luck', 'signal', 'majority', 'complete']
+['label', 'consumer', 'release', 'private', 'excuse', 'debate', 'north', 'art', 'armenia', 'small', 'support', 'obtain', 'personally', 'alternative', 'resource']
+['drug', 'la', 'pov', 'programmer', 'dan', 'mode', 'parent', 'cheer', 'compression', 'increase', 'favorite', 'possible', 'personally', 'background', 'thinking']
+==============================
+topic diversity:0.3457777777777778
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32698016929171814, c_w2v:None, c_uci:-8.94474992567789, c_npmi:-0.3138250608782242
+mimno topic coherence:-292.8233687102916
+Epoch  21	Iter    1	Loss_D:-0.0901079	Loss_G:0.0585326	loss_E:0.0318584
+Epoch  21	Iter   11	Loss_D:-0.0915620	Loss_G:0.0582417	loss_E:0.0335891
+Epoch  21	Iter   21	Loss_D:-0.0900396	Loss_G:0.0579030	loss_E:0.0323994
+Epoch  22	Iter    1	Loss_D:-0.0910410	Loss_G:0.0583999	loss_E:0.0329185
+Epoch  22	Iter   11	Loss_D:-0.0910272	Loss_G:0.0579648	loss_E:0.0333137
+Epoch  22	Iter   21	Loss_D:-0.0908552	Loss_G:0.0576638	loss_E:0.0334675
+Epoch  23	Iter    1	Loss_D:-0.0906612	Loss_G:0.0578508	loss_E:0.0330648
+Epoch  23	Iter   11	Loss_D:-0.0891984	Loss_G:0.0575269	loss_E:0.0319391
+Epoch  23	Iter   21	Loss_D:-0.0886548	Loss_G:0.0574403	loss_E:0.0314858
+Epoch  24	Iter    1	Loss_D:-0.0882919	Loss_G:0.0576981	loss_E:0.0308627
+Epoch  24	Iter   11	Loss_D:-0.0880213	Loss_G:0.0567350	loss_E:0.0315513
+Epoch  24	Iter   21	Loss_D:-0.0880340	Loss_G:0.0564868	loss_E:0.0318144
+Epoch  25	Iter    1	Loss_D:-0.0877459	Loss_G:0.0559318	loss_E:0.0320749
+Epoch  25	Iter   11	Loss_D:-0.0889370	Loss_G:0.0562216	loss_E:0.0329839
+Epoch  25	Iter   21	Loss_D:-0.0872857	Loss_G:0.0554453	loss_E:0.0321298
+Epoch  26	Iter    1	Loss_D:-0.0857377	Loss_G:0.0564766	loss_E:0.0295649
+Epoch  26	Iter   11	Loss_D:-0.0873539	Loss_G:0.0559982	loss_E:0.0316446
+Epoch  26	Iter   21	Loss_D:-0.0890173	Loss_G:0.0559819	loss_E:0.0332825
+Epoch  27	Iter    1	Loss_D:-0.0874722	Loss_G:0.0549014	loss_E:0.0328432
+Epoch  27	Iter   11	Loss_D:-0.0865339	Loss_G:0.0556820	loss_E:0.0311081
+Epoch  27	Iter   21	Loss_D:-0.0876834	Loss_G:0.0549487	loss_E:0.0330150
+Epoch  28	Iter    1	Loss_D:-0.0858383	Loss_G:0.0550733	loss_E:0.0310589
+Epoch  28	Iter   11	Loss_D:-0.0856141	Loss_G:0.0545873	loss_E:0.0312897
+Epoch  28	Iter   21	Loss_D:-0.0842664	Loss_G:0.0542898	loss_E:0.0302594
+Epoch  29	Iter    1	Loss_D:-0.0856801	Loss_G:0.0541708	loss_E:0.0317588
+Epoch  29	Iter   11	Loss_D:-0.0843425	Loss_G:0.0538245	loss_E:0.0307724
+Epoch  29	Iter   21	Loss_D:-0.0851005	Loss_G:0.0534801	loss_E:0.0318988
+Epoch  30	Iter    1	Loss_D:-0.0833598	Loss_G:0.0540201	loss_E:0.0296262
+Epoch  30	Iter   11	Loss_D:-0.0839031	Loss_G:0.0532922	loss_E:0.0308927
+Epoch  30	Iter   21	Loss_D:-0.0842233	Loss_G:0.0533582	loss_E:0.0311521
+Epoch  30	Loss_D_avg:-0.0812318	Loss_G_avg:0.0522830	loss_E_avg:0.0293991
+['robert', 'consumer', 'compression', 'oppose', 'marc', 'finally', 'powerbook', 'doug', 'et', 'compuserve', 'treatment', 'crash', 'session', 'alternative', 'north']
+['dump', 'favorite', 'consumer', 'art', 'minute', 'grow', 'harvard', 'scientific', 'wave', 'small', 'wish', 'develop', 'la', 'adapter', 'sp']
+['debate', 'netter', 'richard', 'device', 'country', 'sp', 'remark', 'pen', 'status', 'developer', 'land', 'movement', 'hall', 'select', 'floor']
+['steal', 'consumer', 'course', 'mount', 'kit', 'unknown', 'manager', 'lib', 'cancer', 'boy', 'compression', 'treatment', 'frequency', 'perfectly', 'electric']
+['consumer', 'report', 'sp', 'jason', 'vs', 'tail', 'richard', 'debate', 'foreign', 'protection', 'recent', 'release', 'bruin', 'la', 'netter']
+['president', 'majority', 'treatment', 'angel', 'existence', 'useful', 'mount', 'arm', 'church', 'occur', 'parent', 'estimate', 'circuit', 'minute', 'connector']
+['resource', 'package', 'treatment', 'custom', 'mount', 'jason', 'responsible', 'willing', 'choose', 'spread', 'compuserve', 'electric', 'realize', 'quantum', 'metal']
+['sp', 'richard', 'session', 'certain', 'pointer', 'majority', 'contract', 'panel', 'nec', 'info', 'trust', 'feustel', 'consumer', 'pop', 'batf']
+['hall', 'wish', 'compression', 'thread', 'dangerous', 'course', 'consumer', 'perfectly', 'frequency', 'suspect', 'la', 'electronic', 'kit', 'abuse', 'robert']
+['et', 'completely', 'resolution', 'complex', 'race', 'session', 'package', 'favorite', 'alternative', 'class', 'private', 'manufacture', 'belief', 'tiger', 'convince']
+['north', 'favorite', 'wish', 'draft', 'impressive', 'anti', 'treatment', 'currently', 'church', 'majority', 'support', 'art', 'la', 'belief', 'credit']
+['huge', 'favorite', 'majority', 'luck', 'smiley', 'trial', 'consumer', 'course', 'humor', 'civil', 'impressive', 'hot', 'action', 'pen', 'support']
+['appropriate', 'motorcycle', 'math', 'impressive', 'vga', 'custom', 'smart', 'majority', 'treatment', 'finish', 'colormap', 'lean', 'estimate', 'bag', 'excuse']
+['perfectly', 'resolution', 'engineer', 'california', 'teaching', 'debate', 'chain', 'church', 'netter', 'month', 'bag', 'hall', 'jack', 'knowledge', 'suspect']
+['eric', 'jump', 'frequency', 'drug', 'smiley', 'perfectly', 'monitor', 'flyer', 'realize', 'debate', 'convince', 'et', 'release', 'cat', 'witness']
+['favorite', 'church', 'palestinian', 'majority', 'width', 'smiley', 'thoma', 'british', 'jack', 'tiger', 'tiff', 'promise', 'arrest', 'jumper', 'parent']
+['polygon', 'random', 'marc', 'race', 'majority', 'belong', 'hopefully', 'favorite', 'manufacture', 'faq', 'contract', 'electronic', 'north', 'recent', 'doug']
+['favorite', 'treatment', 'movement', 'harvard', 'cub', 'consumer', 'ready', 'colormap', 'boy', 'audio', 'physician', 'package', 'short', 'dod', 'guide']
+['smiley', 'guide', 'chain', 'electronic', 'movement', 'doug', 'consumer', 'surprise', 'favorite', 'eisa', 'arm', 'marc', 'huge', 'vs', 'california']
+['resource', 'demonstrate', 'cub', 'metal', 'favorite', 'et', 'north', 'convince', 'story', 'argue', 'scientific', 'terminal', 'angel', 'hopefully', 'equivalent']
+['angel', 'math', 'movement', 'pov', 'imply', 'favorite', 'release', 'teaching', 'foreign', 'leave', 'expansion', 'arm', 'attend', 'church', 'remark']
+['scientific', 'resource', 'smiley', 'tune', 'exact', 'expensive', 'majority', 'existence', 'bird', 'damage', 'wish', 'richard', 'benefit', 'engineering', 'hall']
+['favorite', 'polygon', 'manufacture', 'treatment', 'solve', 'minute', 'rock', 'extremely', 'excuse', 'perfectly', 'course', 'civil', 'park', 'california', 'important']
+['impressive', 'thread', 'marc', 'important', 'teaching', 'smiley', 'kill', 'cut', 'unknown', 'richard', 'click', 'treatment', 'interpretation', 'vs', 'church']
+['release', 'width', 'small', 'armenia', 'associate', 'north', 'wave', 'french', 'excuse', 'excellent', 'oppose', 'grow', 'panel', 'eric', 'frequency']
+['course', 'jay', 'tek', 'perfectly', 'consumer', 'colormap', 'belong', 'boy', 'correctly', 'movie', 'florida', 'minute', 'arm', 'normal', 'drug']
+['perfectly', 'usually', 'small', 'give', 'session', 'thinking', 'ignorance', 'puck', 'normal', 'favorite', 'richard', 'harvard', 'smiley', 'jumper', 'responsible']
+['favorite', 'fbi', 'majority', 'perfectly', 'teaching', 'church', 'fi', 'murder', 'small', 'reading', 'zone', 'mount', 'knowledge', 'richard', 'realize']
+['north', 'course', 'instance', 'consumer', 'equivalent', 'perfectly', 'rate', 'marc', 'responsibility', 'favorite', 'belong', 'appropriate', 'support', 'contract', 'interpretation']
+['north', 'contract', 'chain', 'eric', 'debate', 'metal', 'art', 'clemen', 'money', 'jay', 'content', 'audio', 'hall', 'professional', 'property']
+['et', 'planet', 'eric', 'exe', 'course', 'tek', 'twice', 'jack', 'complete', 'converter', 'robert', 'describe', 'certain', 'favorite', 'powerbook']
+['resource', 'majority', 'consumer', 'church', 'ridiculous', 'impressive', 'benefit', 'solve', 'dump', 'red', 'hitler', 'judge', 'edition', 'brown', 'belong']
+['expansion', 'treatment', 'damage', 'huge', 'trust', 'faq', 'te', 'complete', 'guide', 'ignorance', 'personally', 'quickly', 'favorite', 'side', 'tek']
+['favorite', 'rock', 'strange', 'et', 'completely', 'shell', 'mount', 'jay', 'injury', 'resolution', 'motorcycle', 'range', 'impressive', 'draft', 'schedule']
+['palestinian', 'perfectly', 'chain', 'normal', 'estimate', 'armenia', 'consumer', 'manufacture', 'wish', 'smiley', 'angel', 'parent', 'jack', 'majority', 'benefit']
+['perfectly', 'bird', 'treatment', 'jason', 'resource', 'adapter', 'advice', 'smiley', 'personally', 'jumper', 'ridiculous', 'release', 'voltage', 'eisa', 'morality']
+['course', 'frequency', 'netter', 'armenian', 'et', 'school', 'richard', 'simm', 'custom', 'battery', 'actual', 'eisa', 'alternative', 'parent', 'utility']
+['movement', 'oppose', 'estimate', 'gee', 'jay', 'opportunity', 'consumer', 'border', 'draft', 'boy', 'robert', 'watch', 'church', 'panel', 'fbi']
+['north', 'et', 'ibm', 'majority', 'contract', 'richard', 'netter', 'say', 'movement', 'connector', 'perfectly', 'johnson', 'oppose', 'race', 'tiff']
+['favorite', 'math', 'church', 'desktop', 'dump', 'certain', 'instance', 'thinking', 'attend', 'laser', 'challenge', 'sp', 'jason', 'actual', 'richard']
+['perfectly', 'belong', 'movement', 'watt', 'chain', 'jump', 'yup', 'angel', 'contract', 'alternative', 'race', 'et', 'remark', 'course', 'complete']
+['treatment', 'guide', 'et', 'resource', 'small', 'existence', 'advice', 'remark', 'quantum', 'impressive', 'ready', 'stupid', 'murder', 'responsibility', 'jay']
+['netter', 'excuse', 'hopefully', 'w', 'race', 'team', 'pov', 'suspect', 'richard', 'lie', 'pop', 'wire', 'contract', 'resource', 'correction']
+['impressive', 'pov', 'release', 'jason', 'richard', 'victim', 'panel', 'ignorance', 'robert', 'vs', 'boy', 'constitution', 'attend', 'consumer', 'school']
+['excuse', 'planet', 'important', 'strange', 'perfectly', 'course', 'xterm', 'teaching', 'argue', 'explanation', 'width', 'audio', 'british', 'impressive', 'palestinian']
+['anymore', 'consumer', 'contract', 'session', 'server', 'challenge', 'resource', 'protect', 'course', 'translation', 'disagree', 'brake', 'probe', 'developer', 'majority']
+['eric', 'wish', 'rate', 'perfectly', 'netter', 'vs', 'uk', 'scientific', 'french', 'warn', 'hall', 'ridiculous', 'et', 'require', 'favorite']
+['responsibility', 'drug', 'impressive', 'debate', 'session', 'role', 'favorite', 'instance', 'rate', 'et', 'equivalent', 'resource', 'turkey', 'desktop', 'claim']
+['boy', 'angel', 'hall', 'tiff', 'favorite', 'say', 'experience', 'bet', 'richard', 'robert', 'contract', 'jason', 'slightly', 'palestinian', 'responsibility']
+['resource', 'et', 'basic', 'certain', 'small', 'eisa', 'red', 'perfectly', 'hall', 'thinking', 'nasa', 'doug', 'panel', 'robert', 'manufacture']
+['cold', 'parent', 'frequency', 'et', 'puck', 'seriously', 'drug', 'convert', 'random', 'demand', 'cut', 'treatment', 'portable', 'imply', 'question']
+['richard', 'planet', 'favorite', 'eisa', 'tire', 'metal', 'hall', 'battery', 'movement', 'resistance', 'eric', 'mark', 'personally', 'story', 'contract']
+['palestinian', 'frequency', 'mon', 'wish', 'impressive', 'remember', 'useful', 'compuserve', 'favorite', 'scientific', 'responsibility', 'responsible', 'fbi', 'people', 'dump']
+['treatment', 'favorite', 'hall', 'translation', 'jack', 'soviet', 'majority', 'potential', 'north', 'contract', 'display', 'desktop', 'section', 'batf', 'responsibility']
+['favorite', 'north', 'robert', 'duty', 'thinking', 'background', 'rate', 'perfectly', 'frequency', 'panel', 'package', 'arm', 'resource', 'socket', 'generation']
+['perfectly', 'majority', 'arrest', 'month', 'dangerous', 'et', 'utility', 'release', 'richard', 'contradiction', 'key', 'george', 'alternative', 'disclaimer', 'realize']
+['mount', 'consumer', 'session', 'spacecraft', 'battery', 'appropriate', 'responsibility', 'course', 'frequency', 'estimate', 'scientific', 'willing', 'cub', 'treatment', 'warn']
+['failure', 'hall', 'oppose', 'resource', 'favorite', 'colour', 'tie', 'consumer', 'et', 'surrender', 'motorcycle', 'arm', 'anymore', 'pay', 'desktop']
+['netter', 'favorite', 'report', 'lean', 'perfectly', 'marc', 'cut', 'manufacture', 'resource', 'territory', 'irq', 'majority', 'resolution', 'germany', 'certain']
+['favorite', 'surprise', 'foreign', 'faq', 'realize', 'quantum', 'oppose', 'impressive', 'marc', 'church', 'digital', 'angel', 'smiley', 'firearm', 'robert']
+['consumer', 'say', 'church', 'excuse', 'treatment', 'responsibility', 'et', 'colormap', 'dangerous', 'mount', 'remark', 'anonymous', 'favorite', 'gee', 'marc']
+['treatment', 'money', 'impressive', 'pre', 'consumer', 'frequency', 'appropriate', 'normal', 'surprise', 'chain', 'compuserve', 'angel', 'xterm', 'responsibility', 'strange']
+['hall', 'california', 'people', 'smiley', 'pov', 'math', 'angel', 'sys', 'protect', 'pointer', 'race', 'fee', 'draft', 'netter', 'release']
+['estimate', 'smiley', 'thinking', 'steal', 'perfectly', 'tie', 'normal', 'useful', 'gold', 'pack', 'british', 'teaching', 'abuse', 'yup', 'tek']
+['jay', 'alternative', 'perfectly', 'draft', 'private', 'normal', 'experience', 'spacecraft', 'realize', 'tm', 'compression', 'mount', 'kit', 'existence', 'jason']
+['excuse', 'richard', 'hall', 'imply', 'jay', 'treatment', 'basis', 'harvard', 'netter', 'spacecraft', 'metal', 'convince', 'arrest', 'pre', 'majority']
+['minute', 'release', 'pointer', 'team', 'gee', 'cage', 'murder', 'compression', 'holy', 'key', 'trust', 'robert', 'majority', 'church', 'chain']
+['math', 'robert', 'perfectly', 'boy', 'mount', 'piece', 'debate', 'circuit', 'lord', 'basic', 'kit', 'speech', 'movie', 'north', 'protection']
+['treatment', 'radar', 'yup', 'useful', 'constitution', 'estimate', 'display', 'mil', 'small', 'pointer', 'april', 'alternative', 'robert', 'park', 'explanation']
+['realize', 'resource', 'netter', 'robert', 'fi', 'perfectly', 'circuit', 'chain', 'metal', 'armenian', 'normal', 'friend', 'useful', 'pull', 'protection']
+['extremely', 'increase', 'citizen', 'background', 'robert', 'witness', 'tiff', 'kit', 'er', 'story', 'red', 'gun', 'treat', 'angel', 'treatment']
+['frequency', 'quantum', 'movement', 'people', 'physician', 'content', 'speech', 'status', 'curious', 'resource', 'chain', 'download', 'metal', 'multiple', 'wish']
+['boy', 'netter', 'estimate', 'disclaimer', 'citizen', 'reading', 'compound', 'pop', 'useful', 'civil', 'impressive', 'marc', 'majority', 'anonymous', 'luck']
+['label', 'consumer', 'release', 'armenia', 'debate', 'art', 'excuse', 'private', 'north', 'perfectly', 'small', 'personally', 'strange', 'support', 'metal']
+['pov', 'la', 'dan', 'parent', 'compression', 'favorite', 'drug', 'chain', 'cheer', 'richard', 'responsibility', 'thinking', 'mode', 'background', 'programmer']
+==============================
+topic diversity:0.3217777777777778
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3752394176155555, c_w2v:None, c_uci:-9.982562254484563, c_npmi:-0.3512204610411218
+mimno topic coherence:-293.49292425849444
+Epoch  31	Iter    1	Loss_D:-0.0832840	Loss_G:0.0526198	loss_E:0.0309423
+Epoch  31	Iter   11	Loss_D:-0.0814821	Loss_G:0.0524587	loss_E:0.0293244
+Epoch  31	Iter   21	Loss_D:-0.0823420	Loss_G:0.0527256	loss_E:0.0298657
+Epoch  32	Iter    1	Loss_D:-0.0823643	Loss_G:0.0522434	loss_E:0.0303780
+Epoch  32	Iter   11	Loss_D:-0.0810644	Loss_G:0.0517219	loss_E:0.0296260
+Epoch  32	Iter   21	Loss_D:-0.0808179	Loss_G:0.0512423	loss_E:0.0298504
+Epoch  33	Iter    1	Loss_D:-0.0808534	Loss_G:0.0513625	loss_E:0.0297743
+Epoch  33	Iter   11	Loss_D:-0.0822854	Loss_G:0.0507938	loss_E:0.0317816
+Epoch  33	Iter   21	Loss_D:-0.0803970	Loss_G:0.0508206	loss_E:0.0298880
+Epoch  34	Iter    1	Loss_D:-0.0780473	Loss_G:0.0507838	loss_E:0.0275739
+Epoch  34	Iter   11	Loss_D:-0.0800996	Loss_G:0.0495995	loss_E:0.0308014
+Epoch  34	Iter   21	Loss_D:-0.0778699	Loss_G:0.0496876	loss_E:0.0284687
+Epoch  35	Iter    1	Loss_D:-0.0782279	Loss_G:0.0498427	loss_E:0.0286823
+Epoch  35	Iter   11	Loss_D:-0.0794794	Loss_G:0.0498901	loss_E:0.0298832
+Epoch  35	Iter   21	Loss_D:-0.0788666	Loss_G:0.0491896	loss_E:0.0300071
+Epoch  36	Iter    1	Loss_D:-0.0787660	Loss_G:0.0489358	loss_E:0.0301250
+Epoch  36	Iter   11	Loss_D:-0.0789573	Loss_G:0.0487056	loss_E:0.0305697
+Epoch  36	Iter   21	Loss_D:-0.0784549	Loss_G:0.0486443	loss_E:0.0301241
+Epoch  37	Iter    1	Loss_D:-0.0762787	Loss_G:0.0482525	loss_E:0.0283295
+Epoch  37	Iter   11	Loss_D:-0.0755331	Loss_G:0.0477679	loss_E:0.0280561
+Epoch  37	Iter   21	Loss_D:-0.0755805	Loss_G:0.0479341	loss_E:0.0279274
+Epoch  38	Iter    1	Loss_D:-0.0746127	Loss_G:0.0476113	loss_E:0.0273089
+Epoch  38	Iter   11	Loss_D:-0.0755116	Loss_G:0.0470670	loss_E:0.0287221
+Epoch  38	Iter   21	Loss_D:-0.0747103	Loss_G:0.0468901	loss_E:0.0281474
+Epoch  39	Iter    1	Loss_D:-0.0739771	Loss_G:0.0464779	loss_E:0.0278078
+Epoch  39	Iter   11	Loss_D:-0.0718830	Loss_G:0.0462248	loss_E:0.0259592
+Epoch  39	Iter   21	Loss_D:-0.0750119	Loss_G:0.0458317	loss_E:0.0294935
+Epoch  40	Iter    1	Loss_D:-0.0722850	Loss_G:0.0460283	loss_E:0.0265813
+Epoch  40	Iter   11	Loss_D:-0.0722570	Loss_G:0.0453960	loss_E:0.0271515
+Epoch  40	Iter   21	Loss_D:-0.0714189	Loss_G:0.0458641	loss_E:0.0258728
+Epoch  40	Loss_D_avg:-0.0803632	Loss_G_avg:0.0514840	loss_E_avg:0.0292912
+['robert', 'compression', 'oppose', 'marc', 'doug', 'compuserve', 'powerbook', 'finally', 'et', 'treatment', 'crash', 'north', 'favorite', 'alternative', 'art']
+['favorite', 'art', 'dump', 'grow', 'minute', 'harvard', 'scientific', 'colormap', 'wave', 'sp', 'surprise', 'pen', 'wish', 'adapter', 'small']
+['netter', 'richard', 'device', 'remark', 'pen', 'sp', 'hall', 'status', 'country', 'marc', 'favorite', 'select', 'smiley', 'reject', 'excuse']
+['steal', 'course', 'mount', 'kit', 'cancer', 'lib', 'manager', 'perfectly', 'yup', 'compression', 'frequency', 'boy', 'treatment', 'tire', 'angel']
+['jason', 'sp', 'richard', 'report', 'vs', 'protection', 'er', 'foreign', 'netter', 'recent', 'release', 'angel', 'la', 'perfectly', 'civil']
+['angel', 'president', 'majority', 'treatment', 'mount', 'existence', 'arm', 'parent', 'useful', 'church', 'favorite', 'occur', 'minute', 'connector', 'circuit']
+['resource', 'package', 'treatment', 'mount', 'jason', 'responsible', 'compuserve', 'willing', 'border', 'realize', 'manufacturer', 'sick', 'custom', 'choose', 'eisa']
+['sp', 'richard', 'pointer', 'certain', 'feustel', 'majority', 'panel', 'nec', 'contract', 'marc', 'batf', 'info', 'pop', 'protection', 'session']
+['hall', 'wish', 'compression', 'perfectly', 'dangerous', 'thread', 'course', 'frequency', 'yup', 'kit', 'translation', 'solve', 'la', 'suspect', 'electronic']
+['et', 'completely', 'resolution', 'favorite', 'race', 'package', 'tiff', 'complex', 'alternative', 'yup', 'convince', 'class', 'private', 'thinking', 'marc']
+['favorite', 'north', 'wish', 'draft', 'treatment', 'anti', 'majority', 'art', 'currently', 'church', 'credit', 'sp', 'marc', 'support', 'belief']
+['favorite', 'huge', 'smiley', 'majority', 'course', 'luck', 'trial', 'pen', 'humor', 'action', 'civil', 'ignorance', 'hot', 'compuserve', 'deletion']
+['appropriate', 'colormap', 'math', 'motorcycle', 'perfectly', 'majority', 'finish', 'treatment', 'vga', 'panel', 'excuse', 'chain', 'puck', 'arm', 'convince']
+['perfectly', 'resolution', 'teaching', 'netter', 'chain', 'engineer', 'california', 'church', 'hall', 'month', 'jack', 'bag', 'suspect', 'knowledge', 'marc']
+['eric', 'jump', 'frequency', 'smiley', 'drug', 'perfectly', 'flyer', 'convince', 'monitor', 'realize', 'et', 'hall', 'witness', 'release', 'thinking']
+['favorite', 'church', 'smiley', 'majority', 'palestinian', 'tiff', 'british', 'arrest', 'jack', 'jumper', 'promise', 'parent', 'chain', 'associate', 'tiger']
+['polygon', 'marc', 'majority', 'favorite', 'random', 'belong', 'hopefully', 'race', 'faq', 'doug', 'portable', 'north', 'contract', 'manufacture', 'electronic']
+['favorite', 'treatment', 'cub', 'harvard', 'colormap', 'smiley', 'ready', 'audio', 'boy', 'sp', 'wagon', 'angel', 'physician', 'belong', 'tony']
+['smiley', 'guide', 'chain', 'favorite', 'marc', 'electronic', 'doug', 'eisa', 'surprise', 'arm', 'jason', 'eric', 'north', 'vs', 'huge']
+['resource', 'cub', 'favorite', 'metal', 'demonstrate', 'et', 'angel', 'north', 'teaching', 'convince', 'hopefully', 'story', 'gee', 'scientific', 'terminal']
+['angel', 'math', 'pov', 'favorite', 'teaching', 'imply', 'movement', 'release', 'remark', 'foreign', 'richard', 'expansion', 'arm', 'colormap', 'chain']
+['smiley', 'scientific', 'resource', 'tune', 'exact', 'richard', 'majority', 'expensive', 'bird', 'existence', 'damage', 'hall', 'wish', 'benefit', 'excuse']
+['favorite', 'polygon', 'perfectly', 'solve', 'manufacture', 'treatment', 'excuse', 'minute', 'course', 'jay', 'civil', 'california', 'park', 'imply', 'important']
+['thread', 'marc', 'smiley', 'teaching', 'important', 'impressive', 'richard', 'kill', 'treatment', 'favorite', 'click', 'vs', 'interpretation', 'cut', 'church']
+['release', 'associate', 'small', 'wave', 'north', 'excuse', 'grow', 'french', 'oppose', 'panel', 'excellent', 'perfectly', 'frequency', 'eric', 'armenia']
+['course', 'jay', 'perfectly', 'colormap', 'tek', 'florida', 'belong', 'movie', 'boy', 'correctly', 'jumper', 'minute', 'arm', 'exe', 'gee']
+['perfectly', 'usually', 'small', 'ignorance', 'give', 'puck', 'favorite', 'thinking', 'smiley', 'richard', 'jumper', 'jason', 'normal', 'cancer', 'harvard']
+['favorite', 'fbi', 'majority', 'perfectly', 'teaching', 'church', 'richard', 'murder', 'compuserve', 'zone', 'fi', 'reading', 'mount', 'pov', 'small']
+['north', 'course', 'instance', 'marc', 'perfectly', 'favorite', 'belong', 'appropriate', 'responsibility', 'rate', 'equivalent', 'interpretation', 'contract', 'church', 'palestinian']
+['north', 'chain', 'contract', 'eric', 'art', 'fee', 'metal', 'jumper', 'jay', 'hall', 'audio', 'money', 'angel', 'favorite', 'property']
+['et', 'exe', 'planet', 'eric', 'course', 'converter', 'favorite', 'tek', 'jack', 'tiff', 'complete', 'powerbook', 'robert', 'gee', 'palestinian']
+['majority', 'resource', 'solve', 'benefit', 'church', 'compuserve', 'protection', 'dump', 'excuse', 'manufacturer', 'red', 'associate', 'belong', 'package', 'judge']
+['expansion', 'treatment', 'damage', 'huge', 'faq', 'trust', 'ignorance', 'te', 'favorite', 'jumper', 'netter', 'complete', 'guide', 'exe', 'lunar']
+['favorite', 'et', 'strange', 'completely', 'shell', 'mount', 'jay', 'injury', 'rock', 'motorcycle', 'pm', 'surprise', 'postscript', 'resolution', 'range']
+['palestinian', 'perfectly', 'chain', 'normal', 'smiley', 'angel', 'manufacture', 'wish', 'parent', 'teaching', 'majority', 'jack', 'armenia', 'benefit', 'adapter']
+['perfectly', 'jason', 'bird', 'treatment', 'smiley', 'jumper', 'adapter', 'resource', 'personally', 'eisa', 'advice', 'release', 'morality', 'voltage', 'majority']
+['course', 'netter', 'frequency', 'richard', 'armenian', 'et', 'school', 'ignorance', 'eisa', 'parent', 'audio', 'actual', 'alternative', 'battery', 'utility']
+['oppose', 'gee', 'jay', 'border', 'movement', 'panel', 'robert', 'boy', 'kit', 'art', 'actual', 'estimate', 'church', 'tire', 'watch']
+['north', 'et', 'netter', 'richard', 'majority', 'johnson', 'perfectly', 'tiff', 'ibm', 'contract', 'connector', 'oppose', 'marc', 'say', 'race']
+['favorite', 'math', 'church', 'desktop', 'challenge', 'thinking', 'instance', 'dump', 'certain', 'sp', 'richard', 'laser', 'jason', 'perfectly', 'frequency']
+['perfectly', 'belong', 'yup', 'watt', 'angel', 'chain', 'jump', 'alternative', 'contract', 'remark', 'et', 'colormap', 'race', 'course', 'philadelphia']
+['treatment', 'guide', 'et', 'resource', 'remark', 'small', 'existence', 'advice', 'ready', 'stupid', 'jay', 'favorite', 'disc', 'majority', 'planet']
+['netter', 'excuse', 'hopefully', 'pov', 'richard', 'w', 'race', 'team', 'pop', 'suspect', 'resource', 'exe', 'wire', 'wave', 'lie']
+['pov', 'ignorance', 'richard', 'jason', 'panel', 'smiley', 'release', 'robert', 'vs', 'impressive', 'boy', 'constitution', 'school', 'instance', 'faq']
+['planet', 'excuse', 'perfectly', 'teaching', 'important', 'course', 'explanation', 'er', 'xterm', 'british', 'audio', 'strange', 'argue', 'palestinian', 'converter']
+['anymore', 'challenge', 'contract', 'resource', 'probe', 'disagree', 'server', 'teaching', 'pov', 'hopefully', 'translation', 'brake', 'majority', 'course', 'protect']
+['eric', 'perfectly', 'wish', 'rate', 'netter', 'vs', 'favorite', 'scientific', 'warn', 'uk', 'hall', 'french', 'witness', 'et', 'yup']
+['responsibility', 'drug', 'favorite', 'instance', 'puck', 'role', 'et', 'resource', 'desktop', 'rate', 'perfectly', 'session', 'benefit', 'arm', 'certain']
+['boy', 'angel', 'hall', 'tiff', 'favorite', 'richard', 'jason', 'bet', 'experience', 'robert', 'say', 'contract', 'perfectly', 'palestinian', 'slightly']
+['resource', 'et', 'eisa', 'basic', 'perfectly', 'certain', 'small', 'hall', 'angel', 'panel', 'doug', 'thinking', 'red', 'powerbook', 'radar']
+['cold', 'parent', 'puck', 'frequency', 'et', 'seriously', 'portable', 'random', 'drug', 'colormap', 'treatment', 'convert', 'cut', 'chain', 'compression']
+['richard', 'planet', 'favorite', 'eisa', 'tire', 'hall', 'metal', 'resistance', 'battery', 'eric', 'perfectly', 'personally', 'smiley', 'netter', 'witness']
+['palestinian', 'frequency', 'mon', 'wish', 'compuserve', 'favorite', 'remember', 'useful', 'scientific', 'responsible', 'responsibility', 'significant', 'people', 'fbi', 'grow']
+['favorite', 'treatment', 'hall', 'translation', 'jack', 'majority', 'potential', 'north', 'smiley', 'desktop', 'jumper', 'batf', 'soviet', 'contract', 'display']
+['favorite', 'north', 'robert', 'perfectly', 'thinking', 'background', 'panel', 'rate', 'frequency', 'resource', 'arm', 'jumper', 'package', 'boy', 'generation']
+['perfectly', 'majority', 'arrest', 'month', 'richard', 'dangerous', 'et', 'utility', 'netter', 'disclaimer', 'george', 'release', 'realize', 'civil', 'alternative']
+['mount', 'appropriate', 'battery', 'course', 'frequency', 'responsibility', 'treatment', 'warn', 'session', 'smiley', 'willing', 'scientific', 'cub', 'teaching', 'nec']
+['hall', 'failure', 'oppose', 'favorite', 'colour', 'resource', 'tie', 'motorcycle', 'marc', 'et', 'surrender', 'angel', 'arm', 'remark', 'anymore']
+['netter', 'favorite', 'perfectly', 'marc', 'report', 'cut', 'irq', 'resource', 'majority', 'hopefully', 'jason', 'manufacture', 'netcom', 'teaching', 'zone']
+['favorite', 'surprise', 'marc', 'smiley', 'foreign', 'faq', 'oppose', 'angel', 'realize', 'robert', 'church', 'digital', 'firearm', 'thinking', 'chain']
+['excuse', 'say', 'church', 'colormap', 'favorite', 'treatment', 'remark', 'et', 'marc', 'dangerous', 'anonymous', 'mount', 'responsibility', 'gee', 'thinking']
+['treatment', 'pre', 'money', 'frequency', 'appropriate', 'surprise', 'compuserve', 'angel', 'chain', 'normal', 'smiley', 'xterm', 'responsibility', 'desktop', 'north']
+['hall', 'smiley', 'california', 'people', 'pov', 'sys', 'fee', 'angel', 'math', 'netter', 'pointer', 'race', 'protect', 'dan', 'perfectly']
+['smiley', 'thinking', 'perfectly', 'tie', 'steal', 'british', 'teaching', 'yup', 'useful', 'normal', 'gold', 'pack', 'estimate', 'treatment', 'tek']
+['jay', 'perfectly', 'alternative', 'private', 'draft', 'jason', 'normal', 'teaching', 'puck', 'kit', 'hopefully', 'experience', 'compression', 'realize', 'yup']
+['excuse', 'richard', 'hall', 'jay', 'netter', 'imply', 'treatment', 'harvard', 'convince', 'arrest', 'lib', 'basis', 'metal', 'majority', 'pre']
+['minute', 'release', 'pointer', 'team', 'compression', 'gee', 'cage', 'favorite', 'majority', 'murder', 'robert', 'chain', 'trust', 'key', 'church']
+['robert', 'math', 'perfectly', 'boy', 'favorite', 'mount', 'kit', 'movie', 'marc', 'piece', 'angel', 'tiff', 'protection', 'north', 'circuit']
+['treatment', 'radar', 'yup', 'useful', 'mil', 'constitution', 'perfectly', 'explanation', 'credit', 'pointer', 'small', 'puck', 'display', 'alternative', 'robert']
+['netter', 'resource', 'realize', 'perfectly', 'robert', 'chain', 'circuit', 'metal', 'richard', 'fi', 'angel', 'batf', 'armenian', 'protection', 'normal']
+['extremely', 'increase', 'tiff', 'robert', 'background', 'er', 'citizen', 'witness', 'angel', 'kit', 'favorite', 'eisa', 'xt', 'palestinian', 'treat']
+['frequency', 'physician', 'people', 'speech', 'curious', 'status', 'favorite', 'download', 'chain', 'quantum', 'resource', 'remark', 'multiple', 'content', 'palestinian']
+['boy', 'netter', 'disclaimer', 'compound', 'citizen', 'marc', 'reading', 'pop', 'anonymous', 'majority', 'civil', 'favorite', 'useful', 'jay', 'pt']
+['label', 'art', 'perfectly', 'excuse', 'release', 'north', 'private', 'colormap', 'puck', 'personally', 'armenia', 'small', 'tune', 'resource', 'metal']
+['pov', 'favorite', 'parent', 'compression', 'dan', 'la', 'richard', 'chain', 'er', 'drug', 'perfectly', 'thinking', 'cheer', 'sig', 'background']
+==============================
+topic diversity:0.2817777777777778
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4155971720141626, c_w2v:None, c_uci:-10.278713786114793, c_npmi:-0.36238143335128564
+mimno topic coherence:-295.56846310354103
+Epoch  41	Iter    1	Loss_D:-0.0736903	Loss_G:0.0452992	loss_E:0.0287172
+Epoch  41	Iter   11	Loss_D:-0.0711571	Loss_G:0.0445115	loss_E:0.0269756
+Epoch  41	Iter   21	Loss_D:-0.0694181	Loss_G:0.0448748	loss_E:0.0248576
+Epoch  42	Iter    1	Loss_D:-0.0690763	Loss_G:0.0445852	loss_E:0.0248318
+Epoch  42	Iter   11	Loss_D:-0.0698268	Loss_G:0.0445923	loss_E:0.0255753
+Epoch  42	Iter   21	Loss_D:-0.0708037	Loss_G:0.0446241	loss_E:0.0265287
+Epoch  43	Iter    1	Loss_D:-0.0689703	Loss_G:0.0445163	loss_E:0.0247591
+Epoch  43	Iter   11	Loss_D:-0.0698145	Loss_G:0.0442030	loss_E:0.0259392
+Epoch  43	Iter   21	Loss_D:-0.0672869	Loss_G:0.0437488	loss_E:0.0238926
+Epoch  44	Iter    1	Loss_D:-0.0673394	Loss_G:0.0435146	loss_E:0.0241447
+Epoch  44	Iter   11	Loss_D:-0.0676126	Loss_G:0.0432603	loss_E:0.0246855
+Epoch  44	Iter   21	Loss_D:-0.0670633	Loss_G:0.0434507	loss_E:0.0239501
+Epoch  45	Iter    1	Loss_D:-0.0653874	Loss_G:0.0427034	loss_E:0.0230159
+Epoch  45	Iter   11	Loss_D:-0.0658970	Loss_G:0.0431345	loss_E:0.0231031
+Epoch  45	Iter   21	Loss_D:-0.0653138	Loss_G:0.0427887	loss_E:0.0228725
+Epoch  46	Iter    1	Loss_D:-0.0641181	Loss_G:0.0422029	loss_E:0.0222655
+Epoch  46	Iter   11	Loss_D:-0.0666932	Loss_G:0.0418430	loss_E:0.0252009
+Epoch  46	Iter   21	Loss_D:-0.0644348	Loss_G:0.0425235	loss_E:0.0222826
+Epoch  47	Iter    1	Loss_D:-0.0655081	Loss_G:0.0418937	loss_E:0.0239465
+Epoch  47	Iter   11	Loss_D:-0.0637601	Loss_G:0.0404747	loss_E:0.0236379
+Epoch  47	Iter   21	Loss_D:-0.0637466	Loss_G:0.0415218	loss_E:0.0225746
+Epoch  48	Iter    1	Loss_D:-0.0634643	Loss_G:0.0409164	loss_E:0.0229076
+Epoch  48	Iter   11	Loss_D:-0.0627570	Loss_G:0.0407988	loss_E:0.0223184
+Epoch  48	Iter   21	Loss_D:-0.0625947	Loss_G:0.0408768	loss_E:0.0220889
+Epoch  49	Iter    1	Loss_D:-0.0618878	Loss_G:0.0401064	loss_E:0.0221391
+Epoch  49	Iter   11	Loss_D:-0.0615768	Loss_G:0.0404539	loss_E:0.0214745
+Epoch  49	Iter   21	Loss_D:-0.0589146	Loss_G:0.0400086	loss_E:0.0193230
+Epoch  50	Iter    1	Loss_D:-0.0605763	Loss_G:0.0392125	loss_E:0.0217239
+Epoch  50	Iter   11	Loss_D:-0.0592659	Loss_G:0.0392665	loss_E:0.0203572
+Epoch  50	Iter   21	Loss_D:-0.0583615	Loss_G:0.0397653	loss_E:0.0189870
+Epoch  50	Loss_D_avg:-0.0773993	Loss_G_avg:0.0496650	loss_E_avg:0.0281334
+['robert', 'oppose', 'compression', 'doug', 'marc', 'finally', 'compuserve', 'favorite', 'treatment', 'sys', 'crash', 'north', 'surprise', 'alternative', 'shaft']
+['favorite', 'art', 'grow', 'minute', 'pen', 'surprise', 'sp', 'wave', 'adapter', 'wish', 'small', 'boy', 'colormap', 'la', 'batf']
+['netter', 'pen', 'device', 'sp', 'favorite', 'richard', 'excuse', 'select', 'smiley', 'doug', 'country', 'land', 'west', 'audio', 'marc']
+['course', 'mount', 'steal', 'kit', 'lib', 'manager', 'yup', 'cancer', 'boy', 'tire', 'angel', 'treatment', 'favorite', 'palestinian', 'frequency']
+['sp', 'jason', 'vs', 'report', 'protection', 'recent', 'angel', 'release', 'la', 'favorite', 'civil', 'doug', 'netter', 'account', 'richard']
+['angel', 'president', 'majority', 'mount', 'treatment', 'arm', 'existence', 'favorite', 'useful', 'parent', 'church', 'minute', 'occur', 'circuit', 'faq']
+['resource', 'package', 'treatment', 'mount', 'jason', 'realize', 'compuserve', 'sick', 'willing', 'eisa', 'choose', 'arm', 'kit', 'exact', 'border']
+['sp', 'pointer', 'certain', 'richard', 'panel', 'feustel', 'majority', 'batf', 'nec', 'protection', 'info', 'pop', 'kit', 'trust', 'marc']
+['wish', 'course', 'thread', 'yup', 'compression', 'kit', 'dangerous', 'frequency', 'robert', 'la', 'electronic', 'doug', 'suspect', 'arm', 'jason']
+['completely', 'favorite', 'package', 'race', 'yup', 'et', 'alternative', 'thinking', 'private', 'convince', 'class', 'belief', 'certain', 'eisa', 'resolution']
+['favorite', 'north', 'wish', 'treatment', 'anti', 'majority', 'church', 'currently', 'sp', 'art', 'belief', 'la', 'support', 'doug', 'marc']
+['favorite', 'smiley', 'course', 'majority', 'pen', 'luck', 'action', 'trial', 'ignorance', 'doug', 'excuse', 'hot', 'civil', 'normal', 'protection']
+['appropriate', 'math', 'motorcycle', 'excuse', 'finish', 'treatment', 'panel', 'colormap', 'majority', 'vga', 'favorite', 'arm', 'simms', 'exe', 'convince']
+['perfectly', 'california', 'engineer', 'church', 'netter', 'month', 'jack', 'resolution', 'suspect', 'knowledge', 'give', 'thread', 'smiley', 'cub', 'wave']
+['eric', 'smiley', 'drug', 'jump', 'frequency', 'flyer', 'realize', 'monitor', 'convince', 'thinking', 'release', 'angel', 'witness', 'freedom', 'gordon']
+['favorite', 'church', 'smiley', 'palestinian', 'majority', 'promise', 'jumper', 'jack', 'arrest', 'parent', 'mother', 'eisa', 'arm', 'associate', 'irq']
+['favorite', 'polygon', 'marc', 'majority', 'doug', 'faq', 'race', 'belong', 'north', 'portable', 'hopefully', 'random', 'electronic', 'arm', 'recent']
+['favorite', 'treatment', 'cub', 'smiley', 'audio', 'tony', 'colormap', 'angel', 'ready', 'boy', 'sp', 'excuse', 'wagon', 'package', 'belong']
+['smiley', 'favorite', 'guide', 'doug', 'electronic', 'eisa', 'surprise', 'marc', 'eric', 'north', 'arm', 'vs', 'yup', 'jason', 'cold']
+['resource', 'favorite', 'cub', 'angel', 'north', 'story', 'hopefully', 'convince', 'terminal', 'excuse', 'argue', 'actual', 'majority', 'gee', 'jumper']
+['angel', 'math', 'favorite', 'imply', 'release', 'arm', 'yup', 'pov', 'exe', 'church', 'north', 'fee', 'robert', 'president', 'colormap']
+['smiley', 'resource', 'expensive', 'exact', 'excuse', 'majority', 'damage', 'wish', 'existence', 'engineering', 'dan', 'keith', 'battery', 'level', 'favorite']
+['favorite', 'excuse', 'polygon', 'minute', 'treatment', 'course', 'california', 'park', 'civil', 'robert', 'imply', 'vs', 'race', 'important', 'north']
+['thread', 'smiley', 'important', 'marc', 'favorite', 'treatment', 'vs', 'kill', 'church', 'tire', 'cut', 'lord', 'finally', 'pointer', 'people']
+['release', 'small', 'excuse', 'grow', 'wave', 'north', 'associate', 'panel', 'oppose', 'excellent', 'eric', 'jumper', 'palestinian', 'frequency', 'finish']
+['course', 'colormap', 'boy', 'belong', 'jumper', 'exe', 'movie', 'minute', 'arm', 'north', 'correctly', 'jay', 'select', 'normal', 'sick']
+['ignorance', 'small', 'usually', 'favorite', 'give', 'thinking', 'smiley', 'jumper', 'normal', 'jason', 'palestinian', 'excuse', 'release', 'eisa', 'pass']
+['favorite', 'fbi', 'majority', 'church', 'murder', 'mount', 'minute', 'realize', 'small', 'compuserve', 'angel', 'knowledge', 'la', 'wish', 'dr']
+['north', 'course', 'favorite', 'marc', 'belong', 'rate', 'appropriate', 'palestinian', 'angel', 'church', 'respond', 'race', 'certain', 'interpretation', 'support']
+['north', 'eric', 'jumper', 'favorite', 'audio', 'fee', 'art', 'angel', 'money', 'course', 'ignorance', 'chain', 'algorithm', 'doug', 'package']
+['exe', 'eric', 'course', 'favorite', 'jack', 'complete', 'converter', 'robert', 'palestinian', 'describe', 'certain', 'ignorance', 'actual', 'gee', 'angel']
+['resource', 'majority', 'church', 'protection', 'excuse', 'compuserve', 'package', 'red', 'release', 'tire', 'benefit', 'belong', 'lib', 'judge', 'claim']
+['treatment', 'damage', 'expansion', 'ignorance', 'faq', 'favorite', 'trust', 'jumper', 'exe', 'personally', 'complete', 'guide', 'mount', 'arm', 'surprise']
+['favorite', 'completely', 'shell', 'mount', 'motorcycle', 'injury', 'surprise', 'range', 'postscript', 'recent', 'money', 'wish', 'plane', 'panel', 'vesa']
+['palestinian', 'normal', 'smiley', 'angel', 'wish', 'radar', 'perfectly', 'parent', 'jack', 'adapter', 'chain', 'majority', 'race', 'jason', 'argue']
+['jason', 'treatment', 'jumper', 'smiley', 'adapter', 'resource', 'personally', 'eisa', 'advice', 'release', 'perfectly', 'bird', 'angel', 'morality', 'north']
+['course', 'frequency', 'netter', 'armenian', 'ignorance', 'school', 'eisa', 'audio', 'alternative', 'actual', 'parent', 'battery', 'morality', 'utility', 'shaft']
+['oppose', 'gee', 'robert', 'kit', 'panel', 'boy', 'favorite', 'tire', 'border', 'church', 'actual', 'fbi', 'watch', 'north', 'faq']
+['north', 'majority', 'ibm', 'netter', 'mother', 'connector', 'race', 'doug', 'jason', 'oppose', 'say', 'resource', 'la', 'excuse', 'mount']
+['favorite', 'math', 'desktop', 'thinking', 'church', 'certain', 'sp', 'laser', 'jason', 'mount', 'connector', 'firearm', 'yup', 'jumper', 'small']
+['yup', 'belong', 'angel', 'alternative', 'perfectly', 'favorite', 'course', 'race', 'jump', 'complete', 'colormap', 'fool', 'doug', 'watt', 'boy']
+['treatment', 'resource', 'guide', 'small', 'existence', 'advice', 'favorite', 'stupid', 'ready', 'quadra', 'norton', 'majority', 'murder', 'mount', 'willing']
+['netter', 'excuse', 'hopefully', 'race', 'w', 'exe', 'team', 'resource', 'pop', 'wave', 'doug', 'suspect', 'finally', 'wire', 'private']
+['ignorance', 'panel', 'jason', 'smiley', 'release', 'robert', 'vs', 'pov', 'boy', 'faq', 'school', 'church', 'richard', 'netcom', 'eric']
+['excuse', 'course', 'important', 'audio', 'palestinian', 'xterm', 'tire', 'argue', 'smiley', 'resource', 'circuit', 'majority', 'sp', 'panel', 'shaft']
+['resource', 'disagree', 'course', 'server', 'ass', 'smiley', 'grow', 'arm', 'protect', 'okay', 'majority', 'hopefully', 'probe', 'useful', 'president']
+['eric', 'wish', 'rate', 'favorite', 'netter', 'vs', 'uk', 'yup', 'perfectly', 'robert', 'witness', 'surprise', 'minute', 'expensive', 'jason']
+['favorite', 'drug', 'resource', 'desktop', 'rate', 'arm', 'certain', 'claim', 'responsibility', 'connector', 'simms', 'pen', 'oppose', 'turkey', 'useful']
+['boy', 'angel', 'favorite', 'bet', 'jason', 'robert', 'palestinian', 'experience', 'president', 'treatment', 'sys', 'say', 'religious', 'tiff', 'mirror']
+['resource', 'eisa', 'basic', 'certain', 'small', 'angel', 'doug', 'panel', 'thinking', 'radar', 'colour', 'favorite', 'red', 'robert', 'circuit']
+['cold', 'parent', 'portable', 'seriously', 'frequency', 'treatment', 'drug', 'kit', 'cut', 'imply', 'belong', 'puck', 'palestinian', 'serial', 'convert']
+['favorite', 'eisa', 'tire', 'richard', 'battery', 'eric', 'personally', 'smiley', 'witness', 'story', 'panel', 'portable', 'planet', 'mark', 'north']
+['palestinian', 'frequency', 'favorite', 'wish', 'remember', 'compuserve', 'useful', 'grow', 'people', 'resource', 'fbi', 'protection', 'north', 'realize', 'adapter']
+['favorite', 'treatment', 'jack', 'north', 'jumper', 'smiley', 'desktop', 'majority', 'batf', 'eisa', 'translation', 'display', 'section', 'jason', 'cub']
+['favorite', 'thinking', 'robert', 'north', 'panel', 'resource', 'rate', 'jumper', 'arm', 'background', 'boy', 'package', 'adapter', 'frequency', 'exe']
+['majority', 'arrest', 'perfectly', 'month', 'utility', 'george', 'release', 'realize', 'favorite', 'motorcycle', 'treatment', 'alternative', 'shaft', 'civil', 'faq']
+['mount', 'course', 'battery', 'appropriate', 'treatment', 'smiley', 'willing', 'cub', 'frequency', 'stupid', 'doug', 'nec', 'ignorance', 'sp', 'recent']
+['favorite', 'oppose', 'colour', 'resource', 'motorcycle', 'angel', 'arm', 'surrender', 'tie', 'jumper', 'desktop', 'smiley', 'treatment', 'marc', 'month']
+['favorite', 'netter', 'report', 'marc', 'resource', 'cut', 'majority', 'excuse', 'irq', 'hopefully', 'jason', 'intel', 'thinking', 'realize', 'germany']
+['favorite', 'surprise', 'smiley', 'faq', 'angel', 'realize', 'robert', 'marc', 'oppose', 'church', 'firearm', 'thinking', 'digital', 'sp', 'story']
+['excuse', 'favorite', 'church', 'say', 'treatment', 'mount', 'colormap', 'thinking', 'anonymous', 'protection', 'marc', 'doug', 'bet', 'angel', 'dangerous']
+['treatment', 'money', 'surprise', 'angel', 'smiley', 'normal', 'frequency', 'appropriate', 'pre', 'compuserve', 'xterm', 'favorite', 'north', 'desktop', 'mount']
+['smiley', 'california', 'people', 'sys', 'angel', 'fee', 'math', 'pointer', 'favorite', 'race', 'vs', 'protect', 'north', 'dan', 'shift']
+['smiley', 'thinking', 'yup', 'steal', 'normal', 'useful', 'tie', 'treatment', 'pitch', 'mount', 'small', 'boy', 'film', 'course', 'kit']
+['alternative', 'jay', 'private', 'kit', 'jason', 'yup', 'normal', 'realize', 'doug', 'mount', 'robert', 'batf', 'panel', 'experience', 'existence']
+['excuse', 'imply', 'treatment', 'lib', 'richard', 'netter', 'arrest', 'convince', 'mount', 'la', 'majority', 'basis', 'cub', 'parent', 'angel']
+['minute', 'release', 'pointer', 'team', 'favorite', 'robert', 'majority', 'murder', 'gee', 'excuse', 'church', 'compression', 'trust', 'exact', 'key']
+['robert', 'math', 'boy', 'favorite', 'kit', 'angel', 'mount', 'piece', 'shift', 'protection', 'north', 'movie', 'resource', 'basic', 'circuit']
+['treatment', 'radar', 'yup', 'useful', 'pointer', 'small', 'excuse', 'robert', 'favorite', 'alternative', 'display', 'park', 'fee', 'school', 'eric']
+['resource', 'realize', 'netter', 'robert', 'circuit', 'angel', 'protection', 'batf', 'armenian', 'cold', 'normal', 'shift', 'useful', 'pull', 'copyright']
+['robert', 'increase', 'angel', 'kit', 'favorite', 'citizen', 'witness', 'palestinian', 'eisa', 'background', 'huh', 'treat', 'treatment', 'mount', 'cub']
+['frequency', 'favorite', 'people', 'curious', 'resource', 'palestinian', 'huh', 'download', 'yup', 'race', 'select', 'wish', 'firearm', 'course', 'faq']
+['boy', 'netter', 'favorite', 'citizen', 'disclaimer', 'compound', 'pop', 'useful', 'majority', 'marc', 'civil', 'protection', 'anonymous', 'luck', 'portable']
+['label', 'excuse', 'north', 'private', 'release', 'art', 'personally', 'resource', 'small', 'favorite', 'alternative', 'angel', 'support', 'colormap', 'obtain']
+['favorite', 'parent', 'dan', 'la', 'sig', 'thinking', 'compression', 'pov', 'drug', 'cheer', 'smiley', 'personally', 'angel', 'pop', 'algorithm']
+==============================
+topic diversity:0.24533333333333332
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3934650395496706, c_w2v:None, c_uci:-9.770324725885748, c_npmi:-0.34390074593273656
+mimno topic coherence:-317.91015261359405
+Epoch  51	Iter    1	Loss_D:-0.0589055	Loss_G:0.0383257	loss_E:0.0209372
+Epoch  51	Iter   11	Loss_D:-0.0572302	Loss_G:0.0380013	loss_E:0.0195774
+Epoch  51	Iter   21	Loss_D:-0.0574352	Loss_G:0.0382758	loss_E:0.0195378
+Epoch  52	Iter    1	Loss_D:-0.0560076	Loss_G:0.0382695	loss_E:0.0181462
+Epoch  52	Iter   11	Loss_D:-0.0569568	Loss_G:0.0386565	loss_E:0.0186745
+Epoch  52	Iter   21	Loss_D:-0.0569502	Loss_G:0.0384586	loss_E:0.0188958
+Epoch  53	Iter    1	Loss_D:-0.0557845	Loss_G:0.0375929	loss_E:0.0185811
+Epoch  53	Iter   11	Loss_D:-0.0552233	Loss_G:0.0376847	loss_E:0.0179205
+Epoch  53	Iter   21	Loss_D:-0.0547903	Loss_G:0.0378125	loss_E:0.0173529
+Epoch  54	Iter    1	Loss_D:-0.0550975	Loss_G:0.0367027	loss_E:0.0187743
+Epoch  54	Iter   11	Loss_D:-0.0544002	Loss_G:0.0373469	loss_E:0.0174530
+Epoch  54	Iter   21	Loss_D:-0.0508438	Loss_G:0.0370553	loss_E:0.0141823
+Epoch  55	Iter    1	Loss_D:-0.0541876	Loss_G:0.0366487	loss_E:0.0179010
+Epoch  55	Iter   11	Loss_D:-0.0519832	Loss_G:0.0367711	loss_E:0.0155910
+Epoch  55	Iter   21	Loss_D:-0.0536726	Loss_G:0.0364922	loss_E:0.0175614
+Epoch  56	Iter    1	Loss_D:-0.0501172	Loss_G:0.0354612	loss_E:0.0150622
+Epoch  56	Iter   11	Loss_D:-0.0507076	Loss_G:0.0362903	loss_E:0.0148165
+Epoch  56	Iter   21	Loss_D:-0.0515112	Loss_G:0.0363268	loss_E:0.0156014
+Epoch  57	Iter    1	Loss_D:-0.0514535	Loss_G:0.0361794	loss_E:0.0156944
+Epoch  57	Iter   11	Loss_D:-0.0485150	Loss_G:0.0364444	loss_E:0.0124457
+Epoch  57	Iter   21	Loss_D:-0.0481546	Loss_G:0.0354161	loss_E:0.0131613
+Epoch  58	Iter    1	Loss_D:-0.0487418	Loss_G:0.0355136	loss_E:0.0136234
+Epoch  58	Iter   11	Loss_D:-0.0486063	Loss_G:0.0357411	loss_E:0.0132580
+Epoch  58	Iter   21	Loss_D:-0.0474148	Loss_G:0.0359477	loss_E:0.0118756
+Epoch  59	Iter    1	Loss_D:-0.0478751	Loss_G:0.0351646	loss_E:0.0131444
+Epoch  59	Iter   11	Loss_D:-0.0482690	Loss_G:0.0345034	loss_E:0.0142047
+Epoch  59	Iter   21	Loss_D:-0.0474204	Loss_G:0.0351647	loss_E:0.0126517
+Epoch  60	Iter    1	Loss_D:-0.0473810	Loss_G:0.0343222	loss_E:0.0134871
+Epoch  60	Iter   11	Loss_D:-0.0467478	Loss_G:0.0349633	loss_E:0.0122589
+Epoch  60	Iter   21	Loss_D:-0.0460388	Loss_G:0.0344221	loss_E:0.0120388
+Epoch  60	Loss_D_avg:-0.0731573	Loss_G_avg:0.0474762	loss_E_avg:0.0260802
+['robert', 'doug', 'finally', 'crash', 'shaft', 'increase', 'hand', 'favorite', 'faq', 'wish', 'sys', 'surprise', 'jumper', 'arm', 'obtain']
+['favorite', 'pen', 'minute', 'art', 'grow', 'wish', 'small', 'course', 'motorcycle', 'warrant', 'excuse', 'say', 'tony', 'freedom', 'surprise']
+['pen', 'device', 'excuse', 'country', 'land', 'doug', 'west', 'audio', 'attack', 'guess', 'favorite', 'pitch', 'resource', 'ford', 'private']
+['course', 'steal', 'manager', 'tire', 'mount', 'belief', 'church', 'boy', 'pointer', 'kit', 'excuse', 'level', 'completely', 'class', 'lib']
+['vs', 'report', 'recent', 'release', 'belief', 'la', 'account', 'thinking', 'easily', 'course', 'doug', 'faq', 'minute', 'radar', 'pointer']
+['president', 'useful', 'church', 'minute', 'faq', 'arm', 'circuit', 'mount', 'occur', 'modem', 'favorite', 'personally', 'armenian', 'display', 'mother']
+['resource', 'package', 'realize', 'mount', 'willing', 'choose', 'pen', 'ide', 'stupid', 'story', 'treatment', 'money', 'course', 'serial', 'exact']
+['pointer', 'certain', 'info', 'faq', 'trust', 'important', 'thread', 'package', 'church', 'motorcycle', 'crash', 'care', 'simms', 'pitch', 'tire']
+['wish', 'course', 'thread', 'robert', 'electronic', 'pointer', 'la', 'appreciate', 'doug', 'respond', 'final', 'finally', 'slot', 'luck', 'arm']
+['completely', 'package', 'thinking', 'belief', 'favorite', 'private', 'certain', 'class', 'money', 'luck', 'hand', 'race', 'question', 'mother', 'key']
+['wish', 'favorite', 'anti', 'church', 'currently', 'belief', 'support', 'north', 'faq', 'course', 'la', 'doug', 'normal', 'claim', 'recent']
+['course', 'pen', 'favorite', 'luck', 'action', 'excuse', 'trial', 'normal', 'hot', 'access', 'support', 'develop', 'doug', 'serial', 'small']
+['excuse', 'motorcycle', 'finish', 'simms', 'vga', 'small', 'president', 'eric', 'land', 'private', 'math', 'quadra', 'arm', 'period', 'resource']
+['month', 'church', 'give', 'course', 'thread', 'knowledge', 'cub', 'california', 'shall', 'suspect', 'useful', 'curious', 'robert', 'imply', 'signal']
+['eric', 'drug', 'realize', 'monitor', 'thinking', 'release', 'freedom', 'gordon', 'objective', 'robert', 'shall', 'mb', 'wish', 'say', 'package']
+['church', 'favorite', 'palestinian', 'jumper', 'mother', 'promise', 'minute', 'excuse', 'story', 'seriously', 'pointer', 'release', 'circuit', 'cut', 'normal']
+['faq', 'doug', 'electronic', 'favorite', 'vs', 'recent', 'course', 'completely', 'utility', 'realize', 'race', 'arm', 'treat', 'money', 'range']
+['cub', 'favorite', 'audio', 'tony', 'excuse', 'package', 'certain', 'short', 'expensive', 'private', 'boy', 'church', 'fbi', 'course', 'processor']
+['electronic', 'guide', 'eric', 'doug', 'smiley', 'favorite', 'vs', 'realize', 'pass', 'excuse', 'wire', 'personally', 'cheer', 'increase', 'main']
+['resource', 'cub', 'favorite', 'story', 'excuse', 'release', 'remember', 'surrender', 'circuit', 'terminal', 'jumper', 'finish', 'simms', 'realize', 'expensive']
+['imply', 'release', 'favorite', 'math', 'church', 'president', 'robert', 'shall', 'arm', 'apple', 'excuse', 'leave', 'angel', 'unit', 'talk']
+['resource', 'excuse', 'expensive', 'wish', 'exact', 'battery', 'smiley', 'level', 'damage', 'money', 'release', 'okay', 'personally', 'experience', 'jumper']
+['favorite', 'excuse', 'minute', 'course', 'imply', 'vs', 'robert', 'apple', 'important', 'park', 'finish', 'excellent', 'increase', 'thinking', 'protect']
+['thread', 'important', 'vs', 'kill', 'tire', 'church', 'pointer', 'cut', 'people', 'favorite', 'circuit', 'lord', 'finally', 'robert', 'access']
+['excuse', 'release', 'small', 'excellent', 'eric', 'wave', 'grow', 'finish', 'manager', 'jumper', 'robert', 'tire', 'realize', 'follow', 'land']
+['course', 'minute', 'boy', 'jumper', 'normal', 'algorithm', 'drug', 'increase', 'excuse', 'resource', 'thread', 'arm', 'thinking', 'package', 'tire']
+['small', 'usually', 'give', 'thinking', 'excuse', 'normal', 'release', 'jumper', 'favorite', 'pass', 'tire', 'freedom', 'story', 'sport', 'course']
+['favorite', 'fbi', 'church', 'minute', 'realize', 'small', 'faq', 'belief', 'wish', 'knowledge', 'president', 'murder', 'useful', 'advice', 'motorcycle']
+['course', 'favorite', 'rate', 'church', 'respond', 'certain', 'realize', 'resource', 'north', 'support', 'claim', 'battery', 'cheer', 'robert', 'connection']
+['eric', 'jumper', 'audio', 'money', 'course', 'algorithm', 'package', 'release', 'minute', 'period', 'favorite', 'pull', 'red', 'willing', 'doug']
+['course', 'eric', 'complete', 'robert', 'exe', 'favorite', 'certain', 'describe', 'wish', 'personally', 'anybody', 'increase', 'belief', 'palestinian', 'object']
+['resource', 'church', 'excuse', 'package', 'tire', 'red', 'release', 'course', 'claim', 'judge', 'complete', 'develop', 'pen', 'cross', 'thinking']
+['faq', 'damage', 'trust', 'personally', 'complete', 'jumper', 'school', 'treatment', 'church', 'resource', 'simms', 'algorithm', 'favorite', 'circuit', 'guide']
+['favorite', 'completely', 'motorcycle', 'shell', 'money', 'recent', 'wish', 'range', 'mount', 'excuse', 'slot', 'thread', 'surprise', 'plane', 'cheer']
+['palestinian', 'normal', 'wish', 'radar', 'imply', 'disease', 'pen', 'device', 'read', 'red', 'access', 'course', 'design', 'adapter', 'religious']
+['jumper', 'resource', 'personally', 'advice', 'release', 'audio', 'adapter', 'section', 'definition', 'important', 'excuse', 'faq', 'voltage', 'wish', 'treatment']
+['course', 'armenian', 'school', 'audio', 'battery', 'utility', 'controller', 'bet', 'shaft', 'monitor', 'morality', 'claim', 'respond', 'turbo', 'manager']
+['tire', 'robert', 'church', 'faq', 'president', 'fbi', 'watch', 'course', 'school', 'boy', 'cub', 'suggest', 'favorite', 'driver', 'citizen']
+['ibm', 'mother', 'excuse', 'say', 'resource', 'advice', 'doug', 'give', 'luck', 'eric', 'imply', 'money', 'la', 'thread', 'range']
+['favorite', 'thinking', 'church', 'certain', 'small', 'laser', 'math', 'desktop', 'pointer', 'school', 'steal', 'imply', 'jumper', 'firearm', 'faq']
+['course', 'complete', 'yup', 'certain', 'doug', 'church', 'favorite', 'say', 'small', 'fool', 'port', 'boy', 'private', 'alternative', 'account']
+['treatment', 'resource', 'small', 'guide', 'advice', 'stupid', 'quadra', 'willing', 'useful', 'favorite', 'luck', 'trust', 'religious', 'release', 'apple']
+['excuse', 'team', 'w', 'resource', 'bet', 'finally', 'wire', 'lie', 'private', 'wish', 'doug', 'course', 'appreciate', 'robert', 'small']
+['release', 'robert', 'faq', 'vs', 'school', 'church', 'boy', 'small', 'course', 'eric', 'thinking', 'panel', 'printer', 'tire', 'uk']
+['excuse', 'course', 'important', 'tire', 'xterm', 'audio', 'circuit', 'resource', 'faq', 'small', 'palestinian', 'shaft', 'button', 'algorithm', 'motorcycle']
+['resource', 'course', 'okay', 'server', 'president', 'protect', 'useful', 'arm', 'curious', 'simms', 'grow', 'ass', 'manager', 'exact', 'equipment']
+['wish', 'eric', 'rate', 'vs', 'uk', 'robert', 'minute', 'expensive', 'excuse', 'pointer', 'favorite', 'recent', 'section', 'require', 'resource']
+['drug', 'favorite', 'resource', 'rate', 'certain', 'claim', 'pen', 'simms', 'useful', 'arm', 'thinking', 'bio', 'action', 'learn', 'president']
+['boy', 'bet', 'favorite', 'president', 'robert', 'experience', 'say', 'religious', 'tire', 'manager', 'excuse', 'thinking', 'display', 'palestinian', 'mb']
+['resource', 'certain', 'small', 'thinking', 'basic', 'robert', 'doug', 'realize', 'circuit', 'red', 'radar', 'bet', 'faq', 'course', 'people']
+['cold', 'seriously', 'drug', 'serial', 'cut', 'imply', 'convert', 'small', 'pen', 'excuse', 'question', 'surrender', 'circuit', 'minute', 'pointer']
+['tire', 'favorite', 'battery', 'eric', 'personally', 'story', 'eisa', 'mark', 'thread', 'trust', 'ago', 'faq', 'curious', 'robert', 'huh']
+['palestinian', 'wish', 'remember', 'useful', 'favorite', 'people', 'realize', 'resource', 'fbi', 'course', 'certain', 'willing', 'school', 'motorcycle', 'blue']
+['favorite', 'jumper', 'treatment', 'display', 'usually', 'cub', 'small', 'section', 'defense', 'give', 'course', 'resource', 'team', 'certain', 'suggest']
+['favorite', 'thinking', 'robert', 'resource', 'rate', 'package', 'jumper', 'warrant', 'faq', 'manager', 'circuit', 'arm', 'boy', 'course', 'realize']
+['month', 'utility', 'release', 'realize', 'motorcycle', 'faq', 'apple', 'algorithm', 'shaft', 'battery', 'land', 'key', 'pointer', 'view', 'increase']
+['course', 'battery', 'mount', 'willing', 'cub', 'stupid', 'pen', 'recent', 'doug', 'pointer', 'resource', 'minute', 'normal', 'clear', 'display']
+['resource', 'motorcycle', 'favorite', 'surrender', 'colour', 'month', 'jumper', 'freedom', 'arm', 'ide', 'audio', 'package', 'pay', 'completely', 'business']
+['favorite', 'report', 'resource', 'cut', 'excuse', 'thinking', 'realize', 'intel', 'certain', 'fault', 'germany', 'imply', 'occur', 'object', 'jumper']
+['favorite', 'faq', 'surprise', 'realize', 'robert', 'thinking', 'church', 'digital', 'story', 'firearm', 'serial', 'pointer', 'cut', 'tax', 'instead']
+['excuse', 'church', 'say', 'thinking', 'favorite', 'bet', 'display', 'give', 'eric', 'minute', 'doug', 'story', 'seriously', 'access', 'audio']
+['money', 'normal', 'xterm', 'surprise', 'processor', 'wish', 'treatment', 'fbi', 'favorite', 'surrender', 'release', 'minute', 'mount', 'course', 'desktop']
+['people', 'pointer', 'california', 'sys', 'vs', 'fault', 'protect', 'thinking', 'release', 'smiley', 'ide', 'detail', 'package', 'favorite', 'math']
+['thinking', 'steal', 'normal', 'useful', 'pitch', 'course', 'small', 'smiley', 'tire', 'german', 'give', 'pointer', 'boy', 'recent', 'ranger']
+['private', 'realize', 'normal', 'robert', 'simms', 'alternative', 'experience', 'tax', 'doug', 'course', 'belief', 'monitor', 'sport', 'tire', 'algorithm']
+['excuse', 'imply', 'say', 'purchase', 'cub', 'fine', 'tire', 'la', 'basis', 'land', 'controller', 'resource', 'object', 'church', 'robert']
+['minute', 'release', 'pointer', 'team', 'robert', 'excuse', 'church', 'trust', 'key', 'thinking', 'favorite', 'advice', 'murder', 'imagine', 'pitch']
+['robert', 'boy', 'resource', 'circuit', 'math', 'complete', 'cheer', 'eric', 'money', 'favorite', 'lord', 'church', 'shift', 'thread', 'ide']
+['radar', 'useful', 'pointer', 'small', 'excuse', 'robert', 'school', 'yup', 'treatment', 'display', 'cub', 'attack', 'warrant', 'eric', 'finally']
+['resource', 'realize', 'robert', 'circuit', 'armenian', 'normal', 'course', 'useful', 'detail', 'pull', 'faq', 'friend', 'ago', 'cold', 'finish']
+['robert', 'increase', 'citizen', 'huh', 'cub', 'treat', 'red', 'thread', 'story', 'belief', 'favorite', 'gun', 'money', 'cheer', 'president']
+['people', 'curious', 'huh', 'resource', 'faq', 'course', 'wish', 'favorite', 'personally', 'thinking', 'robert', 'circuit', 'release', 'cross', 'wife']
+['boy', 'citizen', 'useful', 'simms', 'luck', 'pen', 'red', 'complete', 'favorite', 'access', 'thinking', 'signal', 'shall', 'eric', 'robert']
+['excuse', 'release', 'private', 'small', 'personally', 'resource', 'support', 'okay', 'access', 'monitor', 'simms', 'art', 'crash', 'audio', 'mb']
+['thinking', 'favorite', 'cheer', 'drug', 'la', 'personally', 'algorithm', 'dan', 'church', 'increase', 'president', 'circuit', 'belief', 'mode', 'possible']
+==============================
+topic diversity:0.22755555555555557
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.300433261561153, c_w2v:None, c_uci:-7.491099183456631, c_npmi:-0.2628847177695019
+mimno topic coherence:-299.39147929627495
+Epoch  61	Iter    1	Loss_D:-0.0440520	Loss_G:0.0348307	loss_E:0.0096359
+Epoch  61	Iter   11	Loss_D:-0.0451993	Loss_G:0.0345119	loss_E:0.0111066
+Epoch  61	Iter   21	Loss_D:-0.0448444	Loss_G:0.0344031	loss_E:0.0108661
+Epoch  62	Iter    1	Loss_D:-0.0424876	Loss_G:0.0337468	loss_E:0.0091683
+Epoch  62	Iter   11	Loss_D:-0.0428702	Loss_G:0.0333973	loss_E:0.0098913
+Epoch  62	Iter   21	Loss_D:-0.0432921	Loss_G:0.0345142	loss_E:0.0092405
+Epoch  63	Iter    1	Loss_D:-0.0440117	Loss_G:0.0335994	loss_E:0.0108719
+Epoch  63	Iter   11	Loss_D:-0.0425838	Loss_G:0.0335882	loss_E:0.0094376
+Epoch  63	Iter   21	Loss_D:-0.0420663	Loss_G:0.0337789	loss_E:0.0087222
+Epoch  64	Iter    1	Loss_D:-0.0415934	Loss_G:0.0331249	loss_E:0.0089393
+Epoch  64	Iter   11	Loss_D:-0.0427385	Loss_G:0.0334330	loss_E:0.0097343
+Epoch  64	Iter   21	Loss_D:-0.0413470	Loss_G:0.0339127	loss_E:0.0078437
+Epoch  65	Iter    1	Loss_D:-0.0407214	Loss_G:0.0327205	loss_E:0.0084483
+Epoch  65	Iter   11	Loss_D:-0.0405140	Loss_G:0.0331541	loss_E:0.0078047
+Epoch  65	Iter   21	Loss_D:-0.0409809	Loss_G:0.0328401	loss_E:0.0085823
+Epoch  66	Iter    1	Loss_D:-0.0404332	Loss_G:0.0323784	loss_E:0.0085429
+Epoch  66	Iter   11	Loss_D:-0.0396623	Loss_G:0.0332490	loss_E:0.0068601
+Epoch  66	Iter   21	Loss_D:-0.0374764	Loss_G:0.0324124	loss_E:0.0055330
+Epoch  67	Iter    1	Loss_D:-0.0382005	Loss_G:0.0323210	loss_E:0.0063692
+Epoch  67	Iter   11	Loss_D:-0.0379224	Loss_G:0.0328679	loss_E:0.0054835
+Epoch  67	Iter   21	Loss_D:-0.0379767	Loss_G:0.0332457	loss_E:0.0052514
+Epoch  68	Iter    1	Loss_D:-0.0391219	Loss_G:0.0322519	loss_E:0.0073499
+Epoch  68	Iter   11	Loss_D:-0.0369097	Loss_G:0.0328049	loss_E:0.0045663
+Epoch  68	Iter   21	Loss_D:-0.0358291	Loss_G:0.0326142	loss_E:0.0036841
+Epoch  69	Iter    1	Loss_D:-0.0376690	Loss_G:0.0317916	loss_E:0.0063068
+Epoch  69	Iter   11	Loss_D:-0.0372479	Loss_G:0.0320481	loss_E:0.0056514
+Epoch  69	Iter   21	Loss_D:-0.0358546	Loss_G:0.0327180	loss_E:0.0036038
+Epoch  70	Iter    1	Loss_D:-0.0345954	Loss_G:0.0314081	loss_E:0.0036662
+Epoch  70	Iter   11	Loss_D:-0.0331621	Loss_G:0.0322689	loss_E:0.0013668
+Epoch  70	Iter   21	Loss_D:-0.0355542	Loss_G:0.0319108	loss_E:0.0041267
+Epoch  70	Loss_D_avg:-0.0684059	Loss_G_avg:0.0454169	loss_E_avg:0.0233956
+['faq', 'hand', 'simms', 'claim', 'increase', 'important', 'package', 'apple', 'wish', 'nasa', 'certain', 'school', 'rest', 'complete', 'near']
+['course', 'small', 'motorcycle', 'minute', 'pen', 'say', 'money', 'ago', 'release', 'usually', 'wish', 'belief', 'currently', 'imagine', 'president']
+['device', 'pen', 'country', 'land', 'attack', 'faq', 'guess', 'ago', 'month', 'algorithm', 'display', 'slot', 'normal', 'package', 'course']
+['course', 'manager', 'belief', 'church', 'pointer', 'level', 'access', 'class', 'month', 'motorcycle', 'watch', 'school', 'red', 'say', 'algorithm']
+['report', 'release', 'belief', 'course', 'faq', 'package', 'normal', 'pointer', 'apple', 'ide', 'hell', 'land', 'short', 'easily', 'motorcycle']
+['president', 'church', 'faq', 'modem', 'armenian', 'cheer', 'minute', 'display', 'circuit', 'month', 'algorithm', 'flame', 'remember', 'appreciate', 'uk']
+['package', 'ide', 'choose', 'realize', 'course', 'story', 'willing', 'money', 'serial', 'motorcycle', 'people', 'manager', 'respond', 'key', 'rate']
+['certain', 'pointer', 'info', 'faq', 'package', 'important', 'church', 'care', 'motorcycle', 'simms', 'release', 'belief', 'small', 'course', 'thread']
+['course', 'wish', 'thread', 'appreciate', 'respond', 'electronic', 'pointer', 'slot', 'luck', 'church', 'instal', 'go', 'rate', 'ibm', 'small']
+['package', 'belief', 'certain', 'class', 'money', 'luck', 'hand', 'question', 'detail', 'key', 'red', 'access', 'thought', 'claim', 'completely']
+['wish', 'church', 'belief', 'anti', 'currently', 'support', 'faq', 'course', 'claim', 'normal', 'difference', 'important', 'supply', 'team', 'manager']
+['course', 'action', 'luck', 'pen', 'normal', 'access', 'serial', 'support', 'small', 'display', 'g', 'business', 'manager', 'simms', 'hot']
+['motorcycle', 'simms', 'president', 'vga', 'small', 'land', 'cheer', 'respond', 'drug', 'ibm', 'excuse', 'algorithm', 'faq', 'gas', 'server']
+['month', 'church', 'give', 'course', 'luck', 'package', 'go', 'thread', 'signal', 'cub', 'ide', 'slot', 'important', 'curious', 'modem']
+['drug', 'monitor', 'release', 'objective', 'gordon', 'realize', 'package', 'say', 'apple', 'money', 'gas', 'cheer', 'mb', 'month', 'red']
+['church', 'story', 'release', 'cut', 'apple', 'pointer', 'faq', 'normal', 'objective', 'minute', 'key', 'small', 'circuit', 'luck', 'switch']
+['faq', 'course', 'electronic', 'money', 'serial', 'simms', 'release', 'device', 'president', 'utility', 'realize', 'ago', 'interest', 'network', 'slot']
+['package', 'certain', 'cub', 'short', 'course', 'church', 'fbi', 'belief', 'jewish', 'case', 'key', 'manager', 'faq', 'dod', 'religious']
+['electronic', 'pass', 'cheer', 'course', 'release', 'small', 'realize', 'manager', 'mb', 'wire', 'increase', 'certain', 'red', 'clock', 'different']
+['cub', 'story', 'remember', 'release', 'simms', 'surrender', 'rest', 'certain', 'circuit', 'fail', 'drug', 'display', 'excuse', 'interest', 'president']
+['release', 'church', 'president', 'apple', 'imply', 'unit', 'leave', 'product', 'certain', 'remember', 'real', 'package', 'talk', 'school', 'possible']
+['battery', 'wish', 'expensive', 'level', 'money', 'release', 'excuse', 'motorcycle', 'experience', 'remember', 'give', 'certain', 'small', 'okay', 'ago']
+['course', 'apple', 'minute', 'important', 'excellent', 'excuse', 'gordon', 'question', 'increase', 'detail', 'simms', 'display', 'view', 'server', 'imply']
+['important', 'thread', 'church', 'kill', 'people', 'cut', 'pointer', 'access', 'small', 'certain', 'slot', 'land', 'short', 'class', 'red']
+['release', 'small', 'excellent', 'manager', 'excuse', 'church', 'follow', 'land', 'drug', 'american', 'slot', 'realize', 'say', 'package', 'team']
+['course', 'algorithm', 'drug', 'normal', 'minute', 'package', 'detail', 'appreciate', 'increase', 'thread', 'ago', 'willing', 'release', 'g', 'electronic']
+['small', 'usually', 'give', 'release', 'normal', 'story', 'course', 'pass', 'motorcycle', 'money', 'cheer', 'sport', 'luck', 'action', 'purchase']
+['fbi', 'church', 'small', 'faq', 'belief', 'president', 'motorcycle', 'course', 'short', 'minute', 'report', 'printer', 'realize', 'pain', 'wish']
+['course', 'rate', 'church', 'certain', 'respond', 'cheer', 'claim', 'battery', 'support', 'motorcycle', 'realize', 'important', 'red', 'give', 'simms']
+['course', 'money', 'package', 'algorithm', 'release', 'red', 'key', 'gas', 'pull', 'controller', 'mb', 'minute', 'support', 'belief', 'willing']
+['course', 'certain', 'complete', 'anybody', 'belief', 'describe', 'cheer', 'hello', 'object', 'encryption', 'church', 'wish', 'pull', 'drug', 'increase']
+['church', 'package', 'release', 'red', 'course', 'claim', 'judge', 'remember', 'small', 'algorithm', 'complete', 'currently', 'people', 'manager', 'excuse']
+['faq', 'church', 'school', 'simms', 'algorithm', 'complete', 'release', 'reply', 'ago', 'small', 'give', 'excellent', 'circuit', 'rate', 'apple']
+['motorcycle', 'money', 'slot', 'cheer', 'release', 'bank', 'wish', 'thread', 'manager', 'small', 'increase', 'serial', 'circuit', 'faq', 'act']
+['normal', 'wish', 'device', 'course', 'access', 'disease', 'red', 'read', 'design', 'remember', 'certain', 'talk', 'manager', 'money', 'fbi']
+['release', 'advice', 'faq', 'course', 'important', 'package', 'manager', 'ide', 'normal', 'man', 'old', 'ago', 'wish', 'red', 'cheer']
+['course', 'school', 'armenian', 'battery', 'controller', 'monitor', 'respond', 'claim', 'president', 'manager', 'remember', 'utility', 'luck', 'business', 'motorcycle']
+['church', 'faq', 'president', 'course', 'watch', 'school', 'fbi', 'suggest', 'algorithm', 'belief', 'rate', 'driver', 'citizen', 'release', 'far']
+['ibm', 'say', 'give', 'money', 'luck', 'appreciate', 'faq', 'ide', 'president', 'month', 'advice', 'release', 'small', 'thread', 'increase']
+['church', 'certain', 'small', 'school', 'faq', 'pointer', 'claim', 'real', 'algorithm', 'release', 'red', 'clear', 'important', 'view', 'nasa']
+['course', 'complete', 'certain', 'church', 'small', 'say', 'package', 'port', 'month', 'instal', 'size', 'money', 'go', 'model', 'release']
+['small', 'stupid', 'advice', 'luck', 'apple', 'willing', 'release', 'serial', 'religious', 'faq', 'clipper', 'display', 'simms', 'church', 'quadra']
+['team', 'w', 'excuse', 'course', 'appreciate', 'give', 'small', 'belief', 'access', 'bet', 'wish', 'wire', 'electronic', 'battery', 'church']
+['release', 'faq', 'school', 'church', 'course', 'small', 'printer', 'uk', 'class', 'give', 'apple', 'important', 'nasa', 'certain', 'report']
+['course', 'important', 'faq', 'excuse', 'small', 'circuit', 'algorithm', 'motorcycle', 'school', 'judge', 'pointer', 'server', 'n', 'excellent', 'xterm']
+['course', 'president', 'server', 'simms', 'okay', 'manager', 'church', 'faq', 'small', 'l', 'money', 'apple', 'curious', 'detail', 'complete']
+['wish', 'rate', 'uk', 'pointer', 'require', 'release', 'city', 'business', 'red', 'package', 'remember', 'tv', 'minute', 'object', 'course']
+['drug', 'certain', 'rate', 'claim', 'simms', 'president', 'action', 'course', 'learn', 'remember', 'currently', 'faq', 'monitor', 'small', 'pen']
+['president', 'experience', 'say', 'bet', 'religious', 'manager', 'display', 'algorithm', 'nasa', 'remember', 'mb', 'simms', 'give', 'pass', 'business']
+['small', 'certain', 'faq', 'course', 'red', 'people', 'circuit', 'nasa', 'realize', 'church', 'bet', 'real', 'school', 'watch', 'ibm']
+['serial', 'drug', 'cut', 'small', 'question', 'convert', 'course', 'surrender', 'ago', 'pointer', 'luck', 'package', 'circuit', 'apple', 'people']
+['battery', 'story', 'faq', 'mark', 'ago', 'appreciate', 'tire', 'belief', 'church', 'access', 'thread', 'interest', 'curious', 'money', 'christ']
+['remember', 'wish', 'people', 'course', 'fbi', 'certain', 'school', 'motorcycle', 'action', 'realize', 'willing', 'give', 'useful', 'story', 'faq']
+['display', 'usually', 'course', 'small', 'give', 'team', 'certain', 'claim', 'interest', 'suggest', 'church', 'faq', 'serial', 'belief', 'original']
+['rate', 'package', 'faq', 'manager', 'course', 'instead', 'small', 'display', 'release', 'pass', 'circuit', 'real', 'month', 'thinking', 'realize']
+['month', 'faq', 'release', 'motorcycle', 'apple', 'algorithm', 'view', 'realize', 'utility', 'battery', 'president', 'key', 'land', 'question', 'church']
+['course', 'battery', 'willing', 'stupid', 'cub', 'normal', 'pointer', 'display', 'detail', 'remember', 'apple', 'clear', 'pen', 'president', 'level']
+['motorcycle', 'month', 'surrender', 'ide', 'package', 'business', 'money', 'pay', 'important', 'real', 'ago', 'g', 'key', 'course', 'server']
+['report', 'cut', 'certain', 'realize', 'respond', 'object', 'team', 'say', 'fault', 'excuse', 'red', 'rate', 'key', 'circuit', 'faq']
+['faq', 'church', 'realize', 'story', 'serial', 'cut', 'instead', 'digital', 'appreciate', 'pointer', 'remember', 'monitor', 'printer', 'rest', 'experience']
+['church', 'say', 'display', 'give', 'excuse', 'story', 'access', 'bet', 'big', 'package', 'eat', 'minute', 'course', 'n', 'belief']
+['money', 'normal', 'fbi', 'release', 'course', 'wish', 'surrender', 'remember', 'xterm', 'question', 'convert', 'appreciate', 'minute', 'manager', 'signal']
+['people', 'pointer', 'release', 'ide', 'package', 'detail', 'monitor', 'fault', 'product', 'access', 'talk', 'faq', 'level', 'thread', 'slot']
+['normal', 'course', 'small', 'give', 'thinking', 'certain', 'motorcycle', 'pointer', 'package', 'slot', 'useful', 'appreciate', 'cut', 'manager', 'drug']
+['simms', 'normal', 'course', 'experience', 'realize', 'belief', 'monitor', 'faq', 'algorithm', 'manager', 'tax', 'certain', 'right', 'sport', 'release']
+['excuse', 'say', 'purchase', 'fine', 'controller', 'land', 'faq', 'church', 'imply', 'object', 'ide', 'package', 'cub', 'course', 'normal']
+['release', 'minute', 'team', 'pointer', 'church', 'key', 'people', 'apple', 'discussion', 'imagine', 'cheer', 'serial', 'advice', 'certain', 'course']
+['cheer', 'money', 'church', 'ide', 'president', 'circuit', 'complete', 'small', 'remember', 'gas', 'support', 'faq', 'thread', 'define', 'israel']
+['small', 'school', 'pointer', 'display', 'attack', 'church', 'discussion', 'instal', 'useful', 'april', 'excellent', 'course', 'run', 'cub', 'president']
+['realize', 'course', 'circuit', 'armenian', 'faq', 'detail', 'normal', 'ago', 'pull', 'friend', 'gas', 'package', 'slot', 'small', 'certain']
+['increase', 'citizen', 'red', 'story', 'belief', 'president', 'money', 'cheer', 'gun', 'remember', 'thread', 'g', 'class', 'access', 'cub']
+['people', 'faq', 'course', 'curious', 'release', 'certain', 'watch', 'objective', 'wish', 'l', 'memory', 'red', 'apple', 'circuit', 'huh']
+['citizen', 'simms', 'luck', 'access', 'red', 'belief', 'complete', 'signal', 'month', 'device', 'pen', 'respond', 'claim', 'release', 'uk']
+['release', 'small', 'support', 'access', 'monitor', 'simms', 'excuse', 'okay', 'instal', 'certain', 'mb', 'later', 'citizen', 'display', 'remember']
+['cheer', 'drug', 'church', 'president', 'algorithm', 'belief', 'possible', 'mode', 'package', 'red', 'increase', 'simms', 'talk', 'rate', 'manager']
+==============================
+topic diversity:0.18044444444444444
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2880512233635803, c_w2v:None, c_uci:-5.027272616090046, c_npmi:-0.1787448797770725
+mimno topic coherence:-308.93567916836565
+Epoch  71	Iter    1	Loss_D:-0.0347038	Loss_G:0.0317078	loss_E:0.0034756
+Epoch  71	Iter   11	Loss_D:-0.0367833	Loss_G:0.0324070	loss_E:0.0048483
+Epoch  71	Iter   21	Loss_D:-0.0331598	Loss_G:0.0320262	loss_E:0.0016385
+Epoch  72	Iter    1	Loss_D:-0.0329559	Loss_G:0.0316342	loss_E:0.0018111
+Epoch  72	Iter   11	Loss_D:-0.0321668	Loss_G:0.0322682	loss_E:0.0003793
+Epoch  72	Iter   21	Loss_D:-0.0318336	Loss_G:0.0317618	loss_E:0.0005560
+Epoch  73	Iter    1	Loss_D:-0.0318199	Loss_G:0.0315669	loss_E:0.0007221
+Epoch  73	Iter   11	Loss_D:-0.0329189	Loss_G:0.0320795	loss_E:0.0013132
+Epoch  73	Iter   21	Loss_D:-0.0315695	Loss_G:0.0322311	loss_E:-0.0001590
+Epoch  74	Iter    1	Loss_D:-0.0322895	Loss_G:0.0320585	loss_E:0.0006727
+Epoch  74	Iter   11	Loss_D:-0.0330258	Loss_G:0.0321566	loss_E:0.0013497
+Epoch  74	Iter   21	Loss_D:-0.0319307	Loss_G:0.0323347	loss_E:0.0000803
+Epoch  75	Iter    1	Loss_D:-0.0292459	Loss_G:0.0315058	loss_E:-0.0017767
+Epoch  75	Iter   11	Loss_D:-0.0295043	Loss_G:0.0321553	loss_E:-0.0021416
+Epoch  75	Iter   21	Loss_D:-0.0286717	Loss_G:0.0319820	loss_E:-0.0028226
+Epoch  76	Iter    1	Loss_D:-0.0287407	Loss_G:0.0311538	loss_E:-0.0019127
+Epoch  76	Iter   11	Loss_D:-0.0308107	Loss_G:0.0318012	loss_E:-0.0004951
+Epoch  76	Iter   21	Loss_D:-0.0284397	Loss_G:0.0323158	loss_E:-0.0033738
+Epoch  77	Iter    1	Loss_D:-0.0283509	Loss_G:0.0320031	loss_E:-0.0031530
+Epoch  77	Iter   11	Loss_D:-0.0261890	Loss_G:0.0321060	loss_E:-0.0054400
+Epoch  77	Iter   21	Loss_D:-0.0289089	Loss_G:0.0318366	loss_E:-0.0024335
+Epoch  78	Iter    1	Loss_D:-0.0276841	Loss_G:0.0320221	loss_E:-0.0038298
+Epoch  78	Iter   11	Loss_D:-0.0298966	Loss_G:0.0323089	loss_E:-0.0019081
+Epoch  78	Iter   21	Loss_D:-0.0284736	Loss_G:0.0329506	loss_E:-0.0039836
+Epoch  79	Iter    1	Loss_D:-0.0254614	Loss_G:0.0318319	loss_E:-0.0058238
+Epoch  79	Iter   11	Loss_D:-0.0271952	Loss_G:0.0330736	loss_E:-0.0053929
+Epoch  79	Iter   21	Loss_D:-0.0277394	Loss_G:0.0335273	loss_E:-0.0052891
+Epoch  80	Iter    1	Loss_D:-0.0252450	Loss_G:0.0327514	loss_E:-0.0069555
+Epoch  80	Iter   11	Loss_D:-0.0273625	Loss_G:0.0339595	loss_E:-0.0060715
+Epoch  80	Iter   21	Loss_D:-0.0253169	Loss_G:0.0340244	loss_E:-0.0081813
+Epoch  80	Loss_D_avg:-0.0635985	Loss_G_avg:0.0437712	loss_E_avg:0.0202449
+['faq', 'hand', 'claim', 'package', 'apple', 'christian', 'remember', 'course', 'usually', 'reply', 'simms', 'mail', 'money', 'church', 'rest']
+['course', 'small', 'say', 'money', 'ago', 'motorcycle', 'usually', 'monitor', 'church', 'package', 'jesus', 'pay', 'fire', 'appreciate', 'difference']
+['device', 'faq', 'country', 'guess', 'ago', 'course', 'month', 'package', 'display', 'view', 'claim', 'report', 'algorithm', 'give', 'church']
+['course', 'manager', 'church', 'access', 'level', 'month', 'watch', 'say', 'small', 'team', 'guess', 'key', 'mail', 'claim', 'motorcycle']
+['report', 'course', 'faq', 'package', 'apple', 'hell', 'g', 'question', 'experience', 'small', 'key', 'short', 'instead', 'money', 'reason']
+['faq', 'church', 'president', 'modem', 'month', 'display', 'remember', 'appreciate', 'cheer', 'flame', 'country', 'algorithm', 'e', 'real', 'manager']
+['package', 'course', 'money', 'people', 'faq', 'remember', 'key', 'rate', 'manager', 'motorcycle', 'month', 'story', 'church', 'appreciate', 'give']
+['faq', 'info', 'package', 'care', 'church', 'course', 'small', 'people', 'motorcycle', 'server', 'right', 'claim', 'access', 'month', 'important']
+['course', 'appreciate', 'church', 'go', 'small', 'ibm', 'money', 'rate', 'luck', 'give', 'server', 'faq', 'team', 'info', 'right']
+['package', 'money', 'hand', 'question', 'key', 'access', 'luck', 'course', 'claim', 'faq', 'experience', 'team', 'talk', 'give', 'red']
+['church', 'course', 'faq', 'support', 'claim', 'difference', 'team', 'manager', 'short', 'people', 'small', 'server', 'encryption', 'test', 'floppy']
+['course', 'access', 'display', 'luck', 'small', 'support', 'g', 'claim', 'appreciate', 'give', 'manager', 'package', 'money', 'rest', 'real']
+['motorcycle', 'small', 'cheer', 'ibm', 'simms', 'faq', 'drug', 'server', 'give', 'vga', 'package', 'remember', 'president', 'apple', 'algorithm']
+['month', 'give', 'course', 'church', 'package', 'go', 'modem', 'talk', 'luck', 'faq', 'man', 'money', 'claim', 'right', 'x']
+['drug', 'monitor', 'package', 'apple', 'say', 'money', 'month', 'controller', 'cheer', 'g', 'com', 'course', 'church', 'small', 'faq']
+['church', 'apple', 'faq', 'small', 'cut', 'key', 'story', 'package', 'switch', 'people', 'rate', 'talk', 'design', 'different', 'ago']
+['faq', 'course', 'money', 'device', 'ago', 'people', 'church', 'answer', 'low', 'correct', 'month', 'say', 'simms', 'serial', 'monitor']
+['package', 'course', 'short', 'church', 'key', 'case', 'faq', 'claim', 'ago', 'manager', 'jewish', 'com', 'instead', 'say', 'give']
+['course', 'small', 'cheer', 'manager', 'different', 'money', 'question', 'experience', 'package', 'red', 'remember', 'church', 'access', 'display', 'large']
+['remember', 'story', 'display', 'rest', 'drug', 'experience', 'apple', 'simms', 'view', 'manager', 'christian', 'later', 'case', 'go', 'ago']
+['church', 'apple', 'remember', 'product', 'package', 'real', 'talk', 'leave', 'monitor', 'possible', 'say', 'claim', 'small', 'watch', 'difference']
+['money', 'level', 'remember', 'give', 'experience', 'small', 'ago', 'motorcycle', 'report', 'say', 'claim', 'course', 'manager', 'talk', 'rest']
+['course', 'apple', 'question', 'display', 'remember', 'server', 'view', 'device', 'man', 'important', 'key', 'g', 'file', 'access', 'ago']
+['people', 'important', 'church', 'kill', 'access', 'small', 'cut', 'package', 'short', 'care', 'real', 'red', 'report', 'faq', 'country']
+['small', 'manager', 'follow', 'church', 'package', 'team', 'say', 'drug', 'american', 'claim', 'anybody', 'server', 'course', 'cut', 'x']
+['course', 'package', 'appreciate', 'drug', 'algorithm', 'ago', 'g', 'small', 'design', 'money', 'switch', 'month', 'church', 'right', 'give']
+['small', 'give', 'usually', 'course', 'money', 'cheer', 'apple', 'story', 'motorcycle', 'month', 'remember', 'original', 'opinion', 'n', 'faq']
+['church', 'faq', 'small', 'course', 'printer', 'report', 'short', 'motorcycle', 'possible', 'jesus', 'screen', 'apple', 'say', 'fbi', 'server']
+['course', 'rate', 'church', 'claim', 'support', 'cheer', 'give', 'motorcycle', 'faq', 'red', 'say', 'month', 'ago', 'small', 'respond']
+['course', 'money', 'package', 'key', 'algorithm', 'controller', 'support', 'red', 'remember', 'claim', 'church', 'question', 'difference', 'manager', 'small']
+['course', 'anybody', 'hello', 'cheer', 'small', 'church', 'encryption', 'package', 'drug', 'people', 'faq', 'ago', 'month', 'manager', 'remember']
+['package', 'church', 'course', 'claim', 'red', 'remember', 'small', 'people', 'ago', 'support', 'g', 'give', 'manager', 'algorithm', 'memory']
+['faq', 'church', 'ago', 'give', 'reply', 'small', 'apple', 'package', 'algorithm', 'say', 'rate', 'month', 'simms', 'remember', 'country']
+['motorcycle', 'money', 'cheer', 'bank', 'small', 'faq', 'course', 'manager', 'display', 'say', 'appreciate', 'people', 'team', 'gun', 'act']
+['course', 'device', 'access', 'remember', 'design', 'talk', 'read', 'money', 'give', 'support', 'manager', 'red', 'live', 'say', 'small']
+['faq', 'course', 'package', 'manager', 'man', 'old', 'ago', 'give', 'watch', 'monitor', 'product', 'apple', 'hear', 'say', 'talk']
+['course', 'controller', 'monitor', 'claim', 'remember', 'manager', 'church', 'support', 'flame', 'port', 'school', 'later', 'faq', 'motorcycle', 'apple']
+['course', 'faq', 'church', 'watch', 'rate', 'suggest', 'hell', 'driver', 'far', 'people', 'go', 'delete', 'small', 'short', 'money']
+['ibm', 'give', 'say', 'money', 'appreciate', 'faq', 'month', 'small', 'luck', 'course', 'ago', 'church', 'package', 'display', 'remember']
+['church', 'small', 'faq', 'claim', 'real', 'ago', 'course', 'view', 'hell', 'anybody', 'algorithm', 'red', 'figure', 'monitor', 'talk']
+['course', 'small', 'say', 'package', 'church', 'month', 'port', 'money', 'go', 'size', 'model', 'g', 'apple', 'original', 'instead']
+['small', 'apple', 'faq', 'display', 'luck', 'real', 'delete', 'clipper', 'remember', 'church', 'rate', 'claim', 'right', 'mode', 'modem']
+['team', 'w', 'course', 'appreciate', 'give', 'small', 'access', 'money', 'claim', 'display', 'church', 'controller', 'report', 'guess', 'drug']
+['faq', 'course', 'small', 'church', 'printer', 'apple', 'give', 'report', 'key', 'package', 'say', 'motorcycle', 'money', 'school', 'ibm']
+['course', 'faq', 'small', 'important', 'apple', 'server', 'motorcycle', 'algorithm', 'go', 'design', 'n', 'cause', 'instead', 'device', 'give']
+['course', 'server', 'faq', 'church', 'small', 'apple', 'manager', 'money', 'appear', 'mark', 'president', 'care', 'fine', 'model', 'program']
+['rate', 'require', 'course', 'package', 'remember', 'city', 'support', 'say', 'access', 'apple', 'people', 'view', 'red', 'mark', 'controller']
+['drug', 'claim', 'rate', 'course', 'remember', 'faq', 'monitor', 'small', 'simms', 'usually', 'printer', 'dealer', 'money', 'server', 'learn']
+['experience', 'say', 'display', 'remember', 'manager', 'give', 'president', 'package', 'small', 'rate', 'opinion', 'algorithm', 'real', 'month', 'money']
+['small', 'course', 'faq', 'people', 'red', 'real', 'church', 'watch', 'ibm', 'money', 'ago', 'guess', 'happen', 'apple', 'g']
+['small', 'drug', 'question', 'course', 'cut', 'ago', 'package', 'apple', 'serial', 'people', 'access', 'report', 'g', 'month', 'c']
+['faq', 'ago', 'mark', 'appreciate', 'access', 'story', 'church', 'money', 'g', 'monitor', 'package', 'difference', 'hell', 'say', 'error']
+['remember', 'course', 'people', 'give', 'faq', 'motorcycle', 'possible', 'ago', 'hey', 'church', 'story', 'view', 'key', 'guess', 'w']
+['course', 'display', 'give', 'small', 'team', 'claim', 'usually', 'faq', 'church', 'suggest', 'original', 'money', 'right', 'package', 'people']
+['package', 'rate', 'faq', 'course', 'manager', 'small', 'display', 'instead', 'month', 'real', 'ago', 'bible', 'church', 'remember', 'support']
+['month', 'faq', 'apple', 'motorcycle', 'question', 'key', 'view', 'say', 'church', 'package', 'wonder', 'ago', 'display', 'n', 'algorithm']
+['course', 'apple', 'remember', 'display', 'say', 'level', 'claim', 'faq', 'team', 'anybody', 'package', 'money', 'hell', 'wait', 'appreciate']
+['motorcycle', 'month', 'package', 'money', 'pay', 'ago', 'real', 'course', 'g', 'key', 'server', 'give', 'small', 'game', 'apple']
+['report', 'cut', 'team', 'say', 'faq', 'key', 'real', 'watch', 'rate', 'printer', 'remember', 'course', 'red', 'package', 'create']
+['faq', 'church', 'appreciate', 'instead', 'remember', 'monitor', 'apple', 'printer', 'team', 'cut', 'story', 'display', 'experience', 'package', 'watch']
+['church', 'say', 'give', 'display', 'access', 'package', 'big', 'course', 'story', 'team', 'small', 'opinion', 'n', 'christian', 'remember']
+['money', 'course', 'remember', 'question', 'appreciate', 'apple', 'give', 'claim', 'manager', 'small', 'possible', 'case', 'low', 'information', 'motorcycle']
+['people', 'package', 'monitor', 'product', 'access', 'talk', 'faq', 'level', 'course', 'delete', 'original', 'church', 'save', 'detail', 'server']
+['course', 'small', 'give', 'package', 'appreciate', 'motorcycle', 'display', 'manager', 'live', 'drug', 'cut', 'remember', 'server', 'team', 'mode']
+['course', 'faq', 'experience', 'monitor', 'right', 'manager', 'simms', 'care', 'rate', 'key', 'server', 'algorithm', 'church', 'usually', 'claim']
+['say', 'fine', 'faq', 'controller', 'package', 'church', 'course', 'israel', 'country', 'remember', 'small', 'christian', 'access', 'later', 'care']
+['team', 'church', 'key', 'people', 'apple', 'course', 'package', 'cheer', 'stop', 'faq', 'report', 'give', 'later', 'difference', 'wait']
+['money', 'cheer', 'remember', 'small', 'church', 'faq', 'support', 'package', 'israel', 'define', 'give', 'say', 'position', 'display', 'watch']
+['small', 'display', 'church', 'course', 'run', 'faq', 'money', 'team', 'package', 'remember', 'modem', 'attack', 'instal', 'guess', 'monitor']
+['course', 'faq', 'ago', 'friend', 'package', 'small', 'guy', 'detail', 'server', 'cut', 'right', 'appreciate', 'guess', 'need', 'answer']
+['money', 'remember', 'gun', 'g', 'red', 'course', 'cheer', 'access', 'small', 'switch', 'story', 'controller', 'report', 'fine', 'product']
+['people', 'faq', 'course', 'watch', 'apple', 'memory', 'ago', 'switch', 'right', 'red', 'n', 'guess', 'give', 'instead', 'nt']
+['access', 'month', 'red', 'luck', 'simms', 'claim', 'device', 'course', 'controller', 'faq', 'right', 'talk', 'monitor', 'watch', 'model']
+['small', 'access', 'monitor', 'support', 'remember', 'later', 'display', 'device', 'jesus', 'simms', 'course', 'city', 'cheer', 'money', 'go']
+['cheer', 'church', 'drug', 'package', 'possible', 'mode', 'remember', 'talk', 'algorithm', 'faq', 'rate', 'man', 'display', 'manager', 'wait']
+==============================
+topic diversity:0.13955555555555554
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.31105053263292964, c_w2v:None, c_uci:-2.441454647126893, c_npmi:-0.09244923385911791
+mimno topic coherence:-289.61917110162005
+Epoch  81	Iter    1	Loss_D:-0.0248414	Loss_G:0.0336966	loss_E:-0.0083324
+Epoch  81	Iter   11	Loss_D:-0.0280025	Loss_G:0.0345948	loss_E:-0.0060976
+Epoch  81	Iter   21	Loss_D:-0.0249554	Loss_G:0.0347455	loss_E:-0.0092921
+Epoch  82	Iter    1	Loss_D:-0.0247303	Loss_G:0.0337300	loss_E:-0.0085200
+Epoch  82	Iter   11	Loss_D:-0.0245873	Loss_G:0.0352712	loss_E:-0.0102022
+Epoch  82	Iter   21	Loss_D:-0.0266060	Loss_G:0.0354293	loss_E:-0.0083308
+Epoch  83	Iter    1	Loss_D:-0.0274922	Loss_G:0.0354838	loss_E:-0.0074991
+Epoch  83	Iter   11	Loss_D:-0.0252925	Loss_G:0.0351862	loss_E:-0.0094168
+Epoch  83	Iter   21	Loss_D:-0.0252128	Loss_G:0.0361016	loss_E:-0.0103945
+Epoch  84	Iter    1	Loss_D:-0.0256440	Loss_G:0.0359188	loss_E:-0.0097886
+Epoch  84	Iter   11	Loss_D:-0.0254387	Loss_G:0.0376264	loss_E:-0.0116630
+Epoch  84	Iter   21	Loss_D:-0.0230465	Loss_G:0.0372616	loss_E:-0.0137340
+Epoch  85	Iter    1	Loss_D:-0.0239212	Loss_G:0.0368552	loss_E:-0.0124182
+Epoch  85	Iter   11	Loss_D:-0.0236998	Loss_G:0.0372359	loss_E:-0.0130512
+Epoch  85	Iter   21	Loss_D:-0.0234943	Loss_G:0.0385297	loss_E:-0.0146154
+Epoch  86	Iter    1	Loss_D:-0.0237517	Loss_G:0.0372710	loss_E:-0.0130368
+Epoch  86	Iter   11	Loss_D:-0.0251418	Loss_G:0.0382359	loss_E:-0.0126075
+Epoch  86	Iter   21	Loss_D:-0.0231238	Loss_G:0.0386493	loss_E:-0.0150690
+Epoch  87	Iter    1	Loss_D:-0.0230730	Loss_G:0.0383336	loss_E:-0.0147913
+Epoch  87	Iter   11	Loss_D:-0.0229329	Loss_G:0.0378293	loss_E:-0.0144203
+Epoch  87	Iter   21	Loss_D:-0.0223530	Loss_G:0.0385040	loss_E:-0.0156706
+Epoch  88	Iter    1	Loss_D:-0.0239633	Loss_G:0.0383913	loss_E:-0.0139636
+Epoch  88	Iter   11	Loss_D:-0.0231818	Loss_G:0.0383710	loss_E:-0.0147398
+Epoch  88	Iter   21	Loss_D:-0.0225511	Loss_G:0.0381765	loss_E:-0.0151728
+Epoch  89	Iter    1	Loss_D:-0.0219840	Loss_G:0.0379138	loss_E:-0.0154459
+Epoch  89	Iter   11	Loss_D:-0.0219017	Loss_G:0.0375420	loss_E:-0.0151915
+Epoch  89	Iter   21	Loss_D:-0.0225291	Loss_G:0.0375096	loss_E:-0.0145395
+Epoch  90	Iter    1	Loss_D:-0.0248007	Loss_G:0.0377806	loss_E:-0.0125548
+Epoch  90	Iter   11	Loss_D:-0.0212976	Loss_G:0.0372546	loss_E:-0.0155272
+Epoch  90	Iter   21	Loss_D:-0.0224266	Loss_G:0.0372496	loss_E:-0.0143795
+Epoch  90	Loss_D_avg:-0.0592060	Loss_G_avg:0.0430066	loss_E_avg:0.0166234
+['claim', 'hand', 'apple', 'course', 'remember', 'christian', 'faq', 'reply', 'mail', 'small', 'display', 'ago', 'package', 'possible', 'give']
+['course', 'small', 'say', 'ago', 'monitor', 'jesus', 'appreciate', 'pay', 'point', 'people', 'key', 'difference', 'money', 'right', 'format']
+['ago', 'guess', 'course', 'month', 'display', 'claim', 'give', 'right', 'well', 'key', 'cause', 'man', 'faq', 'package', 'say']
+['course', 'month', 'team', 'say', 'small', 'key', 'guess', 'mail', 'claim', 'right', 'give', 'access', 'watch', 'try', 'experience']
+['course', 'report', 'apple', 'question', 'small', 'key', 'experience', 'possible', 'reason', 'claim', 'faq', 'package', 'com', 'say', 'team']
+['month', 'display', 'remember', 'appreciate', 'modem', 'faq', 'real', 'e', 'course', 'question', 'reply', 'possible', 'team', 'key', 'give']
+['package', 'course', 'people', 'remember', 'key', 'month', 'appreciate', 'give', 'say', 'apple', 'x', 'point', 'man', 'faq', 'guy']
+['info', 'course', 'small', 'people', 'right', 'server', 'claim', 'package', 'month', 'question', 'ago', 'faq', 'remember', 'original', 'appreciate']
+['course', 'appreciate', 'go', 'small', 'give', 'team', 'info', 'right', 'server', 'answer', 'monitor', 'ibm', 'delete', 'month', 'claim']
+['package', 'hand', 'question', 'key', 'course', 'claim', 'team', 'give', 'talk', 'experience', 'monitor', 'go', 'reply', 'fast', 'server']
+['course', 'support', 'claim', 'team', 'difference', 'people', 'small', 'server', 'faq', 'ago', 'test', 'remember', 'book', 'month', 'run']
+['course', 'display', 'small', 'support', 'claim', 'appreciate', 'give', 'real', 'apple', 'remember', 'access', 'ago', 'possible', 'talk', 'monitor']
+['small', 'give', 'server', 'remember', 'course', 'apple', 'month', 'com', 'ibm', 'display', 'model', 'real', 'guy', 'old', 'value']
+['month', 'course', 'give', 'go', 'talk', 'man', 'right', 'claim', 'x', 'remember', 'real', 'help', 'ago', 'package', 'hand']
+['monitor', 'apple', 'say', 'month', 'course', 'com', 'small', 'mac', 'claim', 'experience', 'package', 'key', 'christian', 'hand', 'fine']
+['apple', 'small', 'key', 'people', 'talk', 'ago', 'different', 'x', 'reply', 'understand', 'christian', 'claim', 'appreciate', 'offer', 'design']
+['course', 'faq', 'ago', 'people', 'answer', 'month', 'monitor', 'say', 'team', 'give', 'model', 'low', 'small', 'question', 'claim']
+['course', 'key', 'case', 'package', 'claim', 'ago', 'give', 'com', 'say', 'right', 'display', 'delete', 'people', 'address', 'computer']
+['course', 'small', 'different', 'question', 'remember', 'experience', 'display', 'key', 'info', 'month', 'server', 'say', 'run', 'nice', 'large']
+['remember', 'display', 'experience', 'apple', 'ago', 'christian', 'answer', 'course', 'case', 'go', 'people', 'bad', 'team', 'monitor', 'appreciate']
+['apple', 'remember', 'real', 'talk', 'monitor', 'leave', 'possible', 'say', 'claim', 'small', 'course', 'appreciate', 'guess', 'site', 'give']
+['remember', 'give', 'small', 'ago', 'experience', 'say', 'course', 'team', 'claim', 'talk', 'month', 'add', 'monitor', 'number', 'delete']
+['course', 'apple', 'question', 'display', 'remember', 'server', 'man', 'key', 'ago', 'file', 'appreciate', 'model', 'jesus', 'support', 'buy']
+['people', 'kill', 'small', 'real', 'remember', 'right', 'access', 'course', 'claim', 'team', 'package', 'pretty', 'mail', 'appreciate', 'hear']
+['small', 'follow', 'team', 'say', 'course', 'claim', 'anybody', 'server', 'give', 'x', 'ago', 'info', 'possible', 'package', 'key']
+['course', 'appreciate', 'ago', 'small', 'package', 'right', 'month', 'give', 'key', 'monitor', 'design', 'support', 'reply', 'information', 'server']
+['small', 'give', 'course', 'apple', 'remember', 'month', 'original', 'monitor', 'appreciate', 'nice', 'real', 'claim', 'driver', 'right', 'port']
+['small', 'course', 'possible', 'jesus', 'apple', 'screen', 'say', 'monitor', 'printer', 'server', 'faq', 'real', 'report', 'team', 'original']
+['course', 'claim', 'support', 'give', 'ago', 'say', 'small', 'month', 'pay', 'answer', 'monitor', 'question', 'apple', 'anybody', 'key']
+['course', 'key', 'support', 'remember', 'package', 'claim', 'question', 'small', 'money', 'fast', 'difference', 'com', 'follow', 'controller', 'hand']
+['course', 'anybody', 'small', 'ago', 'people', 'hello', 'remember', 'month', 'question', 'say', 'guess', 'apple', 'mode', 'hand', 'give']
+['course', 'claim', 'remember', 'small', 'package', 'people', 'ago', 'give', 'support', 'real', 'say', 'memory', 'display', 'leave', 'server']
+['ago', 'give', 'small', 'reply', 'faq', 'apple', 'say', 'month', 'remember', 'team', 'possible', 'claim', 'monitor', 'key', 'anybody']
+['small', 'course', 'display', 'appreciate', 'say', 'people', 'team', 'gun', 'come', 'money', 'apple', 'go', 'give', 'month', 'follow']
+['course', 'remember', 'talk', 'read', 'give', 'support', 'design', 'live', 'say', 'small', 'c', 'claim', 'answer', 'apple', 'question']
+['course', 'ago', 'man', 'old', 'give', 'monitor', 'say', 'hear', 'apple', 'talk', 'claim', 'month', 'key', 'package', 'real']
+['course', 'monitor', 'claim', 'remember', 'support', 'port', 'apple', 'controller', 'ago', 'follow', 'small', 'say', 'talk', 'number', 'experience']
+['course', 'watch', 'people', 'delete', 'go', 'driver', 'far', 'small', 'faq', 'talk', 'model', 'display', 'real', 'call', 'say']
+['give', 'say', 'appreciate', 'ibm', 'month', 'small', 'course', 'ago', 'display', 'remember', 'faq', 'pc', 'delete', 'happen', 'apple']
+['small', 'claim', 'real', 'course', 'ago', 'anybody', 'monitor', 'talk', 'appreciate', 'possible', 'people', 'happen', 'display', 'faq', 'user']
+['course', 'small', 'say', 'month', 'port', 'go', 'model', 'apple', 'ago', 'package', 'original', 'game', 'sure', 'info', 'call']
+['small', 'apple', 'display', 'delete', 'real', 'remember', 'right', 'claim', 'ago', 'mode', 'team', 'course', 'month', 'program', 'com']
+['team', 'course', 'appreciate', 'give', 'small', 'w', 'claim', 'display', 'guess', 'follow', 'nice', 'support', 'info', 'talk', 'access']
+['course', 'small', 'give', 'apple', 'faq', 'key', 'say', 'printer', 'people', 'original', 'month', 'report', 'delete', 'go', 'cause']
+['course', 'small', 'apple', 'server', 'give', 'go', 'cause', 'ago', 'claim', 'faq', 'look', 'display', 'monitor', 'design', 'reply']
+['course', 'server', 'apple', 'small', 'model', 'program', 'monitor', 'display', 'fine', 'month', 'fast', 'go', 'david', 'think', 'give']
+['course', 'remember', 'support', 'say', 'require', 'apple', 'people', 'year', 'hope', 'monitor', 'game', 'man', 'package', 'answer', 'guess']
+['claim', 'course', 'remember', 'monitor', 'small', 'ago', 'server', 'talk', 'x', 'team', 'fine', 'version', 'model', 'people', 'info']
+['experience', 'say', 'display', 'remember', 'give', 'small', 'real', 'month', 'reply', 'key', 'ago', 'team', 'appreciate', 'support', 'question']
+['small', 'course', 'people', 'real', 'ago', 'guess', 'happen', 'faq', 'apple', 'watch', 'claim', 'ibm', 'call', 'key', 'say']
+['small', 'course', 'question', 'ago', 'apple', 'people', 'month', 'give', 'c', 'remember', 'case', 'far', 'screen', 'com', 'package']
+['ago', 'appreciate', 'monitor', 'course', 'say', 'code', 'small', 'display', 'faq', 'remember', 'difference', 'format', 'turn', 'question', 'man']
+['remember', 'course', 'people', 'give', 'possible', 'ago', 'key', 'guess', 'small', 'apple', 'real', 'server', 'mode', 'file', 'question']
+['course', 'give', 'display', 'small', 'claim', 'team', 'original', 'right', 'people', 'appreciate', 'ago', 'real', 'remember', 'key', 'guess']
+['course', 'small', 'display', 'real', 'month', 'ago', 'package', 'remember', 'faq', 'right', 'support', 'mail', 'apple', 'give', 'hand']
+['month', 'apple', 'question', 'key', 'say', 'ago', 'wonder', 'display', 'faq', 'pay', 'claim', 'remember', 'real', 'package', 'support']
+['course', 'remember', 'apple', 'display', 'say', 'claim', 'team', 'anybody', 'give', 'appreciate', 'happen', 'server', 'ago', 'model', 'month']
+['month', 'pay', 'ago', 'course', 'real', 'key', 'give', 'server', 'package', 'small', 'game', 'apple', 'remember', 'claim', 'model']
+['team', 'report', 'say', 'key', 'real', 'course', 'remember', 'experience', 'watch', 'create', 'small', 'article', 'monitor', 'month', 'right']
+['faq', 'appreciate', 'remember', 'monitor', 'team', 'apple', 'display', 'course', 'real', 'experience', 'month', 'key', 'com', 'run', 'ago']
+['say', 'give', 'display', 'course', 'big', 'team', 'small', 'remember', 'monitor', 'christian', 'access', 'package', 'c', 'real', 'write']
+['course', 'remember', 'money', 'question', 'appreciate', 'give', 'apple', 'claim', 'small', 'possible', 'case', 'information', 'support', 'low', 'monitor']
+['people', 'monitor', 'talk', 'course', 'package', 'delete', 'original', 'apple', 'server', 'right', 'pay', 'question', 'david', 'display', 'see']
+['course', 'small', 'give', 'appreciate', 'display', 'live', 'remember', 'team', 'server', 'anybody', 'real', 'package', 'apple', 'info', 'mode']
+['course', 'monitor', 'experience', 'right', 'key', 'server', 'claim', 'small', 'x', 'possible', 'people', 'remember', 'give', 'answer', 'apple']
+['say', 'fine', 'course', 'remember', 'small', 'controller', 'christian', 'ago', 'faq', 'package', 'address', 'israel', 'word', 'model', 'monitor']
+['team', 'people', 'key', 'apple', 'course', 'give', 'possible', 'month', 'say', 'difference', 'pay', 'ago', 'hand', 'small', 'file']
+['remember', 'small', 'support', 'give', 'say', 'course', 'display', 'israel', 'go', 'monitor', 'money', 'appreciate', 'david', 'package', 'anybody']
+['small', 'display', 'course', 'run', 'team', 'remember', 'monitor', 'guess', 'right', 'modem', 'ago', 'go', 'hand', 'delete', 'give']
+['course', 'ago', 'friend', 'small', 'guy', 'server', 'faq', 'right', 'appreciate', 'package', 'guess', 'answer', 'monitor', 'support', 'need']
+['remember', 'course', 'gun', 'small', 'fine', 'team', 'mode', 'address', 'guess', 'right', 'server', 'give', 'hand', 'switch', 'support']
+['people', 'course', 'apple', 'ago', 'memory', 'right', 'faq', 'watch', 'give', 'guess', 'follow', 'screen', 'remember', 'small', 'display']
+['month', 'course', 'claim', 'right', 'talk', 'monitor', 'model', 'question', 'say', 'small', 'access', 'file', 'delete', 'possible', 'difference']
+['small', 'monitor', 'support', 'remember', 'display', 'course', 'jesus', 'go', 'access', 'ago', 'server', 'fine', 'model', 'answer', 'game']
+['possible', 'remember', 'talk', 'mode', 'man', 'display', 'claim', 'question', 'course', 'answer', 'nice', 'package', 'team', 'info', 'right']
+==============================
+topic diversity:0.11555555555555555
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3866979915713208, c_w2v:None, c_uci:-0.5919523373285029, c_npmi:-0.022569014908305075
+mimno topic coherence:-244.36291411353696
+Epoch  91	Iter    1	Loss_D:-0.0217282	Loss_G:0.0367216	loss_E:-0.0145528
+Epoch  91	Iter   11	Loss_D:-0.0218328	Loss_G:0.0367168	loss_E:-0.0144646
+Epoch  91	Iter   21	Loss_D:-0.0203238	Loss_G:0.0363299	loss_E:-0.0155505
+Epoch  92	Iter    1	Loss_D:-0.0215446	Loss_G:0.0364839	loss_E:-0.0144987
+Epoch  92	Iter   11	Loss_D:-0.0216043	Loss_G:0.0363657	loss_E:-0.0143621
+Epoch  92	Iter   21	Loss_D:-0.0203428	Loss_G:0.0361103	loss_E:-0.0152951
+Epoch  93	Iter    1	Loss_D:-0.0221596	Loss_G:0.0356392	loss_E:-0.0130199
+Epoch  93	Iter   11	Loss_D:-0.0214048	Loss_G:0.0356860	loss_E:-0.0138352
+Epoch  93	Iter   21	Loss_D:-0.0208101	Loss_G:0.0351663	loss_E:-0.0139250
+Epoch  94	Iter    1	Loss_D:-0.0207290	Loss_G:0.0353534	loss_E:-0.0141867
+Epoch  94	Iter   11	Loss_D:-0.0193273	Loss_G:0.0353314	loss_E:-0.0155803
+Epoch  94	Iter   21	Loss_D:-0.0203581	Loss_G:0.0345528	loss_E:-0.0137547
+Epoch  95	Iter    1	Loss_D:-0.0218823	Loss_G:0.0346511	loss_E:-0.0123535
+Epoch  95	Iter   11	Loss_D:-0.0210740	Loss_G:0.0348778	loss_E:-0.0133912
+Epoch  95	Iter   21	Loss_D:-0.0196574	Loss_G:0.0338410	loss_E:-0.0137757
+Epoch  96	Iter    1	Loss_D:-0.0197709	Loss_G:0.0341535	loss_E:-0.0139613
+Epoch  96	Iter   11	Loss_D:-0.0209899	Loss_G:0.0341057	loss_E:-0.0127248
+Epoch  96	Iter   21	Loss_D:-0.0203942	Loss_G:0.0336282	loss_E:-0.0128460
+Epoch  97	Iter    1	Loss_D:-0.0210575	Loss_G:0.0337901	loss_E:-0.0123503
+Epoch  97	Iter   11	Loss_D:-0.0207957	Loss_G:0.0335669	loss_E:-0.0123703
+Epoch  97	Iter   21	Loss_D:-0.0198472	Loss_G:0.0334335	loss_E:-0.0131986
+Epoch  98	Iter    1	Loss_D:-0.0205910	Loss_G:0.0331226	loss_E:-0.0121259
+Epoch  98	Iter   11	Loss_D:-0.0205269	Loss_G:0.0329566	loss_E:-0.0120046
+Epoch  98	Iter   21	Loss_D:-0.0199505	Loss_G:0.0325949	loss_E:-0.0122546
+Epoch  99	Iter    1	Loss_D:-0.0192056	Loss_G:0.0322507	loss_E:-0.0126218
+Epoch  99	Iter   11	Loss_D:-0.0200006	Loss_G:0.0329003	loss_E:-0.0124849
+Epoch  99	Iter   21	Loss_D:-0.0210971	Loss_G:0.0324006	loss_E:-0.0108988
+Epoch 100	Iter    1	Loss_D:-0.0191532	Loss_G:0.0321325	loss_E:-0.0125493
+Epoch 100	Iter   11	Loss_D:-0.0206110	Loss_G:0.0321871	loss_E:-0.0111950
+Epoch 100	Iter   21	Loss_D:-0.0204167	Loss_G:0.0322893	loss_E:-0.0114990
+Epoch 100	Loss_D_avg:-0.0553493	Loss_G_avg:0.0421370	loss_E_avg:0.0136356
+['course', 'mail', 'reply', 'people', 'remember', 'christian', 'give', 'say', 'possible', 'claim', 'key', 'appreciate', 'wonder', 'anybody', 'real']
+['course', 'say', 'monitor', 'ago', 'appreciate', 'point', 'people', 'key', 'right', 'pay', 'support', 'chip', 'true', 'come', 'real']
+['course', 'right', 'give', 'ago', 'key', 'well', 'guess', 'display', 'say', 'anybody', 'appreciate', 'come', 'read', 'x', 'monitor']
+['course', 'team', 'say', 'key', 'right', 'mail', 'give', 'try', 'case', 'people', 'go', 'game', 'pc', 'computer', 'talk']
+['course', 'question', 'key', 'possible', 'say', 'com', 'team', 'give', 'buy', 'power', 'support', 'answer', 'file', 'right', 'appreciate']
+['appreciate', 'remember', 'e', 'course', 'question', 'reply', 'key', 'team', 'display', 'real', 'possible', 'give', 'support', 'x', 'address']
+['course', 'people', 'key', 'remember', 'appreciate', 'give', 'say', 'x', 'point', 'monitor', 'line', 'game', 'wonder', 'right', 'team']
+['info', 'course', 'people', 'right', 'question', 'appreciate', 'give', 'monitor', 'key', 'remember', 'go', 'ago', 'support', 'etc', 'driver']
+['course', 'appreciate', 'go', 'right', 'give', 'team', 'info', 'answer', 'monitor', 'say', 'game', 'key', 'remember', 'possible', 'come']
+['question', 'key', 'course', 'team', 'talk', 'give', 'go', 'monitor', 'reply', 'appreciate', 'people', 'book', 'claim', 'great', 'check']
+['course', 'support', 'team', 'people', 'run', 'book', 'claim', 'question', 'address', 'memory', 'remember', 'give', 'key', 'com', 'real']
+['course', 'support', 'appreciate', 'give', 'display', 'real', 'talk', 'possible', 'monitor', 'remember', 'question', 'claim', 'pay', 'pc', 'ago']
+['give', 'course', 'com', 'remember', 'old', 'right', 'appreciate', 'key', 'c', 'monitor', 'support', 'real', 'card', 'line', 'question']
+['course', 'give', 'go', 'talk', 'right', 'x', 'help', 'people', 'say', 'question', 'month', 'real', 'key', 'man', 'game']
+['monitor', 'say', 'course', 'com', 'mac', 'key', 'team', 'follow', 'support', 'happen', 'christian', 'game', 'people', 'memory', 'talk']
+['key', 'people', 'talk', 'x', 'appreciate', 'reply', 'course', 'offer', 'game', 'say', 'christian', 'etc', 'different', 'ago', 'call']
+['course', 'people', 'answer', 'say', 'monitor', 'team', 'ago', 'give', 'question', 'talk', 'call', 'appreciate', 'old', 'memory', 'support']
+['course', 'key', 'case', 'say', 'com', 'right', 'give', 'people', 'address', 'mail', 'computer', 'ago', 'game', 'need', 'follow']
+['course', 'question', 'key', 'say', 'info', 'remember', 'different', 'run', 'file', 'read', 'talk', 'right', 'need', 'team', 'monitor']
+['remember', 'course', 'answer', 'people', 'case', 'go', 'bad', 'team', 'monitor', 'display', 'appreciate', 'christian', 'say', 'mail', 'wonder']
+['talk', 'monitor', 'say', 'real', 'remember', 'possible', 'course', 'appreciate', 'people', 'give', 'key', 'answer', 'memory', 'happen', 'leave']
+['give', 'remember', 'say', 'course', 'team', 'ago', 'talk', 'monitor', 'people', 'appreciate', 'number', 'address', 'anybody', 'key', 'card']
+['course', 'question', 'key', 'remember', 'file', 'appreciate', 'display', 'man', 'buy', 'support', 'go', 'version', 'right', 'team', 'give']
+['people', 'right', 'real', 'course', 'remember', 'team', 'appreciate', 'mail', 'hear', 'key', 'go', 'say', 'support', 'give', 'answer']
+['follow', 'team', 'say', 'course', 'anybody', 'give', 'x', 'info', 'key', 'people', 'possible', 'point', 'information', 'memory', 'support']
+['course', 'appreciate', 'right', 'give', 'key', 'ago', 'monitor', 'information', 'support', 'reply', 'info', 'address', 'com', 'remember', 'say']
+['give', 'course', 'monitor', 'appreciate', 'right', 'remember', 'driver', 'team', 'real', 'key', 'support', 'people', 'small', 'x', 'game']
+['course', 'say', 'possible', 'monitor', 'people', 'team', 'real', 'appreciate', 'talk', 'memory', 'com', 'see', 'remember', 'key', 'reply']
+['course', 'give', 'support', 'say', 'answer', 'question', 'monitor', 'claim', 'key', 'anybody', 'pay', 'ago', 'chip', 'game', 'people']
+['course', 'key', 'support', 'question', 'remember', 'com', 'follow', 'right', 'answer', 'appreciate', 'file', 'say', 'talk', 'give', 'great']
+['course', 'anybody', 'people', 'question', 'say', 'remember', 'file', 'give', 'ago', 'team', 'case', 'mail', 'reply', 'com', 'call']
+['course', 'people', 'remember', 'give', 'support', 'say', 'memory', 'claim', 'real', 'ago', 'right', 'call', 'key', 'appreciate', 'team']
+['give', 'reply', 'say', 'ago', 'team', 'key', 'monitor', 'anybody', 'remember', 'possible', 'people', 'answer', 'course', 'happen', 'appreciate']
+['course', 'appreciate', 'people', 'say', 'team', 'come', 'go', 'right', 'follow', 'include', 'give', 'key', 'sale', 'anybody', 'game']
+['course', 'talk', 'read', 'give', 'remember', 'support', 'say', 'c', 'answer', 'question', 'people', 'team', 'computer', 'address', 'key']
+['course', 'old', 'give', 'say', 'monitor', 'hear', 'talk', 'key', 'man', 'right', 'game', 'com', 'ago', 'people', 'real']
+['course', 'monitor', 'remember', 'support', 'follow', 'say', 'talk', 'appreciate', 'number', 'hear', 'claim', 'information', 'right', 'go', 'team']
+['course', 'people', 'go', 'driver', 'talk', 'call', 'say', 'real', 'key', 'monitor', 'far', 'delete', 'appreciate', 'give', 'come']
+['say', 'give', 'appreciate', 'course', 'pc', 'ago', 'people', 'happen', 'remember', 'number', 'key', 'com', 'x', 'line', 'team']
+['course', 'real', 'anybody', 'talk', 'monitor', 'appreciate', 'people', 'ago', 'possible', 'happen', 'say', 'claim', 'call', 'c', 'offer']
+['course', 'say', 'go', 'game', 'sure', 'info', 'call', 'monitor', 'answer', 'possible', 'computer', 'give', 'model', 'ago', 'team']
+['right', 'real', 'team', 'course', 'remember', 'program', 'com', 'display', 'talk', 'question', 'delete', 'monitor', 'ago', 'hear', 'info']
+['team', 'course', 'appreciate', 'give', 'follow', 'support', 'info', 'talk', 'people', 'say', 'right', 'monitor', 'display', 'guess', 'claim']
+['course', 'give', 'key', 'say', 'people', 'go', 'team', 'case', 'problem', 'appreciate', 'monitor', 'line', 'good', 'buy', 'driver']
+['course', 'go', 'give', 'monitor', 'look', 'say', 'key', 'reply', 'run', 'computer', 'support', 'right', 'ago', 'sale', 'address']
+['course', 'monitor', 'program', 'go', 'think', 'game', 'server', 'say', 'give', 'mail', 'address', 'team', 'version', 'great', 'right']
+['course', 'say', 'people', 'support', 'remember', 'year', 'monitor', 'game', 'answer', 'hope', 'appreciate', 'talk', 'com', 'space', 'real']
+['course', 'monitor', 'remember', 'claim', 'talk', 'x', 'team', 'people', 'version', 'info', 'key', 'question', 'appreciate', 'say', 'ago']
+['say', 'give', 'remember', 'key', 'appreciate', 'team', 'reply', 'display', 'support', 'real', 'people', 'right', 'question', 'answer', 'computer']
+['course', 'people', 'real', 'happen', 'call', 'ago', 'say', 'key', 'monitor', 'etc', 'come', 'give', 'appreciate', 'question', 'support']
+['course', 'question', 'people', 'c', 'give', 'case', 'ago', 'com', 'call', 'line', 'remember', 'say', 'happen', 'window', 'yes']
+['appreciate', 'ago', 'monitor', 'course', 'say', 'question', 'right', 'code', 'case', 'remember', 'support', 'happen', 'x', 'give', 'people']
+['course', 'people', 'remember', 'give', 'possible', 'key', 'file', 'question', 'ago', 'reply', 'real', 'com', 'say', 'happen', 'come']
+['course', 'give', 'team', 'right', 'people', 'appreciate', 'display', 'claim', 'key', 'address', 'real', 'file', 'talk', 'remember', 'ago']
+['course', 'real', 'right', 'display', 'support', 'mail', 'ago', 'remember', 'give', 'team', 'question', 'driver', 'appreciate', 'talk', 'number']
+['question', 'key', 'say', 'wonder', 'ago', 'right', 'month', 'support', 'pay', 'display', 'possible', 'people', 'real', 'remember', 'old']
+['course', 'say', 'remember', 'team', 'anybody', 'appreciate', 'give', 'happen', 'display', 'key', 'people', 'com', 'case', 'support', 'sale']
+['course', 'key', 'pay', 'real', 'give', 'game', 'ago', 'say', 'info', 'team', 'answer', 'remember', 'monitor', 'address', 'reply']
+['team', 'say', 'key', 'course', 'real', 'remember', 'right', 'article', 'monitor', 'people', 'com', 'appreciate', 'old', 'reply', 'happen']
+['appreciate', 'team', 'monitor', 'course', 'remember', 'key', 'real', 'com', 'case', 'run', 'come', 'people', 'display', 'question', 'right']
+['say', 'give', 'course', 'team', 'display', 'big', 'monitor', 'c', 'christian', 'remember', 'write', 'program', 'real', 'appreciate', 'number']
+['course', 'question', 'appreciate', 'remember', 'give', 'case', 'possible', 'information', 'monitor', 'support', 'follow', 'point', 'c', 'hope', 'offer']
+['people', 'monitor', 'talk', 'course', 'right', 'question', 'see', 'appreciate', 'say', 'give', 'team', 'pay', 'delete', 'support', 'file']
+['course', 'give', 'appreciate', 'team', 'anybody', 'info', 'monitor', 'remember', 'support', 'real', 'possible', 'memory', 'display', 'key', 'people']
+['course', 'monitor', 'right', 'key', 'people', 'x', 'answer', 'possible', 'give', 'talk', 'remember', 'appreciate', 'reply', 'number', 'anybody']
+['say', 'course', 'right', 'address', 'monitor', 'remember', 'christian', 'give', 'reply', 'word', 'old', 'team', 'key', 'see', 'file']
+['team', 'people', 'key', 'course', 'give', 'say', 'possible', 'file', 'mail', 'year', 'question', 'anybody', 'right', 'address', 'see']
+['support', 'remember', 'give', 'say', 'course', 'go', 'monitor', 'appreciate', 'anybody', 'com', 'question', 'see', 'file', 'talk', 'information']
+['course', 'run', 'team', 'monitor', 'display', 'right', 'remember', 'go', 'game', 'give', 'program', 'say', 'sure', 'anybody', 'follow']
+['course', 'ago', 'right', 'appreciate', 'answer', 'friend', 'say', 'monitor', 'need', 'support', 'game', 'guy', 'follow', 'people', 'give']
+['course', 'remember', 'gun', 'team', 'right', 'address', 'give', 'support', 'talk', 'possible', 'people', 'com', 'question', 'key', 'power']
+['people', 'course', 'right', 'memory', 'give', 'ago', 'follow', 'say', 'line', 'chip', 'support', 'long', 'game', 'monitor', 'remember']
+['course', 'right', 'talk', 'monitor', 'question', 'say', 'file', 'possible', 'anybody', 'power', 'support', 'team', 'address', 'claim', 'game']
+['monitor', 'support', 'course', 'go', 'remember', 'answer', 'game', 'appreciate', 'display', 'reply', 'point', 'say', 'number', 'question', 'ago']
+['possible', 'talk', 'question', 'remember', 'course', 'answer', 'right', 'team', 'info', 'give', 'man', 'say', 'real', 'appreciate', 'monitor']
+==============================
+topic diversity:0.08977777777777778
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.41642461410699816, c_w2v:None, c_uci:-0.3809773846793016, c_npmi:-0.015897546312482597
+mimno topic coherence:-239.4626823229434
+topic diversity:0.08977777777777778
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.41642461410699816, c_w2v:None, c_uci:-0.3809773846793016, c_npmi:-0.015897546312482597
+mimno topic coherence:-239.4626823229434

@@ -1,0 +1,586 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f22672a7550>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0003844	Loss_G:215.1233978	loss_E:0.0105336
+Epoch   1	Iter   11	Loss_D:-0.0055482	Loss_G:213.7670898	loss_E:0.0121337
+Epoch   1	Iter   21	Loss_D:-0.0119883	Loss_G:212.4137573	loss_E:0.0156478
+Epoch   2	Iter    1	Loss_D:-0.0140331	Loss_G:211.0630188	loss_E:0.0171242
+Epoch   2	Iter   11	Loss_D:-0.0223329	Loss_G:209.7180786	loss_E:0.0223099
+Epoch   2	Iter   21	Loss_D:-0.0316018	Loss_G:208.3791809	loss_E:0.0280584
+Epoch   3	Iter    1	Loss_D:-0.0340082	Loss_G:207.0411377	loss_E:0.0295423
+Epoch   3	Iter   11	Loss_D:-0.0426988	Loss_G:205.7105408	loss_E:0.0343809
+Epoch   3	Iter   21	Loss_D:-0.0507099	Loss_G:204.3839264	loss_E:0.0381934
+Epoch   4	Iter    1	Loss_D:-0.0532378	Loss_G:203.0592499	loss_E:0.0396543
+Epoch   4	Iter   11	Loss_D:-0.0593258	Loss_G:201.7405853	loss_E:0.0420052
+Epoch   4	Iter   21	Loss_D:-0.0639937	Loss_G:200.4269867	loss_E:0.0434960
+Epoch   5	Iter    1	Loss_D:-0.0664866	Loss_G:199.1147766	loss_E:0.0448958
+Epoch   5	Iter   11	Loss_D:-0.0710304	Loss_G:197.8088379	loss_E:0.0467971
+Epoch   5	Iter   21	Loss_D:-0.0743559	Loss_G:196.5069885	loss_E:0.0474366
+Epoch   6	Iter    1	Loss_D:-0.0762168	Loss_G:195.2084656	loss_E:0.0486518
+Epoch   6	Iter   11	Loss_D:-0.0791023	Loss_G:193.9145660	loss_E:0.0491087
+Epoch   6	Iter   21	Loss_D:-0.0826980	Loss_G:192.6254272	loss_E:0.0508086
+Epoch   7	Iter    1	Loss_D:-0.0843244	Loss_G:191.3391876	loss_E:0.0517986
+Epoch   7	Iter   11	Loss_D:-0.0874536	Loss_G:190.0586853	loss_E:0.0533495
+Epoch   7	Iter   21	Loss_D:-0.0891044	Loss_G:188.7818756	loss_E:0.0532326
+Epoch   8	Iter    1	Loss_D:-0.0890762	Loss_G:187.5084686	loss_E:0.0531178
+Epoch   8	Iter   11	Loss_D:-0.0917231	Loss_G:186.2403107	loss_E:0.0539682
+Epoch   8	Iter   21	Loss_D:-0.0916241	Loss_G:184.9767456	loss_E:0.0529955
+Epoch   9	Iter    1	Loss_D:-0.0920298	Loss_G:183.7161407	loss_E:0.0530613
+Epoch   9	Iter   11	Loss_D:-0.0923009	Loss_G:182.4608765	loss_E:0.0524027
+Epoch   9	Iter   21	Loss_D:-0.0949101	Loss_G:181.2095947	loss_E:0.0542197
+Epoch  10	Iter    1	Loss_D:-0.0955559	Loss_G:179.9633484	loss_E:0.0543096
+Epoch  10	Iter   11	Loss_D:-0.0945345	Loss_G:178.7200928	loss_E:0.0525477
+Epoch  10	Iter   21	Loss_D:-0.0964866	Loss_G:177.4823608	loss_E:0.0536207
+Epoch  10	Loss_D_avg:-0.0646292	Loss_G_avg:196.0154566	loss_E_avg:0.0419801
+['absurdity', 'organizer', 'forget', 'rule', 'herb', 'magazine', 'directorypub', 'invoke', 'mle', 'deg', 'successor', 'offerman', 'programming', 'danger', 'asthma']
+['loaded', 'hodge', 'wasit', 'unsigned', 'vector', 'sony', 'k', 'know', 'sink', 'unspeakable', 'herb', 'warranty', 'evenmore', 'pt', 'moon']
+['pgp', 'clearance', 'aerodynamic', 'clh', 'relationship', 'few', 'herman', 'ace', 'physic', 'decrypt', 'comeswith', 'parent', 'growth', 'glutamate', 'metzger']
+['eecg', 'hodge', 'gap', 'mvanheyn', 'flamed', 'fair', 'kelvin', 'argument', 'bombing', 'dahlquist', 'unconventional', 'corolla', 'excessive', 'sheet', 'wallow']
+['sheet', 'inch', 'localtalk', 'napoleon', 'know', 'mortal', 'mosaic', 'corolla', 'isgoe', 'acquaint', 'streak', 'nail', 'education', 'erzurum', 'tree']
+['molecular', 'makeup', 'carter', 'sony', 'meet', 'infection', 'maneuver', 'comeswith', 'forum', 'perish', 'equality', 'pity', 'liquid', 'reaction', 'ega']
+['etymology', 'pgp', 'stem', 'oq', 'obedience', 'litigation', 'thedefault', 'hidden', 'integer', 'passe', 'fabrication', 'rarely', 'eliminate', 'gas', 'brett']
+['terry', 'pathetic', 'fundamental', 'etymology', 'unacceptable', 'directive', 'growth', 'interestedin', 'enoughto', 'horse', 'eecg', 'cancer', 'nc', 'work', 'cii']
+['incorrect', 'sheet', 'daystar', 'russian', 'theorist', 'forget', 'complication', 'forother', 'trouble', 'davy', 'inch', 'owen', 'isnothe', 'someonewho', 'pity']
+['russian', 'establish', 'symbolic', 'bomb', 'jhuapl', 'characterize', 'fyn', 'ona', 'graduate', 'terry', 'sheet', 'symmetric', 'recognise', 'mediterranean', 'incorrect']
+['extensively', 'g', 'sony', 'institution', 'incredibly', 'stain', 'thepopulation', 'snail', 'cw', 'merchandise', 'armenian', 'snoop', 'whine', 'ethic', 'lr']
+['acquaint', 'kelvin', 'inclusive', 'inch', 'theability', 'rarely', 'forget', 'reserve', 'adventure', 'boss', 'wholesale', 'ass', 'peek', 'abort', 'illicit']
+['spark', 'pgp', 'dylan', 'bird', 'jayson', 'dive', 'obedience', 'awake', 'stipulate', 'larkin', 'positive', 'walkman', 'punish', 'mailbox', 'hewa']
+['despite', 'inch', 'rocket', 'atla', 'email', 'log', 'kerosene', 'axe', 'boss', 'barrett', 'yamaha', 'testimony', 'sec', 'crisp', 'penguin']
+['toilet', 'forum', 'profile', 'afghanistan', 'arrangement', 'inch', 'ac', 'foreground', 'infection', 'single', 'notion', 'assess', 'arguement', 'rockwell', 'frequency']
+['snoop', 'real', 'programming', 'dilute', 'goingto', 'baumgartner', 'tree', 'dominant', 'ararat', 'mammal', 'premature', 'sl', 'decidedthat', 'neely', 'assess']
+['argument', 'occurrence', 'delude', 'ora', 'magnum', 'dawn', 'starvation', 'futile', 'likethat', 'quantum', 'attract', 'cult', 'asp', 'interpolation', 'somepeople']
+['cosar', 'yigal', 'thor', 'satellite', 'sultan', 'emulator', 'cisc', 'evenmore', 'quality', 'metzenbaum', 'yawney', 'pin', 'burden', 'bu', 'ch']
+['chant', 'sharply', 'extensively', 'increase', 'ann', 'ace', 'deploy', 'ican', 'profile', 'wing', 'satellite', 'subordinate', 'intellectually', 'mathcad', 'bauer']
+['inch', 'sabre', 'backing', 'assign', 'miniature', 'rockwell', 'ste', 'biased', 'montgomery', 'obedience', 'cult', 'worshiper', 'atheism', 'mentality', 'sine']
+==============================
+topic diversity:0.8466666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6488381123422043, c_w2v:None, c_uci:-10.147135285220452, c_npmi:-0.3641606477179699
+mimno topic coherence:-226.49555511083972
+Epoch  11	Iter    1	Loss_D:-0.0961938	Loss_G:176.2478485	loss_E:0.0532153
+Epoch  11	Iter   11	Loss_D:-0.0970636	Loss_G:175.0189667	loss_E:0.0533376
+Epoch  11	Iter   21	Loss_D:-0.0982973	Loss_G:173.7937927	loss_E:0.0535144
+Epoch  12	Iter    1	Loss_D:-0.0962892	Loss_G:172.5728607	loss_E:0.0513560
+Epoch  12	Iter   11	Loss_D:-0.0974679	Loss_G:171.3564148	loss_E:0.0513444
+Epoch  12	Iter   21	Loss_D:-0.0986043	Loss_G:170.1445160	loss_E:0.0522317
+Epoch  13	Iter    1	Loss_D:-0.0999247	Loss_G:168.9360504	loss_E:0.0534283
+Epoch  13	Iter   11	Loss_D:-0.0996575	Loss_G:167.7332001	loss_E:0.0521092
+Epoch  13	Iter   21	Loss_D:-0.0999478	Loss_G:166.5341644	loss_E:0.0516313
+Epoch  14	Iter    1	Loss_D:-0.0995429	Loss_G:165.3394470	loss_E:0.0514247
+Epoch  14	Iter   11	Loss_D:-0.0990648	Loss_G:164.1477051	loss_E:0.0510421
+Epoch  14	Iter   21	Loss_D:-0.0999093	Loss_G:162.9620972	loss_E:0.0511809
+Epoch  15	Iter    1	Loss_D:-0.0994770	Loss_G:161.7803955	loss_E:0.0502077
+Epoch  15	Iter   11	Loss_D:-0.1019513	Loss_G:160.6034088	loss_E:0.0523209
+Epoch  15	Iter   21	Loss_D:-0.1016057	Loss_G:159.4304810	loss_E:0.0510462
+Epoch  16	Iter    1	Loss_D:-0.1003591	Loss_G:158.2607880	loss_E:0.0507264
+Epoch  16	Iter   11	Loss_D:-0.1008747	Loss_G:157.0955963	loss_E:0.0511300
+Epoch  16	Iter   21	Loss_D:-0.1015385	Loss_G:155.9369202	loss_E:0.0507633
+Epoch  17	Iter    1	Loss_D:-0.1013554	Loss_G:154.7804871	loss_E:0.0507369
+Epoch  17	Iter   11	Loss_D:-0.1015661	Loss_G:153.6293945	loss_E:0.0504721
+Epoch  17	Iter   21	Loss_D:-0.1004963	Loss_G:152.4817505	loss_E:0.0495939
+Epoch  18	Iter    1	Loss_D:-0.1015393	Loss_G:151.3393250	loss_E:0.0508022
+Epoch  18	Iter   11	Loss_D:-0.1031948	Loss_G:150.2015076	loss_E:0.0509821
+Epoch  18	Iter   21	Loss_D:-0.1020973	Loss_G:149.0673828	loss_E:0.0500622
+Epoch  19	Iter    1	Loss_D:-0.1019738	Loss_G:147.9373779	loss_E:0.0500189
+Epoch  19	Iter   11	Loss_D:-0.1024669	Loss_G:146.8133240	loss_E:0.0495285
+Epoch  19	Iter   21	Loss_D:-0.1050794	Loss_G:145.6913452	loss_E:0.0526252
+Epoch  20	Iter    1	Loss_D:-0.1022818	Loss_G:144.5751953	loss_E:0.0494633
+Epoch  20	Iter   11	Loss_D:-0.1024595	Loss_G:143.4620361	loss_E:0.0498058
+Epoch  20	Iter   21	Loss_D:-0.1032647	Loss_G:142.3547211	loss_E:0.0504158
+Epoch  20	Loss_D_avg:-0.0825737	Loss_G_avg:177.5115367	loss_E_avg:0.0465987
+['organizer', 'absurdity', 'rule', 'forget', 'herb', 'offerman', 'mle', 'directorypub', 'invoke', 'deg', 'asthma', 'magazine', 'successor', 'programming', 'danger']
+['loaded', 'know', 'hodge', 'k', 'wasit', 'unsigned', 'vector', 'sony', 'warranty', 'herb', 'unspeakable', 'pt', 'sink', 'evenmore', 'lz']
+['pgp', 'clearance', 'aerodynamic', 'physic', 'parent', 'ace', 'relationship', 'comeswith', 'glutamate', 'invoke', 'metzger', 'growth', 'few', 'herman', 'clh']
+['eecg', 'gap', 'hodge', 'mvanheyn', 'flamed', 'fair', 'kelvin', 'occurrence', 'sheet', 'argument', 'bombing', 'dahlquist', 'satisfy', 'wallow', 'celebrate']
+['inch', 'sheet', 'localtalk', 'napoleon', 'know', 'mortal', 'acquaint', 'isgoe', 'corolla', 'nail', 'share', 'streak', 'mosaic', 'mrs', 'disarm']
+['carter', 'sony', 'molecular', 'makeup', 'forum', 'perish', 'infection', 'equality', 'pity', 'invalidate', 'mo', 'jose', 'meet', 'maneuver', 'comeswith']
+['etymology', 'stem', 'pgp', 'litigation', 'obedience', 'oq', 'hidden', 'passe', 'integer', 'eliminate', 'gas', 'brett', 'rarely', 'higher', 'fabrication']
+['terry', 'pathetic', 'etymology', 'unacceptable', 'growth', 'interestedin', 'cancer', 'fundamental', 'enoughto', 'directive', 'cii', 'eecg', 'horse', 'surprise', 'nc']
+['russian', 'incorrect', 'sheet', 'daystar', 'forget', 'theorist', 'trouble', 'inch', 'stride', 'complication', 'forother', 'isnothe', 'someonewho', 'pity', 'magnify']
+['russian', 'establish', 'symbolic', 'characterize', 'jhuapl', 'ona', 'bomb', 'fyn', 'sheet', 'graduate', 'terry', 'mediterranean', 'vocal', 'technician', 'symmetric']
+['extensively', 'sony', 'g', 'thepopulation', 'incredibly', 'institution', 'merchandise', 'snoop', 'stain', 'whine', 'selke', 'ethic', 'lr', 'armenian', 'thesystem']
+['kelvin', 'acquaint', 'inch', 'inclusive', 'theability', 'forget', 'peek', 'artillery', 'adventure', 'rarely', 'abort', 'may', 'reserve', 'illicit', 'kan']
+['pgp', 'dylan', 'spark', 'jayson', 'ala', 'bird', 'stipulate', 'dive', 'positive', 'obedience', 'awake', 'restraint', 'cubic', 'larkin', 'comeswith']
+['despite', 'inch', 'rocket', 'atla', 'log', 'barrett', 'testimony', 'kerosene', 'email', 'yamaha', 'ethic', 'boss', 'hehehe', 'lyme', 'sec']
+['forum', 'toilet', 'profile', 'arrangement', 'afghanistan', 'ac', 'inch', 'foreground', 'single', 'infection', 'notion', 'carson', 'assess', 'arguement', 'rockwell']
+['snoop', 'real', 'programming', 'dilute', 'dominant', 'ararat', 'decidedthat', 'carter', 'goingto', 'baumgartner', 'isnothe', 'assess', 'sl', 'neely', 'tree']
+['argument', 'occurrence', 'delude', 'ora', 'quantum', 'starvation', 'magnum', 'futile', 'interpolation', 'attract', 'likethat', 'smythe', 'dawn', 'cult', 'asp']
+['cosar', 'yigal', 'satellite', 'thor', 'sultan', 'cisc', 'emulator', 'yawney', 'evenmore', 'quality', 'baerga', 'metzenbaum', 'pin', 'bu', 'monday']
+['sharply', 'extensively', 'ann', 'increase', 'chant', 'ace', 'intellectually', 'ican', 'subordinate', 'satellite', 'wing', 'deploy', 'profile', 'dominant', 'ev']
+['inch', 'backing', 'sabre', 'assign', 'ste', 'rockwell', 'biased', 'miniature', 'cult', 'montgomery', 'safe', 'tackle', 'obedience', 'cache', 'mentality']
+==============================
+topic diversity:0.8366666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6538001396977838, c_w2v:None, c_uci:-10.193034315501103, c_npmi:-0.36603453549708814
+mimno topic coherence:-233.4163546541948
+Epoch  21	Iter    1	Loss_D:-0.1035765	Loss_G:141.2507782	loss_E:0.0506723
+Epoch  21	Iter   11	Loss_D:-0.1053858	Loss_G:140.1515808	loss_E:0.0523485
+Epoch  21	Iter   21	Loss_D:-0.1039457	Loss_G:139.0564270	loss_E:0.0508824
+Epoch  22	Iter    1	Loss_D:-0.1040133	Loss_G:137.9663696	loss_E:0.0509801
+Epoch  22	Iter   11	Loss_D:-0.1025612	Loss_G:136.8791962	loss_E:0.0496894
+Epoch  22	Iter   21	Loss_D:-0.1036469	Loss_G:135.7979126	loss_E:0.0502963
+Epoch  23	Iter    1	Loss_D:-0.1034112	Loss_G:134.7200928	loss_E:0.0501828
+Epoch  23	Iter   11	Loss_D:-0.1024801	Loss_G:133.6472015	loss_E:0.0494104
+Epoch  23	Iter   21	Loss_D:-0.1024757	Loss_G:132.5774841	loss_E:0.0499018
+Epoch  24	Iter    1	Loss_D:-0.1034530	Loss_G:131.5134583	loss_E:0.0507396
+Epoch  24	Iter   11	Loss_D:-0.1034767	Loss_G:130.4530029	loss_E:0.0505224
+Epoch  24	Iter   21	Loss_D:-0.1043362	Loss_G:129.3973999	loss_E:0.0518446
+Epoch  25	Iter    1	Loss_D:-0.1024173	Loss_G:128.3459167	loss_E:0.0497666
+Epoch  25	Iter   11	Loss_D:-0.1052611	Loss_G:127.2997360	loss_E:0.0518059
+Epoch  25	Iter   21	Loss_D:-0.1030355	Loss_G:126.2560501	loss_E:0.0503875
+Epoch  26	Iter    1	Loss_D:-0.1028934	Loss_G:125.2185745	loss_E:0.0501204
+Epoch  26	Iter   11	Loss_D:-0.1023291	Loss_G:124.1840668	loss_E:0.0494057
+Epoch  26	Iter   21	Loss_D:-0.1032015	Loss_G:123.1544342	loss_E:0.0504929
+Epoch  27	Iter    1	Loss_D:-0.1044350	Loss_G:122.1293335	loss_E:0.0515157
+Epoch  27	Iter   11	Loss_D:-0.1045213	Loss_G:121.1087341	loss_E:0.0517559
+Epoch  27	Iter   21	Loss_D:-0.1037611	Loss_G:120.0920029	loss_E:0.0508400
+Epoch  28	Iter    1	Loss_D:-0.1040013	Loss_G:119.0794373	loss_E:0.0517143
+Epoch  28	Iter   11	Loss_D:-0.1043365	Loss_G:118.0715561	loss_E:0.0515295
+Epoch  28	Iter   21	Loss_D:-0.1042498	Loss_G:117.0687866	loss_E:0.0512935
+Epoch  29	Iter    1	Loss_D:-0.1039793	Loss_G:116.0690308	loss_E:0.0513963
+Epoch  29	Iter   11	Loss_D:-0.1039656	Loss_G:115.0741272	loss_E:0.0515819
+Epoch  29	Iter   21	Loss_D:-0.1023040	Loss_G:114.0835876	loss_E:0.0497791
+Epoch  30	Iter    1	Loss_D:-0.1039524	Loss_G:113.0981140	loss_E:0.0515082
+Epoch  30	Iter   11	Loss_D:-0.1033729	Loss_G:112.1154327	loss_E:0.0512029
+Epoch  30	Iter   21	Loss_D:-0.1053875	Loss_G:111.1380310	loss_E:0.0534836
+Epoch  30	Loss_D_avg:-0.0896065	Loss_G_avg:160.3076673	loss_E_avg:0.0480330
+['organizer', 'rule', 'absurdity', 'forget', 'offerman', 'directorypub', 'mle', 'herb', 'asthma', 'know', 'catholic', 'invoke', 'deg', 'successor', 'russian']
+['know', 'loaded', 'k', 'unsigned', 'sony', 'hodge', 'wasit', 'vector', 'warranty', 'pt', 'herb', 'unspeakable', 'lz', 'sink', 'terminate']
+['pgp', 'clearance', 'parent', 'aerodynamic', 'ace', 'comeswith', 'physic', 'metzger', 'glutamate', 'invoke', 'relationship', 'e', 'extensively', 'growth', 'herman']
+['gap', 'eecg', 'mvanheyn', 'hodge', 'fair', 'kelvin', 'flamed', 'sheet', 'occurrence', 'argument', 'satisfy', 'lid', 'bombing', 'celebrate', 'jayson']
+['inch', 'sheet', 'localtalk', 'know', 'napoleon', 'mortal', 'mrs', 'share', 'acquaint', 'isgoe', 'nail', 'streak', 'sony', 'disarm', 'hateful']
+['sony', 'carter', 'forum', 'perish', 'invalidate', 'equality', 'jose', 'pity', 'minister', 'molecular', 'infection', 'makeup', 'ecf', 'mo', 'reaction']
+['stem', 'etymology', 'pgp', 'litigation', 'obedience', 'hidden', 'passe', 'brett', 'higher', 'oq', 'lyme', 'integer', 'gas', 'eliminate', 'toll']
+['terry', 'pathetic', 'cancer', 'unacceptable', 'etymology', 'growth', 'interestedin', 'enoughto', 'fundamental', 'cii', 'eecg', 'surprise', 'horse', 'directive', 'solid']
+['russian', 'sheet', 'stride', 'incorrect', 'trouble', 'daystar', 'forget', 'inch', 'xmodmap', 'someonewho', 'theorist', 'dominant', 'isnothe', 'magnify', 'ter']
+['russian', 'establish', 'symbolic', 'characterize', 'ona', 'sheet', 'vocal', 'fyn', 'jhuapl', 'terry', 'mediterranean', 'bomb', 'graduate', 'thoughi', 'technician']
+['extensively', 'sony', 'thepopulation', 'incredibly', 'merchandise', 'snoop', 'ethic', 'g', 'institution', 'selke', 'lr', 'legislative', 'thesystem', 'stain', 'whine']
+['kelvin', 'acquaint', 'inch', 'inclusive', 'theability', 'forget', 'artillery', 'peek', 'document', 'may', 'abort', 'herb', 'adventure', 'rarely', 'reserve']
+['pgp', 'dylan', 'ala', 'dive', 'stipulate', 'jayson', 'spark', 'bird', 'cubic', 'comeswith', 'positive', 'restraint', 'toour', 'ecf', 'sincethe']
+['despite', 'inch', 'rocket', 'ethic', 'testimony', 'atla', 'yamaha', 'log', 'hehehe', 'lyme', 'barrett', 'email', 'kerosene', 'interestedin', 'boss']
+['forum', 'toilet', 'profile', 'arrangement', 'inch', 'ac', 'afghanistan', 'carson', 'single', 'foreground', 'infection', 'assess', 'stipulate', 'slow', 'notion']
+['snoop', 'real', 'dilute', 'programming', 'decidedthat', 'carter', 'ararat', 'dominant', 'isnothe', 'thebook', 'neely', 'mammal', 'higher', 'premature', 'assess']
+['argument', 'delude', 'occurrence', 'quantum', 'ora', 'starvation', 'futile', 'extensively', 'interpolation', 'das', 'smythe', 'magnum', 'likethat', 'attract', 'asp']
+['cosar', 'yigal', 'satellite', 'sultan', 'thor', 'cisc', 'yawney', 'monday', 'baerga', 'quality', 'emulator', 'metzenbaum', 'soldier', 'bu', 'minister']
+['sharply', 'ann', 'extensively', 'increase', 'ace', 'chant', 'ev', 'subordinate', 'reservoir', 'intellectually', 'ican', 'dominant', 'sweet', 'profile', 'wing']
+['sabre', 'inch', 'backing', 'ste', 'rockwell', 'assign', 'biased', 'cache', 'tackle', 'cult', 'mentality', 'miniature', 'safe', 'worshiper', 'coordinated']
+==============================
+topic diversity:0.8233333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6476607695840854, c_w2v:None, c_uci:-10.095276900943958, c_npmi:-0.3622620559279358
+mimno topic coherence:-235.0774946706055
+Epoch  31	Iter    1	Loss_D:-0.1030229	Loss_G:110.1650391	loss_E:0.0510791
+Epoch  31	Iter   11	Loss_D:-0.1019975	Loss_G:109.1965256	loss_E:0.0504428
+Epoch  31	Iter   21	Loss_D:-0.1046502	Loss_G:108.2316284	loss_E:0.0533142
+Epoch  32	Iter    1	Loss_D:-0.1029355	Loss_G:107.2719421	loss_E:0.0516097
+Epoch  32	Iter   11	Loss_D:-0.1039214	Loss_G:106.3158798	loss_E:0.0525722
+Epoch  32	Iter   21	Loss_D:-0.1048991	Loss_G:105.3651733	loss_E:0.0537091
+Epoch  33	Iter    1	Loss_D:-0.1042682	Loss_G:104.4179840	loss_E:0.0531752
+Epoch  33	Iter   11	Loss_D:-0.1035667	Loss_G:103.4756012	loss_E:0.0524483
+Epoch  33	Iter   21	Loss_D:-0.1042213	Loss_G:102.5372925	loss_E:0.0530682
+Epoch  34	Iter    1	Loss_D:-0.1033441	Loss_G:101.6042633	loss_E:0.0520077
+Epoch  34	Iter   11	Loss_D:-0.1042333	Loss_G:100.6736908	loss_E:0.0533097
+Epoch  34	Iter   21	Loss_D:-0.1021573	Loss_G:99.7483368	loss_E:0.0516464
+Epoch  35	Iter    1	Loss_D:-0.1043065	Loss_G:98.8275375	loss_E:0.0537616
+Epoch  35	Iter   11	Loss_D:-0.1035792	Loss_G:97.9112396	loss_E:0.0533983
+Epoch  35	Iter   21	Loss_D:-0.1036356	Loss_G:96.9989014	loss_E:0.0534157
+Epoch  36	Iter    1	Loss_D:-0.1035039	Loss_G:96.0913162	loss_E:0.0534587
+Epoch  36	Iter   11	Loss_D:-0.1041874	Loss_G:95.1874924	loss_E:0.0540840
+Epoch  36	Iter   21	Loss_D:-0.1031222	Loss_G:94.2888489	loss_E:0.0534011
+Epoch  37	Iter    1	Loss_D:-0.1049771	Loss_G:93.3940353	loss_E:0.0552767
+Epoch  37	Iter   11	Loss_D:-0.1030378	Loss_G:92.5039062	loss_E:0.0533516
+Epoch  37	Iter   21	Loss_D:-0.1051062	Loss_G:91.6179276	loss_E:0.0554114
+Epoch  38	Iter    1	Loss_D:-0.1044370	Loss_G:90.7371216	loss_E:0.0548068
+Epoch  38	Iter   11	Loss_D:-0.1049207	Loss_G:89.8597641	loss_E:0.0549326
+Epoch  38	Iter   21	Loss_D:-0.1035007	Loss_G:88.9871140	loss_E:0.0536544
+Epoch  39	Iter    1	Loss_D:-0.1043108	Loss_G:88.1190796	loss_E:0.0541234
+Epoch  39	Iter   11	Loss_D:-0.1050344	Loss_G:87.2558060	loss_E:0.0546280
+Epoch  39	Iter   21	Loss_D:-0.1053568	Loss_G:86.3956375	loss_E:0.0551817
+Epoch  40	Iter    1	Loss_D:-0.1046160	Loss_G:85.5407562	loss_E:0.0543608
+Epoch  40	Iter   11	Loss_D:-0.1035754	Loss_G:84.6892395	loss_E:0.0533692
+Epoch  40	Iter   21	Loss_D:-0.1049496	Loss_G:83.8435211	loss_E:0.0545672
+Epoch  40	Loss_D_avg:-0.0931997	Loss_G_avg:144.4078555	loss_E_avg:0.0493878
+['organizer', 'offerman', 'rule', 'forget', 'directorypub', 'know', 'mle', 'absurdity', 'asthma', 'willbe', 'herb', 'catholic', 'nasty', 'pump', 'russian']
+['know', 'loaded', 'unsigned', 'k', 'sony', 'terminate', 'lz', 'wasit', 'vector', 'hodge', 'pt', 'directorypub', 'unspeakable', 'warranty', 'herb']
+['parent', 'pgp', 'metzger', 'comeswith', 'ace', 'clearance', 'physic', 'glutamate', 'aerodynamic', 'invoke', 'relationship', 'stone', 'extensively', 'succeed', 'gg']
+['gap', 'kelvin', 'mvanheyn', 'sheet', 'hodge', 'fair', 'eecg', 'lid', 'satisfy', 'occurrence', 'flamed', 'argument', 'islander', 'soldering', 'keepthe']
+['inch', 'sheet', 'localtalk', 'mortal', 'know', 'napoleon', 'mrs', 'share', 'sony', 'isgoe', 'acquaint', 'disarm', 'hateful', 'streak', 'freeware']
+['carter', 'sony', 'forum', 'invalidate', 'perish', 'equality', 'jose', 'ecf', 'minister', 'reaction', 'infection', 'magnify', 'extensively', 'pity', 'ega']
+['stem', 'etymology', 'litigation', 'pgp', 'hidden', 'lyme', 'higher', 'obedience', 'brett', 'passe', 'polished', 'toll', 'oq', 'theorist', 'gas']
+['terry', 'pathetic', 'cancer', 'unacceptable', 'interestedin', 'etymology', 'growth', 'eecg', 'enoughto', 'mediterranean', 'surprise', 'solid', 'polished', 'cii', 'partof']
+['russian', 'stride', 'trouble', 'ter', 'incorrect', 'forget', 'sheet', 'inch', 'xmodmap', 'magnify', 'sne', 'backing', 'someonewho', 'daystar', 'manhattan']
+['establish', 'russian', 'characterize', 'ona', 'sheet', 'vocal', 'terry', 'symbolic', 'mediterranean', 'fyn', 'jhuapl', 'thoughi', 'parasite', 'ability', 'bomb']
+['extensively', 'sony', 'thepopulation', 'legislative', 'incredibly', 'ethic', 'merchandise', 'snoop', 'lr', 'thesystem', 'worthy', 'rickey', 'arizona', 'un', 'bhjn']
+['kelvin', 'inch', 'acquaint', 'document', 'artillery', 'inclusive', 'theability', 'forget', 'may', 'abort', 'extensively', 'herb', 'peek', 'innings', 'forfeit']
+['pgp', 'ala', 'dylan', 'comeswith', 'stipulate', 'dive', 'cubic', 'toour', 'restraint', 'ecf', 'bird', 'jayson', 'sincethe', 'spark', 'amonte']
+['despite', 'inch', 'rocket', 'ethic', 'hehehe', 'testimony', 'lyme', 'atla', 'log', 'pic', 'yamaha', 'totell', 'aaron', 'email', 'lxaw']
+['arrangement', 'forum', 'profile', 'toilet', 'carson', 'inch', 'ac', 'afghanistan', 'single', 'stipulate', 'whenthey', 'snag', 'slow', 'frequency', 'assess']
+['snoop', 'real', 'decidedthat', 'carter', 'programming', 'dilute', 'ararat', 'higher', 'theold', 'thebook', 'dominant', 'nota', 'soldier', 'isnothe', 'mentality']
+['argument', 'delude', 'quantum', 'occurrence', 'starvation', 'extensively', 'ora', 'das', 'futile', 'interpolation', 'smythe', 'polished', 'divider', 'vector', 'likethat']
+['yigal', 'cosar', 'sultan', 'satellite', 'monday', 'cisc', 'yawney', 'thor', 'baerga', 'soldier', 'minister', 'bitter', 'liverpool', 'gfx', 'metzenbaum']
+['ann', 'sharply', 'ev', 'increase', 'ace', 'extensively', 'ala', 'reservoir', 'subordinate', 'thequestion', 'sweet', 'theorist', 'chant', 'dominant', 'leo']
+['sabre', 'ste', 'assign', 'backing', 'biased', 'rockwell', 'inch', 'extensively', 'cache', 'tackle', 'ofwhich', 'wiretap', 'commandment', 'coordinated', 'mentality']
+==============================
+topic diversity:0.8066666666666666
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6502967303887547, c_w2v:None, c_uci:-10.001065589812516, c_npmi:-0.359053517035071
+mimno topic coherence:-232.87426653571052
+Epoch  41	Iter    1	Loss_D:-0.1053411	Loss_G:83.0009460	loss_E:0.0550672
+Epoch  41	Iter   11	Loss_D:-0.1042162	Loss_G:82.1634521	loss_E:0.0537951
+Epoch  41	Iter   21	Loss_D:-0.1045783	Loss_G:81.3295059	loss_E:0.0545243
+Epoch  42	Iter    1	Loss_D:-0.1038965	Loss_G:80.5011215	loss_E:0.0536825
+Epoch  42	Iter   11	Loss_D:-0.1047260	Loss_G:79.6751785	loss_E:0.0550409
+Epoch  42	Iter   21	Loss_D:-0.1042416	Loss_G:78.8548965	loss_E:0.0546353
+Epoch  43	Iter    1	Loss_D:-0.1039274	Loss_G:78.0385818	loss_E:0.0544830
+Epoch  43	Iter   11	Loss_D:-0.1033526	Loss_G:77.2271347	loss_E:0.0542127
+Epoch  43	Iter   21	Loss_D:-0.1040193	Loss_G:76.4196777	loss_E:0.0546815
+Epoch  44	Iter    1	Loss_D:-0.1049511	Loss_G:75.6171646	loss_E:0.0554341
+Epoch  44	Iter   11	Loss_D:-0.1036704	Loss_G:74.8178101	loss_E:0.0543356
+Epoch  44	Iter   21	Loss_D:-0.1037578	Loss_G:74.0245590	loss_E:0.0540136
+Epoch  45	Iter    1	Loss_D:-0.1042037	Loss_G:73.2342529	loss_E:0.0546852
+Epoch  45	Iter   11	Loss_D:-0.1034072	Loss_G:72.4484711	loss_E:0.0542478
+Epoch  45	Iter   21	Loss_D:-0.1041521	Loss_G:71.6668472	loss_E:0.0553131
+Epoch  46	Iter    1	Loss_D:-0.1058080	Loss_G:70.8912048	loss_E:0.0564840
+Epoch  46	Iter   11	Loss_D:-0.1056672	Loss_G:70.1178665	loss_E:0.0565406
+Epoch  46	Iter   21	Loss_D:-0.1024238	Loss_G:69.3501587	loss_E:0.0532011
+Epoch  47	Iter    1	Loss_D:-0.1027654	Loss_G:68.5866241	loss_E:0.0533127
+Epoch  47	Iter   11	Loss_D:-0.1034118	Loss_G:67.8278732	loss_E:0.0539364
+Epoch  47	Iter   21	Loss_D:-0.1047717	Loss_G:67.0727386	loss_E:0.0551855
+Epoch  48	Iter    1	Loss_D:-0.1042753	Loss_G:66.3221436	loss_E:0.0550595
+Epoch  48	Iter   11	Loss_D:-0.1040155	Loss_G:65.5753632	loss_E:0.0548490
+Epoch  48	Iter   21	Loss_D:-0.1048207	Loss_G:64.8341293	loss_E:0.0556236
+Epoch  49	Iter    1	Loss_D:-0.1030942	Loss_G:64.0963211	loss_E:0.0539842
+Epoch  49	Iter   11	Loss_D:-0.1059820	Loss_G:63.3634109	loss_E:0.0567939
+Epoch  49	Iter   21	Loss_D:-0.1047553	Loss_G:62.6342697	loss_E:0.0557550
+Epoch  50	Iter    1	Loss_D:-0.1040897	Loss_G:61.9107704	loss_E:0.0548381
+Epoch  50	Iter   11	Loss_D:-0.1021804	Loss_G:61.1899071	loss_E:0.0530713
+Epoch  50	Iter   21	Loss_D:-0.1050689	Loss_G:60.4742165	loss_E:0.0561172
+Epoch  50	Loss_D_avg:-0.0953969	Loss_G_avg:129.8147284	loss_E_avg:0.0504629
+['offerman', 'organizer', 'forget', 'directorypub', 'know', 'absurdity', 'willbe', 'mle', 'rule', 'weshould', 'asthma', 'nasty', 'pump', 'catholic', 'analyze']
+['know', 'unsigned', 'loaded', 'terminate', 'sony', 'lz', 'k', 'directorypub', 'wasit', 'safe', 'compton', 'ter', 'vector', 'hodge', 'sink']
+['parent', 'metzger', 'comeswith', 'pgp', 'glutamate', 'ace', 'respect', 'clearance', 'ithought', 'stone', 'physic', 'extensively', 'establish', 'invoke', 'succeed']
+['sheet', 'kelvin', 'fair', 'mvanheyn', 'keepthe', 'gap', 'lid', 'satisfy', 'visualization', 'hodge', 'courtyard', 'islander', 'argument', 'jayson', 'eecg']
+['inch', 'localtalk', 'sheet', 'mortal', 'know', 'mrs', 'sony', 'kim', 'share', 'napoleon', 'freeware', 'disarm', 'streak', 'corolla', 'isgoe']
+['carter', 'forum', 'sony', 'invalidate', 'equality', 'ecf', 'perish', 'jose', 'minister', 'extensively', 'reaction', 'powerbook', 'paslawski', 'magnify', 'karabakh']
+['stem', 'etymology', 'litigation', 'lyme', 'pgp', 'higher', 'passe', 'polished', 'obedience', 'brett', 'hidden', 'toll', 'old', 'infringement', 'immune']
+['terry', 'pathetic', 'unacceptable', 'cancer', 'growth', 'etymology', 'interestedin', 'mediterranean', 'eecg', 'judgement', 'surprise', 'partof', 'solid', 'polished', 'enoughto']
+['trouble', 'russian', 'ter', 'stride', 'sne', 'forget', 'incorrect', 'manhattan', 'xmodmap', 'hou', 'hb', 'magnify', 'backing', 'institute', 'inch']
+['establish', 'russian', 'sheet', 'ona', 'characterize', 'vocal', 'terry', 'mediterranean', 'parasite', 'evacuate', 'thoughi', 'fyn', 'symbolic', 'ability', 'jhuapl']
+['extensively', 'sony', 'thepopulation', 'legislative', 'merchandise', 'lr', 'snoop', 'incredibly', 'ethic', 'embargo', 'rickey', 'bhjn', 'thesystem', 'someonewho', 'deluxe']
+['kelvin', 'inch', 'document', 'acquaint', 'artillery', 'may', 'extensively', 'theability', 'abort', 'inclusive', 'innings', 'forfeit', 'forget', 'herb', 'disturbance']
+['ala', 'dylan', 'pgp', 'stipulate', 'toour', 'comeswith', 'cubic', 'restraint', 'creighton', 'ecf', 'amonte', 'withyou', 'awake', 'run', 'dive']
+['rocket', 'despite', 'inch', 'aaron', 'ethic', 'nationwide', 'totell', 'hehehe', 'testimony', 'pic', 'lyme', 'atla', 'filtering', 'email', 'minister']
+['arrangement', 'profile', 'carson', 'forum', 'toilet', 'frequency', 'inherent', 'single', 'ac', 'inch', 'plate', 'stipulate', 'whenthey', 'afghanistan', 'foreground']
+['snoop', 'real', 'decidedthat', 'carter', 'higher', 'soldier', 'ararat', 'theold', 'nota', 'mentality', 'sign', 'mammal', 'thebook', 'programming', 'scroll']
+['argument', 'delude', 'quantum', 'extensively', 'starvation', 'polished', 'occurrence', 'ora', 'futile', 'das', 'ihl', 'vector', 'smythe', 'likethat', 'divider']
+['yigal', 'monday', 'sultan', 'cosar', 'yawney', 'liverpool', 'satellite', 'minister', 'cisc', 'bitter', 'shocking', 'gfx', 'semitism', 'liquid', 'thor']
+['ev', 'ann', 'ala', 'sharply', 'ace', 'thequestion', 'sweet', 'increase', 'extensively', 'thatif', 'vk', 'theorist', 'projectile', 'aaron', 'reservoir']
+['assign', 'ste', 'sabre', 'extensively', 'biased', 'wiretap', 'backing', 'tackle', 'commandment', 'cache', 'xx', 'amorc', 'rockwell', 'ofwhich', 'coordinated']
+==============================
+topic diversity:0.83
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6335726534972482, c_w2v:None, c_uci:-9.967879076682264, c_npmi:-0.357110201002558
+mimno topic coherence:-227.7688305217788
+Epoch  51	Iter    1	Loss_D:-0.1062287	Loss_G:59.7628517	loss_E:0.0572540
+Epoch  51	Iter   11	Loss_D:-0.1050339	Loss_G:59.0562439	loss_E:0.0562286
+Epoch  51	Iter   21	Loss_D:-0.1042265	Loss_G:58.3532257	loss_E:0.0554781
+Epoch  52	Iter    1	Loss_D:-0.1033511	Loss_G:57.6552277	loss_E:0.0546850
+Epoch  52	Iter   11	Loss_D:-0.1048667	Loss_G:56.9609184	loss_E:0.0560496
+Epoch  52	Iter   21	Loss_D:-0.1030165	Loss_G:56.2718849	loss_E:0.0542881
+Epoch  53	Iter    1	Loss_D:-0.1056725	Loss_G:55.5866547	loss_E:0.0568177
+Epoch  53	Iter   11	Loss_D:-0.1047440	Loss_G:54.9059792	loss_E:0.0560237
+Epoch  53	Iter   21	Loss_D:-0.1038730	Loss_G:54.2295380	loss_E:0.0550094
+Epoch  54	Iter    1	Loss_D:-0.1044068	Loss_G:53.5578308	loss_E:0.0558898
+Epoch  54	Iter   11	Loss_D:-0.1059388	Loss_G:52.8896027	loss_E:0.0573302
+Epoch  54	Iter   21	Loss_D:-0.1043249	Loss_G:52.2264023	loss_E:0.0559287
+Epoch  55	Iter    1	Loss_D:-0.1037721	Loss_G:51.5673256	loss_E:0.0554121
+Epoch  55	Iter   11	Loss_D:-0.1042973	Loss_G:50.9131584	loss_E:0.0559845
+Epoch  55	Iter   21	Loss_D:-0.1025793	Loss_G:50.2629395	loss_E:0.0540308
+Epoch  56	Iter    1	Loss_D:-0.1028513	Loss_G:49.6172943	loss_E:0.0544512
+Epoch  56	Iter   11	Loss_D:-0.1027732	Loss_G:48.9752235	loss_E:0.0544449
+Epoch  56	Iter   21	Loss_D:-0.1045680	Loss_G:48.3385849	loss_E:0.0563097
+Epoch  57	Iter    1	Loss_D:-0.1055074	Loss_G:47.7053909	loss_E:0.0574632
+Epoch  57	Iter   11	Loss_D:-0.1048235	Loss_G:47.0774269	loss_E:0.0565624
+Epoch  57	Iter   21	Loss_D:-0.1040440	Loss_G:46.4533386	loss_E:0.0556168
+Epoch  58	Iter    1	Loss_D:-0.1046967	Loss_G:45.8340378	loss_E:0.0565566
+Epoch  58	Iter   11	Loss_D:-0.1031565	Loss_G:45.2184677	loss_E:0.0546482
+Epoch  58	Iter   21	Loss_D:-0.1043350	Loss_G:44.6075211	loss_E:0.0560458
+Epoch  59	Iter    1	Loss_D:-0.1067160	Loss_G:44.0012398	loss_E:0.0580201
+Epoch  59	Iter   11	Loss_D:-0.1053895	Loss_G:43.3996468	loss_E:0.0566235
+Epoch  59	Iter   21	Loss_D:-0.1041284	Loss_G:42.8015251	loss_E:0.0553001
+Epoch  60	Iter    1	Loss_D:-0.1048760	Loss_G:42.2083054	loss_E:0.0561926
+Epoch  60	Iter   11	Loss_D:-0.1027583	Loss_G:41.6189842	loss_E:0.0537507
+Epoch  60	Iter   21	Loss_D:-0.1055076	Loss_G:41.0347290	loss_E:0.0565419
+Epoch  60	Loss_D_avg:-0.0969000	Loss_G_avg:116.5294486	loss_E_avg:0.0513577
+['offerman', 'weshould', 'willbe', 'know', 'organizer', 'analyze', 'absurdity', 'directorypub', 'ter', 'forget', 'nasty', 'fait', 'creighton', 'hansen', 'sabre']
+['know', 'unsigned', 'terminate', 'sony', 'lz', 'directorypub', 'loaded', 'compton', 'k', 'file', 'sink', 'safe', 'deduction', 'linux', 'wasit']
+['parent', 'metzger', 'respect', 'stone', 'establish', 'comeswith', 'ithought', 'glutamate', 'evidence', 'pgp', 'extensively', 'russian', 'immune', 'communist', 'physic']
+['keepthe', 'kelvin', 'visualization', 'sheet', 'courtyard', 'satisfy', 'mvanheyn', 'lid', 'fair', 'extensively', 'islander', 'argument', 'jayson', 'gap', 'equate']
+['localtalk', 'inch', 'sheet', 'kim', 'mortal', 'know', 'mrs', 'sony', 'share', 'freeware', 'streak', 'napoleon', 'corolla', 'disarm', 'acton']
+['carter', 'ecf', 'forum', 'sony', 'equality', 'invalidate', 'powerbook', 'jose', 'surplus', 'extensively', 'xcreatewindow', 'perish', 'vastly', 'reaction', 'minister']
+['stem', 'etymology', 'litigation', 'lyme', 'polished', 'passe', 'higher', 'infringement', 'obedience', 'toll', 'plight', 'hidden', 'pgp', 'brett', 'game']
+['growth', 'unacceptable', 'terry', 'pathetic', 'eecg', 'cancer', 'etymology', 'interestedin', 'judgement', 'polished', 'mediterranean', 'enoughto', 'surprise', 'partof', 'forum']
+['trouble', 'ter', 'russian', 'sne', 'stride', 'hou', 'manhattan', 'institute', 'forget', 'testimony', 'soldier', 'know', 'hb', 'incorrect', 'manipulate']
+['establish', 'russian', 'vocal', 'sheet', 'terry', 'ona', 'evacuate', 'parasite', 'characterize', 'mediterranean', 'royal', 'seating', 'thoughi', 'deploy', 'fyn']
+['extensively', 'legislative', 'embargo', 'sony', 'merchandise', 'thepopulation', 'someonewho', 'deluxe', 'lr', 'incredibly', 'snoop', 'bhjn', 'flex', 'escrow', 'ethic']
+['kelvin', 'document', 'artillery', 'inch', 'may', 'extensively', 'disturbance', 'forfeit', 'gunfire', 'abort', 'thesystem', 'innings', 'acquaint', 'herb', 'typhoon']
+['ala', 'stipulate', 'creighton', 'dylan', 'toour', 'pgp', 'withyou', 'restraint', 'cubic', 'brett', 'comeswith', 'extensively', 'ecf', 'awake', 'amonte']
+['rocket', 'nationwide', 'despite', 'aaron', 'ethic', 'inch', 'totell', 'te', 'testimony', 'sentra', 'filtering', 'minister', 'hehehe', 'pic', 'uxa']
+['carson', 'arrangement', 'profile', 'abort', 'inherent', 'single', 'forum', 'content', 'plate', 'frequency', 'incorrect', 'whenthey', 'ac', 'afghanistan', 'factthat']
+['decidedthat', 'real', 'snoop', 'higher', 'soldier', 'carter', 'itchy', 'theold', 'jokerit', 'oracle', 'ararat', 'mentality', 'scroll', 'sign', 'sheet']
+['argument', 'delude', 'quantum', 'extensively', 'polished', 'starvation', 'futile', 'ihl', 'vector', 'x', 'rocket', 'das', 'ora', 'mud', 'interpolation']
+['yigal', 'monday', 'liverpool', 'minister', 'shocking', 'cisc', 'yawney', 'liquid', 'satellite', 'bu', 'psychologist', 'sony', 'sultan', 'sentra', 'nux']
+['ev', 'ann', 'ala', 'sweet', 'thatif', 'ace', 'vk', 'thequestion', 'merchandise', 'id', 'selanne', 'sharply', 'unfold', 'projectile', 'underestimate']
+['assign', 'extensively', 'ste', 'sabre', 'wiretap', 'commandment', 'cache', 'amorc', 'coordinated', 'diagnose', 'finalize', 'biased', 'tackle', 'xx', 'worshiper']
+==============================
+topic diversity:0.8166666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6341424536339091, c_w2v:None, c_uci:-9.88740922057425, c_npmi:-0.3542238253034863
+mimno topic coherence:-225.4780342232104
+Epoch  61	Iter    1	Loss_D:-0.1055486	Loss_G:40.4543304	loss_E:0.0563935
+Epoch  61	Iter   11	Loss_D:-0.1040607	Loss_G:39.8785896	loss_E:0.0548010
+Epoch  61	Iter   21	Loss_D:-0.1038827	Loss_G:39.3067398	loss_E:0.0544353
+Epoch  62	Iter    1	Loss_D:-0.1037273	Loss_G:38.7398529	loss_E:0.0545175
+Epoch  62	Iter   11	Loss_D:-0.1050088	Loss_G:38.1763039	loss_E:0.0555973
+Epoch  62	Iter   21	Loss_D:-0.1045391	Loss_G:37.6179276	loss_E:0.0550782
+Epoch  63	Iter    1	Loss_D:-0.1057729	Loss_G:37.0635147	loss_E:0.0562226
+Epoch  63	Iter   11	Loss_D:-0.1043467	Loss_G:36.5139694	loss_E:0.0548655
+Epoch  63	Iter   21	Loss_D:-0.1041459	Loss_G:35.9679909	loss_E:0.0547904
+Epoch  64	Iter    1	Loss_D:-0.1038589	Loss_G:35.4269257	loss_E:0.0547338
+Epoch  64	Iter   11	Loss_D:-0.1046202	Loss_G:34.8895569	loss_E:0.0553848
+Epoch  64	Iter   21	Loss_D:-0.1059545	Loss_G:34.3573761	loss_E:0.0570195
+Epoch  65	Iter    1	Loss_D:-0.1045746	Loss_G:33.8290024	loss_E:0.0556237
+Epoch  65	Iter   11	Loss_D:-0.1054445	Loss_G:33.3055725	loss_E:0.0563533
+Epoch  65	Iter   21	Loss_D:-0.1037115	Loss_G:32.7860489	loss_E:0.0544177
+Epoch  66	Iter    1	Loss_D:-0.1040640	Loss_G:32.2713928	loss_E:0.0550448
+Epoch  66	Iter   11	Loss_D:-0.1041643	Loss_G:31.7606468	loss_E:0.0546060
+Epoch  66	Iter   21	Loss_D:-0.1034029	Loss_G:31.2542152	loss_E:0.0542083
+Epoch  67	Iter    1	Loss_D:-0.1030582	Loss_G:30.7518406	loss_E:0.0541031
+Epoch  67	Iter   11	Loss_D:-0.1035990	Loss_G:30.2550049	loss_E:0.0544455
+Epoch  67	Iter   21	Loss_D:-0.1050161	Loss_G:29.7615490	loss_E:0.0557044
+Epoch  68	Iter    1	Loss_D:-0.1030420	Loss_G:29.2731857	loss_E:0.0536779
+Epoch  68	Iter   11	Loss_D:-0.1055015	Loss_G:28.7883396	loss_E:0.0559327
+Epoch  68	Iter   21	Loss_D:-0.1045210	Loss_G:28.3088818	loss_E:0.0548857
+Epoch  69	Iter    1	Loss_D:-0.1072972	Loss_G:27.8326569	loss_E:0.0579590
+Epoch  69	Iter   11	Loss_D:-0.1036488	Loss_G:27.3617935	loss_E:0.0539577
+Epoch  69	Iter   21	Loss_D:-0.1054909	Loss_G:26.8944359	loss_E:0.0557988
+Epoch  70	Iter    1	Loss_D:-0.1064098	Loss_G:26.4321823	loss_E:0.0570564
+Epoch  70	Iter   11	Loss_D:-0.1058340	Loss_G:25.9735050	loss_E:0.0561849
+Epoch  70	Iter   21	Loss_D:-0.1038906	Loss_G:25.5200577	loss_E:0.0540818
+Epoch  70	Loss_D_avg:-0.0980006	Loss_G_avg:104.5526388	loss_E_avg:0.0519155
+['weshould', 'offerman', 'know', 'analyze', 'ter', 'creighton', 'luis', 'ev', 'stay', 'fait', 'theold', 'nasty', 'walter', 'directorypub', 'risc']
+['know', 'unsigned', 'terminate', 'file', 'compton', 'directorypub', 'sony', 'lz', 'sink', 'loaded', 'gunfire', 'linux', 'deduction', 'convict', 'weshould']
+['parent', 'metzger', 'stone', 'establish', 'evidence', 'russian', 'respect', 'ithought', 'communist', 'kindness', 'transceiver', 'comeswith', 'extensively', 'pgp', 'immune']
+['visualization', 'keepthe', 'courtyard', 'extensively', 'kelvin', 'sheet', 'mvanheyn', 'thereal', 'islander', 'argument', 'kim', 'pgp', 'jayson', 'satisfy', 'withthe']
+['localtalk', 'kim', 'sheet', 'inch', 'mrs', 'know', 'mortal', 'sony', 'share', 'cheesy', 'dull', 'compton', 'extensively', 'acton', 'streak']
+['ecf', 'carter', 'forum', 'equality', 'powerbook', 'surplus', 'know', 'invalidate', 'ter', 'extensively', 'sony', 'xcreatewindow', 'paslawski', 'coordinated', 'vastly']
+['stem', 'litigation', 'polished', 'passe', 'andreas', 'lyme', 'etymology', 'higher', 'game', 'infringement', 'plight', 'immune', 'toll', 'hidden', 'pgp']
+['growth', 'unacceptable', 'eecg', 'pathetic', 'terry', 'luis', 'polished', 'cancer', 'surprise', 'interestedin', 'stone', 'pgp', 'enoughto', 'weshould', 'etymology']
+['sne', 'trouble', 'know', 'ter', 'hou', 'russian', 'forget', 'testimony', 'relationship', 'manhattan', 'weshould', 'soldier', 'institute', 'manipulate', 'stride']
+['establish', 'russian', 'vocal', 'seating', 'luis', 'sheet', 'parasite', 'research', 'jury', 'royal', 'theorist', 'invasive', 'rape', 'terry', 'deploy']
+['extensively', 'embargo', 'legislative', 'someonewho', 'merchandise', 'incredibly', 'deluxe', 'escrow', 'energy', 'sony', 'ij', 'flex', 'lr', 'concussion', 'relationship']
+['kelvin', 'document', 'disturbance', 'forfeit', 'thesystem', 'abort', 'extensively', 'gunfire', 'inch', 'may', 'feasible', 'transceiver', 'typhoon', 'fiction', 'artillery']
+['creighton', 'stipulate', 'toour', 'isthat', 'brett', 'ala', 'withyou', 'dylan', 'extensively', 'restraint', 'consciousness', 'pgp', 'diminish', 'radiosity', 'thespace']
+['rocket', 'nationwide', 'sentra', 'te', 'filtering', 'ethic', 'despite', 'aaron', 'uxa', 'totell', 'minister', 'stem', 'testimony', 'inch', 'barry']
+['carson', 'profile', 'abort', 'arrangement', 'single', 'plate', 'inherent', 'incorrect', 'ultb', 'debt', 'content', 'bg', 'forum', 'leafs', 'ac']
+['decidedthat', 'higher', 'itchy', 'snoop', 'real', 'sheet', 'jokerit', 'oracle', 'soldier', 'theold', 'carter', 'loader', 'polished', 'sign', 'positive']
+['argument', 'delude', 'extensively', 'starvation', 'polished', 'know', 'x', 'futile', 'quantum', 'interpolation', 'mud', 'ihl', 'vector', 'bribe', 'rocket']
+['sentra', 'cherry', 'yigal', 'bu', 'minister', 'monday', 'shocking', 'sony', 'gl', 'straight', 'yawney', 'liquid', 'nux', 'hound', 'cisc']
+['ev', 'sweet', 'ann', 'thatif', 'ala', 'merchandise', 'workbench', 'vk', 'generic', 'id', 'incorrect', 'ace', 'bowman', 'diagnose', 'projectile']
+['assign', 'extensively', 'ste', 'cache', 'finalize', 'sabre', 'coordinated', 'displace', 'commandment', 'amorc', 'wiretap', 'diagnose', 'worshiper', 'biased', 'visualization']
+==============================
+topic diversity:0.7666666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6289673746532064, c_w2v:None, c_uci:-9.970039554500916, c_npmi:-0.35764424212527673
+mimno topic coherence:-206.70606872399622
+Epoch  71	Iter    1	Loss_D:-0.1038908	Loss_G:25.0700397	loss_E:0.0544248
+Epoch  71	Iter   11	Loss_D:-0.1032556	Loss_G:24.6252975	loss_E:0.0538248
+Epoch  71	Iter   21	Loss_D:-0.1031364	Loss_G:24.1843987	loss_E:0.0533990
+Epoch  72	Iter    1	Loss_D:-0.1032797	Loss_G:23.7482491	loss_E:0.0535500
+Epoch  72	Iter   11	Loss_D:-0.1047931	Loss_G:23.3156471	loss_E:0.0548846
+Epoch  72	Iter   21	Loss_D:-0.1062731	Loss_G:22.8884678	loss_E:0.0563586
+Epoch  73	Iter    1	Loss_D:-0.1042651	Loss_G:22.4647884	loss_E:0.0542971
+Epoch  73	Iter   11	Loss_D:-0.1039503	Loss_G:22.0461979	loss_E:0.0537635
+Epoch  73	Iter   21	Loss_D:-0.1030305	Loss_G:21.6311836	loss_E:0.0528625
+Epoch  74	Iter    1	Loss_D:-0.1058101	Loss_G:21.2213154	loss_E:0.0557859
+Epoch  74	Iter   11	Loss_D:-0.1035196	Loss_G:20.8146343	loss_E:0.0536100
+Epoch  74	Iter   21	Loss_D:-0.1035205	Loss_G:20.4135647	loss_E:0.0532579
+Epoch  75	Iter    1	Loss_D:-0.1058470	Loss_G:20.0158195	loss_E:0.0558085
+Epoch  75	Iter   11	Loss_D:-0.1039702	Loss_G:19.6237087	loss_E:0.0537316
+Epoch  75	Iter   21	Loss_D:-0.1043929	Loss_G:19.2345638	loss_E:0.0543630
+Epoch  76	Iter    1	Loss_D:-0.1034940	Loss_G:18.8512325	loss_E:0.0529321
+Epoch  76	Iter   11	Loss_D:-0.1033753	Loss_G:18.4709091	loss_E:0.0526459
+Epoch  76	Iter   21	Loss_D:-0.1039248	Loss_G:18.0955009	loss_E:0.0536628
+Epoch  77	Iter    1	Loss_D:-0.1028189	Loss_G:17.7244892	loss_E:0.0521908
+Epoch  77	Iter   11	Loss_D:-0.1060053	Loss_G:17.3577480	loss_E:0.0554915
+Epoch  77	Iter   21	Loss_D:-0.1063692	Loss_G:16.9946098	loss_E:0.0562126
+Epoch  78	Iter    1	Loss_D:-0.1032275	Loss_G:16.6374054	loss_E:0.0528653
+Epoch  78	Iter   11	Loss_D:-0.1041759	Loss_G:16.2826824	loss_E:0.0541384
+Epoch  78	Iter   21	Loss_D:-0.1044710	Loss_G:15.9338408	loss_E:0.0541255
+Epoch  79	Iter    1	Loss_D:-0.1054100	Loss_G:15.5885305	loss_E:0.0550866
+Epoch  79	Iter   11	Loss_D:-0.1056236	Loss_G:15.2486210	loss_E:0.0551241
+Epoch  79	Iter   21	Loss_D:-0.1049846	Loss_G:14.9121075	loss_E:0.0543314
+Epoch  80	Iter    1	Loss_D:-0.1048268	Loss_G:14.5805187	loss_E:0.0541246
+Epoch  80	Iter   11	Loss_D:-0.1026467	Loss_G:14.2520533	loss_E:0.0521186
+Epoch  80	Iter   21	Loss_D:-0.1041268	Loss_G:13.9297304	loss_E:0.0532207
+Epoch  80	Loss_D_avg:-0.0987856	Loss_G_avg:93.8842167	loss_E_avg:0.0521852
+['weshould', 'creighton', 'know', 'ev', 'analyze', 'luis', 'fait', 'ter', 'offerman', 'chipto', 'nasty', 'directorypub', 'stay', 'amorc', 'theold']
+['know', 'file', 'sink', 'packet', 'cambodia', 'terminate', 'weshould', 'directorypub', 'convict', 'compton', 'necessitate', 'unsigned', 'linux', 'rosicrucian', 'loaded']
+['parent', 'russian', 'metzger', 'stone', 'respect', 'heal', 'establish', 'ithought', 'communist', 'evidence', 'cambodia', 'extensively', 'pgp', 'use', 'dewey']
+['extensively', 'keepthe', 'visualization', 'courtyard', 'pgp', 'creighton', 'withthe', 'perfection', 'thereal', 'jayson', 'islander', 'whichi', 'corolla', 'zubov', 'depress']
+['know', 'creighton', 'kim', 'localtalk', 'cheesy', 'mrs', 'sheet', 'extensively', 'acton', 'intrusion', 'dull', 'compton', 'share', 'convex', 'colon']
+['ecf', 'forum', 'know', 'ter', 'symantec', 'powerbook', 'equality', 'surplus', 'extensively', 'cambodia', 'coordinated', 'carter', 'vastly', 'dana', 'let']
+['stem', 'andreas', 'ip', 'passe', 'visualization', 'litigation', 'pgp', 'understanding', 'courtyard', 'know', 'thesis', 'polished', 'immune', 'mo', 'plight']
+['luis', 'growth', 'pgp', 'honesty', 'surprise', 'cancer', 'unacceptable', 'stone', 'mileage', 'eecg', 'amorc', 'rocket', 'dana', 'weshould', 'polished']
+['sne', 'know', 'trouble', 'hou', 'ter', 'relationship', 'jayson', 'thatmost', 'finalize', 'setenv', 'reboot', 'creighton', 'kim', 'russian', 'vesselin']
+['russian', 'vocal', 'luis', 'jury', 'seating', 'sheet', 'recognise', 'courtyard', 'invasive', 'establish', 'fait', 'parasite', 'examination', 'orsomethe', 'rape']
+['extensively', 'ij', 'merchandise', 'someonewho', 'embargo', 'know', 'incredibly', 'relationship', 'offender', 'csc', 'escrow', 'energy', 'need', 'repair', 'dictator']
+['abort', 'know', 'forfeit', 'document', 'kelvin', 'disturbance', 'feasible', 'transceiver', 'thesystem', 'extensively', 'appalling', 'lunatic', 'fiction', 'creighton', 'colon']
+['creighton', 'stipulate', 'isthat', 'need', 'extensively', 'sweet', 'consciousness', 'radiosity', 'nriz', 'pgp', 'payment', 'someonewho', 'toour', 'brett', 'neely']
+['nationwide', 'sentra', 'rocket', 'bu', 'stem', 'te', 'uxa', 'extensively', 'filtering', 'repository', 'bombard', 'project', 'totell', 'enclave', 'manager']
+['carson', 'abort', 'profile', 'arrangement', 'plate', 'medin', 'inherent', 'ultb', 'debt', 'leafs', 'hou', 'ithought', 'afternoon', 'stipulate', 'handful']
+['decidedthat', 'itchy', 'snoop', 'higher', 'positive', 'sheet', 'deduction', 'polished', 'jokerit', 'spaceflight', 'charley', 'aggression', 'pgp', 'hb', 'neely']
+['delude', 'extensively', 'know', 'starvation', 'bribe', 'interpolation', 'argument', 'pgp', 'shed', 'resist', 'ev', 'uncertain', 'fatal', 'transmission', 'rocket']
+['sentra', 'bu', 'visualization', 'straight', 'que', 'gl', 'cherry', 'creighton', 'explanation', 'andreas', 'mot', 'bondra', 'shocking', 'yigal', 'threaten']
+['ev', 'thatif', 'sweet', 'merchandise', 'ala', 'ann', 'backto', 'foo', 'carson', 'incorrect', 'id', 'diagnose', 'generic', 'misplay', 'workbench']
+['extensively', 'assign', 'cache', 'ste', 'visualization', 'finalize', 'coordinated', 'que', 'amorc', 'displace', 'worshiper', 'biased', 'commandment', 'payment', 'know']
+==============================
+topic diversity:0.7233333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6285499826754333, c_w2v:None, c_uci:-9.780257498453176, c_npmi:-0.3511549647877905
+mimno topic coherence:-182.54187926033984
+Epoch  81	Iter    1	Loss_D:-0.1044666	Loss_G:13.6103210	loss_E:0.0537324
+Epoch  81	Iter   11	Loss_D:-0.1056727	Loss_G:13.2963400	loss_E:0.0545512
+Epoch  81	Iter   21	Loss_D:-0.1048434	Loss_G:12.9854908	loss_E:0.0539585
+Epoch  82	Iter    1	Loss_D:-0.1050501	Loss_G:12.6802492	loss_E:0.0542169
+Epoch  82	Iter   11	Loss_D:-0.1061615	Loss_G:12.3779907	loss_E:0.0554724
+Epoch  82	Iter   21	Loss_D:-0.1019670	Loss_G:12.0812740	loss_E:0.0511699
+Epoch  83	Iter    1	Loss_D:-0.1048741	Loss_G:11.7882252	loss_E:0.0540479
+Epoch  83	Iter   11	Loss_D:-0.1042348	Loss_G:11.5003309	loss_E:0.0534597
+Epoch  83	Iter   21	Loss_D:-0.1056753	Loss_G:11.2160292	loss_E:0.0548237
+Epoch  84	Iter    1	Loss_D:-0.1039070	Loss_G:10.9368153	loss_E:0.0530021
+Epoch  84	Iter   11	Loss_D:-0.1064507	Loss_G:10.6610727	loss_E:0.0553134
+Epoch  84	Iter   21	Loss_D:-0.1042630	Loss_G:10.3904314	loss_E:0.0534362
+Epoch  85	Iter    1	Loss_D:-0.1050187	Loss_G:10.1236324	loss_E:0.0541700
+Epoch  85	Iter   11	Loss_D:-0.1046332	Loss_G:9.8612204	loss_E:0.0542065
+Epoch  85	Iter   21	Loss_D:-0.1050156	Loss_G:9.6029263	loss_E:0.0545995
+Epoch  86	Iter    1	Loss_D:-0.1032290	Loss_G:9.3504524	loss_E:0.0525588
+Epoch  86	Iter   11	Loss_D:-0.1051697	Loss_G:9.1004391	loss_E:0.0547912
+Epoch  86	Iter   21	Loss_D:-0.1042485	Loss_G:8.8560715	loss_E:0.0537348
+Epoch  87	Iter    1	Loss_D:-0.1057735	Loss_G:8.6152763	loss_E:0.0553915
+Epoch  87	Iter   11	Loss_D:-0.1037755	Loss_G:8.3801441	loss_E:0.0531108
+Epoch  87	Iter   21	Loss_D:-0.1053008	Loss_G:8.1482286	loss_E:0.0545748
+Epoch  88	Iter    1	Loss_D:-0.1024690	Loss_G:7.9212122	loss_E:0.0518808
+Epoch  88	Iter   11	Loss_D:-0.1052422	Loss_G:7.6974463	loss_E:0.0547183
+Epoch  88	Iter   21	Loss_D:-0.1031456	Loss_G:7.4794583	loss_E:0.0526890
+Epoch  89	Iter    1	Loss_D:-0.1028854	Loss_G:7.2652140	loss_E:0.0521959
+Epoch  89	Iter   11	Loss_D:-0.1041557	Loss_G:7.0556526	loss_E:0.0534104
+Epoch  89	Iter   21	Loss_D:-0.1063232	Loss_G:6.8493538	loss_E:0.0560618
+Epoch  90	Iter    1	Loss_D:-0.1047956	Loss_G:6.6490116	loss_E:0.0543678
+Epoch  90	Iter   11	Loss_D:-0.1033148	Loss_G:6.4513550	loss_E:0.0531038
+Epoch  90	Iter   21	Loss_D:-0.1051972	Loss_G:6.2591729	loss_E:0.0550239
+Epoch  90	Loss_D_avg:-0.0994289	Loss_G_avg:84.5237142	loss_E_avg:0.0523786
+['creighton', 'weshould', 'ev', 'know', 'chipto', 'analyze', 'egalon', 'antibiotic', 'dr', 'luis', 'assess', 'thearab', 'fait', 'discrete', 'mix']
+['know', 'packet', 'necessitate', 'cambodia', 'corolla', 'ala', 'thatif', 'rosicrucian', 'file', 'ev', 'vram', 'sne', 'extensively', 'sink', 'marco']
+['heal', 'parent', 'russian', 'ithought', 'use', 'establish', 'cambodia', 'visualization', 'seattle', 'stone', 'respect', 'somepeople', 'sabre', 'shed', 'luxury']
+['extensively', 'mydisplay', 'pgp', 'creighton', 'visualization', 'positive', 'depress', 'thearab', 'use', 'zubov', 'withthe', 'bird', 'ev', 'keepthe', 'perfection']
+['know', 'creighton', 'cheesy', 'zhamnov', 'extensively', 'sabre', 'kim', 'dull', 'theimage', 'acton', 'russian', 'shed', 'convex', 'argument', 'thearab']
+['know', 'forum', 'ecf', 'exec', 'wuarchive', 'rationality', 'theyhad', 'symantec', 'lcs', 'bennett', 'powerbook', 'phoenix', 'bis', 'equipment', 'wasit']
+['ip', 'visualization', 'stem', 'pgp', 'andreas', 'know', 'transmission', 'litigation', 'passe', 'temporary', 'mo', 'regiment', 'ev', 'unethical', 'provocation']
+['rocket', 'amorc', 'communist', 'growth', 'honesty', 'ij', 'pgp', 'luxury', 'bis', 'academia', 'mileage', 'visualization', 'charley', 'rosicrucian', 'bribe']
+['sne', 'know', 'trouble', 'smoke', 'powerbook', 'nonetheless', 'ste', 'vesselin', 'finalize', 'redeem', 'jayson', 'forgive', 'sabre', 'unusual', 'startwith']
+['creighton', 'russian', 'luis', 'rosicrucian', 'jury', 'recognise', 'invasive', 'vocal', 'courtyard', 'afternoon', 'orsomethe', 'unseal', 'cray', 'feingold', 'relationship']
+['merchandise', 'ip', 'embargo', 'know', 'offender', 'someonewho', 'ij', 'russian', 'relationship', 'csc', 'straight', 'soft', 'use', 'redeem', 'extensively']
+['know', 'colon', 'fielder', 'appalling', 'lunatic', 'abort', 'visualization', 'extensively', 'antibiotic', 'vesselin', 'use', 'mot', 'transceiver', 'southwestern', 'wasit']
+['creighton', 'payment', 'bird', 'stipulate', 'visualization', 'ithought', 'need', 'positive', 'disseminate', 'offender', 'trash', 'threaten', 'phoenix', 'jury', 'table']
+['stem', 'sentra', 'rocket', 'nationwide', 'enclave', 'reputable', 'vesselin', 'extensively', 'visualization', 'bu', 'corolla', 'treasurer', 'bombard', 'creighton', 'que']
+['abort', 'ithought', 'carson', 'medin', 'slightly', 'mceachern', 'redeem', 'mydisplay', 'unusual', 'profile', 'straight', 'creighton', 'ann', 'futile', 'thermometer']
+['positive', 'decidedthat', 'aggression', 'itchy', 'polished', 'que', 'slightly', 'spaceflight', 'schmidt', 'charley', 'pathology', 'thechip', 'thatif', 'bu', 'rosicrucian']
+['know', 'thearab', 'ev', 'transmission', 'ithought', 'visualization', 'delude', 'bribe', 'pgp', 'communist', 'theyhad', 'resist', 'time', 'shed', 'bythe']
+['visualization', 'sentra', 'andreas', 'que', 'necessitate', 'bu', 'wasit', 'bondra', 'creighton', 'corolla', 'sweet', 'nominate', 'yawney', 'threaten', 'heal']
+['misplay', 'ev', 'thatif', 'progress', 'foo', 'rocket', 'ala', 'creighton', 'unusual', 'carson', 'merchandise', 'bimonthly', 'ann', 'courtyard', 'ican']
+['visualization', 'extensively', 'cache', 'que', 'ste', 'amorc', 'assign', 'biased', 'ala', 'luxury', 'coordinated', 'thechip', 'offender', 'jury', 'finalize']
+==============================
+topic diversity:0.5966666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6304129389533446, c_w2v:None, c_uci:-9.675589593587416, c_npmi:-0.3473211778231747
+mimno topic coherence:-220.3483836045721
+Epoch  91	Iter    1	Loss_D:-0.1046631	Loss_G:6.0704823	loss_E:0.0547563
+Epoch  91	Iter   11	Loss_D:-0.1028785	Loss_G:5.8871799	loss_E:0.0530236
+Epoch  91	Iter   21	Loss_D:-0.1053320	Loss_G:5.7072191	loss_E:0.0556453
+Epoch  92	Iter    1	Loss_D:-0.1030651	Loss_G:5.5322394	loss_E:0.0536773
+Epoch  92	Iter   11	Loss_D:-0.1045544	Loss_G:5.3611217	loss_E:0.0549442
+Epoch  92	Iter   21	Loss_D:-0.1049503	Loss_G:5.1952147	loss_E:0.0554422
+Epoch  93	Iter    1	Loss_D:-0.1032104	Loss_G:5.0331225	loss_E:0.0535254
+Epoch  93	Iter   11	Loss_D:-0.1047706	Loss_G:4.8756471	loss_E:0.0551596
+Epoch  93	Iter   21	Loss_D:-0.1037707	Loss_G:4.7221880	loss_E:0.0538995
+Epoch  94	Iter    1	Loss_D:-0.1055166	Loss_G:4.5737247	loss_E:0.0558087
+Epoch  94	Iter   11	Loss_D:-0.1034213	Loss_G:4.4285378	loss_E:0.0536410
+Epoch  94	Iter   21	Loss_D:-0.1047229	Loss_G:4.2885232	loss_E:0.0550176
+Epoch  95	Iter    1	Loss_D:-0.1041247	Loss_G:4.1522560	loss_E:0.0544752
+Epoch  95	Iter   11	Loss_D:-0.1053154	Loss_G:4.0214810	loss_E:0.0554066
+Epoch  95	Iter   21	Loss_D:-0.1045146	Loss_G:3.8938110	loss_E:0.0546714
+Epoch  96	Iter    1	Loss_D:-0.1057206	Loss_G:3.7712469	loss_E:0.0558915
+Epoch  96	Iter   11	Loss_D:-0.1032569	Loss_G:3.6518543	loss_E:0.0536571
+Epoch  96	Iter   21	Loss_D:-0.1049796	Loss_G:3.5387461	loss_E:0.0549016
+Epoch  97	Iter    1	Loss_D:-0.1050117	Loss_G:3.4284663	loss_E:0.0551488
+Epoch  97	Iter   11	Loss_D:-0.1045498	Loss_G:3.3233638	loss_E:0.0545666
+Epoch  97	Iter   21	Loss_D:-0.1038931	Loss_G:3.2222097	loss_E:0.0535330
+Epoch  98	Iter    1	Loss_D:-0.1047322	Loss_G:3.1260149	loss_E:0.0544875
+Epoch  98	Iter   11	Loss_D:-0.1046544	Loss_G:3.0325084	loss_E:0.0548469
+Epoch  98	Iter   21	Loss_D:-0.1035350	Loss_G:2.9450443	loss_E:0.0534471
+Epoch  99	Iter    1	Loss_D:-0.1063180	Loss_G:2.8609555	loss_E:0.0563962
+Epoch  99	Iter   11	Loss_D:-0.1032733	Loss_G:2.7819808	loss_E:0.0535309
+Epoch  99	Iter   21	Loss_D:-0.1040258	Loss_G:2.7064831	loss_E:0.0543666
+Epoch 100	Iter    1	Loss_D:-0.1040588	Loss_G:2.6361408	loss_E:0.0545362
+Epoch 100	Iter   11	Loss_D:-0.1041201	Loss_G:2.5691712	loss_E:0.0547171
+Epoch 100	Iter   21	Loss_D:-0.1060601	Loss_G:2.5080283	loss_E:0.0564437
+Epoch 100	Loss_D_avg:-0.0999294	Loss_G_avg:76.4708260	loss_E_avg:0.0526060
+['bis', 'visualization', 'assess', 'rosicrucian', 'vietnamese', 'vram', 'slightly', 'confrontation', 'misplay', 'ithought', 'raymond', 'cock', 'regiment', 'plainly', 'russian']
+['vram', 'rosicrucian', 'thatif', 'bimonthly', 'visualization', 'time', 'packet', 'creighton', 'withthe', 'assess', 'stay', 'stem', 'cambodia', 'treasurer', 'colon']
+['ithought', 'stay', 'credible', 'use', 'time', 'heal', 'visualization', 'russian', 'vietnamese', 'cambodia', 'colon', 'shed', 'communist', 'mydisplay', 'luxury']
+['confrontation', 'withthe', 'visualization', 'pgp', 'use', 'het', 'knowwhat', 'bombard', 'assess', 'rosicrucian', 'convex', 'ithought', 'concordance', 'corolla', 'cock']
+['rosicrucian', 'shed', 'ithought', 'colon', 'russian', 'het', 'visualization', 'inany', 'treasurer', 'transmission', 'raymond', 'wuarchive', 'bis', 'time', 'zhamnov']
+['vram', 'provision', 'thatif', 'visualization', 'wuarchive', 'assess', 'mbit', 'bis', 'inany', 'honesty', 'residence', 'lcs', 'bdf', 'dennis', 'ste']
+['visualization', 'rosicrucian', 'mw', 'pgp', 'het', 'cray', 'misplay', 'forgive', 'assess', 'stem', 'ip', 'solution', 'colon', 'slightly', 'regiment']
+['cray', 'rosicrucian', 'pgp', 'provision', 'enforce', 'visualization', 'communist', 'mw', 'assess', 'honesty', 'ithought', 'forgive', 'mbit', 'integrate', 'vesselin']
+['longas', 'visualization', 'vietnamese', 'cray', 'stem', 'slightly', 'honesty', 'cambodia', 'wax', 'forgive', 'bel', 'time', 'pgp', 'het', 'credible']
+['rosicrucian', 'use', 'relationship', 'assess', 'eventually', 'visualization', 'integrate', 'time', 'creighton', 'stem', 'population', 'glean', 'feingold', 'cray', 'stay']
+['het', 'stem', 'use', 'russian', 'vietnamese', 'visualization', 'population', 'cray', 'shed', 'alcoholic', 'pgp', 'astonishing', 'vram', 'withthe', 'glean']
+['rosicrucian', 'use', 'het', 'colon', 'misplay', 'lcs', 'visualization', 'teven', 'raymond', 'treasurer', 'assess', 'mbit', 'corolla', 'knowwhat', 'relationship']
+['transmission', 'ithought', 'relationship', 'visualization', 'provision', 'unicorn', 'creighton', 'inany', 'pgp', 'assess', 'phoenix', 'thatif', 'vram', 'marijuana', 'time']
+['het', 'visualization', 'bombard', 'treasurer', 'use', 'transmission', 'pgp', 'eventually', 'inany', 'stem', 'rosicrucian', 'lcs', 'provocation', 'shed', 'deflect']
+['slightly', 'ithought', 'colon', 'inany', 'creighton', 'communist', 'shed', 'withthe', 'theyhad', 'unicorn', 'cambodia', 'transmission', 'coercive', 'assess', 'het']
+['rosicrucian', 'ithought', 'thatif', 'vietnamese', 'bruce', 'bombard', 'time', 'visualization', 'slightly', 'positive', 'can', 'schmidt', 'inany', 'solution', 'misplay']
+['visualization', 'ithought', 'rosicrucian', 'bythe', 'theyhad', 'pgp', 'transmission', 'het', 'time', 'misplay', 'exec', 'communist', 'convex', 'thepeople', 'use']
+['visualization', 'ithought', 'luxury', 'time', 'vram', 'astonishing', 'bis', 'redeem', 'use', 'heaven', 'nominate', 'transmission', 'andreas', 'het', 'shed']
+['bimonthly', 'misplay', 'progress', 'thatif', 'diving', 'time', 'rosicrucian', 'unusual', 'testify', 'ithought', 'russian', 'thesis', 'bombard', 'pgp', 'slightly']
+['rosicrucian', 'visualization', 'heaven', 'vram', 'glean', 'credible', 'ithought', 'withthe', 'transmission', 'bimonthly', 'pitching', 'need', 'luxury', 'russian', 'boiling']
+==============================
+topic diversity:0.3233333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6173756901503173, c_w2v:None, c_uci:-9.792736987119886, c_npmi:-0.3518967563277838
+mimno topic coherence:-236.8408179479154
+topic diversity:0.3233333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6173756901503173, c_w2v:None, c_uci:-9.792736987119886, c_npmi:-0.3518967563277838
+mimno topic coherence:-236.8408179479154

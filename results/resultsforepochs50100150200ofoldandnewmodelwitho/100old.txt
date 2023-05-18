@@ -1,0 +1,586 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f0777a2a4f0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0001670	Loss_G:-0.0095095	loss_E:0.0105092
+Epoch   1	Iter   11	Loss_D:-0.0057046	Loss_G:-0.0058053	loss_E:0.0123133
+Epoch   1	Iter   21	Loss_D:-0.0120432	Loss_G:-0.0026699	loss_E:0.0157344
+Epoch   2	Iter    1	Loss_D:-0.0141444	Loss_G:-0.0019776	loss_E:0.0172085
+Epoch   2	Iter   11	Loss_D:-0.0224297	Loss_G:0.0010485	loss_E:0.0226096
+Epoch   2	Iter   21	Loss_D:-0.0314382	Loss_G:0.0044935	loss_E:0.0282286
+Epoch   3	Iter    1	Loss_D:-0.0336125	Loss_G:0.0052015	loss_E:0.0296556
+Epoch   3	Iter   11	Loss_D:-0.0418364	Loss_G:0.0091491	loss_E:0.0338937
+Epoch   3	Iter   21	Loss_D:-0.0494459	Loss_G:0.0131325	loss_E:0.0374045
+Epoch   4	Iter    1	Loss_D:-0.0520730	Loss_G:0.0138100	loss_E:0.0393101
+Epoch   4	Iter   11	Loss_D:-0.0572455	Loss_G:0.0171074	loss_E:0.0410512
+Epoch   4	Iter   21	Loss_D:-0.0633841	Loss_G:0.0202626	loss_E:0.0439529
+Epoch   5	Iter    1	Loss_D:-0.0648964	Loss_G:0.0206411	loss_E:0.0450949
+Epoch   5	Iter   11	Loss_D:-0.0691605	Loss_G:0.0235850	loss_E:0.0463321
+Epoch   5	Iter   21	Loss_D:-0.0710893	Loss_G:0.0259724	loss_E:0.0458112
+Epoch   6	Iter    1	Loss_D:-0.0723005	Loss_G:0.0263150	loss_E:0.0466489
+Epoch   6	Iter   11	Loss_D:-0.0764468	Loss_G:0.0282131	loss_E:0.0488486
+Epoch   6	Iter   21	Loss_D:-0.0787761	Loss_G:0.0300747	loss_E:0.0492908
+Epoch   7	Iter    1	Loss_D:-0.0792783	Loss_G:0.0298735	loss_E:0.0499624
+Epoch   7	Iter   11	Loss_D:-0.0816493	Loss_G:0.0315021	loss_E:0.0506815
+Epoch   7	Iter   21	Loss_D:-0.0830820	Loss_G:0.0329465	loss_E:0.0506220
+Epoch   8	Iter    1	Loss_D:-0.0848343	Loss_G:0.0329071	loss_E:0.0523974
+Epoch   8	Iter   11	Loss_D:-0.0834630	Loss_G:0.0336913	loss_E:0.0501835
+Epoch   8	Iter   21	Loss_D:-0.0875058	Loss_G:0.0349038	loss_E:0.0529895
+Epoch   9	Iter    1	Loss_D:-0.0854529	Loss_G:0.0347695	loss_E:0.0510766
+Epoch   9	Iter   11	Loss_D:-0.0873405	Loss_G:0.0349073	loss_E:0.0528061
+Epoch   9	Iter   21	Loss_D:-0.0867194	Loss_G:0.0356579	loss_E:0.0514183
+Epoch  10	Iter    1	Loss_D:-0.0880709	Loss_G:0.0359205	loss_E:0.0524935
+Epoch  10	Iter   11	Loss_D:-0.0875852	Loss_G:0.0364029	loss_E:0.0515111
+Epoch  10	Iter   21	Loss_D:-0.0872082	Loss_G:0.0368539	loss_E:0.0507053
+Epoch  10	Loss_D_avg:-0.0612795	Loss_G_avg:0.0209794	loss_E_avg:0.0410248
+['eisa', 'security', 'laugh', 'metal', 'federal', 'separate', 'supposedly', 'dry', 'intellect', 'knowledge', 'predict', 'isa', 'possible', 'internal', 'platform']
+['significant', 'political', 'thatthe', 'belief', 'willing', 'reply', 'racist', 'incredibly', 'order', 'liberty', 'window', 'clock', 'good', 'ibm', 'purpose']
+['position', 'popular', 'street', 'bible', 'listen', 'jump', 'christianity', 'gon', 'sector', 'cica', 'jason', 'land', 'alomar', 'anger', 'plenty']
+['de', 'thatthe', 'racist', 'show', 'perfectly', 'poor', 'ld', 'copy', 'generation', 'distance', 'mom', 'national', 'mi', 'approve', 'tank']
+['addition', 'office', 'walk', 'willing', 'card', 'previous', 'pm', 'wise', 'middle', 'observe', 'entire', 'friend', 'implementation', 'command', 'category']
+['de', 'russia', 'trade', 'sequence', 'eisa', 'ld', 'aspect', 'random', 'noise', 'judge', 'non', 'window', 'slave', 'serial', 'addition']
+['perfectly', 'minority', 'cica', 'eric', 'everybody', 'later', 'offensive', 'ps', 'nearly', 'programming', 'federal', 'freedom', 'thread', 'street', 'wrong']
+['ofthe', 'greek', 'live', 'away', 'immediately', 'jump', 'speedstar', 'module', 'smoke', 'federal', 'complain', 'xserver', 'session', 'illegal', 'desire']
+['press', 'street', 'significant', 'tool', 'second', 'bible', 'grant', 'excellent', 'season', 'watch', 'building', 'packard', 'bobby', 'everybody', 'walk']
+['tool', 'walk', 'lawyer', 'oppose', 'gm', 'king', 'purpose', 'survey', 'thread', 'gon', 'security', 'window', 'motion', 'mouse', 'display']
+['duo', 'hear', 'pirate', 'grant', 'land', 'gas', 'bat', 'threaten', 'surrender', 'pen', 'catbyte', 'centris', 'christ', 'helpful', 'harley']
+['popular', 'motorcycle', 'minority', 'federal', 'knowledge', 'survey', 'arab', 'module', 'correctly', 'ring', 'alomar', 'oppose', 'ibm', 'statement', 'purpose']
+['away', 'san', 'compile', 'eisa', 'alomar', 'loss', 'bag', 'european', 'edition', 'dr', 'list', 'direction', 'ye', 'speedstar', 'street']
+['stack', 'jason', 'andrew', 'thread', 'byte', 'reasoning', 'eisa', 'neighbor', 'federal', 'wish', 'lift', 'ford', 'threaten', 'saturn', 'mail']
+['god', 'eisa', 'bet', 'compile', 'ofthe', 'position', 'tank', 'significant', 'minority', 'ye', 'tm', 'option', 'jason', 'terminal', 'community']
+['federal', 'significant', 'offensive', 'walk', 'thread', 'violate', 'jason', 'kent', 'risk', 'wish', 'expansion', 'line', 'go', 'grant', 'experience']
+['library', 'significant', 'eisa', 'alot', 'poor', 'experience', 'street', 'walk', 'thesame', 'honor', 'legal', 'system', 'pen', 'addition', 'minority']
+['gon', 'correctly', 'field', 'people', 'kent', 'excellent', 'bust', 'thread', 'btw', 'spin', 'hmm', 'centris', 'alomar', 'night', 'history']
+['frank', 'thread', 'define', 'charle', 'jason', 'security', 'eisa', 'commercial', 'thatthe', 'hold', 'universe', 'harley', 'generation', 'nearly', 'house']
+['jason', 'loss', 'later', 'western', 'benefit', 'bike', 'security', 'resurrection', 'european', 'express', 'ye', 'street', 'recognize', 'alomar', 'tool']
+==============================
+topic diversity:0.6733333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.39616652386692464, c_w2v:None, c_uci:-9.049324571095307, c_npmi:-0.31830554790986143
+mimno topic coherence:-315.9294753071713
+Epoch  11	Iter    1	Loss_D:-0.0883506	Loss_G:0.0364394	loss_E:0.0522276
+Epoch  11	Iter   11	Loss_D:-0.0883619	Loss_G:0.0368599	loss_E:0.0517846
+Epoch  11	Iter   21	Loss_D:-0.0873618	Loss_G:0.0370392	loss_E:0.0506080
+Epoch  12	Iter    1	Loss_D:-0.0889288	Loss_G:0.0369132	loss_E:0.0523055
+Epoch  12	Iter   11	Loss_D:-0.0882143	Loss_G:0.0375997	loss_E:0.0508924
+Epoch  12	Iter   21	Loss_D:-0.0891822	Loss_G:0.0375172	loss_E:0.0519408
+Epoch  13	Iter    1	Loss_D:-0.0882667	Loss_G:0.0374016	loss_E:0.0511189
+Epoch  13	Iter   11	Loss_D:-0.0882739	Loss_G:0.0376898	loss_E:0.0508609
+Epoch  13	Iter   21	Loss_D:-0.0893312	Loss_G:0.0372245	loss_E:0.0523467
+Epoch  14	Iter    1	Loss_D:-0.0878353	Loss_G:0.0370598	loss_E:0.0510370
+Epoch  14	Iter   11	Loss_D:-0.0869498	Loss_G:0.0370455	loss_E:0.0501700
+Epoch  14	Iter   21	Loss_D:-0.0855829	Loss_G:0.0370020	loss_E:0.0488541
+Epoch  15	Iter    1	Loss_D:-0.0868631	Loss_G:0.0368106	loss_E:0.0503104
+Epoch  15	Iter   11	Loss_D:-0.0852688	Loss_G:0.0368784	loss_E:0.0486508
+Epoch  15	Iter   21	Loss_D:-0.0868660	Loss_G:0.0373643	loss_E:0.0497519
+Epoch  16	Iter    1	Loss_D:-0.0871118	Loss_G:0.0371696	loss_E:0.0501850
+Epoch  16	Iter   11	Loss_D:-0.0871761	Loss_G:0.0373934	loss_E:0.0500485
+Epoch  16	Iter   21	Loss_D:-0.0852113	Loss_G:0.0367083	loss_E:0.0487461
+Epoch  17	Iter    1	Loss_D:-0.0876123	Loss_G:0.0362079	loss_E:0.0516464
+Epoch  17	Iter   11	Loss_D:-0.0856877	Loss_G:0.0365045	loss_E:0.0494176
+Epoch  17	Iter   21	Loss_D:-0.0842975	Loss_G:0.0366676	loss_E:0.0479184
+Epoch  18	Iter    1	Loss_D:-0.0850699	Loss_G:0.0362436	loss_E:0.0490832
+Epoch  18	Iter   11	Loss_D:-0.0852537	Loss_G:0.0363000	loss_E:0.0491924
+Epoch  18	Iter   21	Loss_D:-0.0856473	Loss_G:0.0363490	loss_E:0.0495598
+Epoch  19	Iter    1	Loss_D:-0.0826532	Loss_G:0.0358044	loss_E:0.0470847
+Epoch  19	Iter   11	Loss_D:-0.0840176	Loss_G:0.0355391	loss_E:0.0487227
+Epoch  19	Iter   21	Loss_D:-0.0852504	Loss_G:0.0355125	loss_E:0.0499854
+Epoch  20	Iter    1	Loss_D:-0.0831724	Loss_G:0.0350868	loss_E:0.0483391
+Epoch  20	Iter   11	Loss_D:-0.0816141	Loss_G:0.0349695	loss_E:0.0468760
+Epoch  20	Iter   21	Loss_D:-0.0837609	Loss_G:0.0355375	loss_E:0.0485115
+Epoch  20	Loss_D_avg:-0.0737926	Loss_G_avg:0.0288037	loss_E_avg:0.0454820
+['eisa', 'laugh', 'security', 'metal', 'federal', 'separate', 'dry', 'supposedly', 'knowledge', 'intellect', 'isa', 'compile', 'institute', 'ring', 'pen']
+['significant', 'thatthe', 'political', 'willing', 'belief', 'reply', 'alomar', 'liberty', 'ld', 'fed', 'eisa', 'clock', 'brave', 'immediately', 'ibm']
+['popular', 'position', 'street', 'jump', 'listen', 'bible', 'gon', 'cica', 'christianity', 'alomar', 'jason', 'plenty', 'harley', 'coverage', 'jay']
+['de', 'thatthe', 'perfectly', 'ld', 'poor', 'show', 'generation', 'distance', 'mom', 'racist', 'copy', 'alomar', 'ye', 'national', 'loss']
+['addition', 'walk', 'office', 'willing', 'previous', 'pm', 'card', 'entire', 'middle', 'compile', 'ye', 'eisa', 'friend', 'command', 'te']
+['de', 'sequence', 'russia', 'eisa', 'trade', 'random', 'ld', 'aspect', 'noise', 'slave', 'ring', 'nearly', 'addition', 'judge', 'serial']
+['perfectly', 'eric', 'cica', 'minority', 'everybody', 'nearly', 'ps', 'programming', 'later', 'federal', 'freedom', 'street', 'se', 'thread', 'alomar']
+['greek', 'ofthe', 'immediately', 'jump', 'live', 'smoke', 'away', 'speedstar', 'complain', 'federal', 'module', 'desire', 'flat', 'document', 'everybody']
+['press', 'street', 'significant', 'tool', 'grant', 'bobby', 'second', 'excellent', 'bible', 'everybody', 'building', 'season', 'saturn', 'walk', 'watch']
+['tool', 'gm', 'walk', 'lawyer', 'oppose', 'king', 'gon', 'thread', 'bet', 'purpose', 'motion', 'security', 'male', 'saturn', 'metal']
+['duo', 'grant', 'bat', 'hear', 'land', 'pen', 'harley', 'pirate', 'gas', 'helpful', 'ye', 'heavy', 'surrender', 'everybody', 'street']
+['motorcycle', 'popular', 'alomar', 'knowledge', 'federal', 'correctly', 'ring', 'oppose', 'bat', 'bet', 'arab', 'gon', 'ignorance', 'broadcast', 'minority']
+['san', 'away', 'compile', 'eisa', 'alomar', 'loss', 'european', 'bag', 'ye', 'virginia', 'edition', 'dr', 'direction', 'powerbook', 'install']
+['jason', 'stack', 'andrew', 'eisa', 'neighbor', 'byte', 'ford', 'thread', 'saturn', 'federal', 'wish', 'reasoning', 'postscript', 'draft', 'congress']
+['eisa', 'bet', 'god', 'compile', 'ye', 'jason', 'terminal', 'significant', 'tank', 'position', 'ofthe', 'community', 'ignorance', 'coverage', 'ford']
+['federal', 'significant', 'walk', 'jason', 'thread', 'kent', 'risk', 'expansion', 'somewhat', 'grant', 'impossible', 'yesterday', 'nearly', 'bomb', 'wish']
+['library', 'eisa', 'significant', 'alot', 'poor', 'experience', 'honor', 'street', 'pen', 'walk', 'addition', 'ye', 'liberal', 'loss', 'd']
+['gon', 'correctly', 'kent', 'alomar', 'hmm', 'field', 'gm', 'thread', 'excellent', 'absolute', 'compile', 'loser', 'poor', 'virginia', 'people']
+['frank', 'jason', 'thread', 'define', 'eisa', 'generation', 'harley', 'commercial', 'thatthe', 'security', 'universe', 'nearly', 'grant', 'charle', 'ye']
+['jason', 'loss', 'benefit', 'western', 'alomar', 'ye', 'european', 'later', 'express', 'bike', 'security', 'recognize', 'montreal', 'street', 'cica']
+==============================
+topic diversity:0.6
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4390235702247084, c_w2v:None, c_uci:-10.135721753519874, c_npmi:-0.35657620507935445
+mimno topic coherence:-306.25781810936627
+Epoch  21	Iter    1	Loss_D:-0.0820762	Loss_G:0.0344919	loss_E:0.0478267
+Epoch  21	Iter   11	Loss_D:-0.0805344	Loss_G:0.0341622	loss_E:0.0466210
+Epoch  21	Iter   21	Loss_D:-0.0804105	Loss_G:0.0348442	loss_E:0.0458466
+Epoch  22	Iter    1	Loss_D:-0.0822701	Loss_G:0.0337517	loss_E:0.0487673
+Epoch  22	Iter   11	Loss_D:-0.0814452	Loss_G:0.0340537	loss_E:0.0476360
+Epoch  22	Iter   21	Loss_D:-0.0794171	Loss_G:0.0333989	loss_E:0.0462787
+Epoch  23	Iter    1	Loss_D:-0.0782153	Loss_G:0.0334694	loss_E:0.0450151
+Epoch  23	Iter   11	Loss_D:-0.0789688	Loss_G:0.0332430	loss_E:0.0459672
+Epoch  23	Iter   21	Loss_D:-0.0787778	Loss_G:0.0326898	loss_E:0.0463535
+Epoch  24	Iter    1	Loss_D:-0.0791372	Loss_G:0.0322688	loss_E:0.0471364
+Epoch  24	Iter   11	Loss_D:-0.0774027	Loss_G:0.0317186	loss_E:0.0459412
+Epoch  24	Iter   21	Loss_D:-0.0771378	Loss_G:0.0320356	loss_E:0.0453555
+Epoch  25	Iter    1	Loss_D:-0.0780214	Loss_G:0.0317802	loss_E:0.0465009
+Epoch  25	Iter   11	Loss_D:-0.0767343	Loss_G:0.0313393	loss_E:0.0456509
+Epoch  25	Iter   21	Loss_D:-0.0744509	Loss_G:0.0315221	loss_E:0.0432303
+Epoch  26	Iter    1	Loss_D:-0.0764925	Loss_G:0.0307030	loss_E:0.0460471
+Epoch  26	Iter   11	Loss_D:-0.0750480	Loss_G:0.0306246	loss_E:0.0446959
+Epoch  26	Iter   21	Loss_D:-0.0761549	Loss_G:0.0302571	loss_E:0.0461600
+Epoch  27	Iter    1	Loss_D:-0.0763583	Loss_G:0.0305092	loss_E:0.0461213
+Epoch  27	Iter   11	Loss_D:-0.0738728	Loss_G:0.0298710	loss_E:0.0442764
+Epoch  27	Iter   21	Loss_D:-0.0744100	Loss_G:0.0295341	loss_E:0.0451645
+Epoch  28	Iter    1	Loss_D:-0.0725602	Loss_G:0.0292486	loss_E:0.0435790
+Epoch  28	Iter   11	Loss_D:-0.0726048	Loss_G:0.0287409	loss_E:0.0441454
+Epoch  28	Iter   21	Loss_D:-0.0721005	Loss_G:0.0284837	loss_E:0.0439026
+Epoch  29	Iter    1	Loss_D:-0.0729687	Loss_G:0.0281589	loss_E:0.0450824
+Epoch  29	Iter   11	Loss_D:-0.0702884	Loss_G:0.0277521	loss_E:0.0428031
+Epoch  29	Iter   21	Loss_D:-0.0714042	Loss_G:0.0277112	loss_E:0.0439790
+Epoch  30	Iter    1	Loss_D:-0.0703037	Loss_G:0.0270438	loss_E:0.0435349
+Epoch  30	Iter   11	Loss_D:-0.0682099	Loss_G:0.0262143	loss_E:0.0422944
+Epoch  30	Iter   21	Loss_D:-0.0700692	Loss_G:0.0264163	loss_E:0.0439577
+Epoch  30	Loss_D_avg:-0.0745045	Loss_G_avg:0.0294918	loss_E_avg:0.0454310
+['eisa', 'laugh', 'security', 'metal', 'separate', 'federal', 'knowledge', 'compile', 'scanner', 'ring', 'intellect', 'pen', 'dry', 'isa', 'plant']
+['thatthe', 'political', 'significant', 'alomar', 'fed', 'willing', 'belief', 'brave', 'eisa', 'reply', 'ld', 'meg', 'ibm', 'clock', 'order']
+['street', 'alomar', 'jason', 'position', 'cica', 'gon', 'listen', 'jump', 'christianity', 'bible', 'plenty', 'harley', 'domain', 'coverage', 'jay']
+['de', 'thatthe', 'perfectly', 'poor', 'distance', 'ld', 'show', 'alomar', 'generation', 'ye', 'belong', 'loss', 'copy', 'tank', 'language']
+['addition', 'walk', 'office', 'pm', 'willing', 'previous', 'compile', 'card', 'ye', 'batf', 'eisa', 'entire', 'gm', 'harley', 'middle']
+['sequence', 'de', 'eisa', 'random', 'trade', 'ring', 'ld', 'noise', 'slave', 'copyright', 'belong', 'addition', 'serial', 'jason', 'judge']
+['perfectly', 'cica', 'eric', 'everybody', 'ps', 'programming', 'alomar', 'gm', 'federal', 'se', 'freedom', 'nearly', 'pen', 'later', 'street']
+['greek', 'smoke', 'ofthe', 'jump', 'complain', 'immediately', 'live', 'flat', 'away', 'federal', 'everybody', 'desire', 'document', 'speedstar', 'gon']
+['press', 'street', 'bobby', 'tool', 'significant', 'everybody', 'grant', 'saturn', 'building', 'bible', 'excellent', 'second', 'alomar', 'loss', 'walk']
+['gm', 'oppose', 'tool', 'walk', 'bet', 'gon', 'king', 'thread', 'saturn', 'virginia', 'security', 'administration', 'purpose', 'hmm', 'travel']
+['duo', 'bat', 'grant', 'harley', 'pen', 'land', 'ye', 'hear', 'helpful', 'everybody', 'heavy', 'gas', 'alomar', 'surrender', 'street']
+['alomar', 'motorcycle', 'knowledge', 'bat', 'ring', 'correctly', 'ignorance', 'federal', 'oppose', 'bet', 'gon', 'promise', 'harley', 'bobby', 'arab']
+['compile', 'alomar', 'eisa', 'san', 'away', 'virginia', 'european', 'ye', 'loss', 'harley', 'powerbook', 'cell', 'install', 'dr', 'philadelphia']
+['jason', 'eisa', 'andrew', 'saturn', 'byte', 'ford', 'stack', 'thread', 'federal', 'wish', 'postscript', 'congress', 'sunday', 'bat', 'ring']
+['eisa', 'bet', 'compile', 'jason', 'god', 'ye', 'ignorance', 'terminal', 'community', 'coverage', 'ford', 'tank', 'de', 'ass', 'scanner']
+['federal', 'jason', 'walk', 'thread', 'kent', 'significant', 'risk', 'somewhat', 'promise', 'impossible', 'yesterday', 'expansion', 'grant', 'bomb', 'gm']
+['library', 'eisa', 'poor', 'alot', 'pen', 'ye', 'significant', 'experience', 'addition', 'street', 'walk', 'loss', 'microsoft', 'honor', 'd']
+['gon', 'correctly', 'alomar', 'hmm', 'gm', 'kent', 'virginia', 'loser', 'compile', 'absolute', 'field', 'thread', 'poor', 'excellent', 'everybody']
+['jason', 'frank', 'thread', 'eisa', 'define', 'harley', 'universe', 'thatthe', 'commercial', 'security', 'ye', 'generation', 'pad', 'grant', 'kent']
+['jason', 'loss', 'benefit', 'western', 'alomar', 'ye', 'european', 'express', 'later', 'cica', 'bike', 'recognize', 'security', 'comparison', 'street']
+==============================
+topic diversity:0.56
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4522807284757258, c_w2v:None, c_uci:-10.285620056956883, c_npmi:-0.3621157029485321
+mimno topic coherence:-291.55057237565825
+Epoch  31	Iter    1	Loss_D:-0.0687773	Loss_G:0.0256678	loss_E:0.0434002
+Epoch  31	Iter   11	Loss_D:-0.0690593	Loss_G:0.0254706	loss_E:0.0438775
+Epoch  31	Iter   21	Loss_D:-0.0680058	Loss_G:0.0254258	loss_E:0.0428707
+Epoch  32	Iter    1	Loss_D:-0.0667130	Loss_G:0.0251350	loss_E:0.0418318
+Epoch  32	Iter   11	Loss_D:-0.0668282	Loss_G:0.0240644	loss_E:0.0430767
+Epoch  32	Iter   21	Loss_D:-0.0671399	Loss_G:0.0249288	loss_E:0.0424996
+Epoch  33	Iter    1	Loss_D:-0.0659861	Loss_G:0.0238809	loss_E:0.0424195
+Epoch  33	Iter   11	Loss_D:-0.0661406	Loss_G:0.0238832	loss_E:0.0425887
+Epoch  33	Iter   21	Loss_D:-0.0665470	Loss_G:0.0238315	loss_E:0.0429946
+Epoch  34	Iter    1	Loss_D:-0.0652447	Loss_G:0.0237044	loss_E:0.0418495
+Epoch  34	Iter   11	Loss_D:-0.0649398	Loss_G:0.0230966	loss_E:0.0421559
+Epoch  34	Iter   21	Loss_D:-0.0619157	Loss_G:0.0226202	loss_E:0.0395939
+Epoch  35	Iter    1	Loss_D:-0.0663985	Loss_G:0.0229912	loss_E:0.0436832
+Epoch  35	Iter   11	Loss_D:-0.0625808	Loss_G:0.0221213	loss_E:0.0407592
+Epoch  35	Iter   21	Loss_D:-0.0625028	Loss_G:0.0218770	loss_E:0.0409580
+Epoch  36	Iter    1	Loss_D:-0.0631870	Loss_G:0.0209837	loss_E:0.0425163
+Epoch  36	Iter   11	Loss_D:-0.0608615	Loss_G:0.0208990	loss_E:0.0402821
+Epoch  36	Iter   21	Loss_D:-0.0617575	Loss_G:0.0210372	loss_E:0.0410108
+Epoch  37	Iter    1	Loss_D:-0.0644550	Loss_G:0.0209034	loss_E:0.0438572
+Epoch  37	Iter   11	Loss_D:-0.0602081	Loss_G:0.0207190	loss_E:0.0397890
+Epoch  37	Iter   21	Loss_D:-0.0590498	Loss_G:0.0202954	loss_E:0.0390553
+Epoch  38	Iter    1	Loss_D:-0.0587270	Loss_G:0.0192187	loss_E:0.0398425
+Epoch  38	Iter   11	Loss_D:-0.0575918	Loss_G:0.0194515	loss_E:0.0384626
+Epoch  38	Iter   21	Loss_D:-0.0582644	Loss_G:0.0189905	loss_E:0.0395925
+Epoch  39	Iter    1	Loss_D:-0.0576663	Loss_G:0.0188357	loss_E:0.0391628
+Epoch  39	Iter   11	Loss_D:-0.0558301	Loss_G:0.0183765	loss_E:0.0377796
+Epoch  39	Iter   21	Loss_D:-0.0582060	Loss_G:0.0188488	loss_E:0.0396798
+Epoch  40	Iter    1	Loss_D:-0.0558389	Loss_G:0.0180536	loss_E:0.0381141
+Epoch  40	Iter   11	Loss_D:-0.0545411	Loss_G:0.0176829	loss_E:0.0371770
+Epoch  40	Iter   21	Loss_D:-0.0558630	Loss_G:0.0177181	loss_E:0.0384785
+Epoch  40	Loss_D_avg:-0.0714686	Loss_G_avg:0.0275414	loss_E_avg:0.0443179
+['eisa', 'security', 'federal', 'pen', 'compile', 'knowledge', 'separate', 'isa', 'scanner', 'motorcycle', 'everybody', 'ring', 'intellect', 'cub', 'voltage']
+['political', 'thatthe', 'brave', 'willing', 'fed', 'belief', 'reply', 'meg', 'alomar', 'ibm', 'promise', 'eisa', 'order', 'clock', 'gm']
+['street', 'position', 'cica', 'christianity', 'listen', 'plenty', 'bible', 'domain', 'jason', 'advantage', 'alomar', 'voltage', 'thread', 'land', 'floppy']
+['de', 'thatthe', 'show', 'poor', 'quadra', 'grow', 'tank', 'virginia', 'language', 'traffic', 'copy', 'belong', 'national', 'mount', 'alomar']
+['addition', 'walk', 'office', 'willing', 'previous', 'compile', 'card', 'gm', 'pen', 'batf', 'everybody', 'own', 'mistake', 'entire', 'middle']
+['de', 'sequence', 'eisa', 'trade', 'noise', 'bat', 'ring', 'everybody', 'serial', 'copyright', 'random', 'mhz', 'judge', 'belong', 'addition']
+['cica', 'eric', 'everybody', 'ps', 'gm', 'programming', 'pen', 'federal', 'perfectly', 'se', 'freedom', 'street', 'thread', 'later', 'mhz']
+['greek', 'ofthe', 'live', 'everybody', 'away', 'federal', 'loser', 'flat', 'illegal', 'andrew', 'complain', 'virginia', 'dan', 'smoke', 'promise']
+['press', 'street', 'tool', 'everybody', 'chris', 'bible', 'excellent', 'loser', 'building', 'second', 'motorcycle', 'season', 'brave', 'walk', 'watch']
+['gm', 'tool', 'bet', 'walk', 'thread', 'king', 'virginia', 'security', 'oppose', 'purpose', 'everybody', 'se', 'jumper', 'andrew', 'exact']
+['bat', 'pen', 'duo', 'land', 'everybody', 'hear', 'grant', 'gas', 'heavy', 'surrender', 'street', 'andrew', 'se', 'thread', 'domain']
+['motorcycle', 'bat', 'knowledge', 'bet', 'federal', 'ignorance', 'ring', 'promise', 'alomar', 'gm', 'compile', 'arab', 'cub', 'peter', 'correctly']
+['compile', 'san', 'virginia', 'away', 'eisa', 'alomar', 'cell', 'chris', 'dr', 'european', 'direction', 'street', 'bet', 'install', 'loss']
+['andrew', 'jason', 'ford', 'byte', 'thread', 'federal', 'eisa', 'wish', 'bat', 'promise', 'own', 'postscript', 'widget', 'ring', 'surrender']
+['bet', 'compile', 'eisa', 'god', 'ignorance', 'terminal', 'ass', 'ford', 'jason', 'tank', 'de', 'comparison', 'building', 'scanner', 'position']
+['federal', 'thread', 'kent', 'walk', 'jason', 'promise', 'risk', 'yesterday', 'gm', 'cica', 'wish', 'experience', 'shaft', 'andrew', 'motorcycle']
+['library', 'pen', 'eisa', 'poor', 'experience', 'street', 'microsoft', 'd', 'walk', 'addition', 'federal', 'misc', 'western', 'night', 'legal']
+['gm', 'virginia', 'kent', 'compile', 'loser', 'field', 'thread', 'correctly', 'microsoft', 'everybody', 'alomar', 'excellent', 'byte', 'commercial', 'koresh']
+['frank', 'thread', 'jason', 'define', 'eisa', 'commercial', 'universe', 'security', 'kent', 'brave', 'koresh', 'building', 'engineer', 'completely', 'hold']
+['jason', 'loss', 'western', 'benefit', 'cica', 'later', 'bike', 'alomar', 'security', 'european', 'comparison', 'street', 'recommend', 'recognize', 'grow']
+==============================
+topic diversity:0.5233333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4125266367988491, c_w2v:None, c_uci:-9.830829714962606, c_npmi:-0.34523431867907217
+mimno topic coherence:-296.08854253419923
+Epoch  41	Iter    1	Loss_D:-0.0562187	Loss_G:0.0180215	loss_E:0.0385514
+Epoch  41	Iter   11	Loss_D:-0.0538577	Loss_G:0.0175983	loss_E:0.0365772
+Epoch  41	Iter   21	Loss_D:-0.0524047	Loss_G:0.0165133	loss_E:0.0362037
+Epoch  42	Iter    1	Loss_D:-0.0542217	Loss_G:0.0165585	loss_E:0.0380253
+Epoch  42	Iter   11	Loss_D:-0.0539148	Loss_G:0.0164399	loss_E:0.0377941
+Epoch  42	Iter   21	Loss_D:-0.0526805	Loss_G:0.0161726	loss_E:0.0368602
+Epoch  43	Iter    1	Loss_D:-0.0528528	Loss_G:0.0156844	loss_E:0.0375372
+Epoch  43	Iter   11	Loss_D:-0.0505859	Loss_G:0.0159231	loss_E:0.0350358
+Epoch  43	Iter   21	Loss_D:-0.0500434	Loss_G:0.0156289	loss_E:0.0347850
+Epoch  44	Iter    1	Loss_D:-0.0504607	Loss_G:0.0151875	loss_E:0.0356451
+Epoch  44	Iter   11	Loss_D:-0.0475169	Loss_G:0.0148030	loss_E:0.0330946
+Epoch  44	Iter   21	Loss_D:-0.0469937	Loss_G:0.0143364	loss_E:0.0330644
+Epoch  45	Iter    1	Loss_D:-0.0499226	Loss_G:0.0140184	loss_E:0.0362701
+Epoch  45	Iter   11	Loss_D:-0.0479770	Loss_G:0.0144353	loss_E:0.0339341
+Epoch  45	Iter   21	Loss_D:-0.0491863	Loss_G:0.0145557	loss_E:0.0350075
+Epoch  46	Iter    1	Loss_D:-0.0483917	Loss_G:0.0141747	loss_E:0.0346070
+Epoch  46	Iter   11	Loss_D:-0.0477757	Loss_G:0.0139626	loss_E:0.0341691
+Epoch  46	Iter   21	Loss_D:-0.0475529	Loss_G:0.0136406	loss_E:0.0343112
+Epoch  47	Iter    1	Loss_D:-0.0458811	Loss_G:0.0133525	loss_E:0.0329066
+Epoch  47	Iter   11	Loss_D:-0.0463871	Loss_G:0.0136357	loss_E:0.0331343
+Epoch  47	Iter   21	Loss_D:-0.0473222	Loss_G:0.0131928	loss_E:0.0344755
+Epoch  48	Iter    1	Loss_D:-0.0478850	Loss_G:0.0125727	loss_E:0.0356793
+Epoch  48	Iter   11	Loss_D:-0.0461294	Loss_G:0.0134396	loss_E:0.0330734
+Epoch  48	Iter   21	Loss_D:-0.0449562	Loss_G:0.0124886	loss_E:0.0328464
+Epoch  49	Iter    1	Loss_D:-0.0435914	Loss_G:0.0119575	loss_E:0.0320080
+Epoch  49	Iter   11	Loss_D:-0.0438987	Loss_G:0.0125379	loss_E:0.0317349
+Epoch  49	Iter   21	Loss_D:-0.0444024	Loss_G:0.0115951	loss_E:0.0331999
+Epoch  50	Iter    1	Loss_D:-0.0416879	Loss_G:0.0116230	loss_E:0.0304696
+Epoch  50	Iter   11	Loss_D:-0.0422335	Loss_G:0.0115215	loss_E:0.0311236
+Epoch  50	Iter   21	Loss_D:-0.0417742	Loss_G:0.0123106	loss_E:0.0298383
+Epoch  50	Loss_D_avg:-0.0668329	Loss_G_avg:0.0248857	loss_E_avg:0.0423341
+['security', 'pen', 'federal', 'motorcycle', 'knowledge', 'isa', 'language', 'cub', 'internal', 'bet', 'inthe', 'surrender', 'possible', 'icon', 'personal']
+['willing', 'belief', 'reply', 'meg', 'ibm', 'order', 'brave', 'clock', 'option', 'window', 'language', 'wish', 'purpose', 'depend', 'good']
+['position', 'listen', 'christianity', 'bible', 'street', 'thread', 'land', 'floppy', 'advantage', 'cica', 'upgrade', 'greek', 'vga', 'shipping', 'subject']
+['show', 'quadra', 'tank', 'language', 'national', 'copy', 'traffic', 'pen', 'recommend', 'floppy', 'bible', 'tool', 'regard', 'loser', 'greek']
+['office', 'willing', 'card', 'pen', 'command', 'friend', 'oil', 'greek', 'fault', 'compile', 'bet', 'federal', 'mistake', 'tool', 'frank']
+['trade', 'serial', 'judge', 'mhz', 'field', 'window', 'event', 'option', 'non', 'chris', 'experience', 'bat', 'bible', 'file', 'press']
+['eric', 'cica', 'pen', 'se', 'federal', 'thread', 'later', 'freedom', 'recommend', 'ps', 'mhz', 'foot', 'everybody', 'bible', 'david']
+['greek', 'ofthe', 'live', 'away', 'federal', 'loser', 'language', 'listen', 'tool', 'upgrade', 'motorcycle', 'microsoft', 'appear', 'okay', 'hear']
+['press', 'tool', 'street', 'bible', 'excellent', 'motorcycle', 'second', 'season', 'recommend', 'watch', 'chris', 'loser', 'mhz', 'processor', 'pen']
+['tool', 'bet', 'thread', 'purpose', 'gm', 'se', 'security', 'display', 'window', 'mouse', 'hardware', 'mhz', 'season', 'option', 'face']
+['pen', 'land', 'hear', 'bat', 'gas', 'surrender', 'se', 'thread', 'christ', 'ibm', 'agree', 'street', 'ii', 'freedom', 'practice']
+['motorcycle', 'knowledge', 'bet', 'federal', 'bat', 'arab', 'cub', 'recommend', 'ibm', 'address', 'microsoft', 'purpose', 'statement', 'show', 'koresh']
+['san', 'away', 'compile', 'bet', 'chris', 'dr', 'star', 'motorcycle', 'experience', 'list', 'command', 'support', 'federal', 'direction', 'power']
+['thread', 'ford', 'wish', 'federal', 'widget', 'surrender', 'byte', 'hardware', 'floppy', 'mail', 'motorcycle', 'bat', 'andrew', 'event', 'spell']
+['bet', 'god', 'tank', 'compile', 'position', 'ford', 'ofthe', 'option', 'define', 'pen', 'special', 'field', 'language', 'ass', 'terminal']
+['federal', 'thread', 'kent', 'experience', 'wish', 'motorcycle', 'bible', 'internal', 'watch', 'event', 'line', 'keep', 'go', 'driver', 'talk']
+['library', 'pen', 'experience', 'microsoft', 'd', 'street', 'federal', 'night', 'legal', 'subject', 'move', 'wish', 'store', 'appear', 'widget']
+['kent', 'field', 'thread', 'loser', 'microsoft', 'excellent', 'koresh', 'btw', 'people', 'imagine', 'okay', 'history', 'compile', 'night', 'gm']
+['thread', 'define', 'frank', 'kent', 'security', 'koresh', 'wish', 'hold', 'recommend', 'house', 'canada', 'brave', 'completely', 'ide', 'freedom']
+['bike', 'later', 'recommend', 'tool', 'thread', 'motorcycle', 'security', 'koresh', 'street', 'regard', 'subject', 'excellent', 'replace', 'cica', 'utility']
+==============================
+topic diversity:0.5033333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.323333706477149, c_w2v:None, c_uci:-7.667242379291132, c_npmi:-0.26956084961467197
+mimno topic coherence:-321.77474949976687
+Epoch  51	Iter    1	Loss_D:-0.0400782	Loss_G:0.0112244	loss_E:0.0292361
+Epoch  51	Iter   11	Loss_D:-0.0408234	Loss_G:0.0120026	loss_E:0.0292106
+Epoch  51	Iter   21	Loss_D:-0.0410401	Loss_G:0.0117192	loss_E:0.0297110
+Epoch  52	Iter    1	Loss_D:-0.0399346	Loss_G:0.0109234	loss_E:0.0294075
+Epoch  52	Iter   11	Loss_D:-0.0416381	Loss_G:0.0117644	loss_E:0.0302535
+Epoch  52	Iter   21	Loss_D:-0.0384373	Loss_G:0.0110372	loss_E:0.0277701
+Epoch  53	Iter    1	Loss_D:-0.0392694	Loss_G:0.0111713	loss_E:0.0284792
+Epoch  53	Iter   11	Loss_D:-0.0377082	Loss_G:0.0102758	loss_E:0.0278550
+Epoch  53	Iter   21	Loss_D:-0.0370467	Loss_G:0.0108362	loss_E:0.0266044
+Epoch  54	Iter    1	Loss_D:-0.0384767	Loss_G:0.0107662	loss_E:0.0281200
+Epoch  54	Iter   11	Loss_D:-0.0374155	Loss_G:0.0106661	loss_E:0.0271413
+Epoch  54	Iter   21	Loss_D:-0.0370114	Loss_G:0.0112929	loss_E:0.0261537
+Epoch  55	Iter    1	Loss_D:-0.0392126	Loss_G:0.0106976	loss_E:0.0289317
+Epoch  55	Iter   11	Loss_D:-0.0364782	Loss_G:0.0102747	loss_E:0.0265956
+Epoch  55	Iter   21	Loss_D:-0.0357687	Loss_G:0.0112172	loss_E:0.0249566
+Epoch  56	Iter    1	Loss_D:-0.0362986	Loss_G:0.0105585	loss_E:0.0261701
+Epoch  56	Iter   11	Loss_D:-0.0349317	Loss_G:0.0105427	loss_E:0.0248561
+Epoch  56	Iter   21	Loss_D:-0.0372355	Loss_G:0.0116699	loss_E:0.0259849
+Epoch  57	Iter    1	Loss_D:-0.0362189	Loss_G:0.0107104	loss_E:0.0259452
+Epoch  57	Iter   11	Loss_D:-0.0342112	Loss_G:0.0105589	loss_E:0.0240765
+Epoch  57	Iter   21	Loss_D:-0.0339086	Loss_G:0.0108365	loss_E:0.0235001
+Epoch  58	Iter    1	Loss_D:-0.0338537	Loss_G:0.0102454	loss_E:0.0240179
+Epoch  58	Iter   11	Loss_D:-0.0337566	Loss_G:0.0112167	loss_E:0.0229355
+Epoch  58	Iter   21	Loss_D:-0.0347146	Loss_G:0.0116480	loss_E:0.0234831
+Epoch  59	Iter    1	Loss_D:-0.0319115	Loss_G:0.0110800	loss_E:0.0212834
+Epoch  59	Iter   11	Loss_D:-0.0324078	Loss_G:0.0105558	loss_E:0.0222804
+Epoch  59	Iter   21	Loss_D:-0.0338640	Loss_G:0.0111748	loss_E:0.0231042
+Epoch  60	Iter    1	Loss_D:-0.0310673	Loss_G:0.0102538	loss_E:0.0212403
+Epoch  60	Iter   11	Loss_D:-0.0320083	Loss_G:0.0110265	loss_E:0.0214125
+Epoch  60	Iter   21	Loss_D:-0.0304017	Loss_G:0.0114969	loss_E:0.0193122
+Epoch  60	Loss_D_avg:-0.0617337	Loss_G_avg:0.0225683	loss_E_avg:0.0395563
+['motorcycle', 'isa', 'internal', 'possible', 'certain', 'receive', 'language', 'drug', 'expect', 'hardware', 'religion', 'history', 'surrender', 'run', 'hope']
+['reply', 'meg', 'belief', 'ibm', 'order', 'window', 'option', 'motorcycle', 'good', 'bible', 'depend', 'hello', 'big', 'serial', 'change']
+['position', 'bible', 'floppy', 'land', 'upgrade', 'subject', 'vga', 'second', 'shipping', 'bike', 'motorcycle', 'display', 'fine', 'color', 'driver']
+['show', 'copy', 'bible', 'regard', 'floppy', 'recommend', 'flame', 'mike', 'gif', 'language', 'season', 'tank', 'graphic', 'driver', 'close']
+['card', 'friend', 'office', 'oil', 'bible', 'sound', 'mike', 'ftp', 'command', 'especially', 'go', 'willing', 'option', 'package', 'ide']
+['trade', 'serial', 'window', 'judge', 'option', 'experience', 'non', 'bible', 'event', 'watch', 'file', 'appear', 'os', 'motorcycle', 'belief']
+['later', 'recommend', 'bible', 'david', 'night', 'option', 'wrong', 'fbi', 'floppy', 'standard', 'objective', 'belief', 'keep', 'run', 'soon']
+['live', 'away', 'motorcycle', 'upgrade', 'appear', 'ofthe', 'hear', 'people', 'flame', 'color', 'night', 'bible', 'real', 'reply', 'fbi']
+['bible', 'motorcycle', 'season', 'second', 'press', 'watch', 'recommend', 'excellent', 'window', 'experience', 'serial', 'tool', 'hardware', 'jesus', 'mail']
+['display', 'window', 'mouse', 'hardware', 'season', 'face', 'option', 'order', 'standard', 'business', 'tool', 'recommend', 'bible', 'bet', 'oh']
+['land', 'hear', 'gas', 'ibm', 'agree', 'make', 'christ', 'trade', 'possible', 'surrender', 'away', 'display', 'recommend', 'widget', 'statement']
+['motorcycle', 'address', 'ibm', 'recommend', 'statement', 'show', 'arab', 'os', 'friend', 'school', 'quote', 'controller', 'appear', 'floppy', 'business']
+['away', 'san', 'experience', 'motorcycle', 'list', 'support', 'power', 'contact', 'driver', 'address', 'theory', 'pretty', 'fbi', 'speed', 'floppy']
+['widget', 'hardware', 'motorcycle', 'mail', 'floppy', 'event', 'bike', 'apple', 'surrender', 'os', 'show', 'receive', 'radio', 'driver', 'wrong']
+['god', 'position', 'option', 'define', 'bet', 'meg', 'radio', 'power', 'argument', 'apple', 'second', 'correct', 'quote', 'greatly', 'tank']
+['experience', 'motorcycle', 'bible', 'watch', 'internal', 'line', 'driver', 'event', 'go', 'talk', 'display', 'video', 'count', 'keep', 'gas']
+['library', 'experience', 'night', 'subject', 'motorcycle', 'appear', 'widget', 'driver', 'folk', 'support', 'window', 'care', 'bible', 'legal', 'system']
+['btw', 'people', 'night', 'history', 'error', 'wrong', 'excellent', 'bank', 'subject', 'face', 'second', 'widget', 'contact', 'imagine', 'interest']
+['define', 'house', 'hold', 'recommend', 'regard', 'night', 'event', 'thread', 'slot', 'order', 'design', 'ide', 'ms', 'bike', 'motorcycle']
+['bike', 'later', 'recommend', 'motorcycle', 'regard', 'subject', 'replace', 'internal', 'appear', 'standard', 'book', 'experience', 'jesus', 'excellent', 'game']
+==============================
+topic diversity:0.49333333333333335
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2869914131244389, c_w2v:None, c_uci:-4.660389728604838, c_npmi:-0.1620756788280821
+mimno topic coherence:-278.28181836876416
+Epoch  61	Iter    1	Loss_D:-0.0312687	Loss_G:0.0108066	loss_E:0.0208793
+Epoch  61	Iter   11	Loss_D:-0.0319751	Loss_G:0.0118100	loss_E:0.0206001
+Epoch  61	Iter   21	Loss_D:-0.0300423	Loss_G:0.0117890	loss_E:0.0186719
+Epoch  62	Iter    1	Loss_D:-0.0312822	Loss_G:0.0110131	loss_E:0.0207207
+Epoch  62	Iter   11	Loss_D:-0.0303217	Loss_G:0.0113271	loss_E:0.0194396
+Epoch  62	Iter   21	Loss_D:-0.0297378	Loss_G:0.0126468	loss_E:0.0175132
+Epoch  63	Iter    1	Loss_D:-0.0313485	Loss_G:0.0123131	loss_E:0.0194673
+Epoch  63	Iter   11	Loss_D:-0.0286068	Loss_G:0.0124575	loss_E:0.0165878
+Epoch  63	Iter   21	Loss_D:-0.0296823	Loss_G:0.0132949	loss_E:0.0168281
+Epoch  64	Iter    1	Loss_D:-0.0300226	Loss_G:0.0129625	loss_E:0.0174932
+Epoch  64	Iter   11	Loss_D:-0.0301270	Loss_G:0.0137494	loss_E:0.0168230
+Epoch  64	Iter   21	Loss_D:-0.0289981	Loss_G:0.0140939	loss_E:0.0153340
+Epoch  65	Iter    1	Loss_D:-0.0295709	Loss_G:0.0132099	loss_E:0.0168037
+Epoch  65	Iter   11	Loss_D:-0.0292240	Loss_G:0.0142611	loss_E:0.0154097
+Epoch  65	Iter   21	Loss_D:-0.0301993	Loss_G:0.0148179	loss_E:0.0158087
+Epoch  66	Iter    1	Loss_D:-0.0301516	Loss_G:0.0146766	loss_E:0.0159327
+Epoch  66	Iter   11	Loss_D:-0.0262596	Loss_G:0.0153270	loss_E:0.0114070
+Epoch  66	Iter   21	Loss_D:-0.0278897	Loss_G:0.0157133	loss_E:0.0125990
+Epoch  67	Iter    1	Loss_D:-0.0260273	Loss_G:0.0157003	loss_E:0.0107596
+Epoch  67	Iter   11	Loss_D:-0.0248394	Loss_G:0.0156638	loss_E:0.0096144
+Epoch  67	Iter   21	Loss_D:-0.0274738	Loss_G:0.0165445	loss_E:0.0113542
+Epoch  68	Iter    1	Loss_D:-0.0272047	Loss_G:0.0159148	loss_E:0.0117278
+Epoch  68	Iter   11	Loss_D:-0.0269530	Loss_G:0.0171499	loss_E:0.0102034
+Epoch  68	Iter   21	Loss_D:-0.0258183	Loss_G:0.0165937	loss_E:0.0096523
+Epoch  69	Iter    1	Loss_D:-0.0262320	Loss_G:0.0164849	loss_E:0.0101723
+Epoch  69	Iter   11	Loss_D:-0.0260604	Loss_G:0.0172334	loss_E:0.0092035
+Epoch  69	Iter   21	Loss_D:-0.0258595	Loss_G:0.0174004	loss_E:0.0088967
+Epoch  70	Iter    1	Loss_D:-0.0278779	Loss_G:0.0170992	loss_E:0.0111966
+Epoch  70	Iter   11	Loss_D:-0.0250596	Loss_G:0.0167706	loss_E:0.0087172
+Epoch  70	Iter   21	Loss_D:-0.0249160	Loss_G:0.0170816	loss_E:0.0082706
+Epoch  70	Loss_D_avg:-0.0569671	Loss_G_avg:0.0214200	loss_E_avg:0.0359440
+['possible', 'motorcycle', 'religion', 'expect', 'run', 'original', 'hope', 'go', 'second', 'hardware', 'power', 'sound', 'fine', 'people', 'line']
+['reply', 'order', 'ibm', 'window', 'good', 'bible', 'hello', 'big', 'change', 'experience', 'option', 'agree', 'wrong', 'feel', 'meg']
+['bible', 'position', 'subject', 'second', 'bike', 'display', 'fine', 'color', 'driver', 'upgrade', 'wrong', 'watch', 'disk', 'window', 'standard']
+['show', 'copy', 'bible', 'driver', 'graphic', 'mike', 'season', 'experience', 'friend', 'regard', 'card', 'correct', 'flame', 'fact', 'color']
+['card', 'friend', 'bible', 'sound', 'ftp', 'go', 'package', 'mike', 'experience', 'mail', 'season', 'machine', 'agree', 'especially', 'run']
+['trade', 'window', 'experience', 'non', 'watch', 'file', 'bible', 'get', 'bike', 'fine', 'second', 'friend', 'appear', 'display', 'option']
+['david', 'bible', 'later', 'wrong', 'standard', 'run', 'soon', 'post', 'bike', 'low', 'trade', 'window', 'support', 'option', 'fast']
+['live', 'away', 'hear', 'people', 'color', 'real', 'reply', 'bible', 'appear', 'flame', 'wrong', 'video', 'upgrade', 'experience', 'order']
+['bible', 'second', 'season', 'watch', 'window', 'experience', 'motorcycle', 'mail', 'jesus', 'friend', 'large', 'hardware', 'answer', 'get', 'list']
+['display', 'window', 'mouse', 'order', 'season', 'standard', 'hardware', 'bible', 'oh', 'player', 'speed', 'subject', 'stop', 'reply', 'face']
+['hear', 'agree', 'ibm', 'make', 'possible', 'display', 'away', 'trade', 'second', 'widget', 'bible', 'cause', 'sound', 'allow', 'statement']
+['motorcycle', 'address', 'ibm', 'friend', 'show', 'controller', 'statement', 'hit', 'quote', 'design', 'display', 'order', 'hello', 'speed', 'font']
+['away', 'experience', 'list', 'support', 'power', 'driver', 'contact', 'address', 'speed', 'pretty', 'friend', 'game', 'card', 'mail', 'hello']
+['widget', 'mail', 'bike', 'hardware', 'apple', 'show', 'driver', 'wrong', 'support', 'disk', 'watch', 'offer', 'second', 'scsi', 'contact']
+['god', 'apple', 'power', 'second', 'option', 'correct', 'argument', 'offer', 'get', 'line', 'wrong', 'bible', 'quote', 'leave', 'position']
+['experience', 'bible', 'watch', 'driver', 'line', 'go', 'display', 'talk', 'video', 'lose', 'condition', 'delete', 'speed', 'address', 'motorcycle']
+['experience', 'subject', 'driver', 'support', 'window', 'widget', 'display', 'appear', 'bible', 'font', 'simple', 'care', 'system', 'number', 'go']
+['people', 'wrong', 'error', 'subject', 'second', 'contact', 'order', 'experience', 'make', 'widget', 'late', 'list', 'display', 'hold', 'today']
+['hold', 'define', 'order', 'design', 'bike', 'condition', 'apple', 'remember', 'regard', 'job', 'oh', 'display', 'book', 'people', 'make']
+['bike', 'later', 'subject', 'standard', 'experience', 'book', 'regard', 'motorcycle', 'appear', 'game', 'jesus', 'wrong', 'driver', 'leave', 'feel']
+==============================
+topic diversity:0.39666666666666667
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3438596590694817, c_w2v:None, c_uci:-2.126978995058153, c_npmi:-0.07200096186587283
+mimno topic coherence:-265.6327224218352
+Epoch  71	Iter    1	Loss_D:-0.0250675	Loss_G:0.0166658	loss_E:0.0088152
+Epoch  71	Iter   11	Loss_D:-0.0245022	Loss_G:0.0165329	loss_E:0.0083982
+Epoch  71	Iter   21	Loss_D:-0.0239786	Loss_G:0.0164960	loss_E:0.0078717
+Epoch  72	Iter    1	Loss_D:-0.0255881	Loss_G:0.0160184	loss_E:0.0099798
+Epoch  72	Iter   11	Loss_D:-0.0244140	Loss_G:0.0163962	loss_E:0.0083982
+Epoch  72	Iter   21	Loss_D:-0.0251742	Loss_G:0.0161332	loss_E:0.0094520
+Epoch  73	Iter    1	Loss_D:-0.0234487	Loss_G:0.0156963	loss_E:0.0081772
+Epoch  73	Iter   11	Loss_D:-0.0232369	Loss_G:0.0161038	loss_E:0.0075577
+Epoch  73	Iter   21	Loss_D:-0.0234546	Loss_G:0.0153947	loss_E:0.0084709
+Epoch  74	Iter    1	Loss_D:-0.0228337	Loss_G:0.0149468	loss_E:0.0083181
+Epoch  74	Iter   11	Loss_D:-0.0226109	Loss_G:0.0152139	loss_E:0.0077860
+Epoch  74	Iter   21	Loss_D:-0.0226742	Loss_G:0.0147381	loss_E:0.0083697
+Epoch  75	Iter    1	Loss_D:-0.0233777	Loss_G:0.0148262	loss_E:0.0089703
+Epoch  75	Iter   11	Loss_D:-0.0249930	Loss_G:0.0147563	loss_E:0.0106202
+Epoch  75	Iter   21	Loss_D:-0.0243563	Loss_G:0.0144984	loss_E:0.0102480
+Epoch  76	Iter    1	Loss_D:-0.0226897	Loss_G:0.0140249	loss_E:0.0090486
+Epoch  76	Iter   11	Loss_D:-0.0227761	Loss_G:0.0138348	loss_E:0.0093171
+Epoch  76	Iter   21	Loss_D:-0.0207628	Loss_G:0.0141100	loss_E:0.0070620
+Epoch  77	Iter    1	Loss_D:-0.0235905	Loss_G:0.0136912	loss_E:0.0103092
+Epoch  77	Iter   11	Loss_D:-0.0216687	Loss_G:0.0136463	loss_E:0.0084231
+Epoch  77	Iter   21	Loss_D:-0.0220090	Loss_G:0.0135431	loss_E:0.0088272
+Epoch  78	Iter    1	Loss_D:-0.0230402	Loss_G:0.0130773	loss_E:0.0103240
+Epoch  78	Iter   11	Loss_D:-0.0211328	Loss_G:0.0132382	loss_E:0.0082725
+Epoch  78	Iter   21	Loss_D:-0.0221870	Loss_G:0.0130433	loss_E:0.0095000
+Epoch  79	Iter    1	Loss_D:-0.0203571	Loss_G:0.0127364	loss_E:0.0080035
+Epoch  79	Iter   11	Loss_D:-0.0226003	Loss_G:0.0123033	loss_E:0.0106858
+Epoch  79	Iter   21	Loss_D:-0.0212886	Loss_G:0.0123049	loss_E:0.0093630
+Epoch  80	Iter    1	Loss_D:-0.0216481	Loss_G:0.0122559	loss_E:0.0097743
+Epoch  80	Iter   11	Loss_D:-0.0215714	Loss_G:0.0122308	loss_E:0.0097329
+Epoch  80	Iter   21	Loss_D:-0.0212946	Loss_G:0.0118957	loss_E:0.0097771
+Epoch  80	Loss_D_avg:-0.0527143	Loss_G_avg:0.0205356	loss_E_avg:0.0325753
+['possible', 'run', 'hope', 'go', 'second', 'power', 'original', 'sound', 'people', 'line', 'pc', 'copy', 'use', 'make', 'driver']
+['reply', 'order', 'window', 'good', 'big', 'change', 'agree', 'wrong', 'driver', 'make', 'game', 'bike', 'go', 'ftp', 'friend']
+['bike', 'second', 'display', 'color', 'driver', 'disk', 'wrong', 'window', 'post', 'video', 'order', 'interested', 'article', 'read', 'check']
+['copy', 'driver', 'graphic', 'card', 'color', 'disk', 'friend', 'go', 'fact', 'support', 'answer', 'game', 'second', 'problem', 'scsi']
+['card', 'friend', 'sound', 'ftp', 'go', 'mail', 'machine', 'agree', 'run', 'order', 'speed', 'video', 'window', 'new', 'real']
+['window', 'file', 'bike', 'get', 'second', 'experience', 'display', 'friend', 'support', 'ftp', 'non', 'change', 'answer', 'reply', 'speed']
+['david', 'wrong', 'run', 'post', 'bike', 'window', 'support', 'driver', 'people', 'fast', 'take', 'agree', 'go', 'disk', 'price']
+['live', 'hear', 'people', 'color', 'real', 'reply', 'wrong', 'order', 'video', 'number', 'copy', 'mail', 'bike', 'good', 'law']
+['second', 'window', 'mail', 'experience', 'answer', 'friend', 'get', 'list', 'sound', 'disk', 'support', 'jesus', 'display', 'run', 'game']
+['window', 'display', 'order', 'speed', 'mouse', 'player', 'oh', 'reply', 'new', 'chip', 'driver', 'run', 'interested', 'offer', 'etc']
+['hear', 'agree', 'make', 'possible', 'display', 'second', 'sound', 'get', 'government', 'window', 'state', 'post', 'list', 'cause', 'version']
+['address', 'friend', 'order', 'display', 'speed', 'video', 'color', 'support', 'ftp', 'fact', 'use', 'nice', 'hard', 'com', 'memory']
+['support', 'list', 'power', 'driver', 'address', 'speed', 'pretty', 'game', 'experience', 'mail', 'card', 'friend', 'order', 'wrong', 'file']
+['mail', 'bike', 'driver', 'wrong', 'support', 'disk', 'second', 'offer', 'scsi', 'apple', 'reply', 'display', 'sound', 'possible', 'hard']
+['god', 'power', 'second', 'offer', 'get', 'line', 'wrong', 'apple', 'stuff', 'leave', 'sound', 'list', 'window', 'machine', 'order']
+['driver', 'line', 'go', 'talk', 'experience', 'display', 'video', 'address', 'speed', 'bike', 'delete', 'etc', 'sound', 'run', 'machine']
+['experience', 'driver', 'support', 'window', 'display', 'go', 'want', 'number', 'system', 'bike', 'government', 'color', 'do', 'run', 'video']
+['people', 'wrong', 'second', 'order', 'make', 'list', 'address', 'fast', 'display', 'memory', 'card', 'read', 'run', 'experience', 'possible']
+['order', 'bike', 'remember', 'people', 'make', 'book', 'second', 'display', 'oh', 'point', 'offer', 'talk', 'apple', 'hi', 'scsi']
+['bike', 'book', 'game', 'driver', 'wrong', 'leave', 'experience', 'sure', 'tell', 'offer', 'jesus', 'fact', 'people', 'mail', 'subject']
+==============================
+topic diversity:0.31333333333333335
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4256250229368493, c_w2v:None, c_uci:-0.5245914176041233, c_npmi:-0.010126453872994648
+mimno topic coherence:-236.79168378852088
+Epoch  81	Iter    1	Loss_D:-0.0214647	Loss_G:0.0114233	loss_E:0.0104378
+Epoch  81	Iter   11	Loss_D:-0.0220622	Loss_G:0.0116989	loss_E:0.0107300
+Epoch  81	Iter   21	Loss_D:-0.0206738	Loss_G:0.0116045	loss_E:0.0094502
+Epoch  82	Iter    1	Loss_D:-0.0216559	Loss_G:0.0114113	loss_E:0.0106411
+Epoch  82	Iter   11	Loss_D:-0.0200194	Loss_G:0.0110445	loss_E:0.0093385
+Epoch  82	Iter   21	Loss_D:-0.0207177	Loss_G:0.0111184	loss_E:0.0099756
+Epoch  83	Iter    1	Loss_D:-0.0207830	Loss_G:0.0108203	loss_E:0.0103477
+Epoch  83	Iter   11	Loss_D:-0.0210115	Loss_G:0.0106861	loss_E:0.0106877
+Epoch  83	Iter   21	Loss_D:-0.0213789	Loss_G:0.0110142	loss_E:0.0107140
+Epoch  84	Iter    1	Loss_D:-0.0206142	Loss_G:0.0104125	loss_E:0.0105440
+Epoch  84	Iter   11	Loss_D:-0.0222731	Loss_G:0.0106100	loss_E:0.0120143
+Epoch  84	Iter   21	Loss_D:-0.0213699	Loss_G:0.0103870	loss_E:0.0113257
+Epoch  85	Iter    1	Loss_D:-0.0213516	Loss_G:0.0104045	loss_E:0.0112781
+Epoch  85	Iter   11	Loss_D:-0.0219995	Loss_G:0.0102414	loss_E:0.0121032
+Epoch  85	Iter   21	Loss_D:-0.0199798	Loss_G:0.0103029	loss_E:0.0100081
+Epoch  86	Iter    1	Loss_D:-0.0221587	Loss_G:0.0103008	loss_E:0.0122003
+Epoch  86	Iter   11	Loss_D:-0.0203761	Loss_G:0.0099353	loss_E:0.0107909
+Epoch  86	Iter   21	Loss_D:-0.0204187	Loss_G:0.0104932	loss_E:0.0102614
+Epoch  87	Iter    1	Loss_D:-0.0212943	Loss_G:0.0100348	loss_E:0.0115707
+Epoch  87	Iter   11	Loss_D:-0.0214544	Loss_G:0.0098971	loss_E:0.0119085
+Epoch  87	Iter   21	Loss_D:-0.0214772	Loss_G:0.0096531	loss_E:0.0121598
+Epoch  88	Iter    1	Loss_D:-0.0222192	Loss_G:0.0094122	loss_E:0.0131391
+Epoch  88	Iter   11	Loss_D:-0.0199472	Loss_G:0.0092090	loss_E:0.0110535
+Epoch  88	Iter   21	Loss_D:-0.0220540	Loss_G:0.0094356	loss_E:0.0129493
+Epoch  89	Iter    1	Loss_D:-0.0218008	Loss_G:0.0091213	loss_E:0.0130212
+Epoch  89	Iter   11	Loss_D:-0.0201955	Loss_G:0.0095782	loss_E:0.0109432
+Epoch  89	Iter   21	Loss_D:-0.0214548	Loss_G:0.0092730	loss_E:0.0125006
+Epoch  90	Iter    1	Loss_D:-0.0222093	Loss_G:0.0095303	loss_E:0.0129907
+Epoch  90	Iter   11	Loss_D:-0.0207190	Loss_G:0.0090596	loss_E:0.0119642
+Epoch  90	Iter   21	Loss_D:-0.0215524	Loss_G:0.0091261	loss_E:0.0127246
+Epoch  90	Loss_D_avg:-0.0492152	Loss_G_avg:0.0193918	loss_E_avg:0.0302143
+['run', 'go', 'people', 'line', 'sound', 'possible', 'use', 'driver', 'pc', 'power', 'answer', 'window', 'bike', 'mail', 'game']
+['window', 'reply', 'good', 'change', 'driver', 'game', 'go', 'key', 'list', 'bike', 'long', 'wrong', 'file', 'chip', 'find']
+['bike', 'driver', 'window', 'post', 'color', 'read', 'disk', 'article', 'interested', 'people', 'go', 'mail', 'list', 'wrong', 'yes']
+['driver', 'card', 'go', 'graphic', 'game', 'problem', 'window', 'disk', 'run', 'color', 'answer', 'new', 'mail', 'want', 'chip']
+['card', 'go', 'sound', 'mail', 'run', 'window', 'new', 'post', 'ftp', 'driver', 'bike', 'like', 'change', 'list', 'believe']
+['window', 'file', 'get', 'bike', 'go', 'change', 'mail', 'answer', 'say', 'read', 'sound', 'reply', 'well', 'question', 'driver']
+['run', 'post', 'window', 'driver', 'wrong', 'people', 'bike', 'go', 'chip', 'price', 'hear', 'disk', 'address', 'new', 'key']
+['hear', 'people', 'color', 'reply', 'number', 'mail', 'good', 'window', 'game', 'chip', 'bike', 'wrong', 'problem', 'program', 'etc']
+['window', 'mail', 'second', 'get', 'list', 'sound', 'run', 'game', 'answer', 'well', 'disk', 'address', 'driver', 'go', 'car']
+['window', 'new', 'driver', 'chip', 'run', 'reply', 'program', 'etc', 'line', 'interested', 'problem', 'go', 'list', 'key', 'offer']
+['hear', 'get', 'sound', 'window', 'make', 'post', 'list', 'version', 'possible', 'driver', 'program', 'change', 'etc', 'file', 'article']
+['address', 'use', 'go', 'com', 'window', 'hard', 'color', 'people', 'etc', 'list', 'memory', 'new', 'course', 'mail', 'get']
+['driver', 'list', 'address', 'game', 'mail', 'card', 'power', 'file', 'hear', 'good', 'support', 'price', 'change', 'question', 'use']
+['mail', 'bike', 'driver', 'disk', 'sound', 'wrong', 'offer', 'window', 'reply', 'post', 'support', 'run', 'hard', 'line', 'send']
+['god', 'get', 'line', 'window', 'power', 'sound', 'list', 'offer', 'driver', 'people', 'run', 'wrong', 'mail', 'go', 'problem']
+['driver', 'line', 'go', 'talk', 'address', 'etc', 'run', 'sound', 'bike', 'try', 'hear', 'chip', 'good', 'article', 'program']
+['driver', 'window', 'go', 'want', 'number', 'system', 'run', 'bike', 'support', 'do', 'new', 'color', 'way', 'file', 'mail']
+['people', 'wrong', 'list', 'card', 'read', 'run', 'address', 'go', 'window', 'way', 'get', 'chip', 'make', 'memory', 'price']
+['bike', 'people', 'point', 'book', 'hi', 'run', 'line', 'window', 'question', 'sound', 'talk', 'disk', 'offer', 'etc', 'long']
+['bike', 'driver', 'game', 'book', 'sure', 'tell', 'mail', 'people', 'window', 'sound', 'etc', 'wrong', 'answer', 'price', 'go']
+==============================
+topic diversity:0.24
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4662824273655096, c_w2v:None, c_uci:-0.25463566236399304, c_npmi:0.00029054151992699025
+mimno topic coherence:-232.32615830816414
+Epoch  91	Iter    1	Loss_D:-0.0224009	Loss_G:0.0090271	loss_E:0.0136575
+Epoch  91	Iter   11	Loss_D:-0.0209616	Loss_G:0.0092348	loss_E:0.0120372
+Epoch  91	Iter   21	Loss_D:-0.0210071	Loss_G:0.0089688	loss_E:0.0123440
+Epoch  92	Iter    1	Loss_D:-0.0218345	Loss_G:0.0089113	loss_E:0.0132160
+Epoch  92	Iter   11	Loss_D:-0.0219852	Loss_G:0.0088916	loss_E:0.0133842
+Epoch  92	Iter   21	Loss_D:-0.0210244	Loss_G:0.0086660	loss_E:0.0126457
+Epoch  93	Iter    1	Loss_D:-0.0209541	Loss_G:0.0087685	loss_E:0.0124871
+Epoch  93	Iter   11	Loss_D:-0.0213842	Loss_G:0.0088090	loss_E:0.0128613
+Epoch  93	Iter   21	Loss_D:-0.0213372	Loss_G:0.0087826	loss_E:0.0128522
+Epoch  94	Iter    1	Loss_D:-0.0214570	Loss_G:0.0088268	loss_E:0.0128979
+Epoch  94	Iter   11	Loss_D:-0.0220616	Loss_G:0.0089765	loss_E:0.0133518
+Epoch  94	Iter   21	Loss_D:-0.0201096	Loss_G:0.0087505	loss_E:0.0116387
+Epoch  95	Iter    1	Loss_D:-0.0222630	Loss_G:0.0081836	loss_E:0.0143652
+Epoch  95	Iter   11	Loss_D:-0.0213223	Loss_G:0.0087634	loss_E:0.0128323
+Epoch  95	Iter   21	Loss_D:-0.0223485	Loss_G:0.0087063	loss_E:0.0139354
+Epoch  96	Iter    1	Loss_D:-0.0216016	Loss_G:0.0086308	loss_E:0.0132499
+Epoch  96	Iter   11	Loss_D:-0.0201793	Loss_G:0.0084341	loss_E:0.0120248
+Epoch  96	Iter   21	Loss_D:-0.0207526	Loss_G:0.0089537	loss_E:0.0120885
+Epoch  97	Iter    1	Loss_D:-0.0223253	Loss_G:0.0088103	loss_E:0.0137713
+Epoch  97	Iter   11	Loss_D:-0.0221456	Loss_G:0.0084542	loss_E:0.0139839
+Epoch  97	Iter   21	Loss_D:-0.0210018	Loss_G:0.0089677	loss_E:0.0123051
+Epoch  98	Iter    1	Loss_D:-0.0212848	Loss_G:0.0086455	loss_E:0.0129081
+Epoch  98	Iter   11	Loss_D:-0.0213921	Loss_G:0.0085460	loss_E:0.0131001
+Epoch  98	Iter   21	Loss_D:-0.0215115	Loss_G:0.0088171	loss_E:0.0129590
+Epoch  99	Iter    1	Loss_D:-0.0225894	Loss_G:0.0087769	loss_E:0.0140714
+Epoch  99	Iter   11	Loss_D:-0.0216300	Loss_G:0.0089200	loss_E:0.0129822
+Epoch  99	Iter   21	Loss_D:-0.0214901	Loss_G:0.0089414	loss_E:0.0128452
+Epoch 100	Iter    1	Loss_D:-0.0221687	Loss_G:0.0083768	loss_E:0.0140259
+Epoch 100	Iter   11	Loss_D:-0.0208925	Loss_G:0.0084355	loss_E:0.0127263
+Epoch 100	Iter   21	Loss_D:-0.0219300	Loss_G:0.0084432	loss_E:0.0137690
+Epoch 100	Loss_D_avg:-0.0464449	Loss_G_avg:0.0183274	loss_E_avg:0.0284972
+['run', 'go', 'people', 'use', 'window', 'driver', 'mail', 'card', 'game', 'post', 'system', 'thing', 'find', 'question', 'file']
+['window', 'good', 'go', 'game', 'driver', 'file', 'find', 'key', 'new', 'card', 'post', 'people', 'run', 'question', 'know']
+['window', 'post', 'driver', 'mail', 'go', 'read', 'people', 'problem', 'way', 'get', 'want', 'c', 'com', 'know', 'sure']
+['card', 'driver', 'go', 'problem', 'window', 'run', 'game', 'new', 'mail', 'want', 'thing', 'question', 'post', 'people', 'file']
+['card', 'go', 'mail', 'run', 'window', 'new', 'post', 'like', 'driver', 'way', 'people', 'problem', 'want', 'thing', 'believe']
+['window', 'file', 'get', 'mail', 'go', 'say', 'question', 'new', 'card', 'problem', 'read', 'driver', 'game', 'people', 'hear']
+['run', 'post', 'window', 'people', 'driver', 'go', 'new', 'good', 'hear', 'like', 'mail', 'problem', 'key', 'way', 'question']
+['people', 'hear', 'mail', 'window', 'good', 'number', 'problem', 'game', 'program', 'way', 'go', 'run', 'time', 'like', 'post']
+['window', 'mail', 'get', 'run', 'game', 'driver', 'car', 'go', 'problem', 'file', 'program', 'hear', 'key', 'post', 'way']
+['window', 'new', 'run', 'driver', 'program', 'problem', 'go', 'way', 'people', 'good', 'post', 'mail', 'key', 'card', 'use']
+['hear', 'get', 'window', 'post', 'program', 'file', 'driver', 'good', 'problem', 'people', 'go', 'thing', 'thank', 'run', 'version']
+['use', 'window', 'go', 'com', 'new', 'people', 'get', 'mail', 'good', 'time', 'post', 'problem', 'file', 'game', 'like']
+['driver', 'mail', 'card', 'game', 'file', 'good', 'hear', 'question', 'post', 'use', 'window', 'get', 'list', 'number', 'x']
+['mail', 'driver', 'window', 'post', 'run', 'new', 'go', 'file', 'get', 'people', 'problem', 'number', 'e', 'card', 'read']
+['get', 'window', 'run', 'god', 'mail', 'people', 'problem', 'driver', 'go', 'sure', 'game', 'hear', 'card', 'post', 'file']
+['driver', 'go', 'run', 'try', 'good', 'hear', 'file', 'program', 'new', 'line', 'post', 'think', 'people', 'window', 'problem']
+['window', 'driver', 'want', 'go', 'system', 'run', 'number', 'new', 'file', 'good', 'way', 'mail', 'find', 'read', 'know']
+['people', 'run', 'card', 'window', 'go', 'get', 'way', 'read', 'file', 'find', 'number', 'game', 'time', 'new', 'mail']
+['people', 'run', 'window', 'question', 'get', 'mail', 'go', 'buy', 'file', 'program', 'read', 'driver', 'hi', 'way', 'problem']
+['game', 'driver', 'window', 'mail', 'tell', 'people', 'sure', 'problem', 'go', 'run', 'way', 'hear', 'number', 'get', 'card']
+==============================
+topic diversity:0.15666666666666668
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4981622031356963, c_w2v:None, c_uci:0.07770421908457037, c_npmi:0.01523246267399472
+mimno topic coherence:-194.4665932444313
+topic diversity:0.15666666666666668
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4981622031356963, c_w2v:None, c_uci:0.07770421908457037, c_npmi:0.01523246267399472
+mimno topic coherence:-194.4665932444313

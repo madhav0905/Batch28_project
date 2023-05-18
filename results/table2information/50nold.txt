@@ -1,0 +1,886 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7fa72fbe74f0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0007684	Loss_G:0.0108665	loss_E:-0.0096583
+Epoch   1	Iter   11	Loss_D:-0.0058227	Loss_G:0.0146443	loss_E:-0.0080278
+Epoch   1	Iter   21	Loss_D:-0.0121260	Loss_G:0.0177618	loss_E:-0.0045772
+Epoch   2	Iter    1	Loss_D:-0.0137770	Loss_G:0.0182149	loss_E:-0.0033724
+Epoch   2	Iter   11	Loss_D:-0.0227595	Loss_G:0.0213412	loss_E:0.0026865
+Epoch   2	Iter   21	Loss_D:-0.0319749	Loss_G:0.0247517	loss_E:0.0085262
+Epoch   3	Iter    1	Loss_D:-0.0341518	Loss_G:0.0257481	loss_E:0.0096953
+Epoch   3	Iter   11	Loss_D:-0.0428447	Loss_G:0.0292322	loss_E:0.0148191
+Epoch   3	Iter   21	Loss_D:-0.0498356	Loss_G:0.0330818	loss_E:0.0178420
+Epoch   4	Iter    1	Loss_D:-0.0517050	Loss_G:0.0336927	loss_E:0.0190285
+Epoch   4	Iter   11	Loss_D:-0.0585252	Loss_G:0.0372600	loss_E:0.0222008
+Epoch   4	Iter   21	Loss_D:-0.0635293	Loss_G:0.0402621	loss_E:0.0241613
+Epoch   5	Iter    1	Loss_D:-0.0646050	Loss_G:0.0407599	loss_E:0.0247089
+Epoch   5	Iter   11	Loss_D:-0.0690652	Loss_G:0.0439827	loss_E:0.0258784
+Epoch   5	Iter   21	Loss_D:-0.0728119	Loss_G:0.0466240	loss_E:0.0269187
+Epoch   6	Iter    1	Loss_D:-0.0737477	Loss_G:0.0470234	loss_E:0.0274338
+Epoch   6	Iter   11	Loss_D:-0.0771646	Loss_G:0.0493379	loss_E:0.0285022
+Epoch   6	Iter   21	Loss_D:-0.0795534	Loss_G:0.0510795	loss_E:0.0291142
+Epoch   7	Iter    1	Loss_D:-0.0809960	Loss_G:0.0512563	loss_E:0.0303185
+Epoch   7	Iter   11	Loss_D:-0.0834562	Loss_G:0.0531582	loss_E:0.0308473
+Epoch   7	Iter   21	Loss_D:-0.0854858	Loss_G:0.0546162	loss_E:0.0313959
+Epoch   8	Iter    1	Loss_D:-0.0849785	Loss_G:0.0544898	loss_E:0.0310187
+Epoch   8	Iter   11	Loss_D:-0.0868570	Loss_G:0.0557095	loss_E:0.0316259
+Epoch   8	Iter   21	Loss_D:-0.0896121	Loss_G:0.0565775	loss_E:0.0334317
+Epoch   9	Iter    1	Loss_D:-0.0885614	Loss_G:0.0568555	loss_E:0.0321286
+Epoch   9	Iter   11	Loss_D:-0.0904327	Loss_G:0.0573183	loss_E:0.0334855
+Epoch   9	Iter   21	Loss_D:-0.0907681	Loss_G:0.0582233	loss_E:0.0328966
+Epoch  10	Iter    1	Loss_D:-0.0920840	Loss_G:0.0578079	loss_E:0.0346177
+Epoch  10	Iter   11	Loss_D:-0.0919179	Loss_G:0.0585034	loss_E:0.0337363
+Epoch  10	Iter   21	Loss_D:-0.0903802	Loss_G:0.0590388	loss_E:0.0316679
+Epoch  10	Loss_D_avg:-0.0626766	Loss_G_avg:0.0419740	loss_E_avg:0.0214350
+['high', 'start', 'golden', 'event', 'shaft', 'buy', 'piece', 'withthe', 'jersey', 'review', 'long', 'variant', 'national', 'moment', 'injury']
+['dean', 'package', 'head', 'expansion', 'capability', 'boy', 'buy', 'tiff', 'directory', 'theist', 'narrative', 'stand', 'exact', 'blame', 'mirror']
+['accelerator', 'sec', 'perform', 'narrative', 'hand', 'improvement', 'distance', 'bug', 'cell', 'mary', 'disagree', 'track', 'dean', 'life', 'doug']
+['drink', 'dean', 'ignorance', 'desktop', 'armenia', 'fine', 'card', 'wagon', 'jerry', 'reach', 'adb', 'met', 'approach', 'relation', 'david']
+['drink', 'rush', 'comparison', 'toronto', 'space', 'stephen', 'bruin', 'prove', 'twice', 'kid', 'compression', 'decent', 'injury', 'official', 'quote']
+['distance', 'department', 'tape', 'direction', 'dean', 'suppose', 'et', 'vax', 'location', 'universe', 'capability', 'rush', 'medicine', 'minute', 'vram']
+['capability', 'close', 'press', 'met', 'department', 'car', 'catch', 'sleep', 'culture', 'ed', 'shark', 'clinton', 'social', 'political', 'twice']
+['ratio', 'water', 'onthe', 'hmmm', 'rush', 'pixel', 'jack', 'edge', 'armenian', 'conversation', 'staff', 'engineer', 'truly', 'possibly', 'yes']
+['roof', 'false', 'un', 'infection', 'dump', 'norton', 'north', 'bronx', 'met', 'turn', 'distance', 'paint', 'hand', 'math', 'space']
+['track', 'impossible', 'pixel', 'study', 'bush', 'maintain', 'rate', 'dog', 'concern', 'scsi', 'requirement', 'lewis', 'bruin', 'load', 'icon']
+['appreciate', 'met', 'adb', 'lack', 'common', 'lie', 'town', 'armenian', 'sort', 'lose', 'video', 'winner', 'sentence', 'press', 'stand']
+['quality', 'willbe', 'piece', 'russian', 'spell', 'scsi', 'fm', 'stephen', 'shuttle', 'connection', 'support', 'kid', 'gay', 'thanx', 'city']
+['appreciate', 'specifically', 'hand', 'sort', 'math', 'isa', 'maintain', 'kid', 'catch', 'prove', 'mess', 'author', 'school', 'eliminate', 'quality']
+['deliver', 'quote', 'water', 'department', 'soul', 'platform', 'capability', 'city', 'sure', 'un', 'jim', 'cell', 'configuration', 'attach', 'bush']
+['mirror', 'let', 'son', 'isa', 'quote', 'rob', 'armenian', 'publish', 'prove', 'entirely', 'eliminate', 'maintain', 'suggestion', 'door', 'city']
+['doug', 'attach', 'head', 'walk', 'buti', 'paint', 'quality', 'armenian', 'sad', 'thanx', 'kid', 'dean', 'blood', 'plug', 'mess']
+['cell', 'package', 'screw', 'block', 'doug', 'francis', 'bush', 'dean', 'tonight', 'turn', 'life', 'radar', 'mess', 'north', 'brand']
+['cell', 'water', 'piece', 'prayer', 'usenet', 'political', 'present', 'documentation', 'announce', 'turn', 'appreciate', 'dog', 'file', 'beat', 'leafs']
+['pixel', 'shaft', 'met', 'publish', 'willbe', 'mailing', 'sentence', 'distance', 'bruin', 'drink', 'match', 'utexas', 'serve', 'life', 'co']
+['block', 'kent', 'publish', 'armenian', 'refresh', 'appreciate', 'quote', 'routine', 'co', 'phone', 'schedule', 'action', 'requirement', 'pcx', 'introduce']
+['pixel', 'member', 'package', 'connection', 'accurate', 'improvement', 'jews', 'quote', 'requirement', 'sam', 'press', 'greek', 'alan', 'mar', 'jerry']
+['quality', 'announce', 'publish', 'related', 'end', 'thanx', 'shaft', 'direction', 'desktop', 'electrical', 'yup', 'commit', 'buy', 'factor', 'armenian']
+['eliminate', 'met', 'respond', 'support', 'save', 'state', 'quality', 'twice', 'piece', 'beat', 'common', 'explain', 'scsi', 'give', 'strip']
+['piece', 'violate', 'champ', 'vram', 'mailing', 'co', 'immoral', 'connect', 'concept', 'scsi', 'pitt', 'stephen', 'depth', 'compress', 'touch']
+['piece', 'buying', 'prove', 'un', 'usenet', 'capable', 'conversation', 'pray', 'v', 'jason', 'close', 'desktop', 'percent', 'net', 'author']
+['vax', 'turkey', 'rush', 'misc', 'develop', 'adaptec', 'current', 'exact', 'usr', 'distance', 'sentence', 'j', 'micro', 'twice', 'mail']
+['jerry', 'turn', 'boy', 'stat', 'border', 'pixel', 'publish', 'desk', 'display', 'norton', 'kid', 'sam', 'mail', 'cellular', 'avoid']
+['surrender', 'mess', 'daughter', 'head', 'express', 'easily', 'connection', 'hand', 'rob', 'stay', 'political', 'delete', 'wagon', 'hmmm', 'co']
+['commit', 'surrender', 'direction', 'feel', 'drink', 'met', 'approach', 'stand', 'armenian', 'recognize', 'phrase', 'yes', 'package', 'comparison', 'engage']
+['injury', 'advance', 'attach', 'twice', 'culture', 'usenet', 'video', 'brother', 'cica', 'city', 'moment', 'compatible', 'russian', 'drink', 'schedule']
+['shaft', 'non', 'cellular', 'buy', 'piece', 'useful', 'individual', 'narrative', 'injury', 'baseball', 'basic', 'bruin', 'phrase', 'capability', 'stat']
+['lose', 'shuttle', 'cent', 'catch', 'bush', 'cell', 'impossible', 'smoke', 'block', 'reply', 'save', 'co', 'twice', 'dean', 'philosophy']
+['drink', 'head', 'co', 'stat', 'political', 'observation', 'russian', 'met', 'thanx', 'bronx', 'champ', 'injury', 'lane', 'isa', 'unfortunately']
+['russian', 'buy', 'stand', 'quality', 'motor', 'future', 'publish', 'pt', 'jim', 'turkey', 'hawk', 'suspect', 'piece', 'mar', 'comparison']
+['smoke', 'short', 'avoid', 'shall', 'schedule', 'piece', 'cell', 'stay', 'straight', 'twice', 'peace', 'video', 'present', 'stuff', 'manufacture']
+['assist', 'stay', 'cellular', 'buy', 'modern', 'long', 'isa', 'engineer', 'interview', 'city', 'capability', 'attach', 'sentence', 'dave', 'let']
+['tiff', 'unfortunately', 'close', 'observation', 'capability', 'piece', 'relation', 'culture', 'attach', 'dean', 'organization', 'horse', 'isa', 'doug', 'usenet']
+['rush', 'cell', 'voice', 'support', 'turn', 'infection', 'observation', 'beat', 'rely', 'dialog', 'video', 'capability', 'random', 'kid', 'yup']
+['net', 'pixel', 'dean', 'review', 'catch', 'high', 'rush', 'dog', 'cell', 'woman', 'ps', 'modern', 'drink', 'match', 'city']
+['like', 'wagon', 'friend', 'image', 'author', 'half', 'drink', 'school', 'severe', 'sort', 'consideration', 'schedule', 'adapter', 'pin', 'develop']
+['alan', 'house', 'doug', 'cell', 'water', 'mess', 'stick', 'competitor', 'quote', 'ignore', 'push', 'deeply', 'thatthe', 'manhattan', 'capability']
+['state', 'armenian', 'vram', 'distance', 'pixel', 'stand', 'severe', 'doug', 'jersey', 'motor', 'son', 'gateway', 'possibly', 'board', 'long']
+['cell', 'ignore', 'piece', 'catch', 'buy', 'turn', 'willbe', 'common', 'wonderful', 'ottawa', 'quality', 'attach', 'golden', 'press', 'motor']
+['review', 'accelerator', 'domain', 'isa', 'scsi', 'bush', 'piece', 'cell', 'france', 'save', 'potential', 'moment', 'generate', 'perform', 'lie']
+['quote', 'block', 'dean', 'drink', 'butt', 'big', 'owner', 'capability', 'palestine', 'perform', 'os', 'bruin', 'requirement', 'vram', 'respond']
+['shaft', 'manhattan', 'fill', 'press', 'cellular', 'drain', 'sure', 'life', 'unfortunately', 'twice', 'baseball', 'gordon', 'national', 'rush', 'mon']
+['hand', 'dave', 'blue', 'buy', 'display', 'ethernet', 'injury', 'dean', 'palestine', 'kit', 'story', 'champ', 'mirror', 'impossible', 'smoke']
+['package', 'chipset', 'organization', 'block', 'concept', 'car', 'column', 'quality', 'appreciate', 'quote', 'connect', 'dog', 'bitmap', 'probably', 'career']
+['armenian', 'observation', 'co', 'mess', 'hand', 'mailing', 'conversation', 'expert', 'dean', 'allow', 'currently', 'stephen', 'appreciate', 'math', 'greek']
+['brother', 'adapter', 'long', 'doug', 'dog', 'pentium', 'scsi', 'modify', 'isa', 'feel', 'water', 'decision', 'netcom', 'expansion', 'mon']
+==============================
+topic diversity:0.4653333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3617786153528844, c_w2v:None, c_uci:-8.933268530453098, c_npmi:-0.31423406566205825
+mimno topic coherence:-317.56367663201075
+Epoch  11	Iter    1	Loss_D:-0.0914976	Loss_G:0.0587170	loss_E:0.0331141
+Epoch  11	Iter   11	Loss_D:-0.0925188	Loss_G:0.0591391	loss_E:0.0336915
+Epoch  11	Iter   21	Loss_D:-0.0909289	Loss_G:0.0600886	loss_E:0.0311787
+Epoch  12	Iter    1	Loss_D:-0.0925662	Loss_G:0.0595029	loss_E:0.0333857
+Epoch  12	Iter   11	Loss_D:-0.0914437	Loss_G:0.0601858	loss_E:0.0315729
+Epoch  12	Iter   21	Loss_D:-0.0927129	Loss_G:0.0605942	loss_E:0.0324105
+Epoch  13	Iter    1	Loss_D:-0.0928069	Loss_G:0.0601708	loss_E:0.0329283
+Epoch  13	Iter   11	Loss_D:-0.0923544	Loss_G:0.0603112	loss_E:0.0323217
+Epoch  13	Iter   21	Loss_D:-0.0923551	Loss_G:0.0605828	loss_E:0.0320540
+Epoch  14	Iter    1	Loss_D:-0.0944906	Loss_G:0.0601282	loss_E:0.0346403
+Epoch  14	Iter   11	Loss_D:-0.0921875	Loss_G:0.0607194	loss_E:0.0317553
+Epoch  14	Iter   21	Loss_D:-0.0922368	Loss_G:0.0604066	loss_E:0.0321062
+Epoch  15	Iter    1	Loss_D:-0.0920722	Loss_G:0.0600972	loss_E:0.0322657
+Epoch  15	Iter   11	Loss_D:-0.0919639	Loss_G:0.0600947	loss_E:0.0321419
+Epoch  15	Iter   21	Loss_D:-0.0910933	Loss_G:0.0610842	loss_E:0.0302852
+Epoch  16	Iter    1	Loss_D:-0.0907932	Loss_G:0.0605760	loss_E:0.0304759
+Epoch  16	Iter   11	Loss_D:-0.0909859	Loss_G:0.0606284	loss_E:0.0306433
+Epoch  16	Iter   21	Loss_D:-0.0923050	Loss_G:0.0606050	loss_E:0.0319604
+Epoch  17	Iter    1	Loss_D:-0.0924560	Loss_G:0.0612435	loss_E:0.0314986
+Epoch  17	Iter   11	Loss_D:-0.0918798	Loss_G:0.0605100	loss_E:0.0316460
+Epoch  17	Iter   21	Loss_D:-0.0927261	Loss_G:0.0611229	loss_E:0.0318619
+Epoch  18	Iter    1	Loss_D:-0.0901560	Loss_G:0.0602370	loss_E:0.0301897
+Epoch  18	Iter   11	Loss_D:-0.0902117	Loss_G:0.0600873	loss_E:0.0303977
+Epoch  18	Iter   21	Loss_D:-0.0892170	Loss_G:0.0601637	loss_E:0.0293165
+Epoch  19	Iter    1	Loss_D:-0.0915399	Loss_G:0.0599053	loss_E:0.0318889
+Epoch  19	Iter   11	Loss_D:-0.0912680	Loss_G:0.0601128	loss_E:0.0314341
+Epoch  19	Iter   21	Loss_D:-0.0901660	Loss_G:0.0599206	loss_E:0.0305156
+Epoch  20	Iter    1	Loss_D:-0.0896559	Loss_G:0.0594683	loss_E:0.0304640
+Epoch  20	Iter   11	Loss_D:-0.0900133	Loss_G:0.0604130	loss_E:0.0298604
+Epoch  20	Iter   21	Loss_D:-0.0881046	Loss_G:0.0599730	loss_E:0.0283984
+Epoch  20	Loss_D_avg:-0.0770834	Loss_G_avg:0.0511001	loss_E_avg:0.0264909
+['high', 'shaft', 'start', 'jersey', 'event', 'review', 'piece', 'withthe', 'mirror', 'buy', 'injury', 'moment', 'national', 'long', 'hawk']
+['dean', 'package', 'expansion', 'tiff', 'head', 'capability', 'boy', 'mirror', 'buy', 'exact', 'blame', 'directory', 'backup', 'demonstrate', 'shaft']
+['accelerator', 'perform', 'sec', 'distance', 'improvement', 'cell', 'mary', 'disagree', 'track', 'doug', 'bug', 'hand', 'ah', 'narrative', 'misc']
+['drink', 'ignorance', 'dean', 'wagon', 'desktop', 'armenia', 'met', 'fine', 'approach', 'reach', 'card', 'followup', 'david', 'culture', 'smoke']
+['drink', 'comparison', 'rush', 'bruin', 'toronto', 'injury', 'compression', 'kid', 'space', 'stephen', 'twice', 'prove', 'accurate', 'decent', 'deny']
+['distance', 'department', 'direction', 'tape', 'et', 'vax', 'suppose', 'universe', 'location', 'dean', 'drink', 'capability', 'medicine', 'motor', 'paint']
+['capability', 'close', 'press', 'met', 'department', 'culture', 'ed', 'sleep', 'catch', 'car', 'social', 'observation', 'political', 'disagree', 'clinton']
+['hmmm', 'onthe', 'ratio', 'water', 'pixel', 'tiff', 'jack', 'stock', 'staff', 'edge', 'rush', 'injury', 'engineer', 'institute', 'mirror']
+['false', 'un', 'dump', 'norton', 'north', 'distance', 'met', 'paint', 'math', 'infection', 'turn', 'jason', 'routine', 'social', 'scale']
+['track', 'impossible', 'pixel', 'bush', 'study', 'lewis', 'maintain', 'dog', 'bruin', 'requirement', 'concern', 'icon', 'scsi', 'scanner', 'expansion']
+['appreciate', 'met', 'lack', 'sentence', 'winner', 'town', 'common', 'lie', 'stand', 'injury', 'scsi', 'piece', 'video', 'armenian', 'sort']
+['quality', 'piece', 'russian', 'spell', 'fm', 'shuttle', 'connection', 'kid', 'scsi', 'thanx', 'gay', 'stephen', 'drink', 'bruin', 'programming']
+['appreciate', 'specifically', 'math', 'hand', 'maintain', 'isa', 'kid', 'sort', 'eliminate', 'catch', 'school', 'author', 'quality', 'prove', 'witness']
+['quote', 'water', 'department', 'soul', 'capability', 'cell', 'un', 'deliver', 'russian', 'sys', 'bush', 'jim', 'city', 'fund', 'configuration']
+['mirror', 'let', 'rob', 'isa', 'son', 'entirely', 'publish', 'quote', 'eliminate', 'maintain', 'impossible', 'armenian', 'prove', 'routine', 'edit']
+['doug', 'walk', 'head', 'paint', 'attach', 'thanx', 'kid', 'quality', 'sad', 'yup', 'buti', 'armenian', 'blood', 'plug', 'piece']
+['cell', 'screw', 'package', 'block', 'doug', 'francis', 'radar', 'bush', 'tonight', 'north', 'bruin', 'thatthe', 'turn', 'wagon', 'life']
+['cell', 'water', 'piece', 'usenet', 'political', 'announce', 'present', 'injury', 'appreciate', 'dog', 'prayer', 'leafs', 'documentation', 'beat', 'met']
+['shaft', 'met', 'pixel', 'publish', 'distance', 'sentence', 'bruin', 'drink', 'mailing', 'match', 'co', 'electrical', 'piece', 'touch', 'modern']
+['block', 'kent', 'publish', 'appreciate', 'co', 'routine', 'schedule', 'armenian', 'refresh', 'quote', 'misc', 'requirement', 'complain', 'behavior', 'introduce']
+['pixel', 'accurate', 'connection', 'package', 'member', 'improvement', 'requirement', 'jews', 'tiff', 'sam', 'quote', 'suffer', 'mar', 'greek', 'shaft']
+['quality', 'announce', 'shaft', 'thanx', 'publish', 'yup', 'electrical', 'desktop', 'direction', 'related', 'end', 'ncd', 'factor', 'modern', 'behavior']
+['eliminate', 'met', 'respond', 'support', 'save', 'social', 'piece', 'quality', 'strip', 'australia', 'pt', 'twice', 'state', 'phrase', 'beat']
+['piece', 'violate', 'co', 'mailing', 'touch', 'vram', 'depth', 'announce', 'concept', 'compress', 'connect', 'pitt', 'scsi', 'jersey', 'deletion']
+['piece', 'un', 'usenet', 'prove', 'pray', 'capable', 'jason', 'desktop', 'george', 'york', 'mhz', 'ncd', 'plant', 'capability', 'author']
+['vax', 'misc', 'turkey', 'rush', 'distance', 'exact', 'sentence', 'develop', 'plant', 'usr', 'expansion', 'pittsburgh', 'current', 'twice', 'expert']
+['boy', 'turn', 'border', 'stat', 'pixel', 'norton', 'publish', 'russian', 'kid', 'sam', 'distance', 'display', 'cellular', 'mail', 'avoid']
+['surrender', 'express', 'rob', 'wagon', 'connection', 'shaft', 'exe', 'easily', 'hmmm', 'mess', 'head', 'political', 'decision', 'co', 'stay']
+['drink', 'met', 'surrender', 'commit', 'direction', 'approach', 'phrase', 'cell', 'stand', 'feel', 'recognize', 'comparison', 'armenian', 'engage', 'leafs']
+['injury', 'culture', 'advance', 'twice', 'usenet', 'attach', 'drink', 'hawk', 'brother', 'cica', 'russian', 'moment', 'schedule', 'video', 'compatible']
+['shaft', 'cellular', 'non', 'piece', 'injury', 'buy', 'useful', 'individual', 'bruin', 'observation', 'mirror', 'basic', 'phrase', 'capability', 'stat']
+['shuttle', 'cell', 'lose', 'bush', 'impossible', 'smoke', 'catch', 'block', 'co', 'civilian', 'reply', 'norton', 'save', 'twice', 'cancer']
+['drink', 'co', 'observation', 'russian', 'met', 'stat', 'political', 'thanx', 'injury', 'head', 'isa', 'capability', 'visual', 'twice', 'unfortunately']
+['russian', 'motor', 'pt', 'publish', 'quality', 'hawk', 'stand', 'buy', 'future', 'jim', 'turkey', 'piece', 'comparison', 'express', 'staff']
+['smoke', 'short', 'cell', 'schedule', 'shall', 'piece', 'shaft', 'avoid', 'stay', 'usenet', 'twice', 'straight', 'comparison', 'manufacture', 'paint']
+['stay', 'cellular', 'modern', 'engineer', 'buy', 'isa', 'capability', 'sentence', 'long', 'city', 'interview', 'culture', 'met', 'deserve', 'ability']
+['tiff', 'observation', 'unfortunately', 'capability', 'close', 'piece', 'culture', 'relation', 'doug', 'usenet', 'isa', 'ax', 'organization', 'islam', 'attach']
+['cell', 'voice', 'rush', 'observation', 'yup', 'rely', 'random', 'capability', 'support', 'beat', 'kid', 'cancer', 'turn', 'bag', 'piece']
+['net', 'pixel', 'review', 'cell', 'catch', 'drink', 'hawk', 'dog', 'dean', 'modern', 'ps', 'powerbook', 'rush', 'reading', 'match']
+['wagon', 'drink', 'like', 'author', 'school', 'image', 'half', 'friend', 'schedule', 'adapter', 'entirely', 'distance', 'postscript', 'sort', 'develop']
+['doug', 'cell', 'alan', 'house', 'water', 'stick', 'push', 'quote', 'capability', 'ignore', 'usenet', 'potential', 'thatthe', 'shall', 'toyota']
+['state', 'armenian', 'distance', 'doug', 'jersey', 'motor', 'pixel', 'vram', 'gateway', 'batf', 'stand', 'doctrine', 'son', 'sentence', 'possibly']
+['cell', 'ignore', 'piece', 'catch', 'ottawa', 'united', 'buy', 'turn', 'motor', 'common', 'summer', 'quality', 'perform', 'accurate', 'philadelphia']
+['review', 'accelerator', 'potential', 'domain', 'cell', 'bush', 'captain', 'perform', 'isa', 'moment', 'piece', 'colormap', 'scsi', 'generate', 'france']
+['block', 'quote', 'dean', 'drink', 'capability', 'perform', 'bruin', 'doug', 'sentence', 'requirement', 'owner', 'big', 'os', 'piece', 'shaft']
+['shaft', 'fill', 'drain', 'mon', 'cellular', 'press', 'gordon', 'injury', 'twice', 'unfortunately', 'appreciate', 'math', 'life', 'sure', 'national']
+['hand', 'dave', 'blue', 'injury', 'ethernet', 'mirror', 'display', 'buy', 'smoke', 'kit', 'impossible', 'border', 'jersey', 'mary', 'harvard']
+['package', 'chipset', 'block', 'concept', 'organization', 'appreciate', 'quality', 'career', 'cancer', 'dog', 'disagree', 'quote', 'decision', 'car', 'potential']
+['observation', 'armenian', 'co', 'expert', 'mailing', 'hand', 'math', 'plant', 'cell', 'appreciate', 'alot', 'russia', 'greek', 'concerned', 'allow']
+['adapter', 'doug', 'brother', 'dog', 'decision', 'netcom', 'mon', 'long', 'scsi', 'isa', 'expansion', 'cell', 'modify', 'shall', 'schedule']
+==============================
+topic diversity:0.44266666666666665
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3788956765891182, c_w2v:None, c_uci:-9.503408913621657, c_npmi:-0.3333226284074379
+mimno topic coherence:-307.53346013088003
+Epoch  21	Iter    1	Loss_D:-0.0903909	Loss_G:0.0592107	loss_E:0.0314153
+Epoch  21	Iter   11	Loss_D:-0.0877490	Loss_G:0.0585008	loss_E:0.0295158
+Epoch  21	Iter   21	Loss_D:-0.0880363	Loss_G:0.0594581	loss_E:0.0288363
+Epoch  22	Iter    1	Loss_D:-0.0885347	Loss_G:0.0586256	loss_E:0.0301640
+Epoch  22	Iter   11	Loss_D:-0.0885476	Loss_G:0.0587098	loss_E:0.0300766
+Epoch  22	Iter   21	Loss_D:-0.0874480	Loss_G:0.0593429	loss_E:0.0283803
+Epoch  23	Iter    1	Loss_D:-0.0897450	Loss_G:0.0589688	loss_E:0.0310261
+Epoch  23	Iter   11	Loss_D:-0.0892497	Loss_G:0.0585978	loss_E:0.0309092
+Epoch  23	Iter   21	Loss_D:-0.0882067	Loss_G:0.0579174	loss_E:0.0305312
+Epoch  24	Iter    1	Loss_D:-0.0876752	Loss_G:0.0586703	loss_E:0.0292702
+Epoch  24	Iter   11	Loss_D:-0.0854195	Loss_G:0.0574428	loss_E:0.0282424
+Epoch  24	Iter   21	Loss_D:-0.0876053	Loss_G:0.0574571	loss_E:0.0304185
+Epoch  25	Iter    1	Loss_D:-0.0862499	Loss_G:0.0574073	loss_E:0.0291435
+Epoch  25	Iter   11	Loss_D:-0.0843598	Loss_G:0.0570562	loss_E:0.0275342
+Epoch  25	Iter   21	Loss_D:-0.0848212	Loss_G:0.0571058	loss_E:0.0279961
+Epoch  26	Iter    1	Loss_D:-0.0854258	Loss_G:0.0566671	loss_E:0.0290280
+Epoch  26	Iter   11	Loss_D:-0.0853192	Loss_G:0.0562468	loss_E:0.0293020
+Epoch  26	Iter   21	Loss_D:-0.0837036	Loss_G:0.0564362	loss_E:0.0275359
+Epoch  27	Iter    1	Loss_D:-0.0824843	Loss_G:0.0555583	loss_E:0.0271859
+Epoch  27	Iter   11	Loss_D:-0.0846578	Loss_G:0.0557273	loss_E:0.0291989
+Epoch  27	Iter   21	Loss_D:-0.0837813	Loss_G:0.0554398	loss_E:0.0286016
+Epoch  28	Iter    1	Loss_D:-0.0831819	Loss_G:0.0548539	loss_E:0.0285913
+Epoch  28	Iter   11	Loss_D:-0.0816582	Loss_G:0.0548355	loss_E:0.0270993
+Epoch  28	Iter   21	Loss_D:-0.0825715	Loss_G:0.0546160	loss_E:0.0282182
+Epoch  29	Iter    1	Loss_D:-0.0813792	Loss_G:0.0543907	loss_E:0.0272783
+Epoch  29	Iter   11	Loss_D:-0.0814786	Loss_G:0.0544041	loss_E:0.0273436
+Epoch  29	Iter   21	Loss_D:-0.0809565	Loss_G:0.0538943	loss_E:0.0273593
+Epoch  30	Iter    1	Loss_D:-0.0814493	Loss_G:0.0535296	loss_E:0.0281689
+Epoch  30	Iter   11	Loss_D:-0.0805873	Loss_G:0.0525916	loss_E:0.0282998
+Epoch  30	Iter   21	Loss_D:-0.0795268	Loss_G:0.0532326	loss_E:0.0265699
+Epoch  30	Loss_D_avg:-0.0797467	Loss_G_avg:0.0529212	loss_E_avg:0.0272522
+['shaft', 'high', 'jersey', 'mirror', 'withthe', 'review', 'start', 'piece', 'injury', 'moment', 'hawk', 'event', 'philadelphia', 'hall', 'buy']
+['tiff', 'expansion', 'package', 'capability', 'dean', 'mirror', 'head', 'shaft', 'boy', 'exact', 'backup', 'demonstrate', 'blame', 'doug', 'buy']
+['accelerator', 'perform', 'sec', 'distance', 'cell', 'doug', 'disagree', 'improvement', 'mary', 'track', 'bug', 'ah', 'wagon', 'misc', 'social']
+['drink', 'ignorance', 'wagon', 'desktop', 'met', 'armenia', 'dean', 'approach', 'followup', 'smoke', 'reach', 'fine', 'regardless', 'capability', 'announce']
+['drink', 'comparison', 'injury', 'bruin', 'accurate', 'compression', 'toronto', 'anonymous', 'kid', 'pt', 'met', 'decent', 'space', 'modern', 'deny']
+['distance', 'department', 'universe', 'direction', 'drink', 'et', 'tape', 'capability', 'vax', 'location', 'suppose', 'motor', 'met', 'cell', 'doug']
+['capability', 'close', 'press', 'met', 'ed', 'department', 'culture', 'sleep', 'social', 'observation', 'catch', 'disagree', 'car', 'political', 'vax']
+['tiff', 'hmmm', 'stock', 'onthe', 'ncd', 'pixel', 'jack', 'mirror', 'staff', 'water', 'injury', 'shaft', 'institute', 'edge', 'engineer']
+['dump', 'un', 'false', 'distance', 'norton', 'met', 'north', 'paint', 'math', 'tiff', 'plant', 'social', 'routine', 'jason', 'hawk']
+['track', 'impossible', 'pixel', 'bush', 'lewis', 'study', 'maintain', 'scanner', 'ncd', 'icon', 'distance', 'doug', 'dog', 'expansion', 'bruin']
+['met', 'appreciate', 'sentence', 'winner', 'lack', 'tiff', 'town', 'injury', 'common', 'lie', 'piece', 'floor', 'split', 'jersey', 'complain']
+['quality', 'russian', 'piece', 'spell', 'wagon', 'drink', 'fm', 'kid', 'thanx', 'shuttle', 'tiff', 'connection', 'gay', 'scsi', 'programming']
+['specifically', 'appreciate', 'math', 'kid', 'hand', 'maintain', 'isa', 'school', 'eliminate', 'fee', 'catch', 'mirror', 'witness', 'sort', 'distance']
+['quote', 'water', 'department', 'capability', 'cell', 'soul', 'un', 'sys', 'russian', 'bush', 'fund', 'jim', 'configuration', 'city', 'sa']
+['mirror', 'entirely', 'rob', 'let', 'isa', 'potential', 'publish', 'edit', 'son', 'maintain', 'quote', 'impossible', 'routine', 'eliminate', 'afraid']
+['doug', 'walk', 'paint', 'head', 'thanx', 'yup', 'kid', 'quality', 'distance', 'piece', 'shaft', 'blood', 'armenian', 'sad', 'speaker']
+['cell', 'doug', 'screw', 'package', 'francis', 'block', 'radar', 'wagon', 'tonight', 'bush', 'tiff', 'thatthe', 'batf', 'north', 'bruin']
+['cell', 'water', 'piece', 'usenet', 'announce', 'injury', 'political', 'appreciate', 'met', 'present', 'dog', 'staff', 'complain', 'leafs', 'documentation']
+['shaft', 'met', 'pixel', 'distance', 'drink', 'sentence', 'publish', 'bruin', 'mailing', 'tiff', 'electrical', 'touch', 'co', 'border', 'piece']
+['block', 'kent', 'publish', 'routine', 'appreciate', 'misc', 'co', 'schedule', 'complain', 'norton', 'cell', 'behavior', 'quote', 'requirement', 'armenian']
+['pixel', 'accurate', 'tiff', 'connection', 'package', 'member', 'shaft', 'improvement', 'exe', 'sam', 'requirement', 'jews', 'suffer', 'quote', 'mirror']
+['quality', 'announce', 'shaft', 'yup', 'thanx', 'electrical', 'ncd', 'publish', 'desktop', 'wagon', 'direction', 'modern', 'factor', 'drink', 'behavior']
+['met', 'eliminate', 'australia', 'social', 'pt', 'respond', 'support', 'strip', 'piece', 'save', 'phrase', 'quality', 'deep', 'usenet', 'beat']
+['piece', 'touch', 'vram', 'co', 'mailing', 'announce', 'jersey', 'depth', 'concept', 'compress', 'deletion', 'norton', 'eternal', 'distance', 'scsi']
+['piece', 'un', 'pray', 'usenet', 'capable', 'jason', 'ncd', 'wagon', 'desktop', 'plant', 'distance', 'prove', 'neighbor', 'capability', 'mhz']
+['vax', 'misc', 'distance', 'turkey', 'sentence', 'exact', 'plant', 'expansion', 'touch', 'expert', 'develop', 'johnson', 'pittsburgh', 'appreciate', 'ncd']
+['border', 'boy', 'norton', 'pixel', 'turn', 'stat', 'distance', 'publish', 'russian', 'kid', 'sam', 'toyota', 'weak', 'export', 'display']
+['surrender', 'wagon', 'express', 'shaft', 'exe', 'rob', 'hmmm', 'decision', 'connection', 'mirror', 'observation', 'co', 'political', 'met', 'plant']
+['drink', 'met', 'surrender', 'distance', 'phrase', 'cell', 'direction', 'commit', 'approach', 'comparison', 'exact', 'leafs', 'stand', 'feel', 'park']
+['injury', 'culture', 'hawk', 'drink', 'usenet', 'advance', 'moment', 'cica', 'twice', 'russian', 'brother', 'fee', 'compatible', 'gee', 'schedule']
+['shaft', 'injury', 'piece', 'observation', 'mirror', 'non', 'capability', 'jay', 'stock', 'buy', 'phrase', 'bruin', 'useful', 'phil', 'basic']
+['shuttle', 'cell', 'smoke', 'impossible', 'bush', 'lose', 'catch', 'civilian', 'co', 'norton', 'block', 'cancer', 'exe', 'expansion', 'ed']
+['drink', 'observation', 'met', 'russian', 'co', 'thanx', 'injury', 'political', 'stat', 'head', 'capability', 'isa', 'wagon', 'visual', 'scale']
+['russian', 'pt', 'hawk', 'motor', 'publish', 'quality', 'stand', 'buy', 'brad', 'jim', 'turkey', 'tek', 'future', 'comparison', 'piece']
+['smoke', 'cell', 'shaft', 'short', 'shall', 'schedule', 'piece', 'usenet', 'manufacture', 'prize', 'drink', 'comparison', 'stay', 'explanation', 'avoid']
+['stay', 'modern', 'engineer', 'capability', 'sentence', 'cellular', 'buy', 'isa', 'met', 'culture', 'deserve', 'doug', 'marriage', 'speech', 'city']
+['tiff', 'observation', 'capability', 'unfortunately', 'piece', 'culture', 'doug', 'close', 'usenet', 'ax', 'isa', 'vesa', 'pixel', 'jersey', 'hawk']
+['cell', 'yup', 'observation', 'voice', 'rely', 'capability', 'random', 'ncd', 'cancer', 'bag', 'kid', 'adapter', 'social', 'brad', 'beat']
+['pixel', 'cell', 'hawk', 'review', 'drink', 'net', 'powerbook', 'reading', 'catch', 'modern', 'ps', 'dog', 'harvard', 'philadelphia', 'icon']
+['wagon', 'drink', 'like', 'distance', 'school', 'author', 'adapter', 'entirely', 'postscript', 'half', 'schedule', 'image', 'friend', 'piece', 'injury']
+['doug', 'cell', 'tiff', 'potential', 'capability', 'house', 'alan', 'toyota', 'wagon', 'push', 'water', 'usenet', 'quote', 'ignore', 'stick']
+['distance', 'doug', 'jersey', 'state', 'gateway', 'armenian', 'motor', 'pixel', 'vram', 'batf', 'hawk', 'toyota', 'database', 'wagon', 'sentence']
+['cell', 'ignore', 'piece', 'catch', 'philadelphia', 'united', 'motor', 'accurate', 'perform', 'gateway', 'summer', 'ottawa', 'distance', 'turn', 'announce']
+['review', 'potential', 'accelerator', 'domain', 'cell', 'captain', 'perform', 'moment', 'colormap', 'bush', 'shaft', 'living', 'obo', 'isa', 'piece']
+['block', 'quote', 'drink', 'capability', 'shaft', 'dean', 'perform', 'doug', 'sentence', 'potential', 'bruin', 'piece', 'os', 'requirement', 'cult']
+['shaft', 'drain', 'mon', 'fill', 'injury', 'potential', 'drink', 'appreciate', 'gordon', 'math', 'expert', 'pray', 'press', 'unfortunately', 'deletion']
+['dave', 'hand', 'ethernet', 'injury', 'mirror', 'smoke', 'blue', 'impossible', 'ncd', 'border', 'distance', 'harvard', 'kit', 'jersey', 'buy']
+['cancer', 'package', 'potential', 'block', 'career', 'appreciate', 'concept', 'disagree', 'chipset', 'sabbath', 'distance', 'organization', 'decision', 'observation', 'quality']
+['observation', 'expert', 'co', 'armenian', 'plant', 'mailing', 'cell', 'alot', 'math', 'mirror', 'doug', 'appreciate', 'disagree', 'russia', 'icon']
+['adapter', 'doug', 'mon', 'brother', 'netcom', 'dog', 'decision', 'expansion', 'libertarian', 'cell', 'isa', 'scsi', 'batf', 'long', 'tiff']
+==============================
+topic diversity:0.412
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.42127255809888053, c_w2v:None, c_uci:-10.275962491098761, c_npmi:-0.3614639617632928
+mimno topic coherence:-307.80302936872977
+Epoch  31	Iter    1	Loss_D:-0.0802930	Loss_G:0.0529448	loss_E:0.0276281
+Epoch  31	Iter   11	Loss_D:-0.0803920	Loss_G:0.0528893	loss_E:0.0277840
+Epoch  31	Iter   21	Loss_D:-0.0800027	Loss_G:0.0523528	loss_E:0.0279325
+Epoch  32	Iter    1	Loss_D:-0.0782554	Loss_G:0.0521767	loss_E:0.0263649
+Epoch  32	Iter   11	Loss_D:-0.0797811	Loss_G:0.0517561	loss_E:0.0282955
+Epoch  32	Iter   21	Loss_D:-0.0782924	Loss_G:0.0513244	loss_E:0.0272711
+Epoch  33	Iter    1	Loss_D:-0.0783116	Loss_G:0.0509903	loss_E:0.0275933
+Epoch  33	Iter   11	Loss_D:-0.0782862	Loss_G:0.0513525	loss_E:0.0272494
+Epoch  33	Iter   21	Loss_D:-0.0761796	Loss_G:0.0508798	loss_E:0.0256005
+Epoch  34	Iter    1	Loss_D:-0.0773549	Loss_G:0.0504527	loss_E:0.0271675
+Epoch  34	Iter   11	Loss_D:-0.0746926	Loss_G:0.0501318	loss_E:0.0248821
+Epoch  34	Iter   21	Loss_D:-0.0755182	Loss_G:0.0499753	loss_E:0.0258434
+Epoch  35	Iter    1	Loss_D:-0.0760921	Loss_G:0.0493781	loss_E:0.0270310
+Epoch  35	Iter   11	Loss_D:-0.0739820	Loss_G:0.0491939	loss_E:0.0250840
+Epoch  35	Iter   21	Loss_D:-0.0747523	Loss_G:0.0486834	loss_E:0.0263554
+Epoch  36	Iter    1	Loss_D:-0.0754545	Loss_G:0.0486296	loss_E:0.0271405
+Epoch  36	Iter   11	Loss_D:-0.0717132	Loss_G:0.0481526	loss_E:0.0238717
+Epoch  36	Iter   21	Loss_D:-0.0739354	Loss_G:0.0478755	loss_E:0.0263770
+Epoch  37	Iter    1	Loss_D:-0.0732860	Loss_G:0.0478011	loss_E:0.0257761
+Epoch  37	Iter   11	Loss_D:-0.0734199	Loss_G:0.0473051	loss_E:0.0264148
+Epoch  37	Iter   21	Loss_D:-0.0706268	Loss_G:0.0472383	loss_E:0.0237003
+Epoch  38	Iter    1	Loss_D:-0.0695475	Loss_G:0.0461612	loss_E:0.0237007
+Epoch  38	Iter   11	Loss_D:-0.0720042	Loss_G:0.0467041	loss_E:0.0256041
+Epoch  38	Iter   21	Loss_D:-0.0724327	Loss_G:0.0459952	loss_E:0.0267191
+Epoch  39	Iter    1	Loss_D:-0.0703931	Loss_G:0.0459513	loss_E:0.0247762
+Epoch  39	Iter   11	Loss_D:-0.0708794	Loss_G:0.0456876	loss_E:0.0255071
+Epoch  39	Iter   21	Loss_D:-0.0712675	Loss_G:0.0456506	loss_E:0.0259218
+Epoch  40	Iter    1	Loss_D:-0.0683957	Loss_G:0.0453539	loss_E:0.0233851
+Epoch  40	Iter   11	Loss_D:-0.0686668	Loss_G:0.0449542	loss_E:0.0240476
+Epoch  40	Iter   21	Loss_D:-0.0687322	Loss_G:0.0447879	loss_E:0.0242663
+Epoch  40	Loss_D_avg:-0.0784179	Loss_G_avg:0.0518803	loss_E_avg:0.0269332
+['shaft', 'high', 'mirror', 'withthe', 'hawk', 'moment', 'review', 'piece', 'injury', 'jersey', 'drink', 'start', 'philadelphia', 'vesa', 'event']
+['tiff', 'expansion', 'package', 'mirror', 'shaft', 'capability', 'head', 'doug', 'boy', 'exact', 'backup', 'blame', 'wagon', 'implement', 'buy']
+['accelerator', 'perform', 'sec', 'distance', 'cell', 'doug', 'disagree', 'track', 'wagon', 'mary', 'ah', 'bug', 'tiff', 'misc', 'shaft']
+['drink', 'ignorance', 'wagon', 'desktop', 'smoke', 'approach', 'flat', 'favorite', 'met', 'reach', 'announce', 'regardless', 'fine', 'followup', 'mirror']
+['drink', 'comparison', 'injury', 'anonymous', 'accurate', 'compression', 'pt', 'kid', 'toronto', 'wagon', 'decent', 'space', 'marriage', 'modern', 'deny']
+['distance', 'universe', 'drink', 'department', 'direction', 'et', 'location', 'tape', 'doug', 'capability', 'cell', 'suppose', 'appreciate', 'vram', 'motor']
+['capability', 'close', 'press', 'ed', 'sleep', 'department', 'culture', 'met', 'disagree', 'catch', 'tiff', 'cell', 'observation', 'social', 'political']
+['tiff', 'hmmm', 'shaft', 'mirror', 'ncd', 'jack', 'onthe', 'exe', 'stock', 'injury', 'pixel', 'engineer', 'brad', 'water', 'edge']
+['false', 'distance', 'norton', 'north', 'dump', 'hawk', 'tiff', 'math', 'cell', 'paint', 'plant', 'jason', 'routine', 'afraid', 'met']
+['track', 'impossible', 'pixel', 'bush', 'scanner', 'study', 'icon', 'doug', 'shaft', 'moment', 'maintain', 'ncd', 'drink', 'dog', 'distance']
+['appreciate', 'tiff', 'met', 'winner', 'injury', 'lack', 'piece', 'common', 'radar', 'wagon', 'complain', 'lie', 'floor', 'germany', 'stand']
+['quality', 'wagon', 'russian', 'piece', 'spell', 'drink', 'tiff', 'thanx', 'kid', 'shuttle', 'connection', 'gay', 'mirror', 'scsi', 'programming']
+['specifically', 'appreciate', 'math', 'kid', 'fee', 'hand', 'isa', 'mirror', 'maintain', 'school', 'catch', 'witness', 'art', 'distance', 'quality']
+['quote', 'cell', 'water', 'department', 'sys', 'capability', 'russian', 'bush', 'fund', 'soul', 'brad', 'jim', 'sequence', 'city', 'mirror']
+['mirror', 'rob', 'edit', 'potential', 'isa', 'publish', 'let', 'impossible', 'maintain', 'quote', 'art', 'routine', 'afraid', 'son', 'entirely']
+['doug', 'walk', 'yup', 'paint', 'thanx', 'head', 'kid', 'shaft', 'quality', 'piece', 'distance', 'fee', 'speaker', 'russian', 'drink']
+['cell', 'doug', 'radar', 'wagon', 'screw', 'package', 'block', 'tiff', 'francis', 'tonight', 'bush', 'batf', 'thatthe', 'north', 'injury']
+['cell', 'water', 'piece', 'announce', 'injury', 'appreciate', 'political', 'complain', 'dog', 'gear', 'present', 'engineer', 'leafs', 'toyota', 'philadelphia']
+['shaft', 'distance', 'pixel', 'drink', 'publish', 'tiff', 'met', 'mailing', 'duo', 'radar', 'border', 'co', 'piece', 'chain', 'hawk']
+['block', 'kent', 'publish', 'appreciate', 'misc', 'routine', 'co', 'norton', 'cell', 'shaft', 'complain', 'smoke', 'drink', 'eh', 'behavior']
+['tiff', 'pixel', 'accurate', 'shaft', 'exe', 'connection', 'package', 'mirror', 'member', 'suffer', 'quote', 'jews', 'yup', 'wagon', 'ncd']
+['announce', 'quality', 'shaft', 'yup', 'thanx', 'desktop', 'wagon', 'publish', 'ncd', 'drink', 'smoke', 'direction', 'modern', 'behavior', 'factor']
+['australia', 'met', 'pt', 'piece', 'respond', 'support', 'quality', 'strip', 'save', 'comparison', 'deep', 'publish', 'cell', 'social', 'stat']
+['piece', 'vram', 'announce', 'co', 'mailing', 'norton', 'touch', 'deletion', 'eternal', 'concept', 'icon', 'scsi', 'distance', 'connect', 'train']
+['piece', 'wagon', 'jason', 'desktop', 'ncd', 'plant', 'capable', 'pray', 'prove', 'distance', 'anonymous', 'york', 'mhz', 'george', 'comparison']
+['misc', 'distance', 'exact', 'turkey', 'plant', 'expert', 'johnson', 'expansion', 'appreciate', 'develop', 'yup', 'pittsburgh', 'ncd', 'potential', 'injury']
+['border', 'boy', 'norton', 'stat', 'publish', 'pixel', 'turn', 'distance', 'russian', 'toyota', 'kid', 'export', 'iii', 'misc', 'pt']
+['wagon', 'surrender', 'shaft', 'express', 'exe', 'rob', 'mirror', 'hmmm', 'misc', 'co', 'political', 'decision', 'connection', 'plant', 'cell']
+['drink', 'cell', 'surrender', 'distance', 'direction', 'wagon', 'commit', 'comparison', 'met', 'exact', 'approach', 'exe', 'leafs', 'marriage', 'park']
+['injury', 'hawk', 'culture', 'drink', 'moment', 'fee', 'cica', 'russian', 'gee', 'advance', 'mirror', 'compatible', 'political', 'brother', 'tiff']
+['shaft', 'injury', 'mirror', 'piece', 'phil', 'non', 'observation', 'jay', 'basic', 'capability', 'chris', 'buy', 'stat', 'distribution', 'netcom']
+['cell', 'smoke', 'shuttle', 'impossible', 'bush', 'norton', 'exe', 'co', 'cancer', 'catch', 'lose', 'ed', 'block', 'civilian', 'tiff']
+['drink', 'russian', 'co', 'observation', 'thanx', 'injury', 'political', 'wagon', 'stat', 'isa', 'head', 'met', 'capability', 'moment', 'yup']
+['russian', 'hawk', 'pt', 'motor', 'publish', 'brad', 'quality', 'stand', 'buy', 'jim', 'piece', 'turkey', 'comparison', 'express', 'wagon']
+['smoke', 'cell', 'shaft', 'shall', 'short', 'piece', 'comparison', 'drink', 'paint', 'explanation', 'stay', 'straight', 'yup', 'bug', 'avoid']
+['stay', 'engineer', 'modern', 'doug', 'capability', 'isa', 'marriage', 'buy', 'culture', 'deserve', 'publish', 'city', 'icon', 'long', 'ability']
+['tiff', 'observation', 'capability', 'doug', 'piece', 'unfortunately', 'culture', 'close', 'ax', 'hawk', 'mirror', 'isa', 'vesa', 'shaft', 'yup']
+['cell', 'yup', 'voice', 'observation', 'random', 'cancer', 'brad', 'ncd', 'kid', 'adapter', 'capability', 'piece', 'beat', 'uh', 'support']
+['hawk', 'cell', 'drink', 'pixel', 'review', 'net', 'philadelphia', 'powerbook', 'icon', 'ps', 'shaft', 'dog', 'catch', 'modern', 'injury']
+['wagon', 'drink', 'school', 'adapter', 'like', 'author', 'postscript', 'distance', 'half', 'sequence', 'piece', 'injury', 'jay', 'doug', 'music']
+['doug', 'cell', 'tiff', 'wagon', 'toyota', 'potential', 'house', 'shaft', 'capability', 'push', 'familiar', 'quote', 'shall', 'ignore', 'water']
+['distance', 'doug', 'gateway', 'state', 'wagon', 'hawk', 'vram', 'armenian', 'toyota', 'motor', 'mirror', 'database', 'jersey', 'batf', 'pixel']
+['cell', 'piece', 'philadelphia', 'ignore', 'catch', 'gateway', 'united', 'motor', 'perform', 'accurate', 'exe', 'summer', 'announce', 'review', 'ready']
+['review', 'potential', 'domain', 'cell', 'moment', 'shaft', 'accelerator', 'captain', 'perform', 'colormap', 'obo', 'mirror', 'bush', 'isa', 'piece']
+['block', 'quote', 'drink', 'shaft', 'doug', 'capability', 'perform', 'potential', 'piece', 'norton', 'mirror', 'os', 'database', 'exe', 'vram']
+['shaft', 'fill', 'injury', 'drink', 'drain', 'mon', 'appreciate', 'potential', 'math', 'expert', 'gordon', 'press', 'deletion', 'publish', 'unfortunately']
+['dave', 'hand', 'mirror', 'ethernet', 'injury', 'smoke', 'impossible', 'ncd', 'border', 'blue', 'edit', 'distance', 'wagon', 'kit', 'mary']
+['cancer', 'appreciate', 'potential', 'career', 'disagree', 'block', 'package', 'concept', 'distance', 'sabbath', 'organization', 'dog', 'quality', 'decision', 'cell']
+['observation', 'expert', 'co', 'cell', 'plant', 'mirror', 'mailing', 'armenian', 'doug', 'math', 'appreciate', 'icon', 'alot', 'disagree', 'shaft']
+['doug', 'adapter', 'netcom', 'libertarian', 'brother', 'dog', 'cell', 'decision', 'mon', 'isa', 'expansion', 'tiff', 'scsi', 'toyota', 'appreciate']
+==============================
+topic diversity:0.36533333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4206585132063958, c_w2v:None, c_uci:-10.329902317605843, c_npmi:-0.3633376674762635
+mimno topic coherence:-317.389679308364
+Epoch  41	Iter    1	Loss_D:-0.0684721	Loss_G:0.0440047	loss_E:0.0247756
+Epoch  41	Iter   11	Loss_D:-0.0664709	Loss_G:0.0441078	loss_E:0.0226949
+Epoch  41	Iter   21	Loss_D:-0.0685337	Loss_G:0.0440232	loss_E:0.0247962
+Epoch  42	Iter    1	Loss_D:-0.0680814	Loss_G:0.0442111	loss_E:0.0241784
+Epoch  42	Iter   11	Loss_D:-0.0653018	Loss_G:0.0436806	loss_E:0.0219395
+Epoch  42	Iter   21	Loss_D:-0.0652610	Loss_G:0.0430719	loss_E:0.0225356
+Epoch  43	Iter    1	Loss_D:-0.0640620	Loss_G:0.0433339	loss_E:0.0210851
+Epoch  43	Iter   11	Loss_D:-0.0646233	Loss_G:0.0431124	loss_E:0.0218236
+Epoch  43	Iter   21	Loss_D:-0.0661376	Loss_G:0.0428040	loss_E:0.0236706
+Epoch  44	Iter    1	Loss_D:-0.0647076	Loss_G:0.0424931	loss_E:0.0225349
+Epoch  44	Iter   11	Loss_D:-0.0630146	Loss_G:0.0424575	loss_E:0.0208650
+Epoch  44	Iter   21	Loss_D:-0.0630981	Loss_G:0.0415364	loss_E:0.0218883
+Epoch  45	Iter    1	Loss_D:-0.0626064	Loss_G:0.0414297	loss_E:0.0215013
+Epoch  45	Iter   11	Loss_D:-0.0636244	Loss_G:0.0411292	loss_E:0.0228352
+Epoch  45	Iter   21	Loss_D:-0.0614677	Loss_G:0.0413081	loss_E:0.0204745
+Epoch  46	Iter    1	Loss_D:-0.0616464	Loss_G:0.0405368	loss_E:0.0214569
+Epoch  46	Iter   11	Loss_D:-0.0607197	Loss_G:0.0412986	loss_E:0.0197830
+Epoch  46	Iter   21	Loss_D:-0.0569848	Loss_G:0.0409755	loss_E:0.0163872
+Epoch  47	Iter    1	Loss_D:-0.0615683	Loss_G:0.0403111	loss_E:0.0215765
+Epoch  47	Iter   11	Loss_D:-0.0590450	Loss_G:0.0401947	loss_E:0.0192006
+Epoch  47	Iter   21	Loss_D:-0.0603052	Loss_G:0.0403710	loss_E:0.0203163
+Epoch  48	Iter    1	Loss_D:-0.0593102	Loss_G:0.0393480	loss_E:0.0203279
+Epoch  48	Iter   11	Loss_D:-0.0596244	Loss_G:0.0396013	loss_E:0.0203387
+Epoch  48	Iter   21	Loss_D:-0.0568028	Loss_G:0.0398574	loss_E:0.0172862
+Epoch  49	Iter    1	Loss_D:-0.0591145	Loss_G:0.0393488	loss_E:0.0201007
+Epoch  49	Iter   11	Loss_D:-0.0548959	Loss_G:0.0391610	loss_E:0.0161241
+Epoch  49	Iter   21	Loss_D:-0.0565452	Loss_G:0.0391318	loss_E:0.0177719
+Epoch  50	Iter    1	Loss_D:-0.0573644	Loss_G:0.0388760	loss_E:0.0188807
+Epoch  50	Iter   11	Loss_D:-0.0543743	Loss_G:0.0381800	loss_E:0.0165352
+Epoch  50	Iter   21	Loss_D:-0.0560205	Loss_G:0.0379805	loss_E:0.0183760
+Epoch  50	Loss_D_avg:-0.0750662	Loss_G_avg:0.0497567	loss_E_avg:0.0256936
+['shaft', 'high', 'mirror', 'moment', 'hawk', 'piece', 'review', 'start', 'cell', 'buy', 'withthe', 'event', 'national', 'vesa', 'drink']
+['shaft', 'mirror', 'package', 'doug', 'exact', 'head', 'boy', 'backup', 'buy', 'map', 'implement', 'stand', 'support', 'blame', 'expansion']
+['doug', 'cell', 'accelerator', 'track', 'disagree', 'shaft', 'bug', 'ah', 'perform', 'moment', 'announce', 'icon', 'generate', 'wagon', 'gear']
+['drink', 'ignorance', 'wagon', 'desktop', 'favorite', 'approach', 'announce', 'mirror', 'reach', 'fine', 'shaft', 'bug', 'satan', 'david', 'appreciate']
+['comparison', 'drink', 'kid', 'toronto', 'anonymous', 'space', 'scsi', 'decent', 'compression', 'school', 'quote', 'cell', 'prove', 'injury', 'map']
+['universe', 'direction', 'doug', 'appreciate', 'tape', 'cell', 'department', 'drink', 'suppose', 'location', 'vram', 'paint', 'mirror', 'sleep', 'picture']
+['press', 'close', 'ed', 'sleep', 'disagree', 'catch', 'department', 'cell', 'capability', 'political', 'car', 'russian', 'publish', 'plane', 'scsi']
+['shaft', 'mirror', 'hmmm', 'exe', 'jack', 'engineer', 'chris', 'water', 'domain', 'edge', 'onthe', 'boy', 'spell', 'location', 'push']
+['false', 'norton', 'north', 'cell', 'hawk', 'paint', 'math', 'announce', 'jason', 'detector', 'space', 'scsi', 'mirror', 'scale', 'support']
+['track', 'scanner', 'icon', 'shaft', 'doug', 'bush', 'study', 'moment', 'impossible', 'dog', 'concern', 'scsi', 'mirror', 'detroit', 'shall']
+['appreciate', 'lack', 'radar', 'common', 'piece', 'shaft', 'lie', 'germany', 'stand', 'scsi', 'surface', 'spell', 'announce', 'ignorance', 'map']
+['quality', 'russian', 'piece', 'kid', 'spell', 'thanx', 'connection', 'mirror', 'scsi', 'wagon', 'gay', 'drink', 'shuttle', 'os', 'isa']
+['specifically', 'appreciate', 'kid', 'math', 'isa', 'mirror', 'hand', 'school', 'catch', 'shaft', 'quality', 'cell', 'fee', 'sort', 'witness']
+['quote', 'cell', 'water', 'sys', 'russian', 'department', 'mirror', 'fund', 'jim', 'city', 'bush', 'comparison', 'shaft', 'boy', 'support']
+['mirror', 'publish', 'isa', 'let', 'quote', 'rob', 'park', 'son', 'adapter', 'doug', 'radar', 'art', 'announce', 'islam', 'armenian']
+['doug', 'walk', 'thanx', 'yup', 'paint', 'kid', 'head', 'shaft', 'quality', 'piece', 'russian', 'speaker', 'plug', 'armenian', 'blood']
+['cell', 'doug', 'radar', 'package', 'screw', 'block', 'wagon', 'exe', 'batf', 'bush', 'sys', 'north', 'shaft', 'gateway', 'piece']
+['cell', 'water', 'piece', 'announce', 'appreciate', 'political', 'dog', 'present', 'gear', 'engineer', 'doug', 'mirror', 'beat', 'boy', 'pittsburgh']
+['shaft', 'publish', 'mailing', 'drink', 'radar', 'co', 'piece', 'cell', 'hawk', 'appreciate', 'cica', 'peace', 'duo', 'stay', 'school']
+['block', 'publish', 'appreciate', 'kent', 'shaft', 'cell', 'co', 'norton', 'misc', 'quote', 'behavior', 'icon', 'armenian', 'spell', 'action']
+['shaft', 'exe', 'connection', 'package', 'mirror', 'quote', 'member', 'yup', 'suffer', 'jews', 'bug', 'mhz', 'sys', 'block', 'greek']
+['announce', 'shaft', 'quality', 'yup', 'thanx', 'publish', 'desktop', 'direction', 'behavior', 'wagon', 'piece', 'disagree', 'factor', 'end', 'cell']
+['support', 'piece', 'respond', 'quality', 'save', 'publish', 'cell', 'doug', 'appreciate', 'stat', 'comparison', 'scsi', 'track', 'beat', 'state']
+['piece', 'announce', 'vram', 'mailing', 'co', 'icon', 'concept', 'scsi', 'norton', 'bug', 'connect', 'deletion', 'false', 'mirror', 'pitt']
+['piece', 'desktop', 'jason', 'york', 'prove', 'wagon', 'mhz', 'bbs', 'isa', 'doug', 'comparison', 'domain', 'george', 'hate', 'cell']
+['misc', 'exact', 'appreciate', 'develop', 'shaft', 'pittsburgh', 'mirror', 'yup', 'turkey', 'engineer', 'dog', 'current', 'comparison', 'track', 'ax']
+['boy', 'stat', 'publish', 'norton', 'border', 'turn', 'russian', 'kid', 'false', 'park', 'doctor', 'piece', 'block', 'avoid', 'mail']
+['shaft', 'surrender', 'exe', 'wagon', 'mirror', 'hmmm', 'co', 'cell', 'political', 'connection', 'plane', 'rob', 'easily', 'head', 'stay']
+['cell', 'drink', 'surrender', 'direction', 'exact', 'commit', 'exe', 'park', 'comparison', 'doug', 'stand', 'cica', 'approach', 'appreciate', 'leafs']
+['hawk', 'injury', 'cica', 'moment', 'mirror', 'shaft', 'russian', 'drink', 'advance', 'compatible', 'political', 'brother', 'video', 'gee', 'fee']
+['shaft', 'mirror', 'piece', 'basic', 'chris', 'stat', 'non', 'buy', 'useful', 'distribution', 'injury', 'cell', 'concept', 'individual', 'yup']
+['cell', 'shuttle', 'bush', 'exe', 'co', 'norton', 'block', 'ed', 'catch', 'lose', 'mirror', 'doug', 'impossible', 'reply', 'smoke']
+['russian', 'drink', 'co', 'thanx', 'political', 'stat', 'isa', 'head', 'mirror', 'announce', 'moment', 'yup', 'wagon', 'motif', 'scale']
+['russian', 'hawk', 'publish', 'quality', 'stand', 'buy', 'jim', 'piece', 'pt', 'comparison', 'announce', 'disagree', 'future', 'brad', 'turkey']
+['shaft', 'cell', 'shall', 'short', 'piece', 'smoke', 'paint', 'stay', 'comparison', 'straight', 'bug', 'yup', 'mhz', 'avoid', 'peace']
+['stay', 'engineer', 'doug', 'isa', 'buy', 'publish', 'icon', 'marriage', 'city', 'surface', 'long', 'york', 'ability', 'block', 'gear']
+['doug', 'piece', 'unfortunately', 'tiff', 'mirror', 'shaft', 'isa', 'close', 'ax', 'hawk', 'yup', 'islam', 'vesa', 'russian', 'engineer']
+['cell', 'yup', 'voice', 'kid', 'adapter', 'shaft', 'beat', 'piece', 'support', 'theory', 'random', 'cancer', 'domain', 'video', 'desktop']
+['cell', 'hawk', 'review', 'shaft', 'net', 'icon', 'dog', 'drink', 'ps', 'catch', 'ed', 'temp', 'brother', 'lib', 'frame']
+['wagon', 'school', 'drink', 'like', 'adapter', 'half', 'doug', 'postscript', 'cica', 'piece', 'mirror', 'author', 'map', 'false', 'gear']
+['doug', 'cell', 'shaft', 'quote', 'house', 'shall', 'push', 'wagon', 'piece', 'water', 'stick', 'ignore', 'connection', 'captain', 'channel']
+['doug', 'mirror', 'gateway', 'state', 'armenian', 'vram', 'hawk', 'batf', 'stand', 'wagon', 'yup', 'era', 'misc', 'magazine', 'board']
+['cell', 'catch', 'piece', 'exe', 'ignore', 'gateway', 'announce', 'surface', 'quality', 'common', 'shall', 'summer', 'turn', 'review', 'buy']
+['review', 'shaft', 'domain', 'cell', 'moment', 'mirror', 'isa', 'captain', 'specifically', 'bush', 'piece', 'scsi', 'fpu', 'koresh', 'accelerator']
+['block', 'quote', 'shaft', 'doug', 'drink', 'mirror', 'exe', 'os', 'piece', 'appreciate', 'norton', 'hmmm', 'vram', 'isa', 'big']
+['shaft', 'fill', 'appreciate', 'gordon', 'publish', 'press', 'math', 'drink', 'unfortunately', 'national', 'cica', 'deletion', 'concept', 'speaker', 'life']
+['mirror', 'dave', 'hand', 'blue', 'track', 'shaft', 'kit', 'buy', 'surface', 'cell', 'border', 'max', 'comparison', 'injury', 'display']
+['appreciate', 'block', 'package', 'concept', 'disagree', 'dog', 'quality', 'career', 'organization', 'cell', 'quote', 'cancer', 'gear', 'update', 'car']
+['co', 'mirror', 'cell', 'appreciate', 'doug', 'mailing', 'icon', 'armenian', 'shaft', 'math', 'sleep', 'disagree', 'hand', 'greek', 'expert']
+['doug', 'adapter', 'dog', 'appreciate', 'cell', 'brother', 'isa', 'scsi', 'netcom', 'batf', 'long', 'shall', 'domain', 'misc', 'water']
+==============================
+topic diversity:0.33466666666666667
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38206628563876033, c_w2v:None, c_uci:-9.669432793542587, c_npmi:-0.33978916812597604
+mimno topic coherence:-315.4587583093378
+Epoch  51	Iter    1	Loss_D:-0.0570965	Loss_G:0.0382433	loss_E:0.0192130
+Epoch  51	Iter   11	Loss_D:-0.0529523	Loss_G:0.0380905	loss_E:0.0152128
+Epoch  51	Iter   21	Loss_D:-0.0544798	Loss_G:0.0381240	loss_E:0.0167440
+Epoch  52	Iter    1	Loss_D:-0.0552282	Loss_G:0.0378241	loss_E:0.0177657
+Epoch  52	Iter   11	Loss_D:-0.0520519	Loss_G:0.0376169	loss_E:0.0148023
+Epoch  52	Iter   21	Loss_D:-0.0530081	Loss_G:0.0374791	loss_E:0.0158847
+Epoch  53	Iter    1	Loss_D:-0.0537503	Loss_G:0.0371671	loss_E:0.0169450
+Epoch  53	Iter   11	Loss_D:-0.0513653	Loss_G:0.0369569	loss_E:0.0148011
+Epoch  53	Iter   21	Loss_D:-0.0494590	Loss_G:0.0368764	loss_E:0.0129545
+Epoch  54	Iter    1	Loss_D:-0.0497531	Loss_G:0.0367407	loss_E:0.0134350
+Epoch  54	Iter   11	Loss_D:-0.0512824	Loss_G:0.0371326	loss_E:0.0145242
+Epoch  54	Iter   21	Loss_D:-0.0495927	Loss_G:0.0368604	loss_E:0.0131095
+Epoch  55	Iter    1	Loss_D:-0.0494733	Loss_G:0.0366783	loss_E:0.0131849
+Epoch  55	Iter   11	Loss_D:-0.0492479	Loss_G:0.0360567	loss_E:0.0135673
+Epoch  55	Iter   21	Loss_D:-0.0476180	Loss_G:0.0363568	loss_E:0.0116648
+Epoch  56	Iter    1	Loss_D:-0.0475266	Loss_G:0.0353704	loss_E:0.0125407
+Epoch  56	Iter   11	Loss_D:-0.0468488	Loss_G:0.0359147	loss_E:0.0112998
+Epoch  56	Iter   21	Loss_D:-0.0474212	Loss_G:0.0361746	loss_E:0.0116551
+Epoch  57	Iter    1	Loss_D:-0.0484551	Loss_G:0.0361061	loss_E:0.0127621
+Epoch  57	Iter   11	Loss_D:-0.0445762	Loss_G:0.0352152	loss_E:0.0097569
+Epoch  57	Iter   21	Loss_D:-0.0461531	Loss_G:0.0350178	loss_E:0.0115609
+Epoch  58	Iter    1	Loss_D:-0.0435260	Loss_G:0.0349582	loss_E:0.0090004
+Epoch  58	Iter   11	Loss_D:-0.0464837	Loss_G:0.0347753	loss_E:0.0120906
+Epoch  58	Iter   21	Loss_D:-0.0445682	Loss_G:0.0351610	loss_E:0.0098491
+Epoch  59	Iter    1	Loss_D:-0.0451254	Loss_G:0.0345525	loss_E:0.0109949
+Epoch  59	Iter   11	Loss_D:-0.0429828	Loss_G:0.0347872	loss_E:0.0085891
+Epoch  59	Iter   21	Loss_D:-0.0437017	Loss_G:0.0352752	loss_E:0.0088383
+Epoch  60	Iter    1	Loss_D:-0.0455906	Loss_G:0.0343358	loss_E:0.0116705
+Epoch  60	Iter   11	Loss_D:-0.0442978	Loss_G:0.0346661	loss_E:0.0100297
+Epoch  60	Iter   21	Loss_D:-0.0426051	Loss_G:0.0344274	loss_E:0.0085809
+Epoch  60	Loss_D_avg:-0.0706453	Loss_G_avg:0.0474914	loss_E_avg:0.0235393
+['high', 'shaft', 'start', 'buy', 'national', 'event', 'charge', 'long', 'publish', 'water', 'os', 'easily', 'shipping', 'unfortunately', 'city']
+['package', 'head', 'doug', 'buy', 'support', 'stand', 'scsi', 'ride', 'directory', 'map', 'contain', 'boy', 'minute', 'shaft', 'exact']
+['doug', 'bug', 'hand', 'press', 'voice', 'generate', 'straight', 'icon', 'shall', 'armenian', 'pick', 'kent', 'cell', 'life', 'computer']
+['drink', 'fine', 'appreciate', 'david', 'stand', 'define', 'desktop', 'card', 'catch', 'favorite', 'bug', 'buy', 'pitt', 'refer', 'quality']
+['kid', 'toronto', 'scsi', 'space', 'school', 'quote', 'dave', 'prove', 'appreciate', 'concern', 'choose', 'map', 'experience', 'connection', 'file']
+['appreciate', 'tape', 'suppose', 'doug', 'direction', 'picture', 'quality', 'minute', 'shipping', 'support', 'battery', 'paint', 'series', 'worry', 'long']
+['press', 'close', 'catch', 'car', 'scsi', 'sleep', 'publish', 'ed', 'sense', 'doctor', 'clinton', 'city', 'minute', 'buy', 'doug']
+['water', 'os', 'spell', 'stay', 'chris', 'stand', 'mit', 'map', 'armenian', 'press', 'package', 'currently', 'hmmm', 'sure', 'possibly']
+['false', 'space', 'scsi', 'support', 'quality', 'total', 'turn', 'paint', 'isa', 'load', 'fault', 'mhz', 'hand', 'prevent', 'luck']
+['study', 'doug', 'dog', 'icon', 'concern', 'track', 'scsi', 'appreciate', 'warrant', 'load', 'serial', 'theory', 'quote', 'rate', 'shall']
+['appreciate', 'common', 'lack', 'stand', 'scsi', 'lie', 'spell', 'sense', 'germany', 'armenian', 'video', 'sort', 'press', 'class', 'lose']
+['quality', 'kid', 'spell', 'connection', 'scsi', 'thanx', 'os', 'isa', 'support', 'catch', 'stat', 'city', 'stand', 'magazine', 'advance']
+['appreciate', 'specifically', 'kid', 'isa', 'hand', 'school', 'catch', 'quality', 'sort', 'head', 'prove', 'insurance', 'icon', 'theory', 'press']
+['quote', 'water', 'city', 'jim', 'support', 'mind', 'sure', 'shipping', 'cell', 'directly', 'lie', 'national', 'dog', 'map', 'space']
+['isa', 'quote', 'let', 'publish', 'armenian', 'son', 'suggestion', 'scsi', 'doug', 'prove', 'kid', 'city', 'appreciate', 'park', 'national']
+['doug', 'kid', 'head', 'thanx', 'quality', 'paint', 'plug', 'armenian', 'total', 'blood', 'develop', 'picture', 'fill', 'exist', 'appreciate']
+['doug', 'package', 'cell', 'block', 'radar', 'screw', 'appreciate', 'surrender', 'kid', 'turn', 'd', 'life', 'school', 'picture', 'steve']
+['water', 'appreciate', 'cell', 'dog', 'present', 'beat', 'doug', 'announce', 'knowledge', 'imply', 'turn', 'certain', 'file', 'motif', 'stat']
+['shaft', 'publish', 'mailing', 'appreciate', 'school', 'stay', 'peace', 'support', 'warrant', 'life', 'serve', 'print', 'lie', 'radar', 'cub']
+['appreciate', 'kent', 'publish', 'block', 'quote', 'action', 'armenian', 'spell', 'icon', 'dog', 'load', 'israel', 'school', 'turn', 'co']
+['package', 'connection', 'quote', 'member', 'mhz', 'greek', 'press', 'bug', 'york', 'medium', 'appreciate', 'exe', 'lie', 'modem', 'shaft']
+['quality', 'announce', 'publish', 'thanx', 'shaft', 'appreciate', 'end', 'series', 'stat', 'school', 'direction', 'directory', 'desktop', 'knowledge', 'scsi']
+['support', 'quality', 'respond', 'appreciate', 'save', 'scsi', 'stat', 'state', 'beat', 'publish', 'common', 'doug', 'explain', 'total', 'suggestion']
+['mailing', 'scsi', 'connect', 'icon', 'pitt', 'kid', 'university', 'vram', 'bug', 'announce', 'adam', 'piece', 'co', 'appreciate', 'couple']
+['york', 'prove', 'mhz', 'isa', 'appreciate', 'doug', 'kid', 'v', 'bbs', 'scsi', 'piece', 'video', 'close', 'water', 'ax']
+['appreciate', 'develop', 'current', 'dog', 'pittsburgh', 'plug', 'ax', 'exact', 'mail', 'magazine', 'fault', 'j', 'stay', 'kid', 'germany']
+['stat', 'kid', 'turn', 'publish', 'boy', 'doctor', 'border', 'national', 'mail', 'avoid', 'mind', 'scsi', 'adam', 'long', 'display']
+['surrender', 'appreciate', 'connection', 'scsi', 'head', 'stay', 'easily', 'delete', 'university', 'hand', 'shaft', 'quality', 'school', 'save', 'mhz']
+['surrender', 'appreciate', 'stand', 'package', 'feel', 'direction', 'doug', 'armenian', 'support', 'catch', 'park', 'kid', 'city', 'quote', 'update']
+['appreciate', 'advance', 'cica', 'video', 'city', 'mailing', 'quote', 'like', 'picture', 'wife', 'produce', 'frame', 'head', 'shipping', 'minute']
+['shaft', 'stat', 'buy', 'non', 'useful', 'basic', 'chris', 'motif', 'individual', 'baseball', 'stand', 'load', 'bet', 'os', 'common']
+['catch', 'lose', 'block', 'reply', 'doug', 'save', 'cell', 'mind', 'total', 'david', 'school', 'lie', 'co', 'space', 'fault']
+['isa', 'stat', 'head', 'thanx', 'motif', 'quality', 'co', 'picture', 'unfortunately', 'national', 'kid', 'connection', 'knowledge', 'surrender', 'class']
+['quality', 'stand', 'publish', 'jim', 'buy', 'spell', 'future', 'russian', 'minute', 'catch', 'lie', 'chicago', 'total', 'fault', 'long']
+['short', 'stay', 'shall', 'straight', 'mhz', 'cell', 'shaft', 'video', 'peace', 'avoid', 'school', 'present', 'paint', 'quote', 'bug']
+['stay', 'isa', 'buy', 'doug', 'city', 'long', 'publish', 'york', 'picture', 'icon', 'blue', 'load', 'serial', 'minute', 'mailing']
+['unfortunately', 'isa', 'doug', 'close', 'appreciate', 'ax', 'total', 'organization', 'buy', 'map', 'magazine', 'lose', 'load', 'stat', 'picture']
+['kid', 'voice', 'cell', 'beat', 'support', 'theory', 'video', 'quality', 'turn', 'mailing', 'water', 'dog', 'source', 'shipping', 'peace']
+['net', 'catch', 'dog', 'icon', 'city', 'frame', 'isa', 'motif', 'wire', 'kid', 'woman', 'sense', 'cell', 'package', 'act']
+['school', 'like', 'half', 'doug', 'appreciate', 'listen', 'map', 'image', 'develop', 'friend', 'modem', 'knowledge', 'sort', 'long', 'voice']
+['doug', 'quote', 'house', 'stick', 'water', 'shall', 'cell', 'connection', 'channel', 'appreciate', 'scsi', 'pick', 'york', 'head', 'produce']
+['doug', 'state', 'armenian', 'stand', 'magazine', 'gateway', 'board', 'long', 'load', 'vram', 'possibly', 'scsi', 'processor', 'son', 'prove']
+['catch', 'cell', 'quality', 'common', 'turn', 'buy', 'press', 'city', 'dog', 'shall', 'picture', 'curious', 'support', 'isa', 'lie']
+['isa', 'scsi', 'koresh', 'stand', 'specifically', 'generate', 'lie', 'save', 'modem', 'blue', 'code', 'homosexual', 'kid', 'appreciate', 'shaft']
+['quote', 'block', 'appreciate', 'doug', 'os', 'isa', 'big', 'shaft', 'support', 'owner', 'organization', 'national', 'germany', 'respond', 'd']
+['appreciate', 'shaft', 'fill', 'gordon', 'press', 'national', 'unfortunately', 'publish', 'life', 'sure', 'isa', 'baseball', 'possibly', 'listen', 'joke']
+['hand', 'dave', 'blue', 'buy', 'max', 'common', 'display', 'knowledge', 'city', 'support', 'appreciate', 'isa', 'stay', 'surrender', 'press']
+['appreciate', 'package', 'quality', 'dog', 'organization', 'quote', 'block', 'national', 'car', 'connect', 'case', 'concept', 'evidence', 'probably', 'update']
+['appreciate', 'armenian', 'mailing', 'doug', 'icon', 'hand', 'greek', 'knowledge', 'co', 'currently', 'allow', 'peace', 'concern', 'surrender', 'buy']
+['doug', 'appreciate', 'dog', 'isa', 'scsi', 'long', 'spell', 'water', 'space', 'shall', 'brother', 'battery', 'surrender', 'dave', 'press']
+==============================
+topic diversity:0.30666666666666664
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2942361181581824, c_w2v:None, c_uci:-6.7459652541549255, c_npmi:-0.23672871332328047
+mimno topic coherence:-332.11056744516
+Epoch  61	Iter    1	Loss_D:-0.0409752	Loss_G:0.0341012	loss_E:0.0072676
+Epoch  61	Iter   11	Loss_D:-0.0423302	Loss_G:0.0342786	loss_E:0.0084648
+Epoch  61	Iter   21	Loss_D:-0.0429083	Loss_G:0.0341065	loss_E:0.0092045
+Epoch  62	Iter    1	Loss_D:-0.0406063	Loss_G:0.0336963	loss_E:0.0073474
+Epoch  62	Iter   11	Loss_D:-0.0424040	Loss_G:0.0342211	loss_E:0.0086490
+Epoch  62	Iter   21	Loss_D:-0.0407851	Loss_G:0.0343549	loss_E:0.0068896
+Epoch  63	Iter    1	Loss_D:-0.0390256	Loss_G:0.0339345	loss_E:0.0055324
+Epoch  63	Iter   11	Loss_D:-0.0383224	Loss_G:0.0336512	loss_E:0.0051553
+Epoch  63	Iter   21	Loss_D:-0.0404755	Loss_G:0.0335014	loss_E:0.0074246
+Epoch  64	Iter    1	Loss_D:-0.0386033	Loss_G:0.0324906	loss_E:0.0065819
+Epoch  64	Iter   11	Loss_D:-0.0366122	Loss_G:0.0332345	loss_E:0.0038327
+Epoch  64	Iter   21	Loss_D:-0.0393296	Loss_G:0.0339611	loss_E:0.0057942
+Epoch  65	Iter    1	Loss_D:-0.0375202	Loss_G:0.0334938	loss_E:0.0044572
+Epoch  65	Iter   11	Loss_D:-0.0354001	Loss_G:0.0330713	loss_E:0.0027371
+Epoch  65	Iter   21	Loss_D:-0.0373196	Loss_G:0.0339185	loss_E:0.0038696
+Epoch  66	Iter    1	Loss_D:-0.0395218	Loss_G:0.0335925	loss_E:0.0064248
+Epoch  66	Iter   11	Loss_D:-0.0365328	Loss_G:0.0333923	loss_E:0.0036090
+Epoch  66	Iter   21	Loss_D:-0.0348084	Loss_G:0.0330906	loss_E:0.0022003
+Epoch  67	Iter    1	Loss_D:-0.0373697	Loss_G:0.0326171	loss_E:0.0051768
+Epoch  67	Iter   11	Loss_D:-0.0347872	Loss_G:0.0329904	loss_E:0.0022148
+Epoch  67	Iter   21	Loss_D:-0.0365127	Loss_G:0.0329811	loss_E:0.0039845
+Epoch  68	Iter    1	Loss_D:-0.0336487	Loss_G:0.0324528	loss_E:0.0016490
+Epoch  68	Iter   11	Loss_D:-0.0331104	Loss_G:0.0325329	loss_E:0.0010485
+Epoch  68	Iter   21	Loss_D:-0.0345788	Loss_G:0.0322777	loss_E:0.0027570
+Epoch  69	Iter    1	Loss_D:-0.0341686	Loss_G:0.0325633	loss_E:0.0020422
+Epoch  69	Iter   11	Loss_D:-0.0337902	Loss_G:0.0321960	loss_E:0.0020562
+Epoch  69	Iter   21	Loss_D:-0.0331031	Loss_G:0.0323224	loss_E:0.0012542
+Epoch  70	Iter    1	Loss_D:-0.0312771	Loss_G:0.0318051	loss_E:-0.0000711
+Epoch  70	Iter   11	Loss_D:-0.0325660	Loss_G:0.0318034	loss_E:0.0012183
+Epoch  70	Iter   21	Loss_D:-0.0321141	Loss_G:0.0321530	loss_E:0.0004251
+Epoch  70	Loss_D_avg:-0.0658412	Loss_G_avg:0.0454440	loss_E_avg:0.0207918
+['high', 'start', 'buy', 'event', 'long', 'shipping', 'os', 'city', 'recommend', 'general', 'v', 'charge', 'rate', 'scsi', 'woman']
+['package', 'head', 'support', 'buy', 'scsi', 'ride', 'stand', 'directory', 'city', 'show', 'jim', 'series', 'advance', 'state', 'miss']
+['hand', 'pick', 'life', 'armenian', 'support', 'computer', 'theory', 'stand', 'board', 'close', 'evidence', 'university', 'os', 'appreciate', 'meg']
+['appreciate', 'fine', 'david', 'stand', 'define', 'card', 'buy', 'quality', 'evidence', 'city', 'pitt', 'space', 'general', 'refer', 'life']
+['kid', 'scsi', 'space', 'quote', 'school', 'appreciate', 'dave', 'experience', 'file', 'choose', 'hear', 'currently', 'support', 'interesting', 'prove']
+['appreciate', 'tape', 'suppose', 'picture', 'shipping', 'support', 'quality', 'series', 'israel', 'battery', 'long', 'hand', 'pick', 'package', 'steve']
+['close', 'scsi', 'car', 'press', 'sense', 'city', 'clinton', 'buy', 'shipping', 'video', 'ride', 'big', 'state', 'currently', 'isa']
+['os', 'stand', 'stay', 'package', 'scsi', 'water', 'sure', 'armenian', 'isa', 'print', 'currently', 'appreciate', 'number', 'show', 'yes']
+['scsi', 'support', 'space', 'quality', 'hand', 'turn', 'appreciate', 'isa', 'shipping', 'total', 'luck', 'earth', 'pick', 'load', 'state']
+['study', 'scsi', 'appreciate', 'serial', 'quote', 'theory', 'rate', 'support', 'os', 'load', 'package', 'city', 'life', 'code', 'hope']
+['appreciate', 'scsi', 'stand', 'common', 'sense', 'video', 'sort', 'shipping', 'mind', 'support', 'armenian', 'class', 'lose', 'feel', 'hear']
+['quality', 'kid', 'scsi', 'os', 'isa', 'support', 'spell', 'city', 'stand', 'package', 'advance', 'theory', 'mind', 'mail', 'quote']
+['appreciate', 'kid', 'hand', 'isa', 'school', 'quality', 'sort', 'head', 'theory', 'short', 'ide', 'baseball', 'stand', 'shipping', 'net']
+['quote', 'city', 'water', 'support', 'jim', 'mind', 'shipping', 'sure', 'space', 'class', 'isa', 'appreciate', 'reply', 'school', 'pay']
+['quote', 'isa', 'let', 'appreciate', 'scsi', 'suggestion', 'armenian', 'city', 'package', 'kid', 'stand', 'israel', 'prove', 'regard', 'long']
+['head', 'kid', 'quality', 'appreciate', 'picture', 'armenian', 'exist', 'package', 'total', 'os', 'hand', 'tape', 'video', 'code', 'motorcycle']
+['package', 'appreciate', 'turn', 'picture', 'life', 'support', 'kid', 'school', 'steve', 'space', 'surrender', 'reply', 'difference', 'pick', 'isa']
+['appreciate', 'water', 'turn', 'certain', 'motif', 'file', 'big', 'like', 'hope', 'see', 'david', 'space', 'delete', 'stay', 'good']
+['appreciate', 'school', 'support', 'stay', 'life', 'print', 'quote', 'city', 'package', 'buy', 'isa', 'theory', 'israel', 'series', 'disk']
+['appreciate', 'quote', 'action', 'armenian', 'israel', 'turn', 'school', 'city', 'game', 'space', 'load', 'serial', 'video', 'isa', 'sort']
+['package', 'quote', 'member', 'appreciate', 'modem', 'head', 'quality', 'act', 'evidence', 'money', 'space', 'try', 'clipper', 'luck', 'life']
+['quality', 'appreciate', 'end', 'series', 'school', 'scsi', 'directory', 'buy', 'class', 'house', 'head', 'define', 'armenian', 'print', 'save']
+['support', 'appreciate', 'quality', 'respond', 'save', 'scsi', 'state', 'explain', 'suggestion', 'number', 'common', 'server', 'total', 'package', 'connect']
+['scsi', 'university', 'appreciate', 'kid', 'connect', 'pitt', 'couple', 'shipping', 'class', 'life', 'simms', 'buy', 'school', 'case', 'head']
+['appreciate', 'isa', 'scsi', 'prove', 'v', 'video', 'close', 'kid', 'suggestion', 'quote', 'apple', 'luck', 'number', 'friend', 'net']
+['appreciate', 'current', 'mail', 'ax', 'cover', 'head', 'motif', 'kid', 'stay', 'school', 'theory', 'magazine', 'power', 'armenian', 'scsi']
+['turn', 'kid', 'stat', 'mind', 'mail', 'scsi', 'long', 'head', 'class', 'display', 'feel', 'isa', 'doctor', 'picture', 'woman']
+['surrender', 'appreciate', 'scsi', 'head', 'university', 'delete', 'hand', 'save', 'stay', 'school', 'suppose', 'quality', 'shipping', 'quote', 'motif']
+['appreciate', 'surrender', 'package', 'stand', 'feel', 'support', 'city', 'quote', 'armenian', 'long', 'show', 'kid', 'break', 'note', 'scsi']
+['appreciate', 'advance', 'video', 'city', 'quote', 'like', 'picture', 'shipping', 'head', 'support', 'produce', 'class', 'david', 'yes', 'sure']
+['buy', 'non', 'motif', 'baseball', 'stand', 'os', 'stat', 'appreciate', 'load', 'scsi', 'school', 'news', 'hand', 'common', 'quality']
+['lose', 'reply', 'mind', 'save', 'david', 'school', 'space', 'hand', 'appreciate', 'owner', 'scsi', 'class', 'support', 'tape', 'total']
+['isa', 'head', 'motif', 'picture', 'quality', 'stat', 'class', 'small', 'kid', 'package', 'school', 'unfortunately', 'game', 'sort', 'surrender']
+['quality', 'stand', 'buy', 'jim', 'long', 'quote', 'scsi', 'total', 'evidence', 'spell', 'note', 'appreciate', 'reply', 'miss', 'yes']
+['short', 'stay', 'video', 'school', 'quote', 'support', 'stuff', 'quality', 'scsi', 'reply', 'save', 'university', 'ride', 'appreciate', 'modem']
+['stay', 'isa', 'buy', 'city', 'long', 'picture', 'serial', 'let', 'dave', 'israel', 'turn', 'delete', 'load', 'david', 'school']
+['appreciate', 'isa', 'close', 'ax', 'unfortunately', 'total', 'buy', 'picture', 'lose', 'let', 'choice', 'miss', 'city', 'stand', 'load']
+['kid', 'support', 'theory', 'video', 'turn', 'quality', 'shipping', 'source', 'appreciate', 'claim', 'maybe', 'hand', 'scsi', 'show', 'jim']
+['net', 'city', 'motif', 'isa', 'sense', 'package', 'woman', 'act', 'kid', 'hope', 'turn', 'picture', 'stand', 'head', 'respond']
+['school', 'like', 'appreciate', 'image', 'modem', 'support', 'quote', 'long', 'friend', 'sort', 'earth', 'university', 'evidence', 'stand', 'pin']
+['quote', 'house', 'appreciate', 'scsi', 'pick', 'head', 'stick', 'picture', 'turn', 'water', 'produce', 'david', 'run', 'hand', 'isa']
+['state', 'armenian', 'stand', 'board', 'long', 'scsi', 'ride', 'mail', 'load', 'buy', 'magazine', 'net', 'head', 'support', 'kid']
+['quality', 'buy', 'turn', 'city', 'picture', 'support', 'common', 'appreciate', 'evidence', 'isa', 'assume', 'long', 'scsi', 'sense', 'jim']
+['isa', 'scsi', 'stand', 'appreciate', 'save', 'modem', 'code', 'print', 'israel', 'kid', 'motif', 'long', 'jim', 'school', 'armenian']
+['quote', 'appreciate', 'os', 'isa', 'big', 'support', 'owner', 'respond', 'source', 'city', 'shipping', 'function', 'case', 'quality', 'mind']
+['appreciate', 'gordon', 'life', 'sure', 'isa', 'let', 'baseball', 'video', 'buy', 'class', 'unfortunately', 'suggestion', 'assume', 'delete', 'modem']
+['hand', 'dave', 'buy', 'appreciate', 'support', 'display', 'city', 'common', 'scsi', 'isa', 'source', 'story', 'stay', 'package', 'local']
+['appreciate', 'package', 'quality', 'quote', 'car', 'case', 'evidence', 'probably', 'school', 'connect', 'manager', 'business', 'file', 'space', 'stay']
+['appreciate', 'armenian', 'hand', 'allow', 'currently', 'board', 'buy', 'stand', 'school', 'support', 'feel', 'picture', 'quote', 'sort', 'motif']
+['appreciate', 'scsi', 'isa', 'long', 'space', 'battery', 'dave', 'big', 'buy', 'feel', 'form', 'mail', 'manager', 'tell', 'surrender']
+==============================
+topic diversity:0.22666666666666666
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2930248539892399, c_w2v:None, c_uci:-3.7814430193694086, c_npmi:-0.1331085593245808
+mimno topic coherence:-294.8503796280756
+Epoch  71	Iter    1	Loss_D:-0.0329907	Loss_G:0.0321664	loss_E:0.0013067
+Epoch  71	Iter   11	Loss_D:-0.0313713	Loss_G:0.0329505	loss_E:-0.0011290
+Epoch  71	Iter   21	Loss_D:-0.0294248	Loss_G:0.0323884	loss_E:-0.0024985
+Epoch  72	Iter    1	Loss_D:-0.0314378	Loss_G:0.0319418	loss_E:-0.0000174
+Epoch  72	Iter   11	Loss_D:-0.0311953	Loss_G:0.0321185	loss_E:-0.0004771
+Epoch  72	Iter   21	Loss_D:-0.0299744	Loss_G:0.0325985	loss_E:-0.0021742
+Epoch  73	Iter    1	Loss_D:-0.0278036	Loss_G:0.0315648	loss_E:-0.0032565
+Epoch  73	Iter   11	Loss_D:-0.0296866	Loss_G:0.0320784	loss_E:-0.0019497
+Epoch  73	Iter   21	Loss_D:-0.0319127	Loss_G:0.0326631	loss_E:-0.0002870
+Epoch  74	Iter    1	Loss_D:-0.0311212	Loss_G:0.0323552	loss_E:-0.0007512
+Epoch  74	Iter   11	Loss_D:-0.0286151	Loss_G:0.0326759	loss_E:-0.0035665
+Epoch  74	Iter   21	Loss_D:-0.0291587	Loss_G:0.0331103	loss_E:-0.0034461
+Epoch  75	Iter    1	Loss_D:-0.0284090	Loss_G:0.0319567	loss_E:-0.0031157
+Epoch  75	Iter   11	Loss_D:-0.0282560	Loss_G:0.0326199	loss_E:-0.0038791
+Epoch  75	Iter   21	Loss_D:-0.0256813	Loss_G:0.0327877	loss_E:-0.0066116
+Epoch  76	Iter    1	Loss_D:-0.0288709	Loss_G:0.0328134	loss_E:-0.0034202
+Epoch  76	Iter   11	Loss_D:-0.0255497	Loss_G:0.0322697	loss_E:-0.0062148
+Epoch  76	Iter   21	Loss_D:-0.0276486	Loss_G:0.0335708	loss_E:-0.0054608
+Epoch  77	Iter    1	Loss_D:-0.0293145	Loss_G:0.0332274	loss_E:-0.0034398
+Epoch  77	Iter   11	Loss_D:-0.0287178	Loss_G:0.0338130	loss_E:-0.0046003
+Epoch  77	Iter   21	Loss_D:-0.0280548	Loss_G:0.0342161	loss_E:-0.0056826
+Epoch  78	Iter    1	Loss_D:-0.0270355	Loss_G:0.0333088	loss_E:-0.0058040
+Epoch  78	Iter   11	Loss_D:-0.0280901	Loss_G:0.0343981	loss_E:-0.0058548
+Epoch  78	Iter   21	Loss_D:-0.0252453	Loss_G:0.0340015	loss_E:-0.0082695
+Epoch  79	Iter    1	Loss_D:-0.0257078	Loss_G:0.0334917	loss_E:-0.0072855
+Epoch  79	Iter   11	Loss_D:-0.0246541	Loss_G:0.0341083	loss_E:-0.0090074
+Epoch  79	Iter   21	Loss_D:-0.0246455	Loss_G:0.0344780	loss_E:-0.0093459
+Epoch  80	Iter    1	Loss_D:-0.0258883	Loss_G:0.0344947	loss_E:-0.0081080
+Epoch  80	Iter   11	Loss_D:-0.0251159	Loss_G:0.0351647	loss_E:-0.0095839
+Epoch  80	Iter   21	Loss_D:-0.0250331	Loss_G:0.0353332	loss_E:-0.0098247
+Epoch  80	Loss_D_avg:-0.0611386	Loss_G_avg:0.0439079	loss_E_avg:0.0176355
+['high', 'buy', 'start', 'long', 'scsi', 'city', 'v', 'appreciate', 'sort', 'hand', 'steve', 'life', 'game', 'rate', 'test']
+['package', 'head', 'support', 'buy', 'scsi', 'ride', 'appreciate', 'show', 'state', 'video', 'advance', 'current', 'space', 'come', 'city']
+['hand', 'support', 'life', 'computer', 'appreciate', 'board', 'evidence', 'source', 'scsi', 'close', 'david', 'sure', 'probably', 'big', 'university']
+['appreciate', 'fine', 'david', 'buy', 'card', 'space', 'evidence', 'life', 'modem', 'define', 'pay', 'city', 'current', 'support', 'ride']
+['scsi', 'appreciate', 'space', 'quote', 'experience', 'file', 'hear', 'support', 'interesting', 'ride', 'money', 'start', 'david', 'head', 'source']
+['appreciate', 'suppose', 'support', 'tape', 'israel', 'long', 'hand', 'package', 'picture', 'ride', 'steve', 'current', 'box', 'run', 'head']
+['close', 'scsi', 'car', 'buy', 'video', 'big', 'appreciate', 'ride', 'state', 'support', 'city', 'hand', 'hope', 'clinton', 'sense']
+['package', 'scsi', 'appreciate', 'sure', 'number', 'show', 'support', 'yes', 'board', 'hand', 'standard', 'space', 'current', 'close', 'course']
+['support', 'scsi', 'space', 'appreciate', 'hand', 'turn', 'state', 'david', 'big', 'package', 'sell', 'mind', 'evidence', 'high', 'allow']
+['appreciate', 'scsi', 'support', 'quote', 'package', 'rate', 'life', 'hope', 'code', 'evidence', 'week', 'claim', 'source', 'city', 'mind']
+['appreciate', 'scsi', 'video', 'support', 'mind', 'sort', 'lose', 'feel', 'hear', 'case', 'sense', 'long', 'fan', 'package', 'late']
+['scsi', 'support', 'package', 'advance', 'city', 'mind', 'mail', 'space', 'source', 'video', 'hope', 'evidence', 'kid', 'current', 'appreciate']
+['appreciate', 'hand', 'sort', 'head', 'kid', 'net', 'article', 'test', 'baseball', 'source', 'buy', 'short', 'sure', 'scsi', 'work']
+['quote', 'support', 'mind', 'city', 'sure', 'appreciate', 'space', 'reply', 'pay', 'ride', 'package', 'call', 'turn', 'file', 'shipping']
+['let', 'quote', 'appreciate', 'scsi', 'package', 'israel', 'city', 'long', 'david', 'suppose', 'team', 'sure', 'light', 'support', 'mail']
+['head', 'appreciate', 'package', 'exist', 'hand', 'code', 'video', 'support', 'israel', 'picture', 'fast', 'kid', 'pin', 'ax', 'long']
+['package', 'appreciate', 'turn', 'support', 'life', 'space', 'steve', 'reply', 'ride', 'difference', 'claim', 'scsi', 'picture', 'case', 'board']
+['appreciate', 'turn', 'big', 'hope', 'file', 'like', 'see', 'space', 'david', 'delete', 'good', 'maybe', 'guess', 'hand', 'mind']
+['appreciate', 'support', 'life', 'package', 'buy', 'israel', 'end', 'quote', 'disk', 'hear', 'long', 'hope', 'scsi', 'city', 'news']
+['appreciate', 'quote', 'israel', 'turn', 'game', 'space', 'video', 'sort', 'r', 'support', 'city', 'phone', 'package', 'church', 'hope']
+['package', 'quote', 'appreciate', 'modem', 'evidence', 'space', 'money', 'head', 'scsi', 'game', 'try', 'life', 'mind', 'buy', 'number']
+['appreciate', 'end', 'scsi', 'buy', 'support', 'hand', 'head', 'let', 'start', 'david', 'case', 'server', 'order', 'face', 'sell']
+['appreciate', 'support', 'scsi', 'state', 'number', 'explain', 'save', 'server', 'package', 'sure', 'give', 'r', 'game', 'good', 'show']
+['scsi', 'appreciate', 'couple', 'university', 'life', 'buy', 'case', 'ride', 'support', 'person', 'hand', 'modem', 'board', 'package', 'let']
+['appreciate', 'scsi', 'video', 'v', 'apple', 'number', 'close', 'net', 'friend', 'let', 'current', 'package', 'long', 'note', 'quote']
+['appreciate', 'current', 'mail', 'scsi', 'ax', 'head', 'power', 'turn', 'video', 'buy', 'advance', 'space', 'start', 'ride', 'board']
+['turn', 'mind', 'scsi', 'mail', 'long', 'feel', 'display', 'show', 'sell', 'head', 'source', 'space', 'appreciate', 'modem', 'support']
+['appreciate', 'scsi', 'delete', 'hand', 'head', 'suppose', 'university', 'israel', 'let', 'base', 'exist', 'quote', 'david', 'file', 'space']
+['appreciate', 'package', 'support', 'feel', 'long', 'show', 'scsi', 'quote', 'note', 'city', 'couple', 'yes', 'post', 'suppose', 'israel']
+['appreciate', 'advance', 'video', 'like', 'support', 'quote', 'city', 'david', 'head', 'yes', 'sure', 'long', 'server', 'picture', 'exist']
+['buy', 'non', 'appreciate', 'baseball', 'scsi', 'hand', 'news', 'understand', 'game', 'motif', 'pay', 'israel', 'life', 'open', 'law']
+['lose', 'mind', 'reply', 'appreciate', 'david', 'space', 'hand', 'scsi', 'support', 'hope', 'buy', 'r', 'power', 'number', 'delete']
+['head', 'small', 'package', 'motif', 'picture', 'game', 'support', 'board', 'sort', 'ride', 'server', 'number', 'reply', 'high', 'image']
+['buy', 'long', 'scsi', 'appreciate', 'quote', 'note', 'evidence', 'reply', 'call', 'david', 'yes', 'feel', 'sort', 'board', 'non']
+['video', 'short', 'support', 'quote', 'scsi', 'appreciate', 'stuff', 'reply', 'ride', 'modem', 'non', 'code', 'mr', 'cd', 'case']
+['buy', 'long', 'city', 'let', 'israel', 'turn', 'delete', 'david', 'picture', 'good', 'r', 'scsi', 'advance', 'copy', 'quote']
+['appreciate', 'close', 'buy', 'ax', 'let', 'lose', 'israel', 'source', 'modem', 'write', 'city', 'assume', 'picture', 'mr', 'quote']
+['support', 'video', 'appreciate', 'turn', 'source', 'claim', 'scsi', 'hand', 'maybe', 'show', 'package', 'bad', 'exist', 'case', 'israel']
+['net', 'package', 'city', 'hope', 'turn', 'space', 'video', 'case', 'buy', 'high', 'c', 'head', 'pay', 'quote', 'game']
+['like', 'appreciate', 'support', 'long', 'modem', 'image', 'friend', 'sort', 'quote', 'big', 'evidence', 'pin', 'space', 'reply', 'source']
+['appreciate', 'quote', 'scsi', 'turn', 'run', 'hand', 'david', 'support', 'head', 'video', 'let', 'picture', 'info', 'force', 'interesting']
+['state', 'board', 'long', 'scsi', 'ride', 'appreciate', 'mail', 'support', 'buy', 'net', 'package', 'big', 'david', 'sure', 'head']
+['buy', 'turn', 'support', 'appreciate', 'evidence', 'city', 'assume', 'long', 'scsi', 'game', 'picture', 'leave', 'exist', 'david', 'current']
+['scsi', 'appreciate', 'code', 'modem', 'israel', 'long', 'like', 'package', 'ride', 'hand', 'new', 'save', 'force', 'sure', 'test']
+['quote', 'appreciate', 'support', 'big', 'source', 'case', 'mind', 'yes', 'feel', 'see', 'sort', 'c', 'city', 'fine', 'david']
+['appreciate', 'life', 'sure', 'let', 'video', 'buy', 'assume', 'delete', 'modem', 'suppose', 'baseball', 'package', 'scsi', 'hell', 'oh']
+['hand', 'appreciate', 'buy', 'support', 'display', 'scsi', 'source', 'package', 'local', 'city', 'non', 'w', 'space', 'end', 'sure']
+['appreciate', 'package', 'quote', 'car', 'case', 'probably', 'evidence', 'space', 'file', 'source', 'hear', 'turn', 'pc', 'board', 'like']
+['appreciate', 'hand', 'allow', 'board', 'buy', 'support', 'feel', 'sort', 'video', 'news', 'life', 'see', 'quote', 'sell', 'christian']
+['appreciate', 'scsi', 'long', 'space', 'big', 'buy', 'mail', 'tell', 'feel', 'reply', 'state', 'game', 'disk', 'david', 'money']
+==============================
+topic diversity:0.19333333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34239267986553323, c_w2v:None, c_uci:-1.9280200179217888, c_npmi:-0.07140295976711551
+mimno topic coherence:-263.1607118439355
+Epoch  81	Iter    1	Loss_D:-0.0239530	Loss_G:0.0354460	loss_E:-0.0110443
+Epoch  81	Iter   11	Loss_D:-0.0245343	Loss_G:0.0361550	loss_E:-0.0111568
+Epoch  81	Iter   21	Loss_D:-0.0252733	Loss_G:0.0363054	loss_E:-0.0105748
+Epoch  82	Iter    1	Loss_D:-0.0233786	Loss_G:0.0366469	loss_E:-0.0127808
+Epoch  82	Iter   11	Loss_D:-0.0255482	Loss_G:0.0370256	loss_E:-0.0110387
+Epoch  82	Iter   21	Loss_D:-0.0240873	Loss_G:0.0379494	loss_E:-0.0134221
+Epoch  83	Iter    1	Loss_D:-0.0243027	Loss_G:0.0374022	loss_E:-0.0126132
+Epoch  83	Iter   11	Loss_D:-0.0246372	Loss_G:0.0379583	loss_E:-0.0128918
+Epoch  83	Iter   21	Loss_D:-0.0242416	Loss_G:0.0379754	loss_E:-0.0132752
+Epoch  84	Iter    1	Loss_D:-0.0239036	Loss_G:0.0381344	loss_E:-0.0137552
+Epoch  84	Iter   11	Loss_D:-0.0248297	Loss_G:0.0382725	loss_E:-0.0129791
+Epoch  84	Iter   21	Loss_D:-0.0225301	Loss_G:0.0385050	loss_E:-0.0155312
+Epoch  85	Iter    1	Loss_D:-0.0216619	Loss_G:0.0378956	loss_E:-0.0157886
+Epoch  85	Iter   11	Loss_D:-0.0220559	Loss_G:0.0376898	loss_E:-0.0152403
+Epoch  85	Iter   21	Loss_D:-0.0221419	Loss_G:0.0376989	loss_E:-0.0151125
+Epoch  86	Iter    1	Loss_D:-0.0231574	Loss_G:0.0373301	loss_E:-0.0137426
+Epoch  86	Iter   11	Loss_D:-0.0231505	Loss_G:0.0372891	loss_E:-0.0137298
+Epoch  86	Iter   21	Loss_D:-0.0226893	Loss_G:0.0374957	loss_E:-0.0143404
+Epoch  87	Iter    1	Loss_D:-0.0217963	Loss_G:0.0372938	loss_E:-0.0150450
+Epoch  87	Iter   11	Loss_D:-0.0232928	Loss_G:0.0371814	loss_E:-0.0134515
+Epoch  87	Iter   21	Loss_D:-0.0211627	Loss_G:0.0368835	loss_E:-0.0152763
+Epoch  88	Iter    1	Loss_D:-0.0229778	Loss_G:0.0368511	loss_E:-0.0134462
+Epoch  88	Iter   11	Loss_D:-0.0196677	Loss_G:0.0368035	loss_E:-0.0167085
+Epoch  88	Iter   21	Loss_D:-0.0214783	Loss_G:0.0363407	loss_E:-0.0144378
+Epoch  89	Iter    1	Loss_D:-0.0205106	Loss_G:0.0357927	loss_E:-0.0148553
+Epoch  89	Iter   11	Loss_D:-0.0199077	Loss_G:0.0357186	loss_E:-0.0153686
+Epoch  89	Iter   21	Loss_D:-0.0204925	Loss_G:0.0360214	loss_E:-0.0150961
+Epoch  90	Iter    1	Loss_D:-0.0216378	Loss_G:0.0357333	loss_E:-0.0136528
+Epoch  90	Iter   11	Loss_D:-0.0205491	Loss_G:0.0354767	loss_E:-0.0145057
+Epoch  90	Iter   21	Loss_D:-0.0195203	Loss_G:0.0351720	loss_E:-0.0152424
+Epoch  90	Loss_D_avg:-0.0568605	Loss_G_avg:0.0431346	loss_E_avg:0.0141349
+['high', 'buy', 'start', 'long', 'appreciate', 'scsi', 'life', 'game', 'test', 'hear', 'hand', 'advance', 'let', 'big', 'turn']
+['support', 'buy', 'scsi', 'appreciate', 'state', 'advance', 'video', 'package', 'space', 'come', 'copy', 'game', 'long', 'turn', 'hear']
+['appreciate', 'support', 'life', 'hand', 'computer', 'board', 'source', 'scsi', 'sure', 'david', 'probably', 'big', 'pay', 'number', 'buy']
+['appreciate', 'david', 'buy', 'card', 'fine', 'space', 'life', 'pay', 'support', 'guess', 'delete', 'information', 'small', 'kill', 'board']
+['appreciate', 'scsi', 'space', 'file', 'hear', 'support', 'experience', 'source', 'start', 'david', 'week', 'jesus', 'game', 'copy', 'run']
+['appreciate', 'support', 'long', 'run', 'hand', 'box', 'source', 'guess', 'pay', 'understand', 'see', 'suppose', 'reply', 'car', 'scsi']
+['scsi', 'car', 'buy', 'appreciate', 'big', 'video', 'support', 'state', 'hope', 'computer', 'david', 'disk', 'number', 'hand', 'program']
+['appreciate', 'scsi', 'sure', 'number', 'support', 'board', 'yes', 'space', 'course', 'big', 'mail', 'see', 'advance', 'buy', 'case']
+['support', 'scsi', 'appreciate', 'space', 'turn', 'state', 'hand', 'david', 'big', 'sell', 'game', 'high', 'c', 'start', 'write']
+['appreciate', 'scsi', 'support', 'hope', 'life', 'code', 'week', 'source', 'claim', 'number', 'game', 'pay', 'long', 'mail', 'reply']
+['appreciate', 'scsi', 'support', 'video', 'hear', 'case', 'feel', 'long', 'computer', 'delete', 'advance', 'life', 'turn', 'get', 'see']
+['scsi', 'support', 'advance', 'mail', 'source', 'space', 'appreciate', 'hope', 'video', 'run', 'course', 'game', 'exist', 'buy', 'anybody']
+['appreciate', 'hand', 'article', 'source', 'buy', 'test', 'scsi', 'sure', 'work', 'run', 'hope', 'long', 'car', 'net', 'support']
+['support', 'appreciate', 'sure', 'space', 'reply', 'pay', 'call', 'file', 'problem', 'turn', 'power', 'high', 'little', 'tell', 'scsi']
+['appreciate', 'let', 'scsi', 'long', 'david', 'sure', 'support', 'team', 'mail', 'board', 'number', 'video', 'computer', 'course', 'pay']
+['appreciate', 'exist', 'support', 'code', 'video', 'fast', 'hand', 'long', 'hope', 'scsi', 'mail', 'play', 'hear', 'turn', 'let']
+['appreciate', 'support', 'life', 'turn', 'space', 'reply', 'package', 'scsi', 'claim', 'case', 'see', 'long', 'board', 'difference', 'source']
+['appreciate', 'hope', 'big', 'turn', 'file', 'like', 'space', 'see', 'david', 'delete', 'source', 'good', 'maybe', 'guess', 'support']
+['appreciate', 'support', 'life', 'buy', 'hear', 'end', 'disk', 'long', 'hope', 'scsi', 'start', 'run', 'news', 'advance', 'like']
+['appreciate', 'game', 'space', 'turn', 'video', 'support', 'phone', 'hope', 'car', 'scsi', 'long', 'hear', 'local', 'jesus', 'call']
+['appreciate', 'space', 'game', 'scsi', 'package', 'life', 'try', 'number', 'buy', 'like', 'new', 'let', 'exist', 'support', 'advance']
+['appreciate', 'end', 'scsi', 'buy', 'support', 'let', 'start', 'case', 'sell', 'order', 'david', 'state', 'try', 'server', 'e']
+['appreciate', 'support', 'scsi', 'state', 'number', 'server', 'sure', 'game', 'give', 'call', 'good', 'let', 'week', 'long', 'com']
+['scsi', 'appreciate', 'life', 'buy', 'case', 'support', 'let', 'board', 'couple', 'tell', 'call', 'try', 'person', 'long', 'post']
+['appreciate', 'scsi', 'video', 'number', 'let', 'long', 'apple', 'friend', 'space', 'car', 'buy', 'server', 'case', 'high', 'support']
+['appreciate', 'mail', 'scsi', 'current', 'buy', 'power', 'video', 'turn', 'space', 'advance', 'start', 'board', 'offer', 'support', 'call']
+['turn', 'scsi', 'mail', 'long', 'appreciate', 'source', 'space', 'display', 'sell', 'support', 'feel', 'claim', 'pay', 'case', 'advance']
+['appreciate', 'scsi', 'delete', 'let', 'hand', 'base', 'file', 'long', 'space', 'exist', 'david', 'start', 'experience', 'disk', 'take']
+['appreciate', 'support', 'long', 'feel', 'scsi', 'yes', 'hear', 'post', 'b', 'big', 'c', 'david', 'couple', 'stuff', 'box']
+['appreciate', 'advance', 'video', 'like', 'support', 'david', 'long', 'yes', 'sure', 'claim', 'game', 'exist', 'server', 'write', 'tell']
+['buy', 'appreciate', 'non', 'scsi', 'game', 'news', 'understand', 'pay', 'hand', 'life', 'source', 'law', 'yes', 'interested', 'sure']
+['appreciate', 'reply', 'space', 'david', 'support', 'scsi', 'hope', 'buy', 'lose', 'hand', 'number', 'power', 'delete', 'post', 'version']
+['small', 'support', 'game', 'board', 'number', 'high', 'reply', 'buy', 'server', 'team', 'image', 'appreciate', 'course', 'assume', 'long']
+['buy', 'long', 'appreciate', 'scsi', 'call', 'reply', 'david', 'yes', 'board', 'pay', 'feel', 'game', 'video', 'test', 'sound']
+['video', 'support', 'appreciate', 'scsi', 'stuff', 'reply', 'code', 'case', 'source', 'big', 'test', 'sell', 'sure', 'advance', 'space']
+['buy', 'long', 'let', 'delete', 'david', 'turn', 'scsi', 'good', 'advance', 'appreciate', 'copy', 'write', 'video', 'state', 'get']
+['appreciate', 'buy', 'let', 'source', 'ax', 'write', 'long', 'assume', 'turn', 'scsi', 'kill', 'info', 'hope', 'video', 'lose']
+['support', 'appreciate', 'video', 'source', 'turn', 'scsi', 'claim', 'maybe', 'bad', 'case', 'c', 'run', 'number', 'exist', 'hand']
+['net', 'hope', 'space', 'turn', 'video', 'case', 'c', 'buy', 'high', 'game', 'pay', 'true', 'life', 'appreciate', 'support']
+['appreciate', 'like', 'support', 'long', 'image', 'friend', 'big', 'space', 'reply', 'source', 'mail', 'let', 'hope', 'include', 'week']
+['appreciate', 'scsi', 'run', 'support', 'turn', 'david', 'video', 'let', 'hand', 'info', 'buy', 'advance', 'assume', 'get', 'claim']
+['state', 'board', 'long', 'appreciate', 'scsi', 'mail', 'support', 'buy', 'big', 'sure', 'david', 'net', 'case', 'reply', 'hope']
+['appreciate', 'buy', 'support', 'turn', 'long', 'scsi', 'assume', 'game', 'leave', 'exist', 'number', 'source', 'david', 'reply', 'sure']
+['scsi', 'appreciate', 'code', 'long', 'like', 'new', 'sure', 'hope', 'test', 'advance', 'car', 'start', 'hear', 'hand', 'buy']
+['appreciate', 'support', 'big', 'source', 'case', 'yes', 'see', 'c', 'game', 'david', 'feel', 'file', 'hope', 'advance', 'let']
+['appreciate', 'life', 'sure', 'let', 'buy', 'video', 'delete', 'assume', 'scsi', 'file', 'oh', 'number', 'long', 'support', 'local']
+['hand', 'appreciate', 'buy', 'support', 'scsi', 'source', 'display', 'local', 'space', 'end', 'sure', 'long', 'maybe', 'reply', 'non']
+['appreciate', 'case', 'car', 'probably', 'space', 'file', 'package', 'source', 'hear', 'like', 'pc', 'board', 'turn', 'yes', 'support']
+['appreciate', 'hand', 'board', 'buy', 'support', 'life', 'video', 'feel', 'see', 'news', 'sell', 'state', 'christian', 'hope', 'mail']
+['appreciate', 'scsi', 'long', 'space', 'big', 'buy', 'mail', 'tell', 'reply', 'game', 'state', 'disk', 'david', 'feel', 'support']
+==============================
+topic diversity:0.15866666666666668
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.38287429624930724, c_w2v:None, c_uci:-0.7208886963149936, c_npmi:-0.025084618227126546
+mimno topic coherence:-255.27188087829703
+Epoch  91	Iter    1	Loss_D:-0.0215994	Loss_G:0.0349182	loss_E:-0.0128885
+Epoch  91	Iter   11	Loss_D:-0.0206383	Loss_G:0.0351510	loss_E:-0.0141097
+Epoch  91	Iter   21	Loss_D:-0.0205403	Loss_G:0.0349901	loss_E:-0.0140456
+Epoch  92	Iter    1	Loss_D:-0.0207216	Loss_G:0.0342861	loss_E:-0.0131732
+Epoch  92	Iter   11	Loss_D:-0.0206341	Loss_G:0.0346055	loss_E:-0.0135717
+Epoch  92	Iter   21	Loss_D:-0.0219562	Loss_G:0.0342054	loss_E:-0.0118413
+Epoch  93	Iter    1	Loss_D:-0.0216372	Loss_G:0.0336265	loss_E:-0.0115934
+Epoch  93	Iter   11	Loss_D:-0.0194022	Loss_G:0.0338858	loss_E:-0.0140988
+Epoch  93	Iter   21	Loss_D:-0.0192214	Loss_G:0.0337434	loss_E:-0.0141577
+Epoch  94	Iter    1	Loss_D:-0.0198036	Loss_G:0.0330496	loss_E:-0.0128429
+Epoch  94	Iter   11	Loss_D:-0.0202614	Loss_G:0.0333156	loss_E:-0.0126427
+Epoch  94	Iter   21	Loss_D:-0.0204905	Loss_G:0.0331998	loss_E:-0.0122936
+Epoch  95	Iter    1	Loss_D:-0.0197205	Loss_G:0.0327550	loss_E:-0.0126698
+Epoch  95	Iter   11	Loss_D:-0.0195739	Loss_G:0.0326196	loss_E:-0.0126611
+Epoch  95	Iter   21	Loss_D:-0.0203946	Loss_G:0.0325602	loss_E:-0.0117713
+Epoch  96	Iter    1	Loss_D:-0.0208268	Loss_G:0.0322471	loss_E:-0.0110354
+Epoch  96	Iter   11	Loss_D:-0.0197094	Loss_G:0.0322525	loss_E:-0.0121804
+Epoch  96	Iter   21	Loss_D:-0.0201211	Loss_G:0.0319152	loss_E:-0.0114274
+Epoch  97	Iter    1	Loss_D:-0.0188693	Loss_G:0.0313277	loss_E:-0.0120731
+Epoch  97	Iter   11	Loss_D:-0.0175660	Loss_G:0.0317429	loss_E:-0.0138161
+Epoch  97	Iter   21	Loss_D:-0.0200797	Loss_G:0.0315184	loss_E:-0.0110613
+Epoch  98	Iter    1	Loss_D:-0.0196639	Loss_G:0.0315906	loss_E:-0.0115095
+Epoch  98	Iter   11	Loss_D:-0.0194894	Loss_G:0.0313628	loss_E:-0.0115059
+Epoch  98	Iter   21	Loss_D:-0.0212371	Loss_G:0.0308647	loss_E:-0.0092697
+Epoch  99	Iter    1	Loss_D:-0.0204563	Loss_G:0.0308356	loss_E:-0.0100154
+Epoch  99	Iter   11	Loss_D:-0.0208758	Loss_G:0.0309189	loss_E:-0.0096894
+Epoch  99	Iter   21	Loss_D:-0.0194821	Loss_G:0.0307640	loss_E:-0.0109246
+Epoch 100	Iter    1	Loss_D:-0.0206344	Loss_G:0.0303942	loss_E:-0.0093870
+Epoch 100	Iter   11	Loss_D:-0.0200051	Loss_G:0.0308320	loss_E:-0.0104815
+Epoch 100	Iter   21	Loss_D:-0.0190755	Loss_G:0.0303093	loss_E:-0.0108718
+Epoch 100	Loss_D_avg:-0.0531901	Loss_G_avg:0.0420738	loss_E_avg:0.0115227
+['high', 'buy', 'start', 'long', 'appreciate', 'game', 'hear', 'let', 'include', 'advance', 'scsi', 'power', 'do', 'car', 'monitor']
+['buy', 'appreciate', 'support', 'come', 'advance', 'game', 'long', 'hear', 'state', 'scsi', 'try', 'space', 'see', 'new', 'run']
+['appreciate', 'computer', 'sure', 'support', 'source', 'number', 'buy', 'probably', 'drive', 'game', 'article', 'long', 'include', 'run', 'let']
+['appreciate', 'buy', 'card', 'space', 'information', 'let', 'say', 'article', 'disk', 'mail', 'computer', 'post', 'support', 'hear', 'case']
+['appreciate', 'file', 'hear', 'space', 'start', 'scsi', 'support', 'game', 'source', 'run', 'like', 'long', 'say', 'drive', 'yes']
+['appreciate', 'long', 'run', 'support', 'see', 'car', 'source', 'start', 'yes', 'game', 'reply', 'sure', 'available', 'sell', 'let']
+['car', 'appreciate', 'buy', 'computer', 'number', 'scsi', 'state', 'program', 'disk', 'support', 'hear', 'like', 'sure', 'course', 'game']
+['appreciate', 'sure', 'number', 'yes', 'mail', 'see', 'buy', 'course', 'case', 'support', 'run', 'advance', 'space', 'game', 'let']
+['appreciate', 'space', 'support', 'sell', 'state', 'scsi', 'game', 'c', 'start', 'write', 'available', 'mail', 'high', 'case', 'sure']
+['appreciate', 'support', 'scsi', 'number', 'game', 'long', 'mail', 'source', 'buy', 'start', 'anybody', 'case', 'like', 'week', 'c']
+['appreciate', 'hear', 'case', 'long', 'support', 'computer', 'scsi', 'see', 'get', 'like', 'buy', 'start', 'advance', 'car', 'file']
+['support', 'mail', 'appreciate', 'advance', 'scsi', 'run', 'game', 'course', 'source', 'buy', 'write', 'anybody', 'sell', 'space', 'start']
+['appreciate', 'article', 'buy', 'sure', 'run', 'work', 'long', 'source', 'car', 'like', 'yes', 'high', 'game', 'disk', 'write']
+['appreciate', 'sure', 'support', 'call', 'reply', 'problem', 'file', 'space', 'tell', 'say', 'power', 'high', 'game', 'buy', 'source']
+['appreciate', 'let', 'long', 'sure', 'mail', 'number', 'team', 'scsi', 'information', 'like', 'computer', 'case', 'yes', 'call', 'course']
+['appreciate', 'long', 'mail', 'hear', 'let', 'support', 'game', 'play', 'article', 'car', 'code', 'file', 'number', 'color', 'anybody']
+['appreciate', 'see', 'long', 'reply', 'support', 'case', 'space', 'game', 'say', 'start', 'work', 'sure', 'let', 'hear', 'file']
+['appreciate', 'like', 'file', 'see', 'good', 'maybe', 'number', 'space', 'post', 'mail', 'source', 'buy', 'run', 'let', 'case']
+['appreciate', 'buy', 'hear', 'support', 'long', 'start', 'disk', 'run', 'like', 'game', 'file', 'software', 'advance', 'sure', 'call']
+['appreciate', 'game', 'car', 'long', 'space', 'hear', 'phone', 'call', 'support', 'like', 'sure', 'start', 'c', 'run', 'case']
+['appreciate', 'game', 'number', 'buy', 'try', 'like', 'let', 'new', 'space', 'write', 'yes', 'hear', 'advance', 'car', 'mail']
+['appreciate', 'buy', 'let', 'start', 'end', 'case', 'sell', 'try', 'support', 'long', 'e', 'say', 'c', 'scsi', 'game']
+['appreciate', 'support', 'number', 'state', 'game', 'sure', 'scsi', 'call', 'let', 'good', 'long', 'com', 'give', 'file', 'course']
+['appreciate', 'buy', 'scsi', 'case', 'let', 'tell', 'call', 'long', 'try', 'post', 'game', 'support', 'sure', 'pc', 'number']
+['appreciate', 'number', 'let', 'long', 'car', 'buy', 'case', 'sure', 'scsi', 'c', 'space', 'high', 'reply', 'post', 'start']
+['appreciate', 'mail', 'buy', 'power', 'start', 'call', 'advance', 'offer', 'anybody', 'file', 'monitor', 'space', 'sell', 'memory', 'post']
+['mail', 'long', 'appreciate', 'sell', 'source', 'game', 'case', 'buy', 'space', 'scsi', 'advance', 'support', 'let', 'file', 'power']
+['appreciate', 'let', 'file', 'long', 'start', 'scsi', 'hear', 'buy', 'disk', 'get', 'software', 'space', 'card', 'post', 'write']
+['appreciate', 'long', 'support', 'hear', 'yes', 'post', 'c', 'game', 'anybody', 'start', 'do', 'mail', 'stuff', 'god', 'pc']
+['appreciate', 'like', 'advance', 'long', 'sure', 'yes', 'game', 'support', 'write', 'tell', 'post', 'com', 'version', 'let', 'card']
+['buy', 'appreciate', 'game', 'sure', 'yes', 'car', 'interested', 'case', 'source', 'number', 'work', 'course', 'hear', 'start', 'mail']
+['appreciate', 'reply', 'buy', 'number', 'space', 'power', 'post', 'support', 'version', 'sound', 'c', 'write', 'long', 'like', 'com']
+['game', 'number', 'buy', 'appreciate', 'support', 'long', 'high', 'reply', 'team', 'course', 'like', 'case', 'post', 'c', 'hear']
+['buy', 'long', 'appreciate', 'call', 'yes', 'reply', 'game', 'sound', 'start', 'case', 'let', 'scsi', 'number', 'write', 'post']
+['appreciate', 'support', 'reply', 'stuff', 'case', 'sell', 'sure', 'write', 'computer', 'car', 'advance', 'source', 'problem', 'color', 'video']
+['buy', 'long', 'let', 'good', 'appreciate', 'write', 'advance', 'get', 'call', 'case', 'game', 'hear', 'see', 'mail', 'right']
+['appreciate', 'buy', 'let', 'write', 'long', 'source', 'post', 'info', 'mail', 'case', 'maybe', 'information', 'card', 'bit', 'car']
+['appreciate', 'support', 'source', 'maybe', 'c', 'run', 'case', 'number', 'bad', 'car', 'long', 'hi', 'disk', 'high', 'game']
+['c', 'buy', 'case', 'game', 'appreciate', 'true', 'high', 'space', 'available', 'number', 'software', 'mail', 'good', 'let', 'sure']
+['appreciate', 'like', 'long', 'support', 'mail', 'reply', 'let', 'source', 'include', 'space', 'tell', 'try', 'number', 'sure', 'file']
+['appreciate', 'run', 'let', 'buy', 'support', 'info', 'see', 'get', 'scsi', 'god', 'number', 'sound', 'start', 'advance', 'card']
+['state', 'appreciate', 'long', 'mail', 'buy', 'sure', 'support', 'case', 'scsi', 'reply', 'board', 'sell', 'mac', 'car', 'disk']
+['appreciate', 'buy', 'long', 'game', 'support', 'number', 'sure', 'run', 'tell', 'include', 'bit', 'source', 'reply', 'let', 'call']
+['appreciate', 'long', 'like', 'scsi', 'new', 'sure', 'car', 'hear', 'start', 'code', 'buy', 'game', 'c', 'advance', 'price']
+['appreciate', 'case', 'source', 'support', 'see', 'yes', 'c', 'game', 'file', 'let', 'long', 'big', 'advance', 'reply', 'tell']
+['appreciate', 'sure', 'let', 'buy', 'file', 'number', 'long', 'life', 'reply', 'com', 'pc', 'start', 'case', 'right', 'disk']
+['appreciate', 'buy', 'support', 'source', 'sure', 'long', 'maybe', 'let', 'space', 'start', 'reply', 'bad', 'post', 'scsi', 'info']
+['appreciate', 'car', 'case', 'probably', 'file', 'hear', 'like', 'pc', 'buy', 'space', 'yes', 'source', 'number', 'version', 'long']
+['appreciate', 'buy', 'see', 'sell', 'support', 'mail', 'available', 'car', 'long', 'like', 'reply', 'state', 'disk', 'advance', 'game']
+['appreciate', 'long', 'buy', 'mail', 'tell', 'game', 'space', 'scsi', 'disk', 'reply', 'state', 'software', 'call', 'run', 'number']
+==============================
+topic diversity:0.11466666666666667
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.404064862766791, c_w2v:None, c_uci:-0.19662909937931972, c_npmi:-0.002806710854542158
+mimno topic coherence:-242.06119941303157
+topic diversity:0.11466666666666667
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.404064862766791, c_w2v:None, c_uci:-0.19662909937931972, c_npmi:-0.002806710854542158
+mimno topic coherence:-242.06119941303157

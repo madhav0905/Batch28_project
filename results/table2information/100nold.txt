@@ -1,0 +1,1386 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f08863f84f0>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:-0.0004429	Loss_G:-0.0092095	loss_E:0.0103243
+Epoch   1	Iter   11	Loss_D:-0.0056584	Loss_G:-0.0055124	loss_E:0.0119930
+Epoch   1	Iter   21	Loss_D:-0.0119021	Loss_G:-0.0024898	loss_E:0.0154615
+Epoch   2	Iter    1	Loss_D:-0.0136230	Loss_G:-0.0020822	loss_E:0.0167933
+Epoch   2	Iter   11	Loss_D:-0.0225382	Loss_G:0.0007976	loss_E:0.0230205
+Epoch   2	Iter   21	Loss_D:-0.0312936	Loss_G:0.0040136	loss_E:0.0285878
+Epoch   3	Iter    1	Loss_D:-0.0339025	Loss_G:0.0050436	loss_E:0.0301647
+Epoch   3	Iter   11	Loss_D:-0.0409519	Loss_G:0.0084332	loss_E:0.0337366
+Epoch   3	Iter   21	Loss_D:-0.0499549	Loss_G:0.0127429	loss_E:0.0383835
+Epoch   4	Iter    1	Loss_D:-0.0511070	Loss_G:0.0134908	loss_E:0.0387268
+Epoch   4	Iter   11	Loss_D:-0.0577409	Loss_G:0.0171835	loss_E:0.0415784
+Epoch   4	Iter   21	Loss_D:-0.0628599	Loss_G:0.0205645	loss_E:0.0432361
+Epoch   5	Iter    1	Loss_D:-0.0649031	Loss_G:0.0208386	loss_E:0.0449749
+Epoch   5	Iter   11	Loss_D:-0.0694516	Loss_G:0.0241586	loss_E:0.0461403
+Epoch   5	Iter   21	Loss_D:-0.0730238	Loss_G:0.0266392	loss_E:0.0471814
+Epoch   6	Iter    1	Loss_D:-0.0742236	Loss_G:0.0273510	loss_E:0.0476834
+Epoch   6	Iter   11	Loss_D:-0.0770085	Loss_G:0.0297700	loss_E:0.0479515
+Epoch   6	Iter   21	Loss_D:-0.0811556	Loss_G:0.0316895	loss_E:0.0501258
+Epoch   7	Iter    1	Loss_D:-0.0832717	Loss_G:0.0322394	loss_E:0.0517052
+Epoch   7	Iter   11	Loss_D:-0.0833867	Loss_G:0.0339179	loss_E:0.0500575
+Epoch   7	Iter   21	Loss_D:-0.0872837	Loss_G:0.0356270	loss_E:0.0522037
+Epoch   8	Iter    1	Loss_D:-0.0878290	Loss_G:0.0357726	loss_E:0.0525915
+Epoch   8	Iter   11	Loss_D:-0.0881372	Loss_G:0.0368362	loss_E:0.0518169
+Epoch   8	Iter   21	Loss_D:-0.0891868	Loss_G:0.0375322	loss_E:0.0521077
+Epoch   9	Iter    1	Loss_D:-0.0911199	Loss_G:0.0379120	loss_E:0.0536259
+Epoch   9	Iter   11	Loss_D:-0.0916374	Loss_G:0.0388544	loss_E:0.0532428
+Epoch   9	Iter   21	Loss_D:-0.0908931	Loss_G:0.0394107	loss_E:0.0518705
+Epoch  10	Iter    1	Loss_D:-0.0923840	Loss_G:0.0391618	loss_E:0.0536123
+Epoch  10	Iter   11	Loss_D:-0.0938375	Loss_G:0.0399116	loss_E:0.0543122
+Epoch  10	Iter   21	Loss_D:-0.0932969	Loss_G:0.0399261	loss_E:0.0537184
+Epoch  10	Loss_D_avg:-0.0631335	Loss_G_avg:0.0223508	loss_E_avg:0.0415643
+['launch', 'potential', 'safety', 'brian', 'institute', 'shall', 'g', 'turkey', 'translate', 'rule', 'israel', 'motion', 'simply', 'condition', 'bag']
+['texas', 'produce', 'accident', 'citizen', 'feature', 'mil', 'dr', 'liberal', 'catalog', 'south', 'murder', 'environment', 'custom', 'solution', 'way']
+['dr', 'south', 'reader', 'montreal', 'okay', 'begin', 'tank', 'fool', 'non', 'bag', 'drug', 'environment', 'victim', 'netter', 'toshiba']
+['bag', 'implement', 'etc', 'match', 'rear', 'non', 'keyboard', 'everybody', 'assumption', 'future', 'escrow', 'encrypt', 'nonsense', 'satan', 'lady']
+['nubus', 'pop', 'pattern', 'strike', 'r', 'rear', 'brian', 'speed', 'weiss', 'european', 'safe', 'personal', 'colorado', 'produce', 'curve']
+['thought', 'verify', 'dan', 'opinion', 'texas', 'gas', 'visit', 'promise', 'thank', 'group', 'fill', 'scanner', 'feature', 'strike', 'lemieux']
+['design', 'south', 'promise', 'army', 'xdm', 'dr', 'inch', 'jewish', 'lawyer', 'reader', 'visit', 'texas', 'mass', 'completely', 'cut']
+['particular', 'institute', 'strike', 'scanner', 'alarm', 'chance', 'available', 'south', 'look', 'fix', 'multiple', 'bob', 'mit', 'drug', 'revolution']
+['citizen', 'additional', 'error', 'strike', 'guy', 'custom', 'restriction', 'edition', 'middle', 'design', 'shock', 'decent', 'rear', 'russian', 'pt']
+['fool', 'medical', 'completely', 'bag', 'pass', 'solution', 'ps', 'happen', 'se', 'dodger', 'million', 'wire', 'lawyer', 'destroy', 'group']
+['citizen', 'pop', 'scott', 'match', 'dodger', 'verify', 'fat', 'eric', 'kit', 'r', 'ms', 'se', 'crime', 'stand', 'recommendation']
+['bag', 'israel', 'statistic', 'lay', 'assume', 'radar', 'effort', 'apologize', 'self', 'terrorist', 'hacker', 'bush', 'drug', 'hockey', 'custom']
+['drink', 'trace', 'cage', 'slightly', 'terrorist', 'army', 'lemieux', 'culture', 'produce', 'strike', 'mass', 'r', 'dr', 'repair', 'screw']
+['south', 'effort', 'belong', 'shock', 'million', 'mil', 'jewish', 'number', 'dodger', 'montreal', 'branch', 'particular', 'red', 'generally', 'slightly']
+['org', 'eventually', 'cage', 'bag', 'verify', 'pattern', 'dr', 'statistic', 'dodger', 'pop', 'capital', 'multi', 'side', 'strike', 'ohio']
+['mil', 'meg', 'lawyer', 'everybody', 'produce', 'cross', 'rear', 'access', 'control', 'total', 'ago', 'thread', 'spring', 'additional', 'totally']
+['data', 'way', 'multiple', 'self', 'se', 'forgot', 'lose', 'chance', 'future', 'french', 'observation', 'bag', 'error', 'hockey', 'slightly']
+['south', 'brian', 'surrender', 'distribution', 'dr', 'fat', 'correct', 'r', 'christ', 'rear', 'belief', 'huge', 'membership', 'observation', 'winner']
+['ad', 'slightly', 'etc', 'operation', 'bag', 'representative', 'dr', 'promise', 'puck', 'damage', 'fill', 'way', 'adb', 'side', 'hockey']
+['mass', 'south', 'israel', 'citizen', 'tm', 'rate', 'g', 'implement', 'ihave', 'damage', 'love', 'evaluate', 'mile', 'way', 'decide']
+['number', 'thread', 'produce', 'strike', 'etc', 'andrew', 'blood', 'fill', 'christ', 'clearly', 'everybody', 'drink', 'appreciate', 'verify', 'experiment']
+['eventually', 'puck', 'spectrum', 'jewish', 'believer', 'pt', 'verify', 'mil', 'begin', 'etc', 'effort', 'dr', 'visit', 'blood', 'outside']
+['gas', 'todo', 'israel', 'upper', 'basically', 'org', 'strike', 'ofa', 'finally', 'promise', 'decent', 'radar', 'multiple', 'lawyer', 'dr']
+['notion', 'french', 'representative', 'strike', 'science', 'blood', 'thoma', 'produce', 'hex', 'side', 'fat', 'yesterday', 'ask', 'texas', 'verify']
+['visit', 'puck', 'statistic', 'million', 'scsi', 'richard', 'reset', 'verify', 'love', 'large', 'side', 'total', 'multiple', 'expect', 'lemieux']
+['blood', 'strike', 'code', 'medical', 'verify', 'hockey', 'chance', 'semi', 'israel', 'number', 'ame', 'bag', 'bomb', 'plug', 'lift']
+['bag', 'membership', 'strike', 'lay', 'montreal', 'implement', 'fool', 'comparison', 'south', 'prize', 'hockey', 'locate', 'fit', 'play', 'pop']
+['notion', 'bag', 'switch', 'produce', 'poor', 'texas', 'lemieux', 'walk', 'blue', 'speak', 'netter', 'twin', 'satan', 'capital', 'clearly']
+['ray', 'love', 'jewish', 'apply', 'column', 'mil', 'scsi', 'fill', 'total', 'fantasy', 'dodger', 'g', 'chance', 'etc', 'translate']
+['screw', 'bag', 'citizen', 'escrow', 'montreal', 'iii', 'match', 'implement', 'visit', 'ray', 'huge', 'bomb', 'exactly', 'solution', 'ignorance']
+['eternal', 'hockey', 'restriction', 'way', 'later', 'medical', 'membership', 'stat', 'ad', 'pretty', 'trade', 'red', 'reader', 'trip', 'lucky']
+['wisdom', 'shuttle', 'bag', 'input', 'clear', 'book', 'upper', 'flight', 'trip', 'bomb', 'eternal', 'trade', 'experiment', 'launch', 'hockey']
+['brian', 'blood', 'mil', 'additional', 'peace', 'sorry', 'hockey', 'worry', 'apple', 'way', 'believer', 'lay', 'statement', 'communicate', 'radar']
+['victim', 'terrorist', 'citizen', 'fool', 'door', 'gas', 'potential', 'ad', 'apply', 'ms', 'short', 'pop', 'large', 'nazi', 'fault']
+['strike', 'love', 'treat', 'brian', 'texas', 'institute', 'forsale', 'fill', 'centris', 'lawyer', 'radar', 'heaven', 'g', 'column', 'bag']
+['centris', 'help', 'membership', 'bag', 'liberal', 'plug', 'upper', 'completely', 'feature', 'effort', 'tm', 'implement', 'thisis', 'etc', 'produce']
+['israel', 'g', 'chance', 'fat', 'thread', 'andrew', 'texas', 'dr', 'lh', 'walk', 'error', 'ct', 'citizen', 'addition', 'verify']
+['revolution', 'strike', 'understand', 'challenge', 'see', 'bush', 'puck', 'totally', 'netter', 'radio', 'max', 'tim', 'scsi', 'application', 'statistic']
+['way', 'additional', 'tm', 'dr', 'produce', 'brian', 'clearly', 'netter', 'bag', 'g', 'verify', 'pop', 'end', 'institute', 'eternal']
+['advance', 'effort', 'eternal', 'brian', 'reader', 'replacement', 'treat', 'play', 'hp', 'show', 'cpu', 'justification', 'fool', 'blood', 'everybody']
+['bag', 'hockey', 'clearly', 'vax', 'similar', 'citizen', 'lay', 'damage', 'strange', 'visit', 'match', 'large', 'eventually', 'guy', 'revolution']
+['book', 'effort', 'cult', 'error', 'okay', 'completely', 'begin', 'netter', 'statement', 'pt', 'bag', 'vram', 'concern', 'ihave', 'justification']
+['medical', 'belief', 'ya', 'ring', 'citizen', 'okay', 'shock', 'sin', 'implement', 'tm', 'french', 'column', 'recommendation', 'philosophy', 'mile']
+['bag', 'fool', 'dr', 'moment', 'ability', 'clock', 'mass', 'chance', 'brian', 'total', 'multiple', 'membership', 'file', 'promise', 'somewhat']
+['assume', 'satan', 'quickly', 'truck', 'lee', 'accident', 'month', 'dr', 'mil', 'path', 'room', 'apply', 'maximum', 'blind', 'waco']
+['wisdom', 'award', 'idiot', 'thread', 'lay', 'bag', 'clearly', 'mil', 'eventually', 'generally', 'sex', 'mit', 'liberal', 'israel', 'similar']
+['citizen', 'opinion', 'see', 'produce', 'fault', 'doubt', 'ihave', 'actual', 'presence', 'play', 'launch', 'rid', 'turbo', 'strike', 'rate']
+['da', 'pop', 'speak', 'lemieux', 'enjoy', 'column', 'effort', 'south', 'lawyer', 'org', 'escrow', 'centris', 'late', 'match', 'hockey']
+['citizen', 'board', 'virtual', 'sp', 'red', 'obo', 'strike', 'radar', 'g', 'dodger', 'begin', 'compuserve', 'se', 'pattern', 'error']
+['produce', 'sea', 'mil', 'combine', 'saturn', 'verify', 'edition', 'decide', 'assume', 'originally', 'hockey', 'appreciate', 'radar', 'dodger', 'effort']
+['fill', 'odd', 'strike', 'jewish', 'shock', 'radar', 'side', 'damage', 'eventually', 'citizen', 'career', 'saturn', 'sin', 'wisdom', 'eric']
+['jewish', 'huge', 'scott', 'saturn', 'career', 'shock', 'large', 'crime', 'radar', 'richard', 'reader', 'strike', 'solution', 'pop', 'rocket']
+['andrew', 'dr', 'bag', 'south', 'late', 'texas', 'meg', 'button', 'arm', 'opinion', 'institute', 'radar', 'eventually', 'potential', 'huge']
+['ide', 'effort', 'bag', 'verify', 'drink', 'minor', 'citizen', 'fool', 'radar', 'ad', 'exactly', 'terrorist', 'deep', 'odd', 'etc']
+['mil', 'h', 'strike', 'org', 'challenge', 'cross', 'locate', 'todo', 'group', 'worry', 'later', 'return', 'camera', 'sin', 'al']
+['citizen', 'locate', 'radar', 'ihave', 'scratch', 'function', 'speak', 'pattern', 'column', 'current', 'million', 'strike', 'visit', 'cost', 'george']
+['bag', 'g', 'understand', 'se', 'ass', 'alternative', 'session', 'chance', 'feature', 'decide', 'wisdom', 'thread', 'ray', 'ihave', 'opinion']
+['upper', 'shuttle', 'dr', 'brian', 'replacement', 'major', 'return', 'membership', 'fool', 'reader', 'damage', 'compuserve', 'verify', 'environment', 'test']
+['interpret', 'tape', 'remind', 'r', 'trip', 'decide', 'verify', 'large', 'inside', 'begin', 'rear', 'everybody', 'effort', 'damage', 'visit']
+['brian', 'fool', 'future', 'email', 'mass', 'mil', 'verify', 'apologize', 'meg', 'lawyer', 'stand', 'pop', 'thought', 'hockey', 'bag']
+['lawyer', 'walk', 'upper', 'blood', 'stage', 'institute', 'lay', 'eric', 'flight', 'saturn', 'opinion', 'practice', 'thread', 'number', 'way']
+['etc', 'bag', 'total', 'ihave', 'raid', 'play', 'radar', 'scott', 'aside', 'edition', 'look', 'incredibly', 'observation', 'take', 'concerned']
+['understand', 'fool', 'bag', 'prediction', 'deep', 'equivalent', 'john', 'statistic', 'remind', 'radar', 'russian', 'brian', 'thread', 'degree', 'smart']
+['citizen', 'medical', 'huge', 'lee', 'personal', 'tm', 'light', 'pop', 'liberal', 'story', 'radar', 'late', 'bush', 'thread', 'large']
+['radar', 'honda', 'motion', 'lawyer', 'mile', 'total', 'ihave', 'promise', 'register', 'read', 'capital', 'citizen', 'kent', 'netter', 'begin']
+['custom', 'statement', 'netter', 'mode', 'radar', 'mit', 'remind', 'membership', 'cadre', 'authority', 'fool', 'army', 'network', 'g', 'love']
+['implement', 'eternal', 'late', 'tm', 'decide', 'bush', 'government', 'reader', 'keyboard', 'se', 'statement', 'french', 'way', 'error', 'saturn']
+['brian', 'statement', 'eventually', 'citizen', 'error', 'application', 'au', 'concern', 'notion', 'rate', 'design', 'addition', 'late', 'speak', 'damage']
+['south', 'experiment', 'un', 'simply', 'behavior', 'brian', 'forgot', 'similar', 'trial', 'peace', 'fool', 'radar', 'code', 'wisdom', 'worry']
+['hockey', 'scott', 'bag', 'america', 'rate', 'statistic', 'brian', 'produce', 'strike', 'radar', 'se', 'saturn', 'solution', 'story', 'excuse']
+['sea', 'number', 'bat', 'strike', 'bag', 'citizen', 'kit', 'statistic', 'mass', 'mit', 'membership', 'advance', 'produce', 'story', 'french']
+['security', 'citizen', 'guy', 'brian', 'look', 'thatthe', 'cell', 'south', 'fool', 'se', 'locate', 'room', 'mass', 'slightly', 'bag']
+['stage', 'trade', 'citizen', 'bob', 'light', 'ihave', 'g', 'promise', 'institute', 'begin', 'strike', 'similar', 'h', 'code', 'technician']
+['strike', 'brian', 'hockey', 'pop', 'promise', 'saturn', 'bob', 'lay', 'april', 'met', 'potential', 'flame', 'dodger', 'operation', 'fool']
+['concern', 'rear', 'knock', 'jewish', 'see', 'love', 'effort', 'andrew', 'wisdom', 'mile', 'observation', 'bag', 'news', 'blood', 'ihave']
+['brian', 'wisdom', 'promise', 'dr', 'scsi', 'late', 'membership', 'ms', 'way', 'citizen', 'bush', 'flame', 'post', 'custom', 'satan']
+['bag', 'exactly', 'politic', 'eternal', 'drink', 'solar', 'ignorance', 'large', 'delay', 'environment', 'hockey', 'verify', 'late', 'opportunity', 'reduce']
+['gas', 'texas', 'wantto', 'strike', 'brian', 'pop', 'institute', 'dr', 'button', 'bag', 'statistic', 'statement', 'medical', 'ok', 'interpret']
+['statement', 'culture', 'scoring', 'everybody', 'strike', 'ihave', 'extra', 'netter', 'clock', 'membership', 'employee', 'edition', 'citizen', 'poor', 'effort']
+['arm', 'data', 'membership', 'strike', 'room', 'technician', 'radar', 'love', 'radio', 'brian', 'comparison', 'accident', 'current', 'drink', 'g']
+['fool', 'way', 'rate', 'citizen', 'lay', 'mass', 'eventually', 'escrow', 'happen', 'ihave', 'org', 'connector', 'fill', 'behavior', 'error']
+['bag', 'citizen', 'mile', 'visit', 'institute', 'plug', 'card', 'island', 'story', 'jewish', 'prediction', 'forgot', 'texas', 'scanner', 'lose']
+['brian', 'netter', 'environment', 'knock', 'verify', 'spring', 'mil', 'forgive', 'belief', 'citizen', 'ihave', 'ryan', 'speak', 'tear', 'particular']
+['strike', 'launch', 'visit', 'radio', 'membership', 'org', 'newspaper', 'ignorance', 'code', 'kent', 'chance', 'april', 'montreal', 'puck', 'verify']
+['mil', 'edition', 'jewish', 'reduce', 'clearly', 'abortion', 'se', 'installation', 'brian', 'radar', 'ihave', 'complaint', 'little', 'netter', 'verify']
+['technician', 'strange', 'statement', 'broken', 'huge', 'fool', 'french', 'ignorance', 'illegal', 'enjoy', 'find', 'brain', 'etc', 'visit', 'locate']
+['blood', 'column', 'mil', 'se', 'resistor', 'bag', 'etc', 'lucky', 'crime', 'delay', 'membership', 'interpretation', 'destroy', 'hockey', 'trip']
+['drink', 'peace', 'compuserve', 'escrow', 'brian', 'odd', 'delay', 'citizen', 'saturn', 'non', 'statistic', 'ihave', 'portable', 'radar', 'security']
+['eternal', 'se', 'citizen', 'room', 'russian', 'institute', 'default', 'spring', 'implement', 'lose', 'upgrade', 'tm', 'wisdom', 'column', 'bomb']
+['mass', 'graphic', 'statement', 'figure', 'blame', 'mile', 'implement', 'feature', 'light', 'side', 'visit', 'ame', 'way', 'user', 'brian']
+['advance', 'equivalent', 'lay', 'career', 'potential', 'au', 'bag', 'richard', 'murder', 'presence', 'honda', 'cut', 'huge', 'produce', 'capital']
+['fool', 'restriction', 'flame', 'number', 'statistic', 'trade', 'light', 'monitor', 'brian', 'apply', 'citizen', 'cross', 'group', 'apple', 'satan']
+['hi', 'tm', 'bag', 'strike', 'story', 'basically', 'politic', 'citizen', 'remind', 'engineer', 'ray', 'trial', 'radar', 'term', 'apologize']
+['strike', 'welcome', 'bag', 'visit', 'medical', 'symptom', 'radar', 'mass', 'reader', 'verify', 'cross', 'stand', 'gee', 'enjoy', 'parent']
+['sure', 'medical', 'implement', 'citizen', 'lemieux', 'solution', 'xterm', 'mil', 'story', 'g', 'custom', 'jew', 'verify', 'montreal', 'future']
+['medical', 'russian', 'reader', 'story', 'driver', 'culture', 'lemieux', 'strike', 'repair', 'gas', 'citizen', 'lift', 'edition', 'jewish', 'statistic']
+['huge', 'citizen', 'implement', 'opinion', 'compuserve', 'blood', 'column', 'reader', 'idiot', 'se', 'mass', 'abortion', 'shuttle', 'texas', 'radar']
+['institute', 'radar', 'additional', 'scott', 'g', 'citizen', 'career', 'wisdom', 'south', 'thread', 'play', 'short', 'replacement', 'hitler', 'feature']
+['radio', 'culture', 'ignorance', 'fat', 'dr', 'french', 'begin', 'fool', 'total', 'treat', 'pretty', 'behavior', 'status', 'citizen', 'clearly']
+['effort', 'comparison', 'radar', 'mil', 'imo', 'baud', 'eternal', 'worry', 'copyright', 'fan', 'delay', 'smart', 'hockey', 'radio', 'mike']
+==============================
+topic diversity:0.29733333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3558493548699308, c_w2v:None, c_uci:-9.270314246358835, c_npmi:-0.32690126684098836
+mimno topic coherence:-300.33151252925546
+Epoch  11	Iter    1	Loss_D:-0.0955135	Loss_G:0.0403971	loss_E:0.0554632
+Epoch  11	Iter   11	Loss_D:-0.0930066	Loss_G:0.0407282	loss_E:0.0526430
+Epoch  11	Iter   21	Loss_D:-0.0938236	Loss_G:0.0410949	loss_E:0.0530717
+Epoch  12	Iter    1	Loss_D:-0.0937195	Loss_G:0.0405588	loss_E:0.0535130
+Epoch  12	Iter   11	Loss_D:-0.0942608	Loss_G:0.0409328	loss_E:0.0536509
+Epoch  12	Iter   21	Loss_D:-0.0939490	Loss_G:0.0411829	loss_E:0.0530936
+Epoch  13	Iter    1	Loss_D:-0.0938685	Loss_G:0.0411426	loss_E:0.0530358
+Epoch  13	Iter   11	Loss_D:-0.0925925	Loss_G:0.0412387	loss_E:0.0516915
+Epoch  13	Iter   21	Loss_D:-0.0933926	Loss_G:0.0416657	loss_E:0.0520577
+Epoch  14	Iter    1	Loss_D:-0.0940914	Loss_G:0.0414520	loss_E:0.0529641
+Epoch  14	Iter   11	Loss_D:-0.0946415	Loss_G:0.0419994	loss_E:0.0529455
+Epoch  14	Iter   21	Loss_D:-0.0956301	Loss_G:0.0416746	loss_E:0.0542446
+Epoch  15	Iter    1	Loss_D:-0.0959884	Loss_G:0.0417995	loss_E:0.0545171
+Epoch  15	Iter   11	Loss_D:-0.0945195	Loss_G:0.0424073	loss_E:0.0524348
+Epoch  15	Iter   21	Loss_D:-0.0930105	Loss_G:0.0424481	loss_E:0.0508415
+Epoch  16	Iter    1	Loss_D:-0.0931932	Loss_G:0.0417679	loss_E:0.0517538
+Epoch  16	Iter   11	Loss_D:-0.0939894	Loss_G:0.0422580	loss_E:0.0520338
+Epoch  16	Iter   21	Loss_D:-0.0949658	Loss_G:0.0420792	loss_E:0.0531807
+Epoch  17	Iter    1	Loss_D:-0.0944075	Loss_G:0.0416414	loss_E:0.0530531
+Epoch  17	Iter   11	Loss_D:-0.0936092	Loss_G:0.0420811	loss_E:0.0518078
+Epoch  17	Iter   21	Loss_D:-0.0948558	Loss_G:0.0425888	loss_E:0.0525563
+Epoch  18	Iter    1	Loss_D:-0.0942803	Loss_G:0.0421148	loss_E:0.0524789
+Epoch  18	Iter   11	Loss_D:-0.0943878	Loss_G:0.0423206	loss_E:0.0523545
+Epoch  18	Iter   21	Loss_D:-0.0937010	Loss_G:0.0421727	loss_E:0.0518383
+Epoch  19	Iter    1	Loss_D:-0.0927675	Loss_G:0.0423895	loss_E:0.0506601
+Epoch  19	Iter   11	Loss_D:-0.0931820	Loss_G:0.0419028	loss_E:0.0515947
+Epoch  19	Iter   21	Loss_D:-0.0925930	Loss_G:0.0413889	loss_E:0.0515107
+Epoch  20	Iter    1	Loss_D:-0.0950069	Loss_G:0.0417349	loss_E:0.0535670
+Epoch  20	Iter   11	Loss_D:-0.0912091	Loss_G:0.0415664	loss_E:0.0499249
+Epoch  20	Iter   21	Loss_D:-0.0941701	Loss_G:0.0418754	loss_E:0.0525629
+Epoch  20	Loss_D_avg:-0.0785389	Loss_G_avg:0.0320188	loss_E_avg:0.0470662
+['potential', 'launch', 'institute', 'brian', 'shall', 'motion', 'bag', 'safety', 'au', 'turkey', 'statistic', 'g', 'drink', 'trip', 'mil']
+['texas', 'accident', 'mil', 'catalog', 'liberal', 'south', 'citizen', 'saturn', 'produce', 'dr', 'custom', 'feature', 'environment', 'strike', 'huge']
+['dr', 'south', 'reader', 'montreal', 'fool', 'okay', 'bag', 'tank', 'begin', 'iii', 'andrew', 'environment', 'victim', 'ignorance', 'netter']
+['bag', 'implement', 'match', 'rear', 'escrow', 'etc', 'everybody', 'satan', 'keyboard', 'assumption', 'non', 'brian', 'nonsense', 'future', 'toyota']
+['pop', 'nubus', 'strike', 'pattern', 'brian', 'curve', 'european', 'au', 'rear', 'potential', 'safe', 'colorado', 'inch', 'statistic', 'r']
+['dan', 'thought', 'opinion', 'texas', 'promise', 'scanner', 'visit', 'strike', 'fill', 'bag', 'verify', 'saturn', 'totally', 'gas', 'motion']
+['promise', 'south', 'design', 'army', 'dr', 'inch', 'lawyer', 'richard', 'texas', 'visit', 'radar', 'jewish', 'mass', 'reader', 'mil']
+['institute', 'scanner', 'strike', 'particular', 'south', 'alarm', 'multiple', 'chance', 'prediction', 'available', 'look', 'huge', 'fix', 'bob', 'mit']
+['citizen', 'strike', 'additional', 'pt', 'error', 'edition', 'custom', 'decent', 'shock', 'fantasy', 'russian', 'design', 'middle', 'guy', 'rear']
+['fool', 'medical', 'bag', 'completely', 'dodger', 'ps', 'se', 'lawyer', 'million', 'neighbor', 'solution', 'destroy', 'wire', 'match', 'radar']
+['citizen', 'pop', 'scott', 'match', 'dodger', 'fat', 'kit', 'eric', 'eventually', 'strike', 'ms', 'se', 'bag', 'sexual', 'r']
+['bag', 'statistic', 'israel', 'lay', 'radar', 'bush', 'custom', 'terrorist', 'andrew', 'effort', 'predict', 'converter', 'tm', 'assume', 'vax']
+['drink', 'cage', 'trace', 'slightly', 'terrorist', 'strike', 'culture', 'army', 'pop', 'repair', 'motion', 'dr', 'screw', 'produce', 'bag']
+['south', 'effort', 'belong', 'mil', 'shock', 'bag', 'saturn', 'dodger', 'obo', 'million', 'montreal', 'jewish', 'lay', 'pop', 'slightly']
+['org', 'eventually', 'cage', 'bag', 'statistic', 'dodger', 'pattern', 'pop', 'dr', 'strike', 'culture', 'multi', 'ohio', 'side', 'fat']
+['mil', 'lawyer', 'everybody', 'meg', 'cross', 'totally', 'produce', 'au', 'spring', 'rear', 'compuserve', 'excuse', 'implement', 'total', 'fool']
+['data', 'multiple', 'way', 'se', 'self', 'bag', 'observation', 'french', 'forgot', 'slightly', 'custom', 'lose', 'tower', 'scanner', 'chance']
+['south', 'brian', 'distribution', 'surrender', 'dr', 'saturn', 'fat', 'huge', 'observation', 'career', 'camera', 'winner', 'custom', 'christ', 'r']
+['slightly', 'ad', 'etc', 'bag', 'puck', 'operation', 'promise', 'dr', 'fill', 'prize', 'damage', 'side', 'way', 'connector', 'paint']
+['mass', 'south', 'tm', 'citizen', 'implement', 'israel', 'g', 'rate', 'damage', 'neighbor', 'ihave', 'hitler', 'institute', 'mile', 'radar']
+['number', 'strike', 'thread', 'andrew', 'produce', 'everybody', 'drink', 'fill', 'blood', 'etc', 'experiment', 'behavior', 'clearly', 'radar', 'spring']
+['eventually', 'puck', 'pt', 'mil', 'believer', 'jewish', 'visit', 'dr', 'promise', 'effort', 'winner', 'lawyer', 'begin', 'outside', 'blood']
+['gas', 'strike', 'org', 'promise', 'israel', 'radar', 'lawyer', 'basically', 'ofa', 'multiple', 'decent', 'custom', 'dr', 'finally', 'delay']
+['notion', 'french', 'strike', 'thoma', 'science', 'blood', 'yesterday', 'side', 'saturn', 'texas', 'fat', 'produce', 'islander', 'cica', 'huge']
+['puck', 'visit', 'statistic', 'richard', 'million', 'scsi', 'eternal', 'side', 'love', 'dodger', 'multiple', 'large', 'mil', 'montreal', 'path']
+['strike', 'blood', 'medical', 'bag', 'code', 'semi', 'eternal', 'bomb', 'hockey', 'button', 'curve', 'institute', 'mil', 'ame', 'chance']
+['bag', 'strike', 'membership', 'lay', 'montreal', 'implement', 'fool', 'prize', 'south', 'locate', 'comparison', 'pop', 'eternal', 'french', 'hockey']
+['bag', 'notion', 'switch', 'texas', 'poor', 'produce', 'satan', 'spring', 'walk', 'twin', 'lemieux', 'netter', 'blue', 'se', 'speak']
+['ray', 'jewish', 'love', 'apply', 'mil', 'dodger', 'fantasy', 'fill', 'scsi', 'match', 'total', 'g', 'context', 'locate', 'strike']
+['screw', 'bag', 'escrow', 'montreal', 'citizen', 'iii', 'match', 'implement', 'visit', 'ray', 'bomb', 'huge', 'ignorance', 'shuttle', 'fool']
+['eternal', 'hockey', 'medical', 'way', 'later', 'ad', 'trip', 'restriction', 'stat', 'membership', 'drink', 'lucky', 'reader', 'slightly', 'red']
+['bag', 'shuttle', 'eternal', 'bomb', 'trip', 'flight', 'input', 'clear', 'experiment', 'compuserve', 'book', 'eisa', 'discover', 'launch', 'account']
+['brian', 'mil', 'peace', 'blood', 'lay', 'radar', 'additional', 'worry', 'culture', 'scott', 'apple', 'south', 'stage', 'believer', 'way']
+['victim', 'fool', 'citizen', 'terrorist', 'potential', 'door', 'pop', 'gas', 'ms', 'fault', 'trace', 'nazi', 'match', 'lawyer', 'ad']
+['strike', 'treat', 'brian', 'institute', 'love', 'texas', 'forsale', 'lawyer', 'radar', 'bag', 'fill', 'ignorance', 'writing', 'andrew', 'heaven']
+['centris', 'bag', 'liberal', 'help', 'membership', 'plug', 'implement', 'tm', 'feature', 'completely', 'effort', 'promise', 'institute', 'eternal', 'upper']
+['israel', 'g', 'andrew', 'fat', 'chance', 'texas', 'thread', 'dr', 'addition', 'lh', 'scott', 'smart', 'brian', 'potential', 'walk']
+['strike', 'challenge', 'puck', 'understand', 'bush', 'totally', 'netter', 'tim', 'statistic', 'see', 'max', 'regardless', 'radio', 'forsale', 'fat']
+['way', 'additional', 'tm', 'dr', 'brian', 'bag', 'produce', 'eternal', 'institute', 'netter', 'statistic', 'pop', 'clearly', 'decision', 'lay']
+['eternal', 'advance', 'effort', 'brian', 'replacement', 'reader', 'treat', 'cpu', 'fool', 'lawyer', 'hp', 'south', 'everybody', 'play', 'show']
+['bag', 'hockey', 'clearly', 'vax', 'lay', 'similar', 'citizen', 'eventually', 'damage', 'eternal', 'visit', 'match', 'strange', 'obo', 'mass']
+['book', 'cult', 'bag', 'effort', 'okay', 'pt', 'scanner', 'error', 'netter', 'completely', 'concern', 'mil', 'ihave', 'begin', 'forgot']
+['medical', 'belief', 'ring', 'ya', 'okay', 'citizen', 'shock', 'french', 'implement', 'tm', 'sin', 'remind', 'culture', 'mile', 'eventually']
+['bag', 'fool', 'moment', 'dr', 'brian', 'clock', 'ability', 'drink', 'mass', 'promise', 'multiple', 'curve', 'strike', 'radar', 'somewhat']
+['satan', 'assume', 'truck', 'mil', 'quickly', 'accident', 'path', 'dr', 'eternal', 'room', 'waco', 'idiot', 'strike', 'month', 'blind']
+['idiot', 'bag', 'award', 'lay', 'mil', 'eventually', 'thread', 'generally', 'liberal', 'clearly', 'sex', 'spring', 'mit', 'institute', 'remind']
+['citizen', 'fault', 'strike', 'opinion', 'produce', 'ihave', 'actual', 'see', 'montreal', 'doubt', 'rid', 'turbo', 'cica', 'notion', 'japanese']
+['pop', 'enjoy', 'lawyer', 'south', 'da', 'lemieux', 'speak', 'escrow', 'effort', 'org', 'match', 'centris', 'justice', 'brian', 'lay']
+['citizen', 'obo', 'virtual', 'sp', 'radar', 'strike', 'dodger', 'board', 'red', 'pattern', 'compuserve', 'south', 'se', 'g', 'locate']
+['saturn', 'mil', 'sea', 'edition', 'produce', 'dodger', 'radar', 'implement', 'decide', 'assume', 'hockey', 'bomb', 'appreciate', 'originally', 'effort']
+['fill', 'strike', 'odd', 'radar', 'jewish', 'shock', 'eventually', 'side', 'career', 'damage', 'saturn', 'eternal', 'fool', 'eric', 'citizen']
+['saturn', 'jewish', 'scott', 'huge', 'career', 'radar', 'richard', 'strike', 'shock', 'large', 'promise', 'reader', 'pop', 'rocket', 'crime']
+['andrew', 'dr', 'bag', 'south', 'texas', 'potential', 'radar', 'institute', 'eventually', 'huge', 'button', 'meg', 'late', 'edition', 'puck']
+['ide', 'bag', 'effort', 'drink', 'minor', 'radar', 'fool', 'citizen', 'verify', 'ad', 'deep', 'statistic', 'odd', 'strike', 'brian']
+['mil', 'strike', 'challenge', 'org', 'h', 'camera', 'locate', 'cross', 'fear', 'fool', 'worry', 'lay', 'thoma', 'portable', 'sin']
+['citizen', 'locate', 'radar', 'pattern', 'strike', 'ihave', 'scratch', 'visit', 'million', 'satan', 'eternal', 'equal', 'function', 'speak', 'implement']
+['bag', 'ass', 'se', 'g', 'session', 'understand', 'alternative', 'ray', 'chance', 'feature', 'neighbor', 'motion', 'culture', 'thread', 'stock']
+['shuttle', 'replacement', 'brian', 'upper', 'fool', 'dr', 'damage', 'compuserve', 'return', 'membership', 'major', 'reader', 'tx', 'org', 'richard']
+['interpret', 'remind', 'tape', 'trip', 'r', 'everybody', 'inside', 'decide', 'visit', 'damage', 'edition', 'stage', 'culture', 'rear', 'large']
+['brian', 'fool', 'mil', 'mass', 'future', 'meg', 'lawyer', 'bag', 'email', 'pop', 'radar', 'apologize', 'stand', 'washington', 'thought']
+['lawyer', 'institute', 'walk', 'stage', 'lay', 'saturn', 'blood', 'eric', 'flight', 'puck', 'upper', 'smart', 'potential', 'thread', 'way']
+['bag', 'total', 'etc', 'ihave', 'radar', 'observation', 'scott', 'edition', 'aside', 'eternal', 'pattern', 'strike', 'obo', 'pop', 'south']
+['understand', 'bag', 'fool', 'prediction', 'deep', 'equivalent', 'statistic', 'remind', 'radar', 'brian', 'drink', 'smart', 'russian', 'joe', 'degree']
+['huge', 'citizen', 'medical', 'tm', 'liberal', 'pop', 'radar', 'personal', 'light', 'met', 'bush', 'mom', 'au', 'story', 'slightly']
+['radar', 'motion', 'lawyer', 'honda', 'promise', 'mile', 'total', 'register', 'ihave', 'fed', 'citizen', 'bomb', 'read', 'andrew', 'saturn']
+['custom', 'netter', 'radar', 'remind', 'statement', 'fool', 'mit', 'mode', 'eisa', 'army', 'bag', 'cadre', 'authority', 'mormon', 'membership']
+['implement', 'eternal', 'tm', 'french', 'bush', 'saturn', 'late', 'se', 'reader', 'keyboard', 'decide', 'government', 'way', 'puck', 'statement']
+['brian', 'statement', 'eventually', 'au', 'citizen', 'error', 'notion', 'bag', 'concern', 'addition', 'dodger', 'match', 'pattern', 'application', 'damage']
+['south', 'experiment', 'un', 'behavior', 'brian', 'radar', 'fool', 'bag', 'simply', 'similar', 'trial', 'forgot', 'peace', 'worry', 'eternal']
+['scott', 'hockey', 'bag', 'america', 'saturn', 'strike', 'rate', 'statistic', 'radar', 'brian', 'se', 'institute', 'pattern', 'produce', 'fool']
+['sea', 'strike', 'bag', 'bat', 'statistic', 'number', 'kit', 'norton', 'citizen', 'mass', 'french', 'promise', 'surrender', 'mit', 'brian']
+['citizen', 'security', 'guy', 'brian', 'thatthe', 'cell', 'fool', 'south', 'eternal', 'bag', 'se', 'locate', 'puck', 'slightly', 'european']
+['stage', 'citizen', 'institute', 'strike', 'promise', 'trade', 'bob', 'ihave', 'light', 'g', 'interpret', 'org', 'allen', 'soldier', 'mil']
+['strike', 'brian', 'saturn', 'promise', 'pop', 'hockey', 'met', 'potential', 'lay', 'fool', 'dodger', 'bob', 'operation', 'april', 'tower']
+['knock', 'rear', 'concern', 'jewish', 'andrew', 'love', 'effort', 'see', 'bag', 'observation', 'eternal', 'puck', 'south', 'scanner', 'mile']
+['brian', 'promise', 'dr', 'citizen', 'scsi', 'custom', 'satan', 'late', 'way', 'bush', 'ms', 'membership', 'flame', 'slightly', 'fat']
+['bag', 'eternal', 'drink', 'solar', 'delay', 'ignorance', 'exactly', 'politic', 'alomar', 'lawyer', 'environment', 'edition', 'button', 'neighbor', 'bomb']
+['texas', 'strike', 'gas', 'brian', 'wantto', 'institute', 'pop', 'bag', 'statistic', 'dr', 'button', 'interpret', 'medical', 'sp', 'potential']
+['culture', 'statement', 'strike', 'everybody', 'ihave', 'netter', 'extra', 'scoring', 'edition', 'clock', 'citizen', 'implement', 'membership', 'sea', 'fool']
+['arm', 'strike', 'radar', 'data', 'brian', 'room', 'drink', 'membership', 'comparison', 'accident', 'dodger', 'bag', 'radio', 'love', 'stage']
+['fool', 'way', 'eventually', 'lay', 'escrow', 'citizen', 'rate', 'mass', 'connector', 'mil', 'org', 'career', 'bag', 'au', 'behavior']
+['bag', 'citizen', 'visit', 'institute', 'mile', 'plug', 'scanner', 'card', 'prediction', 'island', 'lawyer', 'texas', 'fool', 'jewish', 'tube']
+['brian', 'netter', 'knock', 'environment', 'spring', 'mil', 'tear', 'ray', 'lawyer', 'remind', 'mormon', 'ryan', 'citizen', 'ihave', 'fool']
+['strike', 'launch', 'visit', 'radio', 'ignorance', 'newspaper', 'puck', 'org', 'montreal', 'kent', 'membership', 'huge', 'shuttle', 'fool', 'spring']
+['mil', 'edition', 'radar', 'brian', 'se', 'dodger', 'clearly', 'abortion', 'jewish', 'reduce', 'ihave', 'pop', 'netter', 'scanner', 'complaint']
+['strange', 'huge', 'fool', 'broken', 'statement', 'technician', 'french', 'ignorance', 'enjoy', 'visit', 'illegal', 'locate', 'brain', 'army', 'radar']
+['blood', 'mil', 'bag', 'se', 'delay', 'lucky', 'interpretation', 'trip', 'institute', 'fed', 'etc', 'column', 'destroy', 'crime', 'total']
+['drink', 'peace', 'escrow', 'compuserve', 'brian', 'saturn', 'delay', 'odd', 'statistic', 'radar', 'citizen', 'portable', 'scott', 'environment', 'ihave']
+['eternal', 'se', 'citizen', 'institute', 'russian', 'room', 'default', 'spring', 'implement', 'tm', 'bomb', 'ray', 'liberal', 'shock', 'upgrade']
+['mass', 'graphic', 'implement', 'blame', 'visit', 'mile', 'satan', 'brian', 'side', 'feature', 'statement', 'statistic', 'ame', 'bag', 'ray']
+['advance', 'equivalent', 'au', 'lay', 'career', 'bag', 'potential', 'richard', 'huge', 'visit', 'honda', 'challenge', 'murder', 'cut', 'army']
+['fool', 'statistic', 'brian', 'flame', 'number', 'restriction', 'camera', 'light', 'citizen', 'trade', 'satan', 'instrument', 'cross', 'monitor', 'apply']
+['tm', 'bag', 'strike', 'hi', 'remind', 'ray', 'bomb', 'radar', 'basically', 'politic', 'citizen', 'brian', 'story', 'engineer', 'trial']
+['strike', 'bag', 'welcome', 'visit', 'radar', 'medical', 'drink', 'copyright', 'gee', 'symptom', 'institute', 'enjoy', 'mass', 'reader', 'cross']
+['implement', 'medical', 'sure', 'citizen', 'mil', 'lemieux', 'xterm', 'custom', 'montreal', 'edition', 'solution', 'g', 'dodger', 'story', 'french']
+['medical', 'russian', 'reader', 'strike', 'culture', 'eternal', 'repair', 'edition', 'mil', 'story', 'statistic', 'driver', 'potential', 'bag', 'lemieux']
+['huge', 'citizen', 'implement', 'opinion', 'compuserve', 'idiot', 'reader', 'blood', 'se', 'mass', 'shuttle', 'abortion', 'radar', 'saturn', 'bag']
+['institute', 'radar', 'scott', 'career', 'south', 'additional', 'replacement', 'citizen', 'hitler', 'g', 'statistic', 'thread', 'spring', 'implement', 'probe']
+['culture', 'radio', 'ignorance', 'fool', 'french', 'fat', 'dr', 'bag', 'behavior', 'treat', 'status', 'total', 'begin', 'lay', 'citizen']
+['effort', 'comparison', 'mil', 'radar', 'eternal', 'copyright', 'delay', 'smart', 'fan', 'bag', 'worry', 'imo', 'se', 'flight', 'baud']
+==============================
+topic diversity:0.268
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3873967136206807, c_w2v:None, c_uci:-10.293194641915413, c_npmi:-0.3628816461093406
+mimno topic coherence:-317.78283651440114
+Epoch  21	Iter    1	Loss_D:-0.0937924	Loss_G:0.0418104	loss_E:0.0522541
+Epoch  21	Iter   11	Loss_D:-0.0916879	Loss_G:0.0414523	loss_E:0.0505283
+Epoch  21	Iter   21	Loss_D:-0.0912463	Loss_G:0.0410212	loss_E:0.0504921
+Epoch  22	Iter    1	Loss_D:-0.0915670	Loss_G:0.0413691	loss_E:0.0504778
+Epoch  22	Iter   11	Loss_D:-0.0908450	Loss_G:0.0410728	loss_E:0.0500550
+Epoch  22	Iter   21	Loss_D:-0.0931000	Loss_G:0.0413620	loss_E:0.0520116
+Epoch  23	Iter    1	Loss_D:-0.0921153	Loss_G:0.0410653	loss_E:0.0513301
+Epoch  23	Iter   11	Loss_D:-0.0914081	Loss_G:0.0406015	loss_E:0.0510939
+Epoch  23	Iter   21	Loss_D:-0.0902570	Loss_G:0.0404964	loss_E:0.0500371
+Epoch  24	Iter    1	Loss_D:-0.0908296	Loss_G:0.0404217	loss_E:0.0506909
+Epoch  24	Iter   11	Loss_D:-0.0906921	Loss_G:0.0404691	loss_E:0.0504960
+Epoch  24	Iter   21	Loss_D:-0.0910319	Loss_G:0.0396833	loss_E:0.0516445
+Epoch  25	Iter    1	Loss_D:-0.0890402	Loss_G:0.0399600	loss_E:0.0493724
+Epoch  25	Iter   11	Loss_D:-0.0915140	Loss_G:0.0400006	loss_E:0.0517786
+Epoch  25	Iter   21	Loss_D:-0.0897631	Loss_G:0.0390699	loss_E:0.0509668
+Epoch  26	Iter    1	Loss_D:-0.0902032	Loss_G:0.0394679	loss_E:0.0510117
+Epoch  26	Iter   11	Loss_D:-0.0887048	Loss_G:0.0391651	loss_E:0.0498277
+Epoch  26	Iter   21	Loss_D:-0.0883233	Loss_G:0.0391467	loss_E:0.0494578
+Epoch  27	Iter    1	Loss_D:-0.0901612	Loss_G:0.0394677	loss_E:0.0509715
+Epoch  27	Iter   11	Loss_D:-0.0892596	Loss_G:0.0389335	loss_E:0.0506377
+Epoch  27	Iter   21	Loss_D:-0.0894998	Loss_G:0.0382712	loss_E:0.0515119
+Epoch  28	Iter    1	Loss_D:-0.0887024	Loss_G:0.0387331	loss_E:0.0502376
+Epoch  28	Iter   11	Loss_D:-0.0868927	Loss_G:0.0379702	loss_E:0.0491978
+Epoch  28	Iter   21	Loss_D:-0.0891692	Loss_G:0.0379039	loss_E:0.0515480
+Epoch  29	Iter    1	Loss_D:-0.0858707	Loss_G:0.0370599	loss_E:0.0490727
+Epoch  29	Iter   11	Loss_D:-0.0868285	Loss_G:0.0374991	loss_E:0.0496242
+Epoch  29	Iter   21	Loss_D:-0.0872010	Loss_G:0.0375945	loss_E:0.0499289
+Epoch  30	Iter    1	Loss_D:-0.0862019	Loss_G:0.0377207	loss_E:0.0488149
+Epoch  30	Iter   11	Loss_D:-0.0872020	Loss_G:0.0367766	loss_E:0.0507154
+Epoch  30	Iter   21	Loss_D:-0.0840870	Loss_G:0.0367814	loss_E:0.0475806
+Epoch  30	Loss_D_avg:-0.0822170	Loss_G_avg:0.0344831	loss_E_avg:0.0481927
+['potential', 'institute', 'bag', 'au', 'motion', 'brian', 'statistic', 'launch', 'drink', 'mil', 'shall', 'islander', 'turkey', 'trip', 'copyright']
+['saturn', 'texas', 'mil', 'catalog', 'accident', 'liberal', 'south', 'custom', 'institute', 'citizen', 'strike', 'met', 'huge', 'dr', 'notion']
+['south', 'dr', 'fool', 'bag', 'montreal', 'reader', 'iii', 'ignorance', 'okay', 'netter', 'andrew', 'unknown', 'victim', 'tank', 'radar']
+['bag', 'implement', 'match', 'satan', 'escrow', 'rear', 'everybody', 'assumption', 'toyota', 'nonsense', 'etc', 'keyboard', 'vax', 'brian', 'motion']
+['nubus', 'pattern', 'curve', 'pop', 'strike', 'au', 'potential', 'statistic', 'brian', 'european', 'extension', 'institute', 'converter', 'prediction', 'safe']
+['dan', 'scanner', 'thought', 'promise', 'bag', 'saturn', 'texas', 'strike', 'opinion', 'visit', 'puck', 'fill', 'motion', 'mil', 'totally']
+['promise', 'south', 'lawyer', 'army', 'design', 'richard', 'dr', 'inch', 'radar', 'mil', 'warranty', 'bag', 'texas', 'potential', 'visit']
+['scanner', 'institute', 'strike', 'prediction', 'particular', 'south', 'alarm', 'multiple', 'huge', 'chance', 'radar', 'available', 'custom', 'look', 'bob']
+['citizen', 'pt', 'strike', 'additional', 'custom', 'edition', 'lawyer', 'fantasy', 'decent', 'eventually', 'error', 'radar', 'ray', 'brian', 'dodger']
+['fool', 'bag', 'medical', 'lawyer', 'dodger', 'neighbor', 'completely', 'ps', 'tiff', 'radar', 'se', 'match', 'drink', 'islander', 'met']
+['citizen', 'pop', 'scott', 'dodger', 'match', 'eventually', 'bag', 'sexual', 'strike', 'fat', 'kit', 'eric', 'ms', 'cylinder', 'se']
+['bag', 'statistic', 'lay', 'radar', 'israel', 'custom', 'converter', 'tm', 'bush', 'eternal', 'vax', 'management', 'stock', 'andrew', 'saturn']
+['drink', 'cage', 'trace', 'slightly', 'strike', 'bag', 'culture', 'motion', 'pop', 'army', 'repair', 'radar', 'terrorist', 'observation', 'bomb']
+['south', 'mil', 'belong', 'bag', 'saturn', 'effort', 'obo', 'lay', 'dodger', 'montreal', 'potential', 'pop', 'instrument', 'edition', 'ray']
+['eventually', 'org', 'cage', 'bag', 'statistic', 'pattern', 'dodger', 'pop', 'strike', 'ohio', 'dr', 'multi', 'culture', 'institute', 'observation']
+['mil', 'lawyer', 'everybody', 'meg', 'au', 'compuserve', 'totally', 'fool', 'french', 'puck', 'spring', 'scanner', 'cross', 'prediction', 'implement']
+['bag', 'multiple', 'data', 'observation', 'se', 'french', 'way', 'scanner', 'tower', 'custom', 'forgot', 'slightly', 'self', 'bomb', 'tm']
+['south', 'saturn', 'brian', 'distribution', 'surrender', 'observation', 'camera', 'career', 'scanner', 'huge', 'dr', 'winner', 'fat', 'statistic', 'potential']
+['slightly', 'puck', 'bag', 'ad', 'promise', 'prize', 'operation', 'etc', 'mil', 'eventually', 'dr', 'fill', 'side', 'connector', 'ray']
+['mass', 'south', 'tm', 'neighbor', 'implement', 'citizen', 'institute', 'radar', 'hitler', 'ihave', 'potential', 'pattern', 'g', 'damage', 'remark']
+['number', 'strike', 'andrew', 'everybody', 'drink', 'thread', 'mil', 'produce', 'radar', 'experiment', 'institute', 'spring', 'pt', 'fill', 'behavior']
+['eventually', 'puck', 'pt', 'mil', 'lawyer', 'winner', 'believer', 'promise', 'visit', 'motion', 'jewish', 'dr', 'ihave', 'united', 'effort']
+['lawyer', 'radar', 'strike', 'promise', 'org', 'delay', 'ofa', 'tiff', 'tough', 'multiple', 'custom', 'saturn', 'gas', 'richard', 'lay']
+['notion', 'french', 'strike', 'thoma', 'saturn', 'side', 'cica', 'yesterday', 'islander', 'fat', 'texas', 'science', 'huge', 'blood', 'lay']
+['puck', 'statistic', 'visit', 'richard', 'eternal', 'million', 'scsi', 'mil', 'dodger', 'side', 'francis', 'met', 'fool', 'montreal', 'royal']
+['strike', 'bag', 'eternal', 'mil', 'curve', 'blood', 'semi', 'institute', 'medical', 'bomb', 'download', 'button', 'strip', 'lay', 'ide']
+['bag', 'strike', 'lay', 'prize', 'montreal', 'fool', 'implement', 'south', 'membership', 'eternal', 'locate', 'pop', 'french', 'edit', 'huge']
+['bag', 'notion', 'texas', 'switch', 'satan', 'poor', 'spring', 'netter', 'twin', 'produce', 'mil', 'radar', 'strike', 'deep', 'sp']
+['ray', 'mil', 'jewish', 'dodger', 'love', 'apply', 'fantasy', 'database', 'match', 'fill', 'scsi', 'tower', 'locate', 'strike', 'islander']
+['bag', 'screw', 'escrow', 'montreal', 'iii', 'ray', 'ignorance', 'match', 'citizen', 'implement', 'visit', 'huge', 'bomb', 'scanner', 'fool']
+['eternal', 'medical', 'hockey', 'drink', 'way', 'trip', 'lucky', 'slightly', 'ad', 'bag', 'later', 'repair', 'stat', 'bomb', 'saturn']
+['bag', 'eternal', 'shuttle', 'bomb', 'compuserve', 'trip', 'flight', 'experiment', 'eisa', 'discover', 'clear', 'input', 'everybody', 'hmm', 'accident']
+['brian', 'mil', 'lay', 'radar', 'culture', 'scott', 'peace', 'south', 'statistic', 'toyota', 'curve', 'converter', 'stage', 'additional', 'accurate']
+['victim', 'fool', 'potential', 'citizen', 'lawyer', 'pop', 'door', 'curve', 'terrorist', 'mil', 'trace', 'spring', 'eventually', 'match', 'idiot']
+['strike', 'lawyer', 'institute', 'bag', 'radar', 'forsale', 'brian', 'treat', 'ignorance', 'texas', 'drink', 'fill', 'writing', 'eventually', 'love']
+['bag', 'liberal', 'centris', 'tm', 'help', 'plug', 'implement', 'eternal', 'institute', 'promise', 'feature', 'effort', 'lay', 'copyright', 'completely']
+['andrew', 'israel', 'fat', 'g', 'texas', 'smart', 'potential', 'chance', 'dr', 'thread', 'lh', 'scott', 'addition', 'brian', 'south']
+['strike', 'challenge', 'puck', 'totally', 'bush', 'tim', 'netter', 'statistic', 'understand', 'andi', 'institute', 'forsale', 'regardless', 'max', 'fat']
+['tm', 'way', 'additional', 'bag', 'eternal', 'institute', 'dr', 'statistic', 'brian', 'netter', 'lay', 'potential', 'prize', 'pop', 'produce']
+['eternal', 'brian', 'replacement', 'advance', 'effort', 'reader', 'lawyer', 'fool', 'treat', 'mil', 'bag', 'cpu', 'smart', 'prediction', 'statistic']
+['bag', 'hockey', 'vax', 'lay', 'clearly', 'eventually', 'similar', 'eternal', 'citizen', 'strange', 'obo', 'visit', 'match', 'damage', 'download']
+['bag', 'cult', 'scanner', 'pt', 'netter', 'mil', 'book', 'okay', 'effort', 'radar', 'french', 'forgot', 'concern', 'error', 'ihave']
+['medical', 'ring', 'french', 'tm', 'belief', 'okay', 'implement', 'citizen', 'lawyer', 'remind', 'eventually', 'ya', 'culture', 'shock', 'sin']
+['bag', 'fool', 'moment', 'drink', 'dr', 'brian', 'curve', 'radar', 'promise', 'volvo', 'clock', 'ignorance', 'strike', 'multiple', 'motion']
+['satan', 'mil', 'truck', 'assume', 'accident', 'eternal', 'path', 'catalog', 'quickly', 'dr', 'strike', 'bag', 'idiot', 'tim', 'waco']
+['bag', 'idiot', 'lay', 'mil', 'eventually', 'award', 'liberal', 'spring', 'institute', 'fool', 'eternal', 'generally', 'remind', 'thread', 'sex']
+['citizen', 'strike', 'fault', 'japanese', 'montreal', 'ihave', 'notion', 'cica', 'opinion', 'actual', 'turbo', 'produce', 'rid', 'tower', 'promise']
+['pop', 'lawyer', 'enjoy', 'south', 'lay', 'escrow', 'match', 'org', 'extension', 'centris', 'justice', 'effort', 'speak', 'brian', 'puck']
+['obo', 'sp', 'radar', 'virtual', 'citizen', 'dodger', 'strike', 'compuserve', 'pattern', 'au', 'mil', 'strange', 'eventually', 'lawyer', 'south']
+['saturn', 'mil', 'sea', 'edition', 'radar', 'produce', 'dodger', 'puck', 'implement', 'compuserve', 'bomb', 'drink', 'delay', 'lawyer', 'decide']
+['fill', 'strike', 'radar', 'eventually', 'odd', 'career', 'saturn', 'eternal', 'side', 'jewish', 'damage', 'fool', 'statistic', 'shock', 'unlikely']
+['saturn', 'scott', 'huge', 'career', 'jewish', 'radar', 'richard', 'strike', 'promise', 'lawyer', 'reader', 'pop', 'rocket', 'large', 'institute']
+['andrew', 'bag', 'dr', 'south', 'potential', 'radar', 'institute', 'eventually', 'puck', 'texas', 'huge', 'edition', 'button', 'dodger', 'statistic']
+['bag', 'ide', 'drink', 'effort', 'radar', 'fool', 'minor', 'statistic', 'citizen', 'eternal', 'deep', 'mil', 'strike', 'odd', 'brian']
+['mil', 'challenge', 'strike', 'org', 'camera', 'fool', 'lay', 'bag', 'locate', 'portable', 'thoma', 'h', 'fear', 'puck', 'career']
+['locate', 'citizen', 'radar', 'pattern', 'strike', 'eternal', 'ihave', 'satan', 'cartridge', 'visit', 'bag', 'equal', 'fool', 'puck', 'tree']
+['bag', 'ass', 'session', 'se', 'ray', 'neighbor', 'g', 'tiff', 'stock', 'motion', 'alternative', 'understand', 'curve', 'culture', 'netter']
+['shuttle', 'replacement', 'fool', 'brian', 'compuserve', 'dr', 'tx', 'richard', 'damage', 'potential', 'lay', 'johnson', 'org', 'craig', 'puck']
+['interpret', 'remind', 'trip', 'tape', 'potential', 'everybody', 'radar', 'lay', 'bag', 'edition', 'mil', 'r', 'culture', 'visit', 'stage']
+['brian', 'fool', 'mil', 'lawyer', 'bag', 'radar', 'mass', 'meg', 'future', 'ignorance', 'pop', 'brad', 'promise', 'email', 'pt']
+['lawyer', 'institute', 'lay', 'saturn', 'stage', 'puck', 'smart', 'walk', 'eric', 'blood', 'flight', 'potential', 'starter', 'pt', 'obo']
+['bag', 'radar', 'total', 'observation', 'obo', 'ihave', 'eternal', 'ncd', 'pattern', 'edition', 'scott', 'etc', 'strike', 'statistic', 'south']
+['bag', 'fool', 'understand', 'prediction', 'deep', 'equivalent', 'statistic', 'radar', 'remind', 'smart', 'drink', 'joe', 'brian', 'pt', 'eventually']
+['huge', 'tm', 'citizen', 'liberal', 'radar', 'met', 'medical', 'pop', 'mom', 'au', 'saturn', 'vax', 'personal', 'bush', 'stock']
+['radar', 'lawyer', 'motion', 'honda', 'promise', 'saturn', 'ihave', 'register', 'mile', 'total', 'fed', 'bomb', 'scott', 'netter', 'strike']
+['custom', 'netter', 'radar', 'fool', 'remind', 'bag', 'eisa', 'mormon', 'openwindow', 'mil', 'lay', 'statement', 'mit', 'drink', 'army']
+['implement', 'eternal', 'saturn', 'french', 'tm', 'lawyer', 'puck', 'bush', 'se', 'reader', 'late', 'keyboard', 'ihave', 'bag', 'hmm']
+['brian', 'eventually', 'au', 'statement', 'bag', 'notion', 'pattern', 'lay', 'dodger', 'citizen', 'match', 'addition', 'error', 'concern', 'experiment']
+['south', 'un', 'experiment', 'behavior', 'radar', 'bag', 'fool', 'brian', 'eternal', 'forgot', 'compuserve', 'trial', 'similar', 'saturn', 'ide']
+['scott', 'bag', 'hockey', 'saturn', 'statistic', 'strike', 'radar', 'america', 'institute', 'pattern', 'fool', 'brian', 'rate', 'se', 'au']
+['sea', 'bag', 'strike', 'norton', 'statistic', 'bat', 'promise', 'french', 'kit', 'citizen', 'number', 'surrender', 'eventually', 'drink', 'copyright']
+['citizen', 'brian', 'guy', 'bag', 'puck', 'security', 'eternal', 'fool', 'cell', 'thatthe', 'south', 'eventually', 'dodger', 'locate', 'slightly']
+['stage', 'institute', 'strike', 'promise', 'citizen', 'interpret', 'allen', 'puck', 'scanner', 'mil', 'ihave', 'soldier', 'org', 'light', 'bob']
+['strike', 'saturn', 'promise', 'brian', 'pop', 'met', 'potential', 'lay', 'fool', 'dodger', 'tower', 'hockey', 'eventually', 'operation', 'bob']
+['knock', 'bag', 'concern', 'rear', 'observation', 'eternal', 'puck', 'andrew', 'scanner', 'jewish', 'effort', 'love', 'satan', 'statistic', 'saturn']
+['brian', 'promise', 'dr', 'custom', 'satan', 'citizen', 'creation', 'way', 'slightly', 'fat', 'scsi', 'bush', 'flame', 'ide', 'late']
+['bag', 'eternal', 'delay', 'drink', 'ignorance', 'solar', 'alomar', 'lawyer', 'neighbor', 'edition', 'bomb', 'politic', 'button', 'exactly', 'mil']
+['strike', 'institute', 'brian', 'texas', 'bag', 'wantto', 'gas', 'pop', 'statistic', 'potential', 'interpret', 'button', 'sp', 'dr', 'prediction']
+['culture', 'strike', 'everybody', 'statement', 'ihave', 'netter', 'edition', 'extra', 'bag', 'fool', 'implement', 'citizen', 'clock', 'nubus', 'sea']
+['radar', 'strike', 'drink', 'arm', 'accident', 'brian', 'data', 'bag', 'comparison', 'room', 'dodger', 'puck', 'instrument', 'eternal', 'bomb']
+['fool', 'eventually', 'lay', 'mil', 'escrow', 'bag', 'way', 'au', 'connector', 'citizen', 'career', 'behavior', 'rate', 'org', 'brian']
+['bag', 'institute', 'citizen', 'visit', 'scanner', 'prediction', 'lawyer', 'mile', 'fool', 'plug', 'card', 'island', 'statistic', 'texas', 'eventually']
+['netter', 'brian', 'knock', 'mil', 'database', 'spring', 'lawyer', 'environment', 'potential', 'mormon', 'ray', 'fool', 'remind', 'challenge', 'au']
+['strike', 'launch', 'ignorance', 'visit', 'puck', 'newspaper', 'montreal', 'fool', 'huge', 'radio', 'org', 'spring', 'kent', 'bag', 'shuttle']
+['mil', 'edition', 'radar', 'scanner', 'dodger', 'bag', 'se', 'brian', 'netter', 'cartridge', 'compuserve', 'neighbor', 'ihave', 'drink', 'deep']
+['strange', 'fool', 'huge', 'broken', 'ignorance', 'french', 'statement', 'visit', 'enjoy', 'radar', 'locate', 'army', 'illegal', 'dodger', 'deep']
+['bag', 'mil', 'blood', 'delay', 'se', 'institute', 'lucky', 'fed', 'interpretation', 'trip', 'challenge', 'neighbor', 'promise', 'edit', 'cult']
+['drink', 'saturn', 'compuserve', 'delay', 'escrow', 'statistic', 'brian', 'peace', 'radar', 'scott', 'portable', 'odd', 'citizen', 'strike', 'ihave']
+['eternal', 'institute', 'se', 'spring', 'default', 'citizen', 'russian', 'room', 'tm', 'implement', 'bomb', 'ray', 'mil', 'liberal', 'richard']
+['mass', 'implement', 'bag', 'graphic', 'statistic', 'blame', 'eventually', 'satan', 'visit', 'ray', 'brad', 'brian', 'au', 'side', 'ame']
+['au', 'lay', 'equivalent', 'bag', 'potential', 'career', 'advance', 'richard', 'huge', 'challenge', 'visit', 'saturn', 'experiment', 'liberal', 'army']
+['fool', 'statistic', 'camera', 'brian', 'satan', 'instrument', 'flame', 'dodger', 'citizen', 'potential', 'number', 'brad', 'scott', 'light', 'cross']
+['tm', 'bag', 'strike', 'radar', 'remind', 'bomb', 'ray', 'saturn', 'disclaimer', 'hi', 'brian', 'pt', 'basically', 'politic', 'citizen']
+['strike', 'bag', 'radar', 'drink', 'visit', 'welcome', 'institute', 'copyright', 'tough', 'medical', 'gee', 'eternal', 'pt', 'met', 'enjoy']
+['implement', 'medical', 'mil', 'sure', 'citizen', 'custom', 'montreal', 'edition', 'dodger', 'lawyer', 'xterm', 'french', 'eternal', 'delay', 'trip']
+['medical', 'russian', 'eternal', 'strike', 'mil', 'repair', 'culture', 'statistic', 'bag', 'reader', 'edition', 'radar', 'potential', 'institute', 'driver']
+['huge', 'implement', 'citizen', 'compuserve', 'idiot', 'saturn', 'opinion', 'bag', 'radar', 'reader', 'se', 'french', 'mass', 'blood', 'netter']
+['institute', 'radar', 'scott', 'career', 'south', 'replacement', 'statistic', 'additional', 'hitler', 'probe', 'spring', 'citizen', 'lh', 'implement', 'g']
+['culture', 'ignorance', 'fool', 'radio', 'french', 'bag', 'fat', 'database', 'lay', 'lawyer', 'dr', 'eventually', 'status', 'behavior', 'download']
+['mil', 'radar', 'eternal', 'effort', 'comparison', 'copyright', 'smart', 'delay', 'bag', 'fan', 'prediction', 'worry', 'camera', 'flight', 'se']
+==============================
+topic diversity:0.234
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.43007489159758605, c_w2v:None, c_uci:-10.963285524994921, c_npmi:-0.3867214465804629
+mimno topic coherence:-303.139849024603
+Epoch  31	Iter    1	Loss_D:-0.0847855	Loss_G:0.0360318	loss_E:0.0490232
+Epoch  31	Iter   11	Loss_D:-0.0839250	Loss_G:0.0359266	loss_E:0.0482972
+Epoch  31	Iter   21	Loss_D:-0.0839999	Loss_G:0.0361631	loss_E:0.0481143
+Epoch  32	Iter    1	Loss_D:-0.0850735	Loss_G:0.0354021	loss_E:0.0499670
+Epoch  32	Iter   11	Loss_D:-0.0840585	Loss_G:0.0354181	loss_E:0.0489498
+Epoch  32	Iter   21	Loss_D:-0.0828416	Loss_G:0.0347904	loss_E:0.0483410
+Epoch  33	Iter    1	Loss_D:-0.0834206	Loss_G:0.0348888	loss_E:0.0488252
+Epoch  33	Iter   11	Loss_D:-0.0826601	Loss_G:0.0346451	loss_E:0.0483101
+Epoch  33	Iter   21	Loss_D:-0.0819259	Loss_G:0.0349002	loss_E:0.0473246
+Epoch  34	Iter    1	Loss_D:-0.0842215	Loss_G:0.0343453	loss_E:0.0501763
+Epoch  34	Iter   11	Loss_D:-0.0815054	Loss_G:0.0341382	loss_E:0.0476994
+Epoch  34	Iter   21	Loss_D:-0.0813446	Loss_G:0.0338834	loss_E:0.0477684
+Epoch  35	Iter    1	Loss_D:-0.0814798	Loss_G:0.0334984	loss_E:0.0483003
+Epoch  35	Iter   11	Loss_D:-0.0803925	Loss_G:0.0331703	loss_E:0.0475459
+Epoch  35	Iter   21	Loss_D:-0.0824210	Loss_G:0.0334825	loss_E:0.0492362
+Epoch  36	Iter    1	Loss_D:-0.0790781	Loss_G:0.0326232	loss_E:0.0467927
+Epoch  36	Iter   11	Loss_D:-0.0799092	Loss_G:0.0328169	loss_E:0.0473827
+Epoch  36	Iter   21	Loss_D:-0.0804874	Loss_G:0.0325626	loss_E:0.0482206
+Epoch  37	Iter    1	Loss_D:-0.0810335	Loss_G:0.0318857	loss_E:0.0494296
+Epoch  37	Iter   11	Loss_D:-0.0790543	Loss_G:0.0318614	loss_E:0.0475088
+Epoch  37	Iter   21	Loss_D:-0.0786317	Loss_G:0.0315020	loss_E:0.0474404
+Epoch  38	Iter    1	Loss_D:-0.0803746	Loss_G:0.0312137	loss_E:0.0494709
+Epoch  38	Iter   11	Loss_D:-0.0757699	Loss_G:0.0307530	loss_E:0.0453380
+Epoch  38	Iter   21	Loss_D:-0.0775619	Loss_G:0.0303947	loss_E:0.0474718
+Epoch  39	Iter    1	Loss_D:-0.0759124	Loss_G:0.0302777	loss_E:0.0459622
+Epoch  39	Iter   11	Loss_D:-0.0768975	Loss_G:0.0300707	loss_E:0.0471310
+Epoch  39	Iter   21	Loss_D:-0.0773008	Loss_G:0.0299861	loss_E:0.0476477
+Epoch  40	Iter    1	Loss_D:-0.0775283	Loss_G:0.0296463	loss_E:0.0481802
+Epoch  40	Iter   11	Loss_D:-0.0783773	Loss_G:0.0294239	loss_E:0.0492516
+Epoch  40	Iter   21	Loss_D:-0.0762409	Loss_G:0.0291788	loss_E:0.0473815
+Epoch  40	Loss_D_avg:-0.0818145	Loss_G_avg:0.0340696	loss_E_avg:0.0481653
+['potential', 'bag', 'au', 'mil', 'institute', 'drink', 'brian', 'statistic', 'copyright', 'launch', 'motion', 'shall', 'fool', 'radar', 'eternal']
+['saturn', 'mil', 'catalog', 'texas', 'accident', 'liberal', 'south', 'database', 'met', 'strike', 'citizen', 'institute', 'dr', 'notion', 'huge']
+['south', 'dr', 'fool', 'bag', 'montreal', 'ignorance', 'reader', 'iii', 'netter', 'andrew', 'puck', 'drink', 'radar', 'okay', 'saturn']
+['bag', 'implement', 'satan', 'escrow', 'toyota', 'rear', 'everybody', 'match', 'nonsense', 'mil', 'brian', 'keyboard', 'ignorance', 'assumption', 'etc']
+['nubus', 'curve', 'pop', 'potential', 'au', 'strike', 'extension', 'statistic', 'european', 'brian', 'pattern', 'saturn', 'converter', 'nope', 'prediction']
+['dan', 'scanner', 'saturn', 'promise', 'texas', 'bag', 'puck', 'mil', 'thought', 'strike', 'drink', 'statistic', 'totally', 'fill', 'eternal']
+['promise', 'south', 'lawyer', 'mil', 'army', 'radar', 'richard', 'warranty', 'potential', 'dr', 'bag', 'design', 'inch', 'texas', 'drink']
+['scanner', 'institute', 'strike', 'prediction', 'south', 'radar', 'multiple', 'particular', 'huge', 'chance', 'fool', 'puck', 'eternal', 'drink', 'mil']
+['citizen', 'pt', 'strike', 'lawyer', 'radar', 'decent', 'scanner', 'edition', 'ray', 'hmm', 'saturn', 'lh', 'colour', 'fantasy', 'brian']
+['fool', 'bag', 'lawyer', 'medical', 'tiff', 'neighbor', 'radar', 'ps', 'drink', 'se', 'completely', 'met', 'puck', 'montreal', 'saturn']
+['pop', 'citizen', 'scott', 'sexual', 'bag', 'mil', 'strike', 'cylinder', 'dodger', 'match', 'eventually', 'kit', 'career', 'ms', 'portable']
+['bag', 'statistic', 'radar', 'lay', 'converter', 'eternal', 'israel', 'saturn', 'mil', 'tm', 'bush', 'virginia', 'andrew', 'stock', 'management']
+['drink', 'cage', 'slightly', 'trace', 'strike', 'culture', 'bag', 'radar', 'pop', 'army', 'repair', 'bomb', 'fool', 'observation', 'motion']
+['south', 'mil', 'saturn', 'obo', 'belong', 'bag', 'effort', 'ray', 'lay', 'montreal', 'potential', 'instrument', 'pop', 'button', 'split']
+['org', 'eventually', 'cage', 'bag', 'statistic', 'pop', 'strike', 'pattern', 'multi', 'culture', 'dr', 'radar', 'ohio', 'observation', 'fool']
+['mil', 'lawyer', 'au', 'everybody', 'compuserve', 'puck', 'fool', 'scanner', 'meg', 'french', 'totally', 'belong', 'spring', 'implement', 'prediction']
+['bag', 'multiple', 'data', 'observation', 'scanner', 'french', 'se', 'tower', 'way', 'slightly', 'bomb', 'self', 'puck', 'challenge', 'lawyer']
+['south', 'saturn', 'distribution', 'scanner', 'brian', 'surrender', 'camera', 'puck', 'career', 'observation', 'potential', 'statistic', 'huge', 'dr', 'winner']
+['puck', 'slightly', 'bag', 'promise', 'prize', 'mil', 'ad', 'operation', 'etc', 'delay', 'fill', 'dr', 'ray', 'challenge', 'connector']
+['mass', 'south', 'neighbor', 'tm', 'radar', 'implement', 'citizen', 'potential', 'remark', 'g', 'damage', 'strike', 'institute', 'cylinder', 'montreal']
+['number', 'strike', 'drink', 'everybody', 'mil', 'radar', 'andrew', 'pt', 'thread', 'spring', 'au', 'experiment', 'benefit', 'fool', 'produce']
+['puck', 'eventually', 'mil', 'pt', 'lawyer', 'promise', 'winner', 'radar', 'dr', 'united', 'jewish', 'pop', 'saturn', 'challenge', 'eternal']
+['radar', 'lawyer', 'promise', 'delay', 'tiff', 'strike', 'saturn', 'org', 'tough', 'richard', 'scanner', 'multiple', 'bag', 'instrument', 'sp']
+['notion', 'french', 'strike', 'saturn', 'cica', 'radar', 'thoma', 'curve', 'yesterday', 'texas', 'cylinder', 'spring', 'islander', 'responsibility', 'mil']
+['puck', 'statistic', 'richard', 'eternal', 'mil', 'alomar', 'million', 'scsi', 'fool', 'francis', 'met', 'scanner', 'montreal', 'royal', 'radar']
+['strike', 'mil', 'bag', 'eternal', 'curve', 'database', 'download', 'saturn', 'bomb', 'strip', 'blood', 'radar', 'ide', 'institute', 'button']
+['bag', 'strike', 'prize', 'lay', 'fool', 'montreal', 'implement', 'edit', 'eternal', 'south', 'locate', 'french', 'curve', 'pop', 'scanner']
+['bag', 'notion', 'satan', 'texas', 'mil', 'spring', 'netter', 'switch', 'radar', 'poor', 'twin', 'deep', 'strike', 'scanner', 'sp']
+['ray', 'mil', 'database', 'jewish', 'love', 'apply', 'fantasy', 'fill', 'tower', 'scsi', 'promise', 'locate', 'curve', 'strike', 'career']
+['bag', 'ignorance', 'ray', 'montreal', 'escrow', 'screw', 'iii', 'scanner', 'fool', 'implement', 'citizen', 'huge', 'compuserve', 'bomb', 'statistic']
+['eternal', 'drink', 'medical', 'way', 'hockey', 'saturn', 'trip', 'lucky', 'slightly', 'bag', 'potential', 'repair', 'bomb', 'ad', 'statistic']
+['bag', 'eternal', 'compuserve', 'bomb', 'shuttle', 'trip', 'eisa', 'flight', 'experiment', 'discover', 'hmm', 'cartridge', 'tiff', 'promise', 'netter']
+['brian', 'mil', 'radar', 'culture', 'lay', 'toyota', 'scott', 'curve', 'statistic', 'peace', 'converter', 'south', 'netter', 'accurate', 'ass']
+['fool', 'potential', 'victim', 'lawyer', 'mil', 'curve', 'pop', 'citizen', 'door', 'spring', 'trace', 'fault', 'career', 'benefit', 'met']
+['strike', 'radar', 'lawyer', 'ignorance', 'bag', 'brian', 'forsale', 'institute', 'drink', 'treat', 'texas', 'pt', 'promise', 'fill', 'andrew']
+['bag', 'liberal', 'centris', 'promise', 'eternal', 'tm', 'plug', 'implement', 'help', 'copyright', 'irq', 'institute', 'au', 'multiple', 'feature']
+['andrew', 'israel', 'potential', 'lh', 'g', 'texas', 'smart', 'addition', 'dr', 'scott', 'thread', 'chance', 'brian', 'puck', 'bomb']
+['challenge', 'strike', 'puck', 'totally', 'andi', 'netter', 'tim', 'bush', 'statistic', 'understand', 'alomar', 'forsale', 'cartridge', 'mil', 'institute']
+['way', 'tm', 'eternal', 'netter', 'bag', 'statistic', 'potential', 'dr', 'brian', 'institute', 'prize', 'saturn', 'probe', 'pop', 'lay']
+['eternal', 'brian', 'replacement', 'advance', 'effort', 'lawyer', 'mil', 'fool', 'reader', 'prediction', 'bag', 'cpu', 'statistic', 'treat', 'south']
+['bag', 'hockey', 'vax', 'lay', 'eternal', 'clearly', 'strange', 'obo', 'similar', 'citizen', 'portable', 'eventually', 'download', 'mil', 'compuserve']
+['scanner', 'bag', 'pt', 'mil', 'netter', 'radar', 'cult', 'okay', 'french', 'book', 'saturn', 'effort', 'concern', 'forgot', 'cell']
+['medical', 'french', 'ring', 'tm', 'lawyer', 'okay', 'saturn', 'implement', 'remind', 'belief', 'citizen', 'culture', 'cylinder', 'sin', 'spring']
+['fool', 'bag', 'moment', 'drink', 'radar', 'curve', 'volvo', 'ignorance', 'promise', 'brian', 'dr', 'saturn', 'strike', 'multiple', 'clock']
+['satan', 'mil', 'truck', 'eternal', 'catalog', 'accident', 'assume', 'saturn', 'strike', 'dr', 'bag', 'tim', 'quickly', 'path', 'waco']
+['mil', 'bag', 'lay', 'fool', 'eternal', 'spring', 'idiot', 'liberal', 'challenge', 'eventually', 'radar', 'saturn', 'fed', 'remind', 'prize']
+['citizen', 'japanese', 'strike', 'montreal', 'cica', 'fault', 'cylinder', 'promise', 'notion', 'french', 'fool', 'tower', 'opinion', 'ray', 'turbo']
+['pop', 'lawyer', 'south', 'extension', 'enjoy', 'escrow', 'org', 'puck', 'lay', 'justice', 'centris', 'brian', 'ignorance', 'effort', 'saturn']
+['obo', 'radar', 'sp', 'virtual', 'citizen', 'compuserve', 'mil', 'au', 'strike', 'strange', 'lawyer', 'puck', 'south', 'montreal', 'se']
+['saturn', 'mil', 'sea', 'radar', 'edition', 'puck', 'compuserve', 'drink', 'implement', 'produce', 'bomb', 'delay', 'lawyer', 'met', 'button']
+['radar', 'fill', 'strike', 'saturn', 'career', 'eternal', 'odd', 'eventually', 'fool', 'damage', 'jewish', 'statistic', 'satan', 'delay', 'tiff']
+['saturn', 'scott', 'huge', 'radar', 'career', 'richard', 'strike', 'jewish', 'promise', 'lawyer', 'disc', 'reader', 'pop', 'download', 'rocket']
+['andrew', 'bag', 'dr', 'south', 'potential', 'radar', 'puck', 'texas', 'institute', 'huge', 'button', 'statistic', 'scanner', 'ray', 'edition']
+['bag', 'ide', 'drink', 'fool', 'radar', 'effort', 'minor', 'eternal', 'statistic', 'mil', 'deep', 'citizen', 'strike', 'brian', 'promise']
+['mil', 'challenge', 'strike', 'fool', 'camera', 'org', 'puck', 'portable', 'bag', 'ignorance', 'cylinder', 'locate', 'fear', 'career', 'lay']
+['locate', 'radar', 'citizen', 'satan', 'eternal', 'cartridge', 'strike', 'puck', 'equal', 'fool', 'bag', 'scanner', 'pattern', 'richard', 'spring']
+['bag', 'ass', 'tiff', 'se', 'session', 'ray', 'neighbor', 'stock', 'curve', 'netter', 'g', 'culture', 'database', 'drink', 'converter']
+['fool', 'shuttle', 'replacement', 'compuserve', 'brian', 'tx', 'richard', 'dr', 'potential', 'puck', 'johnson', 'damage', 'radar', 'lawyer', 'tony']
+['interpret', 'remind', 'trip', 'mil', 'radar', 'potential', 'tape', 'everybody', 'culture', 'bag', 'bomb', 'archive', 'stage', 'montreal', 'damage']
+['brian', 'fool', 'mil', 'lawyer', 'radar', 'bag', 'ignorance', 'meg', 'mass', 'brad', 'pop', 'promise', 'future', 'satan', 'pt']
+['lawyer', 'saturn', 'institute', 'stage', 'puck', 'lay', 'smart', 'eric', 'potential', 'flight', 'obo', 'blood', 'walk', 'edit', 'pt']
+['bag', 'radar', 'ncd', 'obo', 'eternal', 'observation', 'total', 'scott', 'potential', 'statistic', 'south', 'strike', 'pop', 'etc', 'edition']
+['fool', 'bag', 'understand', 'prediction', 'deep', 'radar', 'statistic', 'equivalent', 'drink', 'remind', 'joe', 'tiff', 'pt', 'brian', 'puck']
+['radar', 'huge', 'met', 'liberal', 'citizen', 'tm', 'mom', 'au', 'medical', 'saturn', 'pop', 'toyota', 'stock', 'drink', 'ide']
+['radar', 'lawyer', 'motion', 'saturn', 'promise', 'honda', 'fed', 'register', 'netter', 'curve', 'mile', 'total', 'bomb', 'scott', 'strike']
+['radar', 'netter', 'fool', 'custom', 'eisa', 'mil', 'remind', 'drink', 'bag', 'openwindow', 'mormon', 'army', 'mit', 'brian', 'ignorance']
+['implement', 'eternal', 'saturn', 'french', 'puck', 'lawyer', 'tm', 'bush', 'se', 'hmm', 'satan', 'reader', 'gary', 'bag', 'way']
+['brian', 'au', 'eventually', 'statement', 'bag', 'notion', 'addition', 'mil', 'citizen', 'train', 'nubus', 'lay', 'error', 'radar', 'experiment']
+['south', 'experiment', 'radar', 'fool', 'un', 'bag', 'behavior', 'brian', 'eternal', 'saturn', 'compuserve', 'mil', 'scanner', 'ide', 'instrument']
+['scott', 'bag', 'saturn', 'hockey', 'radar', 'statistic', 'strike', 'fool', 'au', 'america', 'promise', 'brian', 'se', 'drink', 'institute']
+['bag', 'sea', 'norton', 'strike', 'statistic', 'bat', 'promise', 'french', 'copyright', 'drink', 'surrender', 'kit', 'tiff', 'scanner', 'database']
+['citizen', 'puck', 'brian', 'eternal', 'fool', 'bag', 'cell', 'thatthe', 'guy', 'south', 'security', 'slightly', 'locate', 'saturn', 'se']
+['stage', 'promise', 'puck', 'strike', 'scanner', 'mil', 'institute', 'allen', 'citizen', 'org', 'interpret', 'libertarian', 'broken', 'ass', 'connector']
+['saturn', 'strike', 'promise', 'brian', 'met', 'potential', 'fool', 'pop', 'lay', 'tower', 'challenge', 'delay', 'operation', 'french', 'hockey']
+['knock', 'puck', 'bag', 'eternal', 'scanner', 'observation', 'concern', 'rear', 'saturn', 'andrew', 'satan', 'fool', 'effort', 'statistic', 'jewish']
+['brian', 'promise', 'satan', 'dr', 'citizen', 'way', 'ide', 'slightly', 'mil', 'radar', 'regardless', 'bush', 'creation', 'scsi', 'fool']
+['bag', 'alomar', 'eternal', 'ignorance', 'delay', 'drink', 'lawyer', 'neighbor', 'solar', 'mil', 'andi', 'bomb', 'button', 'radar', 'fool']
+['strike', 'brian', 'bag', 'texas', 'institute', 'potential', 'statistic', 'pop', 'sp', 'gas', 'button', 'copyright', 'lawyer', 'prediction', 'dr']
+['culture', 'strike', 'everybody', 'netter', 'statement', 'fool', 'edition', 'edit', 'nubus', 'bag', 'implement', 'extra', 'citizen', 'radar', 'promise']
+['radar', 'strike', 'drink', 'puck', 'accident', 'brian', 'eternal', 'arm', 'instrument', 'data', 'bag', 'comparison', 'room', 'bomb', 'stage']
+['fool', 'mil', 'lay', 'escrow', 'eventually', 'au', 'connector', 'bag', 'way', 'career', 'radar', 'citizen', 'compuserve', 'behavior', 'org']
+['bag', 'citizen', 'scanner', 'institute', 'prediction', 'fool', 'lawyer', 'mile', 'plug', 'statistic', 'card', 'mil', 'neighbor', 'potential', 'career']
+['netter', 'database', 'mil', 'brian', 'spring', 'lawyer', 'fool', 'potential', 'challenge', 'knock', 'scanner', 'ray', 'environment', 'au', 'mormon']
+['strike', 'ignorance', 'launch', 'puck', 'fool', 'newspaper', 'montreal', 'org', 'huge', 'edit', 'radio', 'spring', 'hmm', 'bag', 'saturn']
+['mil', 'radar', 'scanner', 'edition', 'cartridge', 'netter', 'compuserve', 'neighbor', 'drink', 'bag', 'se', 'brian', 'deep', 'pop', 'eternal']
+['fool', 'ignorance', 'strange', 'huge', 'broken', 'french', 'radar', 'locate', 'potential', 'enjoy', 'tony', 'statement', 'deep', 'compuserve', 'army']
+['mil', 'bag', 'delay', 'blood', 'se', 'fed', 'challenge', 'edit', 'interpretation', 'lucky', 'trip', 'institute', 'saturn', 'neighbor', 'radar']
+['drink', 'saturn', 'delay', 'compuserve', 'radar', 'statistic', 'escrow', 'brian', 'peace', 'portable', 'scott', 'mil', 'citizen', 'strike', 'puck']
+['eternal', 'se', 'institute', 'spring', 'default', 'citizen', 'mil', 'room', 'russian', 'implement', 'ray', 'tm', 'scanner', 'richard', 'bomb']
+['mass', 'implement', 'statistic', 'satan', 'ray', 'brad', 'bag', 'au', 'brian', 'blame', 'saturn', 'graphic', 'behavior', 'strike', 'lawyer']
+['au', 'equivalent', 'potential', 'bag', 'career', 'lay', 'challenge', 'richard', 'huge', 'advance', 'saturn', 'duo', 'eternal', 'experiment', 'army']
+['fool', 'statistic', 'camera', 'satan', 'instrument', 'brian', 'potential', 'brad', 'citizen', 'puck', 'strange', 'scott', 'flame', 'number', 'stock']
+['tm', 'bag', 'radar', 'bomb', 'saturn', 'remind', 'strike', 'ray', 'disclaimer', 'brian', 'pt', 'basically', 'hi', 'promise', 'politic']
+['strike', 'radar', 'bag', 'drink', 'copyright', 'tough', 'eternal', 'welcome', 'met', 'institute', 'pt', 'gee', 'medical', 'saturn', 'enjoy']
+['implement', 'mil', 'medical', 'citizen', 'montreal', 'lawyer', 'eternal', 'delay', 'sure', 'french', 'pt', 'radar', 'edition', 'xterm', 'deep']
+['medical', 'eternal', 'mil', 'russian', 'strike', 'radar', 'statistic', 'repair', 'bag', 'culture', 'potential', 'reader', 'edition', 'lawyer', 'andrew']
+['huge', 'implement', 'citizen', 'compuserve', 'saturn', 'radar', 'bag', 'netter', 'french', 'opinion', 'reader', 'se', 'johnson', 'scanner', 'mass']
+['radar', 'institute', 'scott', 'career', 'south', 'probe', 'statistic', 'replacement', 'spring', 'lh', 'challenge', 'implement', 'saturn', 'citizen', 'united']
+['ignorance', 'culture', 'fool', 'database', 'radio', 'french', 'bag', 'mil', 'lawyer', 'download', 'ray', 'nubus', 'dr', 'status', 'behavior']
+['mil', 'radar', 'eternal', 'effort', 'copyright', 'comparison', 'delay', 'smart', 'bag', 'prediction', 'camera', 'fan', 'potential', 'brad', 'accident']
+==============================
+topic diversity:0.204
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.45097837815874514, c_w2v:None, c_uci:-11.13974014900271, c_npmi:-0.3928673550335175
+mimno topic coherence:-308.1917491674234
+Epoch  41	Iter    1	Loss_D:-0.0749353	Loss_G:0.0289986	loss_E:0.0462796
+Epoch  41	Iter   11	Loss_D:-0.0764508	Loss_G:0.0284259	loss_E:0.0483336
+Epoch  41	Iter   21	Loss_D:-0.0752432	Loss_G:0.0285278	loss_E:0.0470452
+Epoch  42	Iter    1	Loss_D:-0.0744015	Loss_G:0.0281881	loss_E:0.0465395
+Epoch  42	Iter   11	Loss_D:-0.0750100	Loss_G:0.0278331	loss_E:0.0474993
+Epoch  42	Iter   21	Loss_D:-0.0711713	Loss_G:0.0279396	loss_E:0.0435535
+Epoch  43	Iter    1	Loss_D:-0.0715813	Loss_G:0.0272476	loss_E:0.0446700
+Epoch  43	Iter   11	Loss_D:-0.0734866	Loss_G:0.0272746	loss_E:0.0465453
+Epoch  43	Iter   21	Loss_D:-0.0715168	Loss_G:0.0275976	loss_E:0.0442358
+Epoch  44	Iter    1	Loss_D:-0.0717456	Loss_G:0.0268689	loss_E:0.0452233
+Epoch  44	Iter   11	Loss_D:-0.0701495	Loss_G:0.0266423	loss_E:0.0438202
+Epoch  44	Iter   21	Loss_D:-0.0704561	Loss_G:0.0263034	loss_E:0.0444786
+Epoch  45	Iter    1	Loss_D:-0.0697043	Loss_G:0.0261139	loss_E:0.0439260
+Epoch  45	Iter   11	Loss_D:-0.0665080	Loss_G:0.0258841	loss_E:0.0409631
+Epoch  45	Iter   21	Loss_D:-0.0699998	Loss_G:0.0256846	loss_E:0.0446756
+Epoch  46	Iter    1	Loss_D:-0.0703661	Loss_G:0.0250492	loss_E:0.0456765
+Epoch  46	Iter   11	Loss_D:-0.0700222	Loss_G:0.0250559	loss_E:0.0453178
+Epoch  46	Iter   21	Loss_D:-0.0669163	Loss_G:0.0251309	loss_E:0.0421538
+Epoch  47	Iter    1	Loss_D:-0.0667824	Loss_G:0.0242985	loss_E:0.0428084
+Epoch  47	Iter   11	Loss_D:-0.0683226	Loss_G:0.0245375	loss_E:0.0441149
+Epoch  47	Iter   21	Loss_D:-0.0662941	Loss_G:0.0243478	loss_E:0.0423024
+Epoch  48	Iter    1	Loss_D:-0.0642104	Loss_G:0.0235800	loss_E:0.0410023
+Epoch  48	Iter   11	Loss_D:-0.0662568	Loss_G:0.0237483	loss_E:0.0428605
+Epoch  48	Iter   21	Loss_D:-0.0653371	Loss_G:0.0238261	loss_E:0.0418545
+Epoch  49	Iter    1	Loss_D:-0.0657182	Loss_G:0.0234453	loss_E:0.0426169
+Epoch  49	Iter   11	Loss_D:-0.0638566	Loss_G:0.0232484	loss_E:0.0409653
+Epoch  49	Iter   21	Loss_D:-0.0634652	Loss_G:0.0227515	loss_E:0.0410769
+Epoch  50	Iter    1	Loss_D:-0.0655213	Loss_G:0.0232159	loss_E:0.0426964
+Epoch  50	Iter   11	Loss_D:-0.0647915	Loss_G:0.0224954	loss_E:0.0426624
+Epoch  50	Iter   21	Loss_D:-0.0615922	Loss_G:0.0224182	loss_E:0.0395342
+Epoch  50	Loss_D_avg:-0.0792637	Loss_G_avg:0.0323669	loss_E_avg:0.0473017
+['brian', 'potential', 'drink', 'copyright', 'fool', 'radar', 'eternal', 'launch', 'shall', 'mil', 'career', 'turkey', 'trip', 'nope', 'spring']
+['catalog', 'texas', 'accident', 'saturn', 'mil', 'south', 'citizen', 'database', 'dr', 'radar', 'notion', 'implement', 'liberal', 'produce', 'environment']
+['south', 'fool', 'dr', 'ignorance', 'radar', 'andrew', 'reader', 'drink', 'iii', 'okay', 'netter', 'eternal', 'shaft', 'environment', 'tank']
+['implement', 'satan', 'escrow', 'toyota', 'rear', 'everybody', 'ignorance', 'fool', 'brian', 'edit', 'keyboard', 'shaft', 'etc', 'nonsense', 'welcome']
+['pop', 'brian', 'nubus', 'european', 'extension', 'portable', 'drink', 'satan', 'safe', 'curve', 'scanner', 'duo', 'nope', 'ignorance', 'colorado']
+['scanner', 'dan', 'promise', 'texas', 'thought', 'drink', 'fool', 'totally', 'fill', 'tony', 'eternal', 'saturn', 'alomar', 'install', 'opinion']
+['promise', 'south', 'radar', 'army', 'dr', 'texas', 'design', 'richard', 'inch', 'mil', 'drink', 'edit', 'career', 'jewish', 'mass']
+['scanner', 'radar', 'south', 'fool', 'particular', 'eternal', 'chance', 'multiple', 'drink', 'duo', 'texas', 'look', 'available', 'bob', 'career']
+['citizen', 'pt', 'radar', 'scanner', 'ray', 'decent', 'brian', 'colour', 'lh', 'hmm', 'satan', 'fool', 'error', 'secure', 'eternal']
+['fool', 'radar', 'medical', 'se', 'ps', 'drink', 'completely', 'tiff', 'million', 'mit', 'totally', 'wire', 'ray', 'destroy', 'compuserve']
+['citizen', 'pop', 'scott', 'career', 'portable', 'kit', 'se', 'ms', 'cylinder', 'eric', 'mil', 'culture', 'archive', 'fool', 'cell']
+['radar', 'eternal', 'virginia', 'andrew', 'israel', 'bag', 'norton', 'ray', 'bush', 'converter', 'promise', 'way', 'database', 'dr', 'sp']
+['drink', 'radar', 'slightly', 'cage', 'fool', 'culture', 'army', 'pop', 'dr', 'copyright', 'ide', 'ray', 'promise', 'screw', 'stage']
+['south', 'belong', 'mil', 'obo', 'effort', 'ray', 'saturn', 'pop', 'radar', 'button', 'generally', 'promise', 'behavior', 'million', 'se']
+['org', 'pop', 'cage', 'radar', 'multi', 'fool', 'dr', 'culture', 'totally', 'everybody', 'eternal', 'south', 'addition', 'duo', 'connector']
+['mil', 'fool', 'everybody', 'scanner', 'totally', 'belong', 'compuserve', 'meg', 'radar', 'implement', 'excuse', 'cross', 'andrew', 'spring', 'total']
+['scanner', 'data', 'se', 'multiple', 'way', 'satan', 'radar', 'self', 'slightly', 'angel', 'similar', 'damage', 'hmm', 'safe', 'fool']
+['south', 'scanner', 'surrender', 'distribution', 'brian', 'career', 'saturn', 'fool', 'dr', 'radar', 'eternal', 'camera', 'drink', 'puck', 'compuserve']
+['promise', 'slightly', 'puck', 'operation', 'ad', 'radar', 'fill', 'ray', 'dr', 'etc', 'mil', 'connector', 'damage', 'way', 'paint']
+['mass', 'south', 'radar', 'implement', 'citizen', 'g', 'fool', 'damage', 'brian', 'way', 'career', 'escrow', 'chapter', 'promise', 'remark']
+['everybody', 'number', 'radar', 'drink', 'andrew', 'fool', 'thread', 'pt', 'spring', 'blow', 'behavior', 'fill', 'produce', 'mil', 'benefit']
+['puck', 'pt', 'radar', 'mil', 'promise', 'dr', 'eternal', 'pop', 'jewish', 'effort', 'brian', 'south', 'locate', 'outside', 'mit']
+['radar', 'promise', 'org', 'scanner', 'sp', 'richard', 'tiff', 'decent', 'eternal', 'multiple', 'toyota', 'ice', 'fault', 'saturn', 'spring']
+['notion', 'cica', 'radar', 'french', 'saturn', 'texas', 'yesterday', 'duo', 'drink', 'spring', 'blood', 'cylinder', 'science', 'ass', 'everybody']
+['puck', 'richard', 'eternal', 'fool', 'alomar', 'scanner', 'million', 'radar', 'scsi', 'satan', 'mil', 'pop', 'statistic', 'expect', 'g']
+['eternal', 'radar', 'ide', 'download', 'mil', 'button', 'database', 'blood', 'medical', 'strip', 'south', 'hockey', 'curve', 'ignorance', 'plug']
+['fool', 'edit', 'implement', 'eternal', 'south', 'scanner', 'radar', 'pop', 'locate', 'stage', 'bag', 'behavior', 'andrew', 'addition', 'citizen']
+['notion', 'satan', 'radar', 'texas', 'switch', 'spring', 'scanner', 'brian', 'sp', 'netter', 'behavior', 'promise', 'poor', 'se', 'mil']
+['ray', 'mil', 'database', 'jewish', 'apply', 'love', 'promise', 'fill', 'scsi', 'g', 'ignorance', 'context', 'locate', 'career', 'total']
+['ignorance', 'ray', 'escrow', 'scanner', 'screw', 'fool', 'implement', 'iii', 'citizen', 'compuserve', 'shuttle', 'career', 'newspaper', 'south', 'trip']
+['eternal', 'drink', 'medical', 'way', 'hockey', 'ray', 'probe', 'satan', 'trip', 'sys', 'ad', 'slightly', 'reader', 'career', 'later']
+['eternal', 'shuttle', 'compuserve', 'trip', 'eisa', 'flight', 'promise', 'edit', 'hmm', 'everybody', 'way', 'bomb', 'experiment', 'clear', 'cartridge']
+['brian', 'radar', 'mil', 'culture', 'toyota', 'peace', 'south', 'scanner', 'ass', 'drink', 'andrew', 'stage', 'tony', 'apple', 'gee']
+['fool', 'pop', 'citizen', 'potential', 'door', 'fault', 'spring', 'mil', 'moment', 'career', 'ms', 'benefit', 'nazi', 'promise', 'excuse']
+['radar', 'ignorance', 'brian', 'drink', 'treat', 'promise', 'texas', 'andrew', 'fill', 'pt', 'fool', 'scanner', 'ass', 'forsale', 'virginia']
+['promise', 'eternal', 'liberal', 'plug', 'implement', 'centris', 'copyright', 'help', 'satan', 'irq', 'feature', 'ide', 'shaft', 'effort', 'brad']
+['andrew', 'lh', 'israel', 'g', 'addition', 'texas', 'dr', 'thread', 'chance', 'brian', 'south', 'citizen', 'fool', 'potential', 'minor']
+['totally', 'bush', 'puck', 'andi', 'netter', 'challenge', 'alomar', 'understand', 'cartridge', 'escrow', 'max', 'promise', 'andrew', 'ignorance', 'brian']
+['way', 'eternal', 'brian', 'dr', 'probe', 'netter', 'pop', 'produce', 'texas', 'promise', 'plug', 'radar', 'cylinder', 'brad', 'cica']
+['eternal', 'brian', 'fool', 'advance', 'effort', 'reader', 'south', 'treat', 'ray', 'mil', 'cpu', 'everybody', 'ass', 'replacement', 'duo']
+['hockey', 'eternal', 'similar', 'clearly', 'citizen', 'portable', 'scanner', 'obo', 'download', 'bag', 'fool', 'damage', 'compuserve', 'edit', 'notion']
+['scanner', 'radar', 'pt', 'okay', 'netter', 'mil', 'cell', 'concern', 'book', 'effort', 'fed', 'moment', 'error', 'vram', 'completely']
+['medical', 'ring', 'implement', 'okay', 'remind', 'citizen', 'belief', 'satan', 'culture', 'promise', 'norton', 'sin', 'cica', 'radar', 'spring']
+['fool', 'radar', 'moment', 'drink', 'ignorance', 'promise', 'brian', 'dr', 'ide', 'clock', 'volvo', 'mass', 'ability', 'multiple', 'behavior']
+['satan', 'eternal', 'mil', 'catalog', 'accident', 'dr', 'assume', 'radar', 'room', 'minor', 'promise', 'quickly', 'waco', 'fool', 'everybody']
+['fool', 'eternal', 'mil', 'radar', 'fed', 'spring', 'generally', 'remind', 'mit', 'portable', 'thread', 'sex', 'slightly', 'clearly', 'button']
+['citizen', 'cica', 'fault', 'fool', 'japanese', 'promise', 'ray', 'edit', 'turbo', 'opinion', 'notion', 'cylinder', 'duo', 'actual', 'rid']
+['pop', 'south', 'enjoy', 'org', 'escrow', 'ignorance', 'brian', 'extension', 'effort', 'fill', 'justice', 'jack', 'button', 'speak', 'puck']
+['radar', 'obo', 'sp', 'citizen', 'compuserve', 'scanner', 'virtual', 'se', 'south', 'mil', 'fool', 'satan', 'locate', 'spring', 'g']
+['saturn', 'mil', 'radar', 'implement', 'drink', 'compuserve', 'produce', 'button', 'puck', 'norton', 'satan', 'sea', 'citizen', 'org', 'effort']
+['radar', 'career', 'fill', 'eternal', 'fool', 'satan', 'damage', 'odd', 'jewish', 'saturn', 'ray', 'brian', 'eric', 'culture', 'tiff']
+['radar', 'saturn', 'career', 'promise', 'jewish', 'scott', 'richard', 'reader', 'pop', 'virginia', 'rocket', 'download', 'stage', 'eternal', 'summer']
+['andrew', 'dr', 'radar', 'south', 'texas', 'scanner', 'button', 'potential', 'ray', 'tax', 'connector', 'meg', 'puck', 'locate', 'drink']
+['ide', 'drink', 'fool', 'radar', 'effort', 'eternal', 'minor', 'citizen', 'promise', 'brian', 'scanner', 'dan', 'ray', 'compuserve', 'mil']
+['mil', 'fool', 'org', 'ignorance', 'portable', 'cica', 'challenge', 'scanner', 'career', 'locate', 'ray', 'promise', 'cylinder', 'h', 'camera']
+['radar', 'citizen', 'locate', 'satan', 'eternal', 'fool', 'scanner', 'cartridge', 'equal', 'norton', 'million', 'ignorance', 'se', 'totally', 'implement']
+['ass', 'ray', 'se', 'tiff', 'g', 'drink', 'ignorance', 'culture', 'database', 'netter', 'alternative', 'understand', 'org', 'brian', 'chance']
+['fool', 'shuttle', 'brian', 'radar', 'dr', 'compuserve', 'tony', 'tx', 'damage', 'org', 'richard', 'chapter', 'ignorance', 'copyright', 'rid']
+['radar', 'remind', 'trip', 'everybody', 'tape', 'archive', 'damage', 'mil', 'culture', 'stage', 'r', 'obo', 'belong', 'brian', 'ray']
+['brian', 'fool', 'radar', 'ignorance', 'mil', 'meg', 'satan', 'promise', 'pop', 'mass', 'brad', 'lh', 'future', 'ray', 'copyright']
+['stage', 'saturn', 'edit', 'eric', 'promise', 'blood', 'puck', 'obo', 'fool', 'walk', 'cica', 'duo', 'flight', 'lawyer', 'pt']
+['radar', 'eternal', 'total', 'obo', 'ncd', 'south', 'pop', 'implement', 'ignorance', 'etc', 'blow', 'career', 'okay', 'se', 'scott']
+['fool', 'understand', 'radar', 'drink', 'remind', 'joe', 'brian', 'prediction', 'deep', 'pt', 'duo', 'tiff', 'excuse', 'button', 'blow']
+['radar', 'citizen', 'pop', 'medical', 'ide', 'toyota', 'edit', 'scanner', 'drink', 'bush', 'liberal', 'ray', 'career', 'light', 'personal']
+['radar', 'promise', 'fed', 'honda', 'register', 'total', 'mile', 'saturn', 'citizen', 'andrew', 'netter', 'somewhat', 'edit', 'fool', 'read']
+['radar', 'fool', 'netter', 'eisa', 'drink', 'remind', 'ignorance', 'brian', 'army', 'california', 'mit', 'mil', 'ray', 'statement', 'promise']
+['eternal', 'implement', 'bush', 'se', 'satan', 'saturn', 'puck', 'hmm', 'way', 'brian', 'reader', 'promise', 'keyboard', 'late', 'government']
+['brian', 'statement', 'addition', 'radar', 'citizen', 'fool', 'train', 'notion', 'damage', 'au', 'error', 'probe', 'concern', 'waco', 'south']
+['south', 'radar', 'fool', 'behavior', 'brian', 'scanner', 'eternal', 'experiment', 'ide', 'compuserve', 'trial', 'similar', 'shaft', 'damage', 'archive']
+['hockey', 'radar', 'scott', 'fool', 'saturn', 'promise', 'se', 'brian', 'america', 'alomar', 'drink', 'excuse', 'org', 'rate', 'career']
+['norton', 'promise', 'bat', 'copyright', 'surrender', 'scanner', 'brian', 'drink', 'kit', 'radar', 'citizen', 'implement', 'sea', 'andrew', 'download']
+['citizen', 'fool', 'eternal', 'brian', 'cell', 'thatthe', 'guy', 'south', 'se', 'puck', 'radar', 'security', 'european', 'locate', 'slightly']
+['promise', 'stage', 'scanner', 'citizen', 'org', 'ignorance', 'puck', 'mil', 'g', 'newspaper', 'ass', 'copyright', 'connector', 'light', 'fool']
+['promise', 'fool', 'brian', 'saturn', 'pop', 'operation', 'potential', 'satan', 'moment', 'hockey', 'intellect', 'bob', 'scanner', 'cica', 'blame']
+['scanner', 'eternal', 'concern', 'satan', 'fool', 'andrew', 'rear', 'effort', 'escrow', 'jewish', 'puck', 'south', 'love', 'drink', 'addition']
+['brian', 'promise', 'satan', 'dr', 'citizen', 'ide', 'radar', 'way', 'fool', 'flame', 'ray', 'cica', 'scsi', 'bush', 'welcome']
+['alomar', 'ignorance', 'eternal', 'drink', 'radar', 'button', 'shaft', 'fool', 'satan', 'andi', 'addition', 'politic', 'environment', 'delay', 'mil']
+['brian', 'texas', 'sp', 'pop', 'button', 'copyright', 'gas', 'dr', 'potential', 'fool', 'radar', 'addition', 'blow', 'eternal', 'fill']
+['culture', 'everybody', 'statement', 'fool', 'netter', 'edit', 'radar', 'promise', 'implement', 'citizen', 'extra', 'clock', 'effort', 'newspaper', 'scanner']
+['radar', 'drink', 'accident', 'brian', 'eternal', 'data', 'promise', 'room', 'comparison', 'arm', 'stage', 'org', 'g', 'puck', 'satan']
+['fool', 'escrow', 'connector', 'radar', 'way', 'mil', 'career', 'citizen', 'behavior', 'org', 'fill', 'brian', 'compuserve', 'rate', 'mass']
+['scanner', 'citizen', 'fool', 'mile', 'plug', 'card', 'texas', 'career', 'virginia', 'tube', 'pop', 'escrow', 'fill', 'addition', 'damage']
+['brian', 'database', 'netter', 'fool', 'scanner', 'ray', 'mil', 'spring', 'environment', 'satan', 'remind', 'se', 'tear', 'citizen', 'promise']
+['ignorance', 'launch', 'fool', 'newspaper', 'edit', 'org', 'puck', 'radio', 'strike', 'panel', 'brian', 'hmm', 'drink', 'spring', 'behavior']
+['radar', 'mil', 'scanner', 'cartridge', 'se', 'brian', 'netter', 'drink', 'compuserve', 'pop', 'eternal', 'generally', 'south', 'escrow', 'fool']
+['fool', 'ignorance', 'radar', 'tony', 'broken', 'enjoy', 'army', 'locate', 'scanner', 'edit', 'statement', 'satan', 'compuserve', 'duo', 'illegal']
+['se', 'blood', 'mil', 'edit', 'fed', 'radar', 'interpretation', 'promise', 'trip', 'delay', 'fool', 'portable', 'locate', 'moment', 'lucky']
+['drink', 'radar', 'compuserve', 'brian', 'escrow', 'peace', 'saturn', 'portable', 'citizen', 'delay', 'damage', 'environment', 'south', 'totally', 'ignorance']
+['eternal', 'se', 'citizen', 'spring', 'room', 'implement', 'default', 'scanner', 'ray', 'russian', 'radar', 'fool', 'addition', 'mil', 'richard']
+['mass', 'implement', 'satan', 'ray', 'brian', 'brad', 'behavior', 'graphic', 'blame', 'mile', 'way', 'feature', 'bush', 'sin', 'scanner']
+['career', 'advance', 'duo', 'eternal', 'promise', 'richard', 'army', 'au', 'potential', 'saturn', 'cut', 'honda', 'copyright', 'brain', 'experiment']
+['fool', 'satan', 'brian', 'citizen', 'camera', 'brad', 'eternal', 'cross', 'fed', 'number', 'everybody', 'flame', 'ide', 'treat', 'apple']
+['radar', 'ray', 'remind', 'brian', 'disclaimer', 'promise', 'basically', 'pt', 'trial', 'citizen', 'saturn', 'politic', 'bomb', 'hi', 'story']
+['radar', 'drink', 'copyright', 'eternal', 'welcome', 'medical', 'gee', 'enjoy', 'california', 'cross', 'shuttle', 'satan', 'hmm', 'south', 'pt']
+['implement', 'mil', 'medical', 'citizen', 'eternal', 'radar', 'sure', 'norton', 'xterm', 'fool', 'g', 'cica', 'catalog', 'blow', 'trip']
+['medical', 'eternal', 'radar', 'russian', 'mil', 'reader', 'andrew', 'culture', 'driver', 'repair', 'ray', 'ignorance', 'citizen', 'story', 'hmmm']
+['citizen', 'implement', 'compuserve', 'radar', 'saturn', 'scanner', 'reader', 'se', 'opinion', 'portable', 'netter', 'eternal', 'mass', 'shuttle', 'fool']
+['radar', 'south', 'career', 'probe', 'lh', 'spring', 'implement', 'scott', 'citizen', 'g', 'promise', 'thread', 'escrow', 'feature', 'cylinder']
+['ignorance', 'fool', 'culture', 'database', 'radio', 'ray', 'download', 'dr', 'behavior', 'radar', 'stage', 'treat', 'mil', 'citizen', 'medical']
+['radar', 'eternal', 'mil', 'copyright', 'effort', 'comparison', 'fan', 'accident', 'se', 'brad', 'delay', 'pop', 'everybody', 'flight', 'worry']
+==============================
+topic diversity:0.20133333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.42318766859431856, c_w2v:None, c_uci:-10.548433863527109, c_npmi:-0.37117820671791313
+mimno topic coherence:-311.5414824405571
+Epoch  51	Iter    1	Loss_D:-0.0621720	Loss_G:0.0224404	loss_E:0.0400811
+Epoch  51	Iter   11	Loss_D:-0.0605186	Loss_G:0.0217691	loss_E:0.0391394
+Epoch  51	Iter   21	Loss_D:-0.0613564	Loss_G:0.0226098	loss_E:0.0391375
+Epoch  52	Iter    1	Loss_D:-0.0591242	Loss_G:0.0217419	loss_E:0.0377848
+Epoch  52	Iter   11	Loss_D:-0.0610282	Loss_G:0.0216135	loss_E:0.0397731
+Epoch  52	Iter   21	Loss_D:-0.0586510	Loss_G:0.0215855	loss_E:0.0374706
+Epoch  53	Iter    1	Loss_D:-0.0594230	Loss_G:0.0210793	loss_E:0.0387427
+Epoch  53	Iter   11	Loss_D:-0.0588926	Loss_G:0.0206972	loss_E:0.0385635
+Epoch  53	Iter   21	Loss_D:-0.0573303	Loss_G:0.0204341	loss_E:0.0372463
+Epoch  54	Iter    1	Loss_D:-0.0597056	Loss_G:0.0206856	loss_E:0.0393854
+Epoch  54	Iter   11	Loss_D:-0.0576392	Loss_G:0.0204090	loss_E:0.0376173
+Epoch  54	Iter   21	Loss_D:-0.0541800	Loss_G:0.0202566	loss_E:0.0343136
+Epoch  55	Iter    1	Loss_D:-0.0584621	Loss_G:0.0202558	loss_E:0.0385776
+Epoch  55	Iter   11	Loss_D:-0.0540783	Loss_G:0.0199493	loss_E:0.0345465
+Epoch  55	Iter   21	Loss_D:-0.0536932	Loss_G:0.0199666	loss_E:0.0341433
+Epoch  56	Iter    1	Loss_D:-0.0550677	Loss_G:0.0191443	loss_E:0.0363139
+Epoch  56	Iter   11	Loss_D:-0.0546387	Loss_G:0.0193004	loss_E:0.0357432
+Epoch  56	Iter   21	Loss_D:-0.0536651	Loss_G:0.0196999	loss_E:0.0343963
+Epoch  57	Iter    1	Loss_D:-0.0549098	Loss_G:0.0193686	loss_E:0.0359576
+Epoch  57	Iter   11	Loss_D:-0.0524822	Loss_G:0.0192619	loss_E:0.0336208
+Epoch  57	Iter   21	Loss_D:-0.0499103	Loss_G:0.0189091	loss_E:0.0314047
+Epoch  58	Iter    1	Loss_D:-0.0519748	Loss_G:0.0185717	loss_E:0.0338157
+Epoch  58	Iter   11	Loss_D:-0.0505722	Loss_G:0.0186688	loss_E:0.0323439
+Epoch  58	Iter   21	Loss_D:-0.0492983	Loss_G:0.0187947	loss_E:0.0309155
+Epoch  59	Iter    1	Loss_D:-0.0510821	Loss_G:0.0178126	loss_E:0.0337097
+Epoch  59	Iter   11	Loss_D:-0.0499033	Loss_G:0.0174599	loss_E:0.0328829
+Epoch  59	Iter   21	Loss_D:-0.0500552	Loss_G:0.0180739	loss_E:0.0323961
+Epoch  60	Iter    1	Loss_D:-0.0490047	Loss_G:0.0177703	loss_E:0.0316701
+Epoch  60	Iter   11	Loss_D:-0.0494724	Loss_G:0.0180934	loss_E:0.0317916
+Epoch  60	Iter   21	Loss_D:-0.0472706	Loss_G:0.0177874	loss_E:0.0299309
+Epoch  60	Loss_D_avg:-0.0751951	Loss_G_avg:0.0302736	loss_E_avg:0.0453260
+['brian', 'launch', 'shall', 'fool', 'radar', 'g', 'safety', 'wife', 'se', 'condition', 'drink', 'israel', 'rule', 'recent', 'mit']
+['texas', 'accident', 'citizen', 'dr', 'produce', 'cica', 'way', 'g', 'feature', 'connect', 'notion', 'radar', 'medical', 'rate', 'satan']
+['dr', 'fool', 'reader', 'andrew', 'okay', 'radar', 'south', 'ignorance', 'shaft', 'se', 'tank', 'begin', 'jewish', 'rear', 'texas']
+['satan', 'implement', 'rear', 'everybody', 'brian', 'keyboard', 'fool', 'etc', 'shaft', 'welcome', 'fill', 'escrow', 'g', 'animal', 'texas']
+['brian', 'rear', 'satan', 'tony', 'colorado', 'r', 'dr', 'produce', 'personal', 'safe', 'pop', 'andrew', 'room', 'totally', 'surface']
+['dan', 'thought', 'texas', 'tony', 'fill', 'promise', 'scanner', 'opinion', 'fool', 'totally', 'brian', 'install', 'andrew', 'feature', 'concern']
+['promise', 'dr', 'army', 'radar', 'design', 'texas', 'jewish', 'reader', 'citizen', 'welcome', 'trial', 'everybody', 'cut', 'satan', 'treat']
+['scanner', 'radar', 'chance', 'particular', 'fool', 'look', 'g', 'available', 'kent', 'texas', 'bob', 'mit', 'brian', 'politic', 'vs']
+['citizen', 'radar', 'brian', 'excuse', 'error', 'design', 'se', 'satan', 'colour', 'scanner', 'clear', 'feature', 'cica', 'fool', 'guy']
+['fool', 'medical', 'radar', 'se', 'completely', 'ps', 'million', 'mit', 'button', 'wire', 'solution', 'exactly', 'room', 'group', 'wife']
+['citizen', 'se', 'pop', 'ms', 'eric', 'kit', 'archive', 'r', 'similar', 'cpu', 'cell', 'fill', 'brian', 'fool', 'stand']
+['radar', 'israel', 'way', 'andrew', 'virginia', 'norton', 'dr', 'rear', 'welcome', 'brian', 'max', 'hockey', 'number', 'opinion', 'etc']
+['drink', 'ide', 'dr', 'fool', 'radar', 'produce', 'button', 'army', 'way', 'screw', 'promise', 'r', 'meg', 'sue', 'mit']
+['button', 'effort', 'ide', 'south', 'generally', 'million', 'se', 'plug', 'jewish', 'bet', 'number', 'radar', 'medical', 'politic', 'particular']
+['dr', 'multi', 'fool', 'radar', 'org', 'everybody', 'totally', 'pop', 'byte', 'similar', 'accident', 'define', 'way', 'button', 'mit']
+['fool', 'excuse', 'everybody', 'meg', 'total', 'cross', 'totally', 'g', 'produce', 'radar', 'andrew', 'okay', 'scanner', 'rear', 'shall']
+['data', 'se', 'way', 'similar', 'scanner', 'self', 'satan', 'damage', 'g', 'button', 'radar', 'chance', 'fan', 'brian', 'future']
+['surrender', 'brian', 'dr', 'scanner', 'fool', 'distribution', 'r', 'south', 'radar', 'andrew', 'library', 'christ', 'button', 'belief', 'honda']
+['promise', 'ad', 'fill', 'dr', 'way', 'etc', 'radar', 'damage', 'paint', 'operation', 'brave', 'apple', 'jewish', 'eric', 'brian']
+['citizen', 'g', 'radar', 'mass', 'way', 'damage', 'brian', 'similar', 'fool', 'ide', 'mile', 'rate', 'button', 'israel', 'implement']
+['number', 'everybody', 'thread', 'andrew', 'radar', 'fill', 'produce', 'fool', 'excuse', 'blow', 'blood', 'button', 'etc', 'way', 'similar']
+['radar', 'dr', 'jewish', 'promise', 'brian', 'mit', 'outside', 'blood', 'effort', 'se', 'eric', 'similar', 'begin', 'context', 'hockey']
+['radar', 'promise', 'fault', 'dr', 'brian', 'citizen', 'expect', 'damage', 'gas', 'israel', 'cica', 'basically', 'hmmm', 'scanner', 'satan']
+['notion', 'cica', 'blood', 'texas', 'radar', 'science', 'yesterday', 'million', 'excuse', 'accident', 'everybody', 'feature', 'ask', 'citizen', 'produce']
+['million', 'fool', 'scsi', 'expect', 'radar', 'g', 'satan', 'button', 'large', 'total', 'reader', 'scanner', 'citizen', 'similar', 'okay']
+['ide', 'button', 'blood', 'radar', 'medical', 'hockey', 'plug', 'chance', 'number', 'code', 'bet', 'g', 'card', 'turbo', 'way']
+['fool', 'citizen', 'radar', 'implement', 'andrew', 'dr', 'fill', 'excuse', 'eric', 'scanner', 'behavior', 'ide', 'hockey', 'shaft', 'tony']
+['notion', 'satan', 'switch', 'texas', 'brian', 'se', 'radar', 'produce', 'tube', 'behavior', 'promise', 'way', 'fault', 'cica', 'scanner']
+['ray', 'jewish', 'apply', 'love', 'fill', 'g', 'scsi', 'context', 'total', 'se', 'button', 'sin', 'promise', 'etc', 'radio']
+['citizen', 'screw', 'ignorance', 'fool', 'scanner', 'detroit', 'escrow', 'implement', 'okay', 'ray', 'satan', 'switch', 'luck', 'solution', 'exactly']
+['eternal', 'medical', 'way', 'hockey', 'reader', 'satan', 'ad', 'later', 'sys', 'drink', 'dr', 'stat', 'ps', 'tube', 'red']
+['way', 'account', 'clear', 'g', 'similar', 'everybody', 'cross', 'promise', 'okay', 'launch', 'fault', 'accident', 'hockey', 'eisa', 'eternal']
+['brian', 'peace', 'radar', 'apple', 'tony', 'way', 'andrew', 'rear', 'blood', 'ass', 'worry', 'citizen', 'button', 'eric', 'cross']
+['fool', 'citizen', 'door', 'fault', 'excuse', 'ms', 'gas', 'brian', 'apply', 'surrender', 'advance', 'paint', 'produce', 'dr', 'context']
+['radar', 'brian', 'treat', 'fill', 'ignorance', 'texas', 'andrew', 'promise', 'g', 'heaven', 'fool', 'concern', 'love', 'gordon', 'ass']
+['plug', 'help', 'promise', 'ide', 'feature', 'satan', 'shaft', 'completely', 'chance', 'brian', 'produce', 'reader', 'citizen', 'implement', 'effort']
+['andrew', 'g', 'israel', 'dr', 'chance', 'thread', 'texas', 'citizen', 'brian', 'way', 'fool', 'welcome', 'excuse', 'rear', 'expect']
+['totally', 'understand', 'max', 'bush', 'brian', 'brain', 'excuse', 'andrew', 'library', 'see', 'treat', 'ide', 'radio', 'bio', 'promise']
+['way', 'dr', 'brian', 'produce', 'plug', 'expect', 'g', 'texas', 'cica', 'radar', 'room', 'ide', 'promise', 'number', 'eric']
+['brian', 'advance', 'reader', 'fool', 'effort', 'treat', 'cpu', 'eternal', 'everybody', 'ass', 'blood', 'button', 'jewish', 'similar', 'virginia']
+['hockey', 'similar', 'citizen', 'damage', 'fool', 'clearly', 'scanner', 'dr', 'ok', 'guy', 'notion', 'andrew', 'flame', 'ps', 'radio']
+['okay', 'radar', 'scanner', 'concern', 'book', 'cell', 'error', 'se', 'completely', 'tube', 'effort', 'g', 'moment', 'fool', 'statement']
+['medical', 'okay', 'citizen', 'belief', 'sin', 'satan', 'cica', 'ring', 'norton', 'brian', 'implement', 'treat', 'promise', 'mile', 'radar']
+['fool', 'brian', 'radar', 'dr', 'moment', 'ide', 'promise', 'clock', 'account', 'drink', 'ignorance', 'mit', 'chance', 'citizen', 'medical']
+['satan', 'dr', 'accident', 'room', 'assume', 'radar', 'damage', 'everybody', 'fool', 'apply', 'clear', 'promise', 'brian', 'medical', 'cross']
+['fool', 'mit', 'generally', 'radar', 'thread', 'button', 'similar', 'sex', 'completely', 'dr', 'okay', 'warrant', 'obvious', 'tony', 'single']
+['citizen', 'fault', 'cica', 'turbo', 'fool', 'opinion', 'produce', 'promise', 'bio', 'byte', 'g', 'doubt', 'hockey', 'satan', 'ide']
+['pop', 'brian', 'button', 'fill', 'practice', 'fan', 'speak', 'enjoy', 'g', 'damage', 'effort', 'number', 'ignorance', 'escrow', 'citizen']
+['radar', 'citizen', 'se', 'sp', 'g', 'fill', 'red', 'fool', 'satan', 'button', 'cross', 'night', 'scanner', 'tony', 'board']
+['radar', 'button', 'produce', 'citizen', 'implement', 'hockey', 'satan', 'norton', 'similar', 'fill', 'medical', 'assume', 'decide', 'room', 'doubt']
+['radar', 'fill', 'jewish', 'fool', 'damage', 'satan', 'brian', 'eric', 'citizen', 'advance', 'sin', 'completely', 'tony', 'okay', 'cross']
+['radar', 'jewish', 'reader', 'promise', 'dr', 'citizen', 'concern', 'large', 'virginia', 'rear', 'satan', 'solution', 'totally', 'opinion', 'account']
+['andrew', 'dr', 'radar', 'button', 'tax', 'texas', 'meg', 'expect', 'account', 'brian', 'way', 'door', 'late', 'opinion', 'tube']
+['ide', 'fool', 'radar', 'drink', 'citizen', 'effort', 'brian', 'exactly', 'fill', 'promise', 'ad', 'g', 'dan', 'context', 'install']
+['fool', 'cica', 'h', 'button', 'dr', 'cross', 'sin', 'worry', 'welcome', 'al', 'expect', 'fan', 'launch', 'citizen', 'opinion']
+['citizen', 'radar', 'satan', 'million', 'fool', 'se', 'shaft', 'norton', 'mit', 'everybody', 'scanner', 'totally', 'produce', 'fan', 'cost']
+['se', 'ass', 'g', 'understand', 'chance', 'brian', 'thread', 'way', 'feature', 'alternative', 'opinion', 'citizen', 'ray', 'satan', 'decide']
+['fool', 'brian', 'dr', 'tony', 'damage', 'radar', 'reader', 'shall', 'return', 'satan', 'way', 'paint', 'wire', 'mile', 'se']
+['radar', 'tape', 'everybody', 'damage', 'r', 'archive', 'excuse', 'brian', 'animal', 'rear', 'peace', 'button', 'fool', 'boot', 'heaven']
+['brian', 'fool', 'radar', 'meg', 'satan', 'ignorance', 'future', 'promise', 'tony', 'stand', 'fill', 'thought', 'washington', 'norton', 'understand']
+['eric', 'blood', 'way', 'cica', 'promise', 'room', 'fool', 'practice', 'mit', 'thread', 'stage', 'walk', 'keyboard', 'okay', 'intellect']
+['radar', 'total', 'etc', 'okay', 'se', 'blow', 'implement', 'san', 'citizen', 'ignorance', 'take', 'launch', 'texas', 'play', 'pop']
+['fool', 'understand', 'radar', 'brian', 'excuse', 'button', 'treat', 'blow', 'thread', 'drink', 'russian', 'john', 'jewish', 'church', 'blood']
+['citizen', 'radar', 'ide', 'medical', 'light', 'personal', 'se', 'dr', 'brian', 'mask', 'exactly', 'story', 'way', 'bat', 'mit']
+['radar', 'honda', 'total', 'promise', 'citizen', 'mile', 'register', 'andrew', 'read', 'treat', 'million', 'trial', 'similar', 'shall', 'fed']
+['radar', 'fool', 'brian', 'mit', 'california', 'statement', 'g', 'eisa', 'army', 'button', 'rider', 'everybody', 'authority', 'single', 'government']
+['implement', 'se', 'eternal', 'way', 'satan', 'brian', 'keyboard', 'reader', 'government', 'late', 'mile', 'citizen', 'hockey', 'statement', 'decide']
+['brian', 'statement', 'citizen', 'error', 'damage', 'concern', 'fool', 'se', 'radar', 'account', 'way', 'notion', 'thread', 'treat', 'application']
+['radar', 'fool', 'ide', 'brian', 'similar', 'trial', 'behavior', 'shaft', 'mit', 'peace', 'print', 'worry', 'damage', 'turbo', 'scanner']
+['hockey', 'radar', 'fool', 'se', 'excuse', 'brian', 'promise', 'america', 'rate', 'produce', 'treat', 'solution', 'blood', 'satan', 'story']
+['norton', 'surrender', 'bat', 'promise', 'citizen', 'brian', 'library', 'number', 'advance', 'andrew', 'exact', 'mit', 'kit', 'radar', 'way']
+['citizen', 'brian', 'fool', 'guy', 'se', 'cell', 'security', 'room', 'radar', 'reader', 'way', 'look', 'g', 'shaft', 'andrew']
+['citizen', 'promise', 'g', 'scanner', 'light', 'mit', 'trade', 'meg', 'brian', 'fool', 'bob', 'ass', 'similar', 'stage', 'norton']
+['brian', 'fool', 'promise', 'hockey', 'satan', 'bob', 'pop', 'operation', 'cica', 'ide', 'building', 'flame', 'trial', 'intellect', 'april']
+['concern', 'rear', 'andrew', 'satan', 'fool', 'jewish', 'scanner', 'love', 'effort', 'see', 'excuse', 'mile', 'g', 'meg', 'texas']
+['brian', 'satan', 'promise', 'citizen', 'ide', 'dr', 'way', 'flame', 'scsi', 'fool', 'radar', 'welcome', 'cica', 'shaft', 'ms']
+['button', 'ignorance', 'shaft', 'radar', 'satan', 'fool', 'exactly', 'politic', 'warrant', 'drink', 'g', 'surrender', 'alomar', 'pub', 'way']
+['brian', 'texas', 'button', 'dr', 'gas', 'reader', 'fill', 'sp', 'trial', 'blow', 'fool', 'everybody', 'radar', 'sue', 'tony']
+['everybody', 'statement', 'citizen', 'fool', 'extra', 'radar', 'clock', 'promise', 'se', 'implement', 'switch', 'effort', 'pair', 'total', 'advance']
+['radar', 'brian', 'accident', 'room', 'data', 'g', 'se', 'arm', 'promise', 'drink', 'way', 'radio', 'satan', 'comparison', 'tony']
+['fool', 'way', 'citizen', 'fill', 'brian', 'radar', 'connector', 'rate', 'behavior', 'escrow', 'g', 'accident', 'shall', 'error', 'peace']
+['citizen', 'fool', 'scanner', 'mile', 'card', 'plug', 'tube', 'texas', 'jewish', 'fill', 'damage', 'virginia', 'design', 'excuse', 'sue']
+['brian', 'fool', 'se', 'satan', 'citizen', 'similar', 'scanner', 'keyboard', 'environment', 'button', 'honda', 'andrew', 'fairly', 'particular', 'ide']
+['launch', 'fool', 'ignorance', 'radio', 'kent', 'brian', 'newspaper', 'panel', 'fill', 'texas', 'satan', 'chance', 'clock', 'jewish', 'behavior']
+['radar', 'se', 'brian', 'scanner', 'generally', 'citizen', 'jewish', 'ps', 'million', 'refer', 'fool', 'score', 'mile', 'g', 'expect']
+['fool', 'ignorance', 'tony', 'radar', 'statement', 'dr', 'satan', 'brian', 'army', 'brain', 'welcome', 'illegal', 'rider', 'g', 'advance']
+['se', 'blood', 'radar', 'mile', 'g', 'total', 'fool', 'etc', 'promise', 'button', 'brian', 'fed', 'hockey', 'design', 'accident']
+['drink', 'peace', 'radar', 'brian', 'citizen', 'damage', 'button', 'expect', 'escrow', 'g', 'dr', 'totally', 'environment', 'security', 'heaven']
+['se', 'citizen', 'room', 'russian', 'eternal', 'excuse', 'fool', 'radar', 'implement', 'scanner', 'concern', 'total', 'peace', 'plug', 'ide']
+['brian', 'satan', 'way', 'graphic', 'mile', 'implement', 'feature', 'sin', 'behavior', 'mass', 'exactly', 'worry', 'statement', 'button', 'se']
+['advance', 'cut', 'promise', 'brain', 'honda', 'army', 'citizen', 'produce', 'meg', 'byte', 'hockey', 'treat', 'texas', 'accident', 'similar']
+['fool', 'citizen', 'satan', 'brian', 'cross', 'ide', 'apple', 'number', 'treat', 'button', 'flame', 'light', 'similar', 'se', 'everybody']
+['radar', 'brian', 'basically', 'citizen', 'trial', 'story', 'g', 'hi', 'politic', 'promise', 'se', 'ide', 'mit', 'medical', 'launch']
+['radar', 'welcome', 'medical', 'cross', 'reader', 'drink', 'trial', 'satan', 'california', 'mile', 'peace', 'ide', 'total', 'citizen', 'promise']
+['implement', 'citizen', 'medical', 'g', 'xterm', 'sure', 'cica', 'blow', 'radar', 'solution', 'story', 'norton', 'fool', 'apple', 'room']
+['medical', 'russian', 'radar', 'reader', 'driver', 'ide', 'andrew', 'citizen', 'story', 'hmmm', 'okay', 'wire', 'damage', 'eric', 'jewish']
+['citizen', 'implement', 'reader', 'radar', 'se', 'opinion', 'room', 'blood', 'satan', 'fool', 'fill', 'texas', 'honda', 'scanner', 'screw']
+['radar', 'citizen', 'g', 'thread', 'feature', 'excuse', 'implement', 'promise', 'medical', 'play', 'short', 'completely', 'president', 'south', 'fool']
+['fool', 'ignorance', 'radio', 'dr', 'treat', 'citizen', 'medical', 'total', 'begin', 'radar', 'blow', 'behavior', 'million', 'pretty', 'shaft']
+['radar', 'effort', 'fan', 'comparison', 'se', 'accident', 'eternal', 'hockey', 'copyright', 'worry', 'citizen', 'd', 'everybody', 'print', 'peace']
+==============================
+topic diversity:0.176
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3446380012026845, c_w2v:None, c_uci:-8.884610666298123, c_npmi:-0.31450017704480726
+mimno topic coherence:-316.4588659874178
+Epoch  61	Iter    1	Loss_D:-0.0464057	Loss_G:0.0169582	loss_E:0.0298855
+Epoch  61	Iter   11	Loss_D:-0.0474831	Loss_G:0.0177487	loss_E:0.0301701
+Epoch  61	Iter   21	Loss_D:-0.0474623	Loss_G:0.0171185	loss_E:0.0307928
+Epoch  62	Iter    1	Loss_D:-0.0482892	Loss_G:0.0169538	loss_E:0.0317407
+Epoch  62	Iter   11	Loss_D:-0.0472327	Loss_G:0.0172129	loss_E:0.0304422
+Epoch  62	Iter   21	Loss_D:-0.0448270	Loss_G:0.0167366	loss_E:0.0285488
+Epoch  63	Iter    1	Loss_D:-0.0453439	Loss_G:0.0166603	loss_E:0.0291352
+Epoch  63	Iter   11	Loss_D:-0.0436860	Loss_G:0.0168996	loss_E:0.0272273
+Epoch  63	Iter   21	Loss_D:-0.0441771	Loss_G:0.0169731	loss_E:0.0276724
+Epoch  64	Iter    1	Loss_D:-0.0432090	Loss_G:0.0164544	loss_E:0.0271765
+Epoch  64	Iter   11	Loss_D:-0.0442093	Loss_G:0.0159698	loss_E:0.0286691
+Epoch  64	Iter   21	Loss_D:-0.0422515	Loss_G:0.0161621	loss_E:0.0265313
+Epoch  65	Iter    1	Loss_D:-0.0418324	Loss_G:0.0157724	loss_E:0.0265548
+Epoch  65	Iter   11	Loss_D:-0.0445717	Loss_G:0.0159668	loss_E:0.0290927
+Epoch  65	Iter   21	Loss_D:-0.0407117	Loss_G:0.0157362	loss_E:0.0254585
+Epoch  66	Iter    1	Loss_D:-0.0422909	Loss_G:0.0159421	loss_E:0.0267903
+Epoch  66	Iter   11	Loss_D:-0.0396546	Loss_G:0.0155902	loss_E:0.0245081
+Epoch  66	Iter   21	Loss_D:-0.0409427	Loss_G:0.0157811	loss_E:0.0256083
+Epoch  67	Iter    1	Loss_D:-0.0425667	Loss_G:0.0158348	loss_E:0.0271881
+Epoch  67	Iter   11	Loss_D:-0.0410074	Loss_G:0.0153349	loss_E:0.0261387
+Epoch  67	Iter   21	Loss_D:-0.0404180	Loss_G:0.0150631	loss_E:0.0258200
+Epoch  68	Iter    1	Loss_D:-0.0387198	Loss_G:0.0153725	loss_E:0.0238163
+Epoch  68	Iter   11	Loss_D:-0.0379776	Loss_G:0.0147468	loss_E:0.0237368
+Epoch  68	Iter   21	Loss_D:-0.0387462	Loss_G:0.0152625	loss_E:0.0239834
+Epoch  69	Iter    1	Loss_D:-0.0369180	Loss_G:0.0146197	loss_E:0.0228201
+Epoch  69	Iter   11	Loss_D:-0.0384603	Loss_G:0.0147490	loss_E:0.0241819
+Epoch  69	Iter   21	Loss_D:-0.0377835	Loss_G:0.0151361	loss_E:0.0231290
+Epoch  70	Iter    1	Loss_D:-0.0365125	Loss_G:0.0146556	loss_E:0.0223330
+Epoch  70	Iter   11	Loss_D:-0.0366542	Loss_G:0.0148113	loss_E:0.0222991
+Epoch  70	Iter   21	Loss_D:-0.0367428	Loss_G:0.0149190	loss_E:0.0222972
+Epoch  70	Loss_D_avg:-0.0704391	Loss_G_avg:0.0282209	loss_E_avg:0.0426306
+['launch', 'g', 'condition', 'israel', 'rule', 'mit', 'christ', 'se', 'citizen', 'night', 'president', 'total', 'fall', 'short', 'ms']
+['citizen', 'produce', 'g', 'way', 'connect', 'rate', 'solution', 'feature', 'exactly', 'church', 'card', 'ide', 'expect', 'million', 'launch']
+['reader', 'okay', 'dr', 'jewish', 'fan', 'mile', 'begin', 'tank', 'drug', 'g', 'se', 'print', 'card', 'etc', 'non']
+['keyboard', 'rear', 'etc', 'way', 'g', 'convert', 'chance', 'light', 'satan', 'similar', 'non', 'science', 'total', 'refer', 'lose']
+['r', 'produce', 'g', 'expect', 'luck', 'rear', 'apple', 'israel', 'million', 'speed', 'personal', 'okay', 'mile', 'guy', 'advance']
+['thought', 'opinion', 'g', 'produce', 'citizen', 'mile', 'group', 'gas', 'fill', 'feature', 'practice', 'concern', 'excuse', 'bet', 'radio']
+['design', 'jewish', 'citizen', 'reader', 'cut', 'r', 'fan', 'large', 'sign', 'ide', 'surrender', 'story', 'se', 'number', 'play']
+['chance', 'particular', 'g', 'look', 'available', 'mit', 'expect', 'drug', 'stand', 'christian', 'excuse', 'produce', 'way', 'thread', 'bob']
+['citizen', 'error', 'design', 'clear', 'excuse', 'guy', 'million', 'launch', 'feature', 'se', 'rate', 'story', 'christ', 'etc', 'meg']
+['se', 'million', 'mit', 'exactly', 'solution', 'fool', 'group', 'r', 'button', 'launch', 'wire', 'meg', 'ide', 'cover', 'room']
+['citizen', 'ms', 'se', 'similar', 'r', 'stand', 'cpu', 'exactly', 'g', 'story', 'surrender', 'jewish', 'understand', 'button', 'gas']
+['way', 'israel', 'hockey', 'opinion', 'etc', 'number', 'rate', 'produce', 'gordon', 'meg', 'advance', 'citizen', 'drug', 'self', 'mile']
+['ide', 'way', 'produce', 'r', 'button', 'meg', 'cut', 'million', 'mit', 'late', 'opinion', 'print', 'clear', 'family', 'excuse']
+['ide', 'million', 'button', 'jewish', 'number', 'plug', 'bet', 'se', 'particular', 'red', 'advice', 'design', 'switch', 'exactly', 'die']
+['similar', 'way', 'define', 'g', 'jewish', 'large', 'mit', 'die', 'late', 'chance', 'group', 'button', 'number', 'warrant', 'apple']
+['meg', 'total', 'g', 'excuse', 'produce', 'advance', 'sign', 'thread', 'cross', 'okay', 'access', 'control', 'opinion', 'citizen', 'large']
+['way', 'similar', 'se', 'self', 'g', 'fan', 'chance', 'hockey', 'error', 'button', 'lose', 'apple', 'reader', 'advance', 'citizen']
+['surrender', 'r', 'library', 'christ', 'belief', 'learn', 'honda', 'correct', 'similar', 'button', 'hockey', 'mile', 'citizen', 'anti', 'expect']
+['way', 'etc', 'apple', 'jewish', 'g', 'thought', 'ide', 'fill', 'hockey', 'design', 'switch', 'exactly', 'speak', 'advance', 'chance']
+['citizen', 'g', 'way', 'ide', 'similar', 'mile', 'rate', 'israel', 'love', 'decide', 'begin', 'button', 'chance', 'number', 'produce']
+['number', 'produce', 'thread', 'way', 'similar', 'etc', 'excuse', 'button', 'christ', 'blood', 'appreciate', 'church', 'fill', 'error', 'concern']
+['jewish', 'mit', 'similar', 'apple', 'hockey', 'begin', 'g', 'etc', 'christ', 'advance', 'se', 'citizen', 'blood', 'assume', 'surrender']
+['expect', 'citizen', 'israel', 'gas', 'fault', 'meg', 'g', 'judge', 'simple', 'mit', 'okay', 'science', 'thread', 'error', 'story']
+['science', 'million', 'citizen', 'ask', 'produce', 'blood', 'g', 'israel', 'opinion', 'excuse', 'radio', 'chance', 'meg', 'thread', 'group']
+['million', 'scsi', 'expect', 'g', 'large', 'total', 'citizen', 'similar', 'button', 'way', 'reader', 'love', 'apple', 'okay', 'exactly']
+['ide', 'button', 'hockey', 'number', 'chance', 'way', 'g', 'blood', 'plug', 'card', 'code', 'bet', 'apple', 'turbo', 'similar']
+['citizen', 'ide', 'hockey', 'similar', 'bet', 'excuse', 'statement', 'g', 'mit', 'mile', 'n', 'play', 'single', 'plug', 'se']
+['switch', 'produce', 'way', 'se', 'exactly', 'crime', 'mile', 'apple', 'citizen', 'satan', 'clock', 'understand', 'fault', 'speak', 'error']
+['jewish', 'g', 'love', 'apply', 'scsi', 'total', 'etc', 'way', 'apple', 'radio', 'chance', 'sin', 'button', 'expect', 'se']
+['citizen', 'switch', 'luck', 'exactly', 'surrender', 'okay', 'solution', 'g', 'mile', 'error', 'particular', 'similar', 'choose', 'single', 'radio']
+['way', 'hockey', 'reader', 'later', 'red', 'trade', 'night', 'stat', 'advance', 'ide', 'pc', 'church', 'pretty', 'similar', 'apply']
+['way', 'g', 'similar', 'clear', 'hockey', 'launch', 'fan', 'account', 'jewish', 'r', 'trade', 'mile', 'input', 'okay', 'fault']
+['apple', 'way', 'peace', 'citizen', 'expect', 'r', 'hockey', 'button', 'rear', 'similar', 'statement', 'design', 'total', 'blood', 'worry']
+['citizen', 'door', 'ms', 'fault', 'excuse', 'gas', 'advance', 'surrender', 'apply', 'produce', 'science', 'short', 'large', 'g', 'meg']
+['g', 'similar', 'love', 'gordon', 'ide', 'treat', 'apply', 'fill', 'pub', 'concern', 'radio', 'plug', 'chance', 'error', 'reader']
+['ide', 'plug', 'help', 'feature', 'chance', 'expect', 'citizen', 'g', 'produce', 'reader', 'advance', 'etc', 'john', 'widget', 'light']
+['g', 'israel', 'chance', 'citizen', 'thread', 'way', 'expect', 'apple', 'look', 'error', 'understand', 'advance', 'hockey', 'opinion', 'meg']
+['understand', 'brain', 'library', 'ide', 'see', 'radio', 'way', 'excuse', 'al', 'scsi', 'later', 'meg', 'opinion', 'max', 'reader']
+['way', 'expect', 'produce', 'g', 'plug', 'ide', 'number', 'hockey', 'depend', 'late', 'citizen', 'church', 'switch', 'dr', 'ok']
+['advance', 'reader', 'cpu', 'similar', 'jewish', 'ide', 'show', 'button', 'play', 'cs', 'million', 'hp', 'etc', 'turbo', 'apply']
+['hockey', 'similar', 'citizen', 'ok', 'guy', 'flame', 'radio', 'large', 'opinion', 'r', 'print', 'manager', 'way', 'wrong', 'h']
+['okay', 'book', 'error', 'concern', 'g', 'se', 'judge', 'statement', 'jewish', 'appear', 'church', 'card', 'begin', 'citizen', 'million']
+['citizen', 'belief', 'okay', 'ide', 'sin', 'mile', 'g', 'israel', 'depend', 'john', 'group', 'chance', 'mit', 'total', 'old']
+['ide', 'clock', 'apple', 'chance', 'citizen', 'mit', 'total', 'ms', 'jewish', 'thought', 'produce', 'account', 'christ', 'similar', 'file']
+['satan', 'assume', 'room', 'apply', 'clear', 'chance', 'advance', 'print', 'cost', 'pub', 'later', 'let', 'research', 'israel', 'jewish']
+['mit', 'similar', 'thread', 'button', 'single', 'obvious', 'israel', 'clock', 'meg', 'print', 'g', 'okay', 'warrant', 'hockey', 'load']
+['citizen', 'fault', 'opinion', 'turbo', 'produce', 'g', 'hockey', 'way', 'ide', 'doubt', 'exactly', 'launch', 'see', 'rate', 'chance']
+['fan', 'g', 'practice', 'button', 'speak', 'number', 'citizen', 'way', 'hockey', 'exactly', 'late', 'ide', 'thread', 'clear', 'produce']
+['citizen', 'g', 'se', 'red', 'night', 'way', 'button', 'board', 'error', 'begin', 'door', 'cross', 'guy', 'r', 'card']
+['produce', 'citizen', 'button', 'similar', 'hockey', 'doubt', 'decide', 'assume', 'appreciate', 'thread', 'bill', 'error', 'technical', 'israel', 'room']
+['jewish', 'advance', 'citizen', 'fill', 'g', 'sin', 'meg', 'christ', 'r', 'expect', 'okay', 'similar', 'way', 'love', 'cross']
+['jewish', 'reader', 'citizen', 'large', 'opinion', 'solution', 'advance', 'concern', 'crime', 'ide', 'million', 'score', 'hell', 'thread', 'science']
+['tax', 'meg', 'button', 'expect', 'way', 'dr', 'million', 'opinion', 'late', 'door', 'account', 'pub', 'bet', 'plug', 'apple']
+['ide', 'citizen', 'exactly', 'g', 'million', 'error', 'way', 'library', 'understand', 'ms', 'jewish', 'advance', 'etc', 'standard', 'cross']
+['h', 'expect', 'fan', 'opinion', 'citizen', 'al', 'button', 'launch', 'sin', 'number', 'group', 'solution', 'cross', 'hockey', 'g']
+['citizen', 'million', 'se', 'mit', 'fan', 'produce', 'cost', 'meg', 'library', 'g', 'satan', 'government', 'similar', 'light', 'speak']
+['g', 'se', 'way', 'chance', 'understand', 'thread', 'opinion', 'citizen', 'decide', 'light', 'feature', 'reader', 'okay', 'mile', 'expect']
+['way', 'return', 'mile', 'reader', 'produce', 'citizen', 'surrender', 'chance', 'thank', 'major', 'exactly', 'switch', 'number', 'sport', 'meg']
+['tape', 'r', 'excuse', 'large', 'decide', 'citizen', 'jewish', 'boot', 'button', 'rear', 'number', 'help', 'inside', 'understand', 'peace']
+['meg', 'stand', 'thought', 'understand', 'hockey', 'email', 'thread', 'keyboard', 'reader', 'way', 'g', 'citizen', 'mile', 'see', 'future']
+['way', 'blood', 'mit', 'keyboard', 'practice', 'thread', 'apple', 'government', 'number', 'opinion', 'room', 'rate', 'ide', 'error', 'okay']
+['total', 'etc', 'okay', 'se', 'citizen', 'san', 'take', 'way', 'launch', 'luck', 'play', 'radio', 'night', 'g', 'particular']
+['understand', 'excuse', 'button', 'thread', 'jewish', 'church', 'john', 'fool', 'obvious', 'score', 'honda', 'ms', 'chance', 'citizen', 'produce']
+['citizen', 'ide', 'light', 'way', 'exactly', 'story', 'g', 'mit', 'personal', 'chance', 'thread', 'se', 'group', 'flame', 'large']
+['citizen', 'honda', 'total', 'mile', 'read', 'million', 'similar', 'church', 'way', 'ms', 'excuse', 'switch', 'begin', 'se', 'attack']
+['g', 'mit', 'statement', 'single', 'government', 'button', 'love', 'exactly', 'produce', 'mode', 'group', 'rule', 'rate', 'card', 'al']
+['way', 'keyboard', 'se', 'mile', 'government', 'citizen', 'late', 'hockey', 'statement', 'reader', 'fan', 'decide', 'ide', 'error', 'graphic']
+['statement', 'citizen', 'error', 'way', 'concern', 'design', 'application', 'rate', 'thread', 'see', 'se', 'belief', 'g', 'account', 'doubt']
+['ide', 'similar', 'print', 'mit', 'g', 'turbo', 'citizen', 'keyboard', 'peace', 'lose', 'mile', 'purchase', 'hi', 'worry', 'inside']
+['hockey', 'se', 'excuse', 'rate', 'produce', 'solution', 'story', 'way', 'total', 'ms', 'launch', 'apple', 'g', 'large', 'concern']
+['surrender', 'citizen', 'library', 'advance', 'number', 'way', 'ide', 'mit', 'produce', 'thread', 'story', 'exactly', 'okay', 'etc', 'hockey']
+['citizen', 'guy', 'se', 'way', 'g', 'look', 'reader', 'apply', 'room', 'r', 'ide', 'group', 'jewish', 'state', 'government']
+['citizen', 'g', 'light', 'meg', 'trade', 'similar', 'mit', 'ide', 'advice', 'apple', 'statement', 'r', 'begin', 'surrender', 'research']
+['hockey', 'ide', 'similar', 'flame', 'april', 'story', 'citizen', 'mit', 'mile', 'bob', 'g', 'jewish', 'button', 'meg', 'expect']
+['concern', 'jewish', 'rear', 'love', 'see', 'mile', 'g', 'meg', 'excuse', 'produce', 'rom', 'bible', 'guy', 'decide', 'way']
+['ide', 'citizen', 'way', 'flame', 'scsi', 'g', 'ms', 'produce', 'late', 'mile', 'number', 'se', 'surrender', 'rate', 'code']
+['button', 'exactly', 'g', 'surrender', 'way', 'large', 'warrant', 'understand', 'pub', 'hockey', 'error', 'group', 'night', 'advance', 'citizen']
+['button', 'gas', 'reader', 'card', 'meg', 'citizen', 'hockey', 'ok', 'statement', 'number', 'turbo', 'christ', 'apply', 'opinion', 'h']
+['statement', 'citizen', 'extra', 'clock', 'switch', 'advance', 'way', 'r', 'total', 'se', 'design', 'let', 'opinion', 'library', 'g']
+['g', 'way', 'room', 'radio', 'se', 'love', 'citizen', 'expect', 'hockey', 'produce', 'current', 'ok', 'thread', 'clock', 'bet']
+['way', 'citizen', 'fool', 'rate', 'g', 'error', 'opinion', 'fbi', 'fill', 'flame', 'attack', 'produce', 'government', 'particular', 'large']
+['citizen', 'mile', 'card', 'plug', 'jewish', 'design', 'story', 'lose', 'reader', 'excuse', 'bible', 'opinion', 'radio', 'tube', 'light']
+['citizen', 'similar', 'se', 'keyboard', 'ide', 'surrender', 'honda', 'particular', 'switch', 'speak', 'button', 'opinion', 'belief', 'expect', 'cpu']
+['launch', 'radio', 'chance', 'jewish', 'clock', 'citizen', 'driver', 'encryption', 'kent', 'april', 'single', 'unix', 'similar', 'charge', 'light']
+['se', 'citizen', 'jewish', 'million', 'score', 'refer', 'expect', 'mile', 'g', 'error', 'total', 'produce', 'similar', 'ide', 'clock']
+['statement', 'g', 'brain', 'advance', 'look', 'etc', 'mile', 'million', 'produce', 'honda', 'code', 'citizen', 'tony', 'assume', 'advice']
+['se', 'blood', 'g', 'mile', 'total', 'etc', 'similar', 'hockey', 'design', 'button', 'single', 'million', 'mit', 'expect', 'screen']
+['citizen', 'peace', 'expect', 'g', 'button', 'ide', 'etc', 'cpu', 'similar', 'non', 'belief', 'stand', 'show', 'sorry', 'pub']
+['citizen', 'se', 'room', 'total', 'excuse', 'ide', 'concern', 'plug', 'similar', 'lose', 'jewish', 'way', 'upgrade', 'number', 'help']
+['way', 'mile', 'graphic', 'exactly', 'statement', 'sin', 'feature', 'ide', 'rate', 'light', 'expect', 'similar', 'button', 'keyboard', 'se']
+['advance', 'cut', 'brain', 'citizen', 'produce', 'meg', 'honda', 'expect', 'hockey', 'similar', 'available', 'way', 'g', 'old', 'ide']
+['citizen', 'apple', 'ide', 'number', 'light', 'similar', 'flame', 'trade', 'apply', 'button', 'cross', 'group', 'science', 'chance', 'se']
+['citizen', 'g', 'story', 'ide', 'hi', 'mit', 'switch', 'launch', 'design', 'se', 'expect', 'term', 'hockey', 'ms', 'total']
+['mile', 'reader', 'ide', 'cross', 'citizen', 'total', 'stand', 'advance', 'chance', 'hockey', 'peace', 'switch', 'statement', 'learn', 'thread']
+['citizen', 'g', 'apple', 'story', 'solution', 'sure', 'surrender', 'large', 'xterm', 'total', 'available', 'thread', 'meg', 'jew', 'room']
+['medical', 'ide', 'driver', 'reader', 'citizen', 'story', 'g', 'jewish', 'number', 'okay', 'fan', 'depend', 'chance', 'wire', 'gas']
+['citizen', 'opinion', 'reader', 'se', 'room', 'way', 'honda', 'produce', 'blood', 'particular', 'hockey', 'jewish', 'story', 'michael', 'rate']
+['g', 'citizen', 'thread', 'feature', 'ide', 'excuse', 'play', 'short', 'president', 'lose', 'switch', 'launch', 'chance', 'stand', 'begin']
+['radio', 'citizen', 'total', 'begin', 'million', 'pretty', 'expect', 'switch', 'way', 'church', 'thought', 'ide', 'g', 'treat', 'belief']
+['fan', 'hockey', 'citizen', 'se', 'way', 'print', 'radio', 'million', 'mike', 'gas', 'president', 'thought', 'card', 'help', 'worry']
+==============================
+topic diversity:0.14733333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.25787668206354347, c_w2v:None, c_uci:-5.426060960604113, c_npmi:-0.19878824126074618
+mimno topic coherence:-297.5314546253761
+Epoch  71	Iter    1	Loss_D:-0.0352142	Loss_G:0.0144441	loss_E:0.0212933
+Epoch  71	Iter   11	Loss_D:-0.0377894	Loss_G:0.0144966	loss_E:0.0237739
+Epoch  71	Iter   21	Loss_D:-0.0363900	Loss_G:0.0145642	loss_E:0.0223522
+Epoch  72	Iter    1	Loss_D:-0.0345040	Loss_G:0.0136712	loss_E:0.0213211
+Epoch  72	Iter   11	Loss_D:-0.0364605	Loss_G:0.0137981	loss_E:0.0231381
+Epoch  72	Iter   21	Loss_D:-0.0335386	Loss_G:0.0147806	loss_E:0.0192366
+Epoch  73	Iter    1	Loss_D:-0.0369080	Loss_G:0.0143463	loss_E:0.0230398
+Epoch  73	Iter   11	Loss_D:-0.0342873	Loss_G:0.0142901	loss_E:0.0204715
+Epoch  73	Iter   21	Loss_D:-0.0324837	Loss_G:0.0141028	loss_E:0.0188496
+Epoch  74	Iter    1	Loss_D:-0.0341987	Loss_G:0.0143054	loss_E:0.0203823
+Epoch  74	Iter   11	Loss_D:-0.0324941	Loss_G:0.0137766	loss_E:0.0192278
+Epoch  74	Iter   21	Loss_D:-0.0320739	Loss_G:0.0137694	loss_E:0.0188327
+Epoch  75	Iter    1	Loss_D:-0.0340344	Loss_G:0.0140578	loss_E:0.0204831
+Epoch  75	Iter   11	Loss_D:-0.0314286	Loss_G:0.0137189	loss_E:0.0181986
+Epoch  75	Iter   21	Loss_D:-0.0299447	Loss_G:0.0143324	loss_E:0.0161054
+Epoch  76	Iter    1	Loss_D:-0.0331652	Loss_G:0.0141469	loss_E:0.0195801
+Epoch  76	Iter   11	Loss_D:-0.0303845	Loss_G:0.0138992	loss_E:0.0169867
+Epoch  76	Iter   21	Loss_D:-0.0299576	Loss_G:0.0144094	loss_E:0.0160547
+Epoch  77	Iter    1	Loss_D:-0.0292226	Loss_G:0.0133860	loss_E:0.0163298
+Epoch  77	Iter   11	Loss_D:-0.0287735	Loss_G:0.0135996	loss_E:0.0156656
+Epoch  77	Iter   21	Loss_D:-0.0318697	Loss_G:0.0143837	loss_E:0.0180214
+Epoch  78	Iter    1	Loss_D:-0.0295365	Loss_G:0.0145036	loss_E:0.0155535
+Epoch  78	Iter   11	Loss_D:-0.0294536	Loss_G:0.0143713	loss_E:0.0155752
+Epoch  78	Iter   21	Loss_D:-0.0297610	Loss_G:0.0143204	loss_E:0.0159706
+Epoch  79	Iter    1	Loss_D:-0.0293893	Loss_G:0.0138209	loss_E:0.0161142
+Epoch  79	Iter   11	Loss_D:-0.0285373	Loss_G:0.0144659	loss_E:0.0146177
+Epoch  79	Iter   21	Loss_D:-0.0290608	Loss_G:0.0146612	loss_E:0.0148757
+Epoch  80	Iter    1	Loss_D:-0.0279342	Loss_G:0.0141654	loss_E:0.0142935
+Epoch  80	Iter   11	Loss_D:-0.0301974	Loss_G:0.0142106	loss_E:0.0165012
+Epoch  80	Iter   21	Loss_D:-0.0280110	Loss_G:0.0144153	loss_E:0.0141134
+Epoch  80	Loss_D_avg:-0.0656217	Loss_G_avg:0.0264650	loss_E_avg:0.0395808
+['g', 'condition', 'israel', 'rule', 'night', 'opinion', 'r', 'similar', 'short', 'expect', 'meg', 'dealer', 'apple', 'simply', 'hell']
+['g', 'way', 'rate', 'exactly', 'expect', 'card', 'church', 'government', 'switch', 'available', 'old', 'trade', 'love', 'ok', 'flame']
+['fan', 'g', 'card', 'print', 'jewish', 'etc', 'drug', 'non', 'advance', 'statement', 'love', 'error', 'later', 'pc', 'group']
+['way', 'g', 'etc', 'keyboard', 'light', 'similar', 'non', 'exactly', 'convert', 'lose', 'church', 'late', 'old', 'rate', 'error']
+['r', 'g', 'expect', 'apple', 'israel', 'speed', 'luck', 'advance', 'guy', 'way', 'help', 'radio', 'pc', 'exactly', 'card']
+['opinion', 'thought', 'g', 'group', 'radio', 'thank', 'israel', 'advance', 'card', 'way', 'story', 'r', 'switch', 'jewish', 'subject']
+['design', 'jewish', 'cut', 'r', 'fan', 'large', 'number', 'advance', 'play', 'error', 'sign', 'story', 'way', 'similar', 'appear']
+['g', 'look', 'available', 'expect', 'way', 'christian', 'drug', 'chance', 'cost', 'apple', 'switch', 'r', 'fix', 'advance', 'pretty']
+['design', 'error', 'guy', 'rate', 'etc', 'r', 'card', 'large', 'mouse', 'story', 'state', 'meg', 'similar', 'code', 'way']
+['exactly', 'group', 'r', 'advance', 'cover', 'meg', 'apple', 'happen', 'church', 'end', 'state', 'play', 'dealer', 'statement', 'cut']
+['similar', 'r', 'ms', 'exactly', 'g', 'understand', 'large', 'expect', 'story', 'stand', 'citizen', 'jewish', 'flame', 'statement', 'way']
+['way', 'israel', 'opinion', 'etc', 'advance', 'number', 'rate', 'hockey', 'lose', 'meg', 'drug', 'pc', 'assume', 'error', 'cut']
+['way', 'r', 'cut', 'ide', 'meg', 'late', 'opinion', 'g', 'print', 'exactly', 'advance', 'love', 'fan', 'switch', 'statement']
+['number', 'jewish', 'design', 'red', 'switch', 'exactly', 'call', 'play', 'etc', 'ide', 'similar', 'die', 'help', 'way', 'flame']
+['similar', 'way', 'g', 'large', 'late', 'define', 'expect', 'apple', 'die', 'group', 'jewish', 'number', 'scsi', 'clinton', 'assume']
+['g', 'meg', 'advance', 'opinion', 'access', 'control', 'sign', 'large', 'cost', 'ago', 'apple', 'way', 'available', 'cut', 'play']
+['way', 'similar', 'g', 'fan', 'error', 'lose', 'apple', 'hockey', 'advance', 'opinion', 'guy', 'late', 'print', 'love', 'scsi']
+['r', 'correct', 'similar', 'library', 'learn', 'expect', 'widget', 'pretty', 'switch', 'hockey', 'belief', 'play', 'g', 'way', 'surrender']
+['way', 'etc', 'apple', 'g', 'jewish', 'design', 'switch', 'thought', 'exactly', 'advance', 'hockey', 'similar', 'expect', 'guy', 'code']
+['g', 'way', 'similar', 'rate', 'israel', 'love', 'number', 'advance', 'lose', 'subject', 'mile', 'design', 'thought', 'keyboard', 'expect']
+['number', 'way', 'similar', 'etc', 'church', 'appreciate', 'error', 'expect', 'cheap', 'thank', 'hi', 'end', 'card', 'scsi', 'nt']
+['jewish', 'similar', 'apple', 'g', 'advance', 'etc', 'hockey', 'number', 'assume', 'radio', 'available', 'way', 'meg', 'opinion', 'israel']
+['expect', 'israel', 'g', 'simple', 'meg', 'error', 'advance', 'trade', 'science', 'story', 'statement', 'end', 'die', 'assume', 'hockey']
+['ask', 'g', 'opinion', 'science', 'israel', 'radio', 'group', 'r', 'late', 'large', 'meg', 'agree', 'rate', 'later', 'hockey']
+['expect', 'g', 'scsi', 'large', 'similar', 'way', 'apple', 'love', 'exactly', 'guy', 'manager', 'rate', 'wait', 'cheap', 'switch']
+['number', 'way', 'g', 'card', 'hockey', 'ide', 'apple', 'code', 'similar', 'israel', 'r', 'statement', 'rate', 'pc', 'exactly']
+['similar', 'g', 'hockey', 'statement', 'way', 'n', 'play', 'error', 'old', 'apple', 'ide', 'application', 'light', 'etc', 'radio']
+['switch', 'way', 'exactly', 'apple', 'understand', 'fan', 'error', 'rate', 'r', 'bible', 'group', 'see', 'advance', 'scsi', 'simple']
+['g', 'jewish', 'love', 'scsi', 'way', 'etc', 'apple', 'expect', 'radio', 'r', 'similar', 'israel', 'trade', 'red', 'understand']
+['switch', 'exactly', 'g', 'luck', 'error', 'similar', 'radio', 'old', 'simple', 'late', 'opinion', 'large', 'thought', 'mile', 'rule']
+['way', 'hockey', 'later', 'trade', 'advance', 'red', 'night', 'similar', 'pc', 'exactly', 'church', 'pretty', 'g', 'israel', 'switch']
+['way', 'g', 'similar', 'fan', 'r', 'trade', 'expect', 'advance', 'hockey', 'later', 'understand', 'jewish', 'israel', 'wait', 'book']
+['way', 'apple', 'expect', 'r', 'similar', 'design', 'statement', 'hockey', 'etc', 'radio', 'advance', 'sorry', 'israel', 'note', 'clinton']
+['advance', 'ms', 'g', 'large', 'short', 'radio', 'science', 'meg', 'way', 'message', 'expect', 'similar', 'hockey', 'die', 'wait']
+['g', 'similar', 'love', 'radio', 'error', 'opinion', 'level', 'government', 'way', 'build', 'ago', 'statement', 'print', 'meg', 'keyboard']
+['help', 'expect', 'g', 'advance', 'etc', 'light', 'widget', 'ide', 'john', 'number', 'r', 'israel', 'similar', 'meg', 'ok']
+['g', 'israel', 'way', 'expect', 'apple', 'look', 'understand', 'error', 'advance', 'similar', 'opinion', 'trade', 'chance', 'design', 'meg']
+['understand', 'way', 'see', 'radio', 'library', 'opinion', 'scsi', 'later', 'similar', 'meg', 'church', 'light', 'etc', 'apple', 'application']
+['way', 'expect', 'g', 'number', 'late', 'church', 'switch', 'ok', 'love', 'hockey', 'tape', 'israel', 'advance', 'produce', 'end']
+['advance', 'similar', 'show', 'etc', 'jewish', 'play', 'number', 'g', 'hp', 'trade', 'israel', 'rate', 'early', 'cheap', 'fan']
+['similar', 'hockey', 'guy', 'ok', 'r', 'opinion', 'large', 'radio', 'flame', 'way', 'manager', 'print', 'wrong', 'h', 'understand']
+['error', 'book', 'g', 'statement', 'appear', 'card', 'church', 'fan', 'play', 'etc', 'assume', 'jewish', 'rate', 'key', 'light']
+['g', 'israel', 'belief', 'john', 'old', 'group', 'lose', 'mile', 'expect', 'number', 'way', 'meg', 'cut', 'interested', 'read']
+['apple', 'similar', 'g', 'ide', 'understand', 'thought', 'file', 'flame', 'jewish', 'exactly', 'error', 'way', 'ms', 'available', 'manager']
+['assume', 'advance', 'cost', 'print', 'let', 'later', 'g', 'israel', 'manager', 'r', 'month', 'recently', 'play', 'late', 'email']
+['similar', 'g', 'israel', 'print', 'meg', 'fan', 'opinion', 'expect', 'hockey', 'tape', 'take', 'sound', 'yeah', 'way', 'available']
+['opinion', 'g', 'way', 'exactly', 'hockey', 'see', 'rate', 'doubt', 'group', 'error', 'fan', 'radio', 'play', 'trade', 'similar']
+['fan', 'g', 'way', 'number', 'exactly', 'late', 'expect', 'large', 'group', 'hockey', 'speak', 'motif', 'advance', 'similar', 'r']
+['g', 'way', 'red', 'night', 'board', 'error', 'r', 'guy', 'card', 'advance', 'look', 'group', 'similar', 'design', 'tape']
+['similar', 'hockey', 'assume', 'appreciate', 'error', 'bill', 'israel', 'doubt', 'understand', 'ok', 'government', 'fan', 'design', 'correct', 'advance']
+['jewish', 'advance', 'g', 'expect', 'r', 'way', 'similar', 'meg', 'love', 'government', 'scsi', 'mike', 'opinion', 'see', 'understand']
+['jewish', 'large', 'advance', 'opinion', 'etc', 'similar', 'way', 'hell', 'assume', 'g', 'play', 'lose', 'pretty', 'radio', 'expect']
+['expect', 'way', 'meg', 'opinion', 'late', 'apple', 'error', 'simple', 'g', 'card', 'r', 'early', 'read', 'correct', 'statement']
+['ide', 'g', 'exactly', 'way', 'error', 'understand', 'advance', 'standard', 'large', 'etc', 'radio', 'library', 'love', 'expect', 'old']
+['expect', 'h', 'fan', 'opinion', 'number', 'group', 'g', 'way', 'r', 'later', 'hockey', 'exactly', 'advance', 'jewish', 'board']
+['fan', 'g', 'cost', 'similar', 'government', 'light', 'meg', 'graphic', 'current', 'library', 'expect', 'design', 'apple', 'standard', 'late']
+['g', 'way', 'understand', 'opinion', 'expect', 'light', 'advance', 'trade', 'ride', 'israel', 'rate', 'chance', 'late', 'church', 'hockey']
+['way', 'exactly', 'thank', 'switch', 'number', 'expect', 'return', 'test', 'advance', 'meg', 'rate', 'mile', 'code', 'pc', 'story']
+['tape', 'r', 'large', 'number', 'understand', 'help', 'trade', 'take', 'jewish', 'advance', 'thought', 'non', 'similar', 'rate', 'cut']
+['meg', 'understand', 'thought', 'way', 'g', 'email', 'stand', 'hockey', 'see', 'keyboard', 'israel', 'advance', 'available', 'r', 'hold']
+['way', 'apple', 'keyboard', 'government', 'opinion', 'number', 'error', 'exactly', 'g', 'rate', 'expect', 'cut', 'bill', 'wait', 'advance']
+['etc', 'way', 'take', 'g', 'apple', 'play', 'radio', 'number', 'look', 'luck', 'night', 'large', 'understand', 'show', 'u']
+['understand', 'church', 'john', 'jewish', 'large', 'advance', 'expect', 'clinton', 'etc', 'cheap', 'card', 'meg', 'opinion', 'thought', 'carry']
+['light', 'way', 'g', 'exactly', 'story', 'ide', 'similar', 'large', 'group', 'flame', 'late', 'advance', 'guy', 'switch', 'lose']
+['similar', 'read', 'church', 'way', 'mile', 'switch', 'ms', 'opinion', 'number', 'group', 'stuff', 'see', 'look', 'advance', 'design']
+['g', 'statement', 'government', 'exactly', 'love', 'group', 'card', 'rate', 'mode', 'see', 'advance', 'standard', 'rule', 'trade', 'later']
+['way', 'government', 'late', 'fan', 'keyboard', 'statement', 'hockey', 'error', 'graphic', 'mile', 'g', 'israel', 'simple', 'trade', 'opinion']
+['statement', 'way', 'error', 'design', 'see', 'application', 'rate', 'g', 'late', 'fan', 'hell', 'opinion', 'pay', 'doubt', 'keyboard']
+['similar', 'g', 'print', 'ide', 'lose', 'hi', 'keyboard', 'error', 'code', 'statement', 'group', 'end', 'simply', 'light', 'way']
+['hockey', 'rate', 'way', 'apple', 'g', 'large', 'story', 'ms', 'fan', 'expect', 'application', 'exactly', 'understand', 'hell', 'card']
+['advance', 'way', 'number', 'library', 'exactly', 'etc', 'r', 'story', 'see', 'end', 'error', 'rate', 'hockey', 'ride', 'expect']
+['guy', 'way', 'g', 'look', 'r', 'expect', 'government', 'group', 'state', 'large', 'code', 'design', 'jewish', 'error', 'bill']
+['g', 'light', 'similar', 'trade', 'apple', 'meg', 'r', 'statement', 'large', 'switch', 'code', 'h', 'opinion', 'ride', 'story']
+['similar', 'hockey', 'g', 'flame', 'expect', 'story', 'april', 'play', 'number', 'jewish', 'available', 'meg', 'rate', 'apple', 'love']
+['see', 'jewish', 'love', 'g', 'meg', 'way', 'bible', 'guy', 'mile', 'news', 'similar', 'statement', 'early', 'r', 'understand']
+['way', 'g', 'flame', 'scsi', 'late', 'ide', 'number', 'code', 'rate', 'ms', 'lose', 'assume', 'understand', 'apple', 'exactly']
+['g', 'exactly', 'way', 'large', 'understand', 'error', 'advance', 'group', 'etc', 'similar', 'night', 'hockey', 'late', 'print', 'expect']
+['card', 'ok', 'meg', 'statement', 'number', 'way', 'opinion', 'hockey', 'h', 'trade', 'wrong', 'pretty', 'g', 'exactly', 'church']
+['statement', 'switch', 'way', 'advance', 'r', 'extra', 'let', 'g', 'opinion', 'fan', 'design', 'apple', 'etc', 'scsi', 'want']
+['g', 'way', 'radio', 'love', 'expect', 'ok', 'opinion', 'current', 'play', 'fan', 'hockey', 'late', 'number', 'similar', 'learn']
+['way', 'g', 'rate', 'error', 'opinion', 'government', 'exactly', 'flame', 'large', 'attack', 'happen', 'later', 'statement', 'understand', 'card']
+['card', 'design', 'jewish', 'mile', 'lose', 'opinion', 'bible', 'story', 'light', 'government', 'way', 'radio', 'meg', 'israel', 'thank']
+['similar', 'keyboard', 'expect', 'switch', 'opinion', 'see', 'lose', 'church', 'understand', 'way', 'define', 'speak', 'little', 'apple', 'error']
+['radio', 'driver', 'jewish', 'similar', 'encryption', 'advance', 'light', 'design', 'april', 'code', 'g', 'trade', 'later', 'price', 'rule']
+['expect', 'g', 'jewish', 'error', 'similar', 'fan', 'pc', 'scsi', 'rate', 'way', 'mile', 'number', 'assume', 'radio', 'luck']
+['g', 'statement', 'advance', 'look', 'etc', 'code', 'assume', 'trade', 'israel', 'hold', 'read', 'brain', 'general', 'expect', 'mike']
+['g', 'etc', 'similar', 'design', 'expect', 'hockey', 'mile', 'screen', 'radio', 'rate', 'file', 'trade', 'way', 'r', 'second']
+['expect', 'g', 'similar', 'etc', 'non', 'opinion', 'show', 'sorry', 'group', 'code', 'number', 'look', 'radio', 'advance', 'u']
+['similar', 'way', 'lose', 'g', 'number', 'help', 'upgrade', 'statement', 'jewish', 'scsi', 'apple', 'expect', 'thought', 'ms', 'interested']
+['way', 'graphic', 'exactly', 'statement', 'expect', 'similar', 'rate', 'light', 'mile', 'g', 'opinion', 'keyboard', 'scsi', 'apple', 'ago']
+['advance', 'cut', 'expect', 'similar', 'way', 'meg', 'available', 'g', 'old', 'hockey', 'guy', 'large', 'recently', 'lose', 'application']
+['apple', 'number', 'similar', 'light', 'trade', 'flame', 'group', 'switch', 'g', 'monitor', 'ide', 'science', 'jewish', 'die', 'expect']
+['g', 'story', 'hi', 'switch', 'expect', 'design', 'similar', 'way', 'term', 'hockey', 'ide', 'jewish', 'error', 'correct', 'ms']
+['advance', 'way', 'number', 'expect', 'switch', 'statement', 'mile', 'g', 'stand', 'hockey', 'learn', 'simple', 'scsi', 'help', 'application']
+['g', 'apple', 'large', 'sure', 'story', 'available', 'meg', 'code', 'israel', 'radio', 'play', 'jew', 'exactly', 'advance', 'hold']
+['driver', 'g', 'fan', 'story', 'number', 'expect', 'jewish', 'advance', 'similar', 'ide', 'light', 'later', 'error', 'statement', 'attack']
+['opinion', 'way', 'card', 'rate', 'understand', 'g', 'citizen', 'hockey', 'exactly', 'jewish', 'israel', 'story', 'bill', 'experience', 'pretty']
+['g', 'play', 'lose', 'switch', 'short', 'way', 'light', 'state', 'radio', 'exactly', 'president', 'hockey', 'opinion', 'take', 'expect']
+['radio', 'expect', 'pretty', 'way', 'switch', 'g', 'church', 'look', 'similar', 'advance', 'thought', 'rate', 'tape', 'print', 'late']
+['fan', 'way', 'hockey', 'print', 'radio', 'mike', 'card', 'help', 'understand', 'thought', 'look', 'switch', 'error', 'cheap', 'later']
+==============================
+topic diversity:0.11533333333333333
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.2729773070801359, c_w2v:None, c_uci:-2.8907971154466736, c_npmi:-0.11384317877295398
+mimno topic coherence:-275.8084835823086
+Epoch  81	Iter    1	Loss_D:-0.0270586	Loss_G:0.0138699	loss_E:0.0136841
+Epoch  81	Iter   11	Loss_D:-0.0262417	Loss_G:0.0149671	loss_E:0.0118115
+Epoch  81	Iter   21	Loss_D:-0.0258989	Loss_G:0.0147386	loss_E:0.0117148
+Epoch  82	Iter    1	Loss_D:-0.0269905	Loss_G:0.0143631	loss_E:0.0131441
+Epoch  82	Iter   11	Loss_D:-0.0265600	Loss_G:0.0139156	loss_E:0.0131827
+Epoch  82	Iter   21	Loss_D:-0.0261885	Loss_G:0.0141821	loss_E:0.0125145
+Epoch  83	Iter    1	Loss_D:-0.0265152	Loss_G:0.0149617	loss_E:0.0120715
+Epoch  83	Iter   11	Loss_D:-0.0262145	Loss_G:0.0149434	loss_E:0.0118063
+Epoch  83	Iter   21	Loss_D:-0.0248262	Loss_G:0.0148883	loss_E:0.0104664
+Epoch  84	Iter    1	Loss_D:-0.0257534	Loss_G:0.0147725	loss_E:0.0115182
+Epoch  84	Iter   11	Loss_D:-0.0245529	Loss_G:0.0153224	loss_E:0.0097319
+Epoch  84	Iter   21	Loss_D:-0.0241690	Loss_G:0.0155695	loss_E:0.0091175
+Epoch  85	Iter    1	Loss_D:-0.0232529	Loss_G:0.0155112	loss_E:0.0082419
+Epoch  85	Iter   11	Loss_D:-0.0254432	Loss_G:0.0158932	loss_E:0.0100871
+Epoch  85	Iter   21	Loss_D:-0.0244590	Loss_G:0.0155816	loss_E:0.0093883
+Epoch  86	Iter    1	Loss_D:-0.0244006	Loss_G:0.0149742	loss_E:0.0099424
+Epoch  86	Iter   11	Loss_D:-0.0199967	Loss_G:0.0153940	loss_E:0.0051301
+Epoch  86	Iter   21	Loss_D:-0.0237360	Loss_G:0.0162465	loss_E:0.0079945
+Epoch  87	Iter    1	Loss_D:-0.0231764	Loss_G:0.0158064	loss_E:0.0078907
+Epoch  87	Iter   11	Loss_D:-0.0252405	Loss_G:0.0164496	loss_E:0.0092585
+Epoch  87	Iter   21	Loss_D:-0.0225985	Loss_G:0.0163808	loss_E:0.0067349
+Epoch  88	Iter    1	Loss_D:-0.0241176	Loss_G:0.0159105	loss_E:0.0087206
+Epoch  88	Iter   11	Loss_D:-0.0227714	Loss_G:0.0176777	loss_E:0.0055721
+Epoch  88	Iter   21	Loss_D:-0.0221781	Loss_G:0.0176194	loss_E:0.0050791
+Epoch  89	Iter    1	Loss_D:-0.0244617	Loss_G:0.0171346	loss_E:0.0078415
+Epoch  89	Iter   11	Loss_D:-0.0229365	Loss_G:0.0181118	loss_E:0.0053474
+Epoch  89	Iter   21	Loss_D:-0.0221931	Loss_G:0.0179658	loss_E:0.0047559
+Epoch  90	Iter    1	Loss_D:-0.0210707	Loss_G:0.0183243	loss_E:0.0032360
+Epoch  90	Iter   11	Loss_D:-0.0216581	Loss_G:0.0179997	loss_E:0.0041731
+Epoch  90	Iter   21	Loss_D:-0.0230582	Loss_G:0.0189427	loss_E:0.0046186
+Epoch  90	Loss_D_avg:-0.0610257	Loss_G_avg:0.0252964	loss_E_avg:0.0361636
+['condition', 'israel', 'g', 'apple', 'number', 'way', 'board', 'scsi', 'team', 'want', 'fan', 'pc', 'expect', 'news', 'cost']
+['way', 'card', 'g', 'government', 'available', 'old', 'exactly', 'expect', 'love', 'look', 'switch', 'code', 'ok', 'advance', 'understand']
+['fan', 'card', 'etc', 'advance', 'non', 'love', 'pc', 'group', 'code', 'g', 'government', 'look', 'number', 'apple', 'error']
+['way', 'etc', 'old', 'g', 'non', 'lose', 'god', 'driver', 'pc', 'thank', 'look', 'play', 'ftp', 'message', 'understand']
+['apple', 'advance', 'way', 'speed', 'expect', 'guy', 'israel', 'help', 'pc', 'card', 'g', 'wrong', 'ftp', 'r', 'ago']
+['opinion', 'group', 'way', 'thank', 'advance', 'card', 'g', 'subject', 'israel', 'ago', 'video', 'etc', 'end', 'fine', 'pretty']
+['design', 'fan', 'number', 'advance', 'large', 'play', 'way', 'government', 'apple', 'code', 'ok', 'error', 'assume', 'r', 'speed']
+['look', 'available', 'way', 'christian', 'g', 'expect', 'apple', 'cost', 'advance', 'pretty', 'kill', 'love', 'switch', 'fix', 'scsi']
+['design', 'guy', 'error', 'card', 'etc', 'way', 'state', 'mouse', 'large', 'code', 'cost', 'address', 'advance', 'ago', 'pretty']
+['group', 'exactly', 'advance', 'apple', 'state', 'end', 'happen', 'play', 'available', 'code', 'cost', 'r', 'look', 'love', 'guy']
+['understand', 'exactly', 'large', 'way', 'similar', 'g', 'r', 'advance', 'expect', 'fan', 'read', 'number', 'lose', 'code', 'pc']
+['way', 'israel', 'advance', 'etc', 'number', 'pc', 'assume', 'love', 'lose', 'appreciate', 'opinion', 'design', 'help', 'apple', 'group']
+['way', 'advance', 'love', 'fan', 'apple', 'r', 'christian', 'exactly', 'switch', 'play', 'opinion', 'etc', 'guy', 'design', 'g']
+['number', 'call', 'design', 'play', 'way', 'etc', 'help', 'switch', 'exactly', 'scsi', 'love', 'cost', 'advance', 'expect', 'condition']
+['way', 'apple', 'large', 'group', 'number', 'scsi', 'assume', 'g', 'similar', 'expect', 'love', 'cost', 'understand', 'small', 'code']
+['advance', 'control', 'g', 'way', 'cost', 'ago', 'apple', 'available', 'large', 'play', 'guy', 'access', 'driver', 'card', 'opinion']
+['way', 'fan', 'apple', 'advance', 'lose', 'g', 'similar', 'guy', 'error', 'love', 'scsi', 'see', 'card', 'sound', 'thank']
+['correct', 'pretty', 'way', 'expect', 'play', 'r', 'code', 'switch', 'advance', 'etc', 'understand', 'scsi', 'similar', 'able', 'group']
+['way', 'etc', 'apple', 'advance', 'design', 'guy', 'code', 'switch', 'g', 'exactly', 'file', 'month', 'ask', 'condition', 'expect']
+['way', 'g', 'love', 'number', 'israel', 'advance', 'subject', 'similar', 'card', 'lose', 'assume', 'design', 'non', 'control', 'code']
+['number', 'way', 'etc', 'appreciate', 'similar', 'card', 'thank', 'hi', 'end', 'scsi', 'expect', 'error', 'sorry', 'law', 'apple']
+['apple', 'advance', 'etc', 'number', 'assume', 'way', 'available', 'g', 'similar', 'second', 'probably', 'israel', 'book', 'group', 'non']
+['expect', 'israel', 'advance', 'simple', 'end', 'g', 'assume', 'group', 'error', 'way', 'guy', 'trade', 'old', 'love', 'large']
+['ask', 'group', 'agree', 'israel', 'large', 'guy', 'see', 'g', 'apple', 'game', 'available', 'opinion', 'advance', 'hi', 'address']
+['scsi', 'expect', 'way', 'large', 'g', 'apple', 'love', 'guy', 'exactly', 'number', 'etc', 'understand', 'similar', 'government', 'available']
+['way', 'number', 'card', 'apple', 'code', 'pc', 'g', 'israel', 'scsi', 'state', 'price', 'thank', 'switch', 'exactly', 'book']
+['way', 'play', 'old', 'apple', 'etc', 'similar', 'application', 'g', 'card', 'error', 'code', 'israel', 'see', 'fine', 'look']
+['switch', 'way', 'apple', 'understand', 'fan', 'group', 'see', 'exactly', 'advance', 'available', 'number', 'scsi', 'bible', 'love', 'error']
+['scsi', 'love', 'way', 'etc', 'apple', 'g', 'expect', 'understand', 'guy', 'israel', 'available', 'email', 'agree', 'trade', 'sound']
+['switch', 'exactly', 'old', 'g', 'error', 'file', 'large', 'wrong', 'simple', 'com', 'pc', 'way', 'scsi', 'love', 'pretty']
+['way', 'advance', 'pc', 'pretty', 'group', 'trade', 'ago', 'lose', 'love', 'israel', 'exactly', 'guy', 'switch', 'hope', 'look']
+['way', 'fan', 'advance', 'g', 'understand', 'apple', 'etc', 'book', 'similar', 'expect', 'trade', 'number', 'israel', 'switch', 'code']
+['way', 'apple', 'expect', 'advance', 'etc', 'design', 'sorry', 'card', 'understand', 'state', 'note', 'israel', 'cost', 'help', 'r']
+['advance', 'way', 'large', 'message', 'see', 'pretty', 'understand', 'g', 'agree', 'expect', 'etc', 'able', 'key', 'monitor', 'assume']
+['love', 'g', 'way', 'government', 'ago', 'build', 'similar', 'error', 'christian', 'state', 'opinion', 'see', 'card', 'standard', 'etc']
+['help', 'advance', 'expect', 'etc', 'number', 'g', 'way', 'israel', 'love', 'ok', 'apple', 'john', 'wrong', 'cost', 'light']
+['way', 'israel', 'g', 'apple', 'look', 'advance', 'understand', 'expect', 'guy', 'design', 'error', 'trade', 'card', 'company', 'etc']
+['understand', 'way', 'see', 'scsi', 'etc', 'apple', 'government', 'pretty', 'application', 'news', 'price', 'month', 'card', 'opinion', 'cost']
+['way', 'expect', 'number', 'g', 'love', 'advance', 'ok', 'switch', 'apple', 'end', 'look', 'card', 'code', 'israel', 'fan']
+['advance', 'etc', 'number', 'play', 'way', 'show', 'israel', 'fan', 'similar', 'hi', 'trade', 'screen', 'thank', 'check', 'understand']
+['similar', 'guy', 'way', 'ok', 'large', 'wrong', 'understand', 'etc', 'apple', 'old', 'help', 'advance', 'love', 'opinion', 'israel']
+['book', 'card', 'error', 'etc', 'play', 'assume', 'fan', 'key', 'g', 'group', 'scsi', 'pretty', 'read', 'available', 'chip']
+['old', 'group', 'israel', 'way', 'g', 'number', 'lose', 'read', 'interested', 'look', 'john', 'advance', 'card', 'scsi', 'see']
+['apple', 'understand', 'way', 'file', 'available', 'assume', 'exactly', 'g', 'help', 'error', 'code', 'design', 'large', 'read', 'similar']
+['assume', 'advance', 'cost', 'let', 'play', 'israel', 'month', 'email', 'fan', 'number', 'understand', 'guy', 'way', 'end', 'look']
+['israel', 'fan', 'similar', 'take', 'way', 'sound', 'available', 'g', 'code', 'change', 'expect', 'application', 'guy', 'etc', 'pc']
+['way', 'see', 'opinion', 'group', 'exactly', 'g', 'play', 'fan', 'old', 'number', 'error', 'trade', 'guy', 'understand', 'scsi']
+['fan', 'way', 'number', 'group', 'g', 'large', 'exactly', 'advance', 'etc', 'expect', 'let', 'lose', 'government', 'agree', 'watch']
+['way', 'g', 'board', 'advance', 'card', 'guy', 'look', 'group', 'understand', 'play', 'code', 'ftp', 'error', 'bad', 'design']
+['assume', 'appreciate', 'understand', 'government', 'advance', 'similar', 'israel', 'fan', 'code', 'error', 'ok', 'play', 'correct', 'let', 'design']
+['advance', 'way', 'love', 'government', 'scsi', 'expect', 'see', 'g', 'understand', 'help', 'etc', 'fan', 'news', 'r', 'email']
+['advance', 'large', 'way', 'etc', 'assume', 'play', 'pretty', 'opinion', 'code', 'see', 'thank', 'lose', 'apple', 'look', 'book']
+['way', 'expect', 'apple', 'card', 'advance', 'read', 'ago', 'opinion', 'number', 'pc', 'correct', 'simple', 'guy', 'state', 'error']
+['way', 'exactly', 'understand', 'advance', 'g', 'etc', 'love', 'old', 'error', 'standard', 'state', 'large', 'guy', 'code', 'cost']
+['fan', 'expect', 'number', 'group', 'way', 'advance', 'opinion', 'h', 'apple', 'look', 'board', 'thank', 'g', 'code', 'exactly']
+['fan', 'cost', 'government', 'graphic', 'way', 'apple', 'ago', 'etc', 'current', 'standard', 'g', 'advance', 'design', 'number', 'group']
+['way', 'understand', 'g', 'advance', 'opinion', 'expect', 'look', 'israel', 'use', 'game', 'ride', 'trade', 'model', 'light', 'scsi']
+['way', 'thank', 'number', 'advance', 'exactly', 'pc', 'test', 'code', 'switch', 'understand', 'expect', 'fan', 'post', 'government', 'help']
+['number', 'understand', 'large', 'help', 'take', 'advance', 'r', 'pc', 'non', 'let', 'trade', 'manual', 'fan', 'etc', 'standard']
+['understand', 'way', 'see', 'email', 'advance', 'available', 'state', 'israel', 'group', 'fan', 'government', 'g', 'ago', 'number', 'non']
+['way', 'apple', 'government', 'number', 'advance', 'exactly', 'error', 'post', 'expect', 'old', 'fan', 'opinion', 'code', 'group', 'g']
+['etc', 'way', 'take', 'apple', 'number', 'play', 'look', 'understand', 'large', 'guy', 'fan', 'g', 'show', 'u', 'x']
+['understand', 'advance', 'etc', 'card', 'large', 'john', 'hi', 'apple', 'cost', 'expect', 'good', 'people', 'love', 'guy', 'note']
+['way', 'group', 'advance', 'exactly', 'guy', 'large', 'light', 'g', 'lose', 'switch', 'scsi', 'agree', 'file', 'offer', 'appreciate']
+['read', 'way', 'number', 'group', 'advance', 'see', 'look', 'similar', 'stuff', 'switch', 'apple', 'understand', 'guy', 'fan', 'design']
+['government', 'card', 'group', 'g', 'love', 'advance', 'see', 'mode', 'standard', 'way', 'look', 'fan', 'pc', 'exactly', 'number']
+['way', 'government', 'fan', 'graphic', 'israel', 'error', 'offer', 'simple', 'etc', 'number', 'group', 'apple', 'trade', 'late', 'g']
+['way', 'see', 'error', 'application', 'design', 'fan', 'pay', 'government', 'etc', 'statement', 'g', 'available', 'offer', 'israel', 'small']
+['similar', 'hi', 'g', 'way', 'code', 'lose', 'group', 'end', 'old', 'etc', 'play', 'assume', 'control', 'pretty', 'error']
+['way', 'apple', 'large', 'fan', 'understand', 'application', 'card', 'g', 'love', 'help', 'advance', 'want', 'available', 'expect', 'exactly']
+['advance', 'way', 'number', 'etc', 'see', 'end', 'exactly', 'apple', 'guy', 'probably', 'government', 'able', 'ride', 'expect', 'love']
+['guy', 'way', 'look', 'government', 'state', 'group', 'code', 'g', 'expect', 'large', 'design', 'play', 'etc', 'advance', 'see']
+['apple', 'g', 'code', 'advance', 'trade', 'large', 'light', 'call', 'fan', 'switch', 'see', 'team', 'similar', 'ride', 'way']
+['number', 'play', 'available', 'apple', 'expect', 'love', 'similar', 'g', 'b', 'etc', 'scsi', 'group', 'fan', 'guy', 'code']
+['see', 'love', 'way', 'guy', 'g', 'news', 'understand', 'bible', 'let', 'card', 'apple', 'fan', 'trade', 'scsi', 'god']
+['way', 'scsi', 'number', 'code', 'g', 'assume', 'apple', 'understand', 'lose', 'post', 'see', 'fan', 'non', 'old', 'group']
+['way', 'understand', 'advance', 'exactly', 'group', 'large', 'etc', 'g', 'error', 'guy', 'true', 'driver', 'expect', 'live', 'end']
+['card', 'way', 'number', 'ok', 'wrong', 'pretty', 'apple', 'drive', 'help', 'graphic', 'application', 'scsi', 'love', 'trade', 'book']
+['way', 'advance', 'let', 'apple', 'etc', 'switch', 'fan', 'scsi', 'want', 'design', 'statement', 'love', 'ago', 'graphic', 'exactly']
+['way', 'love', 'g', 'play', 'ok', 'number', 'fan', 'expect', 'current', 'agree', 'key', 'let', 'non', 'pretty', 'experience']
+['way', 'government', 'error', 'g', 'large', 'happen', 'understand', 'opinion', 'exactly', 'card', 'fan', 'application', 'sound', 'take', 'christian']
+['card', 'design', 'way', 'lose', 'government', 'bible', 'thank', 'code', 'israel', 'let', 'advance', 'see', 'play', 'application', 'opinion']
+['see', 'similar', 'switch', 'understand', 'expect', 'way', 'lose', 'apple', 'little', 'love', 'available', 'opinion', 'advance', 'number', 'ago']
+['driver', 'advance', 'code', 'design', 'price', 'thank', 'apple', 'card', 'mode', 'screen', 'way', 'lose', 'israel', 'fan', 'trade']
+['expect', 'fan', 'pc', 'way', 'scsi', 'number', 'error', 'g', 'assume', 'group', 'help', 'love', 'board', 'little', 'advance']
+['advance', 'look', 'etc', 'code', 'g', 'assume', 'read', 'group', 'israel', 'help', 'apple', 'find', 'end', 'number', 'way']
+['etc', 'design', 'g', 'way', 'expect', 'screen', 'file', 'card', 'second', 'assume', 'apple', 'similar', 'group', 'pc', 'israel']
+['expect', 'etc', 'g', 'non', 'number', 'group', 'advance', 'sorry', 'look', 'code', 'pretty', 'way', 'understand', 'show', 'government']
+['way', 'number', 'help', 'lose', 'apple', 'scsi', 'interested', 'understand', 'hi', 'similar', 'g', 'love', 'expect', 'government', 'available']
+['way', 'graphic', 'exactly', 'expect', 'scsi', 'apple', 'ago', 'look', 'thank', 'advance', 'take', 'condition', 'similar', 'ask', 'light']
+['advance', 'way', 'available', 'old', 'expect', 'guy', 'application', 'large', 'lose', 'similar', 'non', 'g', 'understand', 'design', 'board']
+['apple', 'number', 'group', 'trade', 'monitor', 'way', 'light', 'switch', 'love', 'similar', 'understand', 'pretty', 'etc', 'government', 'cost']
+['hi', 'g', 'switch', 'design', 'way', 'expect', 'group', 'non', 'code', 'understand', 'current', 'government', 'correct', 'let', 'cost']
+['advance', 'way', 'number', 'scsi', 'help', 'application', 'expect', 'switch', 'old', 'play', 'available', 'simple', 'see', 'look', 'pretty']
+['apple', 'g', 'available', 'sure', 'large', 'code', 'advance', 'way', 'play', 'israel', 'scsi', 'graphic', 'color', 'etc', 'non']
+['driver', 'number', 'fan', 'advance', 'g', 'expect', 'card', 'look', 'understand', 'government', 'way', 'agree', 'error', 'scsi', 'love']
+['way', 'opinion', 'card', 'understand', 'experience', 'pretty', 'book', 'israel', 'group', 'chip', 'see', 'large', 'pc', 'government', 'exactly']
+['g', 'play', 'way', 'lose', 'state', 'switch', 'take', 'apple', 'x', 'experience', 'advance', 'exactly', 'application', 'expect', 'correct']
+['way', 'pretty', 'look', 'expect', 'advance', 'switch', 'number', 'scsi', 'play', 'understand', 'see', 'god', 'g', 'assume', 'government']
+['fan', 'way', 'card', 'help', 'understand', 'look', 'etc', 'number', 'board', 'lose', 'wrong', 'switch', 'book', 'ago', 'mike']
+==============================
+topic diversity:0.09133333333333334
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.32924254748328763, c_w2v:None, c_uci:-1.3250430797484838, c_npmi:-0.05606329220310696
+mimno topic coherence:-267.8481314627654
+Epoch  91	Iter    1	Loss_D:-0.0215575	Loss_G:0.0177014	loss_E:0.0043345
+Epoch  91	Iter   11	Loss_D:-0.0222768	Loss_G:0.0184645	loss_E:0.0042716
+Epoch  91	Iter   21	Loss_D:-0.0208378	Loss_G:0.0186463	loss_E:0.0026771
+Epoch  92	Iter    1	Loss_D:-0.0220927	Loss_G:0.0186079	loss_E:0.0039457
+Epoch  92	Iter   11	Loss_D:-0.0210857	Loss_G:0.0182137	loss_E:0.0033283
+Epoch  92	Iter   21	Loss_D:-0.0216684	Loss_G:0.0187817	loss_E:0.0033238
+Epoch  93	Iter    1	Loss_D:-0.0213461	Loss_G:0.0180371	loss_E:0.0037775
+Epoch  93	Iter   11	Loss_D:-0.0216538	Loss_G:0.0182523	loss_E:0.0038659
+Epoch  93	Iter   21	Loss_D:-0.0220693	Loss_G:0.0180472	loss_E:0.0044386
+Epoch  94	Iter    1	Loss_D:-0.0216391	Loss_G:0.0175549	loss_E:0.0045376
+Epoch  94	Iter   11	Loss_D:-0.0211944	Loss_G:0.0175518	loss_E:0.0040800
+Epoch  94	Iter   21	Loss_D:-0.0190799	Loss_G:0.0174218	loss_E:0.0020953
+Epoch  95	Iter    1	Loss_D:-0.0186796	Loss_G:0.0169257	loss_E:0.0022029
+Epoch  95	Iter   11	Loss_D:-0.0212073	Loss_G:0.0177685	loss_E:0.0038887
+Epoch  95	Iter   21	Loss_D:-0.0208173	Loss_G:0.0168331	loss_E:0.0044592
+Epoch  96	Iter    1	Loss_D:-0.0188337	Loss_G:0.0162008	loss_E:0.0030742
+Epoch  96	Iter   11	Loss_D:-0.0211653	Loss_G:0.0166111	loss_E:0.0049670
+Epoch  96	Iter   21	Loss_D:-0.0190482	Loss_G:0.0163915	loss_E:0.0030925
+Epoch  97	Iter    1	Loss_D:-0.0208475	Loss_G:0.0159339	loss_E:0.0053658
+Epoch  97	Iter   11	Loss_D:-0.0197918	Loss_G:0.0162690	loss_E:0.0039478
+Epoch  97	Iter   21	Loss_D:-0.0199750	Loss_G:0.0158061	loss_E:0.0045908
+Epoch  98	Iter    1	Loss_D:-0.0201160	Loss_G:0.0153623	loss_E:0.0051737
+Epoch  98	Iter   11	Loss_D:-0.0209593	Loss_G:0.0156835	loss_E:0.0057109
+Epoch  98	Iter   21	Loss_D:-0.0200071	Loss_G:0.0156233	loss_E:0.0047828
+Epoch  99	Iter    1	Loss_D:-0.0200693	Loss_G:0.0150075	loss_E:0.0055030
+Epoch  99	Iter   11	Loss_D:-0.0188080	Loss_G:0.0148195	loss_E:0.0044230
+Epoch  99	Iter   21	Loss_D:-0.0213057	Loss_G:0.0150440	loss_E:0.0066681
+Epoch 100	Iter    1	Loss_D:-0.0202656	Loss_G:0.0149013	loss_E:0.0058020
+Epoch 100	Iter   11	Loss_D:-0.0188905	Loss_G:0.0146000	loss_E:0.0046934
+Epoch 100	Iter   21	Loss_D:-0.0205755	Loss_G:0.0145302	loss_E:0.0064806
+Epoch 100	Loss_D_avg:-0.0569826	Loss_G_avg:0.0244387	loss_E_avg:0.0329789
+['way', 'number', 'team', 'want', 'pc', 'read', 'advance', 'scsi', 'cost', 'board', 'end', 'group', 'old', 'help', 'use']
+['way', 'card', 'available', 'old', 'look', 'advance', 'government', 'group', 'ask', 'code', 'play', 'x', 'etc', 'cost', 'com']
+['card', 'etc', 'advance', 'pc', 'group', 'look', 'number', 'code', 'people', 'way', 'find', 'use', 'offer', 'read', 'government']
+['way', 'etc', 'old', 'driver', 'god', 'pc', 'look', 'thank', 'play', 'ftp', 'help', 'call', 'graphic', 'card', 'end']
+['way', 'advance', 'speed', 'help', 'card', 'pc', 'wrong', 'ftp', 'ago', 'see', 'guy', 'state', 'people', 'etc', 'memory']
+['group', 'way', 'advance', 'thank', 'card', 'etc', 'ago', 'play', 'end', 'driver', 'old', 'video', 'good', 'address', 'christian']
+['number', 'advance', 'way', 'play', 'look', 'see', 'graphic', 'team', 'speed', 'code', 'government', 'card', 'address', 'pc', 'want']
+['look', 'available', 'way', 'christian', 'advance', 'cost', 'card', 'key', 'pretty', 'play', 'scsi', 'group', 'team', 'guess', 'see']
+['card', 'etc', 'way', 'guy', 'state', 'cost', 'advance', 'address', 'code', 'group', 'ago', 'play', 'number', 'pc', 'help']
+['group', 'advance', 'state', 'play', 'happen', 'end', 'available', 'look', 'cost', 'code', 'way', 'old', 'pc', 'fast', 'thank']
+['way', 'advance', 'read', 'number', 'pc', 'card', 'old', 'code', 'let', 'etc', 'cost', 'file', 'pay', 'group', 'call']
+['way', 'advance', 'etc', 'number', 'pc', 'appreciate', 'card', 'help', 'group', 'see', 'available', 'wrong', 'end', 'thank', 'game']
+['way', 'advance', 'christian', 'etc', 'play', 'number', 'wrong', 'god', 'people', 'let', 'card', 'appreciate', 'bad', 'help', 'email']
+['number', 'way', 'call', 'play', 'etc', 'help', 'advance', 'scsi', 'cost', 'group', 'little', 'use', 'card', 'speed', 'post']
+['way', 'group', 'number', 'scsi', 'let', 'play', 'cost', 'drive', 'driver', 'etc', 'god', 'offer', 'code', 'people', 'help']
+['advance', 'way', 'available', 'cost', 'ago', 'play', 'card', 'driver', 'control', 'look', 'sound', 'code', 'guy', 'pc', 'number']
+['way', 'advance', 'see', 'card', 'sound', 'thank', 'scsi', 'edu', 'pc', 'guy', 'old', 'law', 'graphic', 'call', 'wrong']
+['way', 'play', 'advance', 'etc', 'pretty', 'group', 'code', 'able', 'space', 'change', 'available', 'number', 'scsi', 'program', 'ftp']
+['way', 'etc', 'advance', 'file', 'code', 'ask', 'guy', 'x', 'state', 'god', 'apple', 'old', 'end', 'group', 'book']
+['way', 'number', 'advance', 'card', 'pc', 'offer', 'look', 'code', 'drive', 'control', 'old', 'wrong', 'graphic', 'love', 'group']
+['number', 'way', 'etc', 'appreciate', 'card', 'thank', 'hi', 'end', 'scsi', 'advance', 'law', 'want', 'sorry', 'probably', 'team']
+['advance', 'etc', 'number', 'way', 'available', 'second', 'probably', 'group', 'book', 'memory', 'assume', 'take', 'end', 'x', 'apple']
+['advance', 'way', 'group', 'end', 'old', 'help', 'play', 'team', 'look', 'ask', 'thank', 'space', 'take', 'people', 'guy']
+['ask', 'group', 'agree', 'see', 'available', 'advance', 'game', 'hi', 'way', 'address', 'guy', 'card', 'pc', 'email', 'consider']
+['way', 'scsi', 'number', 'etc', 'available', 'guy', 'see', 'call', 'card', 'graphic', 'file', 'read', 'happen', 'government', 'yes']
+['way', 'number', 'card', 'code', 'pc', 'state', 'price', 'thank', 'scsi', 'advance', 'etc', 'book', 'see', 'christian', 'call']
+['way', 'old', 'play', 'etc', 'card', 'see', 'look', 'hi', 'number', 'address', 'code', 'advance', 'use', 'group', 'happen']
+['way', 'group', 'see', 'advance', 'number', 'available', 'thank', 'help', 'play', 'scsi', 'speed', 'card', 'agree', 'wrong', 'look']
+['way', 'etc', 'scsi', 'available', 'email', 'advance', 'sound', 'love', 'agree', 'number', 'look', 'read', 'guy', 'cost', 'game']
+['old', 'file', 'wrong', 'way', 'com', 'pc', 'read', 'group', 'book', 'post', 'scsi', 'email', 'call', 'available', 'use']
+['way', 'advance', 'pc', 'group', 'ago', 'pretty', 'look', 'old', 'game', 'hope', 'etc', 'second', 'post', 'read', 'guy']
+['way', 'advance', 'etc', 'number', 'book', 'group', 'help', 'see', 'let', 'code', 'graphic', 'look', 'file', 'scsi', 'wrong']
+['way', 'advance', 'etc', 'card', 'state', 'sorry', 'help', 'hi', 'cost', 'apple', 'thank', 'look', 'people', 'play', 'end']
+['advance', 'way', 'see', 'etc', 'key', 'agree', 'able', 'monitor', 'pretty', 'card', 'state', 'speed', 'file', 'let', 'cost']
+['way', 'ago', 'state', 'government', 'card', 'see', 'etc', 'christian', 'advance', 'wrong', 'post', 'love', 'hear', 'call', 'number']
+['help', 'advance', 'etc', 'number', 'way', 'wrong', 'cost', 'look', 'play', 'little', 'file', 'hi', 'read', 'computer', 'see']
+['way', 'look', 'advance', 'card', 'etc', 'help', 'read', 'guy', 'appreciate', 'book', 'play', 'wrong', 'scsi', 'let', 'group']
+['way', 'see', 'etc', 'scsi', 'understand', 'card', 'price', 'government', 'advance', 'pretty', 'cost', 'x', 'code', 'point', 'pc']
+['way', 'number', 'advance', 'look', 'card', 'end', 'group', 'post', 'year', 'help', 'etc', 'code', 'god', 'old', 'state']
+['advance', 'etc', 'number', 'play', 'way', 'hi', 'thank', 'available', 'check', 'pc', 'change', 'key', 'graphic', 'probably', 'end']
+['way', 'wrong', 'etc', 'guy', 'old', 'help', 'advance', 'number', 'end', 'ftp', 'agree', 'file', 'code', 'card', 'state']
+['book', 'card', 'etc', 'play', 'key', 'group', 'read', 'available', 'advance', 'chip', 'scsi', 'pretty', 'check', 'change', 'assume']
+['old', 'group', 'way', 'number', 'look', 'read', 'interested', 'advance', 'card', 'see', 'help', 'use', 'post', 'thank', 'scsi']
+['way', 'file', 'available', 'help', 'read', 'want', 'card', 'code', 'etc', 'apple', 'agree', 'state', 'email', 'speed', 'ago']
+['advance', 'let', 'cost', 'play', 'assume', 'email', 'number', 'way', 'look', 'end', 'old', 'sound', 'hi', 'month', 'group']
+['way', 'take', 'available', 'sound', 'change', 'etc', 'code', 'number', 'pc', 'old', 'appreciate', 'card', 'christian', 'chip', 'hope']
+['way', 'see', 'group', 'play', 'old', 'number', 'etc', 'help', 'sound', 'advance', 'available', 'ago', 'scsi', 'graphic', 'let']
+['way', 'number', 'group', 'advance', 'etc', 'let', 'agree', 'play', 'team', 'interested', 'file', 'com', 'government', 'help', 'look']
+['way', 'advance', 'card', 'look', 'group', 'play', 'board', 'bad', 'ftp', 'pc', 'guy', 'old', 'code', 'end', 'sound']
+['appreciate', 'advance', 'way', 'let', 'play', 'number', 'etc', 'code', 'government', 'group', 'assume', 'help', 'big', 'cost', 'space']
+['advance', 'way', 'see', 'scsi', 'help', 'etc', 'government', 'email', 'year', 'group', 'hi', 'ask', 'number', 'address', 'key']
+['advance', 'way', 'etc', 'play', 'see', 'thank', 'look', 'book', 'code', 'pretty', 'hi', 'group', 'card', 'post', 'end']
+['way', 'card', 'advance', 'read', 'ago', 'number', 'pc', 'state', 'book', 'price', 'thank', 'offer', 'look', 'christian', 'see']
+['way', 'advance', 'etc', 'old', 'state', 'number', 'code', 'available', 'cost', 'end', 'ago', 'help', 'card', 'guy', 'see']
+['number', 'way', 'group', 'advance', 'look', 'thank', 'available', 'team', 'board', 'code', 'card', 'appreciate', 'government', 'email', 'pc']
+['cost', 'way', 'graphic', 'etc', 'government', 'advance', 'ago', 'number', 'available', 'group', 'look', 'help', 'thank', 'take', 'old']
+['way', 'advance', 'look', 'use', 'game', 'sound', 'possible', 'state', 'understand', 'key', 'help', 'want', 'x', 'model', 'end']
+['way', 'number', 'thank', 'advance', 'pc', 'post', 'code', 'help', 'card', 'test', 'wrong', 'etc', 'look', 'see', 'old']
+['number', 'advance', 'help', 'take', 'pc', 'let', 'etc', 'look', 'ago', 'call', 'x', 'see', 'offer', 'pay', 'bad']
+['way', 'see', 'advance', 'email', 'available', 'state', 'group', 'number', 'read', 'ago', 'card', 'game', 'hope', 'pc', 'system']
+['way', 'number', 'advance', 'government', 'post', 'old', 'group', 'driver', 'file', 'code', 'help', 'available', 'well', 'play', 'price']
+['etc', 'way', 'take', 'number', 'look', 'play', 'x', 'wrong', 'guy', 'see', 'book', 'offer', 'point', 'key', 'driver']
+['understand', 'advance', 'card', 'etc', 'hi', 'good', 'people', 'cost', 'number', 'group', 'team', 'book', 'way', 'take', 'state']
+['way', 'group', 'advance', 'file', 'appreciate', 'call', 'offer', 'guy', 'etc', 'available', 'agree', 'hi', 'scsi', 'card', 'government']
+['way', 'read', 'number', 'advance', 'group', 'see', 'look', 'stuff', 'post', 'let', 'change', 'cost', 'guy', 'ago', 'price']
+['card', 'group', 'advance', 'see', 'government', 'way', 'look', 'pc', 'number', 'thank', 'take', 'sound', 'etc', 'drive', 'mode']
+['way', 'government', 'graphic', 'offer', 'etc', 'number', 'group', 'card', 'available', 'file', 'ago', 'look', 'code', 'thank', 'mean']
+['way', 'see', 'pay', 'etc', 'available', 'offer', 'pc', 'old', 'play', 'end', 'government', 'group', 'help', 'price', 'appreciate']
+['way', 'hi', 'group', 'old', 'end', 'etc', 'code', 'play', 'advance', 'card', 'number', 'see', 'pretty', 'control', 'driver']
+['way', 'card', 'advance', 'help', 'available', 'want', 'ask', 'number', 'stuff', 'cost', 'look', 'pc', 'check', 'possible', 'post']
+['way', 'advance', 'number', 'etc', 'see', 'end', 'probably', 'able', 'offer', 'game', 'price', 'government', 'guy', 'thank', 'card']
+['way', 'guy', 'look', 'state', 'group', 'government', 'code', 'advance', 'etc', 'play', 'see', 'thank', 'god', 'address', 'number']
+['advance', 'call', 'code', 'see', 'way', 'team', 'number', 'card', 'christian', 'available', 'program', 'scsi', 'state', 'ago', 'etc']
+['number', 'available', 'play', 'etc', 'group', 'way', 'see', 'scsi', 'thank', 'price', 'code', 'program', 'hi', 'b', 'take']
+['see', 'way', 'let', 'card', 'guy', 'god', 'look', 'love', 'etc', 'available', 'news', 'christian', 'scsi', 'number', 'hi']
+['way', 'number', 'scsi', 'code', 'see', 'post', 'old', 'group', 'wrong', 'end', 'etc', 'advance', 'anybody', 'agree', 'little']
+['way', 'advance', 'group', 'etc', 'true', 'driver', 'look', 'read', 'guy', 'end', 'ask', 'see', 'old', 'system', 'com']
+['card', 'way', 'number', 'wrong', 'drive', 'help', 'graphic', 'book', 'read', 'pretty', 'etc', 'cost', 'advance', 'pc', 'scsi']
+['way', 'advance', 'let', 'etc', 'want', 'scsi', 'graphic', 'ago', 'help', 'card', 'number', 'see', 'group', 'driver', 'play']
+['way', 'number', 'play', 'let', 'key', 'agree', 'look', 'email', 'end', 'post', 'code', 'include', 'pretty', 'file', 'love']
+['way', 'card', 'happen', 'government', 'sound', 'available', 'take', 'christian', 'key', 'let', 'advance', 'year', 'ago', 'play', 'probably']
+['card', 'way', 'thank', 'let', 'advance', 'government', 'see', 'code', 'play', 'god', 'x', 'driver', 'group', 'ago', 'old']
+['see', 'way', 'available', 'advance', 'little', 'number', 'group', 'email', 'card', 'ago', 'etc', 'let', 'help', 'take', 'play']
+['driver', 'advance', 'price', 'thank', 'way', 'card', 'code', 'etc', 'available', 'look', 'help', 'file', 'scsi', 'let', 'number']
+['way', 'pc', 'number', 'group', 'help', 'scsi', 'advance', 'little', 'call', 'email', 'file', 'chip', 'read', 'space', 'thank']
+['advance', 'look', 'etc', 'code', 'read', 'group', 'help', 'way', 'number', 'find', 'thank', 'end', 'card', 'agree', 'space']
+['etc', 'way', 'file', 'card', 'second', 'group', 'pc', 'state', 'hi', 'code', 'speed', 'gun', 'book', 'call', 'christian']
+['etc', 'number', 'advance', 'look', 'group', 'way', 'sorry', 'code', 'use', 'card', 'people', 'state', 'pc', 'let', 'pretty']
+['way', 'number', 'help', 'interested', 'hi', 'scsi', 'driver', 'available', 'happen', 'price', 'want', 'etc', 'call', 'end', 'let']
+['way', 'graphic', 'look', 'ago', 'advance', 'scsi', 'thank', 'ask', 'take', 'team', 'address', 'card', 'group', 'call', 'able']
+['advance', 'way', 'old', 'available', 'guy', 'play', 'let', 'thank', 'pc', 'christian', 'happen', 'board', 'think', 'buy', 'group']
+['number', 'group', 'way', 'monitor', 'etc', 'available', 'play', 'apple', 'cost', 'space', 'pretty', 'pc', 'call', 'offer', 'scsi']
+['hi', 'way', 'group', 'let', 'advance', 'help', 'code', 'available', 'address', 'pc', 'state', 'cost', 'email', 'government', 'etc']
+['advance', 'way', 'number', 'help', 'old', 'available', 'play', 'scsi', 'look', 'see', 'card', 'pc', 'law', 'thank', 'etc']
+['available', 'sure', 'way', 'advance', 'play', 'code', 'graphic', 'etc', 'card', 'color', 'scsi', 'program', 'apple', 'look', 'agree']
+['driver', 'number', 'advance', 'card', 'look', 'way', 'help', 'agree', 'address', 'available', 'want', 'book', 'read', 'government', 'scsi']
+['way', 'card', 'group', 'book', 'see', 'pc', 'chip', 'pretty', 'advance', 'monitor', 'game', 'ago', 'available', 'post', 'graphic']
+['way', 'play', 'state', 'take', 'advance', 'x', 'number', 'help', 'scsi', 'color', 'card', 'available', 'see', 'hear', 'ftp']
+['way', 'look', 'advance', 'pretty', 'number', 'play', 'see', 'god', 'card', 'driver', 'group', 'scsi', 'available', 'thank', 'consider']
+['way', 'card', 'help', 'look', 'etc', 'number', 'wrong', 'advance', 'book', 'pc', 'see', 'play', 'ago', 'graphic', 'hi']
+==============================
+topic diversity:0.074
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4064248318271405, c_w2v:None, c_uci:-0.41578897161138484, c_npmi:-0.010641900164117105
+mimno topic coherence:-263.37916169078386
+topic diversity:0.074
+Training a word2vec model 20 epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.4064248318271405, c_w2v:None, c_uci:-0.41578897161138484, c_npmi:-0.010641900164117105
+mimno topic coherence:-263.37916169078386

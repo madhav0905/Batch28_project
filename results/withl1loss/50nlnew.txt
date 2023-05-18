@@ -1,0 +1,2187 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7fabe8987b20>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+inside train
+epoch is: 0
+| ID | GPU | MEM |
+------------------
+|  0 | 24% | 19% |
+|  1 |  0% |  0% |
+Epoch   1	Iter    1	Loss_D:-0.3488140	Loss_G:5.1796622	loss_E:0.0078766
+| ID | GPU | MEM |
+------------------
+|  0 | 51% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   11	Loss_D:-7.6272678	Loss_G:12.9403925	loss_E:0.0057654
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch   1	Iter   21	Loss_D:-17.9173565	Loss_G:23.3060513	loss_E:0.0027955
+epoch is: 1
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter    1	Loss_D:-19.5075912	Loss_G:24.9082012	loss_E:0.0024725
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   11	Loss_D:-29.7507114	Loss_G:35.0853653	loss_E:-0.0008985
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch   2	Iter   21	Loss_D:-40.4294090	Loss_G:45.6849403	loss_E:-0.0043415
+epoch is: 2
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter    1	Loss_D:-42.0982513	Loss_G:47.3015480	loss_E:-0.0046872
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   11	Loss_D:-51.1073799	Loss_G:56.1248665	loss_E:-0.0077717
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch   3	Iter   21	Loss_D:-61.0778046	Loss_G:65.9551697	loss_E:-0.0107072
+epoch is: 3
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter    1	Loss_D:-63.0118408	Loss_G:67.8374634	loss_E:-0.0109581
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   11	Loss_D:-72.0399475	Loss_G:76.7315903	loss_E:-0.0139558
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch   4	Iter   21	Loss_D:-79.9083252	Loss_G:84.4465485	loss_E:-0.0165784
+epoch is: 4
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter    1	Loss_D:-80.3649139	Loss_G:84.8386612	loss_E:-0.0168613
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   11	Loss_D:-89.8908615	Loss_G:94.2566910	loss_E:-0.0193299
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch   5	Iter   21	Loss_D:-97.1006851	Loss_G:101.3257370	loss_E:-0.0218259
+epoch is: 5
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter    1	Loss_D:-100.5973282	Loss_G:104.8171768	loss_E:-0.0220589
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   11	Loss_D:-106.8608246	Loss_G:110.9333725	loss_E:-0.0241396
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch   6	Iter   21	Loss_D:-112.9444046	Loss_G:116.8779755	loss_E:-0.0262807
+epoch is: 6
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter    1	Loss_D:-112.4403381	Loss_G:116.2974930	loss_E:-0.0264740
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   11	Loss_D:-123.2203522	Loss_G:127.0052414	loss_E:-0.0285150
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 21% |
+|  1 |  0% |  0% |
+Epoch   7	Iter   21	Loss_D:-131.6578827	Loss_G:135.3301239	loss_E:-0.0304145
+epoch is: 7
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter    1	Loss_D:-132.9376068	Loss_G:136.5940857	loss_E:-0.0306345
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   11	Loss_D:-137.0640717	Loss_G:140.5457153	loss_E:-0.0324263
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch   8	Iter   21	Loss_D:-141.4567719	Loss_G:144.7860260	loss_E:-0.0342095
+epoch is: 8
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter    1	Loss_D:-138.2833557	Loss_G:141.5292206	loss_E:-0.0343940
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   11	Loss_D:-144.4923401	Loss_G:147.6275024	loss_E:-0.0360585
+| ID | GPU | MEM |
+------------------
+|  0 | 58% | 21% |
+|  1 |  0% |  0% |
+Epoch   9	Iter   21	Loss_D:-152.0148010	Loss_G:155.0701447	loss_E:-0.0376541
+epoch is: 9
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter    1	Loss_D:-153.7720490	Loss_G:156.7780457	loss_E:-0.0378020
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   11	Loss_D:-157.0112610	Loss_G:159.8630524	loss_E:-0.0392356
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  10	Iter   21	Loss_D:-159.5993500	Loss_G:162.3475647	loss_E:-0.0405006
+Epoch  10	Loss_D_avg:-91.8844632	Loss_G_avg:96.0775210	loss_E_avg:-0.0196601
+['step', 'motto', 'generally', 'base', 'greek', 'round', 'deletion', 'look', 'afford', 'gas', 'certain', 'sure', 'apply', 'like', 'concept']
+['step', 'afford', 'greek', 'generally', 'base', 'think', 'look', 'motto', 'gas', 'deletion', 'round', 'like', 'certain', 'apply', 'explain']
+['step', 'deletion', 'look', 'afford', 'base', 'round', 'greek', 'generally', 'certain', 'create', 'motto', 'thing', 'gas', 'sure', 'think']
+['base', 'step', 'generally', 'afford', 'greek', 'motto', 'gas', 'create', 'like', 'deletion', 'certain', 'look', 'round', 'citizen', 'ii']
+['afford', 'greek', 'step', 'motto', 'generally', 'deletion', 'base', 'create', 'look', 'concept', 'certain', 'sure', 'think', 'round', 'lead']
+['step', 'gas', 'generally', 'afford', 'think', 'look', 'motto', 'certain', 'round', 'base', 'like', 'greek', 'sure', 'thing', 'evolve']
+['step', 'afford', 'gas', 'look', 'motto', 'apply', 'generally', 'greek', 'base', 'think', 'like', 'certain', 'create', 'deletion', 'concentration']
+['generally', 'look', 'afford', 'step', 'deletion', 'round', 'base', 'motto', 'like', 'gas', 'greek', 'think', 'thing', 'certain', 'lead']
+['afford', 'step', 'think', 'look', 'greek', 'motto', 'gas', 'round', 'deletion', 'generally', 'apply', 'base', 'concept', 'concentration', 'thing']
+['step', 'generally', 'motto', 'afford', 'base', 'think', 'gas', 'greek', 'look', 'deletion', 'explain', 'ii', 'certain', 'round', 'create']
+['afford', 'step', 'generally', 'greek', 'motto', 'create', 'concept', 'look', 'sure', 'round', 'gas', 'like', 'explain', 'apply', 'certain']
+['step', 'greek', 'base', 'motto', 'generally', 'deletion', 'afford', 'apply', 'look', 'thing', 'certain', 'concept', 'evolve', 'ii', 'gas']
+['afford', 'step', 'generally', 'base', 'concept', 'think', 'greek', 'round', 'deletion', 'look', 'apply', 'motto', 'certain', 'like', 'sure']
+['afford', 'step', 'greek', 'base', 'motto', 'generally', 'deletion', 'look', 'apply', 'explain', 'gas', 'certain', 'evolve', 'concept', 'ii']
+['step', 'afford', 'generally', 'motto', 'base', 'look', 'think', 'deletion', 'gas', 'round', 'apply', 'thing', 'concept', 'explain', 'evolve']
+['motto', 'base', 'greek', 'step', 'afford', 'look', 'think', 'generally', 'deletion', 'round', 'explain', 'create', 'gas', 'apply', 'good']
+['afford', 'generally', 'step', 'greek', 'gas', 'apply', 'base', 'motto', 'like', 'certain', 'deletion', 'look', 'create', 'sure', 'evolve']
+['afford', 'explain', 'base', 'create', 'generally', 'greek', 'look', 'gas', 'step', 'deletion', 'concept', 'certain', 'motto', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'gas', 'think', 'greek', 'base', 'deletion', 'thing', 'certain', 'apply', 'sure', 'like']
+['step', 'afford', 'think', 'deletion', 'base', 'greek', 'motto', 'look', 'round', 'apply', 'like', 'certain', 'intend', 'generally', 'ii']
+['step', 'gas', 'motto', 'afford', 'look', 'generally', 'greek', 'apply', 'sure', 'like', 'certain', 'explain', 'concentration', 'create', 'round']
+['step', 'generally', 'certain', 'afford', 'look', 'apply', 'evolve', 'sure', 'greek', 'create', 'gas', 'deletion', 'base', 'round', 'motto']
+['step', 'afford', 'greek', 'motto', 'generally', 'deletion', 'gas', 'base', 'like', 'think', 'round', 'explain', 'ii', 'look', 'sure']
+['step', 'afford', 'greek', 'round', 'base', 'look', 'motto', 'generally', 'think', 'apply', 'create', 'like', 'concept', 'certain', 'deletion']
+['base', 'greek', 'step', 'afford', 'motto', 'generally', 'gas', 'deletion', 'evolve', 'look', 'think', 'certain', 'ii', 'apply', 'round']
+['afford', 'greek', 'base', 'motto', 'look', 'step', 'deletion', 'generally', 'certain', 'round', 'apply', 'create', 'like', 'think', 'concept']
+['step', 'greek', 'afford', 'look', 'base', 'deletion', 'motto', 'gas', 'generally', 'certain', 'think', 'apply', 'lead', 'round', 'different']
+['afford', 'step', 'motto', 'greek', 'generally', 'apply', 'base', 'deletion', 'think', 'certain', 'ii', 'look', 'thing', 'create', 'sure']
+['greek', 'afford', 'motto', 'step', 'base', 'apply', 'look', 'concept', 'certain', 'explain', 'generally', 'deletion', 'thing', 'citizen', 'sure']
+['afford', 'step', 'greek', 'look', 'round', 'generally', 'motto', 'deletion', 'apply', 'certain', 'think', 'base', 'ii', 'sure', 'concentration']
+['afford', 'step', 'greek', 'apply', 'motto', 'look', 'think', 'generally', 'sure', 'gas', 'like', 'concept', 'deletion', 'round', 'explain']
+['step', 'gas', 'afford', 'greek', 'look', 'generally', 'apply', 'base', 'evolve', 'motto', 'think', 'round', 'sure', 'deletion', 'certain']
+['generally', 'afford', 'greek', 'step', 'look', 'base', 'gas', 'deletion', 'motto', 'think', 'explain', 'concept', 'like', 'certain', 'create']
+['afford', 'generally', 'step', 'create', 'base', 'greek', 'motto', 'look', 'round', 'gas', 'like', 'explain', 'concept', 'apply', 'deletion']
+['afford', 'step', 'base', 'greek', 'apply', 'generally', 'deletion', 'motto', 'look', 'explain', 'concept', 'round', 'certain', 'create', 'think']
+['step', 'afford', 'apply', 'look', 'greek', 'certain', 'round', 'motto', 'gas', 'sure', 'base', 'deletion', 'explain', 'create', 'concentration']
+['afford', 'deletion', 'step', 'motto', 'greek', 'base', 'look', 'apply', 'think', 'round', 'concept', 'certain', 'generally', 'lead', 'like']
+['step', 'look', 'greek', 'motto', 'apply', 'afford', 'base', 'generally', 'explain', 'gas', 'different', 'certain', 'deletion', 'create', 'good']
+['generally', 'step', 'base', 'motto', 'gas', 'certain', 'look', 'greek', 'afford', 'deletion', 'create', 'sure', 'thing', 'round', 'explain']
+['step', 'afford', 'generally', 'base', 'greek', 'look', 'deletion', 'gas', 'motto', 'round', 'think', 'apply', 'create', 'sure', 'certain']
+['afford', 'certain', 'step', 'look', 'motto', 'think', 'generally', 'deletion', 'gas', 'apply', 'greek', 'round', 'create', 'base', 'sure']
+['step', 'greek', 'afford', 'certain', 'deletion', 'gas', 'base', 'look', 'motto', 'round', 'think', 'generally', 'ii', 'apply', 'like']
+['step', 'certain', 'motto', 'generally', 'base', 'round', 'deletion', 'apply', 'afford', 'gas', 'look', 'create', 'evolve', 'citizen', 'different']
+['afford', 'step', 'greek', 'deletion', 'look', 'round', 'generally', 'think', 'gas', 'apply', 'like', 'base', 'certain', 'motto', 'explain']
+['step', 'greek', 'afford', 'generally', 'base', 'apply', 'motto', 'gas', 'look', 'deletion', 'think', 'concept', 'certain', 'sure', 'like']
+['step', 'afford', 'greek', 'certain', 'look', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'create', 'round', 'motto', 'concept']
+['step', 'afford', 'generally', 'motto', 'look', 'create', 'gas', 'greek', 'deletion', 'think', 'apply', 'explain', 'certain', 'base', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'round', 'generally', 'apply', 'think', 'look', 'base', 'thing', 'like', 'certain', 'create']
+['afford', 'motto', 'step', 'think', 'greek', 'deletion', 'certain', 'look', 'apply', 'gas', 'concentration', 'base', 'round', 'sure', 'generally']
+['motto', 'step', 'generally', 'afford', 'greek', 'deletion', 'gas', 'look', 'certain', 'apply', 'round', 'sure', 'concentration', 'base', 'think']
+==============================
+topic diversity:0.036
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.354967938014759, c_w2v:None, c_uci:-4.239836604749957, c_npmi:-0.14389932241979989
+mimno topic coherence:-227.7003576168642
+epoch is: 10
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter    1	Loss_D:-160.1599426	Loss_G:162.8517303	loss_E:-0.0406577
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   11	Loss_D:-164.5438843	Loss_G:167.1257629	loss_E:-0.0417989
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  11	Iter   21	Loss_D:-168.6093750	Loss_G:171.0831146	loss_E:-0.0428328
+epoch is: 11
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter    1	Loss_D:-169.6770782	Loss_G:172.1159210	loss_E:-0.0429505
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   11	Loss_D:-174.0558472	Loss_G:176.3743134	loss_E:-0.0440390
+| ID | GPU | MEM |
+------------------
+|  0 | 50% | 21% |
+|  1 |  0% |  0% |
+Epoch  12	Iter   21	Loss_D:-180.5682220	Loss_G:182.7988586	loss_E:-0.0449732
+epoch is: 12
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter    1	Loss_D:-176.8664703	Loss_G:179.0359039	loss_E:-0.0450551
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   11	Loss_D:-177.5441437	Loss_G:179.5886688	loss_E:-0.0459356
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  13	Iter   21	Loss_D:-185.9394226	Loss_G:187.8996735	loss_E:-0.0466351
+epoch is: 13
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter    1	Loss_D:-181.0479431	Loss_G:182.9458313	loss_E:-0.0467033
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   11	Loss_D:-184.5708160	Loss_G:186.3818970	loss_E:-0.0473449
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  14	Iter   21	Loss_D:-187.1780853	Loss_G:188.8767853	loss_E:-0.0479059
+epoch is: 14
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter    1	Loss_D:-188.0715637	Loss_G:189.7309723	loss_E:-0.0479548
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   11	Loss_D:-187.0399017	Loss_G:188.5933380	loss_E:-0.0483837
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 21% |
+|  1 |  0% |  0% |
+Epoch  15	Iter   21	Loss_D:-187.7727051	Loss_G:189.2362823	loss_E:-0.0487418
+epoch is: 15
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter    1	Loss_D:-184.4237061	Loss_G:185.8448944	loss_E:-0.0487686
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   11	Loss_D:-186.8014374	Loss_G:188.1466675	loss_E:-0.0490238
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  16	Iter   21	Loss_D:-191.8247833	Loss_G:193.0980072	loss_E:-0.0492263
+epoch is: 16
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter    1	Loss_D:-189.5805969	Loss_G:190.8194275	loss_E:-0.0492368
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   11	Loss_D:-190.1466217	Loss_G:191.3274536	loss_E:-0.0493753
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  17	Iter   21	Loss_D:-188.4185486	Loss_G:189.5463257	loss_E:-0.0494506
+epoch is: 17
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter    1	Loss_D:-195.9304352	Loss_G:197.0320282	loss_E:-0.0494602
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   11	Loss_D:-188.1969147	Loss_G:189.2543335	loss_E:-0.0495175
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  18	Iter   21	Loss_D:-191.8785095	Loss_G:192.9020691	loss_E:-0.0495634
+epoch is: 18
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter    1	Loss_D:-191.9596863	Loss_G:192.9586487	loss_E:-0.0495614
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   11	Loss_D:-195.3276062	Loss_G:196.2960968	loss_E:-0.0495997
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  19	Iter   21	Loss_D:-193.5068817	Loss_G:194.4476929	loss_E:-0.0496350
+epoch is: 19
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter    1	Loss_D:-190.5443573	Loss_G:191.4606018	loss_E:-0.0496393
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   11	Loss_D:-188.6484375	Loss_G:189.5397034	loss_E:-0.0496620
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  20	Iter   21	Loss_D:-188.3099976	Loss_G:189.1770172	loss_E:-0.0496858
+Epoch  20	Loss_D_avg:-138.0946303	Loss_G_avg:140.9802608	loss_E_avg:-0.0335520
+['step', 'motto', 'generally', 'base', 'greek', 'round', 'look', 'deletion', 'afford', 'gas', 'certain', 'sure', 'apply', 'like', 'concept']
+['step', 'afford', 'greek', 'generally', 'look', 'base', 'think', 'motto', 'gas', 'deletion', 'round', 'certain', 'like', 'apply', 'explain']
+['step', 'deletion', 'look', 'afford', 'base', 'greek', 'round', 'generally', 'certain', 'motto', 'create', 'thing', 'gas', 'think', 'sure']
+['base', 'step', 'afford', 'generally', 'greek', 'motto', 'gas', 'deletion', 'create', 'like', 'certain', 'look', 'round', 'ii', 'citizen']
+['afford', 'greek', 'step', 'motto', 'generally', 'deletion', 'base', 'create', 'look', 'concept', 'certain', 'think', 'sure', 'round', 'lead']
+['step', 'gas', 'generally', 'afford', 'think', 'look', 'motto', 'certain', 'round', 'base', 'greek', 'sure', 'like', 'thing', 'apply']
+['step', 'afford', 'gas', 'look', 'motto', 'apply', 'generally', 'greek', 'base', 'think', 'certain', 'like', 'create', 'deletion', 'concentration']
+['generally', 'look', 'step', 'afford', 'deletion', 'base', 'round', 'motto', 'like', 'gas', 'greek', 'think', 'thing', 'certain', 'lead']
+['afford', 'step', 'think', 'look', 'greek', 'motto', 'gas', 'round', 'deletion', 'generally', 'apply', 'base', 'concentration', 'concept', 'certain']
+['step', 'generally', 'motto', 'afford', 'base', 'think', 'gas', 'greek', 'look', 'deletion', 'explain', 'ii', 'certain', 'round', 'create']
+['afford', 'step', 'generally', 'motto', 'greek', 'create', 'look', 'concept', 'sure', 'gas', 'round', 'like', 'explain', 'apply', 'certain']
+['step', 'greek', 'base', 'motto', 'generally', 'afford', 'deletion', 'look', 'apply', 'certain', 'thing', 'concept', 'evolve', 'ii', 'gas']
+['afford', 'step', 'generally', 'base', 'concept', 'think', 'look', 'greek', 'deletion', 'round', 'apply', 'motto', 'certain', 'like', 'sure']
+['afford', 'step', 'greek', 'base', 'motto', 'generally', 'deletion', 'look', 'apply', 'explain', 'gas', 'certain', 'concept', 'evolve', 'ii']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'round', 'apply', 'thing', 'concept', 'explain', 'greek']
+['motto', 'base', 'greek', 'step', 'afford', 'look', 'think', 'generally', 'deletion', 'round', 'explain', 'create', 'gas', 'certain', 'apply']
+['afford', 'generally', 'step', 'greek', 'gas', 'apply', 'base', 'motto', 'certain', 'like', 'deletion', 'look', 'create', 'sure', 'ii']
+['afford', 'explain', 'base', 'generally', 'create', 'look', 'greek', 'gas', 'step', 'deletion', 'concept', 'certain', 'motto', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'gas', 'think', 'base', 'deletion', 'greek', 'thing', 'certain', 'apply', 'sure', 'round']
+['step', 'afford', 'think', 'deletion', 'base', 'motto', 'greek', 'look', 'round', 'certain', 'apply', 'like', 'intend', 'generally', 'ii']
+['step', 'gas', 'afford', 'motto', 'look', 'generally', 'greek', 'apply', 'sure', 'like', 'certain', 'explain', 'concentration', 'create', 'round']
+['step', 'generally', 'afford', 'certain', 'look', 'apply', 'evolve', 'greek', 'sure', 'create', 'gas', 'deletion', 'base', 'motto', 'round']
+['step', 'afford', 'greek', 'motto', 'generally', 'deletion', 'base', 'gas', 'like', 'think', 'round', 'look', 'explain', 'ii', 'sure']
+['step', 'afford', 'greek', 'base', 'look', 'round', 'motto', 'generally', 'think', 'apply', 'create', 'like', 'concept', 'certain', 'deletion']
+['base', 'greek', 'step', 'afford', 'motto', 'generally', 'gas', 'deletion', 'look', 'think', 'evolve', 'certain', 'ii', 'apply', 'round']
+['afford', 'greek', 'base', 'motto', 'step', 'look', 'deletion', 'generally', 'certain', 'round', 'apply', 'like', 'create', 'think', 'concept']
+['step', 'greek', 'afford', 'look', 'base', 'deletion', 'motto', 'gas', 'generally', 'certain', 'think', 'apply', 'lead', 'round', 'different']
+['afford', 'step', 'motto', 'greek', 'generally', 'apply', 'deletion', 'base', 'think', 'certain', 'ii', 'look', 'thing', 'create', 'sure']
+['greek', 'afford', 'motto', 'step', 'base', 'apply', 'look', 'certain', 'generally', 'concept', 'deletion', 'explain', 'citizen', 'thing', 'sure']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'round', 'deletion', 'apply', 'certain', 'think', 'base', 'ii', 'sure', 'concentration']
+['afford', 'step', 'greek', 'motto', 'apply', 'look', 'generally', 'think', 'sure', 'gas', 'like', 'concept', 'deletion', 'explain', 'round']
+['step', 'afford', 'gas', 'look', 'greek', 'generally', 'apply', 'base', 'motto', 'evolve', 'think', 'round', 'deletion', 'sure', 'certain']
+['afford', 'generally', 'greek', 'step', 'look', 'base', 'gas', 'deletion', 'motto', 'think', 'explain', 'concept', 'certain', 'like', 'create']
+['afford', 'step', 'generally', 'base', 'create', 'greek', 'look', 'motto', 'round', 'gas', 'like', 'explain', 'concept', 'deletion', 'apply']
+['afford', 'step', 'base', 'greek', 'generally', 'apply', 'look', 'deletion', 'motto', 'explain', 'concept', 'certain', 'round', 'think', 'create']
+['step', 'afford', 'apply', 'look', 'greek', 'certain', 'round', 'motto', 'gas', 'base', 'sure', 'deletion', 'explain', 'concentration', 'create']
+['afford', 'deletion', 'step', 'motto', 'greek', 'base', 'look', 'apply', 'think', 'round', 'concept', 'certain', 'generally', 'lead', 'like']
+['step', 'look', 'greek', 'motto', 'afford', 'apply', 'base', 'generally', 'explain', 'gas', 'different', 'certain', 'deletion', 'create', 'good']
+['generally', 'step', 'base', 'motto', 'gas', 'certain', 'look', 'afford', 'greek', 'deletion', 'sure', 'create', 'thing', 'round', 'explain']
+['step', 'afford', 'look', 'base', 'greek', 'generally', 'deletion', 'motto', 'gas', 'round', 'think', 'apply', 'create', 'certain', 'sure']
+['afford', 'step', 'certain', 'look', 'motto', 'think', 'generally', 'deletion', 'apply', 'gas', 'greek', 'round', 'create', 'base', 'thing']
+['step', 'greek', 'afford', 'certain', 'deletion', 'gas', 'base', 'look', 'motto', 'round', 'think', 'generally', 'ii', 'apply', 'sure']
+['step', 'certain', 'motto', 'generally', 'base', 'round', 'deletion', 'afford', 'apply', 'gas', 'look', 'create', 'evolve', 'different', 'think']
+['afford', 'step', 'greek', 'deletion', 'look', 'generally', 'round', 'think', 'gas', 'apply', 'base', 'like', 'certain', 'motto', 'explain']
+['step', 'greek', 'afford', 'generally', 'base', 'apply', 'motto', 'gas', 'look', 'deletion', 'think', 'concept', 'certain', 'ii', 'like']
+['step', 'afford', 'greek', 'look', 'certain', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'create', 'round', 'motto', 'concept']
+['step', 'afford', 'generally', 'motto', 'look', 'gas', 'create', 'greek', 'think', 'deletion', 'certain', 'apply', 'explain', 'base', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'generally', 'round', 'apply', 'look', 'think', 'base', 'thing', 'like', 'certain', 'create']
+['afford', 'step', 'motto', 'think', 'greek', 'deletion', 'look', 'certain', 'apply', 'gas', 'base', 'concentration', 'round', 'generally', 'sure']
+['step', 'motto', 'generally', 'afford', 'greek', 'deletion', 'gas', 'look', 'certain', 'apply', 'round', 'sure', 'base', 'concentration', 'think']
+==============================
+topic diversity:0.036
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.35483594371655913, c_w2v:None, c_uci:-4.257480076936861, c_npmi:-0.1448272251831581
+mimno topic coherence:-233.43587746730714
+epoch is: 20
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter    1	Loss_D:-192.5841370	Loss_G:193.4293060	loss_E:-0.0496833
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   11	Loss_D:-191.2796478	Loss_G:192.1030121	loss_E:-0.0497071
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  21	Iter   21	Loss_D:-189.6752319	Loss_G:190.4774628	loss_E:-0.0497222
+epoch is: 21
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter    1	Loss_D:-195.3931122	Loss_G:196.1767273	loss_E:-0.0497240
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   11	Loss_D:-189.3893738	Loss_G:190.1531372	loss_E:-0.0497387
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 21% |
+|  1 |  0% |  0% |
+Epoch  22	Iter   21	Loss_D:-193.7988739	Loss_G:194.5442963	loss_E:-0.0497538
+epoch is: 22
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter    1	Loss_D:-191.4344330	Loss_G:192.1629944	loss_E:-0.0497566
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   11	Loss_D:-189.2609711	Loss_G:189.9725952	loss_E:-0.0497673
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  23	Iter   21	Loss_D:-191.0011902	Loss_G:191.6970673	loss_E:-0.0497800
+epoch is: 23
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter    1	Loss_D:-197.0701294	Loss_G:197.7517548	loss_E:-0.0497834
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   11	Loss_D:-189.8737335	Loss_G:190.5407257	loss_E:-0.0497943
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  24	Iter   21	Loss_D:-193.2257385	Loss_G:193.8796387	loss_E:-0.0498048
+epoch is: 24
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter    1	Loss_D:-187.1037140	Loss_G:187.7452393	loss_E:-0.0498023
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   11	Loss_D:-189.9604645	Loss_G:190.5902557	loss_E:-0.0498139
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  25	Iter   21	Loss_D:-189.5297394	Loss_G:190.1477966	loss_E:-0.0498211
+epoch is: 25
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter    1	Loss_D:-190.8841553	Loss_G:191.4925537	loss_E:-0.0498248
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   11	Loss_D:-192.9192505	Loss_G:193.5180664	loss_E:-0.0498299
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  26	Iter   21	Loss_D:-189.0306396	Loss_G:189.6207123	loss_E:-0.0498380
+epoch is: 26
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter    1	Loss_D:-191.8793640	Loss_G:192.4620056	loss_E:-0.0498402
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   11	Loss_D:-189.7464752	Loss_G:190.3219299	loss_E:-0.0498504
+| ID | GPU | MEM |
+------------------
+|  0 | 56% | 21% |
+|  1 |  0% |  0% |
+Epoch  27	Iter   21	Loss_D:-190.7736969	Loss_G:191.3426514	loss_E:-0.0498580
+epoch is: 27
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter    1	Loss_D:-190.3159943	Loss_G:190.8798218	loss_E:-0.0498572
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   11	Loss_D:-190.7436829	Loss_G:191.3023071	loss_E:-0.0498629
+| ID | GPU | MEM |
+------------------
+|  0 | 57% | 21% |
+|  1 |  0% |  0% |
+Epoch  28	Iter   21	Loss_D:-195.2097931	Loss_G:195.7647705	loss_E:-0.0498708
+epoch is: 28
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter    1	Loss_D:-192.1731567	Loss_G:192.7248993	loss_E:-0.0498697
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   11	Loss_D:-187.1123199	Loss_G:187.6616516	loss_E:-0.0498755
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  29	Iter   21	Loss_D:-191.8773193	Loss_G:192.4248352	loss_E:-0.0498798
+epoch is: 29
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter    1	Loss_D:-190.1974945	Loss_G:190.7443085	loss_E:-0.0498798
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   11	Loss_D:-195.3502960	Loss_G:195.8960876	loss_E:-0.0498831
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  30	Iter   21	Loss_D:-189.3649597	Loss_G:189.9094086	loss_E:-0.0498906
+Epoch  30	Loss_D_avg:-155.8204101	Loss_G_avg:157.9583741	loss_E_avg:-0.0389720
+['step', 'motto', 'generally', 'base', 'greek', 'round', 'look', 'afford', 'deletion', 'certain', 'gas', 'sure', 'apply', 'like', 'thing']
+['step', 'afford', 'greek', 'look', 'base', 'think', 'generally', 'motto', 'gas', 'deletion', 'round', 'certain', 'like', 'apply', 'explain']
+['step', 'afford', 'look', 'deletion', 'base', 'greek', 'generally', 'round', 'certain', 'motto', 'create', 'think', 'gas', 'thing', 'sure']
+['step', 'base', 'afford', 'generally', 'greek', 'motto', 'gas', 'deletion', 'look', 'certain', 'create', 'like', 'round', 'ii', 'think']
+['afford', 'step', 'greek', 'motto', 'generally', 'deletion', 'base', 'look', 'create', 'concept', 'certain', 'think', 'sure', 'round', 'intend']
+['step', 'gas', 'generally', 'afford', 'look', 'think', 'motto', 'certain', 'round', 'base', 'greek', 'sure', 'like', 'thing', 'apply']
+['step', 'afford', 'look', 'gas', 'motto', 'generally', 'greek', 'apply', 'base', 'think', 'certain', 'create', 'like', 'deletion', 'concentration']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'like', 'gas', 'greek', 'think', 'thing', 'certain', 'lead']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'gas', 'round', 'deletion', 'generally', 'apply', 'base', 'certain', 'concentration', 'concept']
+['step', 'generally', 'motto', 'afford', 'base', 'think', 'greek', 'gas', 'look', 'deletion', 'ii', 'explain', 'certain', 'round', 'create']
+['afford', 'step', 'generally', 'motto', 'greek', 'look', 'create', 'concept', 'gas', 'sure', 'round', 'like', 'explain', 'certain', 'apply']
+['step', 'greek', 'base', 'motto', 'afford', 'generally', 'deletion', 'look', 'apply', 'certain', 'thing', 'concept', 'evolve', 'ii', 'gas']
+['afford', 'step', 'generally', 'base', 'concept', 'think', 'look', 'deletion', 'greek', 'round', 'apply', 'motto', 'certain', 'like', 'sure']
+['afford', 'step', 'greek', 'base', 'motto', 'generally', 'deletion', 'look', 'explain', 'apply', 'gas', 'certain', 'concept', 'ii', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'round', 'apply', 'thing', 'concept', 'explain', 'greek']
+['motto', 'base', 'greek', 'step', 'look', 'afford', 'think', 'generally', 'deletion', 'round', 'explain', 'gas', 'create', 'certain', 'total']
+['afford', 'step', 'generally', 'greek', 'gas', 'base', 'apply', 'motto', 'certain', 'deletion', 'like', 'look', 'sure', 'create', 'ii']
+['afford', 'explain', 'base', 'generally', 'create', 'look', 'greek', 'step', 'gas', 'deletion', 'concept', 'certain', 'motto', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'gas', 'think', 'base', 'deletion', 'greek', 'certain', 'thing', 'apply', 'round', 'like']
+['step', 'afford', 'think', 'deletion', 'base', 'motto', 'greek', 'look', 'round', 'certain', 'apply', 'like', 'intend', 'generally', 'lead']
+['step', 'gas', 'afford', 'motto', 'look', 'generally', 'greek', 'apply', 'sure', 'like', 'certain', 'explain', 'concentration', 'create', 'base']
+['step', 'generally', 'afford', 'certain', 'look', 'apply', 'greek', 'evolve', 'sure', 'deletion', 'gas', 'base', 'create', 'motto', 'round']
+['step', 'afford', 'greek', 'motto', 'generally', 'deletion', 'base', 'gas', 'like', 'think', 'look', 'round', 'explain', 'ii', 'certain']
+['step', 'afford', 'greek', 'look', 'base', 'round', 'motto', 'generally', 'think', 'apply', 'create', 'like', 'concept', 'certain', 'deletion']
+['base', 'step', 'greek', 'afford', 'motto', 'generally', 'gas', 'deletion', 'look', 'think', 'evolve', 'certain', 'ii', 'apply', 'round']
+['afford', 'base', 'greek', 'step', 'motto', 'look', 'deletion', 'certain', 'generally', 'round', 'apply', 'think', 'like', 'create', 'ii']
+['step', 'afford', 'greek', 'look', 'base', 'deletion', 'motto', 'gas', 'generally', 'certain', 'think', 'lead', 'apply', 'different', 'ii']
+['afford', 'step', 'motto', 'greek', 'generally', 'apply', 'deletion', 'base', 'think', 'certain', 'look', 'ii', 'thing', 'create', 'intend']
+['greek', 'afford', 'motto', 'step', 'base', 'apply', 'look', 'certain', 'generally', 'deletion', 'concept', 'explain', 'citizen', 'thing', 'sure']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'round', 'deletion', 'certain', 'apply', 'think', 'base', 'ii', 'sure', 'concentration']
+['afford', 'step', 'greek', 'motto', 'apply', 'look', 'generally', 'think', 'sure', 'gas', 'like', 'concept', 'deletion', 'explain', 'round']
+['step', 'afford', 'gas', 'look', 'greek', 'generally', 'apply', 'base', 'motto', 'think', 'evolve', 'deletion', 'round', 'sure', 'certain']
+['afford', 'generally', 'greek', 'step', 'look', 'base', 'gas', 'deletion', 'motto', 'think', 'explain', 'concept', 'certain', 'like', 'create']
+['afford', 'step', 'generally', 'base', 'greek', 'create', 'look', 'motto', 'round', 'gas', 'like', 'explain', 'concept', 'deletion', 'apply']
+['afford', 'step', 'base', 'greek', 'generally', 'apply', 'look', 'deletion', 'motto', 'certain', 'explain', 'concept', 'round', 'think', 'create']
+['step', 'afford', 'apply', 'look', 'greek', 'certain', 'motto', 'round', 'gas', 'base', 'deletion', 'sure', 'explain', 'concentration', 'create']
+['afford', 'step', 'deletion', 'motto', 'greek', 'base', 'look', 'think', 'apply', 'round', 'concept', 'certain', 'generally', 'lead', 'like']
+['step', 'look', 'greek', 'afford', 'motto', 'apply', 'base', 'generally', 'explain', 'gas', 'different', 'certain', 'deletion', 'create', 'intend']
+['generally', 'step', 'base', 'motto', 'afford', 'gas', 'look', 'certain', 'greek', 'deletion', 'sure', 'create', 'thing', 'round', 'explain']
+['step', 'afford', 'look', 'base', 'greek', 'deletion', 'generally', 'motto', 'gas', 'think', 'round', 'apply', 'create', 'certain', 'sure']
+['afford', 'step', 'certain', 'look', 'motto', 'think', 'deletion', 'generally', 'greek', 'apply', 'gas', 'round', 'base', 'create', 'thing']
+['step', 'greek', 'afford', 'certain', 'deletion', 'gas', 'look', 'base', 'motto', 'round', 'think', 'generally', 'ii', 'apply', 'sure']
+['step', 'certain', 'motto', 'generally', 'base', 'round', 'deletion', 'afford', 'apply', 'gas', 'look', 'create', 'think', 'evolve', 'different']
+['afford', 'step', 'greek', 'deletion', 'look', 'generally', 'think', 'round', 'gas', 'base', 'apply', 'like', 'certain', 'motto', 'explain']
+['step', 'greek', 'afford', 'base', 'generally', 'motto', 'apply', 'gas', 'look', 'deletion', 'think', 'certain', 'concept', 'ii', 'like']
+['step', 'afford', 'greek', 'look', 'certain', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'create', 'motto', 'round', 'intend']
+['step', 'afford', 'generally', 'motto', 'look', 'gas', 'greek', 'create', 'think', 'deletion', 'certain', 'apply', 'explain', 'base', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'generally', 'round', 'apply', 'look', 'think', 'base', 'thing', 'certain', 'like', 'create']
+['afford', 'step', 'motto', 'think', 'greek', 'look', 'deletion', 'certain', 'base', 'gas', 'apply', 'concentration', 'generally', 'round', 'sure']
+['step', 'motto', 'afford', 'generally', 'greek', 'deletion', 'look', 'gas', 'certain', 'apply', 'round', 'sure', 'base', 'concentration', 'think']
+==============================
+topic diversity:0.036
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3542632934087787, c_w2v:None, c_uci:-4.226953241833246, c_npmi:-0.1435890997435647
+mimno topic coherence:-234.86569076999814
+epoch is: 30
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter    1	Loss_D:-191.0659180	Loss_G:191.6096497	loss_E:-0.0498902
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   11	Loss_D:-193.6812439	Loss_G:194.2241669	loss_E:-0.0498946
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  31	Iter   21	Loss_D:-191.0976257	Loss_G:191.6394806	loss_E:-0.0498984
+epoch is: 31
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter    1	Loss_D:-192.5061951	Loss_G:193.0475769	loss_E:-0.0498984
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   11	Loss_D:-192.4041748	Loss_G:192.9444427	loss_E:-0.0499033
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  32	Iter   21	Loss_D:-192.1573944	Loss_G:192.6968384	loss_E:-0.0499061
+epoch is: 32
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter    1	Loss_D:-191.9524078	Loss_G:192.4911194	loss_E:-0.0499061
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   11	Loss_D:-192.1136932	Loss_G:192.6515656	loss_E:-0.0499092
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  33	Iter   21	Loss_D:-189.5192719	Loss_G:190.0562134	loss_E:-0.0499119
+epoch is: 33
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter    1	Loss_D:-192.4039307	Loss_G:192.9402618	loss_E:-0.0499122
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   11	Loss_D:-194.6697540	Loss_G:195.2051086	loss_E:-0.0499150
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  34	Iter   21	Loss_D:-197.2754669	Loss_G:197.8101044	loss_E:-0.0499170
+epoch is: 34
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter    1	Loss_D:-192.1920319	Loss_G:192.7258911	loss_E:-0.0499163
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   11	Loss_D:-193.4135895	Loss_G:193.9467926	loss_E:-0.0499200
+| ID | GPU | MEM |
+------------------
+|  0 |  4% | 21% |
+|  1 |  0% |  0% |
+Epoch  35	Iter   21	Loss_D:-193.0538330	Loss_G:193.5859070	loss_E:-0.0499210
+epoch is: 35
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter    1	Loss_D:-187.5085144	Loss_G:188.0399475	loss_E:-0.0499209
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   11	Loss_D:-190.2284241	Loss_G:190.7590485	loss_E:-0.0499222
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  36	Iter   21	Loss_D:-192.6555176	Loss_G:193.1853943	loss_E:-0.0499253
+epoch is: 36
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter    1	Loss_D:-190.6352539	Loss_G:191.1643829	loss_E:-0.0499253
+| ID | GPU | MEM |
+------------------
+|  0 | 33% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   11	Loss_D:-190.0052795	Loss_G:190.5337524	loss_E:-0.0499274
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  37	Iter   21	Loss_D:-187.4428711	Loss_G:187.9703674	loss_E:-0.0499284
+epoch is: 37
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter    1	Loss_D:-189.6933594	Loss_G:190.2202454	loss_E:-0.0499282
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   11	Loss_D:-194.6095886	Loss_G:195.1356049	loss_E:-0.0499296
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  38	Iter   21	Loss_D:-190.0492554	Loss_G:190.5745697	loss_E:-0.0499322
+epoch is: 38
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter    1	Loss_D:-190.9692078	Loss_G:191.4937897	loss_E:-0.0499326
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   11	Loss_D:-191.0329895	Loss_G:191.5568542	loss_E:-0.0499336
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  39	Iter   21	Loss_D:-190.4574738	Loss_G:190.9805145	loss_E:-0.0499347
+epoch is: 39
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter    1	Loss_D:-196.6108704	Loss_G:197.1333160	loss_E:-0.0499349
+| ID | GPU | MEM |
+------------------
+|  0 |  9% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   11	Loss_D:-192.5710907	Loss_G:193.0928040	loss_E:-0.0499356
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  40	Iter   21	Loss_D:-191.5885773	Loss_G:192.1095276	loss_E:-0.0499363
+Epoch  40	Loss_D_avg:-164.8283476	Loss_G_avg:166.5648242	loss_E_avg:-0.0417088
+['step', 'motto', 'generally', 'base', 'greek', 'afford', 'look', 'round', 'deletion', 'certain', 'gas', 'sure', 'like', 'apply', 'thing']
+['step', 'afford', 'greek', 'look', 'base', 'think', 'generally', 'motto', 'gas', 'deletion', 'round', 'certain', 'like', 'apply', 'explain']
+['step', 'afford', 'look', 'deletion', 'base', 'greek', 'generally', 'round', 'certain', 'motto', 'create', 'think', 'gas', 'thing', 'sure']
+['step', 'base', 'afford', 'generally', 'greek', 'motto', 'gas', 'deletion', 'look', 'certain', 'create', 'like', 'round', 'think', 'ii']
+['afford', 'step', 'greek', 'motto', 'generally', 'deletion', 'base', 'look', 'create', 'concept', 'certain', 'think', 'sure', 'intend', 'lead']
+['step', 'gas', 'generally', 'afford', 'look', 'think', 'motto', 'certain', 'base', 'round', 'greek', 'sure', 'like', 'thing', 'apply']
+['step', 'afford', 'look', 'gas', 'motto', 'generally', 'base', 'greek', 'apply', 'think', 'certain', 'deletion', 'create', 'like', 'lead']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'like', 'greek', 'think', 'certain', 'thing', 'lead']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'gas', 'round', 'deletion', 'generally', 'base', 'apply', 'certain', 'concentration', 'concept']
+['step', 'generally', 'motto', 'afford', 'base', 'think', 'greek', 'look', 'gas', 'deletion', 'certain', 'ii', 'explain', 'round', 'create']
+['step', 'afford', 'generally', 'motto', 'greek', 'look', 'create', 'concept', 'gas', 'sure', 'round', 'certain', 'explain', 'like', 'base']
+['step', 'greek', 'base', 'afford', 'motto', 'deletion', 'generally', 'look', 'apply', 'certain', 'thing', 'evolve', 'ii', 'concept', 'gas']
+['afford', 'step', 'generally', 'base', 'think', 'look', 'concept', 'deletion', 'greek', 'round', 'apply', 'motto', 'certain', 'sure', 'like']
+['afford', 'step', 'greek', 'base', 'motto', 'generally', 'deletion', 'look', 'explain', 'gas', 'apply', 'certain', 'concept', 'evolve', 'ii']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'round', 'thing', 'concept', 'greek', 'explain']
+['motto', 'base', 'greek', 'step', 'look', 'afford', 'think', 'generally', 'deletion', 'round', 'gas', 'explain', 'create', 'certain', 'total']
+['afford', 'step', 'generally', 'greek', 'gas', 'base', 'apply', 'motto', 'certain', 'deletion', 'like', 'look', 'sure', 'create', 'ii']
+['afford', 'explain', 'base', 'generally', 'look', 'create', 'greek', 'step', 'gas', 'deletion', 'certain', 'concept', 'motto', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'gas', 'base', 'think', 'deletion', 'greek', 'certain', 'thing', 'round', 'apply', 'like']
+['step', 'afford', 'think', 'deletion', 'base', 'look', 'motto', 'greek', 'round', 'certain', 'intend', 'generally', 'apply', 'like', 'lead']
+['step', 'gas', 'afford', 'motto', 'look', 'generally', 'greek', 'apply', 'sure', 'certain', 'like', 'explain', 'concentration', 'base', 'create']
+['step', 'afford', 'generally', 'certain', 'look', 'apply', 'greek', 'evolve', 'deletion', 'sure', 'base', 'gas', 'motto', 'create', 'round']
+['step', 'afford', 'greek', 'motto', 'generally', 'deletion', 'base', 'gas', 'like', 'think', 'look', 'round', 'explain', 'ii', 'certain']
+['step', 'afford', 'greek', 'look', 'base', 'round', 'motto', 'generally', 'think', 'apply', 'create', 'like', 'concept', 'deletion', 'certain']
+['base', 'step', 'afford', 'greek', 'motto', 'generally', 'gas', 'deletion', 'look', 'think', 'evolve', 'certain', 'ii', 'apply', 'round']
+['afford', 'base', 'greek', 'step', 'motto', 'look', 'deletion', 'certain', 'generally', 'round', 'apply', 'think', 'like', 'create', 'ii']
+['step', 'afford', 'greek', 'look', 'base', 'deletion', 'motto', 'gas', 'generally', 'certain', 'think', 'lead', 'apply', 'different', 'ii']
+['afford', 'step', 'motto', 'greek', 'generally', 'apply', 'deletion', 'base', 'think', 'look', 'certain', 'ii', 'thing', 'create', 'intend']
+['afford', 'greek', 'step', 'motto', 'base', 'apply', 'look', 'certain', 'generally', 'deletion', 'concept', 'explain', 'citizen', 'thing', 'think']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'round', 'certain', 'apply', 'base', 'think', 'ii', 'sure', 'concentration']
+['afford', 'step', 'greek', 'motto', 'look', 'apply', 'generally', 'think', 'gas', 'sure', 'deletion', 'concept', 'like', 'base', 'explain']
+['step', 'afford', 'gas', 'look', 'greek', 'generally', 'base', 'apply', 'motto', 'think', 'evolve', 'deletion', 'round', 'certain', 'sure']
+['afford', 'generally', 'greek', 'step', 'look', 'base', 'gas', 'deletion', 'think', 'motto', 'explain', 'concept', 'certain', 'ii', 'like']
+['afford', 'step', 'generally', 'base', 'greek', 'look', 'create', 'motto', 'round', 'gas', 'like', 'explain', 'concept', 'deletion', 'certain']
+['afford', 'step', 'base', 'greek', 'generally', 'look', 'apply', 'deletion', 'motto', 'certain', 'explain', 'concept', 'think', 'round', 'create']
+['step', 'afford', 'look', 'apply', 'certain', 'greek', 'motto', 'round', 'gas', 'base', 'deletion', 'sure', 'explain', 'concentration', 'generally']
+['afford', 'step', 'deletion', 'motto', 'greek', 'base', 'look', 'think', 'apply', 'round', 'certain', 'concept', 'lead', 'generally', 'intend']
+['step', 'look', 'greek', 'afford', 'motto', 'base', 'apply', 'generally', 'explain', 'gas', 'different', 'certain', 'deletion', 'create', 'intend']
+['step', 'generally', 'base', 'afford', 'motto', 'look', 'certain', 'gas', 'greek', 'deletion', 'sure', 'create', 'thing', 'round', 'explain']
+['step', 'afford', 'look', 'base', 'deletion', 'greek', 'generally', 'motto', 'gas', 'think', 'round', 'apply', 'create', 'certain', 'sure']
+['afford', 'step', 'look', 'certain', 'motto', 'think', 'deletion', 'generally', 'greek', 'apply', 'gas', 'base', 'round', 'create', 'thing']
+['step', 'greek', 'afford', 'certain', 'deletion', 'gas', 'look', 'base', 'motto', 'round', 'think', 'generally', 'ii', 'apply', 'sure']
+['step', 'certain', 'motto', 'generally', 'base', 'deletion', 'afford', 'round', 'apply', 'look', 'gas', 'create', 'think', 'evolve', 'different']
+['afford', 'step', 'greek', 'deletion', 'look', 'generally', 'think', 'round', 'gas', 'base', 'apply', 'certain', 'motto', 'like', 'lead']
+['step', 'greek', 'afford', 'base', 'generally', 'motto', 'apply', 'deletion', 'look', 'gas', 'think', 'certain', 'concept', 'ii', 'round']
+['step', 'afford', 'greek', 'look', 'certain', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'create', 'motto', 'intend', 'round']
+['step', 'afford', 'generally', 'motto', 'look', 'greek', 'gas', 'create', 'think', 'deletion', 'certain', 'apply', 'explain', 'base', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'generally', 'round', 'apply', 'look', 'think', 'base', 'certain', 'thing', 'like', 'lead']
+['afford', 'step', 'motto', 'greek', 'think', 'look', 'deletion', 'certain', 'base', 'gas', 'apply', 'concentration', 'generally', 'round', 'sure']
+['step', 'motto', 'afford', 'generally', 'greek', 'deletion', 'look', 'gas', 'certain', 'apply', 'round', 'base', 'sure', 'concentration', 'think']
+==============================
+topic diversity:0.036
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3517350973096255, c_w2v:None, c_uci:-4.229305441888443, c_npmi:-0.14374192518279222
+mimno topic coherence:-234.54487854722026
+epoch is: 40
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter    1	Loss_D:-192.1723785	Loss_G:192.6925507	loss_E:-0.0499366
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   11	Loss_D:-188.6224823	Loss_G:189.1419067	loss_E:-0.0499375
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  41	Iter   21	Loss_D:-191.2801819	Loss_G:191.7989197	loss_E:-0.0499388
+epoch is: 41
+| ID | GPU | MEM |
+------------------
+|  0 | 20% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter    1	Loss_D:-194.3452454	Loss_G:194.8632507	loss_E:-0.0499386
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   11	Loss_D:-192.5586548	Loss_G:193.0758820	loss_E:-0.0499396
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  42	Iter   21	Loss_D:-190.5945282	Loss_G:191.1110077	loss_E:-0.0499399
+epoch is: 42
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter    1	Loss_D:-198.3329315	Loss_G:198.8488617	loss_E:-0.0499403
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   11	Loss_D:-188.2625885	Loss_G:188.7776947	loss_E:-0.0499399
+| ID | GPU | MEM |
+------------------
+|  0 |  2% | 21% |
+|  1 |  0% |  0% |
+Epoch  43	Iter   21	Loss_D:-190.0209503	Loss_G:190.5353241	loss_E:-0.0499413
+epoch is: 43
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter    1	Loss_D:-191.6986389	Loss_G:192.2123413	loss_E:-0.0499419
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   11	Loss_D:-191.1207123	Loss_G:191.6336975	loss_E:-0.0499423
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  44	Iter   21	Loss_D:-190.3717194	Loss_G:190.8840485	loss_E:-0.0499415
+epoch is: 44
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter    1	Loss_D:-195.6002960	Loss_G:196.1118927	loss_E:-0.0499425
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   11	Loss_D:-198.1717377	Loss_G:198.6826324	loss_E:-0.0499433
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 21% |
+|  1 |  0% |  0% |
+Epoch  45	Iter   21	Loss_D:-188.8155365	Loss_G:189.3256531	loss_E:-0.0499426
+epoch is: 45
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter    1	Loss_D:-192.2265778	Loss_G:192.7360992	loss_E:-0.0499422
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   11	Loss_D:-191.5076447	Loss_G:192.0164032	loss_E:-0.0499442
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  46	Iter   21	Loss_D:-191.5363922	Loss_G:192.0443878	loss_E:-0.0499445
+epoch is: 46
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter    1	Loss_D:-189.6002350	Loss_G:190.1076202	loss_E:-0.0499453
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   11	Loss_D:-190.2093506	Loss_G:190.7160034	loss_E:-0.0499459
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  47	Iter   21	Loss_D:-191.4243622	Loss_G:191.9302521	loss_E:-0.0499462
+epoch is: 47
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter    1	Loss_D:-191.1079559	Loss_G:191.6132202	loss_E:-0.0499460
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   11	Loss_D:-192.3236542	Loss_G:192.8281097	loss_E:-0.0499460
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 21% |
+|  1 |  0% |  0% |
+Epoch  48	Iter   21	Loss_D:-195.8439636	Loss_G:196.3477478	loss_E:-0.0499470
+epoch is: 48
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter    1	Loss_D:-193.1313782	Loss_G:193.6344910	loss_E:-0.0499472
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   11	Loss_D:-194.5161438	Loss_G:195.0186310	loss_E:-0.0499468
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  49	Iter   21	Loss_D:-193.5377960	Loss_G:194.0394440	loss_E:-0.0499465
+epoch is: 49
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter    1	Loss_D:-186.4912109	Loss_G:186.9922638	loss_E:-0.0499466
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   11	Loss_D:-191.7470245	Loss_G:192.2473297	loss_E:-0.0499480
+| ID | GPU | MEM |
+------------------
+|  0 | 55% | 21% |
+|  1 |  0% |  0% |
+Epoch  50	Iter   21	Loss_D:-194.5215912	Loss_G:195.0212097	loss_E:-0.0499489
+Epoch  50	Loss_D_avg:-170.2739705	Loss_G_avg:171.7651186	loss_E_avg:-0.0433557
+['step', 'motto', 'generally', 'base', 'afford', 'greek', 'look', 'deletion', 'round', 'certain', 'gas', 'sure', 'like', 'apply', 'thing']
+['step', 'afford', 'look', 'greek', 'base', 'think', 'generally', 'motto', 'gas', 'deletion', 'round', 'certain', 'total', 'like', 'apply']
+['step', 'afford', 'look', 'deletion', 'base', 'greek', 'generally', 'certain', 'motto', 'round', 'think', 'create', 'gas', 'thing', 'ii']
+['step', 'base', 'afford', 'generally', 'greek', 'motto', 'look', 'deletion', 'gas', 'certain', 'create', 'like', 'round', 'think', 'ii']
+['afford', 'step', 'greek', 'motto', 'generally', 'base', 'deletion', 'look', 'create', 'concept', 'certain', 'think', 'sure', 'intend', 'lead']
+['step', 'generally', 'gas', 'afford', 'look', 'think', 'certain', 'motto', 'base', 'round', 'greek', 'sure', 'thing', 'like', 'deletion']
+['step', 'afford', 'look', 'motto', 'gas', 'base', 'generally', 'greek', 'apply', 'think', 'certain', 'deletion', 'create', 'like', 'lead']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'like', 'greek', 'think', 'certain', 'thing', 'lead']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'gas', 'deletion', 'round', 'generally', 'base', 'apply', 'certain', 'concentration', 'concept']
+['step', 'generally', 'motto', 'afford', 'base', 'think', 'look', 'greek', 'gas', 'deletion', 'certain', 'ii', 'round', 'explain', 'apply']
+['step', 'afford', 'generally', 'motto', 'greek', 'look', 'create', 'concept', 'gas', 'certain', 'sure', 'round', 'base', 'explain', 'apply']
+['step', 'greek', 'base', 'afford', 'motto', 'deletion', 'look', 'generally', 'apply', 'certain', 'thing', 'ii', 'evolve', 'concept', 'gas']
+['afford', 'step', 'generally', 'base', 'look', 'think', 'concept', 'deletion', 'greek', 'motto', 'round', 'apply', 'certain', 'sure', 'like']
+['afford', 'step', 'greek', 'base', 'motto', 'deletion', 'generally', 'look', 'gas', 'explain', 'certain', 'apply', 'evolve', 'ii', 'concept']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'round', 'thing', 'greek', 'concept', 'total']
+['motto', 'base', 'greek', 'step', 'look', 'afford', 'think', 'generally', 'deletion', 'gas', 'round', 'explain', 'create', 'total', 'certain']
+['afford', 'step', 'generally', 'greek', 'base', 'gas', 'apply', 'motto', 'certain', 'deletion', 'look', 'like', 'sure', 'create', 'ii']
+['afford', 'explain', 'base', 'generally', 'look', 'step', 'create', 'greek', 'gas', 'deletion', 'certain', 'motto', 'concept', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'gas', 'base', 'think', 'deletion', 'greek', 'certain', 'thing', 'round', 'like', 'apply']
+['step', 'afford', 'think', 'deletion', 'base', 'look', 'motto', 'greek', 'round', 'intend', 'certain', 'generally', 'apply', 'lead', 'like']
+['step', 'gas', 'afford', 'look', 'motto', 'generally', 'greek', 'apply', 'sure', 'certain', 'like', 'explain', 'base', 'concentration', 'deletion']
+['step', 'afford', 'generally', 'certain', 'look', 'apply', 'deletion', 'greek', 'evolve', 'base', 'gas', 'sure', 'motto', 'create', 'ii']
+['step', 'afford', 'greek', 'motto', 'generally', 'base', 'deletion', 'gas', 'like', 'look', 'think', 'certain', 'round', 'ii', 'explain']
+['step', 'afford', 'greek', 'look', 'base', 'generally', 'round', 'motto', 'think', 'apply', 'deletion', 'create', 'certain', 'like', 'concept']
+['base', 'step', 'afford', 'greek', 'motto', 'generally', 'gas', 'look', 'deletion', 'think', 'certain', 'evolve', 'ii', 'apply', 'round']
+['afford', 'base', 'greek', 'step', 'look', 'motto', 'deletion', 'certain', 'generally', 'apply', 'round', 'think', 'like', 'ii', 'create']
+['step', 'afford', 'greek', 'look', 'base', 'deletion', 'motto', 'gas', 'generally', 'certain', 'think', 'lead', 'apply', 'intend', 'different']
+['afford', 'step', 'motto', 'greek', 'generally', 'deletion', 'apply', 'base', 'think', 'look', 'certain', 'ii', 'thing', 'create', 'intend']
+['afford', 'greek', 'step', 'base', 'motto', 'apply', 'look', 'certain', 'generally', 'deletion', 'concept', 'explain', 'citizen', 'think', 'thing']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'round', 'certain', 'base', 'think', 'apply', 'ii', 'sure', 'concentration']
+['afford', 'step', 'greek', 'motto', 'look', 'generally', 'apply', 'think', 'gas', 'sure', 'deletion', 'concept', 'like', 'base', 'explain']
+['step', 'afford', 'gas', 'look', 'greek', 'generally', 'base', 'apply', 'motto', 'think', 'evolve', 'deletion', 'certain', 'round', 'sure']
+['afford', 'generally', 'step', 'greek', 'look', 'base', 'deletion', 'gas', 'think', 'motto', 'explain', 'concept', 'certain', 'ii', 'like']
+['afford', 'step', 'generally', 'base', 'look', 'greek', 'motto', 'create', 'gas', 'round', 'like', 'explain', 'deletion', 'concept', 'certain']
+['afford', 'step', 'base', 'greek', 'look', 'generally', 'apply', 'deletion', 'motto', 'certain', 'think', 'explain', 'concept', 'round', 'create']
+['step', 'afford', 'look', 'apply', 'certain', 'greek', 'motto', 'round', 'gas', 'base', 'deletion', 'sure', 'explain', 'concentration', 'think']
+['afford', 'step', 'deletion', 'motto', 'greek', 'base', 'look', 'think', 'round', 'apply', 'certain', 'lead', 'generally', 'concept', 'intend']
+['step', 'look', 'greek', 'afford', 'motto', 'base', 'apply', 'generally', 'explain', 'gas', 'certain', 'different', 'deletion', 'intend', 'create']
+['step', 'generally', 'base', 'afford', 'motto', 'look', 'certain', 'greek', 'gas', 'deletion', 'sure', 'create', 'thing', 'round', 'evolve']
+['step', 'afford', 'look', 'base', 'deletion', 'greek', 'generally', 'motto', 'think', 'gas', 'round', 'apply', 'certain', 'create', 'sure']
+['afford', 'step', 'look', 'certain', 'motto', 'think', 'deletion', 'generally', 'greek', 'apply', 'gas', 'base', 'round', 'create', 'thing']
+['step', 'greek', 'afford', 'certain', 'deletion', 'look', 'gas', 'base', 'motto', 'round', 'think', 'generally', 'ii', 'apply', 'citizen']
+['step', 'certain', 'motto', 'generally', 'base', 'afford', 'deletion', 'round', 'look', 'apply', 'gas', 'create', 'think', 'evolve', 'different']
+['afford', 'step', 'greek', 'deletion', 'look', 'generally', 'think', 'round', 'gas', 'base', 'certain', 'apply', 'motto', 'like', 'lead']
+['step', 'greek', 'afford', 'base', 'generally', 'motto', 'deletion', 'apply', 'look', 'gas', 'think', 'certain', 'concept', 'ii', 'round']
+['step', 'afford', 'greek', 'look', 'certain', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'motto', 'create', 'intend', 'round']
+['step', 'afford', 'generally', 'motto', 'look', 'greek', 'gas', 'deletion', 'think', 'certain', 'create', 'base', 'apply', 'explain', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'generally', 'round', 'look', 'apply', 'think', 'base', 'certain', 'thing', 'like', 'lead']
+['afford', 'step', 'motto', 'greek', 'think', 'look', 'deletion', 'certain', 'base', 'gas', 'apply', 'generally', 'concentration', 'round', 'sure']
+['step', 'motto', 'afford', 'generally', 'greek', 'deletion', 'look', 'gas', 'certain', 'apply', 'base', 'round', 'sure', 'concentration', 'think']
+==============================
+topic diversity:0.036
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34973395460654244, c_w2v:None, c_uci:-4.298110556297959, c_npmi:-0.14624919018319665
+mimno topic coherence:-236.01936562037557
+epoch is: 50
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter    1	Loss_D:-191.7502289	Loss_G:192.2491760	loss_E:-0.0499485
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   11	Loss_D:-190.5069427	Loss_G:191.0052338	loss_E:-0.0499483
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  51	Iter   21	Loss_D:-194.5525665	Loss_G:195.0500183	loss_E:-0.0499476
+epoch is: 51
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter    1	Loss_D:-192.4158478	Loss_G:192.9128265	loss_E:-0.0499491
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   11	Loss_D:-189.2696381	Loss_G:189.7657776	loss_E:-0.0499493
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  52	Iter   21	Loss_D:-194.9598694	Loss_G:195.4553375	loss_E:-0.0499492
+epoch is: 52
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter    1	Loss_D:-189.4120331	Loss_G:189.9069366	loss_E:-0.0499502
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   11	Loss_D:-186.9882812	Loss_G:187.4824524	loss_E:-0.0499504
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  53	Iter   21	Loss_D:-190.7715759	Loss_G:191.2649536	loss_E:-0.0499505
+epoch is: 53
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter    1	Loss_D:-193.8626709	Loss_G:194.3554382	loss_E:-0.0499504
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   11	Loss_D:-194.4709167	Loss_G:194.9629059	loss_E:-0.0499507
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  54	Iter   21	Loss_D:-191.8136292	Loss_G:192.3049622	loss_E:-0.0499506
+epoch is: 54
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter    1	Loss_D:-192.7375641	Loss_G:193.2282715	loss_E:-0.0499497
+| ID | GPU | MEM |
+------------------
+|  0 | 41% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   11	Loss_D:-189.1589661	Loss_G:189.6489563	loss_E:-0.0499509
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  55	Iter   21	Loss_D:-194.0684814	Loss_G:194.5577698	loss_E:-0.0499516
+epoch is: 55
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter    1	Loss_D:-192.4218597	Loss_G:192.9104919	loss_E:-0.0499520
+| ID | GPU | MEM |
+------------------
+|  0 | 25% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   11	Loss_D:-188.1771545	Loss_G:188.6650543	loss_E:-0.0499515
+| ID | GPU | MEM |
+------------------
+|  0 | 54% | 21% |
+|  1 |  0% |  0% |
+Epoch  56	Iter   21	Loss_D:-188.8991394	Loss_G:189.3864136	loss_E:-0.0499521
+epoch is: 56
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter    1	Loss_D:-190.2561951	Loss_G:190.7427979	loss_E:-0.0499521
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   11	Loss_D:-192.3661499	Loss_G:192.8520355	loss_E:-0.0499511
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  57	Iter   21	Loss_D:-191.6437988	Loss_G:192.1290131	loss_E:-0.0499523
+epoch is: 57
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter    1	Loss_D:-197.2178650	Loss_G:197.7024994	loss_E:-0.0499519
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   11	Loss_D:-191.7016296	Loss_G:192.1855316	loss_E:-0.0499508
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  58	Iter   21	Loss_D:-194.5607910	Loss_G:195.0439758	loss_E:-0.0499522
+epoch is: 58
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter    1	Loss_D:-186.3875427	Loss_G:186.8701172	loss_E:-0.0499519
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   11	Loss_D:-193.0887451	Loss_G:193.5706329	loss_E:-0.0499522
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch  59	Iter   21	Loss_D:-194.9369812	Loss_G:195.4180450	loss_E:-0.0499523
+epoch is: 59
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter    1	Loss_D:-190.0563965	Loss_G:190.5369720	loss_E:-0.0499525
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   11	Loss_D:-194.9663696	Loss_G:195.4462738	loss_E:-0.0499528
+| ID | GPU | MEM |
+------------------
+|  0 | 53% | 21% |
+|  1 |  0% |  0% |
+Epoch  60	Iter   21	Loss_D:-190.4899292	Loss_G:190.9691162	loss_E:-0.0499525
+Epoch  60	Loss_D_avg:-173.8611407	Loss_G_avg:175.1852654	loss_E_avg:-0.0444549
+['step', 'motto', 'generally', 'base', 'afford', 'look', 'greek', 'deletion', 'round', 'certain', 'gas', 'sure', 'like', 'apply', 'thing']
+['step', 'afford', 'look', 'base', 'greek', 'think', 'generally', 'motto', 'gas', 'deletion', 'certain', 'round', 'total', 'apply', 'like']
+['step', 'afford', 'look', 'deletion', 'base', 'generally', 'greek', 'certain', 'motto', 'round', 'think', 'create', 'gas', 'thing', 'ii']
+['step', 'afford', 'base', 'generally', 'greek', 'motto', 'look', 'certain', 'deletion', 'gas', 'create', 'like', 'think', 'ii', 'round']
+['afford', 'step', 'greek', 'motto', 'generally', 'base', 'deletion', 'look', 'create', 'certain', 'think', 'concept', 'intend', 'sure', 'lead']
+['step', 'generally', 'gas', 'afford', 'look', 'think', 'certain', 'motto', 'base', 'greek', 'round', 'sure', 'thing', 'like', 'deletion']
+['step', 'afford', 'look', 'motto', 'gas', 'base', 'generally', 'greek', 'apply', 'think', 'certain', 'deletion', 'create', 'like', 'lead']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'like', 'think', 'greek', 'certain', 'lead', 'thing']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'gas', 'deletion', 'round', 'generally', 'base', 'apply', 'certain', 'concentration', 'concept']
+['step', 'motto', 'generally', 'afford', 'base', 'think', 'look', 'greek', 'deletion', 'gas', 'certain', 'ii', 'round', 'explain', 'apply']
+['step', 'afford', 'generally', 'motto', 'greek', 'look', 'create', 'concept', 'gas', 'certain', 'base', 'round', 'sure', 'explain', 'apply']
+['step', 'greek', 'base', 'afford', 'look', 'deletion', 'motto', 'generally', 'apply', 'certain', 'ii', 'evolve', 'thing', 'gas', 'concept']
+['afford', 'step', 'generally', 'base', 'look', 'think', 'deletion', 'greek', 'concept', 'motto', 'apply', 'round', 'certain', 'sure', 'like']
+['afford', 'step', 'greek', 'base', 'motto', 'deletion', 'generally', 'look', 'certain', 'gas', 'explain', 'apply', 'evolve', 'ii', 'concept']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'round', 'thing', 'total', 'greek', 'concept']
+['base', 'motto', 'step', 'greek', 'look', 'afford', 'think', 'generally', 'deletion', 'gas', 'round', 'explain', 'total', 'certain', 'create']
+['afford', 'step', 'generally', 'greek', 'base', 'gas', 'apply', 'motto', 'certain', 'deletion', 'look', 'like', 'sure', 'create', 'ii']
+['afford', 'base', 'explain', 'look', 'generally', 'step', 'greek', 'create', 'gas', 'deletion', 'motto', 'certain', 'concept', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'gas', 'deletion', 'think', 'greek', 'certain', 'thing', 'round', 'like', 'apply']
+['step', 'afford', 'think', 'deletion', 'base', 'look', 'motto', 'greek', 'round', 'intend', 'generally', 'certain', 'lead', 'apply', 'like']
+['step', 'afford', 'gas', 'look', 'motto', 'generally', 'greek', 'apply', 'certain', 'sure', 'explain', 'base', 'like', 'deletion', 'concentration']
+['step', 'afford', 'generally', 'certain', 'look', 'apply', 'deletion', 'greek', 'base', 'evolve', 'motto', 'gas', 'sure', 'create', 'ii']
+['step', 'afford', 'greek', 'motto', 'generally', 'base', 'deletion', 'gas', 'look', 'like', 'think', 'certain', 'ii', 'round', 'explain']
+['step', 'afford', 'greek', 'look', 'base', 'generally', 'motto', 'round', 'think', 'apply', 'deletion', 'certain', 'create', 'concept', 'like']
+['base', 'step', 'afford', 'greek', 'motto', 'generally', 'gas', 'look', 'deletion', 'think', 'certain', 'evolve', 'ii', 'apply', 'round']
+['afford', 'base', 'greek', 'step', 'look', 'motto', 'deletion', 'certain', 'generally', 'apply', 'think', 'round', 'ii', 'like', 'create']
+['step', 'afford', 'greek', 'look', 'base', 'deletion', 'motto', 'gas', 'generally', 'certain', 'think', 'lead', 'intend', 'apply', 'ii']
+['afford', 'step', 'greek', 'motto', 'generally', 'deletion', 'base', 'apply', 'think', 'look', 'certain', 'ii', 'thing', 'create', 'intend']
+['afford', 'greek', 'step', 'base', 'motto', 'apply', 'look', 'certain', 'generally', 'deletion', 'concept', 'explain', 'citizen', 'think', 'thing']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'round', 'certain', 'base', 'think', 'apply', 'ii', 'sure', 'evolve']
+['afford', 'step', 'greek', 'motto', 'look', 'generally', 'apply', 'think', 'gas', 'sure', 'deletion', 'concept', 'like', 'base', 'explain']
+['step', 'afford', 'gas', 'look', 'greek', 'generally', 'base', 'motto', 'apply', 'think', 'evolve', 'deletion', 'certain', 'round', 'sure']
+['afford', 'generally', 'step', 'greek', 'look', 'base', 'deletion', 'think', 'motto', 'gas', 'explain', 'concept', 'certain', 'ii', 'round']
+['afford', 'step', 'generally', 'base', 'look', 'greek', 'motto', 'create', 'gas', 'round', 'like', 'deletion', 'explain', 'concept', 'certain']
+['afford', 'step', 'base', 'greek', 'look', 'generally', 'deletion', 'motto', 'apply', 'certain', 'think', 'explain', 'round', 'concept', 'create']
+['step', 'afford', 'look', 'apply', 'certain', 'greek', 'motto', 'gas', 'round', 'base', 'deletion', 'sure', 'concentration', 'think', 'explain']
+['afford', 'step', 'deletion', 'motto', 'greek', 'base', 'look', 'think', 'round', 'apply', 'certain', 'lead', 'generally', 'concept', 'intend']
+['step', 'look', 'greek', 'afford', 'motto', 'base', 'apply', 'generally', 'explain', 'certain', 'gas', 'different', 'deletion', 'intend', 'create']
+['step', 'generally', 'base', 'afford', 'look', 'motto', 'certain', 'greek', 'gas', 'deletion', 'sure', 'create', 'evolve', 'thing', 'ii']
+['step', 'afford', 'look', 'base', 'deletion', 'greek', 'generally', 'motto', 'think', 'gas', 'round', 'apply', 'certain', 'create', 'sure']
+['afford', 'step', 'look', 'certain', 'motto', 'think', 'deletion', 'generally', 'greek', 'apply', 'base', 'gas', 'round', 'create', 'thing']
+['step', 'greek', 'afford', 'certain', 'look', 'deletion', 'gas', 'base', 'motto', 'think', 'round', 'generally', 'ii', 'apply', 'citizen']
+['step', 'certain', 'motto', 'generally', 'base', 'afford', 'deletion', 'round', 'look', 'apply', 'gas', 'create', 'think', 'evolve', 'different']
+['afford', 'step', 'greek', 'look', 'deletion', 'generally', 'think', 'round', 'base', 'gas', 'certain', 'motto', 'apply', 'like', 'lead']
+['step', 'greek', 'afford', 'base', 'generally', 'motto', 'deletion', 'look', 'apply', 'gas', 'think', 'certain', 'ii', 'concept', 'round']
+['step', 'afford', 'greek', 'look', 'certain', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'motto', 'intend', 'create', 'round']
+['step', 'afford', 'generally', 'motto', 'look', 'greek', 'gas', 'deletion', 'think', 'certain', 'create', 'base', 'apply', 'explain', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'generally', 'look', 'round', 'think', 'apply', 'base', 'certain', 'thing', 'lead', 'like']
+['afford', 'step', 'motto', 'greek', 'think', 'look', 'deletion', 'certain', 'base', 'gas', 'apply', 'generally', 'concentration', 'sure', 'round']
+['step', 'motto', 'afford', 'generally', 'greek', 'look', 'deletion', 'gas', 'certain', 'base', 'apply', 'round', 'sure', 'think', 'concentration']
+==============================
+topic diversity:0.036
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.3494718043877866, c_w2v:None, c_uci:-4.3302288915741505, c_npmi:-0.14758476567718876
+mimno topic coherence:-245.01583957962336
+epoch is: 60
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter    1	Loss_D:-192.7428284	Loss_G:193.2213440	loss_E:-0.0499524
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   11	Loss_D:-193.4353027	Loss_G:193.9131927	loss_E:-0.0499533
+| ID | GPU | MEM |
+------------------
+|  0 | 14% | 21% |
+|  1 |  0% |  0% |
+Epoch  61	Iter   21	Loss_D:-189.3641663	Loss_G:189.8413239	loss_E:-0.0499518
+epoch is: 61
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter    1	Loss_D:-185.8693237	Loss_G:186.3458862	loss_E:-0.0499512
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   11	Loss_D:-186.8228149	Loss_G:187.2987061	loss_E:-0.0499529
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  62	Iter   21	Loss_D:-189.3932800	Loss_G:189.8684387	loss_E:-0.0499530
+epoch is: 62
+| ID | GPU | MEM |
+------------------
+|  0 | 13% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter    1	Loss_D:-187.5164795	Loss_G:187.9909821	loss_E:-0.0499526
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   11	Loss_D:-193.1768494	Loss_G:193.6507416	loss_E:-0.0499525
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  63	Iter   21	Loss_D:-189.9426575	Loss_G:190.4157562	loss_E:-0.0499527
+epoch is: 63
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter    1	Loss_D:-190.5197144	Loss_G:190.9923706	loss_E:-0.0499530
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   11	Loss_D:-190.8948669	Loss_G:191.3667145	loss_E:-0.0499538
+| ID | GPU | MEM |
+------------------
+|  0 | 61% | 21% |
+|  1 |  0% |  0% |
+Epoch  64	Iter   21	Loss_D:-190.5490112	Loss_G:191.0202026	loss_E:-0.0499529
+epoch is: 64
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter    1	Loss_D:-194.2457886	Loss_G:194.7162933	loss_E:-0.0499529
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   11	Loss_D:-193.6387939	Loss_G:194.1086578	loss_E:-0.0499516
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  65	Iter   21	Loss_D:-189.7406006	Loss_G:190.2098083	loss_E:-0.0499520
+epoch is: 65
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter    1	Loss_D:-194.4772034	Loss_G:194.9458008	loss_E:-0.0499515
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   11	Loss_D:-193.3792419	Loss_G:193.8470764	loss_E:-0.0499539
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  66	Iter   21	Loss_D:-189.5096130	Loss_G:189.9768219	loss_E:-0.0499538
+epoch is: 66
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter    1	Loss_D:-188.3547974	Loss_G:188.8213501	loss_E:-0.0499535
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   11	Loss_D:-191.0982056	Loss_G:191.5641174	loss_E:-0.0499533
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 21% |
+|  1 |  0% |  0% |
+Epoch  67	Iter   21	Loss_D:-192.6002808	Loss_G:193.0654755	loss_E:-0.0499533
+epoch is: 67
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter    1	Loss_D:-190.8097229	Loss_G:191.2743530	loss_E:-0.0499531
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   11	Loss_D:-190.9540405	Loss_G:191.4179535	loss_E:-0.0499532
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  68	Iter   21	Loss_D:-194.5351562	Loss_G:194.9984894	loss_E:-0.0499531
+epoch is: 68
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter    1	Loss_D:-193.1199341	Loss_G:193.5825958	loss_E:-0.0499532
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   11	Loss_D:-193.4378204	Loss_G:193.8999939	loss_E:-0.0499537
+| ID | GPU | MEM |
+------------------
+|  0 | 47% | 21% |
+|  1 |  0% |  0% |
+Epoch  69	Iter   21	Loss_D:-189.9146729	Loss_G:190.3759766	loss_E:-0.0499534
+epoch is: 69
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter    1	Loss_D:-189.6258698	Loss_G:190.0865784	loss_E:-0.0499530
+| ID | GPU | MEM |
+------------------
+|  0 |  5% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   11	Loss_D:-193.7265778	Loss_G:194.1866760	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 23% | 21% |
+|  1 |  0% |  0% |
+Epoch  70	Iter   21	Loss_D:-191.3008423	Loss_G:191.7601929	loss_E:-0.0499529
+Epoch  70	Loss_D_avg:-176.3319133	Loss_G_avg:177.5338649	loss_E_avg:-0.0452403
+['step', 'motto', 'generally', 'base', 'afford', 'look', 'greek', 'deletion', 'certain', 'round', 'gas', 'sure', 'evolve', 'apply', 'like']
+['step', 'afford', 'look', 'base', 'greek', 'think', 'generally', 'motto', 'gas', 'deletion', 'certain', 'round', 'total', 'apply', 'lead']
+['step', 'afford', 'look', 'deletion', 'base', 'generally', 'greek', 'certain', 'motto', 'think', 'round', 'gas', 'create', 'thing', 'ii']
+['step', 'afford', 'base', 'greek', 'generally', 'motto', 'look', 'certain', 'deletion', 'gas', 'create', 'like', 'think', 'ii', 'round']
+['afford', 'step', 'greek', 'motto', 'generally', 'base', 'look', 'deletion', 'certain', 'create', 'think', 'concept', 'intend', 'lead', 'sure']
+['step', 'afford', 'generally', 'gas', 'look', 'think', 'certain', 'motto', 'base', 'greek', 'round', 'sure', 'thing', 'like', 'deletion']
+['step', 'afford', 'look', 'motto', 'base', 'gas', 'generally', 'greek', 'apply', 'think', 'certain', 'deletion', 'create', 'lead', 'like']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'think', 'greek', 'like', 'certain', 'lead', 'thing']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'gas', 'deletion', 'round', 'generally', 'base', 'certain', 'apply', 'concentration', 'concept']
+['step', 'afford', 'motto', 'generally', 'base', 'think', 'look', 'greek', 'deletion', 'gas', 'certain', 'ii', 'round', 'explain', 'apply']
+['step', 'afford', 'generally', 'motto', 'look', 'greek', 'create', 'concept', 'gas', 'certain', 'base', 'round', 'sure', 'explain', 'deletion']
+['step', 'base', 'greek', 'afford', 'look', 'deletion', 'motto', 'generally', 'certain', 'apply', 'ii', 'evolve', 'thing', 'gas', 'lead']
+['afford', 'step', 'base', 'generally', 'look', 'think', 'deletion', 'greek', 'concept', 'motto', 'apply', 'certain', 'round', 'lead', 'sure']
+['afford', 'step', 'greek', 'base', 'motto', 'deletion', 'generally', 'look', 'certain', 'gas', 'explain', 'apply', 'evolve', 'ii', 'concept']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'round', 'thing', 'little', 'total', 'greek']
+['base', 'motto', 'step', 'look', 'afford', 'greek', 'think', 'generally', 'deletion', 'gas', 'round', 'total', 'certain', 'explain', 'create']
+['afford', 'step', 'generally', 'greek', 'base', 'apply', 'gas', 'motto', 'certain', 'deletion', 'look', 'like', 'sure', 'ii', 'create']
+['afford', 'base', 'step', 'look', 'explain', 'generally', 'greek', 'gas', 'create', 'deletion', 'motto', 'certain', 'concept', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'gas', 'deletion', 'think', 'greek', 'certain', 'thing', 'round', 'apply', 'like']
+['step', 'afford', 'think', 'deletion', 'look', 'base', 'motto', 'greek', 'round', 'intend', 'generally', 'certain', 'lead', 'apply', 'gas']
+['step', 'afford', 'gas', 'look', 'motto', 'generally', 'greek', 'apply', 'certain', 'sure', 'base', 'explain', 'deletion', 'like', 'think']
+['step', 'afford', 'generally', 'certain', 'look', 'apply', 'deletion', 'base', 'greek', 'evolve', 'motto', 'gas', 'sure', 'ii', 'create']
+['step', 'afford', 'greek', 'motto', 'generally', 'base', 'deletion', 'gas', 'look', 'think', 'like', 'certain', 'ii', 'round', 'explain']
+['step', 'afford', 'greek', 'look', 'base', 'generally', 'motto', 'round', 'think', 'apply', 'deletion', 'certain', 'create', 'concept', 'like']
+['base', 'step', 'afford', 'greek', 'motto', 'generally', 'look', 'deletion', 'gas', 'think', 'certain', 'evolve', 'ii', 'apply', 'explain']
+['afford', 'base', 'greek', 'step', 'look', 'motto', 'deletion', 'certain', 'generally', 'think', 'apply', 'round', 'ii', 'like', 'gas']
+['step', 'afford', 'greek', 'look', 'base', 'deletion', 'motto', 'gas', 'certain', 'generally', 'think', 'lead', 'intend', 'apply', 'ii']
+['afford', 'step', 'greek', 'motto', 'generally', 'deletion', 'base', 'think', 'look', 'apply', 'certain', 'ii', 'intend', 'thing', 'create']
+['afford', 'step', 'greek', 'base', 'motto', 'look', 'apply', 'certain', 'generally', 'deletion', 'concept', 'explain', 'citizen', 'think', 'evolve']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'round', 'certain', 'base', 'think', 'apply', 'ii', 'sure', 'evolve']
+['afford', 'step', 'greek', 'look', 'motto', 'generally', 'apply', 'think', 'gas', 'deletion', 'sure', 'base', 'concept', 'like', 'explain']
+['step', 'afford', 'gas', 'look', 'greek', 'generally', 'base', 'motto', 'apply', 'think', 'deletion', 'evolve', 'certain', 'round', 'sure']
+['afford', 'generally', 'step', 'greek', 'look', 'base', 'deletion', 'think', 'motto', 'gas', 'explain', 'certain', 'concept', 'ii', 'citizen']
+['afford', 'step', 'generally', 'base', 'look', 'greek', 'motto', 'create', 'gas', 'round', 'deletion', 'like', 'certain', 'explain', 'concept']
+['afford', 'step', 'base', 'look', 'greek', 'generally', 'deletion', 'motto', 'apply', 'certain', 'think', 'round', 'concept', 'explain', 'evolve']
+['step', 'afford', 'look', 'apply', 'certain', 'greek', 'motto', 'gas', 'base', 'deletion', 'round', 'sure', 'think', 'concentration', 'generally']
+['afford', 'step', 'deletion', 'motto', 'greek', 'base', 'look', 'think', 'round', 'apply', 'certain', 'lead', 'generally', 'concept', 'intend']
+['step', 'look', 'afford', 'greek', 'motto', 'base', 'apply', 'generally', 'certain', 'explain', 'deletion', 'different', 'gas', 'intend', 'create']
+['step', 'generally', 'base', 'afford', 'look', 'motto', 'certain', 'greek', 'gas', 'deletion', 'sure', 'create', 'evolve', 'ii', 'thing']
+['step', 'afford', 'look', 'base', 'deletion', 'greek', 'generally', 'think', 'motto', 'gas', 'round', 'apply', 'certain', 'create', 'sure']
+['afford', 'step', 'look', 'certain', 'motto', 'think', 'deletion', 'generally', 'greek', 'base', 'apply', 'gas', 'round', 'create', 'little']
+['step', 'afford', 'greek', 'look', 'certain', 'deletion', 'gas', 'base', 'motto', 'think', 'round', 'generally', 'ii', 'apply', 'citizen']
+['step', 'certain', 'motto', 'generally', 'base', 'afford', 'deletion', 'look', 'round', 'apply', 'gas', 'create', 'think', 'evolve', 'different']
+['afford', 'step', 'greek', 'look', 'deletion', 'generally', 'think', 'base', 'round', 'certain', 'gas', 'motto', 'apply', 'like', 'lead']
+['step', 'afford', 'greek', 'base', 'generally', 'motto', 'deletion', 'look', 'apply', 'gas', 'think', 'certain', 'ii', 'concept', 'round']
+['step', 'afford', 'greek', 'look', 'certain', 'think', 'deletion', 'base', 'gas', 'apply', 'generally', 'motto', 'intend', 'create', 'round']
+['step', 'afford', 'generally', 'motto', 'look', 'greek', 'deletion', 'gas', 'think', 'certain', 'base', 'create', 'apply', 'explain', 'round']
+['afford', 'step', 'motto', 'greek', 'deletion', 'generally', 'look', 'round', 'think', 'apply', 'base', 'certain', 'thing', 'lead', 'like']
+['afford', 'step', 'motto', 'greek', 'think', 'look', 'deletion', 'base', 'certain', 'gas', 'apply', 'generally', 'concentration', 'round', 'sure']
+['step', 'motto', 'afford', 'generally', 'greek', 'look', 'deletion', 'gas', 'certain', 'base', 'apply', 'round', 'think', 'sure', 'concentration']
+==============================
+topic diversity:0.037333333333333336
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34694609018380446, c_w2v:None, c_uci:-4.379391643875813, c_npmi:-0.14949109544210248
+mimno topic coherence:-245.9314233478767
+epoch is: 70
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter    1	Loss_D:-188.1240540	Loss_G:188.5827637	loss_E:-0.0499531
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   11	Loss_D:-187.8066254	Loss_G:188.2647552	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  71	Iter   21	Loss_D:-192.9756775	Loss_G:193.4331055	loss_E:-0.0499542
+epoch is: 71
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter    1	Loss_D:-187.0556335	Loss_G:187.5124512	loss_E:-0.0499542
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   11	Loss_D:-193.5827332	Loss_G:194.0388947	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  72	Iter   21	Loss_D:-188.9040222	Loss_G:189.3595123	loss_E:-0.0499532
+epoch is: 72
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter    1	Loss_D:-192.8896790	Loss_G:193.3444672	loss_E:-0.0499530
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   11	Loss_D:-192.6584167	Loss_G:193.1125793	loss_E:-0.0499532
+| ID | GPU | MEM |
+------------------
+|  0 | 21% | 21% |
+|  1 |  0% |  0% |
+Epoch  73	Iter   21	Loss_D:-195.6620789	Loss_G:196.1155701	loss_E:-0.0499526
+epoch is: 73
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter    1	Loss_D:-188.9041748	Loss_G:189.3571777	loss_E:-0.0499536
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   11	Loss_D:-192.9762878	Loss_G:193.4284515	loss_E:-0.0499543
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  74	Iter   21	Loss_D:-193.2073059	Loss_G:193.6588898	loss_E:-0.0499536
+epoch is: 74
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter    1	Loss_D:-188.3266602	Loss_G:188.7775879	loss_E:-0.0499532
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   11	Loss_D:-194.4490356	Loss_G:194.8994293	loss_E:-0.0499517
+| ID | GPU | MEM |
+------------------
+|  0 | 52% | 21% |
+|  1 |  0% |  0% |
+Epoch  75	Iter   21	Loss_D:-192.8609009	Loss_G:193.3105011	loss_E:-0.0499526
+epoch is: 75
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter    1	Loss_D:-189.9439392	Loss_G:190.3929901	loss_E:-0.0499531
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   11	Loss_D:-188.9330750	Loss_G:189.3814240	loss_E:-0.0499529
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  76	Iter   21	Loss_D:-185.6120300	Loss_G:186.0597687	loss_E:-0.0499543
+epoch is: 76
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter    1	Loss_D:-191.6190796	Loss_G:192.0661316	loss_E:-0.0499543
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   11	Loss_D:-189.2798004	Loss_G:189.7262421	loss_E:-0.0499541
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  77	Iter   21	Loss_D:-194.3337097	Loss_G:194.7794800	loss_E:-0.0499533
+epoch is: 77
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter    1	Loss_D:-190.2616425	Loss_G:190.7068939	loss_E:-0.0499536
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   11	Loss_D:-190.5215149	Loss_G:190.9660645	loss_E:-0.0499541
+| ID | GPU | MEM |
+------------------
+|  0 | 65% | 21% |
+|  1 |  0% |  0% |
+Epoch  78	Iter   21	Loss_D:-190.4349976	Loss_G:190.8788452	loss_E:-0.0499532
+epoch is: 78
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter    1	Loss_D:-194.5647583	Loss_G:195.0079803	loss_E:-0.0499527
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   11	Loss_D:-188.4709778	Loss_G:188.9136810	loss_E:-0.0499541
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  79	Iter   21	Loss_D:-190.8392487	Loss_G:191.2811584	loss_E:-0.0499529
+epoch is: 79
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter    1	Loss_D:-190.7237549	Loss_G:191.1651611	loss_E:-0.0499539
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   11	Loss_D:-189.7707825	Loss_G:190.2114258	loss_E:-0.0499537
+| ID | GPU | MEM |
+------------------
+|  0 | 27% | 21% |
+|  1 |  0% |  0% |
+Epoch  80	Iter   21	Loss_D:-196.0087891	Loss_G:196.4488373	loss_E:-0.0499541
+Epoch  80	Loss_D_avg:-178.1725132	Loss_G_avg:179.2803911	loss_E_avg:-0.0458295
+['step', 'generally', 'motto', 'base', 'afford', 'look', 'deletion', 'greek', 'certain', 'round', 'gas', 'evolve', 'sure', 'thing', 'apply']
+['step', 'afford', 'look', 'base', 'greek', 'think', 'generally', 'motto', 'deletion', 'gas', 'certain', 'round', 'total', 'lead', 'apply']
+['step', 'afford', 'look', 'deletion', 'base', 'generally', 'greek', 'certain', 'motto', 'think', 'gas', 'round', 'create', 'thing', 'ii']
+['step', 'afford', 'base', 'greek', 'generally', 'motto', 'look', 'certain', 'deletion', 'gas', 'create', 'like', 'think', 'ii', 'round']
+['afford', 'step', 'greek', 'motto', 'generally', 'look', 'base', 'deletion', 'certain', 'think', 'create', 'intend', 'concept', 'lead', 'sure']
+['step', 'afford', 'generally', 'gas', 'look', 'think', 'certain', 'motto', 'base', 'greek', 'round', 'sure', 'thing', 'deletion', 'like']
+['step', 'afford', 'look', 'motto', 'base', 'generally', 'gas', 'greek', 'apply', 'think', 'certain', 'deletion', 'create', 'lead', 'like']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'think', 'greek', 'certain', 'like', 'lead', 'thing']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'deletion', 'gas', 'generally', 'base', 'round', 'certain', 'apply', 'concentration', 'little']
+['step', 'afford', 'motto', 'generally', 'base', 'think', 'look', 'greek', 'deletion', 'gas', 'certain', 'ii', 'round', 'explain', 'apply']
+['step', 'afford', 'generally', 'motto', 'look', 'greek', 'create', 'certain', 'base', 'gas', 'concept', 'deletion', 'round', 'explain', 'think']
+['step', 'base', 'greek', 'afford', 'look', 'deletion', 'motto', 'generally', 'certain', 'apply', 'ii', 'evolve', 'gas', 'thing', 'lead']
+['afford', 'step', 'base', 'generally', 'look', 'think', 'deletion', 'greek', 'concept', 'motto', 'certain', 'apply', 'round', 'lead', 'sure']
+['afford', 'step', 'base', 'greek', 'motto', 'deletion', 'look', 'generally', 'certain', 'gas', 'explain', 'evolve', 'apply', 'ii', 'concept']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'round', 'little', 'thing', 'total', 'greek']
+['base', 'motto', 'step', 'look', 'afford', 'greek', 'think', 'generally', 'deletion', 'gas', 'certain', 'round', 'total', 'explain', 'different']
+['afford', 'step', 'generally', 'greek', 'base', 'motto', 'apply', 'gas', 'certain', 'deletion', 'look', 'like', 'ii', 'sure', 'create']
+['afford', 'step', 'base', 'look', 'generally', 'explain', 'greek', 'gas', 'create', 'deletion', 'motto', 'certain', 'concept', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'gas', 'deletion', 'think', 'greek', 'certain', 'thing', 'round', 'apply', 'like']
+['step', 'afford', 'think', 'deletion', 'look', 'base', 'motto', 'greek', 'round', 'generally', 'intend', 'certain', 'lead', 'apply', 'ii']
+['step', 'afford', 'gas', 'look', 'motto', 'generally', 'greek', 'apply', 'certain', 'sure', 'base', 'deletion', 'explain', 'think', 'concentration']
+['step', 'afford', 'certain', 'generally', 'look', 'deletion', 'apply', 'base', 'greek', 'motto', 'evolve', 'gas', 'sure', 'ii', 'create']
+['step', 'afford', 'greek', 'motto', 'generally', 'base', 'deletion', 'gas', 'look', 'think', 'certain', 'like', 'ii', 'round', 'total']
+['step', 'afford', 'greek', 'look', 'base', 'generally', 'motto', 'think', 'round', 'apply', 'deletion', 'certain', 'create', 'concept', 'like']
+['base', 'step', 'afford', 'greek', 'motto', 'generally', 'look', 'deletion', 'gas', 'think', 'certain', 'evolve', 'ii', 'apply', 'explain']
+['afford', 'base', 'greek', 'step', 'look', 'motto', 'deletion', 'certain', 'generally', 'think', 'apply', 'round', 'ii', 'like', 'gas']
+['step', 'afford', 'look', 'greek', 'base', 'deletion', 'motto', 'certain', 'gas', 'generally', 'think', 'lead', 'intend', 'apply', 'ii']
+['afford', 'step', 'greek', 'motto', 'generally', 'deletion', 'base', 'look', 'think', 'apply', 'certain', 'ii', 'intend', 'thing', 'create']
+['afford', 'step', 'greek', 'base', 'motto', 'look', 'apply', 'certain', 'deletion', 'generally', 'concept', 'citizen', 'think', 'explain', 'evolve']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'certain', 'base', 'round', 'think', 'apply', 'ii', 'evolve', 'sure']
+['afford', 'step', 'greek', 'look', 'motto', 'generally', 'apply', 'think', 'gas', 'deletion', 'base', 'sure', 'concept', 'like', 'explain']
+['step', 'afford', 'look', 'gas', 'greek', 'generally', 'base', 'motto', 'apply', 'deletion', 'think', 'evolve', 'certain', 'round', 'sure']
+['afford', 'generally', 'step', 'greek', 'look', 'base', 'deletion', 'think', 'motto', 'gas', 'explain', 'certain', 'concept', 'ii', 'citizen']
+['afford', 'step', 'generally', 'base', 'look', 'greek', 'motto', 'gas', 'create', 'round', 'deletion', 'certain', 'like', 'explain', 'concept']
+['afford', 'step', 'base', 'look', 'greek', 'deletion', 'generally', 'motto', 'apply', 'certain', 'think', 'round', 'concept', 'explain', 'evolve']
+['step', 'afford', 'look', 'apply', 'certain', 'motto', 'greek', 'gas', 'base', 'deletion', 'round', 'sure', 'think', 'concentration', 'generally']
+['afford', 'step', 'deletion', 'motto', 'greek', 'base', 'look', 'think', 'round', 'certain', 'apply', 'lead', 'generally', 'intend', 'concept']
+['step', 'look', 'afford', 'greek', 'base', 'motto', 'apply', 'generally', 'certain', 'deletion', 'different', 'gas', 'explain', 'intend', 'create']
+['step', 'generally', 'afford', 'base', 'look', 'motto', 'certain', 'greek', 'gas', 'deletion', 'sure', 'create', 'evolve', 'ii', 'think']
+['step', 'afford', 'look', 'deletion', 'base', 'greek', 'think', 'generally', 'motto', 'gas', 'round', 'apply', 'certain', 'create', 'lead']
+['afford', 'step', 'look', 'certain', 'motto', 'think', 'deletion', 'greek', 'generally', 'base', 'apply', 'gas', 'round', 'create', 'little']
+['step', 'afford', 'greek', 'look', 'certain', 'deletion', 'base', 'gas', 'motto', 'think', 'round', 'generally', 'ii', 'citizen', 'apply']
+['step', 'certain', 'motto', 'generally', 'afford', 'base', 'deletion', 'look', 'round', 'apply', 'gas', 'think', 'create', 'evolve', 'different']
+['afford', 'step', 'look', 'greek', 'deletion', 'generally', 'think', 'base', 'certain', 'round', 'motto', 'gas', 'apply', 'like', 'lead']
+['step', 'afford', 'greek', 'base', 'generally', 'motto', 'deletion', 'look', 'apply', 'gas', 'think', 'certain', 'ii', 'happen', 'concept']
+['step', 'afford', 'greek', 'look', 'certain', 'deletion', 'think', 'base', 'gas', 'apply', 'generally', 'motto', 'intend', 'create', 'round']
+['step', 'afford', 'motto', 'generally', 'look', 'greek', 'deletion', 'gas', 'think', 'certain', 'base', 'create', 'apply', 'explain', 'round']
+['step', 'afford', 'motto', 'greek', 'deletion', 'generally', 'look', 'think', 'base', 'round', 'apply', 'certain', 'lead', 'thing', 'total']
+['afford', 'step', 'motto', 'greek', 'think', 'look', 'deletion', 'base', 'certain', 'gas', 'apply', 'generally', 'concentration', 'round', 'sure']
+['step', 'motto', 'afford', 'generally', 'look', 'greek', 'deletion', 'certain', 'gas', 'base', 'apply', 'round', 'think', 'concentration', 'sure']
+==============================
+topic diversity:0.03866666666666667
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34608801530560807, c_w2v:None, c_uci:-4.419474827144805, c_npmi:-0.1510775398333001
+mimno topic coherence:-245.75931806442867
+epoch is: 80
+| ID | GPU | MEM |
+------------------
+|  0 | 26% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter    1	Loss_D:-193.8139343	Loss_G:194.2533264	loss_E:-0.0499536
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   11	Loss_D:-190.2040100	Loss_G:190.6428070	loss_E:-0.0499523
+| ID | GPU | MEM |
+------------------
+|  0 | 22% | 21% |
+|  1 |  0% |  0% |
+Epoch  81	Iter   21	Loss_D:-190.5505829	Loss_G:190.9886780	loss_E:-0.0499542
+epoch is: 81
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter    1	Loss_D:-191.9079895	Loss_G:192.3455353	loss_E:-0.0499539
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   11	Loss_D:-192.4854736	Loss_G:192.9223480	loss_E:-0.0499530
+| ID | GPU | MEM |
+------------------
+|  0 | 48% | 21% |
+|  1 |  0% |  0% |
+Epoch  82	Iter   21	Loss_D:-192.4566650	Loss_G:192.8928833	loss_E:-0.0499542
+epoch is: 82
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter    1	Loss_D:-188.7311401	Loss_G:189.1667480	loss_E:-0.0499542
+| ID | GPU | MEM |
+------------------
+|  0 | 32% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   11	Loss_D:-190.1174774	Loss_G:190.5524750	loss_E:-0.0499523
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 21% |
+|  1 |  0% |  0% |
+Epoch  83	Iter   21	Loss_D:-188.8178406	Loss_G:189.2521210	loss_E:-0.0499538
+epoch is: 83
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter    1	Loss_D:-190.5505676	Loss_G:190.9842987	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 11% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   11	Loss_D:-191.9368896	Loss_G:192.3699341	loss_E:-0.0499543
+| ID | GPU | MEM |
+------------------
+|  0 | 34% | 21% |
+|  1 |  0% |  0% |
+Epoch  84	Iter   21	Loss_D:-196.6443176	Loss_G:197.0767670	loss_E:-0.0499526
+epoch is: 84
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter    1	Loss_D:-193.1786804	Loss_G:193.6104584	loss_E:-0.0499523
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   11	Loss_D:-186.6518250	Loss_G:187.0830231	loss_E:-0.0499538
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  85	Iter   21	Loss_D:-194.2761536	Loss_G:194.7066650	loss_E:-0.0499522
+epoch is: 85
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter    1	Loss_D:-192.4566040	Loss_G:192.8865662	loss_E:-0.0499515
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   11	Loss_D:-191.4747314	Loss_G:191.9040680	loss_E:-0.0499537
+| ID | GPU | MEM |
+------------------
+|  0 | 36% | 21% |
+|  1 |  0% |  0% |
+Epoch  86	Iter   21	Loss_D:-192.3699951	Loss_G:192.7986603	loss_E:-0.0499540
+epoch is: 86
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter    1	Loss_D:-195.0270081	Loss_G:195.4550476	loss_E:-0.0499537
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   11	Loss_D:-191.8791046	Loss_G:192.3065643	loss_E:-0.0499539
+| ID | GPU | MEM |
+------------------
+|  0 | 44% | 21% |
+|  1 |  0% |  0% |
+Epoch  87	Iter   21	Loss_D:-189.1065979	Loss_G:189.5333862	loss_E:-0.0499540
+epoch is: 87
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter    1	Loss_D:-189.3088226	Loss_G:189.7350159	loss_E:-0.0499534
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   11	Loss_D:-192.5433044	Loss_G:192.9688721	loss_E:-0.0499539
+| ID | GPU | MEM |
+------------------
+|  0 | 40% | 21% |
+|  1 |  0% |  0% |
+Epoch  88	Iter   21	Loss_D:-189.1643982	Loss_G:189.5893250	loss_E:-0.0499536
+epoch is: 88
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter    1	Loss_D:-192.2546082	Loss_G:192.6788788	loss_E:-0.0499532
+| ID | GPU | MEM |
+------------------
+|  0 | 29% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   11	Loss_D:-192.9765320	Loss_G:193.4001923	loss_E:-0.0499541
+| ID | GPU | MEM |
+------------------
+|  0 | 45% | 21% |
+|  1 |  0% |  0% |
+Epoch  89	Iter   21	Loss_D:-194.4494019	Loss_G:194.8724365	loss_E:-0.0499540
+epoch is: 89
+| ID | GPU | MEM |
+------------------
+|  0 |  7% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter    1	Loss_D:-189.9152985	Loss_G:190.3377686	loss_E:-0.0499536
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   11	Loss_D:-192.2545776	Loss_G:192.6763611	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  90	Iter   21	Loss_D:-194.6227417	Loss_G:195.0439148	loss_E:-0.0499540
+Epoch  90	Loss_D_avg:-179.6797424	Loss_G_avg:180.7123296	loss_E_avg:-0.0462877
+['step', 'generally', 'motto', 'base', 'afford', 'look', 'deletion', 'greek', 'certain', 'gas', 'round', 'evolve', 'thing', 'sure', 'apply']
+['step', 'afford', 'look', 'base', 'greek', 'think', 'generally', 'motto', 'deletion', 'gas', 'certain', 'round', 'total', 'lead', 'apply']
+['step', 'afford', 'look', 'deletion', 'base', 'generally', 'greek', 'certain', 'motto', 'think', 'gas', 'round', 'create', 'thing', 'ii']
+['step', 'afford', 'base', 'greek', 'generally', 'motto', 'look', 'certain', 'deletion', 'gas', 'like', 'create', 'think', 'ii', 'round']
+['afford', 'step', 'greek', 'motto', 'look', 'generally', 'base', 'deletion', 'think', 'certain', 'create', 'intend', 'concept', 'lead', 'ii']
+['step', 'afford', 'generally', 'gas', 'look', 'think', 'certain', 'base', 'motto', 'greek', 'round', 'sure', 'thing', 'deletion', 'like']
+['step', 'afford', 'look', 'base', 'motto', 'generally', 'gas', 'greek', 'think', 'apply', 'certain', 'deletion', 'create', 'lead', 'like']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'think', 'greek', 'certain', 'like', 'lead', 'thing']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'deletion', 'gas', 'base', 'generally', 'round', 'certain', 'apply', 'concentration', 'little']
+['step', 'afford', 'motto', 'generally', 'base', 'think', 'look', 'greek', 'deletion', 'gas', 'certain', 'ii', 'round', 'explain', 'apply']
+['step', 'afford', 'generally', 'look', 'motto', 'greek', 'create', 'certain', 'base', 'gas', 'concept', 'deletion', 'think', 'explain', 'round']
+['step', 'base', 'greek', 'afford', 'look', 'deletion', 'motto', 'generally', 'certain', 'apply', 'evolve', 'ii', 'gas', 'lead', 'thing']
+['afford', 'step', 'base', 'look', 'generally', 'think', 'deletion', 'greek', 'motto', 'concept', 'certain', 'apply', 'round', 'lead', 'like']
+['afford', 'step', 'base', 'greek', 'motto', 'deletion', 'look', 'generally', 'certain', 'gas', 'evolve', 'explain', 'apply', 'ii', 'concept']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'little', 'round', 'thing', 'greek', 'total']
+['base', 'step', 'motto', 'look', 'afford', 'greek', 'think', 'generally', 'deletion', 'gas', 'certain', 'total', 'round', 'different', 'explain']
+['afford', 'step', 'greek', 'generally', 'base', 'motto', 'apply', 'certain', 'gas', 'look', 'deletion', 'like', 'ii', 'evolve', 'sure']
+['afford', 'step', 'look', 'base', 'generally', 'explain', 'greek', 'gas', 'create', 'deletion', 'motto', 'certain', 'concept', 'round', 'evolve']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'deletion', 'gas', 'think', 'greek', 'certain', 'thing', 'round', 'apply', 'like']
+['step', 'afford', 'think', 'deletion', 'look', 'base', 'motto', 'greek', 'round', 'generally', 'intend', 'certain', 'lead', 'apply', 'ii']
+['step', 'afford', 'gas', 'look', 'motto', 'generally', 'greek', 'certain', 'apply', 'base', 'deletion', 'sure', 'explain', 'think', 'concentration']
+['step', 'afford', 'certain', 'generally', 'look', 'deletion', 'base', 'apply', 'motto', 'greek', 'evolve', 'gas', 'sure', 'ii', 'round']
+['step', 'afford', 'greek', 'motto', 'generally', 'base', 'deletion', 'gas', 'look', 'think', 'certain', 'like', 'ii', 'round', 'total']
+['step', 'afford', 'greek', 'look', 'base', 'generally', 'motto', 'think', 'round', 'deletion', 'apply', 'certain', 'concept', 'create', 'gas']
+['step', 'base', 'afford', 'greek', 'motto', 'generally', 'look', 'deletion', 'gas', 'think', 'certain', 'evolve', 'ii', 'apply', 'explain']
+['afford', 'base', 'step', 'greek', 'look', 'motto', 'deletion', 'certain', 'generally', 'think', 'apply', 'round', 'ii', 'like', 'gas']
+['step', 'afford', 'look', 'greek', 'base', 'deletion', 'motto', 'certain', 'gas', 'generally', 'think', 'lead', 'intend', 'citizen', 'ii']
+['afford', 'step', 'greek', 'motto', 'generally', 'look', 'deletion', 'base', 'think', 'certain', 'apply', 'ii', 'intend', 'thing', 'create']
+['afford', 'step', 'greek', 'base', 'motto', 'look', 'apply', 'certain', 'deletion', 'generally', 'concept', 'think', 'citizen', 'explain', 'die']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'base', 'certain', 'round', 'think', 'apply', 'ii', 'evolve', 'concentration']
+['step', 'afford', 'greek', 'look', 'motto', 'generally', 'apply', 'think', 'gas', 'base', 'deletion', 'sure', 'concept', 'like', 'explain']
+['step', 'afford', 'look', 'gas', 'greek', 'base', 'generally', 'motto', 'deletion', 'apply', 'think', 'evolve', 'certain', 'round', 'sure']
+['afford', 'step', 'generally', 'greek', 'look', 'base', 'think', 'deletion', 'motto', 'gas', 'explain', 'certain', 'concept', 'ii', 'citizen']
+['afford', 'step', 'generally', 'base', 'look', 'greek', 'motto', 'gas', 'create', 'round', 'deletion', 'certain', 'like', 'think', 'concept']
+['afford', 'step', 'base', 'look', 'greek', 'deletion', 'motto', 'generally', 'certain', 'apply', 'think', 'concept', 'evolve', 'round', 'explain']
+['step', 'afford', 'look', 'apply', 'certain', 'motto', 'greek', 'gas', 'deletion', 'base', 'round', 'sure', 'think', 'concentration', 'generally']
+['afford', 'step', 'deletion', 'motto', 'greek', 'look', 'base', 'think', 'round', 'certain', 'apply', 'generally', 'lead', 'intend', 'concept']
+['step', 'look', 'afford', 'greek', 'base', 'motto', 'apply', 'generally', 'certain', 'deletion', 'different', 'gas', 'explain', 'intend', 'create']
+['step', 'generally', 'afford', 'base', 'look', 'motto', 'certain', 'greek', 'deletion', 'gas', 'sure', 'create', 'evolve', 'ii', 'think']
+['step', 'afford', 'look', 'deletion', 'base', 'greek', 'think', 'generally', 'motto', 'gas', 'certain', 'round', 'apply', 'create', 'lead']
+['afford', 'step', 'look', 'certain', 'motto', 'think', 'deletion', 'greek', 'generally', 'base', 'apply', 'gas', 'round', 'create', 'little']
+['step', 'afford', 'greek', 'look', 'certain', 'deletion', 'base', 'motto', 'gas', 'think', 'generally', 'round', 'ii', 'citizen', 'apply']
+['step', 'motto', 'certain', 'afford', 'generally', 'base', 'deletion', 'look', 'round', 'apply', 'gas', 'think', 'evolve', 'different', 'create']
+['afford', 'step', 'look', 'greek', 'deletion', 'generally', 'think', 'base', 'certain', 'motto', 'round', 'gas', 'apply', 'like', 'lead']
+['step', 'afford', 'greek', 'base', 'generally', 'motto', 'deletion', 'look', 'apply', 'gas', 'think', 'certain', 'happen', 'concept', 'ii']
+['step', 'afford', 'look', 'greek', 'certain', 'deletion', 'base', 'think', 'gas', 'generally', 'apply', 'motto', 'intend', 'create', 'round']
+['step', 'afford', 'motto', 'look', 'generally', 'greek', 'deletion', 'think', 'gas', 'certain', 'base', 'create', 'apply', 'explain', 'round']
+['step', 'afford', 'motto', 'greek', 'deletion', 'generally', 'look', 'think', 'base', 'apply', 'round', 'certain', 'lead', 'thing', 'total']
+['afford', 'step', 'motto', 'greek', 'look', 'think', 'deletion', 'base', 'certain', 'gas', 'generally', 'apply', 'concentration', 'sure', 'round']
+['step', 'motto', 'afford', 'look', 'generally', 'greek', 'deletion', 'certain', 'gas', 'base', 'apply', 'think', 'round', 'concentration', 'sure']
+==============================
+topic diversity:0.04
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34479167933466015, c_w2v:None, c_uci:-4.469877498938172, c_npmi:-0.15288495161355745
+mimno topic coherence:-250.66411334783845
+epoch is: 90
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter    1	Loss_D:-190.6372681	Loss_G:191.0578308	loss_E:-0.0499537
+| ID | GPU | MEM |
+------------------
+|  0 | 31% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   11	Loss_D:-186.8828430	Loss_G:187.3028870	loss_E:-0.0499533
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  91	Iter   21	Loss_D:-196.7886963	Loss_G:197.2079468	loss_E:-0.0499522
+epoch is: 91
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter    1	Loss_D:-191.0127411	Loss_G:191.4314728	loss_E:-0.0499524
+| ID | GPU | MEM |
+------------------
+|  0 | 35% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   11	Loss_D:-189.6553345	Loss_G:190.0733948	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  92	Iter   21	Loss_D:-193.7562561	Loss_G:194.1737823	loss_E:-0.0499539
+epoch is: 92
+| ID | GPU | MEM |
+------------------
+|  0 | 17% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter    1	Loss_D:-192.8032684	Loss_G:193.2200928	loss_E:-0.0499537
+| ID | GPU | MEM |
+------------------
+|  0 |  8% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   11	Loss_D:-192.1101685	Loss_G:192.5264130	loss_E:-0.0499543
+| ID | GPU | MEM |
+------------------
+|  0 | 38% | 21% |
+|  1 |  0% |  0% |
+Epoch  93	Iter   21	Loss_D:-194.6516418	Loss_G:195.0672150	loss_E:-0.0499541
+epoch is: 93
+| ID | GPU | MEM |
+------------------
+|  0 | 10% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter    1	Loss_D:-196.0089111	Loss_G:196.4239502	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 42% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   11	Loss_D:-187.9225159	Loss_G:188.3369293	loss_E:-0.0499533
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  94	Iter   21	Loss_D:-193.0921021	Loss_G:193.5058594	loss_E:-0.0499541
+epoch is: 94
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter    1	Loss_D:-192.3989868	Loss_G:192.8121338	loss_E:-0.0499540
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   11	Loss_D:-189.8863831	Loss_G:190.2989502	loss_E:-0.0499527
+| ID | GPU | MEM |
+------------------
+|  0 | 43% | 21% |
+|  1 |  0% |  0% |
+Epoch  95	Iter   21	Loss_D:-192.7455139	Loss_G:193.1573792	loss_E:-0.0499536
+epoch is: 95
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter    1	Loss_D:-193.1787109	Loss_G:193.5900574	loss_E:-0.0499531
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   11	Loss_D:-193.4384766	Loss_G:193.8493500	loss_E:-0.0499538
+| ID | GPU | MEM |
+------------------
+|  0 | 30% | 21% |
+|  1 |  0% |  0% |
+Epoch  96	Iter   21	Loss_D:-198.2904358	Loss_G:198.7006226	loss_E:-0.0499539
+epoch is: 96
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter    1	Loss_D:-192.6011353	Loss_G:193.0106049	loss_E:-0.0499535
+| ID | GPU | MEM |
+------------------
+|  0 | 15% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   11	Loss_D:-190.4639587	Loss_G:190.8728333	loss_E:-0.0499536
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  97	Iter   21	Loss_D:-192.1390076	Loss_G:192.5472565	loss_E:-0.0499542
+epoch is: 97
+| ID | GPU | MEM |
+------------------
+|  0 | 12% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter    1	Loss_D:-190.9261169	Loss_G:191.3338165	loss_E:-0.0499541
+| ID | GPU | MEM |
+------------------
+|  0 | 37% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   11	Loss_D:-187.8359375	Loss_G:188.2429352	loss_E:-0.0499532
+| ID | GPU | MEM |
+------------------
+|  0 | 28% | 21% |
+|  1 |  0% |  0% |
+Epoch  98	Iter   21	Loss_D:-190.3774109	Loss_G:190.7838440	loss_E:-0.0499533
+epoch is: 98
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter    1	Loss_D:-191.7924805	Loss_G:192.1983185	loss_E:-0.0499529
+| ID | GPU | MEM |
+------------------
+|  0 | 39% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   11	Loss_D:-191.5325623	Loss_G:191.9378204	loss_E:-0.0499539
+| ID | GPU | MEM |
+------------------
+|  0 | 16% | 21% |
+|  1 |  0% |  0% |
+Epoch  99	Iter   21	Loss_D:-193.5830383	Loss_G:193.9876099	loss_E:-0.0499536
+epoch is: 99
+| ID | GPU | MEM |
+------------------
+|  0 | 18% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter    1	Loss_D:-192.3700867	Loss_G:192.7741241	loss_E:-0.0499542
+| ID | GPU | MEM |
+------------------
+|  0 | 19% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   11	Loss_D:-194.7093201	Loss_G:195.1127167	loss_E:-0.0499526
+| ID | GPU | MEM |
+------------------
+|  0 | 46% | 21% |
+|  1 |  0% |  0% |
+Epoch 100	Iter   21	Loss_D:-189.9730835	Loss_G:190.3759155	loss_E:-0.0499529
+Epoch 100	Loss_D_avg:-180.9236495	Loss_G_avg:181.8941435	loss_E_avg:-0.0466543
+['step', 'generally', 'motto', 'base', 'afford', 'look', 'deletion', 'greek', 'certain', 'gas', 'round', 'evolve', 'like', 'sure', 'thing']
+['step', 'afford', 'look', 'base', 'greek', 'think', 'generally', 'motto', 'deletion', 'gas', 'certain', 'round', 'total', 'lead', 'trial']
+['step', 'afford', 'look', 'deletion', 'base', 'generally', 'certain', 'greek', 'motto', 'think', 'gas', 'create', 'round', 'thing', 'ii']
+['step', 'afford', 'base', 'greek', 'generally', 'look', 'motto', 'deletion', 'certain', 'gas', 'like', 'create', 'think', 'ii', 'round']
+['afford', 'step', 'greek', 'look', 'motto', 'generally', 'base', 'deletion', 'think', 'certain', 'intend', 'create', 'concept', 'lead', 'ii']
+['step', 'afford', 'generally', 'gas', 'look', 'think', 'certain', 'base', 'motto', 'greek', 'round', 'sure', 'deletion', 'thing', 'like']
+['step', 'afford', 'look', 'base', 'motto', 'generally', 'greek', 'gas', 'think', 'certain', 'deletion', 'apply', 'create', 'lead', 'concentration']
+['step', 'look', 'afford', 'generally', 'base', 'deletion', 'motto', 'round', 'gas', 'think', 'certain', 'greek', 'like', 'lead', 'thing']
+['afford', 'step', 'look', 'think', 'greek', 'motto', 'deletion', 'gas', 'base', 'generally', 'round', 'certain', 'apply', 'concentration', 'little']
+['step', 'afford', 'motto', 'generally', 'base', 'look', 'think', 'greek', 'deletion', 'gas', 'certain', 'ii', 'round', 'apply', 'concentration']
+['step', 'afford', 'generally', 'look', 'motto', 'greek', 'base', 'certain', 'create', 'concept', 'gas', 'deletion', 'think', 'explain', 'different']
+['step', 'base', 'greek', 'afford', 'look', 'deletion', 'motto', 'generally', 'certain', 'apply', 'evolve', 'ii', 'lead', 'gas', 'japanese']
+['step', 'afford', 'base', 'look', 'generally', 'deletion', 'think', 'greek', 'motto', 'concept', 'certain', 'apply', 'round', 'lead', 'intend']
+['afford', 'step', 'base', 'greek', 'motto', 'look', 'deletion', 'generally', 'certain', 'gas', 'evolve', 'explain', 'happen', 'concept', 'ii']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'think', 'deletion', 'gas', 'apply', 'little', 'round', 'happen', 'thing', 'greek']
+['step', 'base', 'motto', 'look', 'afford', 'greek', 'think', 'generally', 'deletion', 'gas', 'certain', 'total', 'round', 'different', 'explain']
+['afford', 'step', 'greek', 'generally', 'base', 'motto', 'certain', 'apply', 'look', 'gas', 'deletion', 'like', 'ii', 'evolve', 'sure']
+['afford', 'step', 'look', 'base', 'generally', 'greek', 'explain', 'gas', 'create', 'deletion', 'motto', 'certain', 'concept', 'evolve', 'think']
+['step', 'afford', 'motto', 'generally', 'look', 'base', 'deletion', 'gas', 'think', 'greek', 'certain', 'thing', 'round', 'like', 'apply']
+['step', 'afford', 'think', 'deletion', 'look', 'base', 'motto', 'greek', 'generally', 'round', 'certain', 'intend', 'lead', 'apply', 'ii']
+['step', 'afford', 'gas', 'look', 'motto', 'generally', 'greek', 'certain', 'apply', 'base', 'deletion', 'sure', 'explain', 'think', 'concentration']
+['step', 'afford', 'look', 'certain', 'generally', 'deletion', 'base', 'motto', 'apply', 'greek', 'evolve', 'gas', 'sure', 'ii', 'create']
+['step', 'afford', 'greek', 'motto', 'generally', 'base', 'deletion', 'look', 'gas', 'think', 'certain', 'like', 'ii', 'total', 'round']
+['step', 'afford', 'greek', 'look', 'base', 'generally', 'motto', 'think', 'round', 'deletion', 'certain', 'apply', 'concept', 'create', 'like']
+['step', 'base', 'afford', 'greek', 'motto', 'look', 'generally', 'deletion', 'think', 'gas', 'certain', 'evolve', 'ii', 'apply', 'happen']
+['afford', 'base', 'step', 'greek', 'look', 'motto', 'deletion', 'certain', 'generally', 'think', 'apply', 'round', 'ii', 'like', 'concept']
+['step', 'afford', 'look', 'greek', 'base', 'deletion', 'motto', 'certain', 'gas', 'generally', 'think', 'lead', 'intend', 'citizen', 'different']
+['afford', 'step', 'greek', 'motto', 'look', 'generally', 'deletion', 'base', 'think', 'certain', 'apply', 'ii', 'intend', 'create', 'thing']
+['afford', 'step', 'greek', 'base', 'motto', 'look', 'apply', 'certain', 'deletion', 'generally', 'concept', 'think', 'citizen', 'die', 'evolve']
+['afford', 'step', 'look', 'greek', 'generally', 'motto', 'deletion', 'base', 'certain', 'think', 'round', 'apply', 'ii', 'evolve', 'concentration']
+['step', 'afford', 'greek', 'look', 'motto', 'generally', 'apply', 'think', 'base', 'gas', 'deletion', 'sure', 'concept', 'like', 'explain']
+['step', 'afford', 'look', 'gas', 'greek', 'base', 'generally', 'motto', 'deletion', 'think', 'apply', 'evolve', 'certain', 'sure', 'round']
+['afford', 'step', 'generally', 'greek', 'look', 'base', 'think', 'deletion', 'motto', 'gas', 'explain', 'certain', 'concept', 'ii', 'citizen']
+['afford', 'step', 'generally', 'base', 'look', 'greek', 'motto', 'gas', 'create', 'deletion', 'round', 'certain', 'think', 'like', 'concept']
+['afford', 'step', 'base', 'look', 'greek', 'deletion', 'motto', 'generally', 'certain', 'apply', 'think', 'evolve', 'concept', 'round', 'gas']
+['step', 'afford', 'look', 'certain', 'apply', 'motto', 'greek', 'deletion', 'base', 'gas', 'round', 'sure', 'think', 'concentration', 'generally']
+['afford', 'step', 'deletion', 'motto', 'greek', 'look', 'base', 'think', 'certain', 'round', 'apply', 'generally', 'lead', 'intend', 'concept']
+['step', 'look', 'afford', 'greek', 'base', 'motto', 'apply', 'generally', 'certain', 'deletion', 'different', 'gas', 'intend', 'explain', 'good']
+['step', 'generally', 'afford', 'base', 'look', 'motto', 'certain', 'greek', 'deletion', 'gas', 'sure', 'create', 'evolve', 'ii', 'think']
+['step', 'afford', 'look', 'deletion', 'base', 'greek', 'think', 'generally', 'motto', 'gas', 'certain', 'round', 'apply', 'create', 'lead']
+['afford', 'step', 'look', 'certain', 'think', 'motto', 'deletion', 'greek', 'base', 'generally', 'apply', 'gas', 'round', 'create', 'little']
+['step', 'afford', 'greek', 'look', 'certain', 'deletion', 'base', 'motto', 'gas', 'think', 'generally', 'round', 'ii', 'citizen', 'apply']
+['step', 'motto', 'afford', 'certain', 'generally', 'base', 'look', 'deletion', 'apply', 'gas', 'round', 'think', 'evolve', 'create', 'different']
+['afford', 'step', 'look', 'greek', 'deletion', 'generally', 'think', 'base', 'certain', 'motto', 'gas', 'round', 'apply', 'like', 'lead']
+['step', 'afford', 'greek', 'base', 'generally', 'deletion', 'look', 'motto', 'apply', 'gas', 'think', 'certain', 'happen', 'concept', 'intend']
+['step', 'afford', 'look', 'greek', 'certain', 'deletion', 'base', 'think', 'gas', 'generally', 'motto', 'apply', 'intend', 'evolve', 'create']
+['step', 'afford', 'look', 'motto', 'generally', 'greek', 'deletion', 'think', 'base', 'certain', 'gas', 'create', 'apply', 'explain', 'round']
+['step', 'afford', 'motto', 'greek', 'deletion', 'look', 'generally', 'think', 'base', 'apply', 'round', 'certain', 'lead', 'thing', 'total']
+['afford', 'step', 'motto', 'look', 'greek', 'think', 'base', 'deletion', 'certain', 'generally', 'gas', 'apply', 'concentration', 'die', 'sure']
+['step', 'afford', 'motto', 'look', 'generally', 'greek', 'deletion', 'certain', 'base', 'gas', 'think', 'apply', 'concentration', 'round', 'sure']
+==============================
+topic diversity:0.044
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34160372419885404, c_w2v:None, c_uci:-4.479760019742756, c_npmi:-0.152832727621787
+mimno topic coherence:-253.76583817089426
+topic diversity:0.044
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.34160372419885404, c_w2v:None, c_uci:-4.479760019742756, c_npmi:-0.152832727621787
+mimno topic coherence:-253.76583817089426

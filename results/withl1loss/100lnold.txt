@@ -1,0 +1,1386 @@
+came to docdatset
+/home/godavari/madhav-cse/Neural_Topic_Models/data/zhdd_lines.txt
+11314
+Tokenizing ...
+hi
+Using SpaCy tokenizer
+<tokenization.SpacyTokenizer object at 0x7f846b192580>
+Dictionary<13290 unique tokens: ['afford', 'camp', 'citizen', 'concentration', 'die']...>
+Processed 10979 documents.
+the vocab size is 
+13290
+Epoch   1	Iter    1	Loss_D:0.0003300	Loss_G:217.9760132	loss_E:-0.0067843
+Epoch   1	Iter   11	Loss_D:-0.0051924	Loss_G:216.6113892	loss_E:-0.0050202
+Epoch   1	Iter   21	Loss_D:-0.0114970	Loss_G:215.2496490	loss_E:-0.0013807
+Epoch   2	Iter    1	Loss_D:-0.0133268	Loss_G:213.8904572	loss_E:0.0000917
+Epoch   2	Iter   11	Loss_D:-0.0219390	Loss_G:212.5368500	loss_E:0.0060753
+Epoch   2	Iter   21	Loss_D:-0.0315388	Loss_G:211.1896210	loss_E:0.0122334
+Epoch   3	Iter    1	Loss_D:-0.0333830	Loss_G:209.8431549	loss_E:0.0135165
+Epoch   3	Iter   11	Loss_D:-0.0418857	Loss_G:208.5042572	loss_E:0.0183819
+Epoch   3	Iter   21	Loss_D:-0.0499142	Loss_G:207.1693268	loss_E:0.0223865
+Epoch   4	Iter    1	Loss_D:-0.0511249	Loss_G:205.8363800	loss_E:0.0227335
+Epoch   4	Iter   11	Loss_D:-0.0582029	Loss_G:204.5097961	loss_E:0.0260181
+Epoch   4	Iter   21	Loss_D:-0.0637752	Loss_G:203.1884613	loss_E:0.0282482
+Epoch   5	Iter    1	Loss_D:-0.0642440	Loss_G:201.8677368	loss_E:0.0281939
+Epoch   5	Iter   11	Loss_D:-0.0704556	Loss_G:200.5541840	loss_E:0.0315023
+Epoch   5	Iter   21	Loss_D:-0.0736130	Loss_G:199.2444763	loss_E:0.0318243
+Epoch   6	Iter    1	Loss_D:-0.0752944	Loss_G:197.9381104	loss_E:0.0327895
+Epoch   6	Iter   11	Loss_D:-0.0792326	Loss_G:196.6362915	loss_E:0.0342858
+Epoch   6	Iter   21	Loss_D:-0.0827620	Loss_G:195.3397827	loss_E:0.0354715
+Epoch   7	Iter    1	Loss_D:-0.0842154	Loss_G:194.0452271	loss_E:0.0366990
+Epoch   7	Iter   11	Loss_D:-0.0877611	Loss_G:192.7573853	loss_E:0.0381741
+Epoch   7	Iter   21	Loss_D:-0.0882468	Loss_G:191.4721680	loss_E:0.0374331
+Epoch   8	Iter    1	Loss_D:-0.0883044	Loss_G:190.1912537	loss_E:0.0371180
+Epoch   8	Iter   11	Loss_D:-0.0916009	Loss_G:188.9147034	loss_E:0.0391252
+Epoch   8	Iter   21	Loss_D:-0.0925674	Loss_G:187.6433716	loss_E:0.0391813
+Epoch   9	Iter    1	Loss_D:-0.0929918	Loss_G:186.3750458	loss_E:0.0391508
+Epoch   9	Iter   11	Loss_D:-0.0940861	Loss_G:185.1120300	loss_E:0.0392443
+Epoch   9	Iter   21	Loss_D:-0.0936180	Loss_G:183.8528290	loss_E:0.0380331
+Epoch  10	Iter    1	Loss_D:-0.0947972	Loss_G:182.5981293	loss_E:0.0394203
+Epoch  10	Iter   11	Loss_D:-0.0957894	Loss_G:181.3474121	loss_E:0.0393675
+Epoch  10	Iter   21	Loss_D:-0.0960225	Loss_G:180.1013031	loss_E:0.0392660
+Epoch  10	Loss_D_avg:-0.0642351	Loss_G_avg:198.7498932	loss_E_avg:0.0264260
+['ahl', 'chemist', 'mississippi', 'shortcoming', 'characterize', 'gnuplot', 'characteristic', 'expert', 'neon', 'honour', 'mds', 'attribute', 'lm', 'rider', 'discrete']
+['appointment', 'cache', 'anatolia', 'joke', 'thatwhile', 'willtake', 'emac', 'hebrew', 'withdrawal', 'mds', 'walsh', 'artillery', 'victim', 'moslem', 'la']
+['otherpeople', 'hike', 'empirical', 'ihope', 'intelligent', 'youwant', 'xs', 'healthy', 'inquiry', 'berkeley', 'hail', 'school', 'holding', 'spectator', 'xputimage']
+['ibid', 'diverge', 'rider', 'corporation', 'double', 'butts', 'soviet', 'indiscriminately', 'mug', 'duo', 'hound', 'idiotic', 'tj', 'workstation', 'boring']
+['alto', 'inerrantist', 'robust', 'hike', 'slowly', 'loader', 'vernon', 'lotof', 'totalitarian', 'andafter', 'laker', 'ihope', 'regard', 'twisted', 'table']
+['hereto', 'fast', 'fn', 'gurion', 'organ', 'herbert', 'optimal', 'isaiah', 'otherpeople', 'sydney', 'frankly', 'dea', 'gasoline', 'kirby', 'clueless']
+['organic', 'profit', 'fn', 'enter', 'xwd', 'rush', 'incidence', 'aprogram', 'prophesy', 'numberof', 'reinforce', 'step', 'lotof', 'handing', 'invite']
+['bea', 'clue', 'tax', 'unassisted', 'egyptian', 'sydney', 'bow', 'necessary', 'intelligent', 'garrett', 'responce', 'hs', 'bxlt', 'robust', 'cm']
+['adam', 'barr', 'royalty', 'july', 'nswc', 'utah', 'doublespace', 'kong', 'tgv', 'renderman', 'connection', 'spout', 'optimal', 'cache', 'carriage']
+['cancel', 'andafter', 'prophesy', 'xwd', 'come', 'cm', 'matt', 'nominate', 'fishing', 'wu', 'nt', 'transform', 'correctly', 'link', 'asmall']
+['indiscriminately', 'whichyou', 'ram', 'hereto', 'duplex', 'gay', 'butthis', 'berkeley', 'extraordinary', 'thedetail', 'maxtor', 'bob', 'ibid', 'zoom', 'patch']
+['disbelieve', 'timmon', 'misconduct', 'noon', 'rider', 'gnuplot', 'possibly', 'empire', 'herbert', 'boring', 'sanderson', 'unbreakable', 'cu', 'addictive', 'x.']
+['rider', 'withyou', 'eece', 'youget', 'cm', 'healthy', 'democrat', 'morph', 'mist', 'prophesy', 'inquiry', 'conviction', 'andnot', 'prentice', 'morris']
+['eugene', 'mystery', 'jim', 'necessary', 'mcovingt', 'andno', 'trace', 'hike', 'retired', 'feedback', 'suffice', 'inf', 'tactic', 'responsiblefor', 'disturbing']
+['xresource', 'rider', 'prophesy', 'xwd', 'gnuplot', 'artillery', 'ivy', 'vaginal', 'anxious', 'mds', 'isaid', 'chemist', 'militarily', 'fn', 'appointment']
+['qur', 'pilate', 'mds', 'sub', 'mythical', 'andafter', 'conversion', 'branch', 'pegasus', 'opening', 'thedetail', 'animate', 'cu', 'lsd', 'democrat']
+['mount', 'butler', 'mushroom', 'inf', 'amusing', 'misunderstanding', 'jim', 'appointment', 'scheme', 'ounce', 'asia', 'smartdrv', 'expert', 'ram', 'privately']
+['proud', 'atlanta', 'select', 'needless', 'extraordinary', 'responsiblefor', 'sydney', 'biological', 'x.', 'paycheck', 'indiscriminately', 'rebuttal', 'erase', 'dice', 'manuscript']
+['isaiah', 'ri', 'intelligent', 'gurion', 'timeof', 'dayton', 'mds', 'sayingthat', 'anniversary', 'fu', 'rob', 'inquiry', 'cu', 'setting', 'enthusiastic']
+['aprogram', 'ofother', 'unbiased', 'alabama', 'ita', 'mds', 'herbert', 'compare', 'needless', 'clueless', 'tactic', 'adam', 'nswc', 'gay', 'andafter']
+['intelligent', 'hereto', 'downward', 'mds', 'sydney', 'arrive', 'perceive', 'ram', 'continually', 'wj', 'theater', 'hst', 'replay', 'ofother', 'cairo']
+['gravitational', 'sydney', 'line', 'oneof', 'airline', 'railway', 'dick', 'table', 'average', 'chassis', 'questionnaire', 'herbert', 'certain', 'totalitarian', 'grab']
+['andafter', 'chase', 'serialnumber', 'prophesy', 'desert', 'todod', 'dependence', 'bulldozer', 'tget', 'especially', 'jhu', 'awake', 'newsgroup', 'wrapper', 'thedetail']
+['damascus', 'ambition', 'tokyo', 'truetype', 'chemist', 'afew', 'fast', 'kong', 'segment', 'otherpeople', 'zc', 'addictive', 'mobility', 'direct', 'rider']
+['aprogram', 'mutlu', 'inquiry', 'papa', 'gf', 'davis', 'anytime', 'ritual', 'funding', 'rich', 'recognise', 'gay', 'herbert', 'necessarily', 'survivor']
+['todod', 'theback', 'truetype', 'thefirst', 'boring', 'extraordinary', 'asfar', 'register', 'rush', 'leverage', 'qur', 'directory', 'step', 'segment', 'appointment']
+['regard', 'optimal', 'one', 'rpi', 'database', 'aesthetic', 'conviction', 'tokyo', 'digital', 'guy', 'replay', 'slowly', 'white', 'pilate', 'rush']
+['coup', 'independant', 'eloquently', 'mutlu', 'irrelevant', 'kong', 'pegasus', 'wannabe', 'interaction', 'attribute', 'rush', 'atlanta', 'expert', 'sloan', 'themore']
+['rear', 'diverge', 'bomb', 'regard', 'prepare', 'zoom', 'suffice', 'something', 'rebuttal', 'gay', 'attribute', 'useto', 'zubov', 'um', 'spank']
+['intelligent', 'innings', 'sydney', 'exclusive', 'x.', 'butler', 'aprogram', 'isuspect', 'regard', 'aclu', 'remark', 'toplevel', 'thehead', 'prophet', 'fake']
+['truetype', 'butler', 'xresource', 'grab', 'todod', 'x.', 'seriously', 'wind', 'agent', 'hershey', 'buck', 'occupier', 'continue', 'mapping', 'seemsthat']
+['distinction', 'attribute', 'diverge', 'cache', 'unusable', 'todod', 'prohibit', 'x.', 'whenthey', 'mutlu', 'ritual', 'doublespace', 'fuse', 'iran', 'report']
+['pn', 'guy', 'hike', 'prophet', 'anderson', 'theymust', 'takethe', 'mds', 'step', 'comrade', 'characteristic', 'walter', 'alto', 'pederson', 'indiscriminately']
+['seemsthat', 'perceive', 'qur', 'vat', 'dtc', 'shouldnot', 'corps', 'rush', 'handing', 'intelligent', 'ariane', 'iranian', 'realtime', 'inisrael', 'xresource']
+['characteristic', 'tocommit', 'arrive', 'class', 'fu', 'racer', 'duplex', 'invite', 'todod', 'emu', 'conviction', 'xwd', 'descent', 'doi', 'tranny']
+['cancer', 'cache', 'atlanta', 'erase', 'willtake', 'isno', 'notbe', 'bezel', 'unusable', 'takethe', 'th', 'sticker', 'officer', 'perceive', 'arf']
+['x.', 'iran', 'stark', 'methink', 'need', 'clueless', 'grandiose', 'cache', 'butler', 'militarily', 'appointment', 'step', 'line', 'extraordinary', 'routing']
+['perceive', 'appointment', 'truetype', 'qur', 'willtake', 'todod', 'discrete', 'hike', 'cypherpunk', 'vaginal', 'forsale', 'butthis', 'kar', 'receipt', 'slowly']
+['modern', 'cylinder', 'atlanta', 'humour', 'perceive', 'prophesy', 'ram', 'erase', 'subordinate', 'jim', 'bulb', 'careful', 'goddard', 'misunderstanding', 'dependence']
+['retired', 'sized', 'seminar', 'modify', 'ihope', 'intelligent', 'herbert', 'analysis', 'texture', 'cramp', 'railway', 'impossible', 'rider', 'capitalization', 'hasnot']
+['rider', 'hike', 'posting', 'vat', 'pwu', 'iici', 'pn', 'rocky', 'treasurer', 'militarily', 'january', 'whip', 'inquisition', 'eece', 'null']
+['nt', 'lq', 'gay', 'xwd', 'damascus', 'theway', 'somalia', 'surrogate', 'butler', 'suffice', 'excerpt', 'wail', 'muck', 'recognise', 'alarm']
+['gay', 'database', 'feasibility', 'butler', 'duo', 'gigabyte', 'thepoint', 'marshall', 'east', 'suddenly', 'cu', 'conduit', 'maxtor', 'x.', 'bike']
+['ounce', 'chase', 'rider', 'elitist', 'twisted', 'hk', 'diverge', 'buck', 'misfire', 'damascus', 'mds', 'ouch', 'ky', 'corner', 'regard']
+['berkeley', 'exclusively', 'discretion', 'intreste', 'diverge', 'clue', 'mus', 'solbourne', 'truetype', 'one', 'silicon', 'isaiah', 'schematic', 'herbert', 'procedure']
+['elitist', 'ia', 'alto', 'ibid', 'erase', 'aesthetic', 'exclusively', 'inf', 'coax', 'seeif', 'bare', 'hiswife', 'needless', 'eece', 'rifleman']
+['theway', 'grab', 'opening', 'loader', 'disbelieve', 'timmon', 'ibid', 'gnuplot', 'rally', 'pwu', 'aerial', 'rehash', 'extraordinary', 'afew', 'radioactive']
+['appointment', 'gurion', 'sakic', 'atlanta', 'isaiah', 'mug', 'organ', 'seizure', 'reilly', 'hike', 'takethe', 'mds', 'nuclear', 'xwd', 'gay']
+['overtime', 'truth', 'fred', 'nswc', 'consist', 'darrell', 'mds', 'ivy', 'chase', 'toanother', 'cousineau', 'ev', 'cm', 'specific', 'andreychuk']
+['nswc', 'andafter', 'cu', 'sura', 'surveillance', 'trickle', 'hike', 'specific', 'pegasus', 'erase', 'bezel', 'intelligent', 'transform', 'nr', 'extraordinary']
+['herbert', 'animal', 'perceive', 'eagerly', 'theological', 'usr', 'railway', 'intimidation', 'conveniently', 'atheistic', 'greatlyappreciate', 'brief', 'transform', 'enter', 'scale']
+['intelligent', 'twisted', 'intervene', 'erase', 'brief', 'cu', 'butler', 'psi', 'debunk', 'cassette', 'trace', 'continually', 'democrat', 'gopher', 'diverge']
+['ga', 'bezel', 'hmmmm', 'twisted', 'optimal', 'pict', 'inf', 'welfare', 'xresource', 'regard', 'krillean', 'feasibility', 'geological', 'prophesy', 'frustration']
+['grandiose', 'vc', 'feedback', 'fn', 'appointment', 'andno', 'offering', 'mapping', 'gripe', 'incompetent', 'nwk', 'filtering', 'afternoon', 'device', 'resurrection']
+['anniversary', 'hike', 'ram', 'branch', 'algebraic', 'tap', 'aa', 'uk', 'torment', 'theback', 'rub', 'ofother', 'benchmark', 'ibid', 'loose']
+['soviet', 'prophesy', 'feedback', 'buck', 'gay', 'line', 'emac', 'brett', 'uh', 'ox', 'january', 'andafter', 'inquiry', 'ducati', 'tget']
+['conviction', 'apple', 'ina', 'tourist', 'feature', 'loudspeaker', 'wt', 'flow', 'algebraic', 'ouch', 'yogurt', 'anon', 'mus', 'oneof', 'ihope']
+['herbert', 'takethe', 'one', 'rpi', 'nt', 'class', 'mall', 'modern', 'andreychuk', 'pegasus', 'rodney', 'perpetuate', 'mythical', 'sakic', 'sounding']
+['shamir', 'east', 'gay', 'mds', 'diverge', 'bo', 'relevance', 'butler', 'cobb', 'gurion', 'vaginal', 'eece', 'berkeley', 'school', 'hereto']
+['cu', 'kirby', 'cobb', 'condescend', 'trample', 'desert', 'bezel', 'aprogram', 'ryn', 'cor', 'krillean', 'vj', 'mississippi', 'folk', 'brent']
+['appointment', 'sob', 'exclusively', 'xs', 'characterize', 'afternoon', 'taxi', 'capitalization', 'youare', 'ccw', 'animal', 'withyou', 'spline', 'gravitational', 'organ']
+['hike', 'nt', 'necessarily', 'afternoon', 'eece', 'replay', 'paraphrase', 'ucla', 'sayingthat', 'serialnumber', 'specific', 'ram', 'pissed', 'fm', 'sloan']
+['orange', 'andafter', 'aspossible', 'xwd', 'todod', 'afternoon', 'perceive', 'francois', 'isaiah', 'theological', 'lar', 'relevant', 'noon', 'originally', 'takethe']
+['hu', 'twisted', 'grab', 'duplex', 'timmon', 'walsh', 'intelligent', 'andafter', 'clue', 'neon', 'g', 'kong', 'eece', 'hex', 'newman']
+['wz', 'interception', 'corporation', 'branch', 'atlanta', 'discrete', 'suffice', 'jim', 'duo', 'mds', 'ahl', 'serialnumber', 'canno', 'soviet', 'buck']
+['herbert', 'sydney', 'july', 'scheme', 'mds', 'amateur', 'oneof', 'like', 'bezel', 'biological', 'fn', 'wip', 'fred', 'cu', 'workstation']
+['mapping', 'ncr', 'todod', 'hereto', 'privately', 'rider', 'explicitly', 'branch', 'corporation', 'bitmap', 'mds', 'hose', 'sincei', 'slavery', 'whichyou']
+['jhu', 'loader', 'railway', 'goto', 'diverge', 'flow', 'slight', 'informationabout', 'recourse', 'militarily', 'noon', 'rich', 'ina', 'makeit', 'cu']
+['damascus', 'ccw', 'isjust', 'attribute', 'conviction', 'table', 'cultist', 'ibid', 'gnuplot', 'regime', 'mds', 'chase', 'sydney', 'debatable', 'penis']
+['dsp', 'brief', 'mutlu', 'today', 'retailer', 'database', 'seemsthat', 'north', 'grab', 'ariane', 'massage', 'select', 'iwill', 'concurrently', 'algebraic']
+['hereto', 'butler', 'whichever', 'isaiah', 'fast', 'isaid', 'nswc', 'unusable', 'database', 'onlythe', 'wrapper', 'grab', 'sanderson', 'xresource', 'reich']
+['sydney', 'nt', 'disabled', 'jim', 'neon', 'militarily', 'mds', 'tgv', 'epson', 'ram', 'characteristic', 'ufl', 'andafter', 'atlanta', 'grp']
+['justice', 'timmon', 'dribble', 'sticker', 'dsp', 'mystery', 'connecticut', 'coup', 'ubc', 'crush', 'macdonald', 'ecs', 'gay', 'debatable', 'cobb']
+['aprogram', 'sanderson', 'mapping', 'reagan', 'indicate', 'conviction', 'slight', 'hose', 'anderson', 'justice', 'come', 'originally', 'cobb', 'feustel', 'event']
+['militarily', 'lar', 'scheme', 'combination', 'profit', 'truetype', 'treasurer', 'inquiry', 'broadcasting', 'xr', 'north', 'gay', 'mention', 'exceptfor', 'inerrantist']
+['cobb', 'intelligent', 'fake', 'tranny', 'hike', 'isno', 'useto', 'pearson', 'inmy', 'vat', 'hudson', 'sanderson', 'defend', 'gospel', 'winner']
+['artillery', 'whatis', 'ibm', 'militarily', 'erase', 'bulk', 'bezel', 'inmy', 'unusable', 'trickle', 'vj', 'soviet', 'silicon', 'railway', 'sydney']
+['aprogram', 'concurrently', 'pneumonia', 'fancy', 'hound', 'hereto', 'teemu', 'ph', 'cassette', 'attribute', 'say', 'mds', 'timmon', 'reich', 'francois']
+['herbert', 'worthwhile', 'hereto', 'aprogram', 'occupier', 'thu', 'berkeley', 'catcher', 'psi', 'campbell', 'chemist', 'rear', 'ucla', 'socialist', 'immature']
+['suitable', 'soviet', 'student', 'unusable', 'bow', 'characteristic', 'specifie', 'hereto', 'distinction', 'east', 'penny', 'jumbo', 'appointment', 'herbert', 'mip']
+['aclu', 'x.', 'andafter', 'north', 'sanderson', 'herbert', 'workstation', 'aprogram', 'demonstrator', 'vat', 'chemist', 'psi', 'rpi', 'dribble', 'buying']
+['specific', 'imake', 'nt', 'perceive', 'cm', 'sakic', 'x.', 'eece', 'xputimage', 'ofother', 'describe', 'mutlu', 'chase', 'prodrive', 'suffice']
+['cu', 'ibid', 'specific', 'intelligent', 'militarily', 'counting', 'inquiry', 'vat', 'regard', 'andafter', 'characteristic', 'anniversary', 'soviet', 'aprogram', 'hereto']
+['noon', 'nt', 'mississippi', 'autograph', 'gay', 'duo', 'rebuttal', 'damascus', 'andafter', 'complain', 'sixteen', 'gnuplot', 'animate', 'bitmap', 'youwant']
+['silicon', 'gay', 'chase', 'unbiased', 'francois', 'bracket', 'oneof', 'recompile', 'possible', 'atrocity', 'wrapper', 'everybody', 'ounce', 'lover', 'characteristic']
+['jim', 'gravitational', 'hereto', 'gay', 'mds', 'perceive', 'pastor', 'stomp', 'treasurer', 'ram', 'hudson', 'persuasive', 'berkeley', 'protection', 'docking']
+['habit', 'wail', 'overtime', 'statue', 'serialnumber', 'tj', 'tq', 'duo', 'eg', 'bruce', 'aide', 'ofother', 'constantly', 'vj', 'butler']
+['interpreter', 'herbert', 'mds', 'montana', 'roughly', 'conclusion', 'intelligent', 'hart', 'sakic', 'nr', 'sob', 'ubc', 'ram', 'unassisted', 'pbs']
+['class', 'annihilate', 'aprogram', 'mds', 'cu', 'dayton', 'norris', 'weitek', 'todod', 'ia', 'ounce', 'railway', 'offthe', 'interaction', 'vernon']
+['gurion', 'happen', 'gay', 'sixteen', 'intelligent', 'mds', 'break', 'fallacy', 'butts', 'couch', 'ld', 'pml', 'fairing', 'andnot', 'seriously']
+['ihope', 'one', 'chemist', 'zoom', 'retired', 'intelligent', 'isin', 'highest', 'jazz', 'conviction', 'bike', 'cobb', 'segment', 'isaiah', 'shamir']
+['herbert', 'inquiry', 'hike', 'vaginal', 'someonewho', 'emac', 'laker', 'east', 'partial', 'connector', 'wind', 'expert', 'fm', 'fred', 'bulb']
+['vaginal', 'todod', 'database', 'coax', 'holding', 'disbelieve', 'gnuplot', 'useto', 'anatolia', 'mug', 'annihilate', 'prophesy', 'victim', 'diverge', 'coup']
+['intelligent', 'discrete', 'gurion', 'seal', 'break', 'atlanta', 'wj', 'eece', 'erase', 'wl', 'qur', 'unbreakable', 'xview', 'isaiah', 'coffee']
+['gay', 'artillery', 'toolkit', 'distinct', 'automatically', 'colonial', 'g', 'scheme', 'teemu', 'rider', 'nswc', 'arc', 'corpus', 'gurion', 'noon']
+['nt', 'pegasus', 'intelligent', 'ethically', 'zc', 'aprogram', 'aesthetic', 'impossible', 'elite', 'thatwhile', 'palmer', 'buck', 'dissipate', 'hypocritical', 'cache']
+['specific', 'isaiah', 'torment', 'whichyou', 'bomb', 'hail', 'sii', 'buck', 'attribute', 'hawaii', 'representation', 'francois', 'jim', 'unbiased', 'sic']
+['cobb', 'sub', 'gay', 'bezel', 'attribute', 'scheme', 'psi', 'fcc', 'informationabout', 'bbs', 'read', 'unbreakable', 'nswc', 'trace', 'proc']
+['unusable', 'matt', 'italy', 'separately', 'ram', 'xh', 'bulb', 'compare', 'orwell', 'ia', 'paycheck', 'ibid', 'bike', 'bungee', 'broadcasting']
+['ibid', 'register', 'diverge', 'ram', 'incidence', 'occupier', 'rtsg', 'fake', 'sceptical', 'ei', 'alabama', 'gay', 'theback', 'ncr', 'complain']
+==============================
+topic diversity:0.468
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6496286347169068, c_w2v:None, c_uci:-10.053985376730093, c_npmi:-0.3610874494981024
+mimno topic coherence:-213.15194146440382
+Epoch  11	Iter    1	Loss_D:-0.0967954	Loss_G:178.8595276	loss_E:0.0396757
+Epoch  11	Iter   11	Loss_D:-0.0971747	Loss_G:177.6224060	loss_E:0.0398537
+Epoch  11	Iter   21	Loss_D:-0.0972961	Loss_G:176.3886108	loss_E:0.0398139
+Epoch  12	Iter    1	Loss_D:-0.0978428	Loss_G:175.1601868	loss_E:0.0400420
+Epoch  12	Iter   11	Loss_D:-0.0983066	Loss_G:173.9359436	loss_E:0.0394605
+Epoch  12	Iter   21	Loss_D:-0.0995809	Loss_G:172.7160797	loss_E:0.0409139
+Epoch  13	Iter    1	Loss_D:-0.0986625	Loss_G:171.4997253	loss_E:0.0400875
+Epoch  13	Iter   11	Loss_D:-0.0995560	Loss_G:170.2885132	loss_E:0.0407616
+Epoch  13	Iter   21	Loss_D:-0.0991229	Loss_G:169.0814667	loss_E:0.0398303
+Epoch  14	Iter    1	Loss_D:-0.1002382	Loss_G:167.8800659	loss_E:0.0402767
+Epoch  14	Iter   11	Loss_D:-0.0990658	Loss_G:166.6808472	loss_E:0.0390522
+Epoch  14	Iter   21	Loss_D:-0.0969131	Loss_G:165.4873810	loss_E:0.0364819
+Epoch  15	Iter    1	Loss_D:-0.0998929	Loss_G:164.2976685	loss_E:0.0393916
+Epoch  15	Iter   11	Loss_D:-0.0997896	Loss_G:163.1130524	loss_E:0.0390567
+Epoch  15	Iter   21	Loss_D:-0.1025335	Loss_G:161.9320984	loss_E:0.0411874
+Epoch  16	Iter    1	Loss_D:-0.1017541	Loss_G:160.7556915	loss_E:0.0405646
+Epoch  16	Iter   11	Loss_D:-0.0990789	Loss_G:159.5830231	loss_E:0.0377139
+Epoch  16	Iter   21	Loss_D:-0.1018585	Loss_G:158.4164886	loss_E:0.0396574
+Epoch  17	Iter    1	Loss_D:-0.1016570	Loss_G:157.2516479	loss_E:0.0404446
+Epoch  17	Iter   11	Loss_D:-0.1017409	Loss_G:156.0933685	loss_E:0.0396585
+Epoch  17	Iter   21	Loss_D:-0.1023883	Loss_G:154.9380493	loss_E:0.0405138
+Epoch  18	Iter    1	Loss_D:-0.1014201	Loss_G:153.7886963	loss_E:0.0391377
+Epoch  18	Iter   11	Loss_D:-0.1003877	Loss_G:152.6416473	loss_E:0.0381886
+Epoch  18	Iter   21	Loss_D:-0.1028735	Loss_G:151.5012512	loss_E:0.0395023
+Epoch  19	Iter    1	Loss_D:-0.1024776	Loss_G:150.3636017	loss_E:0.0392208
+Epoch  19	Iter   11	Loss_D:-0.1023340	Loss_G:149.2309418	loss_E:0.0392815
+Epoch  19	Iter   21	Loss_D:-0.1015569	Loss_G:148.1021576	loss_E:0.0380951
+Epoch  20	Iter    1	Loss_D:-0.1034719	Loss_G:146.9781342	loss_E:0.0400275
+Epoch  20	Iter   11	Loss_D:-0.1020826	Loss_G:145.8579102	loss_E:0.0383264
+Epoch  20	Iter   21	Loss_D:-0.1004839	Loss_G:144.7427063	loss_E:0.0369318
+Epoch  20	Loss_D_avg:-0.0822565	Loss_G_avg:180.1280947	loss_E_avg:0.0329322
+['ahl', 'mississippi', 'expert', 'chemist', 'gnuplot', 'characterize', 'shortcoming', 'characteristic', 'honour', 'attribute', 'neon', 'mds', 'rider', 'lm', 'statue']
+['appointment', 'cache', 'anatolia', 'joke', 'thatwhile', 'hebrew', 'willtake', 'hike', 'mds', 'emac', 'characterize', 'withdrawal', 'artillery', 'walsh', 'rush']
+['hike', 'otherpeople', 'ihope', 'empirical', 'intelligent', 'gnuplot', 'holding', 'youwant', 'mississippi', 'xputimage', 'school', 'berkeley', 'inquiry', 'spectator', 'hail']
+['ibid', 'diverge', 'rider', 'double', 'idiotic', 'psu', 'boring', 'soviet', 'corporation', 'hound', 'indiscriminately', 'butts', 'mug', 'duo', 'workstation']
+['alto', 'inerrantist', 'robust', 'hike', 'loader', 'slowly', 'andafter', 'totalitarian', 'lotof', 'ihope', 'laker', 'triumph', 'vernon', 'twisted', 'regard']
+['hereto', 'fn', 'fast', 'gurion', 'isaiah', 'sydney', 'organ', 'herbert', 'otherpeople', 'frankly', 'optimal', 'prophesy', 'regularly', 'loader', 'dea']
+['profit', 'organic', 'enter', 'fn', 'rush', 'prophesy', 'aprogram', 'handing', 'reinforce', 'step', 'xwd', 'lotof', 'numberof', 'corporation', 'invite']
+['bea', 'clue', 'intelligent', 'tax', 'unassisted', 'sydney', 'bow', 'necessary', 'responce', 'garrett', 'egyptian', 'robust', 'hs', 'useto', 'cm']
+['adam', 'royalty', 'barr', 'july', 'nswc', 'utah', 'kong', 'renderman', 'doublespace', 'connection', 'tgv', 'rally', 'spout', 'intelligent', 'originally']
+['andafter', 'prophesy', 'cancel', 'come', 'cm', 'xwd', 'nt', 'correctly', 'buck', 'fishing', 'matt', 'infest', 'nominate', 'wu', 'transform']
+['indiscriminately', 'ram', 'whichyou', 'hereto', 'maxtor', 'zoom', 'gay', 'duplex', 'ibid', 'extraordinary', 'pegasus', 'bob', 'spur', 'berkeley', 'attribute']
+['disbelieve', 'timmon', 'gnuplot', 'misconduct', 'rider', 'empire', 'noon', 'possibly', 'boring', 'sanderson', 'cu', 'harry', 'herbert', 'bo', 'gorman']
+['rider', 'withyou', 'youget', 'eece', 'cm', 'democrat', 'prentice', 'conviction', 'ky', 'andnot', 'prophesy', 'morph', 'worker', 'morris', 'cancel']
+['jim', 'mystery', 'eugene', 'feedback', 'necessary', 'hike', 'retired', 'responsiblefor', 'walt', 'lar', 'tactic', 'sanderson', 'andno', 'inf', 'spelling']
+['xresource', 'rider', 'prophesy', 'xwd', 'gnuplot', 'artillery', 'anxious', 'appointment', 'mds', 'militarily', 'chemist', 'ivy', 'isaiah', 'isaid', 'fn']
+['qur', 'pilate', 'andafter', 'mythical', 'mds', 'branch', 'sub', 'conversion', 'cu', 'opening', 'pegasus', 'uh', 'xsession', 'animate', 'democrat']
+['butler', 'mushroom', 'mount', 'amusing', 'inf', 'misunderstanding', 'appointment', 'jim', 'scheme', 'ounce', 'expert', 'smartdrv', 'privately', 'ram', 'asia']
+['atlanta', 'proud', 'select', 'paycheck', 'extraordinary', 'responsiblefor', 'needless', 'dice', 'sydney', 'manuscript', 'rebuttal', 'cor', 'erase', 'x.', 'biological']
+['isaiah', 'ri', 'anniversary', 'intelligent', 'gurion', 'timeof', 'rob', 'cu', 'dayton', 'fu', 'sayingthat', 'mds', 'setting', 'davis', 'inquiry']
+['unbiased', 'aprogram', 'ofother', 'needless', 'alabama', 'mds', 'clueless', 'compare', 'herbert', 'ita', 'tactic', 'adam', 'nswc', 'dnet', 'gay']
+['intelligent', 'hereto', 'downward', 'sydney', 'mds', 'ram', 'theater', 'continually', 'wj', 'perceive', 'arrive', 'grab', 'cairo', 'replay', 'hst']
+['gravitational', 'sydney', 'railway', 'oneof', 'line', 'airline', 'grab', 'table', 'dick', 'questionnaire', 'totalitarian', 'average', 'herbert', 'kong', 'interaction']
+['andafter', 'chase', 'serialnumber', 'desert', 'dependence', 'prophesy', 'todod', 'tget', 'wrapper', 'newsgroup', 'bulldozer', 'awake', 'especially', 'atlanta', 'impedance']
+['damascus', 'ambition', 'tokyo', 'truetype', 'chemist', 'fast', 'zc', 'afew', 'addictive', 'kong', 'rider', 'algebraic', 'otherpeople', 'hirama', 'prophesy']
+['aprogram', 'gf', 'mutlu', 'papa', 'inquiry', 'anytime', 'rich', 'davis', 'theway', 'funding', 'ritual', 'twisted', 'mapping', 'idiotic', 'hu']
+['todod', 'theback', 'thefirst', 'boring', 'truetype', 'extraordinary', 'register', 'rush', 'indiscriminately', 'asfar', 'qur', 'appointment', 'step', 'x.', 'leverage']
+['regard', 'one', 'database', 'aesthetic', 'rpi', 'conviction', 'optimal', 'digital', 'tokyo', 'nswc', 'slowly', 'hike', 'replay', 'sundin', 'attribute']
+['independant', 'coup', 'kong', 'pegasus', 'eloquently', 'interaction', 'wannabe', 'irrelevant', 'attribute', 'atlanta', 'mutlu', 'expert', 'paycheck', 'useto', 'step']
+['bomb', 'diverge', 'attribute', 'zoom', 'rear', 'regard', 'prepare', 'um', 'rebuttal', 'hike', 'mapping', 'something', 'gay', 'protective', 'suffice']
+['intelligent', 'sydney', 'innings', 'butler', 'exclusive', 'remark', 'x.', 'isuspect', 'aprogram', 'regard', 'minded', 'aclu', 'unusable', 'harbor', 'thehead']
+['truetype', 'butler', 'grab', 'xresource', 'todod', 'x.', 'mapping', 'occupier', 'agent', 'continue', 'seemsthat', 'seriously', 'wind', 'infest', 'circular']
+['attribute', 'cache', 'unusable', 'distinction', 'todod', 'x.', 'prohibit', 'diverge', 'whenthey', 'iran', 'fuse', 'mutlu', 'report', 'doublespace', 'mist']
+['hike', 'pn', 'anderson', 'guy', 'step', 'theymust', 'prophet', 'takethe', 'mds', 'comrade', 'characteristic', 'concurrently', 'ina', 'indiscriminately', 'alto']
+['seemsthat', 'qur', 'perceive', 'shouldnot', 'vat', 'dtc', 'handing', 'rush', 'realtime', 'intelligent', 'ariane', 'corps', 'fp', 'heck', 'inisrael']
+['characteristic', 'tocommit', 'class', 'arrive', 'fu', 'conviction', 'invite', 'racer', 'duplex', 'todod', 'emu', 'xwd', 'descent', 'exclusively', 'jim']
+['atlanta', 'cache', 'erase', 'cancer', 'notbe', 'unusable', 'willtake', 'sticker', 'takethe', 'bezel', 'th', 'isno', 'wheni', 'perceive', 'arf']
+['x.', 'iran', 'stark', 'grandiose', 'need', 'step', 'militarily', 'cache', 'methink', 'butler', 'clueless', 'appointment', 'extraordinary', 'line', 'henrik']
+['appointment', 'perceive', 'qur', 'todod', 'truetype', 'willtake', 'cypherpunk', 'hike', 'forsale', 'receipt', 'discrete', 'slowly', 'kar', 'settle', 'coax']
+['modern', 'atlanta', 'ram', 'humour', 'erase', 'cylinder', 'prophesy', 'perceive', 'subordinate', 'dependence', 'goddard', 'bulb', 'jim', 'misunderstanding', 'careful']
+['modify', 'intelligent', 'sized', 'seminar', 'retired', 'ihope', 'analysis', 'herbert', 'capitalization', 'texture', 'railway', 'yogurt', 'isaiah', 'cramp', 'hasnot']
+['rider', 'hike', 'rocky', 'pwu', 'iici', 'vat', 'militarily', 'posting', 'treasurer', 'null', 'january', 'eece', 'characteristic', 'clean', 'aerial']
+['nt', 'lq', 'somalia', 'damascus', 'theway', 'gay', 'surrogate', 'excerpt', 'ph', 'xwd', 'paycheck', 'muck', 'wail', 'butler', 'suffice']
+['database', 'gay', 'butler', 'feasibility', 'thepoint', 'duo', 'gigabyte', 'andafter', 'bike', 'maxtor', 'cu', 'suddenly', 'ft', 'conduit', 'intelligent']
+['ounce', 'chase', 'rider', 'elitist', 'twisted', 'hk', 'damascus', 'buck', 'mds', 'diverge', 'ky', 'corner', 'regard', 'misfire', 'ouch']
+['berkeley', 'exclusively', 'discretion', 'intreste', 'clue', 'diverge', 'isaiah', 'silicon', 'unusable', 'mus', 'one', 'solbourne', 'schematic', 'procedure', 'truetype']
+['elitist', 'erase', 'ibid', 'alto', 'inf', 'aesthetic', 'coax', 'exclusively', 'ia', 'needless', 'hiswife', 'seeif', 'ucla', 'eece', 'bare']
+['theway', 'grab', 'opening', 'loader', 'gnuplot', 'ibid', 'disbelieve', 'timmon', 'rally', 'aerial', 'rehash', 'ul', 'radioactive', 'pwu', 'afew']
+['appointment', 'gurion', 'sakic', 'atlanta', 'isaiah', 'mug', 'organ', 'hike', 'reilly', 'nuclear', 'mds', 'seizure', 'setting', 'register', 'intelligent']
+['overtime', 'fred', 'truth', 'nswc', 'consist', 'ivy', 'specific', 'toanother', 'darrell', 'mds', 'cousineau', 'ev', 'chase', 'andreychuk', 'cm']
+['nswc', 'andafter', 'sura', 'cu', 'hike', 'trickle', 'pegasus', 'specific', 'surveillance', 'bezel', 'intelligent', 'transform', 'erase', 'paycheck', 'extraordinary']
+['herbert', 'animal', 'eagerly', 'theological', 'perceive', 'scale', 'slaught', 'careful', 'aspossible', 'transform', 'atheistic', 'isaiah', 'railway', 'brief', 'enter']
+['intelligent', 'erase', 'twisted', 'debunk', 'intervene', 'cu', 'butler', 'brief', 'cassette', 'democrat', 'trace', 'gopher', 'continually', 'psi', 'infest']
+['ga', 'bezel', 'inf', 'twisted', 'welfare', 'krillean', 'geological', 'pict', 'hmmmm', 'andafter', 'prophesy', 'feasibility', 'xresource', 'regard', 'optimal']
+['grandiose', 'vc', 'feedback', 'fn', 'offering', 'mapping', 'andno', 'appointment', 'resurrection', 'nwk', 'pasteur', 'gripe', 'afternoon', 'device', 'incompetent']
+['anniversary', 'hike', 'ram', 'branch', 'torment', 'aa', 'theback', 'pilate', 'whenthey', 'algebraic', 'uk', 'idiotic', 'ibid', 'newman', 'ofother']
+['soviet', 'prophesy', 'feedback', 'buck', 'gay', 'brett', 'uh', 'andafter', 'january', 'palmer', 'ox', 'wmm', 'ducati', 'bike', 'line']
+['conviction', 'ina', 'apple', 'feature', 'tourist', 'algebraic', 'flow', 'ihope', 'yogurt', 'wt', 'loudspeaker', 'rebuttal', 'ouch', 'atlanta', 'customizable']
+['herbert', 'class', 'one', 'takethe', 'nt', 'rpi', 'mall', 'pegasus', 'andreychuk', 'rodney', 'modern', 'mythical', 'boston', 'sydney', 'soft']
+['shamir', 'east', 'gay', 'bo', 'butler', 'mds', 'diverge', 'relevance', 'cobb', 'berkeley', 'eece', 'gurion', 'school', 'vaginal', 'unbiased']
+['cu', 'cobb', 'kirby', 'krillean', 'desert', 'trample', 'cor', 'mississippi', 'condescend', 'ryn', 'aprogram', 'folk', 'brent', 'bezel', 'tranny']
+['appointment', 'sob', 'exclusively', 'characterize', 'afternoon', 'xs', 'animal', 'withyou', 'capitalization', 'ccw', 'taxi', 'youare', 'anniversary', 'spline', 'erase']
+['hike', 'nt', 'necessarily', 'paraphrase', 'replay', 'specific', 'afternoon', 'serialnumber', 'eece', 'sayingthat', 'ucla', 'ram', 'sloan', 'datum', 'intelligent']
+['andafter', 'orange', 'aspossible', 'lar', 'todod', 'perceive', 'theological', 'afternoon', 'francois', 'xwd', 'isaiah', 'takethe', 'ri', 'originally', 'downward']
+['hu', 'twisted', 'grab', 'timmon', 'duplex', 'intelligent', 'andafter', 'walsh', 'clue', 'g', 'newman', 'charter', 'london', 'kong', 'eece']
+['wz', 'corporation', 'atlanta', 'branch', 'interception', 'discrete', 'jim', 'serialnumber', 'unusable', 'buck', 'suffice', 'duo', 'mds', 'digital', 'survivor']
+['sydney', 'july', 'herbert', 'scheme', 'mds', 'amateur', 'bezel', 'oneof', 'like', 'cu', 'fn', 'fred', 'workstation', 'wip', 'berkeley']
+['mapping', 'todod', 'ncr', 'privately', 'hereto', 'bitmap', 'rider', 'branch', 'mds', 'afternoon', 'sincei', 'explicitly', 'hose', 'unassisted', 'whichyou']
+['loader', 'railway', 'jhu', 'goto', 'diverge', 'slight', 'cu', 'flow', 'rich', 'makeit', 'militarily', 'recourse', 'ina', 'noon', 'informationabout']
+['damascus', 'ccw', 'isjust', 'attribute', 'conviction', 'gnuplot', 'ibid', 'table', 'cultist', 'fouri', 'sydney', 'oblige', 'regime', 'mds', 'artillery']
+['today', 'brief', 'dsp', 'database', 'mutlu', 'seemsthat', 'grab', 'retailer', 'ariane', 'massage', 'north', 'concurrently', 'select', 'democrat', 'authority']
+['hereto', 'butler', 'whichever', 'fast', 'isaiah', 'unusable', 'nswc', 'isaid', 'grab', 'sanderson', 'database', 'wrapper', 'pleasesend', 'onlythe', 'attribute']
+['nt', 'sydney', 'jim', 'disabled', 'epson', 'militarily', 'mds', 'neon', 'characteristic', 'andafter', 'tgv', 'atlanta', 'ram', 'todod', 'grp']
+['timmon', 'justice', 'dribble', 'dsp', 'sticker', 'mystery', 'gay', 'ram', 'ubc', 'coup', 'debatable', 'buck', 'cobb', 'connecticut', 'workstation']
+['mapping', 'sanderson', 'aprogram', 'reagan', 'slight', 'conviction', 'indicate', 'hose', 'anderson', 'originally', 'cobb', 'athen', 'event', 'justice', 'repent']
+['militarily', 'scheme', 'lar', 'profit', 'north', 'treasurer', 'inquiry', 'combination', 'broadcasting', 'inerrantist', 'gnuplot', 'truetype', 'capitalization', 'exceptfor', 'cu']
+['cobb', 'intelligent', 'fake', 'tranny', 'hike', 'sanderson', 'useto', 'pearson', 'isno', 'inmy', 'vw', 'vat', 'resist', 'hudson', 'winner']
+['artillery', 'whatis', 'ibm', 'militarily', 'erase', 'bezel', 'unusable', 'bulk', 'railway', 'trickle', 'inmy', 'silicon', 'hike', 'intelligent', 'sydney']
+['aprogram', 'concurrently', 'pneumonia', 'hound', 'fancy', 'teemu', 'hereto', 'attribute', 'cassette', 'ph', 'say', 'fission', 'mds', 'reich', 'privately']
+['herbert', 'hereto', 'occupier', 'worthwhile', 'aprogram', 'berkeley', 'psi', 'socialist', 'chemist', 'thu', 'campbell', 'rear', 'ucla', 'gnuplot', 'careful']
+['unusable', 'bow', 'characteristic', 'suitable', 'student', 'specifie', 'appointment', 'east', 'soviet', 'penny', 'hereto', 'jumbo', 'isaiah', 'distinction', 'hike']
+['andafter', 'x.', 'aclu', 'north', 'sanderson', 'workstation', 'aprogram', 'demonstrator', 'herbert', 'rpi', 'chemist', 'psi', 'dribble', 'xsession', 'buying']
+['specific', 'imake', 'nt', 'cm', 'perceive', 'xputimage', 'sakic', 'describe', 'class', 'x.', 'chase', 'prohibit', 'eece', 'nr', 'ina']
+['cu', 'specific', 'ibid', 'intelligent', 'vat', 'characteristic', 'andafter', 'inquiry', 'counting', 'militarily', 'anniversary', 'regard', 'cramp', 'coffee', 'flower']
+['noon', 'mississippi', 'nt', 'autograph', 'rebuttal', 'damascus', 'gnuplot', 'duo', 'andafter', 'complain', 'gay', 'brent', 'ahhh', 'militarily', 'unaware']
+['silicon', 'gay', 'chase', 'unbiased', 'oneof', 'francois', 'bracket', 'possible', 'characteristic', 'gnuplot', 'everybody', 'recompile', 'atrocity', 'artillery', 'lover']
+['jim', 'gravitational', 'hereto', 'mds', 'gay', 'perceive', 'pastor', 'ram', 'stomp', 'hudson', 'like', 'lq', 'treasurer', 'docking', 'protection']
+['wail', 'habit', 'statue', 'overtime', 'tq', 'constantly', 'serialnumber', 'butler', 'bruce', 'ofother', 'eg', 'tj', 'aide', 'duo', 'careful']
+['interpreter', 'herbert', 'mds', 'roughly', 'conclusion', 'hart', 'intelligent', 'montana', 'sob', 'ram', 'sakic', 'nr', 'unassisted', 'ubc', 'dissolve']
+['class', 'annihilate', 'cu', 'aprogram', 'todod', 'mds', 'railway', 'ounce', 'dayton', 'norris', 'ia', 'weitek', 'erase', 'offthe', 'interaction']
+['gurion', 'happen', 'gay', 'sixteen', 'intelligent', 'mds', 'andnot', 'fallacy', 'uo', 'wail', 'break', 'seriously', 'ph', 'butts', 'todod']
+['ihope', 'intelligent', 'one', 'retired', 'bike', 'zoom', 'chemist', 'cobb', 'isaiah', 'isin', 'broadcasting', 'conviction', 'paycheck', 'highest', 'jazz']
+['hike', 'partial', 'inquiry', 'someonewho', 'herbert', 'expert', 'intestine', 'laker', 'east', 'vaginal', 'connector', 'cu', 'emac', 'bulb', 'unusable']
+['vaginal', 'todod', 'coax', 'holding', 'gnuplot', 'useto', 'database', 'annihilate', 'mug', 'anatolia', 'prophesy', 'disbelieve', 'charcoal', 'coup', 'hockey']
+['intelligent', 'atlanta', 'break', 'erase', 'gurion', 'eece', 'seal', 'discrete', 'wj', 'qur', 'collar', 'isaiah', 'coffee', 'andall', 'wl']
+['gay', 'artillery', 'scheme', 'colonial', 'toolkit', 'distinct', 'automatically', 'teemu', 'g', 'corpus', 'rider', 'unicorn', 'nswc', 'gurion', 'noon']
+['nt', 'pegasus', 'ethically', 'zc', 'aprogram', 'intelligent', 'thatwhile', 'aesthetic', 'impossible', 'elite', 'palmer', 'buck', 'debatable', 'cache', 'hike']
+['specific', 'isaiah', 'torment', 'representation', 'sii', 'whichyou', 'bomb', 'attribute', 'sic', 'buck', 'hail', 'hawaii', 'francois', 'jim', 'idle']
+['cobb', 'attribute', 'gay', 'scheme', 'informationabout', 'bezel', 'sub', 'read', 'psi', 'bbs', 'mapping', 'nswc', 'fcc', 'proc', 'highest']
+['unusable', 'separately', 'italy', 'matt', 'ram', 'xh', 'bulb', 'critique', 'ibid', 'bike', 'paycheck', 'ia', 'cobb', 'broadcasting', 'orwell']
+['ibid', 'register', 'diverge', 'ram', 'ei', 'sceptical', 'theback', 'rtsg', 'occupier', 'fake', 'gay', 'nrizwt', 'inne', 'rush', 'maxtor']
+==============================
+topic diversity:0.4493333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6519201985822092, c_w2v:None, c_uci:-10.048547683454926, c_npmi:-0.3608218639060802
+mimno topic coherence:-216.3350448152556
+Epoch  21	Iter    1	Loss_D:-0.1038363	Loss_G:143.6313934	loss_E:0.0400949
+Epoch  21	Iter   11	Loss_D:-0.1028163	Loss_G:142.5251923	loss_E:0.0385097
+Epoch  21	Iter   21	Loss_D:-0.1025776	Loss_G:141.4223022	loss_E:0.0383635
+Epoch  22	Iter    1	Loss_D:-0.1024739	Loss_G:140.3244934	loss_E:0.0386996
+Epoch  22	Iter   11	Loss_D:-0.1037644	Loss_G:139.2311401	loss_E:0.0388012
+Epoch  22	Iter   21	Loss_D:-0.1002277	Loss_G:138.1411285	loss_E:0.0360866
+Epoch  23	Iter    1	Loss_D:-0.1013452	Loss_G:137.0559540	loss_E:0.0373579
+Epoch  23	Iter   11	Loss_D:-0.1033176	Loss_G:135.9767151	loss_E:0.0384179
+Epoch  23	Iter   21	Loss_D:-0.1026133	Loss_G:134.8997345	loss_E:0.0379571
+Epoch  24	Iter    1	Loss_D:-0.1037670	Loss_G:133.8287048	loss_E:0.0385886
+Epoch  24	Iter   11	Loss_D:-0.1022174	Loss_G:132.7605133	loss_E:0.0371566
+Epoch  24	Iter   21	Loss_D:-0.1029589	Loss_G:131.6977234	loss_E:0.0381946
+Epoch  25	Iter    1	Loss_D:-0.1045009	Loss_G:130.6386261	loss_E:0.0397967
+Epoch  25	Iter   11	Loss_D:-0.1026840	Loss_G:129.5845947	loss_E:0.0377051
+Epoch  25	Iter   21	Loss_D:-0.1041592	Loss_G:128.5351410	loss_E:0.0383167
+Epoch  26	Iter    1	Loss_D:-0.1037800	Loss_G:127.4891968	loss_E:0.0388914
+Epoch  26	Iter   11	Loss_D:-0.1035629	Loss_G:126.4469910	loss_E:0.0387802
+Epoch  26	Iter   21	Loss_D:-0.1033449	Loss_G:125.4105225	loss_E:0.0382107
+Epoch  27	Iter    1	Loss_D:-0.1044520	Loss_G:124.3773575	loss_E:0.0397915
+Epoch  27	Iter   11	Loss_D:-0.1038481	Loss_G:123.3494873	loss_E:0.0392710
+Epoch  27	Iter   21	Loss_D:-0.1019629	Loss_G:122.3250732	loss_E:0.0374494
+Epoch  28	Iter    1	Loss_D:-0.1042658	Loss_G:121.3053055	loss_E:0.0402567
+Epoch  28	Iter   11	Loss_D:-0.1037206	Loss_G:120.2907944	loss_E:0.0384689
+Epoch  28	Iter   21	Loss_D:-0.1039143	Loss_G:119.2801819	loss_E:0.0390414
+Epoch  29	Iter    1	Loss_D:-0.1020861	Loss_G:118.2733154	loss_E:0.0373221
+Epoch  29	Iter   11	Loss_D:-0.1042567	Loss_G:117.2710571	loss_E:0.0398714
+Epoch  29	Iter   21	Loss_D:-0.1057708	Loss_G:116.2742386	loss_E:0.0402856
+Epoch  30	Iter    1	Loss_D:-0.1039374	Loss_G:115.2814484	loss_E:0.0387592
+Epoch  30	Iter   11	Loss_D:-0.1031012	Loss_G:114.2908478	loss_E:0.0387545
+Epoch  30	Iter   21	Loss_D:-0.1042150	Loss_G:113.3064270	loss_E:0.0399376
+Epoch  30	Loss_D_avg:-0.0892763	Loss_G_avg:162.8101254	loss_E_avg:0.0348341
+['expert', 'mississippi', 'gnuplot', 'ahl', 'characterize', 'chemist', 'characteristic', 'shortcoming', 'attribute', 'honour', 'andafter', 'uh', 'neon', 'mds', 'statue']
+['appointment', 'cache', 'joke', 'hike', 'anatolia', 'hebrew', 'struggle', 'characterize', 'artillery', 'mem', 'walsh', 'mapping', 'mds', 'pegasus', 'iran']
+['hike', 'gnuplot', 'otherpeople', 'ihope', 'holding', 'intelligent', 'mississippi', 'empirical', 'andafter', 'xputimage', 'pleasesend', 'school', 'berkeley', 'conviction', 'youwant']
+['ibid', 'diverge', 'rider', 'psu', 'idiotic', 'boring', 'indiscriminately', 'double', 'hound', 'duo', 'mug', 'soviet', 'butts', 'corporation', 'massage']
+['alto', 'inerrantist', 'hike', 'robust', 'andafter', 'loader', 'triumph', 'slowly', 'totalitarian', 'ihope', 'lotof', 'laker', 'regard', 'unbiased', 'isaiah']
+['hereto', 'fn', 'isaiah', 'fast', 'gurion', 'sydney', 'herbert', 'frankly', 'prophesy', 'organ', 'critique', 'ram', 'loader', 'otherpeople', 'andafter']
+['profit', 'enter', 'organic', 'handing', 'prophesy', 'rush', 'fn', 'aprogram', 'reinforce', 'corporation', 'um', 'step', 'anyoneknow', 'lotof', 'nswc']
+['bea', 'clue', 'intelligent', 'unassisted', 'tax', 'bow', 'sydney', 'ihope', 'rabin', 'robust', 'necessary', 'workstation', 'cypherpunk', 'responce', 'useto']
+['adam', 'royalty', 'nswc', 'july', 'utah', 'barr', 'rally', 'andafter', 'renderman', 'intelligent', 'kong', 'class', 'tgv', 'characterize', 'inmy']
+['andafter', 'prophesy', 'cancel', 'come', 'cm', 'nt', 'buck', 'damascus', 'correctly', 'hike', 'infest', 'xwd', 'hail', 'fishing', 'oblige']
+['ram', 'indiscriminately', 'whichyou', 'maxtor', 'zoom', 'pegasus', 'ibid', 'gay', 'hereto', 'attribute', 'spur', 'duplex', 'extraordinary', 'critique', 'branch']
+['gnuplot', 'disbelieve', 'timmon', 'rider', 'empire', 'misconduct', 'cu', 'bo', 'noon', 'possibly', 'boring', 'harry', 'sanderson', 'import', 'victoria']
+['rider', 'youget', 'democrat', 'conviction', 'cm', 'ky', 'prentice', 'spiritually', 'withyou', 'eece', 'fred', 'bedroom', 'andnot', 'prophesy', 'cu']
+['jim', 'lar', 'mystery', 'walt', 'feedback', 'overpay', 'retired', 'sanderson', 'eugene', 'responsiblefor', 'necessary', 'spelling', 'tactic', 'hike', 'useto']
+['gnuplot', 'rider', 'xresource', 'xwd', 'prophesy', 'anxious', 'appointment', 'militarily', 'artillery', 'chemist', 'mds', 'isaiah', 'nt', 'alex', 'independant']
+['qur', 'andafter', 'pilate', 'mythical', 'mds', 'branch', 'cu', 'sub', 'pegasus', 'xsession', 'uh', 'opening', 'hike', 'mem', 'mississippi']
+['butler', 'mushroom', 'appointment', 'amusing', 'inf', 'scheme', 'misunderstanding', 'jim', 'ounce', 'expert', 'mount', 'smartdrv', 'privately', 'listening', 'lsd']
+['atlanta', 'paycheck', 'proud', 'select', 'responsiblefor', 'extraordinary', 'needless', 'dice', 'cor', 'rebuttal', 'sydney', 'erase', 'manuscript', 'membersof', 'motorcycle']
+['ri', 'isaiah', 'rob', 'anniversary', 'cu', 'gurion', 'intelligent', 'sayingthat', 'fu', 'dayton', 'timeof', 'continually', 'sura', 'characterize', 'davis']
+['unbiased', 'aprogram', 'needless', 'ofother', 'debunk', 'nswc', 'alabama', 'mds', 'clueless', 'dnet', 'tactic', 'compare', 'adam', 'herbert', 'damascus']
+['intelligent', 'hereto', 'sydney', 'theater', 'grab', 'ram', 'continually', 'downward', 'cairo', 'wj', 'mds', 'perceive', 'causal', 'ordo', 'anderson']
+['gravitational', 'sydney', 'railway', 'oneof', 'grab', 'anniversary', 'totalitarian', 'airline', 'nh', 'questionnaire', 'line', 'dick', 'table', 'kong', 'gurion']
+['andafter', 'chase', 'serialnumber', 'desert', 'dependence', 'newsgroup', 'prophesy', 'wrapper', 'scheme', 'todod', 'tget', 'awake', 'impedance', 'hike', 'atlanta']
+['ambition', 'damascus', 'zc', 'fast', 'tokyo', 'chemist', 'rider', 'truetype', 'afew', 'hirama', 'algebraic', 'timmon', 'addictive', 'wanna', 'clean']
+['gf', 'aprogram', 'theway', 'twisted', 'papa', 'mapping', 'hu', 'anytime', 'inquiry', 'mutlu', 'imake', 'rich', 'idiotic', 'extraordinary', 'endless']
+['todod', 'thefirst', 'boring', 'theback', 'register', 'truetype', 'extraordinary', 'indiscriminately', 'rush', 'rabin', 'x.', 'elitist', 'step', 'corps', 'appointment']
+['regard', 'one', 'aesthetic', 'database', 'conviction', 'rpi', 'digital', 'nswc', 'hike', 'slowly', 'sundin', 'censorship', 'attribute', 'replay', 'optimal']
+['independant', 'kong', 'pegasus', 'atlanta', 'coup', 'expert', 'interaction', 'useto', 'paycheck', 'step', 'attribute', 'eloquently', 'wannabe', 'erase', 'mutlu']
+['attribute', 'bomb', 'diverge', 'um', 'zoom', 'hike', 'mapping', 'protective', 'rebuttal', 'recourse', 'gay', 'regard', 'gnuplot', 'rear', 'something']
+['intelligent', 'sydney', 'innings', 'butler', 'remark', 'exclusive', 'minded', 'isuspect', 'aprogram', 'aclu', 'x.', 'unusable', 'gurion', 'regard', 'harbor']
+['butler', 'truetype', 'grab', 'xresource', 'mapping', 'todod', 'occupier', 'x.', 'seemsthat', 'continue', 'infest', 'circular', 'bbc', 'agent', 'hike']
+['cache', 'unusable', 'attribute', 'prohibit', 'x.', 'whenthey', 'todod', 'iran', 'distinction', 'fuse', 'diverge', 'isaiah', 'mutlu', 'report', 'disturbing']
+['hike', 'anderson', 'step', 'theymust', 'pn', 'concurrently', 'guy', 'privately', 'prophet', 'ina', 'characteristic', 'andafter', 'takethe', 'rail', 'indiscriminately']
+['seemsthat', 'qur', 'handing', 'shouldnot', 'realtime', 'fp', 'perceive', 'intelligent', 'rush', 'vat', 'ariane', 'wrapper', 'heck', 'corps', 'twisted']
+['characteristic', 'tocommit', 'class', 'conviction', 'fu', 'invite', 'arrive', 'duplex', 'andafter', 'todod', 'racer', 'descent', 'emu', 'xwd', 'feedback']
+['cache', 'atlanta', 'erase', 'unusable', 'notbe', 'cancer', 'sticker', 'th', 'takethe', 'willtake', 'bezel', 'wheni', 'occupier', 'coax', 'damascus']
+['x.', 'grandiose', 'stark', 'iran', 'militarily', 'step', 'cache', 'butler', 'methink', 'appointment', 'need', 'extraordinary', 'careful', 'andafter', 'ram']
+['appointment', 'qur', 'perceive', 'cypherpunk', 'todod', 'willtake', 'slowly', 'truetype', 'hike', 'receipt', 'few', 'atlanta', 'settle', 'coax', 'forsale']
+['atlanta', 'modern', 'ram', 'erase', 'subordinate', 'goddard', 'humour', 'dependence', 'prophesy', 'perceive', 'advantage', 'bulb', 'jim', 'misunderstanding', 'cylinder']
+['intelligent', 'sized', 'modify', 'retired', 'seminar', 'ihope', 'analysis', 'yogurt', 'capitalization', 'isaiah', 'railway', 'texture', 'herbert', 'carriage', 'appointment']
+['hike', 'rider', 'rocky', 'clean', 'militarily', 'null', 'characteristic', 'pwu', 'iici', 'disgust', 'sni', 'january', 'treasurer', 'aerial', 'eece']
+['nt', 'lq', 'somalia', 'damascus', 'theway', 'gay', 'ph', 'surrogate', 'paycheck', 'excerpt', 'muck', 'alarm', 'rider', 'intolerance', 'wail']
+['database', 'butler', 'thepoint', 'duo', 'andafter', 'gay', 'feasibility', 'gigabyte', 'bike', 'intelligent', 'maxtor', 'ft', 'cu', 'characteristic', 'suddenly']
+['ounce', 'twisted', 'chase', 'elitist', 'rider', 'hk', 'damascus', 'buck', 'mds', 'corner', 'regard', 'ky', 'competency', 'handing', 'branch']
+['berkeley', 'unusable', 'discretion', 'intreste', 'isaiah', 'exclusively', 'clue', 'andafter', 'diverge', 'thearab', 'nt', 'one', 'silicon', 'schematic', 'coffee']
+['elitist', 'erase', 'ibid', 'alto', 'inf', 'coax', 'gnuplot', 'ucla', 'aesthetic', 'needless', 'operator', 'exclusively', 'sydney', 'hiswife', 'corner']
+['theway', 'grab', 'loader', 'opening', 'gnuplot', 'disbelieve', 'ibid', 'conviction', 'rally', 'timmon', 'ul', 'radioactive', 'afew', 'aerial', 'politically']
+['appointment', 'gurion', 'sakic', 'atlanta', 'isaiah', 'mug', 'organ', 'intelligent', 'nuclear', 'hike', 'register', 'mds', 'setting', 'reilly', 'theater']
+['overtime', 'fred', 'specific', 'nswc', 'ivy', 'rob', 'truth', 'andreychuk', 'toanother', 'ibid', 'consist', 'cousineau', 'ev', 'mds', 'coffin']
+['nswc', 'andafter', 'sura', 'cu', 'pegasus', 'trickle', 'hike', 'specific', 'intelligent', 'describe', 'paycheck', 'transform', 'surveillance', 'mapping', 'bezel']
+['theological', 'herbert', 'eagerly', 'animal', 'slaught', 'scale', 'careful', 'aspossible', 'isaiah', 'transform', 'alarm', 'perceive', 'harmful', 'railway', 'gnuplot']
+['intelligent', 'twisted', 'erase', 'debunk', 'cu', 'butler', 'infest', 'intervene', 'fn', 'democrat', 'cassette', 'brief', 'continually', 'sounding', 'timmon']
+['ga', 'inf', 'welfare', 'twisted', 'geological', 'bezel', 'andafter', 'krillean', 'prophesy', 'originally', 'pict', 'nuclear', 'downward', 'frustration', 'feasibility']
+['grandiose', 'vc', 'feedback', 'resurrection', 'mapping', 'fn', 'offering', 'pasteur', 'andno', 'afternoon', 'nwk', 'appointment', 'ounce', 'widest', 'radioactive']
+['anniversary', 'hike', 'branch', 'torment', 'ram', 'whenthey', 'theback', 'pilate', 'aa', 'frost', 'rear', 'voter', 'idiotic', 'newman', 'rider']
+['prophesy', 'soviet', 'feedback', 'palmer', 'buck', 'gay', 'brett', 'andafter', 'january', 'bike', 'uh', 'wmm', 'interaction', 'ordo', 'ox']
+['conviction', 'apple', 'ina', 'rebuttal', 'ihope', 'tourist', 'yogurt', 'feature', 'algebraic', 'flow', 'loudspeaker', 'responce', 'atlanta', 'customizable', 'sii']
+['class', 'nt', 'one', 'takethe', 'herbert', 'rpi', 'pegasus', 'andreychuk', 'boston', 'mall', 'rodney', 'overrated', 'mythical', 'sydney', 'andafter']
+['bo', 'butler', 'east', 'gay', 'mds', 'shamir', 'cobb', 'berkeley', 'relevance', 'unbiased', 'diverge', 'rob', 'conviction', 'sanderson', 'eece']
+['cu', 'cobb', 'cor', 'mississippi', 'hike', 'krillean', 'ryn', 'tranny', 'trample', 'brent', 'desert', 'sanderson', 'aprogram', 'slight', 'kirby']
+['appointment', 'sob', 'characterize', 'exclusively', 'animal', 'afternoon', 'withyou', 'erase', 'capitalization', 'anniversary', 'ccw', 'unassisted', 'xs', 'spline', 'taxi']
+['hike', 'nt', 'necessarily', 'paraphrase', 'serialnumber', 'specific', 'replay', 'datum', 'sloan', 'sayingthat', 'tocommit', 'ram', 'afternoon', 'rpi', 'intreste']
+['andafter', 'lar', 'orange', 'theological', 'perceive', 'aspossible', 'todod', 'afternoon', 'ri', 'francois', 'isaiah', 'politically', 'takethe', 'frost', 'butif']
+['hu', 'twisted', 'grab', 'intelligent', 'timmon', 'andafter', 'clue', 'newman', 'duplex', 'walsh', 'london', 'scheme', 'charter', 'g', 'prophesy']
+['wz', 'corporation', 'atlanta', 'unusable', 'jim', 'branch', 'serialnumber', 'discrete', 'interception', 'kong', 'buck', 'digital', 'duo', 'theway', 'survivor']
+['sydney', 'july', 'scheme', 'herbert', 'mds', 'bezel', 'like', 'oneof', 'amateur', 'berkeley', 'correctly', 'cu', 'fred', 'andafter', 'workstation']
+['todod', 'mapping', 'privately', 'bitmap', 'ncr', 'hereto', 'afternoon', 'branch', 'rider', 'mds', 'hose', 'sincei', 'unassisted', 'digital', 'lar']
+['loader', 'railway', 'cu', 'jhu', 'goto', 'rich', 'slight', 'makeit', 'diverge', 'militarily', 'flow', 'powerpc', 'ina', 'clue', 'distruction']
+['ccw', 'damascus', 'attribute', 'isjust', 'gnuplot', 'conviction', 'ibid', 'table', 'cultist', 'fouri', 'broadcasting', 'clean', 'paycheck', 'oblige', 'twisted']
+['today', 'database', 'brief', 'grab', 'seemsthat', 'mutlu', 'dsp', 'democrat', 'ariane', 'concurrently', 'massage', 'workstation', 'select', 'soft', 'north']
+['hereto', 'butler', 'fast', 'whichever', 'isaiah', 'nswc', 'unusable', 'pleasesend', 'grab', 'sanderson', 'buck', 'isaid', 'wrapper', 'indiscriminately', 'lds']
+['nt', 'sydney', 'jim', 'andafter', 'epson', 'militarily', 'disabled', 'characteristic', 'mds', 'atlanta', 'todod', 'grp', 'ram', 'neon', 'mime']
+['timmon', 'justice', 'dribble', 'gay', 'dsp', 'sticker', 'ram', 'twisted', 'buck', 'mystery', 'ibid', 'workstation', 'originally', 'elaborate', 'debatable']
+['mapping', 'reagan', 'conviction', 'sanderson', 'slight', 'aprogram', 'anderson', 'event', 'indicate', 'cobb', 'hereto', 'hose', 'originally', 'athen', 'repent']
+['militarily', 'scheme', 'north', 'profit', 'lar', 'treasurer', 'inquiry', 'gnuplot', 'inerrantist', 'broadcasting', 'inf', 'cu', 'ina', 'theway', 'occupier']
+['cobb', 'intelligent', 'fake', 'tranny', 'hike', 'sanderson', 'useto', 'pearson', 'inmy', 'vw', 'resist', 'dsp', 'vat', 'mug', 'isno']
+['artillery', 'whatis', 'militarily', 'bezel', 'ibm', 'erase', 'railway', 'unusable', 'hike', 'intelligent', 'trickle', 'bulk', 'overpay', 'sydney', 'inmy']
+['aprogram', 'concurrently', 'pneumonia', 'hound', 'hereto', 'fancy', 'teemu', 'attribute', 'ph', 'cassette', 'privately', 'fission', 'listening', 'molestation', 'andafter']
+['occupier', 'hereto', 'herbert', 'socialist', 'gnuplot', 'aprogram', 'cache', 'worthwhile', 'berkeley', 'lar', 'psi', 'chemist', 'careful', 'andafter', 'ucla']
+['unusable', 'characteristic', 'bow', 'appointment', 'specifie', 'suitable', 'isaiah', 'hike', 'student', 'east', 'theapplication', 'penny', 'wrongly', 'jumbo', 'character']
+['andafter', 'north', 'x.', 'sanderson', 'aclu', 'workstation', 'rpi', 'aprogram', 'demonstrator', 'charcoal', 'chemist', 'xsession', 'psi', 'dribble', 'waco']
+['specific', 'imake', 'nt', 'cm', 'perceive', 'prohibit', 'xputimage', 'describe', 'class', 'nr', 'sakic', 'chase', 'rebuttal', 'x.', 'pearson']
+['cu', 'characteristic', 'specific', 'andafter', 'vat', 'intelligent', 'ibid', 'inquiry', 'anniversary', 'counting', 'flower', 'vmk', 'coffee', 'cramp', 'strangely']
+['mississippi', 'noon', 'nt', 'gnuplot', 'autograph', 'andafter', 'militarily', 'damascus', 'rebuttal', 'sic', 'duo', 'brent', 'ahhh', 'unaware', 'responsiblefor']
+['gay', 'silicon', 'chase', 'possible', 'rich', 'oneof', 'francois', 'gnuplot', 'unbiased', 'continued', 'bracket', 'characteristic', 'everybody', 'hike', 'london']
+['jim', 'hereto', 'gravitational', 'mds', 'like', 'stomp', 'perceive', 'ram', 'pastor', 'gay', 'hudson', 'lq', 'persuasive', 'expert', 'day']
+['statue', 'wail', 'habit', 'tq', 'overtime', 'careful', 'andafter', 'baud', 'butler', 'constantly', 'sun', 'commonly', 'ofother', 'nh', 'serialnumber']
+['interpreter', 'roughly', 'mds', 'herbert', 'conclusion', 'hart', 'intelligent', 'ram', 'dissolve', 'sob', 'montana', 'qur', 'hereto', 'mug', 'xsession']
+['class', 'annihilate', 'cu', 'railway', 'todod', 'ounce', 'aprogram', 'dayton', 'mds', 'import', 'norris', 'improve', 'erase', 'gay', 'weitek']
+['gurion', 'happen', 'sixteen', 'gay', 'intelligent', 'mds', 'wail', 'andnot', 'uo', 'veracity', 'fallacy', 'aa', 'ph', 'seriously', 'break']
+['ihope', 'bike', 'intelligent', 'isaiah', 'retired', 'conviction', 'one', 'paycheck', 'zoom', 'cobb', 'broadcasting', 'chemist', 'maxtor', 'directional', 'highest']
+['hike', 'partial', 'intestine', 'expert', 'laker', 'someonewho', 'inquiry', 'unusable', 'cu', 'biological', 'algebraic', 'havecome', 'connector', 'herbert', 'east']
+['todod', 'vaginal', 'gnuplot', 'coax', 'charcoal', 'holding', 'useto', 'mug', 'annihilate', 'prophesy', 'trillion', 'anatolia', 'database', 'andafter', 'asmall']
+['intelligent', 'erase', 'atlanta', 'break', 'gurion', 'eece', 'seal', 'andall', 'isaiah', 'cb', 'collar', 'qur', 'wj', 'coffee', 'bow']
+['gay', 'artillery', 'scheme', 'colonial', 'teemu', 'toolkit', 'automatically', 'distinct', 'corpus', 'g', 'school', 'unicorn', 'nswc', 'rider', 'noon']
+['pegasus', 'nt', 'ethically', 'zc', 'aprogram', 'debatable', 'thatwhile', 'palmer', 'elite', 'hike', 'aesthetic', 'intelligent', 'impossible', 'sic', 'buck']
+['specific', 'isaiah', 'torment', 'representation', 'sic', 'sii', 'whichyou', 'bomb', 'attribute', 'struggle', 'statue', 'buck', 'hawaii', 'hail', 'intelligent']
+['attribute', 'scheme', 'cobb', 'informationabout', 'gay', 'mapping', 'bezel', 'psi', 'anytime', 'democrat', 'highest', 'nswc', 'bbs', 'timmon', 'proc']
+['unusable', 'separately', 'italy', 'bulb', 'xh', 'critique', 'ram', 'ibid', 'bike', 'paycheck', 'matt', 'broadcasting', 'cobb', 'attribute', 'ia']
+['ibid', 'register', 'diverge', 'ram', 'ei', 'theback', 'sceptical', 'occupier', 'residue', 'rtsg', 'pim', 'nrizwt', 'inne', 'fake', 'maxtor']
+==============================
+topic diversity:0.42533333333333334
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6545293555952958, c_w2v:None, c_uci:-10.018898359987892, c_npmi:-0.35983148941043963
+mimno topic coherence:-201.1326780120601
+Epoch  31	Iter    1	Loss_D:-0.1044411	Loss_G:112.3269653	loss_E:0.0394969
+Epoch  31	Iter   11	Loss_D:-0.1039110	Loss_G:111.3514557	loss_E:0.0390968
+Epoch  31	Iter   21	Loss_D:-0.1023951	Loss_G:110.3793793	loss_E:0.0377614
+Epoch  32	Iter    1	Loss_D:-0.1030224	Loss_G:109.4125824	loss_E:0.0384556
+Epoch  32	Iter   11	Loss_D:-0.1032970	Loss_G:108.4489212	loss_E:0.0391521
+Epoch  32	Iter   21	Loss_D:-0.1036829	Loss_G:107.4915466	loss_E:0.0391559
+Epoch  33	Iter    1	Loss_D:-0.1032668	Loss_G:106.5372772	loss_E:0.0388536
+Epoch  33	Iter   11	Loss_D:-0.1043631	Loss_G:105.5886002	loss_E:0.0391196
+Epoch  33	Iter   21	Loss_D:-0.1036163	Loss_G:104.6427460	loss_E:0.0386689
+Epoch  34	Iter    1	Loss_D:-0.1027829	Loss_G:103.7023849	loss_E:0.0379576
+Epoch  34	Iter   11	Loss_D:-0.1020571	Loss_G:102.7648926	loss_E:0.0374430
+Epoch  34	Iter   21	Loss_D:-0.1043043	Loss_G:101.8328018	loss_E:0.0398249
+Epoch  35	Iter    1	Loss_D:-0.1027030	Loss_G:100.9043655	loss_E:0.0387554
+Epoch  35	Iter   11	Loss_D:-0.1037752	Loss_G:99.9818497	loss_E:0.0393921
+Epoch  35	Iter   21	Loss_D:-0.1028733	Loss_G:99.0626297	loss_E:0.0381891
+Epoch  36	Iter    1	Loss_D:-0.1017649	Loss_G:98.1475220	loss_E:0.0377677
+Epoch  36	Iter   11	Loss_D:-0.1029624	Loss_G:97.2366486	loss_E:0.0389837
+Epoch  36	Iter   21	Loss_D:-0.1049529	Loss_G:96.3315506	loss_E:0.0407750
+Epoch  37	Iter    1	Loss_D:-0.1034865	Loss_G:95.4294434	loss_E:0.0395538
+Epoch  37	Iter   11	Loss_D:-0.1029482	Loss_G:94.5317535	loss_E:0.0396207
+Epoch  37	Iter   21	Loss_D:-0.1027627	Loss_G:93.6393280	loss_E:0.0388209
+Epoch  38	Iter    1	Loss_D:-0.1041910	Loss_G:92.7511444	loss_E:0.0407229
+Epoch  38	Iter   11	Loss_D:-0.1054591	Loss_G:91.8661804	loss_E:0.0421516
+Epoch  38	Iter   21	Loss_D:-0.1047559	Loss_G:90.9867172	loss_E:0.0414391
+Epoch  39	Iter    1	Loss_D:-0.1028877	Loss_G:90.1111374	loss_E:0.0398244
+Epoch  39	Iter   11	Loss_D:-0.1035115	Loss_G:89.2408905	loss_E:0.0402238
+Epoch  39	Iter   21	Loss_D:-0.1036911	Loss_G:88.3736115	loss_E:0.0406391
+Epoch  40	Iter    1	Loss_D:-0.1046572	Loss_G:87.5120850	loss_E:0.0412968
+Epoch  40	Iter   11	Loss_D:-0.1050715	Loss_G:86.6529388	loss_E:0.0424832
+Epoch  40	Iter   21	Loss_D:-0.1025605	Loss_G:85.7999039	loss_E:0.0401280
+Epoch  40	Loss_D_avg:-0.0928419	Loss_G_avg:146.7995878	loss_E_avg:0.0360068
+['gnuplot', 'expert', 'mississippi', 'characterize', 'chemist', 'ahl', 'andafter', 'attribute', 'shortcoming', 'characteristic', 'honour', 'statue', 'uh', 'rider', 'fred']
+['appointment', 'cache', 'hike', 'struggle', 'mem', 'characterize', 'joke', 'pegasus', 'iran', 'mapping', 'hebrew', 'conclusion', 'militarily', 'todod', 'artillery']
+['gnuplot', 'hike', 'holding', 'mississippi', 'ihope', 'andafter', 'otherpeople', 'conviction', 'intelligent', 'xputimage', 'unaware', 'pleasesend', 'occupier', 'paycheck', 'membersof']
+['ibid', 'idiotic', 'psu', 'rider', 'boring', 'indiscriminately', 'diverge', 'double', 'hound', 'duo', 'mug', 'ramble', 'sydney', 'soviet', 'massage']
+['alto', 'robust', 'hike', 'inerrantist', 'andafter', 'triumph', 'loader', 'slowly', 'totalitarian', 'isaiah', 'ihope', 'gravitational', 'unbiased', 'regard', 'laker']
+['hereto', 'fn', 'isaiah', 'sydney', 'fast', 'gurion', 'prophesy', 'critique', 'andafter', 'loader', 'frankly', 'jumbo', 'ram', 'important', 'tracer']
+['profit', 'enter', 'handing', 'prophesy', 'corporation', 'um', 'organic', 'newsgroup', 'sydney', 'nswc', 'gnuplot', 'aprogram', 'isaiah', 'anyoneknow', 'reinforce']
+['clue', 'intelligent', 'bea', 'bow', 'unassisted', 'sydney', 'rabin', 'ihope', 'tax', 'cypherpunk', 'robust', 'workstation', 'subordinate', 'step', 'conviction']
+['adam', 'royalty', 'andafter', 'nswc', 'rally', 'utah', 'july', 'class', 'intelligent', 'renderman', 'barr', 'characterize', 'hike', 'originally', 'inmy']
+['andafter', 'prophesy', 'come', 'cancel', 'buck', 'cm', 'nt', 'damascus', 'oblige', 'hike', 'correctly', 'cache', 'infest', 'transform', 'hail']
+['ram', 'maxtor', 'zoom', 'indiscriminately', 'whichyou', 'pegasus', 'ibid', 'discretion', 'attribute', 'alarm', 'gay', 'andafter', 'kong', 'hu', 'critique']
+['gnuplot', 'rider', 'disbelieve', 'cu', 'empire', 'timmon', 'bo', 'andafter', 'scheme', 'misconduct', 'boring', 'noon', 'bethlehem', 'import', 'victoria']
+['rider', 'conviction', 'democrat', 'spiritually', 'prentice', 'youget', 'bedroom', 'ky', 'cm', 'fred', 'cu', 'eece', 'andafter', 'withyou', 'nt']
+['jim', 'lar', 'overpay', 'mutual', 'feedback', 'intolerance', 'prophesy', 'walt', 'sanderson', 'mystery', 'useto', 'get', 'responsiblefor', 'retired', 'spelling']
+['gnuplot', 'rider', 'militarily', 'prophesy', 'anxious', 'xresource', 'xwd', 'chemist', 'appointment', 'isaiah', 'independant', 'nt', 'mds', 'uy', 'alex']
+['qur', 'andafter', 'cu', 'mythical', 'branch', 'pilate', 'mds', 'mississippi', 'mem', 'necessary', 'discretion', 'hike', 'motorcycle', 'pegasus', 'xsession']
+['butler', 'appointment', 'mushroom', 'amusing', 'inf', 'scheme', 'misunderstanding', 'jim', 'ounce', 'expert', 'protective', 'privately', 'smartdrv', 'listening', 'asia']
+['atlanta', 'paycheck', 'responsiblefor', 'proud', 'cor', 'extraordinary', 'select', 'gmc', 'erase', 'rebuttal', 'needless', 'dice', 'membersof', 'sydney', 'manuscript']
+['ri', 'rob', 'isaiah', 'cu', 'anniversary', 'dayton', 'sura', 'gurion', 'sayingthat', 'intelligent', 'characterize', 'fu', 'continually', 'theirbelief', 'andafter']
+['unbiased', 'needless', 'debunk', 'aprogram', 'nswc', 'correctly', 'ofother', 'dnet', 'mds', 'butler', 'andafter', 'alabama', 'anniversary', 'tactic', 'gnuplot']
+['intelligent', 'hereto', 'sydney', 'grab', 'theater', 'cairo', 'anderson', 'ram', 'continually', 'perceive', 'wj', 'branch', 'causal', 'asmall', 'anniversary']
+['gravitational', 'railway', 'sydney', 'anniversary', 'grab', 'oneof', 'totalitarian', 'nh', 'table', 'cairo', 'gurion', 'qz', 'dick', 'iftccu', 'butler']
+['andafter', 'chase', 'newsgroup', 'scheme', 'serialnumber', 'wrapper', 'hike', 'impedance', 'desert', 'prophesy', 'dependence', 'cypherpunk', 'awake', 'atlanta', 'todod']
+['ambition', 'damascus', 'fast', 'zc', 'rider', 'wanna', 'yogurt', 'tokyo', 'indicate', 'chemist', 'conviction', 'clean', 'nswc', 'hirama', 'slaughter']
+['twisted', 'theway', 'mapping', 'gf', 'hu', 'imake', 'occupation', 'papa', 'ri', 'aprogram', 'cycle', 'rich', 'extraordinary', 'democrat', 'idiotic']
+['todod', 'boring', 'thefirst', 'theback', 'indiscriminately', 'rabin', 'register', 'rush', 'extraordinary', 'elitist', 'x.', 'expert', 'corps', 'step', 'appointment']
+['regard', 'one', 'nswc', 'aesthetic', 'digital', 'conviction', 'database', 'censorship', 'rpi', 'slowly', 'statue', 'hike', 'grab', 'sundin', 'class']
+['independant', 'atlanta', 'kong', 'pegasus', 'expert', 'step', 'useto', 'paycheck', 'andafter', 'coup', 'erase', 'get', 'interaction', 'debatable', 'thought']
+['attribute', 'hike', 'mapping', 'um', 'protective', 'gnuplot', 'zoom', 'bomb', 'diverge', 'rebuttal', 'disturbing', 'recourse', 'gay', 'sydney', 'grab']
+['intelligent', 'sydney', 'butler', 'innings', 'remark', 'minded', 'gurion', 'exclusive', 'aprogram', 'unusable', 'isuspect', 'aclu', 'atlanta', 'lar', 'x.']
+['butler', 'mapping', 'grab', 'occupier', 'xresource', 'seemsthat', 'truetype', 'bbc', 'continue', 'todod', 'infest', 'bolt', 'x.', 'circular', 'expert']
+['cache', 'prohibit', 'unusable', 'whenthey', 'iran', 'x.', 'attribute', 'todod', 'isaiah', 'fuse', 'disturbing', 'democrat', 'distinction', 'wine', 'palmer']
+['hike', 'step', 'anderson', 'privately', 'andafter', 'sydney', 'concurrently', 'theymust', 'characteristic', 'indiscriminately', 'ina', 'rail', 'pn', 'slew', 'hereto']
+['seemsthat', 'qur', 'realtime', 'fp', 'handing', 'shouldnot', 'wrapper', 'twisted', 'rush', 'perceive', 'heck', 'intelligent', 'clue', 'corps', 'vat']
+['characteristic', 'class', 'tocommit', 'conviction', 'andafter', 'fu', 'feedback', 'nuclear', 'invite', 'expert', 'descent', 'duplex', 'gmc', 'todod', 'inf']
+['cache', 'erase', 'unusable', 'atlanta', 'notbe', 'sticker', 'cancer', 'th', 'whohad', 'important', 'occupier', 'takethe', 'random', 'intelligent', 'willtake']
+['grandiose', 'stark', 'x.', 'militarily', 'cache', 'step', 'andafter', 'iran', 'butler', 'methink', 'careful', 'appointment', 'ram', 'extraordinary', 'need']
+['appointment', 'cypherpunk', 'qur', 'perceive', 'todod', 'slowly', 'atlanta', 'expert', 'coax', 'receipt', 'few', 'residue', 'endif', 'rider', 'cache']
+['atlanta', 'erase', 'modern', 'ram', 'subordinate', 'goddard', 'advantage', 'prophesy', 'perceive', 'humour', 'misunderstanding', 'dependence', 'railway', 'incur', 'jim']
+['intelligent', 'seminar', 'yogurt', 'sized', 'retired', 'modify', 'isaiah', 'ihope', 'wanna', 'twisted', 'capitalization', 'sucker', 'andafter', 'analysis', 'railway']
+['hike', 'rider', 'clean', 'characteristic', 'disgust', 'militarily', 'rocky', 'sni', 'null', 'twisted', 'railway', 'treasurer', 'endif', 'aerial', 'brief']
+['lq', 'somalia', 'nt', 'ph', 'paycheck', 'damascus', 'theway', 'muck', 'gay', 'surrogate', 'excerpt', 'intolerance', 'alarm', 'rider', 'hike']
+['andafter', 'butler', 'thepoint', 'database', 'duo', 'characteristic', 'ft', 'bike', 'gay', 'feasibility', 'intelligent', 'gigabyte', 'maxtor', 'cu', 'anniversary']
+['twisted', 'ounce', 'rider', 'elitist', 'damascus', 'buck', 'corner', 'chase', 'branch', 'regard', 'hk', 'mds', 'ky', 'taxi', 'iran']
+['berkeley', 'unusable', 'andafter', 'clue', 'intreste', 'isaiah', 'nt', 'thearab', 'discretion', 'tylenol', 'exclusively', 'class', 'coffee', 'anniversary', 'rob']
+['erase', 'elitist', 'gnuplot', 'inf', 'ibid', 'ucla', 'coax', 'alto', 'operator', 'needless', 'sydney', 'corner', 'toplay', 'g', 'exclusively']
+['theway', 'grab', 'loader', 'opening', 'gnuplot', 'conviction', 'ibid', 'disbelieve', 'lar', 'ul', 'rally', 'timmon', 'politically', 'radioactive', 'mapping']
+['appointment', 'gurion', 'sakic', 'isaiah', 'intelligent', 'atlanta', 'mug', 'tucson', 'register', 'nuclear', 'setting', 'welfare', 'scheme', 'censorship', 'theater']
+['overtime', 'rob', 'specific', 'nswc', 'fred', 'ivy', 'ibid', 'coffin', 'andreychuk', 'occupier', 'cousineau', 'anniversary', 'habit', 'ev', 'toanother']
+['nswc', 'andafter', 'sura', 'cu', 'pegasus', 'trickle', 'describe', 'specific', 'paycheck', 'mapping', 'intelligent', 'hike', 'transform', 'collar', 'organize']
+['theological', 'careful', 'isaiah', 'eagerly', 'slaught', 'transform', 'scale', 'aspossible', 'herbert', 'alarm', 'animal', 'harmful', 'gnuplot', 'mem', 'canseco']
+['intelligent', 'debunk', 'twisted', 'erase', 'infest', 'butler', 'fn', 'cu', 'democrat', 'corps', 'rich', 'cassette', 'geological', 'iivx', 'brief']
+['inf', 'ga', 'welfare', 'twisted', 'andafter', 'geological', 'krillean', 'prophesy', 'bezel', 'downward', 'originally', 'slight', 'rebuttal', 'intelligent', 'nuclear']
+['grandiose', 'vc', 'feedback', 'resurrection', 'mapping', 'widest', 'pasteur', 'afternoon', 'ofa', 'todod', 'uy', 'fn', 'nwk', 'offering', 'mds']
+['hike', 'anniversary', 'torment', 'branch', 'ram', 'whenthey', 'frost', 'voter', 'theback', 'pilate', 'newman', 'compassionate', 'rider', 'punishable', 'aa']
+['prophesy', 'feedback', 'palmer', 'soviet', 'andafter', 'january', 'ordo', 'dayton', 'gay', 'brett', 'bike', 'buck', 'gnuplot', 'ox', 'rebuttal']
+['conviction', 'rebuttal', 'yogurt', 'apple', 'tourist', 'ihope', 'ina', 'todod', 'ucla', 'toolkit', 'gnuplot', 'flow', 'feature', 'cache', 'algebraic']
+['class', 'nt', 'pegasus', 'one', 'takethe', 'rpi', 'boston', 'andafter', 'andreychuk', 'overrated', 'rodney', 'sydney', 'mall', 'herbert', 'zoom']
+['bo', 'butler', 'mds', 'gay', 'rob', 'cobb', 'unbiased', 'east', 'conviction', 'berkeley', 'shamir', 'sanderson', 'relevance', 'lar', 'prof']
+['cu', 'hike', 'cor', 'mississippi', 'tranny', 'ryn', 'cobb', 'slight', 'brent', 'underlie', 'privately', 'hereto', 'tee', 'specifie', 'sanderson']
+['appointment', 'sob', 'characterize', 'animal', 'exclusively', 'afternoon', 'erase', 'withyou', 'unassisted', 'anniversary', 'ccw', 'capitalization', 'twisted', 'sydney', 'spline']
+['nt', 'hike', 'paraphrase', 'serialnumber', 'necessarily', 'specific', 'datum', 'tocommit', 'replay', 'infest', 'gnuplot', 'intreste', 'expert', 'sloan', 'rpi']
+['andafter', 'lar', 'perceive', 'theological', 'ri', 'politically', 'orange', 'todod', 'francois', 'isaiah', 'frost', 'afternoon', 'devise', 'nuclear', 'aspossible']
+['hu', 'twisted', 'grab', 'timmon', 'intelligent', 'andafter', 'newman', 'clue', 'london', 'scheme', 'walsh', 'minded', 'hike', 'prophesy', 'duplex']
+['corporation', 'wz', 'unusable', 'jim', 'atlanta', 'theway', 'kong', 'tohave', 'duo', 'serialnumber', 'branch', 'digital', 'isaiah', 'voter', 'survivor']
+['sydney', 'scheme', 'july', 'andafter', 'correctly', 'bezel', 'herbert', 'like', 'berkeley', 'unusable', 'anniversary', 'shouldnot', 'sni', 'mds', 'oneof']
+['todod', 'mapping', 'privately', 'bitmap', 'afternoon', 'hose', 'hereto', 'branch', 'digital', 'lar', 'mds', 'unassisted', 'ccw', 'ncr', 'zoom']
+['loader', 'railway', 'cu', 'makeit', 'rich', 'distruction', 'militarily', 'powerpc', 'goto', 'slight', 'clue', 'ina', 'math', 'buck', 'debatable']
+['ccw', 'damascus', 'attribute', 'gnuplot', 'ibid', 'isjust', 'conviction', 'table', 'clean', 'paycheck', 'twisted', 'rob', 'broadcasting', 'power', 'fork']
+['today', 'database', 'grab', 'brief', 'seemsthat', 'mutlu', 'democrat', 'thecomputer', 'dsp', 'workstation', 'feedback', 'intelligent', 'prentice', 'ariane', 'specific']
+['hereto', 'butler', 'fast', 'pleasesend', 'isaiah', 'nswc', 'grab', 'andafter', 'buck', 'unusable', 'indiscriminately', 'sanderson', 'approval', 'lds', 'whichever']
+['nt', 'sydney', 'andafter', 'jim', 'characteristic', 'militarily', 'todod', 'epson', 'mds', 'mime', 'atlanta', 'rob', 'grp', 'disabled', 'amusing']
+['timmon', 'dribble', 'justice', 'gay', 'dsp', 'sticker', 'ram', 'twisted', 'rsaref', 'ibid', 'characteristic', 'originally', 'sig', 'atlanta', 'buck']
+['conviction', 'mapping', 'reagan', 'slight', 'sanderson', 'hereto', 'anderson', 'isaiah', 'aprogram', 'indicate', 'repent', 'event', 'hose', 'originally', 'come']
+['militarily', 'scheme', 'north', 'lar', 'treasurer', 'profit', 'inf', 'gnuplot', 'theway', 'occupier', 'inquiry', 'cu', 'inerrantist', 'ina', 'broadcasting']
+['cobb', 'intelligent', 'sanderson', 'fake', 'tranny', 'hike', 'vw', 'useto', 'inmy', 'pearson', 'soar', 'dsp', 'neon', 'resist', 'mug']
+['militarily', 'artillery', 'whatis', 'railway', 'bezel', 'erase', 'hike', 'unusable', 'gnuplot', 'ibm', 'intelligent', 'sydney', 'overpay', 'trickle', 'x.']
+['aprogram', 'concurrently', 'pneumonia', 'hound', 'hereto', 'andafter', 'privately', 'ph', 'attribute', 'reagan', 'fission', 'listening', 'molestation', 'cassette', 'fancy']
+['occupier', 'socialist', 'andafter', 'gnuplot', 'hereto', 'lar', 'cache', 'careful', 'tactic', 'ucla', 'fd', 'tylenol', 'herbert', 'geological', 'chassis']
+['unusable', 'bow', 'appointment', 'characteristic', 'specifie', 'hike', 'wrongly', 'isaiah', 'theapplication', 'penny', 'dissolve', 'suitable', 'sigma', 'character', 'tek']
+['andafter', 'north', 'sanderson', 'x.', 'aclu', 'rpi', 'workstation', 'charcoal', 'aprogram', 'sydney', 'distruction', 'waco', 'demonstrator', 'xsession', 'oblige']
+['specific', 'nt', 'prohibit', 'imake', 'cm', 'perceive', 'pearson', 'describe', 'nr', 'class', 'xputimage', 'get', 'anniversary', 'come', 'chase']
+['characteristic', 'cu', 'andafter', 'specific', 'vat', 'intelligent', 'ibid', 'flower', 'anniversary', 'vmk', 'inquiry', 'coffee', 'strangely', 'nswc', 'mississippi']
+['mississippi', 'noon', 'nt', 'gnuplot', 'andafter', 'militarily', 'sic', 'alarm', 'autograph', 'responsiblefor', 'rebuttal', 'brent', 'duo', 'seemsthat', 'advantage']
+['gay', 'rich', 'gnuplot', 'continued', 'occupation', 'possible', 'francois', 'hike', 'unbiased', 'portugal', 'oneof', 'nswc', 'debatable', 'gmc', 'andafter']
+['hereto', 'jim', 'gravitational', 'mds', 'like', 'stomp', 'ram', 'hudson', 'day', 'gnuplot', 'expert', 'cutoff', 'lq', 'pastor', 'perceive']
+['statue', 'wail', 'tq', 'andafter', 'baud', 'careful', 'commonly', 'overtime', 'habit', 'butler', 'sun', 'cutoff', 'bike', 'nh', 'specific']
+['interpreter', 'roughly', 'mds', 'conclusion', 'hart', 'ram', 'intelligent', 'dissolve', 'herbert', 'qur', 'xsession', 'hereto', 'mug', 'sob', 'unusable']
+['class', 'cu', 'railway', 'todod', 'annihilate', 'import', 'gnuplot', 'ounce', 'dayton', 'robbery', 'aprogram', 'um', 'german', 'erase', 'mds']
+['gurion', 'happen', 'sixteen', 'andafter', 'andnot', 'wail', 'veracity', 'intelligent', 'ph', 'uo', 'gay', 'mds', 'engagement', 'aa', 'january']
+['ihope', 'bike', 'paycheck', 'intelligent', 'isaiah', 'conviction', 'retired', 'cobb', 'zoom', 'maxtor', 'directional', 'andthey', 'anxious', 'one', 'chemist']
+['hike', 'partial', 'intestine', 'unusable', 'expert', 'laker', 'cu', 'biological', 'someonewho', 'algebraic', 'nswc', 'havecome', 'gnuplot', 'originally', 'cairo']
+['gnuplot', 'todod', 'charcoal', 'trillion', 'mug', 'useto', 'andafter', 'holding', 'nswc', 'coax', 'vaginal', 'prophesy', 'erase', 'asmall', 'anatolia']
+['intelligent', 'erase', 'atlanta', 'break', 'isaiah', 'seal', 'eece', 'cb', 'andall', 'gurion', 'qur', 'collar', 'bow', 'mississippi', 'sanderson']
+['gay', 'scheme', 'colonial', 'artillery', 'toolkit', 'automatically', 'teemu', 'school', 'corpus', 'nswc', 'distinct', 'unicorn', 'pitiful', 'wonderful', 'noon']
+['pegasus', 'ethically', 'nt', 'debatable', 'sic', 'hike', 'zc', 'aprogram', 'palmer', 'branch', 'elite', 'aesthetic', 'rpi', 'thatwhile', 'twm']
+['specific', 'representation', 'torment', 'isaiah', 'sic', 'sii', 'statue', 'struggle', 'andafter', 'intelligent', 'attribute', 'pegasus', 'whichyou', 'bomb', 'jim']
+['attribute', 'scheme', 'cobb', 'mapping', 'informationabout', 'gay', 'anytime', 'democrat', 'timmon', 'bezel', 'psi', 'communism', 'asleep', 'todod', 'nswc']
+['unusable', 'separately', 'critique', 'bulb', 'xh', 'italy', 'bike', 'grab', 'ibid', 'paycheck', 'attribute', 'digex', 'ram', 'bungee', 'broadcasting']
+['ibid', 'diverge', 'register', 'ram', 'residue', 'ei', 'pim', 'theback', 'nrizwt', 'sceptical', 'occupier', 'amusing', 'debatable', 'coreldraw', 'surprised']
+==============================
+topic diversity:0.3973333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6519390846153289, c_w2v:None, c_uci:-9.958532687126679, c_npmi:-0.35755936095023233
+mimno topic coherence:-197.88253655414564
+Epoch  41	Iter    1	Loss_D:-0.1038041	Loss_G:84.9512787	loss_E:0.0407254
+Epoch  41	Iter   11	Loss_D:-0.1044678	Loss_G:84.1062622	loss_E:0.0417385
+Epoch  41	Iter   21	Loss_D:-0.1040324	Loss_G:83.2657089	loss_E:0.0412452
+Epoch  42	Iter    1	Loss_D:-0.1039864	Loss_G:82.4302292	loss_E:0.0414110
+Epoch  42	Iter   11	Loss_D:-0.1036987	Loss_G:81.5976715	loss_E:0.0412793
+Epoch  42	Iter   21	Loss_D:-0.1044328	Loss_G:80.7709656	loss_E:0.0417020
+Epoch  43	Iter    1	Loss_D:-0.1052784	Loss_G:79.9479980	loss_E:0.0426658
+Epoch  43	Iter   11	Loss_D:-0.1039557	Loss_G:79.1294022	loss_E:0.0418364
+Epoch  43	Iter   21	Loss_D:-0.1043785	Loss_G:78.3149872	loss_E:0.0420564
+Epoch  44	Iter    1	Loss_D:-0.1046777	Loss_G:77.5056458	loss_E:0.0421910
+Epoch  44	Iter   11	Loss_D:-0.1020145	Loss_G:76.6994934	loss_E:0.0396597
+Epoch  44	Iter   21	Loss_D:-0.1042751	Loss_G:75.8991547	loss_E:0.0417071
+Epoch  45	Iter    1	Loss_D:-0.1041771	Loss_G:75.1020660	loss_E:0.0418018
+Epoch  45	Iter   11	Loss_D:-0.1035402	Loss_G:74.3098984	loss_E:0.0411349
+Epoch  45	Iter   21	Loss_D:-0.1044652	Loss_G:73.5215683	loss_E:0.0421720
+Epoch  46	Iter    1	Loss_D:-0.1037535	Loss_G:72.7388153	loss_E:0.0412848
+Epoch  46	Iter   11	Loss_D:-0.1049372	Loss_G:71.9590378	loss_E:0.0424031
+Epoch  46	Iter   21	Loss_D:-0.1055633	Loss_G:71.1842422	loss_E:0.0430909
+Epoch  47	Iter    1	Loss_D:-0.1043959	Loss_G:70.4135590	loss_E:0.0420754
+Epoch  47	Iter   11	Loss_D:-0.1035817	Loss_G:69.6476517	loss_E:0.0414163
+Epoch  47	Iter   21	Loss_D:-0.1028482	Loss_G:68.8855591	loss_E:0.0406479
+Epoch  48	Iter    1	Loss_D:-0.1036886	Loss_G:68.1284027	loss_E:0.0415949
+Epoch  48	Iter   11	Loss_D:-0.1046481	Loss_G:67.3749924	loss_E:0.0423425
+Epoch  48	Iter   21	Loss_D:-0.1027816	Loss_G:66.6269913	loss_E:0.0404539
+Epoch  49	Iter    1	Loss_D:-0.1030205	Loss_G:65.8824234	loss_E:0.0407400
+Epoch  49	Iter   11	Loss_D:-0.1037116	Loss_G:65.1421585	loss_E:0.0419166
+Epoch  49	Iter   21	Loss_D:-0.1050522	Loss_G:64.4067688	loss_E:0.0428887
+Epoch  50	Iter    1	Loss_D:-0.1029226	Loss_G:63.6760941	loss_E:0.0409212
+Epoch  50	Iter   11	Loss_D:-0.1049119	Loss_G:62.9488869	loss_E:0.0425205
+Epoch  50	Iter   21	Loss_D:-0.1046690	Loss_G:62.2265167	loss_E:0.0424786
+Epoch  50	Loss_D_avg:-0.0950846	Loss_G_avg:132.0982998	loss_E_avg:0.0371395
+['gnuplot', 'expert', 'characterize', 'mississippi', 'andafter', 'statue', 'honour', 'chemist', 'nt', 'characteristic', 'attribute', 'infest', 'rider', 'fred', 'asleep']
+['cache', 'appointment', 'hike', 'struggle', 'ismore', 'mem', 'mapping', 'conclusion', 'militarily', 'iran', 'characterize', 'harbor', 'pegasus', 'walsh', 'todod']
+['gnuplot', 'hike', 'holding', 'andafter', 'conviction', 'mississippi', 'ihope', 'xputimage', 'occupier', 'membersof', 'pleasesend', 'unaware', 'dice', 'paycheck', 'intelligent']
+['ibid', 'idiotic', 'indiscriminately', 'boring', 'psu', 'rider', 'sydney', 'ramble', 'pipe', 'massage', 'mug', 'duo', 'spelling', 'diverge', 'double']
+['andafter', 'triumph', 'robust', 'hike', 'inerrantist', 'loader', 'alto', 'nt', 'unbiased', 'isaiah', 'laker', 'slowly', 'comfort', 'twisted', 'totalitarian']
+['hereto', 'isaiah', 'fn', 'sydney', 'fast', 'gurion', 'critique', 'loader', 'andafter', 'prophesy', 'frankly', 'important', 'gnuplot', 'ram', 'jumbo']
+['enter', 'profit', 'handing', 'newsgroup', 'gnuplot', 'sydney', 'nswc', 'prophesy', 'um', 'isaiah', 'corporation', 'democrat', 'anyoneknow', 'mug', 'step']
+['intelligent', 'clue', 'bow', 'rabin', 'sydney', 'cypherpunk', 'ihope', 'unassisted', 'bea', 'subordinate', 'alarm', 'workstation', 'tax', 'conviction', 'step']
+['andafter', 'adam', 'royalty', 'nswc', 'utah', 'class', 'rally', 'hike', 'characterize', 'specific', 'gnuplot', 'inmy', 'july', 'intense', 'intelligent']
+['andafter', 'prophesy', 'come', 'nt', 'buck', 'cm', 'cache', 'damascus', 'oblige', 'hike', 'boring', 'transform', 'cancel', 'correctly', 'ft']
+['zoom', 'maxtor', 'ram', 'indiscriminately', 'discretion', 'pegasus', 'anyoneknow', 'andafter', 'hu', 'alarm', 'ibid', 'kong', 'mug', 'gay', 'erase']
+['gnuplot', 'andafter', 'cu', 'rider', 'empire', 'bethlehem', 'disbelieve', 'scheme', 'timmon', 'bo', 'internally', 'boring', 'import', 'victoria', 'privately']
+['conviction', 'prentice', 'spiritually', 'rider', 'bedroom', 'democrat', 'cm', 'ky', 'iftccu', 'andafter', 'fred', 'lq', 'trillion', 'youget', 'nt']
+['jim', 'lar', 'prophesy', 'intolerance', 'mutual', 'overpay', 'controversial', 'gmc', 'retired', 'get', 'spelling', 'merkle', 'useto', 'responsiblefor', 'sanderson']
+['militarily', 'gnuplot', 'rider', 'independant', 'chemist', 'anxious', 'prophesy', 'isaiah', 'appointment', 'uy', 'andafter', 'nt', 'shoulder', 'xwd', 'xresource']
+['qur', 'andafter', 'cu', 'mississippi', 'necessary', 'mem', 'branch', 'discretion', 'mds', 'twisted', 'mythical', 'motorcycle', 'xsession', 'pilate', 'hike']
+['appointment', 'butler', 'inf', 'amusing', 'protective', 'mushroom', 'scheme', 'jim', 'theway', 'misunderstanding', 'andafter', 'expert', 'ounce', 'procedure', 'gnuplot']
+['paycheck', 'atlanta', 'gmc', 'responsiblefor', 'cor', 'erase', 'rebuttal', 'andafter', 'dice', 'membersof', 'needless', 'proud', 'sydney', 'select', 'stomp']
+['ri', 'rob', 'cu', 'sura', 'isaiah', 'anniversary', 'dayton', 'characterize', 'sayingthat', 'theirbelief', 'twisted', 'gurion', 'andafter', 'conviction', 'continually']
+['unbiased', 'debunk', 'correctly', 'needless', 'dnet', 'anniversary', 'nswc', 'gnuplot', 'aprogram', 'rail', 'resurrection', 'dwell', 'andafter', 'grandiose', 'conviction']
+['intelligent', 'hereto', 'grab', 'sydney', 'anderson', 'cairo', 'theater', 'branch', 'ram', 'asmall', 'continually', 'anniversary', 'correctly', 'priest', 'toolkit']
+['railway', 'gravitational', 'sydney', 'anniversary', 'grab', 'totalitarian', 'iftccu', 'qz', 'gurion', 'table', 'cairo', 'realtime', 'dick', 'butler', 'bethlehem']
+['andafter', 'newsgroup', 'chase', 'scheme', 'hike', 'impedance', 'cypherpunk', 'finalize', 'wrapper', 'theexistence', 'prophesy', 'serialnumber', 'atlanta', 'prohibit', 'cor']
+['ambition', 'fast', 'damascus', 'zc', 'conviction', 'yogurt', 'wanna', 'indicate', 'rider', 'unchanging', 'slaughter', 'addictive', 'sanderson', 'prophesy', 'algebraic']
+['twisted', 'theway', 'mapping', 'occupation', 'hu', 'ri', 'imake', 'cycle', 'conviction', 'gf', 'todod', 'characterize', 'papa', 'endless', 'reinforce']
+['boring', 'thefirst', 'todod', 'theback', 'indiscriminately', 'rabin', 'expert', 'elitist', 'rush', 'step', 'onthe', 'register', 'x.', 'reagan', 'extraordinary']
+['regard', 'nswc', 'one', 'aesthetic', 'censorship', 'digital', 'conviction', 'statue', 'grab', 'slowly', 'database', 'unassisted', 'rpi', 'hike', 'class']
+['atlanta', 'independant', 'expert', 'step', 'pegasus', 'paycheck', 'andafter', 'useto', 'kong', 'get', 'erase', 'railway', 'sydney', 'debatable', 'obsolete']
+['gnuplot', 'mapping', 'attribute', 'hike', 'protective', 'zoom', 'um', 'disturbing', 'grab', 'bomb', 'rebuttal', 'sydney', 'recourse', 'something', 'theological']
+['intelligent', 'sydney', 'butler', 'minded', 'gurion', 'remark', 'innings', 'sayingthat', 'booby', 'aprogram', 'atlanta', 'misunderstanding', 'rush', 'rider', 'isuspect']
+['mapping', 'butler', 'occupier', 'bolt', 'bbc', 'grab', 'fn', 'infest', 'seemsthat', 'expert', 'conclude', 'transform', 'continue', 'glory', 'todod']
+['cache', 'prohibit', 'iran', 'unusable', 'isaiah', 'whenthey', 'x.', 'gnuplot', 'todod', 'disturbing', 'boring', 'democrat', 'fuse', 'wine', 'attribute']
+['hike', 'andafter', 'privately', 'step', 'sydney', 'anderson', 'characteristic', 'concurrently', 'indiscriminately', 'slew', 'cycle', 'scary', 'ofa', 'hereto', 'theymust']
+['seemsthat', 'qur', 'realtime', 'fp', 'twisted', 'handing', 'clue', 'favorable', 'wrapper', 'andafter', 'heck', 'privately', 'shouldnot', 'andwhat', 'rush']
+['characteristic', 'class', 'tocommit', 'conviction', 'andafter', 'feedback', 'nuclear', 'expert', 'gmc', 'fu', 'glad', 'link', 'trillion', 'inf', 'hike']
+['erase', 'cache', 'unusable', 'atlanta', 'important', 'notbe', 'sticker', 'random', 'whohad', 'occupier', 'intelligent', 'th', 'militarily', 'democrat', 'takethe']
+['grandiose', 'stark', 'militarily', 'x.', 'andafter', 'cache', 'careful', 'butler', 'examine', 'step', 'today', 'paycheck', 'methink', 'ram', 'threshold']
+['appointment', 'cypherpunk', 'qur', 'atlanta', 'perceive', 'rider', 'todod', 'slowly', 'endif', 'expert', 'armament', 'baptism', 'constantly', 'coax', 'cache']
+['erase', 'atlanta', 'advantage', 'goddard', 'incur', 'ram', 'subordinate', 'prophesy', 'misunderstanding', 'perceive', 'robust', 'electric', 'railway', 'modern', 'sun']
+['intelligent', 'seminar', 'yogurt', 'wanna', 'twisted', 'retired', 'andafter', 'isaiah', 'bike', 'workstation', 'modify', 'sized', 'motion', 'todod', 'nuclear']
+['hike', 'disgust', 'characteristic', 'twisted', 'clean', 'rider', 'sni', 'militarily', 'characterize', 'rocky', 'railway', 'brief', 'andafter', 'mississippi', 'endif']
+['ph', 'lq', 'paycheck', 'somalia', 'nt', 'theway', 'gay', 'intolerance', 'hike', 'cache', 'bike', 'damascus', 'excerpt', 'muck', 'alarm']
+['andafter', 'characteristic', 'butler', 'thepoint', 'ft', 'duo', 'database', 'bike', 'intelligent', 'alex', 'anniversary', 'feasibility', 'cu', 'theback', 'bitmap']
+['twisted', 'corner', 'buck', 'branch', 'illiterate', 'rider', 'taxi', 'ounce', 'elitist', 'regard', 'damascus', 'israeli', 'iran', 'discretion', 'ky']
+['unusable', 'berkeley', 'tylenol', 'andafter', 'clue', 'nt', 'class', 'gnuplot', 'brief', 'thearab', 'intreste', 'isaiah', 'discretion', 'fast', 'prof']
+['erase', 'gnuplot', 'elitist', 'inf', 'ucla', 'ibid', 'coax', 'toplay', 'corner', 'needless', 'sydney', 'alto', 'todod', 'ifanyone', 'aboutit']
+['theway', 'grab', 'loader', 'opening', 'gnuplot', 'conviction', 'ibid', 'politically', 'disbelieve', 'mapping', 'lar', 'ul', 'ph', 'rebuttal', 'timmon']
+['appointment', 'gurion', 'isaiah', 'censorship', 'intelligent', 'welfare', 'grab', 'erase', 'scheme', 'tucson', 'sakic', 'atlanta', 'quayle', 'unusable', 'thefbi']
+['rob', 'specific', 'nswc', 'overtime', 'occupier', 'fred', 'anniversary', 'coffin', 'andreychuk', 'ivy', 'ibid', 'continued', 'royalty', 'wrongdoing', 'habit']
+['nswc', 'andafter', 'cu', 'sura', 'pegasus', 'specific', 'describe', 'trickle', 'mapping', 'paycheck', 'intelligent', 'collar', 'transform', 'madman', 'useto']
+['theological', 'careful', 'isaiah', 'transform', 'slaught', 'eagerly', 'alarm', 'mem', 'aspossible', 'harmful', 'gnuplot', 'scale', 'canseco', 'deficit', 'censorship']
+['intelligent', 'debunk', 'twisted', 'erase', 'butler', 'infest', 'fn', 'cu', 'geological', 'rich', 'iivx', 'corps', 'democrat', 'feedback', 'ft']
+['inf', 'welfare', 'twisted', 'andafter', 'ga', 'geological', 'rebuttal', 'krillean', 'downward', 'prophesy', 'slight', 'ram', 'originally', 'intelligent', 'nightmare']
+['grandiose', 'vc', 'feedback', 'resurrection', 'ofa', 'widest', 'mapping', 'uy', 'afternoon', 'todod', 'lq', 'erase', 'pasteur', 'grab', 'anniversary']
+['hike', 'torment', 'anniversary', 'branch', 'frost', 'newman', 'whenthey', 'voter', 'compassionate', 'theback', 'ram', 'feedback', 'seizure', 'intense', 'ncsa']
+['prophesy', 'andafter', 'palmer', 'january', 'dayton', 'gnuplot', 'feedback', 'ordo', 'reagan', 'bike', 'mug', 'quayle', 'soviet', 'ox', 'sic']
+['conviction', 'rebuttal', 'yogurt', 'tourist', 'ihope', 'gnuplot', 'toolkit', 'apple', 'todod', 'cache', 'flow', 'ina', 'occupier', 'israeli', 'algebraic']
+['class', 'nt', 'andafter', 'pegasus', 'andreychuk', 'overrated', 'rpi', 'boston', 'mpc', 'rodney', 'sydney', 'one', 'takethe', 'glutamate', 'pluto']
+['bo', 'butler', 'unbiased', 'rob', 'conviction', 'mds', 'gay', 'berkeley', 'cobb', 'prof', 'lar', 'hereto', 'lafontaine', 'ethically', 'mapping']
+['cu', 'hike', 'cor', 'hereto', 'tranny', 'tee', 'privately', 'slight', 'recently', 'expert', 'ryn', 'class', 'vf', 'mississippi', 'describe']
+['appointment', 'sob', 'characterize', 'erase', 'animal', 'afternoon', 'withyou', 'unassisted', 'twisted', 'anniversary', 'exclusively', 'sydney', 'ccw', 'expert', 'statue']
+['nt', 'paraphrase', 'hike', 'serialnumber', 'specific', 'gnuplot', 'tocommit', 'infest', 'necessarily', 'expert', 'militarily', 'digital', 'intreste', 'diamond', 'rebuttal']
+['andafter', 'lar', 'perceive', 'theological', 'politically', 'ri', 'devise', 'isaiah', 'francois', 'todod', 'tony', 'nuclear', 'nickname', 'frost', 'inflammation']
+['hu', 'grab', 'twisted', 'newman', 'andafter', 'intelligent', 'clue', 'timmon', 'minded', 'hike', 'prophesy', 'brief', 'scheme', 'london', 'digital']
+['unusable', 'tohave', 'jim', 'dipietro', 'theway', 'isaiah', 'andafter', 'atlanta', 'asmall', 'kong', 'corporation', 'nswc', 'survivor', 'wz', 'duo']
+['sydney', 'scheme', 'andafter', 'correctly', 'july', 'grab', 'unusable', 'sni', 'berkeley', 'anniversary', 'bezel', 'shouldnot', 'dissolve', 'like', 'prohibit']
+['todod', 'mapping', 'privately', 'afternoon', 'bitmap', 'hose', 'lar', 'digital', 'ccw', 'hereto', 'zoom', 'branch', 'ph', 'butler', 'unassisted']
+['loader', 'distruction', 'cu', 'militarily', 'railway', 'math', 'rich', 'makeit', 'powerpc', 'clue', 'buck', 'debatable', 'ina', 'timmon', 'andafter']
+['ccw', 'gnuplot', 'damascus', 'attribute', 'ibid', 'table', 'clean', 'twisted', 'conviction', 'paycheck', 'rob', 'power', 'fork', 'intolerance', 'broadcasting']
+['today', 'grab', 'database', 'brief', 'seemsthat', 'thecomputer', 'democrat', 'feedback', 'prentice', 'specific', 'intelligent', 'workstation', 'prohibit', 'inf', 'rebuttal']
+['hereto', 'fast', 'butler', 'pleasesend', 'isaiah', 'grab', 'indiscriminately', 'mpc', 'buck', 'andafter', 'nswc', 'approval', 'circular', 'conviction', 'lds']
+['nt', 'andafter', 'sydney', 'rob', 'jim', 'mime', 'characteristic', 'todod', 'soar', 'amusing', 'militarily', 'distruction', 'seizure', 'scheme', 'mds']
+['timmon', 'gay', 'dribble', 'justice', 'twisted', 'rsaref', 'characteristic', 'ram', 'dsp', 'grab', 'sticker', 'sig', 'ibid', 'originally', 'motorcycle']
+['conviction', 'mapping', 'slight', 'reagan', 'hereto', 'sanderson', 'isaiah', 'anderson', 'feedback', 'repent', 'indicate', 'andafter', 'intelligent', 'come', 'theexistence']
+['militarily', 'scheme', 'north', 'inf', 'gnuplot', 'lar', 'treasurer', 'occupier', 'theway', 'profit', 'inerrantist', 'cu', 'broadcasting', 'useto', 'ina']
+['cobb', 'sanderson', 'tranny', 'intelligent', 'fake', 'soar', 'hike', 'useto', 'vw', 'mug', 'tek', 'bulk', 'neon', 'inmy', 'rebuttal']
+['militarily', 'railway', 'hike', 'artillery', 'gnuplot', 'erase', 'sydney', 'bezel', 'soar', 'whatis', 'wit', 'intelligent', 'darius', 'overpay', 'unusable']
+['aprogram', 'pneumonia', 'andafter', 'hound', 'concurrently', 'privately', 'reagan', 'ph', 'hereto', 'attribute', 'cassette', 'twisted', 'fission', 'francois', 'molestation']
+['occupier', 'andafter', 'gnuplot', 'socialist', 'lar', 'tylenol', 'careful', 'hereto', 'heater', 'cache', 'tactic', 'feedback', 'geological', 'ucla', 'fd']
+['bow', 'characteristic', 'appointment', 'unusable', 'specifie', 'hike', 'wrongly', 'dissolve', 'tek', 'isaiah', 'engagement', 'sigma', 'andthey', 'harmful', 'penny']
+['andafter', 'sanderson', 'x.', 'north', 'sydney', 'charcoal', 'aclu', 'rpi', 'distruction', 'feedback', 'workstation', 'conviction', 'aprogram', 'nuclear', 'waco']
+['specific', 'nt', 'prohibit', 'get', 'cm', 'nr', 'pearson', 'imake', 'describe', 'class', 'anniversary', 'perceive', 'xputimage', 'eighty', 'come']
+['characteristic', 'andafter', 'cu', 'specific', 'vat', 'anniversary', 'flower', 'hereto', 'ibid', 'coffee', 'nswc', 'vmk', 'intelligent', 'mississippi', 'undergrad']
+['mississippi', 'nt', 'gnuplot', 'alarm', 'noon', 'militarily', 'andafter', 'seemsthat', 'sic', 'rabin', 'rob', 'autograph', 'responsiblefor', 'duo', 'tony']
+['rich', 'occupation', 'continued', 'gnuplot', 'gay', 'hike', 'debatable', 'gmc', 'unbiased', 'andafter', 'nswc', 'asleep', 'portugal', 'francois', 'punch']
+['hereto', 'gravitational', 'jim', 'gnuplot', 'day', 'hudson', 'stomp', 'expert', 'lq', 'ram', 'like', 'cutoff', 'anyoneknow', 'pastor', 'pegasus']
+['statue', 'tq', 'baud', 'commonly', 'bike', 'andafter', 'careful', 'wail', 'rabin', 'specific', 'hereto', 'constantly', 'cutoff', 'sun', 'isaiah']
+['interpreter', 'roughly', 'xsession', 'ram', 'conclusion', 'dissolve', 'mds', 'intelligent', 'qur', 'hart', 'mug', 'representation', 'prophesy', 'hereto', 'subordinate']
+['class', 'cu', 'gnuplot', 'todod', 'robbery', 'railway', 'german', 'isaiah', 'characteristic', 'um', 'import', 'erase', 'ph', 'hike', 'dayton']
+['gurion', 'andafter', 'sixteen', 'veracity', 'andnot', 'wail', 'engagement', 'ph', 'happen', 'holding', 'brief', 'maxtor', 'aa', 'uo', 'afternoon']
+['ihope', 'paycheck', 'bike', 'conviction', 'isaiah', 'intelligent', 'andthey', 'retired', 'zoom', 'cobb', 'alarm', 'anxious', 'maxtor', 'com', 'xii']
+['partial', 'hike', 'cu', 'intestine', 'expert', 'laker', 'unusable', 'algebraic', 'gnuplot', 'biological', 'someonewho', 'nswc', 'cairo', 'erase', 'originally']
+['gnuplot', 'trillion', 'charcoal', 'nswc', 'todod', 'mug', 'representation', 'andafter', 'useto', 'erase', 'asmall', 'basis', 'holding', 'prophesy', 'coax']
+['intelligent', 'erase', 'atlanta', 'isaiah', 'break', 'brief', 'seal', 'cb', 'eece', 'tek', 'specific', 'subsystem', 'mississippi', 'sanderson', 'yea']
+['gay', 'scheme', 'colonial', 'toolkit', 'school', 'pitiful', 'nswc', 'corpus', 'ordeal', 'wonderful', 'artillery', 'teemu', 'automatically', 'gnuplot', 'hike']
+['pegasus', 'ethically', 'nt', 'sic', 'debatable', 'hike', 'branch', 'theback', 'rpi', 'autograph', 'twm', 'fast', 'palmer', 'aprogram', 'today']
+['representation', 'torment', 'specific', 'isaiah', 'statue', 'struggle', 'sic', 'sii', 'andafter', 'intelligent', 'jim', 'pegasus', 'brief', 'tylenol', 'fd']
+['attribute', 'scheme', 'mapping', 'informationabout', 'anytime', 'coup', 'cobb', 'radioactive', 'timmon', 'democrat', 'asleep', 'nswc', 'gay', 'todod', 'communism']
+['separately', 'unusable', 'critique', 'xh', 'grab', 'italy', 'bike', 'digex', 'bulb', 'ibid', 'attribute', 'paycheck', 'tony', 'andafter', 'physic']
+['ibid', 'diverge', 'register', 'residue', 'pim', 'ram', 'amusing', 'theback', 'debatable', 'ei', 'occupier', 'surprised', 'coreldraw', 'wine', 'nrizwt']
+==============================
+topic diversity:0.37066666666666664
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6489935521437409, c_w2v:None, c_uci:-10.001303582118203, c_npmi:-0.35913873356247267
+mimno topic coherence:-199.21341524259637
+Epoch  51	Iter    1	Loss_D:-0.1038707	Loss_G:61.5084000	loss_E:0.0416811
+Epoch  51	Iter   11	Loss_D:-0.1035602	Loss_G:60.7950287	loss_E:0.0414211
+Epoch  51	Iter   21	Loss_D:-0.1041483	Loss_G:60.0855179	loss_E:0.0417514
+Epoch  52	Iter    1	Loss_D:-0.1048466	Loss_G:59.3805084	loss_E:0.0426697
+Epoch  52	Iter   11	Loss_D:-0.1029814	Loss_G:58.6790886	loss_E:0.0409545
+Epoch  52	Iter   21	Loss_D:-0.1023865	Loss_G:57.9834709	loss_E:0.0402125
+Epoch  53	Iter    1	Loss_D:-0.1049421	Loss_G:57.2914124	loss_E:0.0426424
+Epoch  53	Iter   11	Loss_D:-0.1026936	Loss_G:56.6037025	loss_E:0.0406199
+Epoch  53	Iter   21	Loss_D:-0.1027193	Loss_G:55.9198151	loss_E:0.0409832
+Epoch  54	Iter    1	Loss_D:-0.1063192	Loss_G:55.2418098	loss_E:0.0443514
+Epoch  54	Iter   11	Loss_D:-0.1041462	Loss_G:54.5663757	loss_E:0.0424137
+Epoch  54	Iter   21	Loss_D:-0.1033225	Loss_G:53.8967018	loss_E:0.0412848
+Epoch  55	Iter    1	Loss_D:-0.1035064	Loss_G:53.2310638	loss_E:0.0412179
+Epoch  55	Iter   11	Loss_D:-0.1033637	Loss_G:52.5698204	loss_E:0.0413439
+Epoch  55	Iter   21	Loss_D:-0.1038973	Loss_G:51.9127121	loss_E:0.0415149
+Epoch  56	Iter    1	Loss_D:-0.1035963	Loss_G:51.2599564	loss_E:0.0415028
+Epoch  56	Iter   11	Loss_D:-0.1039078	Loss_G:50.6108665	loss_E:0.0419567
+Epoch  56	Iter   21	Loss_D:-0.1029951	Loss_G:49.9677162	loss_E:0.0408470
+Epoch  57	Iter    1	Loss_D:-0.1053915	Loss_G:49.3277588	loss_E:0.0433587
+Epoch  57	Iter   11	Loss_D:-0.1041113	Loss_G:48.6925049	loss_E:0.0421627
+Epoch  57	Iter   21	Loss_D:-0.1037910	Loss_G:48.0617905	loss_E:0.0414934
+Epoch  58	Iter    1	Loss_D:-0.1046121	Loss_G:47.4356384	loss_E:0.0426469
+Epoch  58	Iter   11	Loss_D:-0.1028925	Loss_G:46.8132248	loss_E:0.0404848
+Epoch  58	Iter   21	Loss_D:-0.1044329	Loss_G:46.1957779	loss_E:0.0419173
+Epoch  59	Iter    1	Loss_D:-0.1044681	Loss_G:45.5821457	loss_E:0.0420169
+Epoch  59	Iter   11	Loss_D:-0.1047331	Loss_G:44.9733505	loss_E:0.0425847
+Epoch  59	Iter   21	Loss_D:-0.1009338	Loss_G:44.3686638	loss_E:0.0384563
+Epoch  60	Iter    1	Loss_D:-0.1058858	Loss_G:43.7685394	loss_E:0.0433900
+Epoch  60	Iter   11	Loss_D:-0.1041835	Loss_G:43.1718025	loss_E:0.0418618
+Epoch  60	Iter   21	Loss_D:-0.1028748	Loss_G:42.5811119	loss_E:0.0403238
+Epoch  60	Loss_D_avg:-0.0965456	Loss_G_avg:118.7067847	loss_E_avg:0.0378944
+['gnuplot', 'expert', 'characterize', 'mississippi', 'nt', 'statue', 'andafter', 'honour', 'infest', 'thecomputer', 'characteristic', 'asleep', 'concurrently', 'chemist', 'rider']
+['cache', 'ismore', 'struggle', 'appointment', 'hike', 'conclusion', 'characterize', 'mapping', 'militarily', 'mem', 'walsh', 'specific', 'iran', 'cu', 'pegasus']
+['gnuplot', 'hike', 'holding', 'andafter', 'occupier', 'mississippi', 'conviction', 'xputimage', 'characterize', 'dice', 'rob', 'paycheck', 'ihope', 'pleasesend', 'membersof']
+['indiscriminately', 'idiotic', 'boring', 'pipe', 'ibid', 'spelling', 'ramble', 'finalize', 'rebuttal', 'incur', 'sydney', 'mug', 'massage', 'rider', 'psu']
+['andafter', 'triumph', 'hike', 'loader', 'robust', 'nt', 'inerrantist', 'alto', 'unbiased', 'anyoneknow', 'laker', 'twisted', 'isaiah', 'comfort', 'gravitational']
+['hereto', 'isaiah', 'loader', 'sydney', 'critique', 'andafter', 'fn', 'fast', 'theway', 'prophesy', 'occupier', 'gnuplot', 'knowlege', 'important', 'steam']
+['nswc', 'gnuplot', 'newsgroup', 'enter', 'sydney', 'isaiah', 'mug', 'um', 'profit', 'anyoneknow', 'characterize', 'democrat', 'erase', 'prophesy', 'handing']
+['intelligent', 'clue', 'bow', 'cypherpunk', 'rabin', 'sydney', 'subordinate', 'ihope', 'workstation', 'alarm', 'unassisted', 'today', 'step', 'conviction', 'hu']
+['andafter', 'adam', 'nswc', 'utah', 'royalty', 'characterize', 'class', 'rally', 'hike', 'erase', 'lq', 'specific', 'gnuplot', 'originally', 'cache']
+['andafter', 'prophesy', 'cache', 'come', 'nt', 'boring', 'buck', 'cm', 'trillion', 'compassionate', 'transform', 'damascus', 'characterize', 'cor', 'ua']
+['zoom', 'discretion', 'anyoneknow', 'maxtor', 'ram', 'hu', 'pegasus', 'mug', 'indiscriminately', 'critique', 'alarm', 'andafter', 'airline', 'scary', 'coin']
+['gnuplot', 'andafter', 'bethlehem', 'cu', 'rider', 'internally', 'empire', 'boring', 'bo', 'privately', 'ccw', 'scheme', 'victoria', 'paycheck', 'import']
+['conviction', 'lq', 'prentice', 'iftccu', 'andafter', 'spiritually', 'bedroom', 'knowwhat', 'fred', 'trillion', 'cm', 'rider', 'ky', 'nt', 'sydney']
+['jim', 'prophesy', 'lar', 'controversial', 'gmc', 'intolerance', 'merkle', 'retired', 'mutual', 'overpay', 'spelling', 'ccit', 'get', 'radioactive', 'responsiblefor']
+['militarily', 'independant', 'isaiah', 'gnuplot', 'shoulder', 'chemist', 'soar', 'uy', 'andafter', 'rider', 'prophesy', 'appointment', 'today', 'nt', 'alex']
+['qur', 'andafter', 'cu', 'mississippi', 'twisted', 'necessary', 'mem', 'anytime', 'branch', 'xsession', 'discretion', 'rob', 'motorcycle', 'censorship', 'hike']
+['appointment', 'butler', 'inf', 'protective', 'theway', 'andafter', 'amusing', 'procedure', 'xputimage', 'fast', 'jim', 'gnuplot', 'mushroom', 'expert', 'scheme']
+['paycheck', 'atlanta', 'gmc', 'responsiblefor', 'cor', 'erase', 'andafter', 'stomp', 'rebuttal', 'finalize', 'isaiah', 'unassisted', 'needless', 'expert', 'dice']
+['ri', 'characterize', 'rob', 'twisted', 'sura', 'sayingthat', 'cu', 'conviction', 'dayton', 'isaiah', 'anniversary', 'tq', 'theirbelief', 'continually', 'gurion']
+['debunk', 'unbiased', 'correctly', 'rob', 'dwell', 'needless', 'endless', 'anniversary', 'xsession', 'gnuplot', 'nswc', 'conviction', 'prophesy', 'theexistence', 'resurrection']
+['intelligent', 'grab', 'hereto', 'anderson', 'cairo', 'sydney', 'priest', 'continually', 'asmall', 'branch', 'toolkit', 'correctly', 'anniversary', 'theater', 'ram']
+['gravitational', 'railway', 'sydney', 'anniversary', 'grab', 'asmall', 'totalitarian', 'cairo', 'iftccu', 'qz', 'buck', 'step', 'gurion', 'realtime', 'bethlehem']
+['andafter', 'newsgroup', 'finalize', 'hike', 'cypherpunk', 'scheme', 'impedance', 'likethat', 'expert', 'theexistence', 'prohibit', 'tracer', 'cor', 'militarily', 'chase']
+['fast', 'conviction', 'wanna', 'indicate', 'unchanging', 'ambition', 'yogurt', 'prophesy', 'damascus', 'slaughter', 'rebuttal', 'algebraic', 'pastor', 'addictive', 'disgust']
+['twisted', 'theway', 'mapping', 'occupation', 'ri', 'hu', 'cycle', 'todod', 'characterize', 'censorship', 'conviction', 'reinforce', 'imake', 'spline', 'tek']
+['boring', 'todod', 'thefirst', 'indiscriminately', 'expert', 'theback', 'rabin', 'conscience', 'step', 'onthe', 'reinforce', 'ccw', 'reagan', 'anal', 'elitist']
+['nswc', 'regard', 'censorship', 'aesthetic', 'unassisted', 'digital', 'one', 'statue', 'grab', 'slowly', 'conviction', 'class', 'characteristic', 'intolerance', 'characterize']
+['step', 'atlanta', 'expert', 'andafter', 'independant', 'paycheck', 'useto', 'pegasus', 'railway', 'erase', 'get', 'obsolete', 'ethically', 'day', 'sydney']
+['gnuplot', 'mapping', 'hike', 'protective', 'attribute', 'theological', 'um', 'grab', 'disturbing', 'lq', 'sydney', 'something', 'zoom', 'debunk', 'rebuttal']
+['intelligent', 'sydney', 'gurion', 'booby', 'sayingthat', 'minded', 'remark', 'butler', 'innings', 'soar', 'bow', 'representation', 'wanna', 'loader', 'misunderstanding']
+['mapping', 'occupier', 'bolt', 'bbc', 'fn', 'infest', 'expert', 'grab', 'butler', 'transform', 'conclude', 'seemsthat', 'mug', 'glory', 'tek']
+['isaiah', 'cache', 'prohibit', 'gnuplot', 'boring', 'iran', 'democrat', 'whenthey', 'unusable', 'disturbing', 'fifth', 'wine', 'fuse', 'todod', 'cairo']
+['andafter', 'hike', 'privately', 'sydney', 'step', 'anderson', 'characteristic', 'slew', 'indiscriminately', 'cycle', 'ofa', 'scary', 'gravitational', 'tracer', 'animate']
+['seemsthat', 'realtime', 'privately', 'twisted', 'favorable', 'clue', 'fp', 'qur', 'priest', 'andafter', 'handing', 'critique', 'wrapper', 'fusi', 'corner']
+['characteristic', 'conviction', 'andafter', 'class', 'tocommit', 'nuclear', 'expert', 'trillion', 'feedback', 'treasurer', 'hike', 'rebuttal', 'gmc', 'link', 'fu']
+['erase', 'cache', 'unusable', 'atlanta', 'random', 'important', 'sticker', 'occupier', 'disturbing', 'intelligent', 'notbe', 'whohad', 'militarily', 'characteristic', 'cu']
+['grandiose', 'stark', 'andafter', 'careful', 'militarily', 'today', 'cache', 'paycheck', 'examine', 'amusing', 'ram', 'step', 'sura', 'threshold', 'butler']
+['appointment', 'cypherpunk', 'rider', 'atlanta', 'endif', 'baptism', 'expert', 'constantly', 'qur', 'todod', 'slowly', 'cache', 'armament', 'onthe', 'sydney']
+['erase', 'atlanta', 'advantage', 'incur', 'sun', 'asia', 'critique', 'occupier', 'robust', 'upcoming', 'jim', 'subordinate', 'prophesy', 'anyoneknow', 'carriage']
+['intelligent', 'twisted', 'wanna', 'andafter', 'workstation', 'retired', 'seminar', 'yogurt', 'nuclear', 'isaiah', 'continued', 'todod', 'erase', 'inf', 'motion']
+['disgust', 'characterize', 'twisted', 'characteristic', 'hike', 'theway', 'andafter', 'brief', 'paraphrase', 'sni', 'clean', 'feedback', 'railway', 'nt', 'mississippi']
+['paycheck', 'ph', 'lq', 'cache', 'bike', 'theway', 'hike', 'nt', 'intolerance', 'somalia', 'andthey', 'theological', 'gay', 'andafter', 'excerpt']
+['andafter', 'characteristic', 'intelligent', 'duo', 'ft', 'thepoint', 'alex', 'bitmap', 'butler', 'coffee', 'gravitational', 'database', 'theback', 'bike', 'educator']
+['twisted', 'illiterate', 'buck', 'corner', 'taxi', 'branch', 'israeli', 'grab', 'disturbing', 'discretion', 'elitist', 'hereto', 'iran', 'expert', 'regard']
+['tylenol', 'class', 'gnuplot', 'andafter', 'unusable', 'brief', 'nt', 'clue', 'fast', 'thearab', 'berkeley', 'rob', 'prof', 'isaiah', 'inf']
+['erase', 'gnuplot', 'ucla', 'inf', 'needless', 'aboutit', 'elitist', 'todod', 'roughly', 'ibid', 'coax', 'statue', 'toplay', 'prophesy', 'dipietro']
+['theway', 'loader', 'grab', 'gnuplot', 'opening', 'conviction', 'ibid', 'politically', 'lar', 'rebuttal', 'step', 'mapping', 'expert', 'pitiful', 'disbelieve']
+['appointment', 'gurion', 'censorship', 'isaiah', 'procedure', 'andafter', 'welfare', 'intelligent', 'grab', 'erase', 'cairo', 'scheme', 'engagement', 'quayle', 'mug']
+['rob', 'occupier', 'nswc', 'specific', 'anniversary', 'continued', 'coffin', 'overtime', 'wrongdoing', 'fred', 'fork', 'andafter', 'royalty', 'habit', 'andreychuk']
+['nswc', 'andafter', 'specific', 'sura', 'cu', 'pegasus', 'mapping', 'paycheck', 'intelligent', 'collar', 'describe', 'timmon', 'trickle', 'transform', 'erase']
+['careful', 'transform', 'theological', 'isaiah', 'mem', 'alarm', 'slaught', 'eagerly', 'deficit', 'harmful', 'censorship', 'aspossible', 'socialist', 'gnuplot', 'priest']
+['intelligent', 'twisted', 'erase', 'butler', 'debunk', 'infest', 'geological', 'fn', 'cu', 'feedback', 'cairo', 'andafter', 'cache', 'iivx', 'soar']
+['twisted', 'inf', 'welfare', 'downward', 'andafter', 'rebuttal', 'geological', 'krillean', 'slight', 'wella', 'prophesy', 'nightmare', 'cypherpunk', 'rockwell', 'tracer']
+['grandiose', 'vc', 'ofa', 'feedback', 'widest', 'something', 'resurrection', 'uy', 'anniversary', 'mapping', 'lq', 'grab', 'todod', 'upcoming', 'erase']
+['torment', 'hike', 'compassionate', 'branch', 'frost', 'feedback', 'seizure', 'newman', 'theback', 'whenthey', 'anniversary', 'intense', 'cor', 'voter', 'ncsa']
+['andafter', 'gnuplot', 'palmer', 'dayton', 'prophesy', 'january', 'ordo', 'mug', 'reagan', 'random', 'erase', 'feedback', 'sic', 'quayle', 'ox']
+['conviction', 'rebuttal', 'yogurt', 'occupier', 'tourist', 'gnuplot', 'theback', 'toolkit', 'ihope', 'israeli', 'hockey', 'paycheck', 'todod', 'cache', 'needless']
+['class', 'nt', 'andafter', 'pegasus', 'mpc', 'andreychuk', 'overrated', 'diamond', 'boston', 'statue', 'glutamate', 'stark', 'zoom', 'rpi', 'sydney']
+['bo', 'butler', 'ethically', 'unbiased', 'conviction', 'rob', 'soar', 'lafontaine', 'mapping', 'hereto', 'xputimage', 'continued', 'lar', 'seemsthat', 'rebuttal']
+['cu', 'hereto', 'expert', 'privately', 'hike', 'tee', 'class', 'recently', 'isaiah', 'tranny', 'cor', 'commonly', 'slight', 'throughthe', 'overrated']
+['appointment', 'characterize', 'sob', 'erase', 'twisted', 'afternoon', 'unassisted', 'sydney', 'statue', 'ccw', 'anniversary', 'gravitational', 'expert', 'animal', 'adam']
+['nt', 'paraphrase', 'hike', 'serialnumber', 'gnuplot', 'tocommit', 'intreste', 'infest', 'expert', 'specific', 'diamond', 'militarily', 'digital', 'nm', 'booby']
+['andafter', 'lar', 'politically', 'theological', 'ri', 'tony', 'devise', 'isaiah', 'perceive', 'francois', 'nickname', 'nuclear', 'todod', 'frost', 'occupier']
+['hu', 'twisted', 'grab', 'andafter', 'clue', 'newman', 'intelligent', 'minded', 'timmon', 'hike', 'paycheck', 'brief', 'digital', 'circular', 'prophesy']
+['tohave', 'nswc', 'unusable', 'isaiah', 'dipietro', 'andafter', 'baud', 'theway', 'jim', 'cairo', 'appointment', 'ri', 'coffee', 'asmall', 'seemsthat']
+['sydney', 'scheme', 'correctly', 'andafter', 'grab', 'unusable', 'saysthat', 'intelligent', 'anniversary', 'dissolve', 'asmall', 'rebuilt', 'prohibit', 'todod', 'fu']
+['todod', 'mapping', 'bitmap', 'hose', 'afternoon', 'privately', 'ccw', 'digital', 'lar', 'zoom', 'amusing', 'unassisted', 'erase', 'andafter', 'butler']
+['math', 'loader', 'distruction', 'militarily', 'cu', 'makeit', 'rich', 'railway', 'buck', 'clue', 'andafter', 'powerpc', 'characterize', 'debatable', 'anderson']
+['ccw', 'gnuplot', 'attribute', 'damascus', 'intolerance', 'twisted', 'table', 'paycheck', 'clean', 'power', 'rob', 'fork', 'broadcasting', 'coin', 'ibid']
+['grab', 'today', 'database', 'seemsthat', 'brief', 'pipe', 'thecomputer', 'feedback', 'prentice', 'prohibit', 'rebuttal', 'workstation', 'specific', 'gnuplot', 'inf']
+['hereto', 'fast', 'isaiah', 'pleasesend', 'grab', 'conviction', 'mpc', 'circular', 'butler', 'indiscriminately', 'buck', 'andafter', 'nswc', 'approval', 'lds']
+['andafter', 'rob', 'sydney', 'nt', 'soar', 'jim', 'mime', 'todod', 'characteristic', 'procedure', 'amusing', 'militarily', 'coffee', 'distruction', 'scheme']
+['twisted', 'gay', 'dribble', 'characteristic', 'rsaref', 'timmon', 'ram', 'grab', 'sig', 'justice', 'dsp', 'alarm', 'motorcycle', 'attract', 'oblige']
+['conviction', 'mapping', 'slight', 'feedback', 'reagan', 'theexistence', 'repent', 'andafter', 'isaiah', 'come', 'hereto', 'theback', 'anderson', 'fast', 'governmental']
+['militarily', 'gnuplot', 'occupier', 'inf', 'scheme', 'lar', 'treasurer', 'north', 'inerrantist', 'theway', 'profit', 'broadcasting', 'glutamate', 'cu', 'step']
+['cobb', 'tranny', 'soar', 'sanderson', 'intelligent', 'mug', 'useto', 'hike', 'bulk', 'vw', 'math', 'fake', 'throughthe', 'specific', 'expert']
+['militarily', 'railway', 'hike', 'soar', 'gnuplot', 'educator', 'sydney', 'wit', 'darius', 'erase', 'fu', 'digital', 'correctly', 'intelligent', 'artillery']
+['aprogram', 'privately', 'reagan', 'twisted', 'cassette', 'andafter', 'knowlege', 'concurrently', 'pneumonia', 'hound', 'francois', 'characteristic', 'continued', 'ph', 'nt']
+['gnuplot', 'andafter', 'occupier', 'socialist', 'lar', 'heater', 'tylenol', 'careful', 'feedback', 'upcoming', 'useto', 'cache', 'unchanging', 'tactic', 'serialnumber']
+['bow', 'characteristic', 'appointment', 'unusable', 'engagement', 'hike', 'dissolve', 'andthey', 'isaiah', 'tek', 'specifie', 'wrongly', 'theological', 'sigma', 'mpc']
+['andafter', 'sanderson', 'sydney', 'feedback', 'charcoal', 'throughthe', 'x.', 'nuclear', 'conviction', 'north', 'distruction', 'ri', 'iton', 'geological', 'rpi']
+['prohibit', 'specific', 'nt', 'get', 'cm', 'class', 'nr', 'anniversary', 'xputimage', 'theway', 'eighty', 'describe', 'come', 'reinforce', 'lunar']
+['characteristic', 'andafter', 'specific', 'cu', 'hereto', 'vat', 'careful', 'anniversary', 'coffee', 'nswc', 'theway', 'characterization', 'mississippi', 'hail', 'conviction']
+['mississippi', 'nt', 'alarm', 'gnuplot', 'seemsthat', 'militarily', 'rob', 'rabin', 'tony', 'day', 'autograph', 'noon', 'andafter', 'math', 'tracer']
+['occupation', 'rich', 'continued', 'asleep', 'gnuplot', 'debatable', 'erase', 'nswc', 'sydney', 'loader', 'hike', 'unbiased', 'gmc', 'london', 'nothave']
+['hereto', 'gravitational', 'gnuplot', 'jim', 'day', 'hudson', 'stomp', 'lq', 'expert', 'anyoneknow', 'pegasus', 'pastor', 'transform', 'london', 'like']
+['statue', 'bike', 'tq', 'baud', 'commonly', 'careful', 'rabin', 'isaiah', 'hereto', 'constantly', 'andafter', 'mpc', 'endif', 'geological', 'thecomputer']
+['xsession', 'interpreter', 'roughly', 'representation', 'ram', 'prophesy', 'dissolve', 'intelligent', 'mug', 'conclusion', 'infiltrate', 'inerrantist', 'subordinate', 'loader', 'hereto']
+['class', 'gnuplot', 'cu', 'todod', 'isaiah', 'german', 'ethically', 'robbery', 'characteristic', 'erase', 'um', 'import', 'hike', 'cor', 'railway']
+['gurion', 'brief', 'andafter', 'holding', 'engagement', 'andnot', 'sixteen', 'veracity', 'xputimage', 'fusi', 'nickname', 'ph', 'wail', 'cor', 'illiterate']
+['paycheck', 'ihope', 'conviction', 'isaiah', 'bike', 'andthey', 'intelligent', 'alarm', 'retired', 'nuclear', 'xii', 'morph', 'anal', 'gnuplot', 'feedback']
+['partial', 'hike', 'erase', 'algebraic', 'expert', 'gnuplot', 'cu', 'laker', 'nswc', 'theological', 'throughthe', 'endif', 'cairo', 'unusable', 'someonewho']
+['trillion', 'nswc', 'gnuplot', 'charcoal', 'representation', 'asmall', 'mug', 'todod', 'andafter', 'erase', 'basis', 'useto', 'prophesy', 'aside', 'cor']
+['intelligent', 'erase', 'brief', 'atlanta', 'isaiah', 'tek', 'break', 'scary', 'subsystem', 'specific', 'mississippi', 'threshold', 'andafter', 'compassionate', 'sorry']
+['scheme', 'gay', 'ordeal', 'tracer', 'nswc', 'toolkit', 'colonial', 'ethically', 'pitiful', 'frost', 'school', 'corpus', 'pipe', 'wonderful', 'hike']
+['sic', 'debatable', 'ethically', 'pegasus', 'nt', 'theback', 'rpi', 'hike', 'branch', 'fast', 'characterize', 'today', 'autograph', 'continually', 'inmy']
+['representation', 'torment', 'struggle', 'isaiah', 'specific', 'statue', 'sic', 'intelligent', 'andafter', 'nswc', 'jim', 'pegasus', 'tylenol', 'brief', 'sii']
+['mapping', 'scheme', 'attribute', 'nswc', 'anytime', 'step', 'specific', 'forsale', 'coup', 'radioactive', 'asleep', 'gsfc', 'todod', 'hike', 'timmon']
+['critique', 'separately', 'grab', 'unusable', 'bike', 'tony', 'xh', 'italy', 'digex', 'andafter', 'cu', 'isaiah', 'broadcasting', 'rebuilt', 'index']
+['occupier', 'amusing', 'wine', 'residue', 'pim', 'ibid', 'debatable', 'register', 'ram', 'theback', 'surprised', 'diverge', 'unassisted', 'theexistence', 'coreldraw']
+==============================
+topic diversity:0.3233333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.651136469835549, c_w2v:None, c_uci:-9.971637791968078, c_npmi:-0.35820745261156267
+mimno topic coherence:-191.18153762804036
+Epoch  61	Iter    1	Loss_D:-0.1064273	Loss_G:41.9934044	loss_E:0.0441456
+Epoch  61	Iter   11	Loss_D:-0.1060172	Loss_G:41.4109650	loss_E:0.0433438
+Epoch  61	Iter   21	Loss_D:-0.1028745	Loss_G:40.8322945	loss_E:0.0402342
+Epoch  62	Iter    1	Loss_D:-0.1044638	Loss_G:40.2589951	loss_E:0.0417340
+Epoch  62	Iter   11	Loss_D:-0.1040427	Loss_G:39.6883659	loss_E:0.0414917
+Epoch  62	Iter   21	Loss_D:-0.1056808	Loss_G:39.1233101	loss_E:0.0430207
+Epoch  63	Iter    1	Loss_D:-0.1040743	Loss_G:38.5621452	loss_E:0.0415603
+Epoch  63	Iter   11	Loss_D:-0.1035537	Loss_G:38.0062485	loss_E:0.0408650
+Epoch  63	Iter   21	Loss_D:-0.1063827	Loss_G:37.4534492	loss_E:0.0438959
+Epoch  64	Iter    1	Loss_D:-0.1034800	Loss_G:36.9058533	loss_E:0.0409246
+Epoch  64	Iter   11	Loss_D:-0.1050120	Loss_G:36.3619537	loss_E:0.0422624
+Epoch  64	Iter   21	Loss_D:-0.1045606	Loss_G:35.8234291	loss_E:0.0419123
+Epoch  65	Iter    1	Loss_D:-0.1036415	Loss_G:35.2883873	loss_E:0.0410852
+Epoch  65	Iter   11	Loss_D:-0.1039654	Loss_G:34.7582932	loss_E:0.0411309
+Epoch  65	Iter   21	Loss_D:-0.1041280	Loss_G:34.2321167	loss_E:0.0412017
+Epoch  66	Iter    1	Loss_D:-0.1032451	Loss_G:33.7108154	loss_E:0.0406256
+Epoch  66	Iter   11	Loss_D:-0.1051560	Loss_G:33.1928406	loss_E:0.0424282
+Epoch  66	Iter   21	Loss_D:-0.1033124	Loss_G:32.6796799	loss_E:0.0409655
+Epoch  67	Iter    1	Loss_D:-0.1038135	Loss_G:32.1711922	loss_E:0.0412842
+Epoch  67	Iter   11	Loss_D:-0.1054434	Loss_G:31.6674213	loss_E:0.0430352
+Epoch  67	Iter   21	Loss_D:-0.1055580	Loss_G:31.1674328	loss_E:0.0429463
+Epoch  68	Iter    1	Loss_D:-0.1049634	Loss_G:30.6718044	loss_E:0.0427025
+Epoch  68	Iter   11	Loss_D:-0.1047525	Loss_G:30.1805267	loss_E:0.0421234
+Epoch  68	Iter   21	Loss_D:-0.1039283	Loss_G:29.6941757	loss_E:0.0415836
+Epoch  69	Iter    1	Loss_D:-0.1040566	Loss_G:29.2117500	loss_E:0.0416248
+Epoch  69	Iter   11	Loss_D:-0.1049088	Loss_G:28.7336750	loss_E:0.0426644
+Epoch  69	Iter   21	Loss_D:-0.1056995	Loss_G:28.2600307	loss_E:0.0432289
+Epoch  70	Iter    1	Loss_D:-0.1044357	Loss_G:27.7911987	loss_E:0.0422179
+Epoch  70	Iter   11	Loss_D:-0.1056298	Loss_G:27.3257122	loss_E:0.0432646
+Epoch  70	Iter   21	Loss_D:-0.1052997	Loss_G:26.8652344	loss_E:0.0430477
+Epoch  70	Loss_D_avg:-0.0976986	Loss_G_avg:106.6249712	loss_E_avg:0.0384931
+['expert', 'characterize', 'gnuplot', 'mississippi', 'nt', 'statue', 'andafter', 'thecomputer', 'mpc', 'honour', 'uy', 'confirmation', 'commonly', 'asleep', 'characteristic']
+['throughthe', 'ismore', 'cache', 'struggle', 'characterize', 'conclusion', 'militarily', 'hike', 'motorcycle', 'specific', 'walsh', 'anytime', 'appointment', 'cu', 'anal']
+['gnuplot', 'occupier', 'andafter', 'characterize', 'holding', 'mississippi', 'conviction', 'dice', 'hike', 'xputimage', 'rob', 'inventory', 'paycheck', 'math', 'asmall']
+['spelling', 'boring', 'indiscriminately', 'pipe', 'rebuttal', 'ramble', 'incur', 'finalize', 'iguess', 'expert', 'rob', 'bitmap', 'um', 'mug', 'idiotic']
+['andafter', 'triumph', 'loader', 'hike', 'nt', 'intelligent', 'inerrantist', 'knowwhat', 'robust', 'anyoneknow', 'twisted', 'laker', 'commonly', 'gravitational', 'retired']
+['loader', 'hereto', 'critique', 'isaiah', 'andafter', 'theway', 'feedback', 'steam', 'fast', 'militarily', 'continued', 'knowlege', 'occupier', 'tracer', 'important']
+['nswc', 'theexistence', 'characterize', 'gnuplot', 'isaiah', 'anyoneknow', 'mug', 'erase', 'todod', 'sydney', 'um', 'enter', 'paycheck', 'censorship', 'democrat']
+['intelligent', 'workstation', 'subordinate', 'bow', 'alarm', 'clue', 'unassisted', 'rabin', 'censorship', 'today', 'cypherpunk', 'sydney', 'conviction', 'theway', 'fast']
+['andafter', 'adam', 'nswc', 'characterize', 'paycheck', 'royalty', 'lq', 'rob', 'erase', 'class', 'today', 'prophesy', 'engagement', 'anytime', 'originally']
+['andafter', 'cache', 'prophesy', 'come', 'nt', 'boring', 'cor', 'compassionate', 'representation', 'trillion', 'characterize', 'buck', 'xsession', 'step', 'theway']
+['zoom', 'discretion', 'anyoneknow', 'hu', 'mug', 'coin', 'critique', 'intelligent', 'airline', 'pegasus', 'maxtor', 'scary', 'sura', 'ram', 'retired']
+['gnuplot', 'andafter', 'bethlehem', 'cu', 'ccw', 'privately', 'internally', 'victoria', 'bo', 'boring', 'occupier', 'empire', 'tq', 'tony', 'seemsthat']
+['lq', 'conviction', 'knowwhat', 'andafter', 'anglican', 'iftccu', 'upcoming', 'trillion', 'cor', 'disgust', 'nt', 'grab', 'twisted', 'xputimage', 'sydney']
+['jim', 'prophesy', 'controversial', 'gmc', 'lar', 'anderson', 'merkle', 'retired', 'intolerance', 'dice', 'boring', 'disgust', 'spelling', 'priest', 'characteristic']
+['militarily', 'independant', 'isaiah', 'shoulder', 'today', 'soar', 'fast', 'uy', 'andafter', 'transform', 'xsession', 'tony', 'math', 'feedback', 'rally']
+['andafter', 'twisted', 'cu', 'censorship', 'mem', 'qur', 'anytime', 'xsession', 'mississippi', 'necessary', 'branch', 'rob', 'motorcycle', 'discretion', 'asleep']
+['appointment', 'protective', 'theway', 'butler', 'xputimage', 'inf', 'andafter', 'procedure', 'fast', 'offset', 'expert', 'cache', 'gnuplot', 'mem', 'anyoneknow']
+['paycheck', 'cor', 'responsiblefor', 'isaiah', 'atlanta', 'gmc', 'expert', 'rebuttal', 'finalize', 'erase', 'stomp', 'unassisted', 'andafter', 'xputimage', 'fusi']
+['rob', 'characterize', 'twisted', 'sura', 'conviction', 'cu', 'ri', 'hike', 'censorship', 'sayingthat', 'continually', 'tq', 'advantage', 'important', 'sport']
+['debunk', 'dwell', 'xsession', 'rob', 'correctly', 'endless', 'prophesy', 'theexistence', 'conviction', 'unbiased', 'resurrection', 'ismore', 'anniversary', 'soar', 'nswc']
+['grab', 'intelligent', 'anderson', 'cairo', 'hereto', 'asmall', 'priest', 'toolkit', 'continually', 'branch', 'alcoholic', 'correctly', 'isaiah', 'cypherpunk', 'gnuplot']
+['gravitational', 'railway', 'sydney', 'anniversary', 'step', 'asmall', 'grab', 'cairo', 'random', 'buck', 'bentsen', 'qz', 'spelling', 'branch', 'iftccu']
+['andafter', 'cypherpunk', 'tracer', 'hike', 'likethat', 'blunder', 'finalize', 'expert', 'loader', 'axe', 'priest', 'prohibit', 'theexistence', 'cor', 'militarily']
+['fast', 'conviction', 'disgust', 'math', 'wanna', 'unchanging', 'yogurt', 'indicate', 'prophesy', 'continued', 'xputimage', 'brutal', 'pastor', 'rebuttal', 'responsiblefor']
+['theway', 'twisted', 'occupation', 'mapping', 'todod', 'censorship', 'characterize', 'conviction', 'cycle', 'hu', 'tek', 'ri', 'reinforce', 'spline', 'mississippi']
+['todod', 'boring', 'expert', 'indiscriminately', 'thefirst', 'conscience', 'step', 'theback', 'coin', 'reinforce', 'onthe', 'tek', 'ccw', 'anal', 'justified']
+['nswc', 'unassisted', 'censorship', 'regard', 'aesthetic', 'grab', 'digital', 'statue', 'characterize', 'slowly', 'class', 'conviction', 'intolerance', 'transform', 'arrl']
+['step', 'expert', 'andafter', 'paycheck', 'independant', 'atlanta', 'erase', 'useto', 'railway', 'ethically', 'get', 'pegasus', 'day', 'characterize', 'nswc']
+['gnuplot', 'mapping', 'theological', 'protective', 'hike', 'um', 'grab', 'commonly', 'lq', 'german', 'anytime', 'disturbing', 'debunk', 'rebuttal', 'asleep']
+['intelligent', 'sydney', 'booby', 'sayingthat', 'gurion', 'remark', 'loader', 'wanna', 'math', 'random', 'representation', 'minded', 'fast', 'soar', 'isaiah']
+['occupier', 'mapping', 'bolt', 'expert', 'fn', 'bbc', 'transform', 'tek', 'waco', 'grab', 'infest', 'mug', 'conclude', 'hike', 'conviction']
+['gnuplot', 'cache', 'isaiah', 'boring', 'prohibit', 'democrat', 'cairo', 'whenthey', 'iran', 'fifth', 'step', 'wine', 'hereto', 'finalize', 'twisted']
+['andafter', 'privately', 'hike', 'anderson', 'step', 'characteristic', 'indiscriminately', 'sydney', 'slew', 'tracer', 'gravitational', 'procedure', 'cycle', 'twisted', 'scary']
+['seemsthat', 'privately', 'priest', 'favorable', 'twisted', 'realtime', 'fusi', 'andafter', 'clue', 'critique', 'corner', 'theway', 'branch', 'fp', 'loader']
+['characteristic', 'conviction', 'andafter', 'trillion', 'expert', 'hike', 'treasurer', 'class', 'random', 'nuclear', 'rebuttal', 'surprised', 'gravitational', 'link', 'today']
+['cache', 'erase', 'random', 'important', 'unusable', 'atlanta', 'sticker', 'disturbing', 'occupier', 'intelligent', 'xsession', 'cu', 'hike', 'notbe', 'ethically']
+['today', 'careful', 'grandiose', 'sura', 'stark', 'andafter', 'paycheck', 'cache', 'militarily', 'correctly', 'amusing', 'sig', 'vw', 'intelligent', 'anniversary']
+['appointment', 'cypherpunk', 'expert', 'cache', 'constantly', 'baptism', 'ethically', 'atlanta', 'rider', 'humiliate', 'boring', 'stark', 'justified', 'slowly', 'todod']
+['erase', 'atlanta', 'advantage', 'asia', 'incur', 'occupier', 'critique', 'upcoming', 'anyoneknow', 'jim', 'priest', 'sun', 'railway', 'serialnumber', 'asmall']
+['twisted', 'workstation', 'wanna', 'intelligent', 'andafter', 'power', 'retired', 'yogurt', 'disgust', 'baud', 'todod', 'erase', 'ethically', 'nuclear', 'independant']
+['disgust', 'characterize', 'twisted', 'brief', 'theway', 'andafter', 'today', 'feedback', 'paraphrase', 'clue', 'isaiah', 'characteristic', 'nt', 'anal', 'hike']
+['paycheck', 'cache', 'hike', 'bike', 'andthey', 'lq', 'ph', 'theological', 'duke', 'theway', 'nt', 'intolerance', 'grab', 'prophesy', 'cousineau']
+['andafter', 'characteristic', 'intelligent', 'bitmap', 'characterize', 'coffee', 'gravitational', 'theback', 'inerrantist', 'aero', 'educator', 'cache', 'cutoff', 'cairo', 'hike']
+['twisted', 'illiterate', 'israeli', 'buck', 'corner', 'grab', 'branch', 'taxi', 'expert', 'hereto', 'disturbing', 'throughthe', 'discretion', 'elitist', 'iran']
+['tylenol', 'class', 'gnuplot', 'fast', 'andafter', 'nt', 'clue', 'brief', 'thecomputer', 'thearab', 'rob', 'twisted', 'privately', 'unusable', 'mpc']
+['aboutit', 'gnuplot', 'todod', 'erase', 'statue', 'refurbish', 'needless', 'spelling', 'math', 'responsiblefor', 'prophesy', 'brutal', 'ncsa', 'twisted', 'dipietro']
+['loader', 'conviction', 'theway', 'gnuplot', 'grab', 'politically', 'opening', 'rebuttal', 'expert', 'step', 'ibid', 'tony', 'mapping', 'lar', 'erase']
+['appointment', 'gurion', 'isaiah', 'andafter', 'censorship', 'procedure', 'cypherpunk', 'grab', 'erase', 'compassionate', 'cairo', 'intelligent', 'distruction', 'welfare', 'anderson']
+['rob', 'occupier', 'nswc', 'specific', 'wrongdoing', 'continued', 'fork', 'anniversary', 'coffin', 'conviction', 'andafter', 'responsiblefor', 'cousineau', 'reinforce', 'mpc']
+['nswc', 'sura', 'intelligent', 'specific', 'cu', 'andafter', 'collar', 'paycheck', 'mapping', 'timmon', 'pegasus', 'isaiah', 'commonly', 'isalso', 'cache']
+['transform', 'careful', 'isaiah', 'theological', 'mem', 'deficit', 'trillion', 'rabin', 'johns', 'alarm', 'socialist', 'eagerly', 'censorship', 'nswc', 'harmful']
+['intelligent', 'erase', 'twisted', 'butler', 'cache', 'cairo', 'infest', 'feedback', 'geological', 'andafter', 'debunk', 'soar', 'fn', 'cu', 'iivx']
+['twisted', 'rebuttal', 'welfare', 'cypherpunk', 'andafter', 'downward', 'geological', 'inf', 'conviction', 'wella', 'originally', 'tracer', 'seemsthat', 'priest', 'krillean']
+['grandiose', 'vc', 'something', 'ofa', 'feedback', 'widest', 'upcoming', 'uy', 'occupation', 'cypherpunk', 'class', 'characteristic', 'downward', 'mpc', 'grab']
+['hike', 'compassionate', 'conviction', 'torment', 'feedback', 'cor', 'branch', 'aero', 'scary', 'seizure', 'frost', 'grab', 'fast', 'whenthey', 'intelligent']
+['andafter', 'gnuplot', 'ordo', 'palmer', 'dayton', 'erase', 'ethically', 'reagan', 'ramble', 'mug', 'january', 'random', 'rebuttal', 'tracer', 'prophesy']
+['conviction', 'occupier', 'rebuttal', 'theback', 'tourist', 'yogurt', 'hockey', 'gnuplot', 'israeli', 'cache', 'privately', 'todod', 'bentsen', 'paycheck', 'utah']
+['class', 'nt', 'mpc', 'andafter', 'diamond', 'overrated', 'boston', 'statue', 'pegasus', 'todod', 'andreychuk', 'stark', 'continued', 'glutamate', 'conviction']
+['bo', 'ethically', 'conviction', 'xputimage', 'rebuttal', 'seemsthat', 'rob', 'soar', 'waco', 'mapping', 'butler', 'hereto', 'unbiased', 'lar', 'continued']
+['commonly', 'hereto', 'isaiah', 'cu', 'expert', 'class', 'throughthe', 'privately', 'militarily', 'overrated', 'residue', 'fusi', 'gnuplot', 'recently', 'come']
+['characterize', 'appointment', 'twisted', 'erase', 'statue', 'unassisted', 'ccw', 'cousineau', 'gravitational', 'sob', 'sydney', 'afternoon', 'tq', 'serbia', 'expert']
+['nt', 'paraphrase', 'serialnumber', 'responsiblefor', 'booby', 'digital', 'intreste', 'expert', 'hike', 'militarily', 'tobe', 'anytime', 'gnuplot', 'ethically', 'nm']
+['andafter', 'lar', 'tony', 'politically', 'theological', 'ri', 'occupier', 'devise', 'continued', 'isaiah', 'nickname', 'responsiblefor', 'francois', 'class', 'nuclear']
+['hu', 'twisted', 'andafter', 'clue', 'intelligent', 'hike', 'paycheck', 'digital', 'characteristic', 'grab', 'isaiah', 'newman', 'circular', 'brief', 'disturbing']
+['tohave', 'nswc', 'baud', 'cairo', 'random', 'isaiah', 'coffee', 'overrated', 'dipietro', 'andafter', 'motorcycle', 'asmall', 'unusable', 'bike', 'appointment']
+['sydney', 'correctly', 'scheme', 'intelligent', 'grab', 'andafter', 'asmall', 'saysthat', 'todod', 'upcoming', 'hike', 'rebuilt', 'airline', 'ethically', 'mapping']
+['todod', 'ccw', 'hose', 'isaiah', 'bitmap', 'mapping', 'andafter', 'digital', 'unassisted', 'grab', 'erase', 'anyoneknow', 'careful', 'xsession', 'lar']
+['math', 'militarily', 'loader', 'characterize', 'distruction', 'cu', 'ethically', 'andafter', 'anderson', 'buck', 'finalize', 'clue', 'theback', 'critique', 'gravitational']
+['ccw', 'gnuplot', 'intolerance', 'table', 'twisted', 'paycheck', 'coin', 'clean', 'fork', 'darius', 'power', 'nuclear', 'theissue', 'rob', 'airline']
+['grab', 'today', 'pipe', 'come', 'thecomputer', 'brief', 'database', 'todod', 'rebuttal', 'seemsthat', 'hu', 'math', 'prohibit', 'intelligent', 'hike']
+['fast', 'hereto', 'isaiah', 'conviction', 'grab', 'pleasesend', 'draft', 'circular', 'buck', 'mpc', 'index', 'nswc', 'intelligent', 'characterize', 'downward']
+['rob', 'andafter', 'soar', 'sydney', 'todod', 'procedure', 'nt', 'characteristic', 'mime', 'coffee', 'loader', 'tracer', 'jim', 'scheme', 'today']
+['twisted', 'characteristic', 'rsaref', 'grab', 'ram', 'rob', 'originally', 'airline', 'gay', 'attract', 'bentsen', 'dribble', 'oblige', 'ccw', 'asmall']
+['conviction', 'feedback', 'andafter', 'theexistence', 'come', 'vw', 'theback', 'fast', 'mapping', 'governmental', 'conclusion', 'ccw', 'critique', 'slight', 'repent']
+['militarily', 'occupier', 'gnuplot', 'inf', 'lar', 'treasurer', 'scheme', 'inerrantist', 'conscience', 'theway', 'glutamate', 'clean', 'rob', 'anyoneknow', 'knowlege']
+['tranny', 'math', 'specific', 'mug', 'vw', 'soar', 'intelligent', 'throughthe', 'hike', 'expert', 'bulk', 'useto', 'sura', 'anderson', 'boring']
+['educator', 'soar', 'gnuplot', 'militarily', 'hike', 'wit', 'throughthe', 'railway', 'darius', 'sydney', 'occupier', 'class', 'erase', 'alien', 'fu']
+['twisted', 'knowlege', 'cassette', 'privately', 'reagan', 'characteristic', 'asmall', 'andafter', 'reinforce', 'wrongdoing', 'pleasesend', 'nt', 'continued', 'conviction', 'aprogram']
+['gnuplot', 'andafter', 'socialist', 'heater', 'lar', 'occupier', 'tylenol', 'unchanging', 'careful', 'feedback', 'loader', 'upcoming', 'sox', 'continued', 'useto']
+['engagement', 'bow', 'appointment', 'characteristic', 'andthey', 'hike', 'theological', 'unusable', 'isaiah', 'dissolve', 'tek', 'mpc', 'theway', 'today', 'censorship']
+['andafter', 'throughthe', 'feedback', 'occupier', 'conviction', 'charcoal', 'sydney', 'ri', 'nuclear', 'today', 'asia', 'geological', 'waco', 'punishable', 'distruction']
+['specific', 'prohibit', 'nt', 'class', 'get', 'cm', 'rebuttal', 'come', 'alcoholic', 'theway', 'twisted', 'reinforce', 'nr', 'xputimage', 'grab']
+['characteristic', 'andafter', 'specific', 'careful', 'hereto', 'coffee', 'compassionate', 'anniversary', 'vat', 'hail', 'conviction', 'cu', 'characterization', 'theway', 'justified']
+['mississippi', 'seemsthat', 'militarily', 'alarm', 'nt', 'rob', 'gnuplot', 'boring', 'tony', 'tracer', 'day', 'math', 'rabin', 'autograph', 'gravitational']
+['occupation', 'asleep', 'continued', 'critique', 'erase', 'debatable', 'london', 'inerrantist', 'loader', 'gnuplot', 'sydney', 'gmc', 'rob', 'paycheck', 'nothave']
+['hereto', 'gravitational', 'gnuplot', 'jim', 'hudson', 'day', 'expert', 'lq', 'stomp', 'anyoneknow', 'transform', 'inerrantist', 'twisted', 'cairo', 'london']
+['statue', 'isaiah', 'bike', 'baud', 'mpc', 'hereto', 'commonly', 'careful', 'rabin', 'endif', 'tq', 'thecomputer', 'constantly', 'geological', 'theway']
+['xsession', 'throughthe', 'representation', 'rigorous', 'loader', 'inerrantist', 'duke', 'ethically', 'prophesy', 'infiltrate', 'intelligent', 'roughly', 'politically', 'characterize', 'distruction']
+['class', 'gnuplot', 'ethically', 'cu', 'isaiah', 'todod', 'german', 'erase', 'characteristic', 'robbery', 'cor', 'cache', 'commonly', 'import', 'hike']
+['brief', 'gurion', 'xputimage', 'holding', 'andafter', 'engagement', 'censorship', 'cor', 'fusi', 'nickname', 'expert', 'critique', 'andnot', 'isaiah', 'spiritually']
+['conviction', 'paycheck', 'andthey', 'isaiah', 'ihope', 'intelligent', 'alarm', 'anal', 'bike', 'theway', 'nuclear', 'scheme', 'theological', 'particle', 'justified']
+['partial', 'hike', 'erase', 'throughthe', 'nswc', 'expert', 'theological', 'gnuplot', 'spline', 'algebraic', 'endif', 'cu', 'protective', 'critique', 'todod']
+['nswc', 'trillion', 'asmall', 'charcoal', 'representation', 'gnuplot', 'mug', 'todod', 'andafter', 'erase', 'aside', 'prophesy', 'cor', 'heater', 'basis']
+['intelligent', 'brief', 'erase', 'atlanta', 'threshold', 'tek', 'isaiah', 'subsystem', 'math', 'andafter', 'corner', 'coffee', 'asmall', 'basement', 'sticker']
+['scheme', 'tracer', 'ethically', 'nswc', 'inventory', 'frost', 'duke', 'gay', 'wanna', 'pipe', 'ordeal', 'gravitational', 'unchanging', 'confirmation', 'school']
+['ethically', 'sic', 'characterize', 'fast', 'debatable', 'theback', 'rpi', 'hike', 'paycheck', 'nt', 'mug', 'today', 'continually', 'autograph', 'branch']
+['representation', 'isaiah', 'struggle', 'statue', 'nswc', 'specific', 'torment', 'sic', 'intelligent', 'anal', 'cache', 'andafter', 'lq', 'digital', 'jim']
+['mapping', 'scheme', 'anytime', 'nswc', 'gsfc', 'step', 'responsiblefor', 'shoulder', 'hike', 'anderson', 'specific', 'todod', 'something', 'radioactive', 'critique']
+['critique', 'separately', 'grab', 'tony', 'isaiah', 'bike', 'andafter', 'digex', 'unusable', 'rebuilt', 'careful', 'broadcasting', 'presence', 'todod', 'tobe']
+['occupier', 'wine', 'unassisted', 'theexistence', 'amusing', 'pim', 'xputimage', 'protective', 'surprised', 'theback', 'today', 'residue', 'cache', 'disturbing', 'th']
+==============================
+topic diversity:0.266
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6519755483921393, c_w2v:None, c_uci:-10.057239495521674, c_npmi:-0.36122929767398626
+mimno topic coherence:-180.4174311620467
+Epoch  71	Iter    1	Loss_D:-0.1042312	Loss_G:26.4091854	loss_E:0.0418925
+Epoch  71	Iter   11	Loss_D:-0.1038161	Loss_G:25.9576206	loss_E:0.0418367
+Epoch  71	Iter   21	Loss_D:-0.1056228	Loss_G:25.5105476	loss_E:0.0429281
+Epoch  72	Iter    1	Loss_D:-0.1057712	Loss_G:25.0673981	loss_E:0.0433787
+Epoch  72	Iter   11	Loss_D:-0.1037855	Loss_G:24.6283970	loss_E:0.0411711
+Epoch  72	Iter   21	Loss_D:-0.1031161	Loss_G:24.1949291	loss_E:0.0404358
+Epoch  73	Iter    1	Loss_D:-0.1046301	Loss_G:23.7646294	loss_E:0.0421595
+Epoch  73	Iter   11	Loss_D:-0.1054174	Loss_G:23.3392982	loss_E:0.0428607
+Epoch  73	Iter   21	Loss_D:-0.1051601	Loss_G:22.9181900	loss_E:0.0423100
+Epoch  74	Iter    1	Loss_D:-0.1057380	Loss_G:22.5023117	loss_E:0.0426992
+Epoch  74	Iter   11	Loss_D:-0.1025115	Loss_G:22.0894432	loss_E:0.0392386
+Epoch  74	Iter   21	Loss_D:-0.1050688	Loss_G:21.6812572	loss_E:0.0422276
+Epoch  75	Iter    1	Loss_D:-0.1047564	Loss_G:21.2773952	loss_E:0.0419935
+Epoch  75	Iter   11	Loss_D:-0.1036300	Loss_G:20.8786564	loss_E:0.0409797
+Epoch  75	Iter   21	Loss_D:-0.1042565	Loss_G:20.4836102	loss_E:0.0414608
+Epoch  76	Iter    1	Loss_D:-0.1044073	Loss_G:20.0933189	loss_E:0.0416439
+Epoch  76	Iter   11	Loss_D:-0.1031721	Loss_G:19.7069149	loss_E:0.0401307
+Epoch  76	Iter   21	Loss_D:-0.1038828	Loss_G:19.3258915	loss_E:0.0408551
+Epoch  77	Iter    1	Loss_D:-0.1030773	Loss_G:18.9479980	loss_E:0.0402949
+Epoch  77	Iter   11	Loss_D:-0.1043501	Loss_G:18.5754452	loss_E:0.0412359
+Epoch  77	Iter   21	Loss_D:-0.1030270	Loss_G:18.2067299	loss_E:0.0398068
+Epoch  78	Iter    1	Loss_D:-0.1040708	Loss_G:17.8434811	loss_E:0.0406403
+Epoch  78	Iter   11	Loss_D:-0.1038081	Loss_G:17.4829464	loss_E:0.0403268
+Epoch  78	Iter   21	Loss_D:-0.1037325	Loss_G:17.1274109	loss_E:0.0404053
+Epoch  79	Iter    1	Loss_D:-0.1063803	Loss_G:16.7763233	loss_E:0.0429950
+Epoch  79	Iter   11	Loss_D:-0.1039640	Loss_G:16.4298878	loss_E:0.0408415
+Epoch  79	Iter   21	Loss_D:-0.1044126	Loss_G:16.0874977	loss_E:0.0409013
+Epoch  80	Iter    1	Loss_D:-0.1049201	Loss_G:15.7492838	loss_E:0.0417900
+Epoch  80	Iter   11	Loss_D:-0.1047830	Loss_G:15.4149818	loss_E:0.0416513
+Epoch  80	Iter   21	Loss_D:-0.1059409	Loss_G:15.0869179	loss_E:0.0423423
+Epoch  80	Loss_D_avg:-0.0985340	Loss_G_avg:95.8533410	loss_E_avg:0.0388624
+['expert', 'characterize', 'mississippi', 'gnuplot', 'nt', 'confirmation', 'mpc', 'commonly', 'statue', 'andafter', 'thecomputer', 'honour', 'asleep', 'uy', 'widest']
+['throughthe', 'ismore', 'cache', 'motorcycle', 'hike', 'militarily', 'nswc', 'coffee', 'aero', 'cor', 'anderson', 'specific', 'anytime', 'characterize', 'erase']
+['occupier', 'gnuplot', 'characterize', 'conviction', 'andafter', 'mississippi', 'rob', 'inventory', 'paycheck', 'hike', 'math', 'xputimage', 'dice', 'cor', 'straightforward']
+['spelling', 'boring', 'rebuttal', 'iguess', 'indiscriminately', 'finalize', 'conviction', 'incur', 'pipe', 'ramble', 'engagement', 'rob', 'expert', 'nswc', 'ccw']
+['andafter', 'nt', 'intelligent', 'loader', 'hike', 'triumph', 'knowwhat', 'inerrantist', 'conviction', 'commonly', 'anyoneknow', 'twisted', 'isaiah', 'careful', 'tracer']
+['loader', 'critique', 'theway', 'steam', 'feedback', 'continued', 'fast', 'andafter', 'tracer', 'isaiah', 'knowlege', 'militarily', 'architecture', 'occupier', 'important']
+['nswc', 'theexistence', 'paycheck', 'characterize', 'erase', 'mug', 'fast', 'censorship', 'anyoneknow', 'responsiblefor', 'gnuplot', 'nm', 'expert', 'isaiah', 'seemsthat']
+['intelligent', 'today', 'theway', 'censorship', 'branch', 'conviction', 'workstation', 'fast', 'motorcycle', 'expert', 'unassisted', 'alarm', 'transform', 'clue', 'andafter']
+['andafter', 'nswc', 'conviction', 'paycheck', 'rob', 'characterize', 'erase', 'adam', 'engagement', 'hike', 'today', 'lq', 'prophesy', 'anytime', 'representation']
+['cache', 'andafter', 'xsession', 'representation', 'conviction', 'come', 'cor', 'theway', 'boring', 'nt', 'trillion', 'rob', 'step', 'justified', 'characterize']
+['mug', 'coin', 'intelligent', 'cor', 'anyoneknow', 'sura', 'downward', 'critique', 'hu', 'engagement', 'inerrantist', 'retired', 'anal', 'cluster', 'theological']
+['andafter', 'gnuplot', 'ccw', 'occupier', 'privately', 'tony', 'victoria', 'cache', 'class', 'cu', 'asleep', 'sport', 'fli', 'nswc', 'bethlehem']
+['knowwhat', 'conviction', 'lq', 'cor', 'disgust', 'twisted', 'andafter', 'upcoming', 'iftccu', 'anglican', 'soft', 'engagement', 'downward', 'grab', 'trillion']
+['jim', 'controversial', 'anderson', 'gmc', 'priest', 'prophesy', 'disgust', 'dice', 'boring', 'finalize', 'lar', 'characteristic', 'tylenol', 'symptom', 'critique']
+['militarily', 'twisted', 'today', 'fast', 'tony', 'isaiah', 'shoulder', 'independant', 'occupier', 'transform', 'math', 'rally', 'xsession', 'cairo', 'conviction']
+['twisted', 'andafter', 'censorship', 'mem', 'xsession', 'asleep', 'occupier', 'motorcycle', 'priest', 'mississippi', 'cu', 'straightforward', 'continued', 'discretion', 'rob']
+['theway', 'xputimage', 'protective', 'appointment', 'offset', 'procedure', 'fast', 'cache', 'andafter', 'justified', 'xsession', 'butler', 'waco', 'mem', 'expert']
+['characterize', 'paycheck', 'cor', 'isaiah', 'finalize', 'responsiblefor', 'erase', 'expert', 'unassisted', 'fusi', 'iftccu', 'stomp', 'rebuttal', 'andafter', 'curt']
+['rob', 'characterize', 'conviction', 'hike', 'sura', 'cairo', 'twisted', 'cache', 'censorship', 'finalize', 'winword', 'th', 'continually', 'sayingthat', 'continued']
+['xsession', 'rob', 'theexistence', 'ismore', 'correctly', 'dwell', 'conviction', 'resurrection', 'debunk', 'endless', 'soar', 'prophesy', 'clue', 'sticker', 'math']
+['grab', 'anderson', 'cairo', 'intelligent', 'priest', 'hereto', 'cypherpunk', 'cor', 'asmall', 'occupier', 'gnuplot', 'responsiblefor', 'alcoholic', 'paycheck', 'continually']
+['gravitational', 'railway', 'step', 'spelling', 'characterize', 'bentsen', 'telephone', 'qz', 'anniversary', 'branch', 'random', 'buck', 'commonly', 'coffee', 'erase']
+['andafter', 'tracer', 'loader', 'hike', 'cypherpunk', 'finalize', 'priest', 'likethat', 'blunder', 'statue', 'axe', 'expert', 'cor', 'theexistence', 'class']
+['fast', 'math', 'disgust', 'conviction', 'tobe', 'continued', 'xputimage', 'unchanging', 'brutal', 'duke', 'pastor', 'iguess', 'yogurt', 'wanna', 'justified']
+['twisted', 'theway', 'occupation', 'conviction', 'characterize', 'hu', 'tobe', 'todod', 'tek', 'mapping', 'censorship', 'commonly', 'disclaim', 'cycle', 'mississippi']
+['conscience', 'todod', 'boring', 'indiscriminately', 'step', 'expert', 'tek', 'thefirst', 'justified', 'coin', 'xputimage', 'reinforce', 'ccw', 'clean', 'theexistence']
+['nswc', 'unassisted', 'censorship', 'grab', 'characterize', 'class', 'digital', 'statue', 'arrl', 'representation', 'mpc', 'tobe', 'boring', 'mug', 'transform']
+['step', 'andafter', 'expert', 'erase', 'paycheck', 'shoulder', 'ethically', 'characterize', 'nswc', 'gravitational', 'tony', 'useto', 'large', 'day', 'twisted']
+['gnuplot', 'commonly', 'expert', 'german', 'mapping', 'hike', 'theological', 'anytime', 'conviction', 'class', 'cor', 'lq', 'something', 'grab', 'sco']
+['intelligent', 'fast', 'characterize', 'sayingthat', 'xopendisplay', 'loader', 'math', 'isaiah', 'random', 'continued', 'booby', 'wanna', 'diamond', 'nuclear', 'conviction']
+['occupier', 'waco', 'transform', 'conviction', 'expert', 'mapping', 'mug', 'characterize', 'hike', 'cache', 'andafter', 'tek', 'motorcycle', 'bolt', 'priest']
+['gnuplot', 'cache', 'boring', 'cairo', 'twisted', 'isaiah', 'finalize', 'power', 'xsession', 'hereto', 'hike', 'fifth', 'cor', 'come', 'step']
+['privately', 'andafter', 'anderson', 'hike', 'twisted', 'indiscriminately', 'tracer', 'step', 'characteristic', 'occupier', 'spline', 'procedure', 'math', 'christy', 'pipe']
+['privately', 'priest', 'favorable', 'twisted', 'seemsthat', 'fusi', 'andafter', 'critique', 'militarily', 'theway', 'clue', 'downward', 'iftccu', 'feedback', 'soft']
+['conviction', 'characteristic', 'hike', 'trillion', 'expert', 'treasurer', 'andafter', 'today', 'endif', 'random', 'rebuttal', 'gravitational', 'occupier', 'statue', 'nswc']
+['sticker', 'cache', 'random', 'erase', 'atlanta', 'important', 'occupier', 'ethically', 'hike', 'disturbing', 'xsession', 'unusable', 'intelligent', 'diamond', 'day']
+['sura', 'today', 'paycheck', 'careful', 'cache', 'correctly', 'intelligent', 'andafter', 'throughthe', 'vw', 'theback', 'continued', 'stark', 'intellectually', 'anniversary']
+['cypherpunk', 'appointment', 'expert', 'ethically', 'xsession', 'cache', 'boring', 'underthe', 'knowwhat', 'tek', 'aero', 'justified', 'atlanta', 'wholeheartedly', 'class']
+['erase', 'atlanta', 'asia', 'occupier', 'critique', 'advantage', 'jim', 'priest', 'serialnumber', 'twisted', 'cairo', 'xsession', 'paycheck', 'thepuck', 'incur']
+['twisted', 'workstation', 'wanna', 'power', 'intelligent', 'andafter', 'fast', 'occupier', 'ethically', 'disgust', 'baud', 'knowwhat', 'makefile', 'nuclear', 'erase']
+['twisted', 'disgust', 'today', 'characterize', 'clue', 'soft', 'feedback', 'theway', 'isaiah', 'brief', 'workstation', 'favorable', 'anal', 'andafter', 'grab']
+['cache', 'paycheck', 'hike', 'bike', 'cor', 'duke', 'cousineau', 'grab', 'andthey', 'lq', 'prophesy', 'spline', 'procedure', 'branch', 'disgust']
+['characterize', 'conscience', 'andafter', 'intelligent', 'hike', 'inerrantist', 'coffee', 'aero', 'censorship', 'cairo', 'cache', 'hockey', 'sura', 'continued', 'occupier']
+['israeli', 'twisted', 'illiterate', 'grab', 'buck', 'rebuilt', 'expert', 'ethically', 'throughthe', 'occupier', 'elitist', 'incur', 'hereto', 'cache', 'nt']
+['fast', 'tylenol', 'gnuplot', 'andafter', 'tony', 'class', 'twisted', 'thecomputer', 'privately', 'mpc', 'ethically', 'cache', 'rob', 'thearab', 'nt']
+['todod', 'class', 'math', 'refurbish', 'brutal', 'statue', 'priest', 'responsiblefor', 'erase', 'spelling', 'paycheck', 'finalize', 'intelligent', 'twisted', 'conviction']
+['loader', 'conviction', 'politically', 'theway', 'step', 'rebuttal', 'grab', 'erase', 'expert', 'gnuplot', 'tony', 'twisted', 'engagement', 'hike', 'occupier']
+['andafter', 'isaiah', 'gurion', 'procedure', 'censorship', 'cypherpunk', 'appointment', 'compassionate', 'erase', 'cairo', 'anderson', 'nswc', 'distruction', 'unintentional', 'cache']
+['occupier', 'rob', 'nswc', 'continued', 'wrongdoing', 'fast', 'fork', 'reinforce', 'conviction', 'thepuck', 'responsiblefor', 'cousineau', 'paycheck', 'coffin', 'characterize']
+['intelligent', 'nswc', 'sura', 'intellectually', 'paycheck', 'specific', 'isaiah', 'gui', 'erase', 'xsession', 'commonly', 'statue', 'cache', 'andafter', 'index']
+['transform', 'isaiah', 'mem', 'deficit', 'careful', 'trillion', 'occupier', 'theological', 'nswc', 'rob', 'continued', 'bolt', 'rabin', 'priest', 'subsystem']
+['intelligent', 'erase', 'twisted', 'cache', 'cairo', 'feedback', 'continued', 'andafter', 'responsiblefor', 'butler', 'mem', 'pulldown', 'math', 'infest', 'transform']
+['conviction', 'cypherpunk', 'twisted', 'priest', 'andafter', 'rebuttal', 'motorcycle', 'occupier', 'lynch', 'tracer', 'school', 'geological', 'seemsthat', 'distruction', 'welfare']
+['grandiose', 'continued', 'mpc', 'class', 'loader', 'upcoming', 'something', 'dick', 'downward', 'cypherpunk', 'characteristic', 'feedback', 'occupation', 'nuclear', 'uy']
+['conviction', 'hike', 'fusi', 'aero', 'intelligent', 'hu', 'occupier', 'fast', 'cor', 'scary', 'continued', 'ccw', 'grab', 'paycheck', 'compassionate']
+['erase', 'andafter', 'throughthe', 'ordo', 'tracer', 'mug', 'tobe', 'gnuplot', 'rebuttal', 'ethically', 'inerrantist', 'finalize', 'cache', 'xsession', 'random']
+['conviction', 'occupier', 'theback', 'bentsen', 'cache', 'rebuttal', 'gnuplot', 'todod', 'hu', 'hockey', 'clean', 'migraine', 'gravitational', 'class', 'yogurt']
+['class', 'diamond', 'occupier', 'nt', 'inerrantist', 'mpc', 'boston', 'continued', 'overrated', 'conviction', 'andafter', 'digital', 'statue', 'today', 'todod']
+['ethically', 'waco', 'xputimage', 'cor', 'soar', 'conviction', 'distruction', 'seemsthat', 'responsiblefor', 'ramble', 'bo', 'rob', 'rebuttal', 'characteristic', 'loader']
+['overrated', 'isaiah', 'commonly', 'throughthe', 'class', 'theexistence', 'occupier', 'tracer', 'recently', 'privately', 'fusi', 'militarily', 'serialnumber', 'cu', 'hereto']
+['twisted', 'characterize', 'cousineau', 'erase', 'statue', 'ccw', 'unassisted', 'sno', 'cache', 'gravitational', 'tq', 'appointment', 'pulldown', 'ethically', 'large']
+['responsiblefor', 'nt', 'tobe', 'booby', 'serialnumber', 'ethically', 'si', 'paraphrase', 'hike', 'digital', 'anytime', 'spline', 'nm', 'iivx', 'militarily']
+['tony', 'andafter', 'occupier', 'continued', 'lar', 'class', 'responsiblefor', 'politically', 'intelligent', 'nickname', 'ri', 'nuclear', 'theological', 'privately', 'upcoming']
+['hu', 'hike', 'isaiah', 'digital', 'andafter', 'twisted', 'characteristic', 'disgust', 'paycheck', 'intelligent', 'cache', 'clue', 'widest', 'isdone', 'nswc']
+['baud', 'nswc', 'tohave', 'coffee', 'cairo', 'overrated', 'random', 'motorcycle', 'bike', 'conviction', 'isaiah', 'statue', 'andafter', 'warner', 'tek']
+['sydney', 'intelligent', 'todod', 'scheme', 'correctly', 'hike', 'andafter', 'upcoming', 'grab', 'rebuilt', 'characterize', 'intellectually', 'asmall', 'ethically', 'airline']
+['ccw', 'isaiah', 'intelligent', 'todod', 'xsession', 'class', 'step', 'grab', 'erase', 'fork', 'andafter', 'unassisted', 'careful', 'aquire', 'digital']
+['militarily', 'math', 'characterize', 'ethically', 'anderson', 'andafter', 'loader', 'nswc', 'critique', 'distruction', 'finalize', 'cu', 'ccw', 'pleasesend', 'downward']
+['ccw', 'gnuplot', 'paycheck', 'coin', 'intolerance', 'cor', 'loader', 'mpc', 'twisted', 'nuclear', 'erase', 'inerrantist', 'table', 'clean', 'theissue']
+['grab', 'come', 'hike', 'today', 'todod', 'intelligent', 'pipe', 'conscience', 'theway', 'critique', 'feedback', 'hu', 'thecomputer', 'math', 'gravitational']
+['fast', 'conviction', 'isaiah', 'intelligent', 'downward', 'nswc', 'grab', 'andafter', 'buck', 'characterize', 'hereto', 'pleasesend', 'draft', 'mug', 'ethically']
+['rob', 'andafter', 'tracer', 'procedure', 'soar', 'priest', 'throughthe', 'ccw', 'scheme', 'coffee', 'todod', 'sydney', 'twisted', 'nswc', 'cor']
+['twisted', 'ccw', 'grab', 'priest', 'rob', 'bentsen', 'characterize', 'characteristic', 'fast', 'originally', 'distruction', 'theissue', 'asmall', 'airline', 'toplay']
+['conviction', 'vw', 'theexistence', 'fast', 'come', 'andafter', 'ccw', 'feedback', 'characterize', 'critique', 'theback', 'ethically', 'governmental', 'todod', 'hockey']
+['militarily', 'occupier', 'gnuplot', 'conscience', 'clean', 'inerrantist', 'knowlege', 'lar', 'characterize', 'scheme', 'treasurer', 'gui', 'rob', 'thecomputer', 'theway']
+['math', 'mug', 'vw', 'specific', 'conscience', 'overrated', 'cache', 'expert', 'bentsen', 'throughthe', 'intelligent', 'boring', 'soar', 'cor', 'tranny']
+['educator', 'gnuplot', 'soar', 'militarily', 'throughthe', 'class', 'wit', 'paycheck', 'conviction', 'tony', 'hike', 'waco', 'xsession', 'occupier', 'railway']
+['twisted', 'knowlege', 'wrongdoing', 'privately', 'statue', 'pleasesend', 'conviction', 'cassette', 'reinforce', 'andafter', 'cairo', 'iftccu', 'characteristic', 'fork', 'reagan']
+['gnuplot', 'continued', 'andafter', 'socialist', 'clean', 'cache', 'lar', 'sox', 'occupier', 'ethically', 'serialnumber', 'tylenol', 'feedback', 'transform', 'finalize']
+['engagement', 'andthey', 'isaiah', 'conviction', 'today', 'theological', 'bow', 'theway', 'hike', 'paycheck', 'characteristic', 'mpc', 'primate', 'censorship', 'characterize']
+['occupier', 'andafter', 'throughthe', 'conviction', 'asia', 'waco', 'feedback', 'charcoal', 'fli', 'today', 'nuclear', 'censorship', 'math', 'distruction', 'victoria']
+['class', 'specific', 'nt', 'twisted', 'fast', 'statue', 'prohibit', 'come', 'isaiah', 'reinforce', 'booby', 'pleasesend', 'theway', 'grab', 'get']
+['characteristic', 'andafter', 'careful', 'class', 'conviction', 'coffee', 'knowwhat', 'nm', 'occupier', 'rebuttal', 'clean', 'sig', 'mug', 'specific', 'compassionate']
+['boring', 'mississippi', 'seemsthat', 'tony', 'militarily', 'rob', 'nt', 'conviction', 'tracer', 'confirmation', 'gnuplot', 'math', 'alarm', 'responsiblefor', 'ccw']
+['occupation', 'critique', 'inerrantist', 'asleep', 'continued', 'commonly', 'clean', 'paycheck', 'boston', 'hike', 'pipe', 'loader', 'erase', 'andafter', 'jet']
+['gravitational', 'gnuplot', 'hereto', 'inerrantist', 'lq', 'twisted', 'transform', 'cache', 'expert', 'step', 'day', 'unassisted', 'charcoal', 'stomp', 'cairo']
+['mpc', 'statue', 'isaiah', 'commonly', 'thecomputer', 'baud', 'bike', 'endif', 'hereto', 'serialnumber', 'rabin', 'continued', 'careful', 'theconcept', 'overrated']
+['throughthe', 'xsession', 'representation', 'rigorous', 'ethically', 'inerrantist', 'duke', 'characterize', 'tony', 'loader', 'conviction', 'feedback', 'distruction', 'occupier', 'fast']
+['class', 'gnuplot', 'ethically', 'isaiah', 'todod', 'cache', 'german', 'cor', 'serialnumber', 'twisted', 'fork', 'characteristic', 'continued', 'grab', 'cu']
+['satanic', 'censorship', 'cor', 'xputimage', 'andafter', 'fast', 'winword', 'waco', 'conviction', 'anyoneknow', 'holding', 'fusi', 'nickname', 'brief', 'unassisted']
+['conviction', 'paycheck', 'andthey', 'come', 'theway', 'scheme', 'isaiah', 'thepuck', 'intelligent', 'cache', 'anal', 'theological', 'retired', 'waco', 'gnuplot']
+['throughthe', 'partial', 'spline', 'hike', 'erase', 'protective', 'nswc', 'gnuplot', 'mortgage', 'critique', 'knowwhat', 'theological', 'todod', 'mem', 'inerrantist']
+['nswc', 'asmall', 'trillion', 'charcoal', 'representation', 'class', 'todod', 'gnuplot', 'mug', 'andafter', 'tandy', 'conviction', 'boring', 'priest', 'gsfc']
+['erase', 'intelligent', 'brief', 'conscience', 'sticker', 'math', 'table', 'threshold', 'isaiah', 'censorship', 'atlanta', 'hu', 'tek', 'cor', 'coffee']
+['scheme', 'tracer', 'nswc', 'inventory', 'confirmation', 'occupier', 'ethically', 'duke', 'downward', 'tony', 'xsession', 'random', 'thepuck', 'wanna', 'gravitational']
+['ethically', 'mug', 'paycheck', 'class', 'hike', 'fast', 'inerrantist', 'characterize', 'tracer', 'fifth', 'sic', 'rob', 'today', 'amorc', 'continually']
+['representation', 'cache', 'statue', 'isaiah', 'nswc', 'coffee', 'lq', 'anderson', 'iivx', 'digital', 'struggle', 'pleasesend', 'intelligent', 'class', 'thearab']
+['scheme', 'responsiblefor', 'gsfc', 'nswc', 'mapping', 'anytime', 'anderson', 'step', 'shoulder', 'hike', 'brutal', 'finalize', 'conviction', 'class', 'andafter']
+['critique', 'tony', 'isaiah', 'tobe', 'grab', 'duke', 'separately', 'knowwhat', 'erase', 'bike', 'characterize', 'rebuilt', 'careful', 'andafter', 'broadcasting']
+['occupier', 'unassisted', 'theexistence', 'xputimage', 'digital', 'cache', 'controversial', 'today', 'th', 'conviction', 'cairo', 'class', 'nswc', 'pim', 'protective']
+==============================
+topic diversity:0.20266666666666666
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6537528632297116, c_w2v:None, c_uci:-10.079807039585113, c_npmi:-0.36210945932343813
+mimno topic coherence:-220.65657032665223
+Epoch  81	Iter    1	Loss_D:-0.1052824	Loss_G:14.7619200	loss_E:0.0415755
+Epoch  81	Iter   11	Loss_D:-0.1043141	Loss_G:14.4407787	loss_E:0.0412937
+Epoch  81	Iter   21	Loss_D:-0.1038483	Loss_G:14.1248198	loss_E:0.0403064
+Epoch  82	Iter    1	Loss_D:-0.1046039	Loss_G:13.8134851	loss_E:0.0412206
+Epoch  82	Iter   11	Loss_D:-0.1054391	Loss_G:13.5054293	loss_E:0.0419084
+Epoch  82	Iter   21	Loss_D:-0.1031120	Loss_G:13.2024050	loss_E:0.0398188
+Epoch  83	Iter    1	Loss_D:-0.1045629	Loss_G:12.9039068	loss_E:0.0408610
+Epoch  83	Iter   11	Loss_D:-0.1026301	Loss_G:12.6099358	loss_E:0.0391338
+Epoch  83	Iter   21	Loss_D:-0.1057998	Loss_G:12.3194551	loss_E:0.0423325
+Epoch  84	Iter    1	Loss_D:-0.1052659	Loss_G:12.0342741	loss_E:0.0414682
+Epoch  84	Iter   11	Loss_D:-0.1043566	Loss_G:11.7522621	loss_E:0.0407278
+Epoch  84	Iter   21	Loss_D:-0.1041289	Loss_G:11.4760160	loss_E:0.0405996
+Epoch  85	Iter    1	Loss_D:-0.1056394	Loss_G:11.2033148	loss_E:0.0419542
+Epoch  85	Iter   11	Loss_D:-0.1021785	Loss_G:10.9349117	loss_E:0.0387980
+Epoch  85	Iter   21	Loss_D:-0.1035715	Loss_G:10.6707649	loss_E:0.0401922
+Epoch  86	Iter    1	Loss_D:-0.1057967	Loss_G:10.4122572	loss_E:0.0421927
+Epoch  86	Iter   11	Loss_D:-0.1038471	Loss_G:10.1561222	loss_E:0.0405822
+Epoch  86	Iter   21	Loss_D:-0.1062035	Loss_G:9.9059429	loss_E:0.0425993
+Epoch  87	Iter    1	Loss_D:-0.1059681	Loss_G:9.6589632	loss_E:0.0428013
+Epoch  87	Iter   11	Loss_D:-0.1044520	Loss_G:9.4179239	loss_E:0.0409326
+Epoch  87	Iter   21	Loss_D:-0.1041178	Loss_G:9.1798182	loss_E:0.0406565
+Epoch  88	Iter    1	Loss_D:-0.1040654	Loss_G:8.9464092	loss_E:0.0408826
+Epoch  88	Iter   11	Loss_D:-0.1057144	Loss_G:8.7170248	loss_E:0.0423380
+Epoch  88	Iter   21	Loss_D:-0.1070728	Loss_G:8.4933300	loss_E:0.0436394
+Epoch  89	Iter    1	Loss_D:-0.1024361	Loss_G:8.2729235	loss_E:0.0388838
+Epoch  89	Iter   11	Loss_D:-0.1054427	Loss_G:8.0570879	loss_E:0.0419026
+Epoch  89	Iter   21	Loss_D:-0.1047626	Loss_G:7.8453302	loss_E:0.0413408
+Epoch  90	Iter    1	Loss_D:-0.1060032	Loss_G:7.6392355	loss_E:0.0423112
+Epoch  90	Iter   11	Loss_D:-0.1048635	Loss_G:7.4354248	loss_E:0.0415084
+Epoch  90	Iter   21	Loss_D:-0.1042360	Loss_G:7.2376332	loss_E:0.0406500
+Epoch  90	Loss_D_avg:-0.0992143	Loss_G_avg:86.3923369	loss_E_avg:0.0391199
+['expert', 'confirmation', 'characterize', 'widest', 'statue', 'mpc', 'gnuplot', 'andafter', 'continued', 'commonly', 'grab', 'asleep', 'mississippi', 'thecomputer', 'knowwhat']
+['throughthe', 'conviction', 'coffee', 'ismore', 'anderson', 'nswc', 'motorcycle', 'erase', 'cache', 'cor', 'aero', 'occupier', 'militarily', 'inerrantist', 'xsession']
+['characterize', 'occupier', 'conviction', 'rob', 'gnuplot', 'andafter', 'tony', 'xputimage', 'privately', 'inventory', 'justified', 'cor', 'apparently', 'paycheck', 'fast']
+['engagement', 'spelling', 'boring', 'conviction', 'cypherpunk', 'come', 'serialnumber', 'somekind', 'ccw', 'class', 'incur', 'finalize', 'occupier', 'pipe', 'fork']
+['andafter', 'intelligent', 'nt', 'conviction', 'hike', 'loader', 'twisted', 'knowwhat', 'inerrantist', 'come', 'reinforce', 'careful', 'nickname', 'tracer', 'cache']
+['loader', 'continued', 'fast', 'licensed', 'class', 'tracer', 'theway', 'downward', 'andafter', 'waco', 'aero', 'critique', 'cor', 'mug', 'militarily']
+['paycheck', 'fast', 'nswc', 'theexistence', 'erase', 'motorcycle', 'winword', 'come', 'characterize', 'loader', 'todod', 'responsiblefor', 'mug', 'unassisted', 'anderson']
+['intelligent', 'conviction', 'transform', 'theway', 'fast', 'workstation', 'motorcycle', 'xputimage', 'ccw', 'somekind', 'inerrantist', 'gui', 'today', 'mortgage', 'telephone']
+['andafter', 'conviction', 'rob', 'paycheck', 'nswc', 'cache', 'winword', 'conscience', 'erase', 'ccw', 'engagement', 'representation', 'step', 'loader', 'characterize']
+['xsession', 'conviction', 'representation', 'cache', 'andafter', 'rob', 'justified', 'come', 'tracer', 'cor', 'priest', 'conscience', 'continued', 'boring', 'vw']
+['satanic', 'mug', 'conviction', 'ccw', 'careful', 'intelligent', 'cor', 'downward', 'characterize', 'inerrantist', 'aero', 'bentsen', 'confirmation', 'upcoming', 'motorcycle']
+['ccw', 'andafter', 'victoria', 'occupier', 'fli', 'tony', 'asleep', 'anderson', 'cache', 'continued', 'conviction', 'gnuplot', 'paycheck', 'nswc', 'step']
+['conviction', 'upcoming', 'knowwhat', 'cor', 'downward', 'andafter', 'twisted', 'occupier', 'class', 'power', 'lq', 'thex', 'tracer', 'soft', 'iftccu']
+['controversial', 'priest', 'anderson', 'xsession', 'boring', 'lq', 'disgust', 'finalize', 'pulldown', 'brutal', 'jim', 'conviction', 'twisted', 'class', 'symptom']
+['twisted', 'fast', 'finalize', 'paycheck', 'today', 'occupier', 'conviction', 'ethically', 'statue', 'cairo', 'transform', 'tracer', 'step', 'coffee', 'militarily']
+['twisted', 'andafter', 'occupier', 'motorcycle', 'censorship', 'mem', 'serialnumber', 'asleep', 'spline', 'hike', 'xsession', 'xputimage', 'fusi', 'boring', 'continued']
+['theway', 'xsession', 'xputimage', 'fast', 'conviction', 'cache', 'offset', 'waco', 'justified', 'continued', 'mem', 'ethically', 'militarily', 'procedure', 'andafter']
+['characterize', 'cor', 'iftccu', 'spline', 'finalize', 'erase', 'paycheck', 'fusi', 'unassisted', 'brutal', 'andafter', 'isaiah', 'stomp', 'responsiblefor', 'ccw']
+['rob', 'cairo', 'conviction', 'cache', 'winword', 'dick', 'fork', 'nickname', 'today', 'finalize', 'nswc', 'intelligent', 'hike', 'fusi', 'fast']
+['rob', 'ismore', 'xsession', 'cache', 'fast', 'theexistence', 'pulldown', 'correctly', 'cousineau', 'sticker', 'symptom', 'math', 'conviction', 'fusi', 'gsfc']
+['grab', 'paycheck', 'ccw', 'anderson', 'somekind', 'satanic', 'intelligent', 'confirmation', 'cor', 'tobe', 'occupier', 'cypherpunk', 'priest', 'downward', 'conviction']
+['erase', 'spelling', 'tobe', 'step', 'telephone', 'gravitational', 'characterize', 'fifth', 'qz', 'bentsen', 'commonly', 'spline', 'asleep', 'andafter', 'workstation']
+['tracer', 'andafter', 'finalize', 'class', 'loader', 'serialnumber', 'statue', 'stomp', 'inerrantist', 'hike', 'cor', 'blunder', 'continued', 'characterize', 'priest']
+['fast', 'continued', 'conviction', 'tobe', 'disgust', 'brutal', 'math', 'xputimage', 'finalize', 'xsession', 'sticker', 'ccw', 'ethically', 'pulldown', 'clean']
+['twisted', 'theway', 'tobe', 'occupation', 'characterize', 'reinforce', 'conviction', 'disclaim', 'inerrantist', 'fast', 'statue', 'ethically', 'winword', 'todod', 'hu']
+['conscience', 'unassisted', 'todod', 'cache', 'xputimage', 'justified', 'step', 'boring', 'reinforce', 'lq', 'ccw', 'clean', 'class', 'characterize', 'occupier']
+['nswc', 'unassisted', 'tobe', 'intelligent', 'twisted', 'conviction', 'boring', 'class', 'characterize', 'confirmation', 'grab', 'brutal', 'mug', 'censorship', 'fork']
+['step', 'satanic', 'tony', 'large', 'paycheck', 'andafter', 'erase', 'characterize', 'conviction', 'fork', 'somekind', 'twisted', 'gravitational', 'fast', 'shoulder']
+['class', 'twisted', 'conviction', 'gnuplot', 'cor', 'sco', 'commonly', 'occupier', 'tracer', 'fork', 'motorcycle', 'lq', 'xsession', 'knowwhat', 'asleep']
+['intelligent', 'fast', 'mpc', 'continued', 'large', 'conviction', 'loader', 'diamond', 'finalize', 'xputimage', 'soft', 'mortgage', 'thepuck', 'random', 'andafter']
+['waco', 'occupier', 'twisted', 'conviction', 'cache', 'characterize', 'mug', 'ccw', 'motorcycle', 'brutal', 'priest', 'commonly', 'inerrantist', 'refurbish', 'andafter']
+['cache', 'twisted', 'gnuplot', 'finalize', 'unassisted', 'xsession', 'boring', 'cairo', 'hike', 'conviction', 'nickname', 'power', 'come', 'fifth', 'waco']
+['anderson', 'occupier', 'twisted', 'spline', 'privately', 'andafter', 'tobe', 'hike', 'tracer', 'xputimage', 'grab', 'christy', 'mortgage', 'pipe', 'step']
+['priest', 'twisted', 'privately', 'favorable', 'theway', 'critique', 'fusi', 'feedback', 'downward', 'motorcycle', 'conviction', 'iftccu', 'hn', 'militarily', 'tobe']
+['conviction', 'trillion', 'expert', 'hike', 'spline', 'fast', 'endif', 'today', 'continued', 'fork', 'pipe', 'statue', 'occupier', 'ccw', 'downward']
+['sticker', 'ethically', 'xsession', 'characterize', 'diamond', 'cache', 'random', 'erase', 'andafter', 'important', 'gui', 'day', 'hike', 'andthey', 'spline']
+['cache', 'careful', 'paycheck', 'intelligent', 'nuclear', 'boring', 'fusi', 'winword', 'throughthe', 'intellectually', 'sura', 'inerrantist', 'today', 'downward', 'fifth']
+['xsession', 'cypherpunk', 'class', 'boring', 'ethically', 'cache', 'knowwhat', 'expert', 'brutal', 'justified', 'twisted', 'confirmation', 'finalize', 'clean', 'nuclear']
+['atlanta', 'xsession', 'twisted', 'erase', 'privately', 'cache', 'serialnumber', 'paycheck', 'critique', 'occupier', 'feedback', 'yogurt', 'thepuck', 'waco', 'statue']
+['twisted', 'power', 'intelligent', 'fast', 'workstation', 'occupier', 'makefile', 'diamond', 'andafter', 'ethically', 'nuclear', 'disgust', 'gui', 'thex', 'inerrantist']
+['workstation', 'twisted', 'mortgage', 'disgust', 'anal', 'theway', 'occupier', 'characterize', 'soft', 'class', 'aero', 'today', 'mug', 'iftccu', 'fast']
+['cache', 'serialnumber', 'inerrantist', 'paycheck', 'cousineau', 'grab', 'cor', 'diamond', 'power', 'duke', 'lq', 'bike', 'bolt', 'hike', 'conviction']
+['characterize', 'conscience', 'andafter', 'waco', 'twisted', 'inerrantist', 'hike', 'priest', 'coffee', 'fli', 'motorcycle', 'continued', 'hockey', 'nswc', 'tony']
+['satanic', 'occupier', 'primate', 'rebuilt', 'grab', 'gui', 'spelling', 'cache', 'fast', 'charcoal', 'tracer', 'knowwhat', 'symptom', 'twisted', 'step']
+['fast', 'tony', 'twisted', 'andafter', 'thecomputer', 'rob', 'privately', 'class', 'cache', 'todod', 'confirmation', 'gnuplot', 'mpc', 'toplay', 'responsiblefor']
+['class', 'conviction', 'occupier', 'brutal', 'todod', 'twisted', 'paycheck', 'finalize', 'priest', 'responsiblefor', 'refurbish', 'arrl', 'characterize', 'unassisted', 'large']
+['conviction', 'loader', 'engagement', 'step', 'brutal', 'class', 'twisted', 'theway', 'occupier', 'erase', 'grab', 'tony', 'makefile', 'politically', 'characterize']
+['andafter', 'unassisted', 'cache', 'erase', 'pulldown', 'cousineau', 'rob', 'isaiah', 'characterize', 'procedure', 'grab', 'anderson', 'brutal', 'cairo', 'conviction']
+['rob', 'occupier', 'fast', 'conviction', 'continued', 'reinforce', 'pulldown', 'nswc', 'cousineau', 'thepuck', 'fork', 'twisted', 'tracer', 'paycheck', 'overrated']
+['intelligent', 'gui', 'intellectually', 'cache', 'sura', 'xsession', 'nswc', 'occupier', 'isaiah', 'serialnumber', 'statue', 'conviction', 'erase', 'andthey', 'winword']
+['transform', 'continued', 'bolt', 'xsession', 'rob', 'occupier', 'mem', 'trillion', 'characterize', 'makefile', 'deficit', 'hike', 'somekind', 'careful', 'nswc']
+['intelligent', 'paycheck', 'tracer', 'continued', 'twisted', 'cache', 'erase', 'pulldown', 'motorcycle', 'conviction', 'class', 'large', 'occupier', 'transform', 'responsiblefor']
+['conviction', 'cypherpunk', 'priest', 'tracer', 'soft', 'rebuttal', 'andafter', 'winword', 'occupier', 'cache', 'come', 'atlanta', 'motorcycle', 'twisted', 'nuclear']
+['nuclear', 'mpc', 'class', 'continued', 'downward', 'loader', 'serialnumber', 'bentsen', 'cache', 'grandiose', 'motorcycle', 'upcoming', 'dick', 'todod', 'pulldown']
+['conviction', 'fusi', 'intelligent', 'power', 'continued', 'hu', 'hike', 'aero', 'occupier', 'ccw', 'cor', 'tracer', 'arrl', 'endif', 'brutal']
+['tobe', 'cache', 'paycheck', 'controversial', 'andafter', 'erase', 'arrl', 'tracer', 'xsession', 'nickname', 'twisted', 'fast', 'throughthe', 'mug', 'finalize']
+['conviction', 'hu', 'bentsen', 'occupier', 'inerrantist', 'theback', 'grab', 'class', 'symptom', 'paycheck', 'procedure', 'migraine', 'dick', 'clean', 'arrl']
+['class', 'diamond', 'occupier', 'inerrantist', 'rob', 'boston', 'continued', 'gsfc', 'conviction', 'important', 'ccw', 'twisted', 'paraphrase', 'mpc', 'overrated']
+['waco', 'ethically', 'xputimage', 'cor', 'confirmation', 'responsiblefor', 'distruction', 'conviction', 'ramble', 'rob', 'finalize', 'brutal', 'mug', 'seemsthat', 'controversial']
+['occupier', 'overrated', 'waco', 'class', 'tracer', 'throughthe', 'twisted', 'andafter', 'justified', 'come', 'isaiah', 'privately', 'power', 'theway', 'fusi']
+['twisted', 'cousineau', 'downward', 'unassisted', 'gui', 'come', 'andafter', 'ccw', 'characterize', 'cache', 'pulldown', 'somekind', 'fast', 'large', 'justified']
+['tobe', 'responsiblefor', 'spline', 'twisted', 'nt', 'incur', 'fast', 'downward', 'conscience', 'xsession', 'tony', 'ethically', 'characterize', 'anderson', 'controversial']
+['tony', 'continued', 'class', 'occupier', 'andafter', 'upcoming', 'intelligent', 'privately', 'responsiblefor', 'lar', 'knowwhat', 'nickname', 'nuclear', 'cordially', 'come']
+['hu', 'cache', 'tobe', 'waco', 'andafter', 'motorcycle', 'large', 'twisted', 'representation', 'paycheck', 'conviction', 'incur', 'disgust', 'isaiah', 'ethically']
+['motorcycle', 'coffee', 'nswc', 'overrated', 'conviction', 'baud', 'cairo', 'andafter', 'statue', 'paycheck', 'continued', 'random', 'serialnumber', 'fast', 'christy']
+['upcoming', 'intelligent', 'inerrantist', 'andafter', 'statue', 'hike', 'todod', 'rebuilt', 'characterize', 'intellectually', 'twisted', 'erase', 'priest', 'correctly', 'class']
+['fork', 'step', 'ccw', 'intelligent', 'isaiah', 'erase', 'class', 'conviction', 'andthey', 'xsession', 'conscience', 'anderson', 'careful', 'johansson', 'statue']
+['characterize', 'militarily', 'ccw', 'andafter', 'anderson', 'downward', 'critique', 'finalize', 'math', 'nswc', 'stomp', 'xsession', 'ethically', 'fli', 'fusi']
+['ccw', 'paycheck', 'inerrantist', 'cor', 'mpc', 'erase', 'clean', 'rob', 'fork', 'nuclear', 'conviction', 'loader', 'coin', 'brutal', 'bentsen']
+['grab', 'come', 'hike', 'todod', 'intelligent', 'gravitational', 'finalize', 'paycheck', 'soft', 'theway', 'engagement', 'downward', 'pipe', 'thecomputer', 'sox']
+['fast', 'nswc', 'intelligent', 'andafter', 'downward', 'isaiah', 'grab', 'winword', 'nickname', 'ethically', 'characterize', 'conviction', 'twisted', 'privately', 'pipe']
+['tracer', 'toplay', 'rob', 'throughthe', 'ccw', 'andafter', 'iftccu', 'cypherpunk', 'coffee', 'twisted', 'cousineau', 'todod', 'priest', 'soar', 'cor']
+['twisted', 'ccw', 'fast', 'priest', 'gui', 'waco', 'andafter', 'grab', 'power', 'rob', 'theissue', 'come', 'toplay', 'characterize', 'bentsen']
+['conviction', 'ccw', 'fast', 'vw', 'andafter', 'theexistence', 'ethically', 'clean', 'come', 'anderson', 'satanic', 'governmental', 'xputimage', 'characterize', 'class']
+['occupier', 'clean', 'conscience', 'gnuplot', 'thecomputer', 'inerrantist', 'militarily', 'step', 'characterize', 'gui', 'thepuck', 'cache', 'cousineau', 'tracer', 'aero']
+['math', 'mug', 'overrated', 'cache', 'vw', 'conscience', 'bentsen', 'fast', 'thepuck', 'boring', 'militarily', 'power', 'cor', 'conviction', 'specific']
+['conviction', 'twisted', 'class', 'paycheck', 'fast', 'xsession', 'educator', 'tony', 'throughthe', 'characterize', 'waco', 'satanic', 'andthey', 'fli', 'asleep']
+['twisted', 'reinforce', 'privately', 'statue', 'conviction', 'fork', 'brutal', 'confirmation', 'clean', 'andafter', 'continued', 'knowlege', 'conscience', 'iftccu', 'cairo']
+['gnuplot', 'continued', 'ethically', 'serialnumber', 'clean', 'sox', 'waco', 'cache', 'finalize', 'careful', 'brutal', 'transform', 'torrance', 'andafter', 'winword']
+['engagement', 'conviction', 'andthey', 'occupier', 'makefile', 'diamond', 'class', 'reinforce', 'primate', 'today', 'theological', 'bow', 'gui', 'isaiah', 'theway']
+['occupier', 'nuclear', 'math', 'fli', 'conviction', 'andafter', 'waco', 'conscience', 'ccw', 'charcoal', 'today', 'fast', 'asia', 'continued', 'come']
+['fast', 'twisted', 'class', 'come', 'responsiblefor', 'anderson', 'conscience', 'serialnumber', 'reinforce', 'cache', 'statue', 'xputimage', 'pleasesend', 'cor', 'grab']
+['careful', 'andafter', 'rebuttal', 'class', 'characteristic', 'clean', 'occupier', 'twisted', 'continued', 'conviction', 'sig', 'mug', 'reinforce', 'spline', 'engagement']
+['conviction', 'boring', 'confirmation', 'tracer', 'tony', 'rob', 'militarily', 'ccw', 'mississippi', 'seemsthat', 'pulldown', 'step', 'conscience', 'responsiblefor', 'brutal']
+['inerrantist', 'commonly', 'continued', 'critique', 'paycheck', 'occupation', 'clean', 'conviction', 'erase', 'anderson', 'asleep', 'pipe', 'pulldown', 'disgust', 'boston']
+['gnuplot', 'inerrantist', 'gravitational', 'twisted', 'unassisted', 'cache', 'charcoal', 'step', 'privately', 'fast', 'ccw', 'xputimage', 'mortgage', 'thepuck', 'lq']
+['mpc', 'statue', 'controversial', 'thecomputer', 'commonly', 'paycheck', 'serialnumber', 'waco', 'continued', 'jayson', 'fast', 'math', 'clean', 'anderson', 'baud']
+['xsession', 'representation', 'throughthe', 'fast', 'tobe', 'occupier', 'inerrantist', 'conviction', 'pulldown', 'andafter', 'characterize', 'commonly', 'ethically', 'xputimage', 'duke']
+['class', 'ethically', 'isaiah', 'fork', 'occupier', 'todod', 'gnuplot', 'serialnumber', 'continued', 'twisted', 'cache', 'commonly', 'waco', 'cor', 'conviction']
+['satanic', 'waco', 'conviction', 'winword', 'cor', 'fast', 'fork', 'paycheck', 'andafter', 'confirmation', 'xputimage', 'hockey', 'pipe', 'toplay', 'grab']
+['conviction', 'come', 'thepuck', 'fast', 'paycheck', 'pulldown', 'andthey', 'theway', 'arrl', 'occupier', 'ccw', 'ismore', 'cache', 'retired', 'gnuplot']
+['inerrantist', 'mortgage', 'spline', 'erase', 'come', 'critique', 'knowwhat', 'winword', 'continued', 'tracer', 'todod', 'mem', 'throughthe', 'nswc', 'protective']
+['class', 'nswc', 'todod', 'xsession', 'charcoal', 'conviction', 'motorcycle', 'tandy', 'representation', 'today', 'step', 'characterize', 'gsfc', 'paycheck', 'inerrantist']
+['conscience', 'erase', 'cor', 'coffee', 'class', 'intelligent', 'somekind', 'stomp', 'isaiah', 'motorcycle', 'hu', 'hn', 'table', 'twisted', 'sticker']
+['confirmation', 'nswc', 'occupier', 'tracer', 'winword', 'tony', 'scheme', 'twisted', 'xsession', 'inventory', 'waco', 'overrated', 'duke', 'somekind', 'deficit']
+['paycheck', 'inerrantist', 'class', 'mug', 'satanic', 'fifth', 'conviction', 'rob', 'conscience', 'characterize', 'ethically', 'twisted', 'tracer', 'fast', 'hereto']
+['representation', 'cache', 'coffee', 'cor', 'lq', 'mem', 'isaiah', 'statue', 'anderson', 'spline', 'inerrantist', 'nswc', 'conviction', 'paycheck', 'anytime']
+['step', 'gsfc', 'nswc', 'anderson', 'responsiblefor', 'large', 'conviction', 'brutal', 'scheme', 'anytime', 'come', 'hike', 'tony', 'motorcycle', 'ethically']
+['tobe', 'tony', 'critique', 'knowwhat', 'erase', 'isaiah', 'characterize', 'duke', 'fork', 'refurbish', 'fast', 'unassisted', 'anderson', 'motorcycle', 'grab']
+['occupier', 'controversial', 'fast', 'dick', 'unassisted', 'arrl', 'inerrantist', 'class', 'conviction', 'responsiblefor', 'xputimage', 'cache', 'theexistence', 'cairo', 'symptom']
+==============================
+topic diversity:0.13
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.643604636706057, c_w2v:None, c_uci:-10.012177562314253, c_npmi:-0.3591428974980684
+mimno topic coherence:-225.8429582029384
+Epoch  91	Iter    1	Loss_D:-0.1019355	Loss_G:7.0433187	loss_E:0.0385095
+Epoch  91	Iter   11	Loss_D:-0.1054697	Loss_G:6.8542552	loss_E:0.0421698
+Epoch  91	Iter   21	Loss_D:-0.1039971	Loss_G:6.6689014	loss_E:0.0404929
+Epoch  92	Iter    1	Loss_D:-0.1049190	Loss_G:6.4880314	loss_E:0.0416682
+Epoch  92	Iter   11	Loss_D:-0.1034249	Loss_G:6.3106203	loss_E:0.0404971
+Epoch  92	Iter   21	Loss_D:-0.1041389	Loss_G:6.1394897	loss_E:0.0412079
+Epoch  93	Iter    1	Loss_D:-0.1074352	Loss_G:5.9715433	loss_E:0.0444087
+Epoch  93	Iter   11	Loss_D:-0.1042112	Loss_G:5.8080206	loss_E:0.0414317
+Epoch  93	Iter   21	Loss_D:-0.1029396	Loss_G:5.6489410	loss_E:0.0400513
+Epoch  94	Iter    1	Loss_D:-0.1019630	Loss_G:5.4949093	loss_E:0.0393388
+Epoch  94	Iter   11	Loss_D:-0.1031092	Loss_G:5.3444586	loss_E:0.0399844
+Epoch  94	Iter   21	Loss_D:-0.1051035	Loss_G:5.1987433	loss_E:0.0421004
+Epoch  95	Iter    1	Loss_D:-0.1035695	Loss_G:5.0571322	loss_E:0.0405524
+Epoch  95	Iter   11	Loss_D:-0.1050865	Loss_G:4.9205461	loss_E:0.0421930
+Epoch  95	Iter   21	Loss_D:-0.1037513	Loss_G:4.7876215	loss_E:0.0406244
+Epoch  96	Iter    1	Loss_D:-0.1022129	Loss_G:4.6593151	loss_E:0.0392109
+Epoch  96	Iter   11	Loss_D:-0.1032818	Loss_G:4.5343690	loss_E:0.0405869
+Epoch  96	Iter   21	Loss_D:-0.1060430	Loss_G:4.4158630	loss_E:0.0431063
+Epoch  97	Iter    1	Loss_D:-0.1037688	Loss_G:4.3002467	loss_E:0.0409074
+Epoch  97	Iter   11	Loss_D:-0.1076702	Loss_G:4.1897850	loss_E:0.0445529
+Epoch  97	Iter   21	Loss_D:-0.1029645	Loss_G:4.0832691	loss_E:0.0396461
+Epoch  98	Iter    1	Loss_D:-0.1042057	Loss_G:3.9813676	loss_E:0.0413788
+Epoch  98	Iter   11	Loss_D:-0.1052994	Loss_G:3.8829746	loss_E:0.0423191
+Epoch  98	Iter   21	Loss_D:-0.1063266	Loss_G:3.7899899	loss_E:0.0432679
+Epoch  99	Iter    1	Loss_D:-0.1054734	Loss_G:3.7008207	loss_E:0.0423776
+Epoch  99	Iter   11	Loss_D:-0.1030937	Loss_G:3.6167045	loss_E:0.0401064
+Epoch  99	Iter   21	Loss_D:-0.1050689	Loss_G:3.5358603	loss_E:0.0422520
+Epoch 100	Iter    1	Loss_D:-0.1052563	Loss_G:3.4602501	loss_E:0.0422802
+Epoch 100	Iter   11	Loss_D:-0.1043712	Loss_G:3.3878603	loss_E:0.0415206
+Epoch 100	Iter   21	Loss_D:-0.1040656	Loss_G:3.3212025	loss_E:0.0414897
+Epoch 100	Loss_D_avg:-0.0997268	Loss_G_avg:78.2417579	loss_E_avg:0.0393421
+['step', 'reinforce', 'makefile', 'brutal', 'conscience', 'waco', 'xputimage', 'tobe', 'cousineau', 'tracer', 'recently', 'serialnumber', 'paycheck', 'thepuck', 'downward']
+['conviction', 'reinforce', 'cache', 'nuclear', 'brutal', 'motorcycle', 'winword', 'waco', 'recently', 'inerrantist', 'confirmation', 'paycheck', 'anderson', 'pulldown', 'serialnumber']
+['step', 'makefile', 'xputimage', 'conviction', 'aero', 'reinforce', 'waco', 'nuclear', 'downward', 'winword', 'inerrantist', 'conscience', 'recently', 'fifth', 'andafter']
+['brutal', 'step', 'xputimage', 'somekind', 'unassisted', 'motorcycle', 'reinforce', 'diamond', 'makefile', 'conviction', 'fifth', 'class', 'serialnumber', 'recently', 'dick']
+['reinforce', 'makefile', 'cache', 'conviction', 'brutal', 'come', 'gsfc', 'winword', 'diamond', 'conscience', 'step', 'unassisted', 'thepuck', 'downward', 'recently']
+['waco', 'somekind', 'tracer', 'xputimage', 'downward', 'recently', 'class', 'winword', 'come', 'makefile', 'motorcycle', 'unassisted', 'brutal', 'confirmation', 'fifth']
+['waco', 'winword', 'paycheck', 'step', 'motorcycle', 'come', 'fifth', 'recently', 'fast', 'brutal', 'unassisted', 'confirmation', 'cache', 'somekind', 'thepuck']
+['conviction', 'winword', 'come', 'somekind', 'brutal', 'reinforce', 'xputimage', 'pulldown', 'serialnumber', 'inerrantist', 'motorcycle', 'tracer', 'tobe', 'waco', 'downward']
+['conscience', 'winword', 'step', 'conviction', 'paycheck', 'waco', 'cousineau', 'reinforce', 'xputimage', 'come', 'cache', 'motorcycle', 'somekind', 'brutal', 'anderson']
+['conscience', 'step', 'conviction', 'tracer', 'brutal', 'tobe', 'unassisted', 'cache', 'xputimage', 'winword', 'reinforce', 'fifth', 'waco', 'rob', 'motorcycle']
+['inerrantist', 'downward', 'tobe', 'conviction', 'recently', 'unassisted', 'motorcycle', 'nuclear', 'aero', 'winword', 'pulldown', 'brutal', 'waco', 'makefile', 'confirmation']
+['waco', 'conscience', 'tobe', 'reinforce', 'somekind', 'step', 'winword', 'inerrantist', 'conviction', 'makefile', 'cache', 'nuclear', 'recently', 'unassisted', 'anderson']
+['reinforce', 'recently', 'winword', 'waco', 'nuclear', 'xputimage', 'tobe', 'tracer', 'conscience', 'downward', 'come', 'inerrantist', 'conviction', 'paycheck', 'class']
+['unassisted', 'conscience', 'anderson', 'brutal', 'somekind', 'step', 'conviction', 'motorcycle', 'controversial', 'class', 'recently', 'downward', 'winword', 'come', 'cache']
+['conviction', 'winword', 'diamond', 'tracer', 'step', 'come', 'paycheck', 'waco', 'thepuck', 'conscience', 'nuclear', 'motorcycle', 'pulldown', 'serialnumber', 'fifth']
+['reinforce', 'conviction', 'motorcycle', 'confirmation', 'cache', 'serialnumber', 'xputimage', 'spline', 'step', 'unassisted', 'dick', 'brutal', 'winword', 'inerrantist', 'nuclear']
+['cache', 'waco', 'conviction', 'step', 'paycheck', 'xputimage', 'brutal', 'xsession', 'tobe', 'makefile', 'winword', 'pulldown', 'thepuck', 'fast', 'christy']
+['waco', 'unassisted', 'tobe', 'diamond', 'winword', 'iftccu', 'confirmation', 'step', 'makefile', 'downward', 'brutal', 'motorcycle', 'spline', 'paycheck', 'conviction']
+['conviction', 'step', 'winword', 'cache', 'nuclear', 'conscience', 'motorcycle', 'brutal', 'pulldown', 'dick', 'inerrantist', 'reinforce', 'paycheck', 'rob', 'cousineau']
+['pulldown', 'cache', 'waco', 'symptom', 'cousineau', 'winword', 'step', 'recently', 'reinforce', 'inerrantist', 'rob', 'tracer', 'somekind', 'confirmation', 'unassisted']
+['recently', 'somekind', 'winword', 'confirmation', 'tobe', 'paycheck', 'step', 'conviction', 'anderson', 'sticker', 'downward', 'conscience', 'cache', 'cousineau', 'tracer']
+['conscience', 'tracer', 'fifth', 'brutal', 'tobe', 'cache', 'winword', 'somekind', 'motorcycle', 'inerrantist', 'xputimage', 'step', 'nuclear', 'confirmation', 'cousineau']
+['inerrantist', 'tracer', 'recently', 'tobe', 'serialnumber', 'winword', 'nuclear', 'class', 'fifth', 'xputimage', 'reinforce', 'come', 'stomp', 'andafter', 'conviction']
+['waco', 'brutal', 'inerrantist', 'conviction', 'clean', 'xputimage', 'thepuck', 'tobe', 'winword', 'step', 'cache', 'diamond', 'conscience', 'tracer', 'unassisted']
+['reinforce', 'winword', 'makefile', 'waco', 'inerrantist', 'somekind', 'tobe', 'gsfc', 'step', 'motorcycle', 'cache', 'conscience', 'dick', 'aero', 'nuclear']
+['unassisted', 'conscience', 'reinforce', 'cache', 'step', 'conviction', 'brutal', 'waco', 'christy', 'serialnumber', 'xputimage', 'paycheck', 'fifth', 'nuclear', 'downward']
+['tobe', 'brutal', 'conviction', 'nuclear', 'confirmation', 'reinforce', 'unassisted', 'conscience', 'diamond', 'thepuck', 'downward', 'waco', 'clean', 'somekind', 'inerrantist']
+['waco', 'conviction', 'step', 'somekind', 'serialnumber', 'fifth', 'mpc', 'inerrantist', 'conscience', 'winword', 'large', 'tracer', 'paycheck', 'satanic', 'recently']
+['reinforce', 'tracer', 'winword', 'waco', 'step', 'class', 'recently', 'conviction', 'tobe', 'makefile', 'paycheck', 'mpc', 'diamond', 'fifth', 'dick']
+['xputimage', 'winword', 'nuclear', 'recently', 'somekind', 'cache', 'inerrantist', 'reinforce', 'mpc', 'cousineau', 'motorcycle', 'conviction', 'come', 'engagement', 'waco']
+['waco', 'cache', 'winword', 'step', 'motorcycle', 'brutal', 'inerrantist', 'nuclear', 'gsfc', 'come', 'makefile', 'tobe', 'reinforce', 'christy', 'conviction']
+['waco', 'unassisted', 'cache', 'reinforce', 'fifth', 'winword', 'conviction', 'somekind', 'come', 'upcoming', 'paycheck', 'makefile', 'xputimage', 'recently', 'aero']
+['reinforce', 'waco', 'tobe', 'xputimage', 'recently', 'inerrantist', 'brutal', 'anderson', 'makefile', 'step', 'christy', 'fork', 'spline', 'serialnumber', 'fifth']
+['winword', 'conviction', 'step', 'cache', 'dick', 'waco', 'nuclear', 'reinforce', 'tobe', 'downward', 'motorcycle', 'upcoming', 'pulldown', 'recently', 'xputimage']
+['motorcycle', 'conviction', 'reinforce', 'conscience', 'unassisted', 'apparently', 'brutal', 'tracer', 'anderson', 'winword', 'step', 'nuclear', 'mpc', 'inerrantist', 'fast']
+['cache', 'winword', 'nuclear', 'motorcycle', 'diamond', 'conviction', 'cousineau', 'reinforce', 'recently', 'tobe', 'dick', 'representation', 'xputimage', 'inerrantist', 'serialnumber']
+['nuclear', 'winword', 'recently', 'reinforce', 'cache', 'downward', 'anderson', 'inerrantist', 'somekind', 'xputimage', 'step', 'paycheck', 'fifth', 'tracer', 'brutal']
+['nuclear', 'cache', 'winword', 'inerrantist', 'waco', 'christy', 'satanic', 'unassisted', 'conviction', 'brutal', 'xputimage', 'tobe', 'tracer', 'makefile', 'reinforce']
+['waco', 'cache', 'winword', 'tobe', 'conscience', 'reinforce', 'motorcycle', 'conviction', 'cousineau', 'nuclear', 'tracer', 'paycheck', 'makefile', 'thepuck', 'fifth']
+['fast', 'diamond', 'conscience', 'makefile', 'xputimage', 'motorcycle', 'waco', 'recently', 'cache', 'inerrantist', 'nuclear', 'clean', 'step', 'twisted', 'somekind']
+['winword', 'cousineau', 'inerrantist', 'reinforce', 'aero', 'brutal', 'somekind', 'unassisted', 'recently', 'christy', 'iftccu', 'cache', 'waco', 'conscience', 'thepuck']
+['inerrantist', 'cache', 'winword', 'diamond', 'conscience', 'serialnumber', 'reinforce', 'conviction', 'fifth', 'thepuck', 'cousineau', 'xputimage', 'tracer', 'step', 'power']
+['waco', 'conscience', 'motorcycle', 'inerrantist', 'cache', 'come', 'tobe', 'conviction', 'diamond', 'reinforce', 'winword', 'nuclear', 'anderson', 'fifth', 'large']
+['satanic', 'cache', 'unassisted', 'inerrantist', 'tracer', 'conscience', 'symptom', 'recently', 'primate', 'conviction', 'waco', 'confirmation', 'diamond', 'brutal', 'clean']
+['fast', 'recently', 'winword', 'waco', 'step', 'cache', 'motorcycle', 'nuclear', 'confirmation', 'paycheck', 'fork', 'tracer', 'conviction', 'xputimage', 'andafter']
+['conviction', 'tobe', 'step', 'reinforce', 'waco', 'brutal', 'confirmation', 'somekind', 'pulldown', 'large', 'unassisted', 'winword', 'conscience', 'aero', 'symptom']
+['winword', 'brutal', 'nuclear', 'conviction', 'waco', 'step', 'paycheck', 'tobe', 'fifth', 'unassisted', 'class', 'dick', 'inerrantist', 'engagement', 'makefile']
+['unassisted', 'brutal', 'inerrantist', 'conviction', 'waco', 'cousineau', 'makefile', 'iftccu', 'recently', 'pulldown', 'winword', 'cache', 'anderson', 'nuclear', 'somekind']
+['reinforce', 'recently', 'conviction', 'motorcycle', 'cousineau', 'tracer', 'thepuck', 'rob', 'xputimage', 'cache', 'tobe', 'pulldown', 'conscience', 'paycheck', 'waco']
+['conscience', 'inerrantist', 'cache', 'step', 'winword', 'recently', 'waco', 'xputimage', 'cousineau', 'reinforce', 'serialnumber', 'confirmation', 'tracer', 'brutal', 'pulldown']
+['cache', 'makefile', 'somekind', 'conscience', 'waco', 'christy', 'winword', 'conviction', 'pulldown', 'step', 'power', 'recently', 'upcoming', 'inerrantist', 'tobe']
+['paycheck', 'tracer', 'winword', 'cousineau', 'somekind', 'cache', 'conviction', 'motorcycle', 'symptom', 'pulldown', 'class', 'large', 'brutal', 'downward', 'twisted']
+['waco', 'winword', 'cache', 'conviction', 'come', 'tracer', 'step', 'somekind', 'nuclear', 'brutal', 'conscience', 'confirmation', 'recently', 'representation', 'inerrantist']
+['tobe', 'motorcycle', 'winword', 'nuclear', 'downward', 'brutal', 'reinforce', 'inerrantist', 'cache', 'paycheck', 'fifth', 'mpc', 'cousineau', 'makefile', 'tracer']
+['reinforce', 'conviction', 'cache', 'conscience', 'tracer', 'inerrantist', 'motorcycle', 'paycheck', 'winword', 'brutal', 'power', 'confirmation', 'waco', 'torrance', 'aero']
+['tobe', 'cache', 'conscience', 'tracer', 'reinforce', 'paycheck', 'makefile', 'diamond', 'controversial', 'inerrantist', 'fifth', 'recently', 'winword', 'clean', 'step']
+['winword', 'inerrantist', 'waco', 'nuclear', 'come', 'dick', 'motorcycle', 'conviction', 'step', 'class', 'symptom', 'paycheck', 'reinforce', 'cache', 'recently']
+['downward', 'class', 'makefile', 'diamond', 'winword', 'gsfc', 'xputimage', 'rob', 'clean', 'step', 'representation', 'reinforce', 'thepuck', 'cache', 'inerrantist']
+['waco', 'xputimage', 'recently', 'conscience', 'winword', 'confirmation', 'reinforce', 'brutal', 'fifth', 'inerrantist', 'tobe', 'aero', 'unassisted', 'nuclear', 'step']
+['waco', 'conscience', 'tobe', 'brutal', 'winword', 'recently', 'come', 'tracer', 'conviction', 'anderson', 'reinforce', 'xputimage', 'pulldown', 'somekind', 'step']
+['reinforce', 'somekind', 'xputimage', 'nuclear', 'cousineau', 'cache', 'step', 'twisted', 'downward', 'unassisted', 'come', 'motorcycle', 'waco', 'brutal', 'recently']
+['waco', 'tobe', 'winword', 'reinforce', 'step', 'downward', 'brutal', 'makefile', 'nuclear', 'cache', 'unassisted', 'come', 'controversial', 'christy', 'serialnumber']
+['come', 'xputimage', 'somekind', 'winword', 'reinforce', 'class', 'conscience', 'tracer', 'nuclear', 'step', 'dick', 'recently', 'upcoming', 'inerrantist', 'conviction']
+['tobe', 'waco', 'motorcycle', 'conscience', 'conviction', 'step', 'cache', 'brutal', 'recently', 'representation', 'large', 'paycheck', 'downward', 'inerrantist', 'xputimage']
+['step', 'recently', 'confirmation', 'waco', 'winword', 'tobe', 'motorcycle', 'conviction', 'serialnumber', 'tracer', 'conscience', 'downward', 'somekind', 'representation', 'overrated']
+['cache', 'inerrantist', 'tobe', 'reinforce', 'step', 'upcoming', 'conscience', 'tracer', 'winword', 'waco', 'xputimage', 'large', 'engagement', 'nuclear', 'class']
+['conscience', 'step', 'nuclear', 'conviction', 'tobe', 'waco', 'motorcycle', 'downward', 'reinforce', 'winword', 'xputimage', 'come', 'tracer', 'brutal', 'fork']
+['recently', 'waco', 'cache', 'reinforce', 'nuclear', 'somekind', 'anderson', 'xputimage', 'christy', 'andafter', 'unassisted', 'cousineau', 'conviction', 'downward', 'large']
+['paycheck', 'inerrantist', 'tobe', 'winword', 'brutal', 'come', 'conviction', 'waco', 'nuclear', 'xputimage', 'thepuck', 'cache', 'large', 'makefile', 'motorcycle']
+['come', 'reinforce', 'winword', 'xputimage', 'step', 'brutal', 'downward', 'makefile', 'conscience', 'recently', 'tracer', 'paycheck', 'nuclear', 'cache', 'motorcycle']
+['winword', 'waco', 'step', 'conscience', 'confirmation', 'motorcycle', 'downward', 'andafter', 'class', 'inerrantist', 'fifth', 'paycheck', 'anderson', 'cousineau', 'reinforce']
+['tracer', 'tobe', 'iftccu', 'brutal', 'cousineau', 'waco', 'inerrantist', 'unassisted', 'engagement', 'somekind', 'winword', 'thepuck', 'pulldown', 'motorcycle', 'toplay']
+['waco', 'step', 'reinforce', 'come', 'conviction', 'cache', 'winword', 'makefile', 'recently', 'xputimage', 'brutal', 'downward', 'anderson', 'diamond', 'nuclear']
+['conviction', 'waco', 'reinforce', 'tobe', 'xputimage', 'diamond', 'cache', 'conscience', 'recently', 'winword', 'step', 'come', 'inerrantist', 'ccw', 'tracer']
+['step', 'conscience', 'inerrantist', 'clean', 'winword', 'nuclear', 'waco', 'tracer', 'rob', 'thepuck', 'cache', 'dick', 'anderson', 'come', 'cousineau']
+['cache', 'reinforce', 'recently', 'waco', 'conscience', 'unassisted', 'conviction', 'step', 'somekind', 'thepuck', 'fast', 'motorcycle', 'dick', 'clean', 'inerrantist']
+['winword', 'waco', 'xputimage', 'step', 'recently', 'twisted', 'satanic', 'cache', 'conviction', 'rob', 'tracer', 'reinforce', 'unassisted', 'motorcycle', 'somekind']
+['reinforce', 'brutal', 'winword', 'waco', 'xputimage', 'confirmation', 'conscience', 'step', 'diamond', 'serialnumber', 'clean', 'conviction', 'pulldown', 'large', 'symptom']
+['cache', 'waco', 'winword', 'serialnumber', 'brutal', 'conviction', 'fifth', 'step', 'downward', 'clean', 'motorcycle', 'tobe', 'conscience', 'reinforce', 'nuclear']
+['reinforce', 'nuclear', 'winword', 'recently', 'conscience', 'conviction', 'diamond', 'somekind', 'waco', 'large', 'brutal', 'step', 'christy', 'class', 'unassisted']
+['winword', 'recently', 'conscience', 'fli', 'nuclear', 'downward', 'symptom', 'tracer', 'conviction', 'step', 'inerrantist', 'come', 'tobe', 'waco', 'cache']
+['waco', 'reinforce', 'serialnumber', 'conscience', 'cache', 'come', 'recently', 'class', 'xputimage', 'confirmation', 'fast', 'brutal', 'step', 'dick', 'diamond']
+['reinforce', 'tobe', 'nuclear', 'waco', 'conviction', 'xputimage', 'clean', 'tracer', 'diamond', 'thepuck', 'recently', 'conscience', 'step', 'fifth', 'motorcycle']
+['conviction', 'step', 'conscience', 'pulldown', 'confirmation', 'brutal', 'winword', 'somekind', 'waco', 'fifth', 'xputimage', 'motorcycle', 'unassisted', 'thepuck', 'anderson']
+['inerrantist', 'reinforce', 'xputimage', 'pulldown', 'waco', 'recently', 'anderson', 'confirmation', 'clean', 'winword', 'conviction', 'thepuck', 'downward', 'paycheck', 'motorcycle']
+['reinforce', 'inerrantist', 'xputimage', 'unassisted', 'brutal', 'winword', 'step', 'somekind', 'cache', 'fifth', 'waco', 'conscience', 'thepuck', 'tracer', 'cousineau']
+['waco', 'controversial', 'conscience', 'anderson', 'fast', 'tobe', 'serialnumber', 'step', 'inerrantist', 'tracer', 'paycheck', 'clean', 'makefile', 'brutal', 'conviction']
+['xputimage', 'nuclear', 'reinforce', 'makefile', 'winword', 'inerrantist', 'tobe', 'cousineau', 'brutal', 'pulldown', 'spline', 'conviction', 'shear', 'aero', 'fifth']
+['winword', 'nuclear', 'class', 'waco', 'cache', 'makefile', 'conviction', 'fork', 'inerrantist', 'xputimage', 'serialnumber', 'tobe', 'reinforce', 'fifth', 'pulldown']
+['waco', 'conviction', 'tracer', 'paycheck', 'xputimage', 'winword', 'recently', 'fifth', 'fork', 'satanic', 'makefile', 'confirmation', 'inerrantist', 'tobe', 'serialnumber']
+['tobe', 'step', 'conviction', 'xputimage', 'nuclear', 'paycheck', 'winword', 'tracer', 'come', 'pulldown', 'recently', 'controversial', 'conscience', 'cache', 'thepuck']
+['conviction', 'diamond', 'inerrantist', 'waco', 'cache', 'winword', 'cousineau', 'tracer', 'xputimage', 'brutal', 'nuclear', 'anderson', 'come', 'unassisted', 'reinforce']
+['waco', 'class', 'step', 'motorcycle', 'conviction', 'inerrantist', 'downward', 'winword', 'thepuck', 'recently', 'xputimage', 'somekind', 'fifth', 'unassisted', 'symptom']
+['conscience', 'motorcycle', 'recently', 'tracer', 'somekind', 'reinforce', 'xputimage', 'waco', 'paycheck', 'diamond', 'inerrantist', 'pulldown', 'aero', 'makefile', 'winword']
+['winword', 'conscience', 'somekind', 'waco', 'step', 'xputimage', 'unassisted', 'tracer', 'aero', 'tobe', 'come', 'confirmation', 'reinforce', 'recently', 'inerrantist']
+['conscience', 'waco', 'tracer', 'step', 'winword', 'inerrantist', 'come', 'fifth', 'xputimage', 'paycheck', 'controversial', 'cousineau', 'somekind', 'downward', 'cache']
+['cache', 'representation', 'winword', 'inerrantist', 'fifth', 'recently', 'motorcycle', 'tobe', 'brutal', 'unassisted', 'somekind', 'thepuck', 'conviction', 'tracer', 'step']
+['step', 'motorcycle', 'come', 'gsfc', 'brutal', 'recently', 'downward', 'nuclear', 'inerrantist', 'makefile', 'diamond', 'unassisted', 'tobe', 'fifth', 'conviction']
+['tobe', 'reinforce', 'conviction', 'motorcycle', 'xputimage', 'makefile', 'winword', 'unassisted', 'waco', 'cache', 'tracer', 'serialnumber', 'large', 'conscience', 'inerrantist']
+['dick', 'winword', 'fifth', 'xputimage', 'step', 'conscience', 'brutal', 'inerrantist', 'recently', 'conviction', 'unassisted', 'controversial', 'cache', 'symptom', 'waco']
+==============================
+topic diversity:0.04133333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6144066436618965, c_w2v:None, c_uci:-10.22594917460273, c_npmi:-0.36653264818227277
+mimno topic coherence:-231.95199874109989
+topic diversity:0.04133333333333333
+Training a word2vec model  epochs to evaluate topic coherence, this may take a few minutes ...
+__init__() got an unexpected keyword argument 'size'
+c_v:0.6144066436618965, c_w2v:None, c_uci:-10.22594917460273, c_npmi:-0.36653264818227277
+mimno topic coherence:-231.95199874109989
